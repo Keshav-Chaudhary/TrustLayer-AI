@@ -1,0 +1,50 @@
+{
+  "hotel_id": "ChIJP6H9y4PjDDkRCjSUHsc5fjI",
+  "hotel_name": "Anand Villa One",
+  "area": "Shakarpur",
+  "budget_category": "Mid-Range",
+  "rating": 4.6,
+  "trust_score": 0.7649530282123916,
+  "travel_purpose_tags": [
+    "Leisure"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "rich",
+    "review_count": 5,
+    "positive_snippet_count": 3,
+    "negative_snippet_count": 2,
+    "positive_theme_count": 4,
+    "negative_theme_count": 0
+  },
+  "aspect_scores": {
+    "cleanliness": 0.9998892545700072,
+    "service": 0.3367104145969885,
+    "location": 0.9998452365398406,
+    "value_for_money": 0.5,
+    "staff_behavior": 0.0008990440401248
+  },
+  "recommendation_features": {
+    "popularity_score": 0.508627084204726,
+    "rating_score": 4.6,
+    "sentiment_score": 0.6019643433741294
+  },
+  "review_evidence": {
+    "positive_snippets": [
+      "Stay was good, service good.\nWould like to visit again",
+      "Very happy to find this place. Clean room and bathroom, pleasant atmosphere, and located near a cool street with lots of food and juices. Thank you",
+      "Nice location near by akshardham. High speed internet smart tv\nEverything is good"
+    ],
+    "negative_snippets": [
+      "Stayed there due to certain personal exigency and felt like staying in a village along with surrounding around and staff of the hotel, today when I left the hotel premises atleast one hour ago of my checkout time from that time since last two days and even multiple times unable to watch anything on tv on these default days due to no connectivity of wifi with tv and when finally when I called mr Manish arya to check it he just did irrelevant troubleshoot and told me it will be fixed by tomorrow morning after 10 am and it was told to me at 7 pm of the given day when I approached him so again like previous day i Didnt saw television atleast after hectic day at night during atleast dinner time and he told me that I'll have to inform him again in the morning after 10 am so that he will change the tv set and I again have to pay next day charge of 1300 rupees without availing any benefit of room service which I think every hotel would accomodate to guest of viewing tv without any extra charge as he told me the day earlier that I will accomodate you in another room without tv in rs 1000 so just to get predefined facility in hotel room of watching tv I have to pay again that I already doing it of paying 300 rs extra just for tv for a day so I paid 1300 rupees atleast a week as on first 3 days he charged me with rs 1500. I stayed there from 24-Nov'25 till 3rd December'25. And even I was doing check out formality at reception he stepped into the room which was alloted to me and shouted from there like I m a begger that where are the keys of the room as it was handed over to me like hanging on the door key hole I placed it in the same way while I was doing check out. This is how you guys treat guests in your hotel charge irrelevant from them and let them leave the hotel intentionally by doing distracting things even at mid night at 12:30 am with creating irrelevant sound outside the door and knocking the door without any issue and ask and leave from there and when I was been asked told me that I was not knocking at your door it was my door and at early morning at around 7 am just on floor above my room massive sound of putting or throwing something like a bed on upper floor just to make me leave the hotel with distraction and rapid unknown sound at early morning and wake up like a fool and just spoil your throughout day with this irrelevant happening by the hotel staff only and keep on paying unnecessary charge of hotel with no service availablity of even a television which every hotel atleast provide to guests. That's the only reason I left and check-out from hotel early as I will have to stay atleast a week from today only due to business reason and important business meetings and concalls which I attended while I was staying there.",
+      "Note: Hotel rooms, reception, and everything else are on the 3rd floor, and there is no lift, so you will have to climb mountains to get to your room.\n\nService: Only one person is present, so you will have to do everything yourself."
+    ]
+  },
+  "review_summary": "Based on 5 reviews.",
+  "positive_themes": {
+    "clean_rooms": 1,
+    "good_location": 2,
+    "good_food": 1,
+    "friendly_staff": 1
+  },
+  "negative_themes": {}
+}

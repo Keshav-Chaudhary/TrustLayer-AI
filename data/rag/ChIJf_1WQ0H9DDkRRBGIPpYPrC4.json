@@ -1,0 +1,55 @@
+{
+  "hotel_id": "ChIJf_1WQ0H9DDkRRBGIPpYPrC4",
+  "hotel_name": "Cottage Ganga Inn",
+  "area": "Paharganj",
+  "budget_category": "Budget",
+  "rating": 4.0,
+  "trust_score": 0.8174396597976312,
+  "travel_purpose_tags": [
+    "Leisure",
+    "Family"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "moderate",
+    "review_count": 5,
+    "positive_snippet_count": 3,
+    "negative_snippet_count": 1,
+    "positive_theme_count": 5,
+    "negative_theme_count": 3
+  },
+  "aspect_scores": {
+    "cleanliness": 0.9487913846969604,
+    "service": 0.5,
+    "location": 0.9994505047798156,
+    "value_for_money": 0.999399960041046,
+    "staff_behavior": 0.9589843869209288
+  },
+  "recommendation_features": {
+    "popularity_score": 0.5948663124780572,
+    "rating_score": 4.0,
+    "sentiment_score": 0.9589843869209288
+  },
+  "review_evidence": {
+    "positive_snippets": [
+      "A bit tricky to access, narrow lane off busy Main Bazar this is a very peaceful, quiet place only 2 minutes from the Bazar. Very close to Metro & Rail.\nA bit tired but clean with\nreally helpful staff.\nGreat value also.",
+      "When we arrived,  main bazar and area looks terrible but hotel is very good.  Staff is very polite cooperative and very nice, it is family hotel and budget friendly  they provide warm water at any time and hygienic food . Rooms are nit very aesthetic but still its very nice hotel overall for stay",
+      "Great staff and quiet Hotel. Just remember it is Delhi so as long as you know what to expect then this is a good choice. It is quiet and safe. Linen is clean for Delhi. Toilets are basic but it is no worse than elsewhere. Spacious room. Good prices. Good location for this. This is the real Delhi."
+    ],
+    "negative_snippets": [
+      "As some of you may know, India is one of the most disorganized places in the world.\nThis \"hotel\" in Delhi practically demonstrates that reality! To begin with, the rooms are dirty and old, the Indian diners are very noisy and don't let you sleep at night.\nTo top it off, the manager made the mistake of assigning me a violent taxi driver to take me to the bus terminal, tried to charge me an extra 200 rupees to turn on the AC, and drove aggressively and rudely the entire way. Also important is that the hotel is right next to a garbage recycling center, so you can imagine the smell... In my opinion, never go there!!"
+    ]
+  },
+  "review_summary": "Based on 5 reviews.",
+  "positive_themes": {
+    "clean_rooms": 3,
+    "friendly_staff": 4,
+    "good_location": 2,
+    "great_value": 1,
+    "good_food": 1
+  },
+  "negative_themes": {
+    "dirty_rooms": 1,
+    "rude_staff": 1,
+    "noise": 1
+  }
+}

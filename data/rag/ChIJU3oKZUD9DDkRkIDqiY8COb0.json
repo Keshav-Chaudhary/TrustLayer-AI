@@ -1,0 +1,53 @@
+{
+  "hotel_id": "ChIJU3oKZUD9DDkRkIDqiY8COb0",
+  "hotel_name": "Hotel Staywell Deluxe",
+  "area": "Paharganj",
+  "budget_category": "Budget",
+  "rating": 3.9,
+  "trust_score": 0.6895021865201569,
+  "travel_purpose_tags": [
+    "Leisure"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "moderate",
+    "review_count": 5,
+    "positive_snippet_count": 2,
+    "negative_snippet_count": 3,
+    "positive_theme_count": 3,
+    "negative_theme_count": 3
+  },
+  "aspect_scores": {
+    "cleanliness": 0.3346834190306253,
+    "service": 0.5558109487174078,
+    "location": 0.7149654068052769,
+    "value_for_money": 0.3346834190306253,
+    "staff_behavior": 0.6663157645671163
+  },
+  "recommendation_features": {
+    "popularity_score": 0.6361859085346839,
+    "rating_score": 3.9,
+    "sentiment_score": 0.5721004518913105
+  },
+  "review_evidence": {
+    "positive_snippets": [
+      "Easy place to stay, the staff made it so easy.\n\nIn terms of the room, the location, the presentation of the room, look get what you pay for.\n\nCan't recommend the staff here highly enough. They were great to communicate with on the booking platform I used. They were easy with a check in the early hours of the morning.\n\nThey were also very helpful with all other areas. My airline lost my bag and they were instrumental in helping me deal with the airline helpdesk based in Delhi to get my bag delivered to reception. Unlike other places I've stayed in Delhi, they're friendly faces and try hard. Other hotels I've stayed at don't bring complimentary bottled water daily, offer to get you dinner etc.\n\nGreat people.",
+      "Good hotel . Location is too much near mostly things of new delhi."
+    ],
+    "negative_snippets": [
+      "Worst experience at the stay, the rooms are dirty to the core.The floor was full of dust, the blankets were not fresh, they were not washed after use, plus had blood stains. Bathroom was also disgusting. Very tiny tight room.\n\nThe worse part is that the staffs at the reception were very rude attending to complaints like those. Plus were trying to say phonsy schemes to charge more money from you.\n\nOverall I will not recommend this hotel for anybody.",
+      "Decent place in the heart of Delhi.\nThe hotel was still under renovation, so a bit of noisy.\nThe staff was friendly.\nLots of eateries and New Delhi Railway Station nearby.\nClose proximity to many popular destinations.",
+      "It\u2019s ok type hotel per night 2100 with extra mattress. Rooms are too small. Bedsheets and blankets are not clean. Room service guys are not helpful at all. Budget hotel only for night stay. Front desk asks for cash only and no cards. Don\u2019t expect any more. They don\u2019t have kitchen. Location is good. Very good veg restaurant beside."
+    ]
+  },
+  "review_summary": "Based on 5 reviews.",
+  "positive_themes": {
+    "friendly_staff": 4,
+    "good_location": 4,
+    "clean_rooms": 1
+  },
+  "negative_themes": {
+    "dirty_rooms": 1,
+    "rude_staff": 1,
+    "noise": 1
+  }
+}

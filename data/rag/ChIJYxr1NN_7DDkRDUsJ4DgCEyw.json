@@ -1,0 +1,49 @@
+{
+  "hotel_id": "ChIJYxr1NN_7DDkRDUsJ4DgCEyw",
+  "hotel_name": "Townhouse Dilshad Garden Near Dilshad Garden Metro Station",
+  "area": "Dilshad Colony",
+  "budget_category": "Mid-Range",
+  "rating": 2.8,
+  "trust_score": 0.3571667735168163,
+  "travel_purpose_tags": [
+    "Budget"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "moderate",
+    "review_count": 5,
+    "positive_snippet_count": 0,
+    "negative_snippet_count": 3,
+    "positive_theme_count": 3,
+    "negative_theme_count": 2
+  },
+  "aspect_scores": {
+    "cleanliness": 0.0005814248906972,
+    "service": 0.0012238021590746,
+    "location": 0.5,
+    "value_for_money": 0.0009819214465096,
+    "staff_behavior": 0.0014656828716397
+  },
+  "recommendation_features": {
+    "popularity_score": 0.6183478580984555,
+    "rating_score": 2.8,
+    "sentiment_score": 0.0006615242018596
+  },
+  "review_evidence": {
+    "positive_snippets": [],
+    "negative_snippets": [
+      "Front desk staff are under qualified rooms are not cleaned before check-ins\nDirty washrooms cellphone call before arrival for making some changes no response their either",
+      "Absolutely the worst hotel experience ever. The room was filthy and stinking \u2014 insects crawling around, piles of paan spit inside, dirty and unwashed bedsheets/pillow covers, and no lock provided for safety. The entire place was unhygienic and unsafe. To make it worse, there was no board or signage for the hotel, making it nearly impossible to locate. This property is disgusting, a complete scam, and should be avoided at all costs.",
+      "The rooms are absolutely filthy. The linens, including the pillows, were black and dirty. There were hairs everywhere and stains on the bedsheets and mattress. The bathroom and sink hadn\u2019t been cleaned at all. The towel holder was broken, switches were damaged, and even the furniture was falling apart. The AC sounded like a generator.\n\nThe entire place is pathetic and unhygienic. It might be okay for low-class couples looking to spend 2\u20133 hours for \u20b9300\u2013\u20b9400, but even then, it's a disgrace. On top of that, they charged me extra for being a solo traveler at midnight. The amount on the OYO app was \u20b9699, but they forced me to pay \u20b91,298. I had no option but to pay in cash since it was 12:30 at night and I didn\u2019t want to go searching for another hotel.\n\nThey are cheaters, looters, and absolutely unprofessional people who have no idea what hospitality means."
+    ]
+  },
+  "review_summary": "Based on 5 reviews.",
+  "positive_themes": {
+    "clean_rooms": 3,
+    "friendly_staff": 1,
+    "good_location": 1
+  },
+  "negative_themes": {
+    "dirty_rooms": 3,
+    "rude_staff": 1
+  }
+}

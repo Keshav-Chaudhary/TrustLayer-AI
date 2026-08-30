@@ -1,0 +1,48 @@
+{
+  "hotel_id": "ChIJk5n5hwb7DDkRRzu4ZFp60dg",
+  "hotel_name": "Flagship Hotel Plaza Near Gokulpuri Metro Station",
+  "area": "East Gokalpur",
+  "budget_category": "Mid-Range",
+  "rating": 3.9,
+  "trust_score": 0.4384787895715593,
+  "travel_purpose_tags": [
+    "Budget"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "moderate",
+    "review_count": 5,
+    "positive_snippet_count": 1,
+    "negative_snippet_count": 3,
+    "positive_theme_count": 1,
+    "negative_theme_count": 1
+  },
+  "aspect_scores": {
+    "cleanliness": 0.0002916650119004,
+    "service": 0.000218239147216,
+    "location": 0.5,
+    "value_for_money": 0.0005637870199279,
+    "staff_behavior": 0.0003650908765848
+  },
+  "recommendation_features": {
+    "popularity_score": 0.3134609411082933,
+    "rating_score": 3.9,
+    "sentiment_score": 0.0004486043956906
+  },
+  "review_evidence": {
+    "positive_snippets": [
+      "Excelent"
+    ],
+    "negative_snippets": [
+      "This Hotel is very bad. I booked a room for price as mention but The hotel manager asking extra money. I paid extra money as1000 Rupee's then checking in the Room. The hotel Room is not clean and neat. Bothroom is very dirty. Bedsheet is also very dirty.",
+      "First of all hotel too bad. Upon that they asked more money. I have booked online and they are not ready to give room and asking additional money. I have booked better hotel. This is one of the looting hotel.",
+      "Dirty rooms, poor service, filthy bathrooms...not recommended at all."
+    ]
+  },
+  "review_summary": "Based on 5 reviews.",
+  "positive_themes": {
+    "clean_rooms": 1
+  },
+  "negative_themes": {
+    "dirty_rooms": 2
+  }
+}

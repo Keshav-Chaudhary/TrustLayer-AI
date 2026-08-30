@@ -1,0 +1,52 @@
+{
+  "hotel_id": "ChIJSw2XgVADDTkRqIELwjHJgn8",
+  "hotel_name": "Hotel Hari Nager By The Premium Villa",
+  "area": "New Delhi",
+  "budget_category": "Mid-Range",
+  "rating": 4.8,
+  "trust_score": 0.7354207359688423,
+  "travel_purpose_tags": [
+    "Business"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "rich",
+    "review_count": 5,
+    "positive_snippet_count": 3,
+    "negative_snippet_count": 2,
+    "positive_theme_count": 3,
+    "negative_theme_count": 2
+  },
+  "aspect_scores": {
+    "cleanliness": 0.0004353038675617,
+    "service": 0.9998763799667358,
+    "location": 0.0015823646681383,
+    "value_for_money": 0.5000702552642906,
+    "staff_behavior": 0.9971394538879396
+  },
+  "recommendation_features": {
+    "popularity_score": 0.5479363270458767,
+    "rating_score": 4.8,
+    "sentiment_score": 0.3998595265904441
+  },
+  "review_evidence": {
+    "positive_snippets": [
+      "Biggest mistake is, their Google maps location is wrong, around 1.5 km away, so call them before u go their. Only biggest plus is, cheaper prices and can't expect more. Biggest minus is, their rooms have no locks/keys. From inside u can lock, but outside u can't lock the room. For me, no security issues I felt, anyway didn't leave any valuables inside while going out. Rest, had a pleasant stay, AC, Geyser are there. No bed bugs issue..",
+      "Good hotel and very affordable and good service",
+      "Hotel is too good and staaf is very helpful and manager deep is very impressive person I hope uhh come in property and enjoy yoirs days"
+    ],
+    "negative_snippets": [
+      "I have never seen hotel ike this before.. worst hotel. No water ...nothing... these people are arguing after receiving money.. it's better to beg in roadside.. worst experience.. online payment is 1050 but ater check-in they asked 409 extra for morning charges... i don't know what's happening here..",
+      "*No keys are given for the door\n*Dirty Pillow, bedsheet , blanket and towels\n*Damaged Lavatory\n*Tv remotes not working properly\n*Water heater not working\n*No elevator we have to Go for the 3rd floor using stairs only\n*We were facing problem by the smell as the room was smelling of ciggerates\n*Whole Night I was hearing a noise it was like someone pushing and pulling the Bed in another room beside mine one's"
+    ]
+  },
+  "review_summary": "Based on 5 reviews.",
+  "positive_themes": {
+    "good_location": 1,
+    "great_value": 2,
+    "friendly_staff": 1
+  },
+  "negative_themes": {
+    "dirty_rooms": 1,
+    "noise": 1
+  }
+}

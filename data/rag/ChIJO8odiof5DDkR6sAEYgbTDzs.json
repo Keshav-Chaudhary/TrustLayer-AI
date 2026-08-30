@@ -1,0 +1,38 @@
+{
+  "hotel_id": "ChIJO8odiof5DDkR6sAEYgbTDzs",
+  "hotel_name": "Flagship Kd Residency",
+  "area": "Loni",
+  "budget_category": "Mid-Range",
+  "rating": 5.0,
+  "trust_score": 0.699165570906347,
+  "travel_purpose_tags": [
+    "Budget"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "none",
+    "review_count": 0,
+    "positive_snippet_count": 0,
+    "negative_snippet_count": 0,
+    "positive_theme_count": 0,
+    "negative_theme_count": 0
+  },
+  "aspect_scores": {
+    "cleanliness": NaN,
+    "service": NaN,
+    "location": NaN,
+    "value_for_money": NaN,
+    "staff_behavior": NaN
+  },
+  "recommendation_features": {
+    "popularity_score": 0.1022696131573402,
+    "rating_score": 5.0,
+    "sentiment_score": 0.5
+  },
+  "review_evidence": {
+    "positive_snippets": [],
+    "negative_snippets": []
+  },
+  "review_summary": "Based on 0 reviews.",
+  "positive_themes": {},
+  "negative_themes": {}
+}

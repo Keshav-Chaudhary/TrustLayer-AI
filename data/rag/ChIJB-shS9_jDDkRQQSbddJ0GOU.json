@@ -1,0 +1,51 @@
+{
+  "hotel_id": "ChIJB-shS9_jDDkRQQSbddJ0GOU",
+  "hotel_name": "The Grand New Delhi",
+  "area": "Vasant Kunj",
+  "budget_category": "Mid-Range",
+  "rating": 4.3,
+  "trust_score": 0.8632783788539047,
+  "travel_purpose_tags": [
+    "Leisure"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "moderate",
+    "review_count": 5,
+    "positive_snippet_count": 3,
+    "negative_snippet_count": 1,
+    "positive_theme_count": 4,
+    "negative_theme_count": 1
+  },
+  "aspect_scores": {
+    "cleanliness": 0.5000720755488145,
+    "service": 0.5000754134089219,
+    "location": 0.9998586177825928,
+    "value_for_money": 0.5,
+    "staff_behavior": 0.7499713071301811
+  },
+  "recommendation_features": {
+    "popularity_score": 0.8621255768700429,
+    "rating_score": 4.3,
+    "sentiment_score": 0.7994873458635993
+  },
+  "review_evidence": {
+    "positive_snippets": [
+      "Room was so good i ended up extenting my stay for 3 days and missed my flight because the bed was so comfy i just didn\u2019t wanna leave regardless. Went to the club next door begamo was pretty good aswell. Good crowd, good music loved it. Now the breakfast was my only issue as the food lacked salt there and even when i asked for a fully fried omelet i ended up getting a sunny side up well overall. I believe the brekky was just a one off so id still give the hotel a 7.5/10",
+      "I had a very pleasant and comfortable stay at this hotel. The rooms were clean, well-maintained, and thoughtfully arranged, making the overall experience relaxing and enjoyable.\nI would especially like to appreciate Mr. Ghyansham from the housekeeping team. His work was exceptional\u2014the room was always spotless, fresh, and neatly organized. He was polite, attentive, and very dedicated to his duties. Small details were taken care of daily, which truly made a difference in the comfort of our stay.\nThanks to the entire staff, and a special thanks to Mr. Ghyansham for his sincere efforts. I highly recommend this hotel and would happily stay here again.",
+      "I had an amazing experience staying at The Grand New Delhi. The property is stunning, the food quality is excellent, and the overall service is top-notch. I would especially like to appreciate Madhulika for her outstanding hospitality. She was extremely courteous, attentive, and went out of her way to ensure my stay was comfortable and memorable. Her warmth and professionalism truly made a difference. Highly appreciated!"
+    ],
+    "negative_snippets": [
+      "The Grand Hotel in Delhi is easily the worst five-star hotel I have ever stayed at. Below are the incidents that contributed to this sentiment:\n1.\tThe hotel room air conditioning did not work. This was not limited to our room, as I heard multiple guests complain about the same issue. The rooms were muggy and difficult to breathe in, and the staff did not take action to fix the problem unless guests created a scene at the front desk.\n2.\tThe hotel had two elevators, one of which was broken for the entire duration of my six-week stay. I had to take the stairs to and from the fourth floor multiple times a day, and the hotel made no apparent effort to repair the elevator.\n3.\tThe toilet flushes did not function properly.\n4.\tHousekeeping did not clean rooms thoroughly, failed to restock toiletries, and frequently ignored the \u201cDo Not Disturb\u201d sign.\n5.\tHotel staff were extremely slow in completing requests. I needed an extra bed placed in a room, but despite calling four times, I ultimately had to go downstairs and insist on action before my parents confirmed the bed had been delivered. I also requested assistance with luggage, but no one arrived, so I handled it myself. These are just two examples among many.\n6.\tThe room phones on the entire fourth floor did not work.\n7.\tWe requested air purifiers for the room; however, broken units were delivered, and the staff did not replace or repair them.\n8.\tThe staff were incredibly rude. When I went downstairs to report issues, staff members looked at guests dismissively and appeared to treat hospitality concerns as a joke.\n9.\tNearly every time I passed through the lobby, another guest was arguing with staff about a complaint. This seemed commonplace, and staff appeared trained to dismiss issues by offering a free meal or coffee rather than addressing root problems.\n10.\tThere was a clear lack of internal communication among staff. When requesting a manager, I had to spend significant time re-explaining the issue. After checking out of one room, the hotel attempted to charge me for an additional night because staff had not communicated internally that my family had consolidated into one room after refusing to pay for two."
+    ]
+  },
+  "review_summary": "Based on 5 reviews.",
+  "positive_themes": {
+    "good_food": 2,
+    "clean_rooms": 2,
+    "friendly_staff": 3,
+    "good_location": 1
+  },
+  "negative_themes": {
+    "rude_staff": 1
+  }
+}

@@ -1,0 +1,49 @@
+{
+  "hotel_id": "ChIJqQ3x2j0FDTkRHNMbO1tpnwo",
+  "hotel_name": "Hyatt Centric Janakpuri New Delhi",
+  "area": "New Delhi",
+  "budget_category": "Luxury",
+  "rating": 3.9,
+  "trust_score": 0.8156920116709621,
+  "travel_purpose_tags": [
+    "Business"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "moderate",
+    "review_count": 5,
+    "positive_snippet_count": 3,
+    "negative_snippet_count": 0,
+    "positive_theme_count": 4,
+    "negative_theme_count": 1
+  },
+  "aspect_scores": {
+    "cleanliness": 0.6707436197126905,
+    "service": 0.8023248882964253,
+    "location": 0.6706856045251092,
+    "value_for_money": 0.0131967524066567,
+    "staff_behavior": 0.8023248882964253
+  },
+  "recommendation_features": {
+    "popularity_score": 0.8841388796974032,
+    "rating_score": 3.9,
+    "sentiment_score": 0.8023248882964253
+  },
+  "review_evidence": {
+    "positive_snippets": [
+      "Stayed at Hyatt Centric Janakpuri New Delhi and it was a genuinely comfortable, well-run experience with a nice balance of \u201cbusiness hotel efficient\u201d and \u201cweekend stay cozy.\u201d The location in Janakpuri worked well for west Delhi plans, and getting around was fairly easy with malls, caf\u00e9s, and metro access nearby. Check-in was smooth and the staff came across as professional, quick, and actually attentive instead of rehearsed.\n\nThe room was clean, quiet, and well maintained. Bedding was comfortable, the bathroom felt modern, and housekeeping was consistent. I also liked the little practical touches: enough charging points, good lighting for work, and solid Wi-Fi that didn\u2019t behave like it was doing you a favor. Soundproofing was decent too, which matters in New Delhi.\n\nBreakfast was a highlight: a good spread with both Indian and continental options, and the service stayed steady even during the busy rush. I tried a couple of meals beyond breakfast as well and found the food quality reliable, with portions that felt fair for a five-star property. The lounge and common areas were pleasant for short meetings or just winding down.\n\nIf I had to nitpick, peak-hour traffic around the area can add time to your commute, so plan accordingly. Overall, it\u2019s a strong option if you want comfort, great service, and a polished stay without unnecessary drama. Would happily stay again.",
+      "Beautiful clean and well equipped room.\nWe wanted a beer but the only area we could use was the dining area. We couldn't use the comfortable reception seating area. The beers were expensive at nearly 500 rupees. Everywhere else...120 rupees.\nVery inflexible! There was a noisy wedding right outside our room and it stopped us from using the swimming pool.\nLocation ok as Metro just outside.\nStaff a bit unfriendly and officious. Shame.",
+      "Well appointed clean room with warm and attentive staff. The restaurant was excellent especially the breakfast buffet. The wait staff could not have been better. We were visiting family in the area and we will definitely stay at this Hyatt again. I cannot say enough good things about this hotel"
+    ],
+    "negative_snippets": []
+  },
+  "review_summary": "Based on 5 reviews.",
+  "positive_themes": {
+    "clean_rooms": 3,
+    "friendly_staff": 5,
+    "good_location": 3,
+    "good_food": 4
+  },
+  "negative_themes": {
+    "noise": 1
+  }
+}

@@ -1,0 +1,49 @@
+{
+  "hotel_id": "ChIJAQB0mwAiDTkRGTqwPngT9Qg",
+  "hotel_name": "Clarens Hotel",
+  "area": "Sector 29",
+  "budget_category": "Mid-Range",
+  "rating": 4.2,
+  "trust_score": 0.789784921587504,
+  "travel_purpose_tags": [
+    "Business"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "moderate",
+    "review_count": 5,
+    "positive_snippet_count": 3,
+    "negative_snippet_count": 1,
+    "positive_theme_count": 2,
+    "negative_theme_count": 1
+  },
+  "aspect_scores": {
+    "cleanliness": 0.9983081817626952,
+    "service": 0.9998722672462464,
+    "location": 0.0002803664829116,
+    "value_for_money": 0.0002803664829116,
+    "staff_behavior": 0.7370878159999847
+  },
+  "recommendation_features": {
+    "popularity_score": 0.7365319008163617,
+    "rating_score": 4.2,
+    "sentiment_score": 0.6945269676332828
+  },
+  "review_evidence": {
+    "positive_snippets": [
+      "We hosted our engagement party at the Ladera outdoor Mediterranean restaurant and the indoor Japanese restaurant, and everything was perfect. The food, service, d\u00e9cor, and ambience were impeccable. Special thanks to Lalit, the banquet manager,  for excellent coordination, Mahesh for managing the food service, and Sanjay for the beautiful d\u00e9cor and attention to detail. Highly recommend this venue for special occasions!",
+      "If u stay here, get the deluxe rooms. The non -delixe ones face the wall of the Radisson hotel and as a result the windows are blocked so no natural light comes in the room. Stayed for 3 days which felt gloomy.  The wardrobe in the these rooms are small and have no shelves.\n\nThe hotel hosts a technoparty 12am-5am on Fri and Sat and has a karoake room on 5th floor which was my floor so had plenty of noise coming in on those nights.\n\nThe buffet was nice and the staff is friendly as well. The Ladera restaurant for Italian food is very very nice.",
+      "The service was amazing and quick! The team handled our events with utmost professionalism and respect. Highly recommend!"
+    ],
+    "negative_snippets": [
+      "We stayed here for one night and honestly, the room was very average considering the price charged. There was no proper heating option, which was quite uncomfortable. The amenities were minimal, and even basic tea and coffee were not stocked properly.\n\nThe room view was completely blocked by a wall, which made the stay feel even more dull. The interiors looked outdated and the seating appeared worn out.\n\nWhat was most disappointing was the clear preference shown toward Japanese guests. We requested access to the karaoke room but were denied, while it seemed to be available for Japanese guests. If the priority is only for one group of guests, that should be clearly communicated instead of making others feel unwelcome.\n\nThe only good part of the stay was Ladera restaurant. Unfortunately, overall the experience was disappointing and we would not prefer to return."
+    ]
+  },
+  "review_summary": "Based on 5 reviews.",
+  "positive_themes": {
+    "good_food": 2,
+    "friendly_staff": 1
+  },
+  "negative_themes": {
+    "noise": 1
+  }
+}

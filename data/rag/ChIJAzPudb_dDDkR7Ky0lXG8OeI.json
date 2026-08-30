@@ -1,0 +1,53 @@
+{
+  "hotel_id": "ChIJAzPudb_dDDkR7Ky0lXG8OeI",
+  "hotel_name": "Hotel O By Oyo Lime Inn",
+  "area": "Sector 31",
+  "budget_category": "Budget",
+  "rating": 4.2,
+  "trust_score": 0.6234078384660292,
+  "travel_purpose_tags": [
+    "Budget"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "moderate",
+    "review_count": 5,
+    "positive_snippet_count": 2,
+    "negative_snippet_count": 3,
+    "positive_theme_count": 4,
+    "negative_theme_count": 2
+  },
+  "aspect_scores": {
+    "cleanliness": 0.6668695762831097,
+    "service": 0.5004694692906924,
+    "location": 0.5003823869046755,
+    "value_for_money": 0.0008266442843402,
+    "staff_behavior": 0.3337429681171973
+  },
+  "recommendation_features": {
+    "popularity_score": 0.3954916301108739,
+    "rating_score": 4.2,
+    "sentiment_score": 0.4003987356321886
+  },
+  "review_evidence": {
+    "positive_snippets": [
+      "Hotel was so amazing clean room and washroom. Hotel staff behavior was very well.\nThanks hotel o lime inn for  giving good service.",
+      "All things are good in this hotel\nGood Location amazing room or washroom n washroom was so good\nI give 5star for this hotel"
+    ],
+    "negative_snippets": [
+      "Had an extremely disappointing experience. After our booking was confirmed, the hotel staff demanded extra money upon arrival and behaved very rudely. When we wrote a review about our experience, they even called us and pressured us to take it down.",
+      "I had booked a room through Oyo. When I reached the hotel, the hotel manager asked me for extra money and said that I will not give you the room for this amount. You go away from here and I will not return your money either.\n#OYO\nI posted a review after checkout. After that the manager is calling me to delete the review.\nThere is no such thing as privacy here.",
+      "This place is located near dirty gullies only and to find the location is not easy as I come across different platforms that operates on online labour for delivery to this exact location, all of them had hard time finding this place. To reach the hotel, you have to go through a narrow stair on the second floor.\nPrice for the rooms are overcharged, not good enough for the money you are spending. Make sure you don't book through any online booking app, owner might claim the price on app to be glitch and charge you with \u20b91000 extra.\nAvailability of verity of choices for food is negative marking for Faridabad be it in their resturants or service menu offered by hotels.\n\nFaridabad is least place you want to be in among the places I have visited from National Capital Region. Dusty, Dirty, Broken roads, etc"
+    ]
+  },
+  "review_summary": "Based on 5 reviews.",
+  "positive_themes": {
+    "clean_rooms": 1,
+    "friendly_staff": 2,
+    "good_location": 2,
+    "good_food": 1
+  },
+  "negative_themes": {
+    "rude_staff": 1,
+    "dirty_rooms": 1
+  }
+}

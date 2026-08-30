@@ -1,0 +1,48 @@
+{
+  "hotel_id": "ChIJSfZsve4ZDTkR-sn6fGbQcH0",
+  "hotel_name": "Limewood Signature - Near Golf Course Road",
+  "area": "Sector 57",
+  "budget_category": "Mid-Range",
+  "rating": 5.0,
+  "trust_score": 0.966082633192736,
+  "travel_purpose_tags": [
+    "Business"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "moderate",
+    "review_count": 5,
+    "positive_snippet_count": 3,
+    "negative_snippet_count": 0,
+    "positive_theme_count": 3,
+    "negative_theme_count": 1
+  },
+  "aspect_scores": {
+    "cleanliness": 0.9998488227526346,
+    "service": 0.9998637139797212,
+    "location": 0.5,
+    "value_for_money": 0.5,
+    "staff_behavior": 0.9998557686805724
+  },
+  "recommendation_features": {
+    "popularity_score": 0.6074137945032744,
+    "rating_score": 5.0,
+    "sentiment_score": 0.9998557686805724
+  },
+  "review_evidence": {
+    "positive_snippets": [
+      "I recently had the pleasure of staying at this hotel, and my experience was absolutely excellent. The rooms were clean, spacious, and very well-maintained. The bed was extremely comfortable, and all essential amenities such as air conditioning, Wi-Fi, television, and 24-hour hot water were available and working perfectly.\n\nI would especially like to give special thanks to the manager Mr Yash Chaudhary, for his outstanding hospitality and professional behavior. He ensured that our stay was smooth and comfortable, making the experience even more memorable.\n\nI would definitely recommend this hotel to my friends and family and look forward to staying here again in the future.\n\nThe bed was extremely cozy with clean and fresh linens, ensuring a great night\u2019s sleep. All amenities such as air conditioning, high-speed Wi-Fi, television, and 24-hour hot water worked perfectly without any issues.\n\nThe housekeeping service was prompt and efficient, keeping everything neat and well-organized throughout the stay. The room also had good lighting, proper ventilation, and a pleasant fragrance, which made the experience even better.\nOverall, the rooms exceeded my expectations and made my stay truly comfortable and enjoyable. Highly recommended!",
+      "Fantastic stay for their incredible hospitality and going above and beyond to make us feel welcome tha service was top - notch professional and friendly we truly appreciate Saurav attentiveness highly Recommend for a comfortable and Memorable Experience",
+      "I would like to start by saying thank you for everything.\n\nThe staff support was amazing, the food was excellent, and the service was outstanding throughout the event.\n\nMy main idea for hosting this program was to enjoy the occasion and spend quality time with my family and friends without any tension about arrangements \u2014 and that is exactly what happened. I reached the venue at 6:30 PM, and everything was perfectly ready.\n\nThe hotel team took care of every small detail \u2014 from parking guidance and guest assistance to gift management and overall coordination. Their attention to detail made the entire experience smooth and stress-free.\n\nFood \u2013 5/5\nService \u2013 5/5\n\nA special thanks to Bipin Pande ji for his very professional behavior and amazing support. His coordination and dedication truly made a difference.\n\nHighly recommended!"
+    ],
+    "negative_snippets": []
+  },
+  "review_summary": "Based on 5 reviews.",
+  "positive_themes": {
+    "clean_rooms": 3,
+    "friendly_staff": 4,
+    "good_food": 2
+  },
+  "negative_themes": {
+    "parking_issues": 1
+  }
+}

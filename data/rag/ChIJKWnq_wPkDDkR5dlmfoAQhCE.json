@@ -1,0 +1,51 @@
+{
+  "hotel_id": "ChIJKWnq_wPkDDkR5dlmfoAQhCE",
+  "hotel_name": "Hotel Hc Grand",
+  "area": "Jasola Vihar",
+  "budget_category": "Mid-Range",
+  "rating": 3.9,
+  "trust_score": 0.6894102931332925,
+  "travel_purpose_tags": [
+    "Leisure"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "rich",
+    "review_count": 5,
+    "positive_snippet_count": 3,
+    "negative_snippet_count": 2,
+    "positive_theme_count": 3,
+    "negative_theme_count": 1
+  },
+  "aspect_scores": {
+    "cleanliness": 0.3336038334042919,
+    "service": 0.5,
+    "location": 0.9998835325241088,
+    "value_for_money": 0.999545395374298,
+    "staff_behavior": 0.6668610200673962
+  },
+  "recommendation_features": {
+    "popularity_score": 0.5937665044194342,
+    "rating_score": 3.9,
+    "sentiment_score": 0.6000920261663849
+  },
+  "review_evidence": {
+    "positive_snippets": [
+      "The staff were incredibly welcoming and attentive from check-in to check-out. Our room was immaculate, spacious, and had a beautiful view. Breakfast was delicious with plenty of variety. Couldn't ask for more \u2014 we'll be back next time!",
+      "The rooms were spotlessly clean, spacious, and very comfortable. The beds were super comfy (everyone slept really well), modern bathrooms with good water pressure, and all the little touches like quality toiletries, strong Wi-Fi, and a quiet atmosphere made it feel premium without being over-the-top expensive.",
+      "Nice services, comfortable stay, food quality is decent I like it so much, Staff behaviour is so polite. I strongly recommend for perfect stay."
+    ],
+    "negative_snippets": [
+      "I had a very disappointing experience and ultimately had to cancel my stay early. The room had no ventilation, making it genuinely difficult to breathe. Hygiene was also a major concern: the toilet was not fully cleaned, towels and linens felt aged, and I even saw cockroaches in the sink area and bathroom. While an iron was provided upon request, there was no ironing board available. Between the lack of airflow and the cleanliness issues, I cannot recommend this property.",
+      "I\u2019m not. I\u2019m not recommended this property for anyone. The room is full of cockroach no shower. The shower is not working and instead for shower they put bucket with jug. Once you turn the light off your bed is full of cockroach. The room is smell like gas. Dust and Hair on the floor. I asked the manager to change the room but they not happy to do that one I was booked for this room for eight days and I terminated in next days and they charge me Rs.8500. Instead of 2500 they charging me including the Booking.com Commission rate. I wish there is zero stars and rate them zero star."
+    ]
+  },
+  "review_summary": "Based on 5 reviews.",
+  "positive_themes": {
+    "friendly_staff": 2,
+    "good_food": 2,
+    "clean_rooms": 2
+  },
+  "negative_themes": {
+    "dirty_rooms": 1
+  }
+}

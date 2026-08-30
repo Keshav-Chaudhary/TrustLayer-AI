@@ -1,0 +1,50 @@
+{
+  "hotel_id": "ChIJw88JQH8bDTkRQidfQEiNIMY",
+  "hotel_name": "Super Hotel O Goyla Dairy Formerly Osho Inn",
+  "area": "Qutub Vihar",
+  "budget_category": "Budget",
+  "rating": 4.2,
+  "trust_score": 0.7006325180186844,
+  "travel_purpose_tags": [
+    "Leisure"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "rich",
+    "review_count": 5,
+    "positive_snippet_count": 3,
+    "negative_snippet_count": 2,
+    "positive_theme_count": 4,
+    "negative_theme_count": 0
+  },
+  "aspect_scores": {
+    "cleanliness": 0.6656401432798399,
+    "service": 0.4994853882526512,
+    "location": 0.9982970058918,
+    "value_for_money": 0.9997864365577698,
+    "staff_behavior": 0.6661097307029801
+  },
+  "recommendation_features": {
+    "popularity_score": 0.4600165719380828,
+    "rating_score": 4.2,
+    "sentiment_score": 0.5994333253067452
+  },
+  "review_evidence": {
+    "positive_snippets": [
+      "Fantastic, value of money\nWould like to stay again, and suggest you guys \u263a\ufe0f go go go .....\nFor this unique property .\nStaff behaviour is fantastic",
+      "Its very nice hotel and nice staff rooms are clean it's approx 5 minute walking distance from new sainik school",
+      "First booking was denied by the property owner of one hotel stating his property does not have a tie-up with Oyo anymore. So had to contact Oyo customer service to switch hotel. They did switch and booked this hotel close to the previous location. This hotel was good. Room was clean. Had most basic amenities."
+    ],
+    "negative_snippets": [
+      "The hotel staff was not even considerate towards us. Whenever I think OYO is improving their service, I end up having a very bad experience right after.\n\n1. I asked the staff for a towel. They said, \"Abhi ladka aayega, de jayega,\" but even after 5 hours of check-in, no one came with the towel. I eventually checked out. ( Last time they do the same thing but we thought it is not important to file a complaint.)\n\n2. I asked the staff for a remote. They said, \"Abhi ladka aayega, de jayega, or aap aas-paas wale room mein dekh lo,\" but again, no one came.\n\n3. They gave us water in a one-time-use Bisleri bottle, but the bottle was already used and completely crushed.\n\n4. Their staff came four times just to ask for the check-in OTP. They didn\u2019t even know where to enter the OTP\u2014we had to help them with it.\n\n5. The lift was not working, which was the worst part. I asked them to start it, and they said, \"Kharab hai, complaint kiya hua hai.\" Then, after two hours, the lift started working.\n\n6. We arrived early, around 11:30 AM, and asked for the room. They said, \"200 rupees extra lagenge agar abhi chahiye toh, warna 12 baje room milega.\" After a small discussion, they gave us the room.\n\nThis is wrong\u2014they should focus on making our experience better, not worse.",
+      "Bad experience. Bedsheets had holes. Washroom was super UNHYGIENIC. The glasses provided in the hotel room were sticky. No sealed water bottles available in the hotel. Had to order water as well as disposable glasses from blinkit.\nNo soap given despite asking multiple times, gave me a shampoo pouch to wash hands. Only the mosquitoes were happy there, since they were in plenty. Also no All-out was given."
+    ]
+  },
+  "review_summary": "Based on 5 reviews.",
+  "positive_themes": {
+    "friendly_staff": 3,
+    "great_value": 1,
+    "clean_rooms": 2,
+    "good_location": 1
+  },
+  "negative_themes": {}
+}

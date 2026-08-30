@@ -1,0 +1,54 @@
+{
+  "hotel_id": "ChIJVVVVJdQDDTkRyYcuYnqjUqc",
+  "hotel_name": "Hotel City Park- Hotels In Delhi",
+  "area": "Pitampura",
+  "budget_category": "Mid-Range",
+  "rating": 4.2,
+  "trust_score": 0.7814926033425567,
+  "travel_purpose_tags": [
+    "Budget"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "moderate",
+    "review_count": 5,
+    "positive_snippet_count": 2,
+    "negative_snippet_count": 3,
+    "positive_theme_count": 4,
+    "negative_theme_count": 3
+  },
+  "aspect_scores": {
+    "cleanliness": 0.500684842991177,
+    "service": 0.333883315838951,
+    "location": 0.5,
+    "value_for_money": 0.5,
+    "staff_behavior": 0.5003827739637927
+  },
+  "recommendation_features": {
+    "popularity_score": 0.8397064038555342,
+    "rating_score": 4.2,
+    "sentiment_score": 0.5997527185187209
+  },
+  "review_evidence": {
+    "positive_snippets": [
+      "We had a wonderful breakfast experience at the hotel. The food selection was excellent, with a wide variety of hot and cold options, including fresh fruit, pastries, eggs, and local specialties. Everything was fresh and well presented. What made the experience truly special was the service. Priya and Gajender were outstanding \u2013 very friendly, attentive, and professional. They made sure we had everything we needed and were always smiling and helpful. Their warm hospitality added a personal touch to our morning. We highly recommend the breakfast here and would gladly come back. A perfect start to the day!",
+      "Had a wonderful stay at City Park Pitampura. Lovely ambience, delicious food, and very polite staff. The room was clean and comfortable. Special thanks to Mahak for the early check-in support. Highly recommended!"
+    ],
+    "negative_snippets": [
+      "Food was average nothing taste wow...  Ambience was good, hotel entry can little smooth, it's a very steep slope if not taken can hurt your vehicle...\nLittle words of caution while approaching to the place..!!\nHappy Family Time...",
+      "Extremely Disturbing Experience \u2013 Unacceptable Staff Behaviour\n\nMy experience at Hotel City Park, Pitampura was deeply disappointing and distressing. The behaviour of two staff members, Mr. Akram and Mr. Joginder Chikkara, was rude, arrogant, and completely unprofessional.\n\nAt the time of checkout, we were virtually held hostage for nearly 50 minutes, being accused of stains on the room carpet. When I reasonably questioned how it could be established whether those stains were present prior to our check-in\u2014especially since no photographic evidence was shown to us\u2014the situation escalated unnecessarily. If the hotel is so sensitive about its carpets, basic documentation at check-in should be a standard practice.\n\nShockingly, we were asked to step out of our car, taken back to the room, and made to wait while the staff started cleaning the carpet themselves, turning the entire situation into a melodrama. Meanwhile, my family\u2014including elders\u2014was left waiting in the car for almost an hour, which was completely unacceptable.\n\nWhen I asked how long we would be kept in this hostile situation, Mr. Joginder and Mr. Akram responded arrogantly, stating that we would not be allowed to leave until the carpet dried. Having stayed at multiple 5-star properties across India, I can confidently say I have never witnessed such rude, humiliating, and customer-hostile behaviour.\n\nAdding to this ordeal, the food quality was extremely poor and appeared stale. Disturbingly, two members of my family had to rush to the hospital with symptoms of food poisoning, which raises serious concerns about hygiene and food safety at this property.\n\nSuch conduct by staff not only destroys the spirit of customer centricity but also serves as a strong word of caution for future travellers. I sincerely request Mr. Agarwal, the owner of the property, to take stringent and visible action against such behaviour so that it serves as a lesson for the entire staff and prevents other guests from going through a similar experience.\n\nHighly disappointed. Would strongly advise travellers to exercise caution before choosing this hotel.",
+      "I had a very poor experience at this hotel. Tea and coffee were served cold, which is unacceptable. To make matters worse, snacks were served after nearly 20 minutes, by which time the coffee was already finished.\nNo cookies were served at all, despite it being a basic expectation.\nThe service staff were extremely lazy and inattentive. Even after giving clear instructions multiple times, the waiters did not serve properly.\nShockingly, as a host, I had to run after the waiters myself just to ensure food was served to guests.\nThis level of mismanagement and lack of professionalism reflects very badly on the hotel. It was embarrassing and stressful.\n\nI will not recommend this hotel to anyone and will never choose it again for any event.\nHighly disappointing experience."
+    ]
+  },
+  "review_summary": "Based on 5 reviews.",
+  "positive_themes": {
+    "friendly_staff": 4,
+    "good_food": 5,
+    "clean_rooms": 2,
+    "good_location": 2
+  },
+  "negative_themes": {
+    "dirty_rooms": 1,
+    "rude_staff": 1,
+    "bad_food": 1
+  }
+}

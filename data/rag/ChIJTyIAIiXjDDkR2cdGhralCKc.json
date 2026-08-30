@@ -1,0 +1,52 @@
+{
+  "hotel_id": "ChIJTyIAIiXjDDkR2cdGhralCKc",
+  "hotel_name": "Jrd Exotica || Business Hotel",
+  "area": "Safdarjung Enclave",
+  "budget_category": "Mid-Range",
+  "rating": 4.1,
+  "trust_score": 0.798910648353304,
+  "travel_purpose_tags": [
+    "Leisure"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "moderate",
+    "review_count": 5,
+    "positive_snippet_count": 3,
+    "negative_snippet_count": 1,
+    "positive_theme_count": 5,
+    "negative_theme_count": 1
+  },
+  "aspect_scores": {
+    "cleanliness": 0.5000364689403796,
+    "service": 0.5,
+    "location": 0.99985537926356,
+    "value_for_money": 0.0001861867058323,
+    "staff_behavior": 0.9998608082532884
+  },
+  "recommendation_features": {
+    "popularity_score": 0.6838387210546338,
+    "rating_score": 4.1,
+    "sentiment_score": 0.799925883943797
+  },
+  "review_evidence": {
+    "positive_snippets": [
+      "I liked the atmosphere here. We felt relaxed and welcomed from the moment we arrived. The staff took really good care of everything. It was a refreshing escape.It felt like a peaceful, poolside experience, and every moment of our stay was relaxing",
+      "Excellent experience. Got to stay there for an important meeting and the almost everything was top notch. Amazing staff, great location and availability of several things nearby.",
+      "I recently stayed at a hotel located right in the centre of the city, and it was an absolute delight. The location is perfect - everything is easily accessible, making travel and sightseeing very convenient. The rooms are fresh, clean, and beautifully designed with a touch of luxury. From the comfortable beds to the modern interiors, every detail made the stay relaxing and enjoyable. The staff were polite and attentive, adding to the overall pleasant experience. Truly a perfect blend of comfort, luxury, and convenience - highly recommended!"
+    ],
+    "negative_snippets": [
+      "I stayed at Hotel JRD (E) recently for Nights, and it was a huge disappointment. The rooms are overpriced and not worth the rent at all\u2014shabby with bad maintenance everywhere, from peeling paint to dirty carpets. There's a persistent bad smell in the hallways and rooms that made it hard to relax. No AC in the rooms, which is unacceptable in this climate; we sweltered through the night. The food quality is terrible\u2014bland, poorly prepared meals that didn't live up to any standards. Overall, avoid this place if you value comfort and value for money. It's poorly managed and needs serious improvements."
+    ]
+  },
+  "review_summary": "Based on 5 reviews.",
+  "positive_themes": {
+    "friendly_staff": 4,
+    "good_location": 3,
+    "clean_rooms": 1,
+    "great_value": 1,
+    "good_food": 1
+  },
+  "negative_themes": {
+    "dirty_rooms": 1
+  }
+}

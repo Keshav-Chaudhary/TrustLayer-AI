@@ -1,0 +1,53 @@
+{
+  "hotel_id": "ChIJ17YA13zcDDkRo3GFvGnqcYw",
+  "hotel_name": "Hotel O By Oyo Royal Inn",
+  "area": "Sector 10 HBC",
+  "budget_category": "Budget",
+  "rating": 3.7,
+  "trust_score": 0.6148367292706776,
+  "travel_purpose_tags": [
+    "Budget"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "rich",
+    "review_count": 5,
+    "positive_snippet_count": 3,
+    "negative_snippet_count": 2,
+    "positive_theme_count": 4,
+    "negative_theme_count": 2
+  },
+  "aspect_scores": {
+    "cleanliness": 0.1244908645749092,
+    "service": 0.562124464660883,
+    "location": 0.5,
+    "value_for_money": 0.2174353897571563,
+    "staff_behavior": 0.2174353897571563
+  },
+  "recommendation_features": {
+    "popularity_score": 0.5657665834864768,
+    "rating_score": 3.7,
+    "sentiment_score": 0.4683503505017142
+  },
+  "review_evidence": {
+    "positive_snippets": [
+      "Rooms are cleans and classy and well designed for comfort\nCozy beds fresh linens and soft lighting well equipped ,peaceful vibes, perfect for good night rest,housekeeping is prompt and maitains cleanliness, through the stay",
+      "Good rooms. Reasonable if booked through OYO",
+      "The room of this hotel was good. The one thing which is not good is they have a reception at first floor, and nothing seems visible from ground floor, there is just a small entrance from the ground floor to the first floor. They do not have lift. But we got a good room, at the second floor. Also, the room and washroom were clean and nice. They do not have any parking outside. Cars are parked at owners risk. Breakfast was of good quality with tea. We were given aloo parantha and Bread toast in breakfast, with a cup of curd and Pickle."
+    ],
+    "negative_snippets": [
+      "Lot of improvement required.\nThe receptionist in the night is very unprofessional. He does not value the online bookings or room rates. I arrived late night while enquiring with him he felt disturbed from his sleep. He says he has to work in day and night, don't waste time, he has to close the shutter.\nRooms required lot of improvement, full of fungus all over. Towel has come kind of. soap which comes on body while using. Fan is making sound that you can't sleep with it. OYO please improve. Please train the night staff.",
+      "Rooms are very average. Towels washed by using chemicals made our hair very dry. Asked for Rs. 300/- extra for early check -in and didn'nt gave a receipt of it. Oyo is not helping on the same."
+    ]
+  },
+  "review_summary": "Based on 5 reviews.",
+  "positive_themes": {
+    "clean_rooms": 2,
+    "good_food": 1,
+    "friendly_staff": 1,
+    "great_value": 1
+  },
+  "negative_themes": {
+    "parking_issues": 1,
+    "rude_staff": 1
+  }
+}

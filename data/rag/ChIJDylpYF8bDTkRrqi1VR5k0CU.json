@@ -1,0 +1,51 @@
+{
+  "hotel_id": "ChIJDylpYF8bDTkRrqi1VR5k0CU",
+  "hotel_name": "Hotel Goa Country Club",
+  "area": "Choma",
+  "budget_category": "Mid-Range",
+  "rating": 4.2,
+  "trust_score": 0.7511094145147057,
+  "travel_purpose_tags": [
+    "Business"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "rich",
+    "review_count": 5,
+    "positive_snippet_count": 3,
+    "negative_snippet_count": 2,
+    "positive_theme_count": 3,
+    "negative_theme_count": 1
+  },
+  "aspect_scores": {
+    "cleanliness": 0.9994764626026154,
+    "service": 0.9991251826286316,
+    "location": 0.5,
+    "value_for_money": 0.5,
+    "staff_behavior": 0.9998277425765992
+  },
+  "recommendation_features": {
+    "popularity_score": 0.3968120751380856,
+    "rating_score": 4.2,
+    "sentiment_score": 0.7997832525521517
+  },
+  "review_evidence": {
+    "positive_snippets": [
+      "Very comfortable and clean, well behaved, friendly and helpful people. Food tatses good as well. Chill and comfortable is all I can say.",
+      "It was an army ladies get together and we were well taken care of",
+      "Good for birthday parties and family time."
+    ],
+    "negative_snippets": [
+      "2 Things to mention: 1. The stuff should not ask for tip during wedding ceremony, right next to the ritual. 2. Don't mention any room service if you don't deliver it. Telling Hotel guests to come down or \"sorry we are busy you can come down\".\nThe rest was good. Rooms are clean and beautiful  also big.",
+      "Car was parked in resort and end up in filled with rain water.. No one took responsibility to inform us to remove the car from parking.\n\nBecause of this their irresponsible attitude, we end up paying for repairs and cleaning.."
+    ]
+  },
+  "review_summary": "Based on 5 reviews.",
+  "positive_themes": {
+    "clean_rooms": 3,
+    "friendly_staff": 1,
+    "good_food": 1
+  },
+  "negative_themes": {
+    "parking_issues": 1
+  }
+}

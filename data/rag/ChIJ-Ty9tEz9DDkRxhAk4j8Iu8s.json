@@ -1,0 +1,49 @@
+{
+  "hotel_id": "ChIJ-Ty9tEz9DDkRxhAk4j8Iu8s",
+  "hotel_name": "Hotel O The Bed Box",
+  "area": "Kamla Nagar",
+  "budget_category": "Mid-Range",
+  "rating": 3.3,
+  "trust_score": 0.3493426669176422,
+  "travel_purpose_tags": [
+    "Budget"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "moderate",
+    "review_count": 5,
+    "positive_snippet_count": 1,
+    "negative_snippet_count": 3,
+    "positive_theme_count": 2,
+    "negative_theme_count": 1
+  },
+  "aspect_scores": {
+    "cleanliness": 0.5,
+    "service": 0.0197993745484078,
+    "location": 0.0180464047443819,
+    "value_for_money": 0.5,
+    "staff_behavior": 0.0011160016292706
+  },
+  "recommendation_features": {
+    "popularity_score": 0.2520918884069095,
+    "rating_score": 3.3,
+    "sentiment_score": 0.0119751418009399
+  },
+  "review_evidence": {
+    "positive_snippets": [
+      "Very god staf and room service best location beutiful"
+    ],
+    "negative_snippets": [
+      "No response from any staff, does not exist in the location, no way to contact the hotel directly, OYO service keeps you on hold for very long and the contact info they provided does not exist, Would not recommend even trying to book this hotel",
+      "Worst hotel /hostel especially owner , he cannot even pay the amount back to us which we payed twice due to online payment issues .\nNever visit !!",
+      "They have marked wrong Google location and don't clarify even on call.\nI was left stranded on road in the night due to their wrong location"
+    ]
+  },
+  "review_summary": "Based on 5 reviews.",
+  "positive_themes": {
+    "good_location": 3,
+    "friendly_staff": 1
+  },
+  "negative_themes": {
+    "rude_staff": 1
+  }
+}

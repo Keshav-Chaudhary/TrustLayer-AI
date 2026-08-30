@@ -1,0 +1,48 @@
+{
+  "hotel_id": "ChIJT-DMdTkZDTkRiN-ft-zozUQ",
+  "hotel_name": "Limewood Stay Premier | Golf Course Sector 42",
+  "area": "Sector 42",
+  "budget_category": "Budget",
+  "rating": 4.9,
+  "trust_score": 0.937154422103848,
+  "travel_purpose_tags": [
+    "Leisure",
+    "Business"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "moderate",
+    "review_count": 5,
+    "positive_snippet_count": 3,
+    "negative_snippet_count": 0,
+    "positive_theme_count": 4,
+    "negative_theme_count": 0
+  },
+  "aspect_scores": {
+    "cleanliness": 0.9997348189353944,
+    "service": 0.9998762607574464,
+    "location": 0.9997952580451964,
+    "value_for_money": 0.5,
+    "staff_behavior": 0.9997477531433104
+  },
+  "recommendation_features": {
+    "popularity_score": 0.5340164458050647,
+    "rating_score": 4.9,
+    "sentiment_score": 0.99978209733963
+  },
+  "review_evidence": {
+    "positive_snippets": [
+      "Excellent stay! The rooms were clean and comfortable. Staff was polite and helpful. Service was quick and food was delicious. Highly recommended.",
+      "Excellent location, just a short walk from HUDA Metro Station. Rooms are modern and well built with clean attached washrooms. Loved the breakfast buffet and the food at the in-house restaurant \u2014 tasty and hygienic!",
+      "Staff behavior are very good .. manager behavior exillant.. food are so tasty ..  room vary clean .."
+    ],
+    "negative_snippets": []
+  },
+  "review_summary": "Based on 5 reviews.",
+  "positive_themes": {
+    "clean_rooms": 3,
+    "friendly_staff": 3,
+    "good_food": 4,
+    "good_location": 1
+  },
+  "negative_themes": {}
+}

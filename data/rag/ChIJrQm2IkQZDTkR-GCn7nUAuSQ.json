@@ -1,0 +1,51 @@
+{
+  "hotel_id": "ChIJrQm2IkQZDTkR-GCn7nUAuSQ",
+  "hotel_name": "Lemon Tree Hotel, Udyog Vihar Gurugram",
+  "area": "Sector 19",
+  "budget_category": "Mid-Range",
+  "rating": 3.8,
+  "trust_score": 0.6344743332539867,
+  "travel_purpose_tags": [
+    "Leisure"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "moderate",
+    "review_count": 5,
+    "positive_snippet_count": 2,
+    "negative_snippet_count": 3,
+    "positive_theme_count": 5,
+    "negative_theme_count": 0
+  },
+  "aspect_scores": {
+    "cleanliness": 0.5000149775514728,
+    "service": 0.5000836600374896,
+    "location": 0.999805510044098,
+    "value_for_money": 0.5000149775514728,
+    "staff_behavior": 0.6666714184490653
+  },
+  "recommendation_features": {
+    "popularity_score": 0.6978619780013362,
+    "rating_score": 3.8,
+    "sentiment_score": 0.4001717311068205
+  },
+  "review_evidence": {
+    "positive_snippets": [
+      "I had a pleasant stay at Lemon Tree Hotel, Udyog Vihar, Gurgaon. The location is ideal for business travelers, with easy access to corporate offices and the airport. The rooms are clean, well-maintained, and thoughtfully designed for comfort. I especially appreciated the cheerful decor and the fresh lemony fragrance in the lobby\u2014it adds a nice touch.\n\nThe staff were courteous and responsive, always ready to assist with a smile. The breakfast buffet offered a decent spread with both Indian and continental options. However, the in-room dining could be improved in terms of speed and variety.\n\nThe gym and other amenities are functional, though not extravagant. Overall, it\u2019s a reliable choice for short business stays, offering good value for money. A little more attention to detail in service and food would make it a five-star experience.",
+      "It was a pleasure staying at this hotel. The staff were polite, supportive, and always happy to help with any concerns. Special thanks to Abhijeet Tiwari for making the stay especially comfortable."
+    ],
+    "negative_snippets": [
+      "Terrible experience at Lemon Tree Hotel. The reception staff tried to forcefully move me out of my legally booked room, insisting my stay was over when I still had two days and one night left. They even blocked me from returning to my room until they finally checked and realized I was right.\nOn top of that, the food was below average..I even found hair in my meal and a piece of plastic in my lemon juice. Absolutely disgraceful service, careless staff and zero professionalism.",
+      "The room was very small. Bathrooms were really congested. The bad thing is, room is tiny and you cannot open the windows. The window panes are opaque. Not even transparent. It feels like you are in some detainment camp. Suffocating.",
+      "They had kept expired Amul milk powder for tea and the rooms are very small and bathrooms are not clean not worth ."
+    ]
+  },
+  "review_summary": "Based on 5 reviews.",
+  "positive_themes": {
+    "clean_rooms": 2,
+    "friendly_staff": 3,
+    "good_location": 1,
+    "great_value": 2,
+    "good_food": 2
+  },
+  "negative_themes": {}
+}

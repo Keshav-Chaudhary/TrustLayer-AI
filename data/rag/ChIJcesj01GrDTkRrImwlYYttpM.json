@@ -1,0 +1,49 @@
+{
+  "hotel_id": "ChIJcesj01GrDTkRrImwlYYttpM",
+  "hotel_name": "Family Guest House",
+  "area": "Bakoli",
+  "budget_category": "Mid-Range",
+  "rating": 4.6,
+  "trust_score": 0.805097903850015,
+  "travel_purpose_tags": [
+    "Leisure",
+    "Business"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "moderate",
+    "review_count": 5,
+    "positive_snippet_count": 3,
+    "negative_snippet_count": 1,
+    "positive_theme_count": 3,
+    "negative_theme_count": 0
+  },
+  "aspect_scores": {
+    "cleanliness": 0.9995964169502258,
+    "service": 0.9998644590377808,
+    "location": 0.9998644590377808,
+    "value_for_money": 0.5,
+    "staff_behavior": 0.9997314512729644
+  },
+  "recommendation_features": {
+    "popularity_score": 0.3981140517963074,
+    "rating_score": 4.6,
+    "sentiment_score": 0.8014688514173031
+  },
+  "review_evidence": {
+    "positive_snippets": [
+      "Clean room and good staff behaviours",
+      "\"Our experience at Hotel exceeded our expectations.  The service was exceptional, the facilities were excellent, and the location was ideal.  We can't wait to return!\"",
+      "Good place and nice environment\nWell managed staff"
+    ],
+    "negative_snippets": [
+      "It is 500m away from the main highway.\nMajorly the surrounding area is of trucks and transportation vehicles. Nearby there are many dharam kanta and godowns.\nSuitable for business visits.\nNot good for personal visits.\n\nCan be considered for booking for extra rooms for the relatives attending weddings in the nearby resorts and hotels.\n\n700m away from Mantram hotel and resorts."
+    ]
+  },
+  "review_summary": "Based on 5 reviews.",
+  "positive_themes": {
+    "clean_rooms": 1,
+    "friendly_staff": 2,
+    "good_location": 2
+  },
+  "negative_themes": {}
+}

@@ -1,0 +1,50 @@
+{
+  "hotel_id": "ChIJf_i50DwbDTkRJKI6ATn2HHQ",
+  "hotel_name": "Fabhotel White House - Hotel In Dwarka, Bnb Near Dwarka Sector 17 New Delhi",
+  "area": "New Delhi",
+  "budget_category": "Mid-Range",
+  "rating": 4.4,
+  "trust_score": 0.7911775654531584,
+  "travel_purpose_tags": [
+    "Family"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "moderate",
+    "review_count": 5,
+    "positive_snippet_count": 3,
+    "negative_snippet_count": 1,
+    "positive_theme_count": 3,
+    "negative_theme_count": 1
+  },
+  "aspect_scores": {
+    "cleanliness": 0.9993808269500732,
+    "service": 0.6667770490166731,
+    "location": 0.5,
+    "value_for_money": 0.9997993111610411,
+    "staff_behavior": 0.7499204088089755
+  },
+  "recommendation_features": {
+    "popularity_score": 0.4600165719380828,
+    "rating_score": 4.4,
+    "sentiment_score": 0.7999022570322267
+  },
+  "review_evidence": {
+    "positive_snippets": [
+      "Service was really good\nGood maintainance\nFood available\nNice experience\nHelping staff , thank you so much",
+      "The service is really nice, owners and managers are all cooperative and get your work done quickly. Food served here is the highlight, Great home cooked food available.",
+      "It was a pleasant experience \ud83e\udd20 Fab hotel white house. All working staff was very nice \ud83d\udc4d. Food was very nice and tasty \ud83d\ude0b. Over all it was very nice experience in budget \u263a\ufe0f. I am thinkfull to all hotels staff for my comfortable stay."
+    ],
+    "negative_snippets": [
+      "I am extremely disappointed with the way your reception staff behaved with me during my inquiry call.\n\nWhen I asked about room availability, the lady at the reception spoke very rudely. She directly said \u201cDon\u2019t come, the room is not available\u201d in a harsh tone. I simply told her that I prefer paying at the hotel instead of online, but instead of guiding me politely, she kept insisting rudely and then refused the booking.\n\nNot only this, she was speaking in a very uncivil, slang-type language (more like street tone bihari language rather than professional English/Hindi), which is highly unprofessional for someone representing your hotel. A receptionist is the face of the property, and such rude behavior can completely spoil the reputation of your hotel.\n\nI request you to kindly take strict action regarding this staff member, because with such behavior, guests will only walk away and never recommend this hotel."
+    ]
+  },
+  "review_summary": "Based on 5 reviews.",
+  "positive_themes": {
+    "friendly_staff": 4,
+    "good_food": 4,
+    "clean_rooms": 1
+  },
+  "negative_themes": {
+    "rude_staff": 1
+  }
+}

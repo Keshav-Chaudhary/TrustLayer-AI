@@ -1,0 +1,52 @@
+{
+  "hotel_id": "ChIJF8i-etEdDTkREtkYnwqAdDg",
+  "hotel_name": "Captain Vishal Khanna'S Anchorage",
+  "area": "Vasant Kunj",
+  "budget_category": "Mid-Range",
+  "rating": 4.6,
+  "trust_score": 0.7022638207826968,
+  "travel_purpose_tags": [
+    "Budget"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "rich",
+    "review_count": 5,
+    "positive_snippet_count": 3,
+    "negative_snippet_count": 2,
+    "positive_theme_count": 3,
+    "negative_theme_count": 2
+  },
+  "aspect_scores": {
+    "cleanliness": 0.0020620263094315,
+    "service": 0.0057402281090617,
+    "location": 0.0003543810744304,
+    "value_for_money": 0.5,
+    "staff_behavior": 0.0057402281090617
+  },
+  "recommendation_features": {
+    "popularity_score": 0.5139917675759166,
+    "rating_score": 4.6,
+    "sentiment_score": 0.4018963118607644
+  },
+  "review_evidence": {
+    "positive_snippets": [
+      "Extremely posh property. Rooms are huge and services are top notch. Food quality is also great. Used primarily as guest house for merchant Navy personnel.",
+      "My overall experience was good . I must the food was very tasty and all thanked to the people who were preparing food. Since the stay was arranged my company to attend the maritime course I would suggest please keep atleast 1-2 iron in the premises.  It doesn't look good to  college with wrinkled cloths also keep one washing machine for washing. I also had problem with the geyser. It was not warming the water at all. Please maintain all the stuffs of bathroom in working order.",
+      "I had a very comfortable stay at Anchorage Guest House. The place is well-maintained, peaceful, and homely.\n\nSpecial respect to Capt. Vishal Khanna, who despite being physically challenged now, continues to extend his warmth and hospitality to all mariners and guests. As a fellow seafarer, I deeply admire his resilience and dedication \u2014 it is our duty as mariners to stand by and support him.\n\nA heartfelt thanks also to Abha Ma\u2019am, who takes excellent care of everyone here and ensures that all guests feel at home.\n\nHighly recommended for mariners and their families visiting Delhi."
+    ],
+    "negative_snippets": [
+      "their marketing manager extremely rude and they don\u2019t understand customer service . they charge 80-100% for car service and don\u2019t know how to talk chahiye to lo else  get lost\u2026\nrest reception rahul and other butler both are extremely good only their marketing manager extremely rude in talking and adaman not ready to listen.",
+      "Spacious Rooms, But Poor Maintenance Ruins the Experience\n\nStayed at Captain Vishal Khanna\u2019s Anchorage Hotel and unfortunately had a disappointing experience. While the rooms are quite spacious and the location is convenient and well-connected, the overall maintenance is severely lacking.\n\nThe room door lock didn\u2019t function properly, which raised serious safety concerns. The bathroom was in bad shape \u2014 the shower and fittings were clogged with scale and mineral deposits, making it unpleasant and difficult to use. The drainage was poor, and the bathroom remained wet and smelly most of the time.\n\nThere were frequent power outages during the stay, and even when the power was on, the AC barely worked and didn\u2019t cool the room at all.\n\nThis place has potential, but unless the basic facilities and cleanliness are significantly improved, I wouldn\u2019t recommend it"
+    ]
+  },
+  "review_summary": "Based on 5 reviews.",
+  "positive_themes": {
+    "good_food": 2,
+    "clean_rooms": 1,
+    "good_location": 1
+  },
+  "negative_themes": {
+    "rude_staff": 1,
+    "dirty_rooms": 1
+  }
+}

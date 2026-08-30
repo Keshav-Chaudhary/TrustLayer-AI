@@ -1,0 +1,51 @@
+{
+  "hotel_id": "ChIJ8VV1bwLkDDkRXF4dKZb7rf0",
+  "hotel_name": "Jasmine Boutique Hotel Jasola",
+  "area": "Jasola Vihar",
+  "budget_category": "Mid-Range",
+  "rating": 4.1,
+  "trust_score": 0.8253180547638692,
+  "travel_purpose_tags": [
+    "Leisure",
+    "Business",
+    "Family"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "moderate",
+    "review_count": 5,
+    "positive_snippet_count": 3,
+    "negative_snippet_count": 1,
+    "positive_theme_count": 4,
+    "negative_theme_count": 0
+  },
+  "aspect_scores": {
+    "cleanliness": 0.9997718334197998,
+    "service": 0.9997718334197998,
+    "location": 0.9283443689346312,
+    "value_for_money": 0.9998681545257568,
+    "staff_behavior": 0.9283443689346312
+  },
+  "recommendation_features": {
+    "popularity_score": 0.5939244176270861,
+    "rating_score": 4.1,
+    "sentiment_score": 0.9426395058631896
+  },
+  "review_evidence": {
+    "positive_snippets": [
+      "I recently stayed at the Jasmine Boutique Hotel and had an outstanding experience from start to finish. The staff were exceptionally warm, welcoming, and always ready to help with anything I needed. Specially Mr. Uday is really very much supportive and helpful. The rooms were spotless, well-designed, and offered a perfect blend of comfort and elegance.\n\nThe location is convenient, and the hotel provides a peaceful atmosphere\u2014ideal for both business and leisure stays. The quality of service, cleanliness, and overall attention to detail truly exceeded my expectations.\n\nThey have their own restaurant service and their food items was really outstanding and reasonable in price. They have both veg and non-veg option.\n\nHighly recommended for anyone looking for a relaxing and memorable stay. Definitely a 5-star experience!",
+      "It was a wonderful stay here . Whatever is there in the photos of this hotel, hotel was exactly like that hygiene wise it's a perfect stay and location is also  prime . There receptionist persons was so helpful and a very polite and quick support. Housekeeping persons were so kind  and quick service. I will prefer for a safe and hygiene stay.",
+      "Excellent rooms with modern amenities\nQuality of food and everything you look for a decent stay in delhi"
+    ],
+    "negative_snippets": [
+      "The rooms are much smaller than what is advertised on Booking.com. The room given to us first didn't have a working AC. The second room to which we shifted was full of mosquitoes, defective door lock, malfunctioning wash basin, non functional lamp, and defective charging sockets, and poor wifi connectivity. There were no other rooms available, and we had prebooked, otherwise we would have changed the hotel.\n\nOn the plus side, the staff is very friendly, attentive, tried to rectify the above room deficiencies in the best way they could. The food served for breakfast, lunch and dinner was tasty and customized to our tastes.\n\nThe location of the hotel is also a plus point with good connectivity.\n\nOverall, 3 stars..."
+    ]
+  },
+  "review_summary": "Based on 5 reviews.",
+  "positive_themes": {
+    "clean_rooms": 1,
+    "friendly_staff": 4,
+    "good_location": 3,
+    "good_food": 4
+  },
+  "negative_themes": {}
+}

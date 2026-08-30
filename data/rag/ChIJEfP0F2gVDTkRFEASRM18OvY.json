@@ -1,0 +1,40 @@
+{
+  "hotel_id": "ChIJEfP0F2gVDTkRFEASRM18OvY",
+  "hotel_name": "Oyo Holy Light House",
+  "area": "Gurugram",
+  "budget_category": "Budget",
+  "rating": 3.0,
+  "trust_score": 0.4434108556159837,
+  "travel_purpose_tags": [
+    "Budget"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "sparse",
+    "review_count": 1,
+    "positive_snippet_count": 1,
+    "negative_snippet_count": 0,
+    "positive_theme_count": 0,
+    "negative_theme_count": 0
+  },
+  "aspect_scores": {
+    "cleanliness": NaN,
+    "service": NaN,
+    "location": NaN,
+    "value_for_money": NaN,
+    "staff_behavior": NaN
+  },
+  "recommendation_features": {
+    "popularity_score": 0.1498222752495692,
+    "rating_score": 3.0,
+    "sentiment_score": 0.5
+  },
+  "review_evidence": {
+    "positive_snippets": [
+      "Very nice"
+    ],
+    "negative_snippets": []
+  },
+  "review_summary": "Based on 1 reviews.",
+  "positive_themes": {},
+  "negative_themes": {}
+}

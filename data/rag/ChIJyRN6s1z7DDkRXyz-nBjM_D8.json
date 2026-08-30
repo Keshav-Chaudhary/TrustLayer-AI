@@ -1,0 +1,49 @@
+{
+  "hotel_id": "ChIJyRN6s1z7DDkRXyz-nBjM_D8",
+  "hotel_name": "Fabhotel Bellmont - Hotel In Vivek Vihar",
+  "area": "Shahdara",
+  "budget_category": "Mid-Range",
+  "rating": 4.1,
+  "trust_score": 0.7154114775352691,
+  "travel_purpose_tags": [
+    "Business"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "moderate",
+    "review_count": 5,
+    "positive_snippet_count": 3,
+    "negative_snippet_count": 1,
+    "positive_theme_count": 4,
+    "negative_theme_count": 0
+  },
+  "aspect_scores": {
+    "cleanliness": 0.0003474359691608,
+    "service": 0.9979502558708192,
+    "location": 0.5,
+    "value_for_money": 0.0003474359691608,
+    "staff_behavior": 0.7995121480023955
+  },
+  "recommendation_features": {
+    "popularity_score": 0.2918825720663544,
+    "rating_score": 4.1,
+    "sentiment_score": 0.7995121480023955
+  },
+  "review_evidence": {
+    "positive_snippets": [
+      "Very nice Room and Staff at this hotel.has very spacious rooms and bathrooms amenities are available no need to call again n again they keep every thing in the room.comfortable stay. Best recommend hotel in East Delhi.",
+      "The Hotel was nice Reception staff was Helpfull\nSmoot chdckin process\nHad A Good Stay",
+      "A great property to stay, awesome rooms, hospitality at its best well mannered staff and nice atmosphere ."
+    ],
+    "negative_snippets": [
+      "Worst experience at the hotel. They said they had cleaned the room but it wasn\u2019t and I had to tell them to clean it again. The gyser in the bathroom was not working and I told them about it, they didn\u2019t seem to be concerned. The landline telephone was not working to which every time I had to go out and search for the house keeping staff. Spending soo much for this hotel is not worth it. There are Better alternative's nearby. I won\u2019t recommend this hotel to anyone."
+    ]
+  },
+  "review_summary": "Based on 5 reviews.",
+  "positive_themes": {
+    "friendly_staff": 5,
+    "clean_rooms": 1,
+    "good_location": 1,
+    "great_value": 1
+  },
+  "negative_themes": {}
+}

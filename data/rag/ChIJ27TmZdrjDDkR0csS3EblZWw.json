@@ -1,0 +1,48 @@
+{
+  "hotel_id": "ChIJ27TmZdrjDDkR0csS3EblZWw",
+  "hotel_name": "Hotel O Premium Rooms",
+  "area": "Malviya Nagar",
+  "budget_category": "Mid-Range",
+  "rating": 3.3,
+  "trust_score": 0.4319707339025573,
+  "travel_purpose_tags": [
+    "Budget"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "moderate",
+    "review_count": 5,
+    "positive_snippet_count": 1,
+    "negative_snippet_count": 3,
+    "positive_theme_count": 3,
+    "negative_theme_count": 0
+  },
+  "aspect_scores": {
+    "cleanliness": 0.0025133634917438,
+    "service": 0.0057937335368478,
+    "location": 0.5,
+    "value_for_money": 0.0046693638335758,
+    "staff_behavior": 0.5054174768738449
+  },
+  "recommendation_features": {
+    "popularity_score": 0.3543615015642497,
+    "rating_score": 3.3,
+    "sentiment_score": 0.2027828676160425
+  },
+  "review_evidence": {
+    "positive_snippets": [
+      "Excellent room staff very cooperative. And special for Manger Rahul Good in Behaviour... Plz vist This hotel Best Experience.."
+    ],
+    "negative_snippets": [
+      "Rooms they don't clean daily , gyeser was not working , had to change room 3 times , asked for extra blanket , for 3 days stay they could not provide a  blanket , had to buy a new blanket to survive the cold , there is NO LIFT , so please don't waste your money , yes it's cheap but the cost is high eventually. Also the don't talk nicely.",
+      "worth experience  this hotel reception man deny the booking he was showing me bad behavior\ni really in trouble in 10 pm winter time in delhi we don\u2019t have others option to stay\nthis kind of hotel must be in closed\nmake my trip also doesn\u2019t help us when i was call costumer care he was just holding calll more then 1 hr\nworth experience",
+      "Worst experience ever. They denied our booking confirmation and told us we could not do anything. Refused to give any other alternative. We booked for 3 days and now we don't have anywhere to stay as well as the money is gone.\nDO NOT BOOK THIS HOTEL. IT'S A SCAM.\nINCLUDED ALL THEIR HOTELS, FAB HOTELS PREMIUM, PREMIUM VILLA, OYO PREMIUM ROOMS, ROYALTY RESIDENCY ."
+    ]
+  },
+  "review_summary": "Based on 5 reviews.",
+  "positive_themes": {
+    "friendly_staff": 1,
+    "clean_rooms": 1,
+    "great_value": 2
+  },
+  "negative_themes": {}
+}

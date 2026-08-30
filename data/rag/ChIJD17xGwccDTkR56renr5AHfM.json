@@ -1,0 +1,53 @@
+{
+  "hotel_id": "ChIJD17xGwccDTkR56renr5AHfM",
+  "hotel_name": "Grand Notting Hills",
+  "area": "near Shiv Murti",
+  "budget_category": "Mid-Range",
+  "rating": 3.8,
+  "trust_score": 0.6877662698101178,
+  "travel_purpose_tags": [
+    "Budget"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "rich",
+    "review_count": 5,
+    "positive_snippet_count": 3,
+    "negative_snippet_count": 2,
+    "positive_theme_count": 4,
+    "negative_theme_count": 2
+  },
+  "aspect_scores": {
+    "cleanliness": 0.8529828389485677,
+    "service": 0.8535182277361552,
+    "location": 0.6397964274547121,
+    "value_for_money": 0.499451858930115,
+    "staff_behavior": 0.4986487757487338
+  },
+  "recommendation_features": {
+    "popularity_score": 0.4813193912566148,
+    "rating_score": 3.8,
+    "sentiment_score": 0.7115704469411867
+  },
+  "review_evidence": {
+    "positive_snippets": [
+      "I stayed in Grad Notting Hill on my recent trip to Delhi. The hotel is very close to the airport, took me about 10 minutes to reach the hotel from terminal - 1. The hotel has a sprawling lawn and a very well kept property. The check-in was smooth. The rooms were spacious and clean, had tea and coffee maker kit in the room, the room is well equipped with all amenities. The bathroom is clean and all basic toiletries are provided along with a hair dryer. My only complaint about the hotel is the restaurant, which has limited menu. There is not much choice and I preferred to eat out. There was no hot water available in the bathrooms. Called the reception for the same, and they told me they could get me a bucket or two. Otherwise it is not a bad place to stay for a short trip.",
+      "Very ambient and easy to access place Hotel rooms are in great condition with huge spaces for parking and best thing is it's near the airport, supportive staff and Clean place to stay, very much recommended",
+      "The rooms were exceptionally good and well maintained. The room service was also really good. I had arrived mat night and they had already arranged a room for me. The food pricing was in the higher side but the quality of food was good, but what i didn't like was the price of a bisleri, it was 130/- ! For one bottle, that was the negative side of it"
+    ],
+    "negative_snippets": [
+      "Very bad and unsafe hotel . It's not a 4 star hotel at all. It's  a 1 star hotel. Staff don't know how to behave and how to talk.\nMy wife felt very unsafe there. The staff is not good at all.\n\nInternet issues.\nVery bad location.\nFood is very expensive and not good at all.\nUntidy rooms.\n\nWe booked the hotel for 7 days but checked out in 2 days.\n\nWe asked for refund and the person talked over the phone was very rude.",
+      "The hotel though boast to be a 4 star hotel but it could best be described as a 3 star category hotel. Rooms are spacious, clean and fine with basic amenities. Bathroom is also clean. The rooms and bathrooms require refurbishment. The location is okay near the Airport just beside the highway. The service is lethargic. No menu in room. Room service is pathetic. Does not provide non vegetarian food. Breakfast is fine. Overall just fine for a night stay near the airport to catch the next flight."
+    ]
+  },
+  "review_summary": "Based on 5 reviews.",
+  "positive_themes": {
+    "clean_rooms": 4,
+    "good_location": 4,
+    "friendly_staff": 2,
+    "good_food": 3
+  },
+  "negative_themes": {
+    "parking_issues": 1,
+    "rude_staff": 1
+  }
+}

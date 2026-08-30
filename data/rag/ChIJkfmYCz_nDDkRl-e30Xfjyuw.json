@@ -1,0 +1,52 @@
+{
+  "hotel_id": "ChIJkfmYCz_nDDkRl-e30Xfjyuw",
+  "hotel_name": "Hotel Saffron Kiran",
+  "area": "Near Badarpur Toll Plaza",
+  "budget_category": "Mid-Range",
+  "rating": 3.9,
+  "trust_score": 0.6399174358431384,
+  "travel_purpose_tags": [
+    "Leisure"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "moderate",
+    "review_count": 5,
+    "positive_snippet_count": 2,
+    "negative_snippet_count": 3,
+    "positive_theme_count": 4,
+    "negative_theme_count": 1
+  },
+  "aspect_scores": {
+    "cleanliness": 0.5,
+    "service": 0.3334604399715317,
+    "location": 0.9998406171798706,
+    "value_for_money": 0.9998260140419006,
+    "staff_behavior": 0.2505895768154005
+  },
+  "recommendation_features": {
+    "popularity_score": 0.6605553771906421,
+    "rating_score": 3.9,
+    "sentiment_score": 0.4004368642607005
+  },
+  "review_evidence": {
+    "positive_snippets": [
+      "We hosted our Wedding, Mehendi, and Haldi functions at Hotel Saffron Kiran, and we had also booked the entire hotel for our guests\u2019 stay. Choosing this venue was truly one of the best decisions for our big day.\nA very special thanks to Dharam ji for coordinating everything so smoothly. From planning to execution, he was extremely supportive, patient, and always available. Managing multiple wedding functions along with guest accommodation is not easy, but he ensured everything was handled flawlessly. His calm approach and attention to detail made the entire experience stress-free for us and our families.\nThe staff at Hotel Saffron Kiran deserves heartfelt appreciation for their amazing hospitality. They were polite, prompt, and always ready to assist, making sure our guests felt comfortable throughout their stay.\nThe rooms were spacious and well-maintained, with a lovely front view of the metro. Cleanliness and overall maintenance of the hotel were very well managed.\nThe food was absolutely amazing and one of the highlights of our celebrations. We received so many compliments from our guests about the taste and quality.\nOverall, Hotel Saffron Kiran gave us beautiful memories for our wedding celebrations. Highly recommend the hotel, Dharam ji, and the entire team for anyone planning wedding events along with guest stay. \u2728",
+      "A simple and good hotel indeed. Nice to stay and the courtesy of services the well mannered staffs, good food quality etc is really commandble. Strict no to smoking is an extremely good practice, the calmness of the hotel is an added benefit.\nCost wise also it's quite fine.\nGood road connectivity and metro and also mall is nearby so it's good from a lot of angle."
+    ],
+    "negative_snippets": [
+      "Recently I stayed at this hotel and had a very bad experience. When I gave my ID proof, the staff literally threw my PAN card back and said it is not acceptable. The behaviour was very rude and disrespectful. Such behaviour with guests is not acceptable at all. Very disappointing service.",
+      "I had a very bad experience at this hotel. The staff was rude and completely unprofessional throughout my stay. At the time of checkout, their behaviour became even worse\u2014they spoke very impolitely and treated me with no respect at all. Instead of assisting properly, they argued and made the whole process stressful. The service was poor from the start, and the staff\u2019s attitude made it even more disappointing. No guest deserves to be talked to the way they spoke to me. Overall, it was an uncomfortable and unpleasant experience. I would never recommend this hotel to anyone.",
+      "If you are young married couple than never ever book this hotel.The hotel staff will misbehave with you as they will assume that you are boyfriend girlfriend and wrongly claiming husband wife to stay in hotel\nVery unprofessional behaviour. I had a very bad experience with the receptionist Mr. Lalit throughout my stay.\nAfter having a pathetic check in experience\nNext day early morning we were going out for a walk instead of saying good morning the receptionist was asking for checkout formalities. He doesn\u2019t stop here he reminded me 3/4 times for checkout before 11 am in the morning"
+    ]
+  },
+  "review_summary": "Based on 5 reviews.",
+  "positive_themes": {
+    "clean_rooms": 1,
+    "friendly_staff": 5,
+    "good_food": 2,
+    "good_location": 1
+  },
+  "negative_themes": {
+    "rude_staff": 3
+  }
+}

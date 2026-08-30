@@ -1,0 +1,47 @@
+{
+  "hotel_id": "ChIJdad-SAQBDTkR6-Y1PIrL3Tk",
+  "hotel_name": "Hotel O Moro",
+  "area": "Rohini",
+  "budget_category": "Mid-Range",
+  "rating": 2.7,
+  "trust_score": 0.2705550229734893,
+  "travel_purpose_tags": [
+    "Budget"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "moderate",
+    "review_count": 5,
+    "positive_snippet_count": 0,
+    "negative_snippet_count": 3,
+    "positive_theme_count": 2,
+    "negative_theme_count": 1
+  },
+  "aspect_scores": {
+    "cleanliness": 0.5,
+    "service": 0.0002945663388041,
+    "location": 0.5,
+    "value_for_money": 0.0001985314302146,
+    "staff_behavior": 0.0002930986593127
+  },
+  "recommendation_features": {
+    "popularity_score": 0.2740972756911478,
+    "rating_score": 2.7,
+    "sentiment_score": 0.0003547472588251
+  },
+  "review_evidence": {
+    "positive_snippets": [],
+    "negative_snippets": [
+      "I had one of the worst experiences at this hotel. The staff were extremely rude and unprofessional, showing no respect or basic courtesy to guests. To make it worse, they overcharged me with some ridiculous \u201cpolicy\u201d that made absolutely no sense and refused to listen when I tried to explain.\nThe entire stay left a bitter taste \u2014 poor service, arrogant attitude, and zero value for money. I would strongly advise others to avoid this place unless you want to be treated disrespectfully and overbilled for no reason.",
+      "I had a very unpleasant stay at this hotel. The staff\u2019s behaviour was extremely rude and unprofessional throughout my visit. Despite confirming the prices in advance, I was overcharged at checkout with no proper explanation.\n\nThere was constant disturbance \u2014 people knocking on the door and calling unnecessarily, which completely ruined the peace I was expecting during my stay. To make matters worse, the hotel closes its lift facilities at night, causing a lot of inconvenience, especially for us staying at third floor.\n\nOverall, this was one of the most uncomfortable and frustrating hotel experiences I\u2019ve had.",
+      "Very rude reception, they don't care about the customer experience. They close the lift after 7, so if you want to ho out in night you have to use the stairs those are also closed."
+    ]
+  },
+  "review_summary": "Based on 5 reviews.",
+  "positive_themes": {
+    "friendly_staff": 3,
+    "great_value": 1
+  },
+  "negative_themes": {
+    "rude_staff": 4
+  }
+}

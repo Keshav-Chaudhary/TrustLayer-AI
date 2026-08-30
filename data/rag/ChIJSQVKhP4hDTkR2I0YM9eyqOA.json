@@ -1,0 +1,51 @@
+{
+  "hotel_id": "ChIJSQVKhP4hDTkR2I0YM9eyqOA",
+  "hotel_name": "Ace Stayz Sector55 Gurugram",
+  "area": "Ghata",
+  "budget_category": "Budget",
+  "rating": 4.0,
+  "trust_score": 0.6564445502792056,
+  "travel_purpose_tags": [
+    "Leisure"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "rich",
+    "review_count": 5,
+    "positive_snippet_count": 3,
+    "negative_snippet_count": 2,
+    "positive_theme_count": 3,
+    "negative_theme_count": 1
+  },
+  "aspect_scores": {
+    "cleanliness": 0.997466762860616,
+    "service": 0.5,
+    "location": 0.9992290437221528,
+    "value_for_money": 0.5,
+    "staff_behavior": 0.9968649744987488
+  },
+  "recommendation_features": {
+    "popularity_score": 0.3166168302341184,
+    "rating_score": 4.0,
+    "sentiment_score": 0.6398647606372834
+  },
+  "review_evidence": {
+    "positive_snippets": [
+      "Overall a pleasant stay at Ace Stayz Sector 55. Both the room and bathroom was very clean. Excellent Internet Speed. For the first time I saw dedicated tap in a room which was connected to RO water. The only negative thing was inconvenience to find the location because the current google maps location just points to a different location entirely, hope the admin cares to update the google searcg location . But overall excellent place to stay !!",
+      "Had a very pleasant stay at this property. The rooms were clean, well-maintained, and comfortable. Staff was courteous and responsive throughout the stay. Location is convenient and overall experience was smooth and hassle-free. Would definitely recommend for both business and leisure travelers.",
+      "Best Stay I could've had. My room was clean and I need some help with late checkout and the staff Ritesh was very polite and helpful. Will book again 10/10"
+    ],
+    "negative_snippets": [
+      "Photos are misleading. \ud83d\udea8\nJust one guy managing all the property and providing things in all the rooms.\nSome rooms are smaller than shown in pictures.\nElectric kettle in our room was broken too. Tv\u2019s not working.\nAt the time of check in they won\u2019t make you check your room and after check out you might get a call saying that somethings are missing in the room and you have to pay for it.\nWont recommend this property.",
+      "Every night there is very loud music coming from this property, which seriously disturbs nearby residents and families. The noise often continues till 1\u20132-3AM, making it difficult for people to sleep\n\nI am not writing this with the intention of leaving a negative review, but as a sincere request. Please ensure that guests keep the music volume at a reasonable level so that it does not disturb people living in neighboring buildings.\n\nLoud music late at night is uncivilised and causes unnecessary inconvenience to neighbours . I request the operator and owner to kindly instruct their guests to be mindful of the surroundings and avoid such disturbances.\n\nI hope this concern is taken seriously and resolved peacefully."
+    ]
+  },
+  "review_summary": "Based on 5 reviews.",
+  "positive_themes": {
+    "clean_rooms": 3,
+    "good_location": 3,
+    "friendly_staff": 2
+  },
+  "negative_themes": {
+    "noise": 1
+  }
+}

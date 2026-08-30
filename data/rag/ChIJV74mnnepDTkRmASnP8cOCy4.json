@@ -1,0 +1,47 @@
+{
+  "hotel_id": "ChIJV74mnnepDTkRmASnP8cOCy4",
+  "hotel_name": "Oyo 75433 Viraj Deluxe",
+  "area": "Narela",
+  "budget_category": "Budget",
+  "rating": 3.5,
+  "trust_score": 0.6945141909455862,
+  "travel_purpose_tags": [
+    "Leisure",
+    "Business"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "moderate",
+    "review_count": 4,
+    "positive_snippet_count": 3,
+    "negative_snippet_count": 0,
+    "positive_theme_count": 3,
+    "negative_theme_count": 0
+  },
+  "aspect_scores": {
+    "cleanliness": 0.9975377321243286,
+    "service": 0.999834418296814,
+    "location": 0.9997742772102356,
+    "value_for_money": 0.5,
+    "staff_behavior": 0.9986860752105712
+  },
+  "recommendation_features": {
+    "popularity_score": 0.2690641681418895,
+    "rating_score": 3.5,
+    "sentiment_score": 0.999224454164505
+  },
+  "review_evidence": {
+    "positive_snippets": [
+      "Clean rooms, clean washroom,great ambience and helpful receptionist.Best place to stay in narela.",
+      "You are looking",
+      "Good  location in Narela"
+    ],
+    "negative_snippets": []
+  },
+  "review_summary": "Based on 4 reviews.",
+  "positive_themes": {
+    "clean_rooms": 1,
+    "friendly_staff": 2,
+    "good_location": 1
+  },
+  "negative_themes": {}
+}

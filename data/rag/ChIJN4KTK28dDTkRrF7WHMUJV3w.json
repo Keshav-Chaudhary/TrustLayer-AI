@@ -1,0 +1,52 @@
+{
+  "hotel_id": "ChIJN4KTK28dDTkRrF7WHMUJV3w",
+  "hotel_name": "Hotel Shanti Residency",
+  "area": "Munirka",
+  "budget_category": "Mid-Range",
+  "rating": 4.2,
+  "trust_score": 0.7734024091976892,
+  "travel_purpose_tags": [
+    "Business"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "rich",
+    "review_count": 5,
+    "positive_snippet_count": 3,
+    "negative_snippet_count": 2,
+    "positive_theme_count": 4,
+    "negative_theme_count": 1
+  },
+  "aspect_scores": {
+    "cleanliness": 0.996359884738922,
+    "service": 0.9984239339828492,
+    "location": 0.6654796260021006,
+    "value_for_money": 0.5000394966336899,
+    "staff_behavior": 0.999165137608846
+  },
+  "recommendation_features": {
+    "popularity_score": 0.5029342303533152,
+    "rating_score": 4.2,
+    "sentiment_score": 0.7989097867859527
+  },
+  "review_evidence": {
+    "positive_snippets": [
+      "I stayed for 1 night in Standard King room and later on extended for another 3 nights in standard room. But remained in Standard King room with no extra charge. Bed linens ware Clean and room was also Clean. Breakfast served in time as per my convenience. As the hotel is in Market area, I enjoyed the different street food, juice centres in the locality. Moreover, auto or cabs are easily available.",
+      "We like your rooms and facilities your service are also too good \ud83d\ude0a cleanness is good we absolutely visit again in your hotel staff is also very",
+      "Last night I visit here, the staff's behavior was very nice."
+    ],
+    "negative_snippets": [
+      "Very Satisfied by the Staff Behaviour , Room is good according to the price , location is near the market , crowdy",
+      "The stay was satisfactory only! The hotel is located inside a market which is very narrow and crowded. No car parking facility available. We stayed at Room No: 201 for a day and the room had facilities such as TV, AC, water heater etc. But it was looking old and was not up to the price and expected standards. A bread omelette/bread toast for the complimentary breakfast along with tea. A water bottle should have been provided as a freebie since it is part of basic hospitality etiquette."
+    ]
+  },
+  "review_summary": "Based on 5 reviews.",
+  "positive_themes": {
+    "clean_rooms": 2,
+    "good_food": 2,
+    "friendly_staff": 3,
+    "good_location": 1
+  },
+  "negative_themes": {
+    "parking_issues": 1
+  }
+}

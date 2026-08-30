@@ -1,0 +1,51 @@
+{
+  "hotel_id": "ChIJ2QB-FpgEDTkRjMmKF58N8H0",
+  "hotel_name": "Hotel Surya Plaza",
+  "area": "New Delhi",
+  "budget_category": "Mid-Range",
+  "rating": 2.8,
+  "trust_score": 0.3968489465872477,
+  "travel_purpose_tags": [
+    "Leisure"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "moderate",
+    "review_count": 5,
+    "positive_snippet_count": 1,
+    "negative_snippet_count": 3,
+    "positive_theme_count": 4,
+    "negative_theme_count": 1
+  },
+  "aspect_scores": {
+    "cleanliness": 0.0003570855963819,
+    "service": 0.2000561864057089,
+    "location": 0.9989720582962036,
+    "value_for_money": 0.0002650915121193,
+    "staff_behavior": 0.9989720582962036
+  },
+  "recommendation_features": {
+    "popularity_score": 0.5058241683985916,
+    "rating_score": 2.8,
+    "sentiment_score": 0.2000561864057089
+  },
+  "review_evidence": {
+    "positive_snippets": [
+      "I visited this hotel with my friend for business purpose, It was best experience for me in Delhi over the years. The Hotel is 15 mins drive from airport. Staff was very courteous and friendly. The location of this hotel is perfect to visit anywhere in Delhi by metro or by any other means. Food availability around this hotel best thing. You can get all kind of food at very reasonable rate. The service provided by this hotel is at nice and that too at very reasonable rate. I am staying in this hotel every time i visit Delhi ."
+    ],
+    "negative_snippets": [
+      "Toilets were not clean. Provision for making hot water in kettle was not properly available.1 Kettle need to be shared among the different rooms. No one was picking phone for room service.",
+      "Worst room service, rooms. People are worst specially receptionist, they are just to take money from guest. Rooms are not clean, towels and bedsheets were smelling, no water in washrooms, lights were going on and off. The receptionist forced the guest for extra money in the late night. Overal it was the worst experience, I have ever experienced in my life. This hotel should be closed. Ging just 1 star because it is the minimum else I would have given 0 star.",
+      "By saying 3rd class is an insulting 3rd class, this hotel has lower grades than a local dharamshala, bathroom are really dirty, water leaking from all the tabs, rooms are like a dust bin, never cleaned, on top of Mr. Manoj Kumar on reception, he is really really bad for customers, he should be removed immediately if this hotel has to run their show. Overall never book this hotel."
+    ]
+  },
+  "review_summary": "Based on 5 reviews.",
+  "positive_themes": {
+    "friendly_staff": 1,
+    "good_location": 1,
+    "good_food": 1,
+    "clean_rooms": 4
+  },
+  "negative_themes": {
+    "dirty_rooms": 2
+  }
+}

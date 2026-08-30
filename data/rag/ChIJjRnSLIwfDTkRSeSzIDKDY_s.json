@@ -1,0 +1,48 @@
+{
+  "hotel_id": "ChIJjRnSLIwfDTkRSeSzIDKDY_s",
+  "hotel_name": "Flagship Raj Residency Near Chhatarpur Metro Station",
+  "area": "Delhi",
+  "budget_category": "Mid-Range",
+  "rating": 3.8,
+  "trust_score": 0.615544346379337,
+  "travel_purpose_tags": [
+    "Leisure"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "moderate",
+    "review_count": 5,
+    "positive_snippet_count": 3,
+    "negative_snippet_count": 2,
+    "positive_theme_count": 2,
+    "negative_theme_count": 0
+  },
+  "aspect_scores": {
+    "cleanliness": 0.9998644590377808,
+    "service": 0.5077977506443857,
+    "location": 0.9978103041648864,
+    "value_for_money": 0.0061411270871758,
+    "staff_behavior": 0.0061411270871758
+  },
+  "recommendation_features": {
+    "popularity_score": 0.3032955993753565,
+    "rating_score": 3.8,
+    "sentiment_score": 0.6038822783157228
+  },
+  "review_evidence": {
+    "positive_snippets": [
+      "Cool and peaceful Hotel. Service was good. Behaviour wise best. And cheaper than others.",
+      "Best awesome place with great view but couples go on their own risk re baba",
+      "The room was neat and clean. And it was spacious."
+    ],
+    "negative_snippets": [
+      "Sir I have booked from make my trip and boarded at 10 PM night to ur hotel and ur manager behavior was \"the kind of \" I don't have even words for that he has blatantly denied to check in,  taken extra hard cash money and imagine the situation I have to checked out before time he has been used very abusive word even in front of me he has abused to Oyo relationship manager also and he said, he had denied more than 20 people who has come through online booking. if u r that much of sincere then refund that 2000rs u have taken from me and to all customer to whom u have taken hard cash money",
+      "I booked online from OYO and online paid, after that when we reached to the reception then they denied to chekin and they charged extra amount"
+    ]
+  },
+  "review_summary": "Based on 5 reviews.",
+  "positive_themes": {
+    "great_value": 1,
+    "clean_rooms": 1
+  },
+  "negative_themes": {}
+}

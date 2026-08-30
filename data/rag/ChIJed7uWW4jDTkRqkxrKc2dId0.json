@@ -1,0 +1,47 @@
+{
+  "hotel_id": "ChIJed7uWW4jDTkRqkxrKc2dId0",
+  "hotel_name": "Vamsor Heights",
+  "area": "Sector 56",
+  "budget_category": "Mid-Range",
+  "rating": 4.8,
+  "trust_score": 0.9510715738630138,
+  "travel_purpose_tags": [
+    "Business"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "moderate",
+    "review_count": 5,
+    "positive_snippet_count": 3,
+    "negative_snippet_count": 0,
+    "positive_theme_count": 4,
+    "negative_theme_count": 0
+  },
+  "aspect_scores": {
+    "cleanliness": 0.99987530708313,
+    "service": 0.999876469373703,
+    "location": 0.5,
+    "value_for_money": 0.5,
+    "staff_behavior": 0.9998430848121644
+  },
+  "recommendation_features": {
+    "popularity_score": 0.6618573538488639,
+    "rating_score": 4.8,
+    "sentiment_score": 0.9998430848121644
+  },
+  "review_evidence": {
+    "positive_snippets": [
+      "I had a wonderful experience during my stay at this hotel. The property is beautifully maintained, clean, and comfortable \u2014 every detail is taken care of thoughtfully. The rooms are spacious and well-equipped, offering both comfort and convenience.\n\nWhat truly made my stay special was the staff Roshan and Atul . Every team member I interacted with \u2014 from the front desk to housekeeping and the restaurant \u2014 was courteous, attentive, and genuinely helpful. They always greeted me with a smile and went out of their way to make sure I had everything I needed. Their professionalism and warmth truly made me feel at home.\n\nThe food was delicious, and the overall hospitality was top-notch. I highly recommend this hotel to anyone looking for a relaxing, comfortable, and welcoming experience. I will definitely be coming back again soon!",
+      "\ud83c\udf1f Excellent Hotel Experience! \ud83c\udf1f\nI had a truly wonderful stay at this hotel. From the moment I arrived, the staff greeted me with warm smiles and genuine hospitality. Every member of the team \u2014 from reception to housekeeping and restaurant service \u2014 went above and beyond to make sure I was comfortable and well looked after.\nThe rooms were spotless, well-maintained, and thoughtfully arranged. The service was prompt, professional, and always delivered with a personal touch. The food was delicious and beautifully presented, and the staff made sure every meal was a pleasant experience.\nWhat stood out most was the staff\u2019s positive attitude and willingness to help with even the smallest requests \u2014 it really made me feel valued as a guest.\nHighly recommend this hotel to anyone looking for excellent service, comfort, and a welcoming atmosphere. Truly a memorable experience!\n\u2b50\ufe0f\u2b50\ufe0f\u2b50\ufe0f\u2b50\ufe0f\u2b50\ufe0f",
+      "I had a very good experience at your hotel.\nThe staff was polite and helpful.\nThe service and cleanliness were excellent.\nI would love to visit again. Thank you!"
+    ],
+    "negative_snippets": []
+  },
+  "review_summary": "Based on 5 reviews.",
+  "positive_themes": {
+    "clean_rooms": 4,
+    "friendly_staff": 5,
+    "good_food": 2,
+    "great_value": 1
+  },
+  "negative_themes": {}
+}

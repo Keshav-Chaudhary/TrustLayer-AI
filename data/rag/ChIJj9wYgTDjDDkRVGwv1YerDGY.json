@@ -1,0 +1,53 @@
+{
+  "hotel_id": "ChIJj9wYgTDjDDkRVGwv1YerDGY",
+  "hotel_name": "Royal Inn Hotel | Best Hotel In Nizamuddin Railway Station",
+  "area": "Delhi",
+  "budget_category": "Budget",
+  "rating": 4.6,
+  "trust_score": 0.8181154545035757,
+  "travel_purpose_tags": [
+    "Leisure",
+    "Business"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "rich",
+    "review_count": 5,
+    "positive_snippet_count": 3,
+    "negative_snippet_count": 2,
+    "positive_theme_count": 4,
+    "negative_theme_count": 1
+  },
+  "aspect_scores": {
+    "cleanliness": 0.5000283806730295,
+    "service": 0.9982926249504088,
+    "location": 0.9987144470214844,
+    "value_for_money": 0.9978708028793336,
+    "staff_behavior": 0.9988358914852142
+  },
+  "recommendation_features": {
+    "popularity_score": 0.572359767517246,
+    "rating_score": 4.6,
+    "sentiment_score": 0.7261069452448282
+  },
+  "review_evidence": {
+    "positive_snippets": [
+      "Great stay! The room was clean, staff was friendly, and check-in was smooth. Would definitely recommend.",
+      "Rooms were ok.Service was good.Location is near by station.Work is going on in hotel",
+      "Tbh the people in this hotel are friendly\nA super cool room with affordable price best service"
+    ],
+    "negative_snippets": [
+      "I had a terrible experience at this hotel..right from the corridor to my room, there was a disgusting smell.it seems they never clean the stairs..\nthe room was even worse with no ventillation .. the  bedsheets were not changed as there were a lot of hair all around..the bathroom was the worst of all..the mixer, health faucet and everything was broken and even the bucket there looked as though it had not been cleaned for ages..the saddest thing is that the gentleman there could not even understand there was something wrong in their rooms..they have set their standards so low it seems... please avoid this property if you care for hygiene",
+      "Basic hotel. Perfect if you need to spend only 1-2 days and are out most of time and use the hotel only for sleep and to take bath."
+    ]
+  },
+  "review_summary": "Based on 5 reviews.",
+  "positive_themes": {
+    "clean_rooms": 2,
+    "friendly_staff": 2,
+    "good_location": 1,
+    "great_value": 1
+  },
+  "negative_themes": {
+    "dirty_rooms": 1
+  }
+}

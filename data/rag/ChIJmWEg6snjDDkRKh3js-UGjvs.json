@@ -1,0 +1,51 @@
+{
+  "hotel_id": "ChIJmWEg6snjDDkRKh3js-UGjvs",
+  "hotel_name": "Via Happy Residency",
+  "area": "Kalkaji",
+  "budget_category": "Mid-Range",
+  "rating": 3.6,
+  "trust_score": 0.5319266887908507,
+  "travel_purpose_tags": [
+    "Leisure"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "moderate",
+    "review_count": 5,
+    "positive_snippet_count": 1,
+    "negative_snippet_count": 3,
+    "positive_theme_count": 3,
+    "negative_theme_count": 2
+  },
+  "aspect_scores": {
+    "cleanliness": 0.0003322568954899,
+    "service": 0.0003105006326221,
+    "location": 0.996505856513977,
+    "value_for_money": 0.0003105006326221,
+    "staff_behavior": 0.5
+  },
+  "recommendation_features": {
+    "popularity_score": 0.6416347255039642,
+    "rating_score": 3.6,
+    "sentiment_score": 0.1995669768191873
+  },
+  "review_evidence": {
+    "positive_snippets": [
+      "Three Storey Property Walkable Distance Near Kalkaji Police Station Surrounded By Residential Bungalows.Good Amenities Like Mini Fridge , A.C. , Smart T.V. , Wide Single Bed , Chairs , Sofa , Locker , Wardrobe Are Available Inside The Room Itself."
+    ],
+    "negative_snippets": [
+      "Worst Experience \u2013 Beware of this Hotel \ud83d\udeab\n\nI booked this place through Booking.com during peak season and unfortunately ended up here. Let me make it very clear\u2014this hotel is nothing like the pictures they show online. Total scam!\n1.\tRoom Disaster \u2013 They first gave me Room 402 on the 3rd floor. Within just an hour, I couldn\u2019t even breathe properly because it was full of dust, humidity, and zero ventilation. Felt like suffocation.\n2.\tFake \u201cSolutions\u201d \u2013 When I complained, they shifted me to another room on the ground floor. That room was worse\u2014reeked of cigarette smoke everywhere. Disgusting.\n3.\tUnhygienic & Shocking \u2013 The third room they offered was beyond pathetic. There was a dirty trolley inside and even someone\u2019s underwear left on the fridge! Clearly, the room was already being used. Zero cleanliness, zero respect for guests.\n4.\tMoney-Minded Cheats \u2013 I stayed hardly an hour, yet they shamelessly charged me \u20b91500 and refused any refund, despite me explaining everything. This shows how money-minded and insensitive these people are.\n\nThis hotel is a classic example of cheating travelers\u2014unhygienic rooms, misleading photos, careless management, and no accountability. Such places ruin the travel experience for people who save and plan for months.\n\n\u26a0\ufe0f My warning: Do NOT book this hotel, not even for a night. The owner may think he earned by cheating, but karma always pays back. Cheating people\u2019s hard-earned money and providing inhuman conditions is shameful.\n\n\ud83d\udc49 Please spread awareness so no other traveler falls into this trap.",
+      "\ud83e\udd22 A Truly Disappointing and Unpleasant Stay\nI regret to inform potential guests that my experience at this hotel was extremely poor and profoundly disappointing. I feel it is my duty to warn others about the unacceptable conditions I encountered.\nFrom the moment I stepped into my room, it was clear that basic hygiene and cleanliness standards were not being met.",
+      "The service was very bad. The hospitality is also too much bad. We have been there as couple. The staffs are not behaving in a good manner. They are not providing things as they given like toiletries and so on . The parking is also very bad. Actually there is no space for parking, they are lying. The room and the bathroom are very unhinged. It's like they have never cleaned the room and bathroom since they made the building. The doors are soo unsafe, anybody can open if we do lock with key also. They are not giving any kind of respect or not behaving good to the guests who are coming from so long.  Also they are charging too much money for experiencing their bad room and bathroom and their hospitality. They are just lying in media .it's not as shown ."
+    ]
+  },
+  "review_summary": "Based on 5 reviews.",
+  "positive_themes": {
+    "good_location": 1,
+    "clean_rooms": 3,
+    "friendly_staff": 1
+  },
+  "negative_themes": {
+    "dirty_rooms": 2,
+    "parking_issues": 1
+  }
+}

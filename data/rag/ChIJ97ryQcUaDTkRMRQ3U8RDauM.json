@@ -1,0 +1,49 @@
+{
+  "hotel_id": "ChIJ97ryQcUaDTkRMRQ3U8RDauM",
+  "hotel_name": "Krishna Residency",
+  "area": "Dwarka",
+  "budget_category": "Mid-Range",
+  "rating": 3.3,
+  "trust_score": 0.5336132055008694,
+  "travel_purpose_tags": [
+    "Budget"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "moderate",
+    "review_count": 5,
+    "positive_snippet_count": 2,
+    "negative_snippet_count": 3,
+    "positive_theme_count": 3,
+    "negative_theme_count": 0
+  },
+  "aspect_scores": {
+    "cleanliness": 0.5,
+    "service": 0.001183796674013,
+    "location": 0.5010097172344103,
+    "value_for_money": 0.5,
+    "staff_behavior": 0.6672375299191723
+  },
+  "recommendation_features": {
+    "popularity_score": 0.5355059145983454,
+    "rating_score": 3.3,
+    "sentiment_score": 0.4006056956946849
+  },
+  "review_evidence": {
+    "positive_snippets": [
+      "This is a wonderful hotel! I just came here by chance, looking for 2 rooms for some guests but loved the place and staff's attitude so much that I shifted all my guests booking to this hotel and booked 7 rooms. The staff is super supportive, helpful and polite. The location is a major plus as it's just beside the metro station.\n\nI was skeptical because of the reviews so I asked the manager, and he told me they recently got hold of the place from someone else, renovated it completely and now they're doing their best to improve in the ratings. I hope that happens quickly.\n\nGood luck!",
+      "I arranged for my sister wedding guests here. Staff is super supportive. For Mehandi function expectations were of 50 guest but 130 came and hotel chef still managed to make all my guest Happy. Hotel GM and manager are super helpful. They come to your rescue even at 11th hour to full fill their processional commitment. Thanks a ton hotel and staff. Will surely organize more events like this in future here."
+    ],
+    "negative_snippets": [
+      "rooms are ok, i looks good overall bt the groundfloor arena is a bit congested and suffocating........ food is not at all good........ lift doesn't go to the basement hence not completely accessible to differently abled people! from the outlook u can say its an average looki ac hotel with a fair service from the staff",
+      "Pathetic place. Terrible management. They took the booking for my MIL. When she arrived, tired and worn out, late last night, they showed the room and then suddenly decided they don't want to accomodate her because she came from Assam. We were in shock at their horrifying behaviour. This is utter discrimination and will be taken to court.\n\nNot only this, they take bookings from online portals and then try to cheat their booking partners by asking for cash and the guest to cancel their booking with their partners.\n\nWarning to all travel agency partners. These guys are cheats and uncivilized ruffians who are a disgrace to humanity. Please don't do business with them.\n\nOh yes. This is also an illegal business as the hotel is running a commercial enterprise in a residential zoned area.",
+      "Good rooms but no service as whenever you ask for anything there is nothing available and you'll have to really look for a staph to ask for something, they have very limited staph, and there is mostly no one on the front desk."
+    ]
+  },
+  "review_summary": "Based on 5 reviews.",
+  "positive_themes": {
+    "friendly_staff": 3,
+    "good_location": 1,
+    "good_food": 1
+  },
+  "negative_themes": {}
+}

@@ -1,0 +1,55 @@
+{
+  "hotel_id": "ChIJFzkmDJ4CDTkRPq2Xf7sdeik",
+  "hotel_name": "Hotel Cosmo Near Blk Max Hospital",
+  "area": "New Delhi",
+  "budget_category": "Mid-Range",
+  "rating": 4.3,
+  "trust_score": 0.6663046193237763,
+  "travel_purpose_tags": [
+    "Budget"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "rich",
+    "review_count": 5,
+    "positive_snippet_count": 3,
+    "negative_snippet_count": 2,
+    "positive_theme_count": 5,
+    "negative_theme_count": 3
+  },
+  "aspect_scores": {
+    "cleanliness": 0.9998276233673096,
+    "service": 0.9998764991760254,
+    "location": 0.3340175398043357,
+    "value_for_money": 0.0008282118554537,
+    "staff_behavior": 0.4004377516219392
+  },
+  "recommendation_features": {
+    "popularity_score": 0.5346150961871148,
+    "rating_score": 4.3,
+    "sentiment_score": 0.4004377516219392
+  },
+  "review_evidence": {
+    "positive_snippets": [
+      "I had a wonderful stay at this hotel. The staff were extremely good, supportive, and genuinely friendly, always ready to help with a smile. Their warm and attentive service made me feel comfortable and well taken care of throughout my stay. Truly a great experience thanks to the amazing team here!\n\n---\n\nDo you want me to make it short and crisp for Google reviews or a longer detailed version for travel sites like TripAdvisor?",
+      "Budget hotel with good food and friendly staff. However, the rooms are small and cable TV was not available despite multiple requests. The location was not very convenient for me, though the area felt safe due to nearby hotels.",
+      "Each and every staff of the hotel are very good and very cooperative. Located in a very proper place. Metro station is near the hotel. The locality is safe and secure at the night time also . Very neat and clean rooms and washrooms. We have stayed twice there and found everything excellent."
+    ],
+    "negative_snippets": [
+      "DON'T BOOK THIS HOTEL AT ANY COST!\n\nI booked this hotel in October 2025 late night because it was near where I was.\n1. It's located in a residential area - has no parking and has a public ground next to it. Online they listed the property having parking on premise.\n2. The ground had an event going on with a huge gathering and a lot of noise going on. I believe it was a religious gathering of sorts.\n3. Hotel listed the rooms incorrectly on online platforms. There was a room listed as 440sq ft. In reality it wasn't even 140sq ft.. The hotel staff agreed to refund and cancel the booking the next morning after my disagreement. The next day they denied to refund the booking amount. I had just made the booking 10 minutes ago and paid online - my mistake to have paid them online before reaching there.\n\nLesson learnt to stay away from these shady lala hotels in Karol Bagh ran by scammers.",
+      "I HAD CALL THE POLICE TO HELP ME\nHOTEL INFECTED WITH BED BUGS\nTHE OWNER AND STAFF ARE ABSOLUTELY PATHETIC\n\nI had one of the worst hotel experiences here. I stayed one night and changed rooms the next morning, only to discover bed bugs again in the new room at night. The rooms were unhygienic and poorly maintained. When I informed the hotel staff, instead of apologizing or helping, they argued with me and refused to provide a refund, even though I had clear proof of the infestation. Don't bother wasting your money with this hotel, the owner of the hotel Rajesh or Rakesh, whatever his name is, is absolutely rude and swearing at me for complaining.\n\nIt was 11 PM, and the staff wasted my time, showing no concern for the guest\u2019s safety or comfort. This is completely unacceptable and unprofessional behavior. I had to consider calling the police because of the harassment and lack of cooperation.\n\nAvoid this hotel at all costs \u2014 they do not care about cleanliness, guest comfort, or basic hospitality standards. Totally unworthy of the price they charge.\n\nTo the hotel owner who thinks his hospitality and the way he treats his customer is based on there nationality. You are absolutely disgusting and delusional in your small minded world. You need to learn manners and learn not to swear or misbehave with a women or your customer. Absolutely disgusting behavior and I wouldn't not recommend. You still want to argue with me based on the fact your hotel is infected with bed bugs."
+    ]
+  },
+  "review_summary": "Based on 5 reviews.",
+  "positive_themes": {
+    "friendly_staff": 5,
+    "good_location": 3,
+    "good_food": 1,
+    "clean_rooms": 2,
+    "great_value": 1
+  },
+  "negative_themes": {
+    "noise": 1,
+    "parking_issues": 1,
+    "rude_staff": 1
+  }
+}

@@ -1,0 +1,51 @@
+{
+  "hotel_id": "ChIJqeUQpd3lDDkRAa1qCvUP7Lw",
+  "hotel_name": "Treebo Luxury Stay Premium Inn",
+  "area": "Sector 12",
+  "budget_category": "Budget",
+  "rating": 4.6,
+  "trust_score": 0.8577758855050194,
+  "travel_purpose_tags": [
+    "Budget"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "moderate",
+    "review_count": 5,
+    "positive_snippet_count": 3,
+    "negative_snippet_count": 1,
+    "positive_theme_count": 4,
+    "negative_theme_count": 1
+  },
+  "aspect_scores": {
+    "cleanliness": 0.9998685717582704,
+    "service": 0.5,
+    "location": 0.6664167091463847,
+    "value_for_money": 0.0003166333481203,
+    "staff_behavior": 0.7497753385614487
+  },
+  "recommendation_features": {
+    "popularity_score": 0.6482900859599178,
+    "rating_score": 4.6,
+    "sentiment_score": 0.799797454191139
+  },
+  "review_evidence": {
+    "positive_snippets": [
+      "Fantastic stay! The staffs are incredibly friendly and efficient, and the location is perfect for exploring the city. My room was spacious, quiet, and very comfortable, allowing me to get some great rest.\"",
+      "The hotel is very clean and calm. The staff is helpful. The beds are comfortable and breakfast is tasty. Overall, we had a very good stay experience.",
+      "Had a great experience! The stay was awesome \u2014 the place was very clean, the complimentary breakfast was delicious, and the ambiance was really nice."
+    ],
+    "negative_snippets": [
+      "Very poor. No display. Near by people don't know by name. You have to identify yourself where is it.\nI booked room via Agoda with payment and hotel staff did not allot me room and asked more money to pay. Unfortunately I have to move out to another hotel without any refund.\nStaff was rude."
+    ]
+  },
+  "review_summary": "Based on 5 reviews.",
+  "positive_themes": {
+    "friendly_staff": 4,
+    "good_location": 3,
+    "clean_rooms": 2,
+    "good_food": 2
+  },
+  "negative_themes": {
+    "rude_staff": 1
+  }
+}

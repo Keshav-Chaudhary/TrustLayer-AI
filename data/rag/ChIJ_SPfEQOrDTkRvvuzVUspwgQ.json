@@ -1,0 +1,50 @@
+{
+  "hotel_id": "ChIJ_SPfEQOrDTkRvvuzVUspwgQ",
+  "hotel_name": "Hotel O By Oyo Happy Stay",
+  "area": "Narela",
+  "budget_category": "Budget",
+  "rating": 3.4,
+  "trust_score": 0.4549145304444224,
+  "travel_purpose_tags": [
+    "Leisure"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "moderate",
+    "review_count": 3,
+    "positive_snippet_count": 1,
+    "negative_snippet_count": 2,
+    "positive_theme_count": 4,
+    "negative_theme_count": 1
+  },
+  "aspect_scores": {
+    "cleanliness": 0.5,
+    "service": 0.00019747306942,
+    "location": 0.9981051683425904,
+    "value_for_money": 0.5,
+    "staff_behavior": 0.4991513207060052
+  },
+  "recommendation_features": {
+    "popularity_score": 0.2045392263146805,
+    "rating_score": 3.4,
+    "sentiment_score": 0.3329122135182842
+  },
+  "review_evidence": {
+    "positive_snippets": [
+      "Neat rooms, polite staff, awesome location. Wi-Fi good, breakfast average. Slight plumbing hiccup, but four-star stay. Would return!"
+    ],
+    "negative_snippets": [
+      "Happy stay name only it is no at all relevant to the condition they are imposed and services provided.\n\nMakeMyTrip took full payment before check-in while booking. No option left to cancel the booking.\n\nFinally it's a horrible stay\ud83d\ude31\ud83d\ude31\ud83d\ude31",
+      "Very bad hotel, the service is very bad, their receptionists are very very bad people, please avoid this hotel, not for the service, neither the manager will listen to you nor the customer care, there is very bad and bad service here, please avoid the hotel"
+    ]
+  },
+  "review_summary": "Based on 3 reviews.",
+  "positive_themes": {
+    "clean_rooms": 1,
+    "friendly_staff": 1,
+    "good_location": 1,
+    "good_food": 1
+  },
+  "negative_themes": {
+    "rude_staff": 1
+  }
+}

@@ -1,0 +1,53 @@
+{
+  "hotel_id": "ChIJzVpPAUwHDTkRCd2U21g5PSs",
+  "hotel_name": "Dusky Hotel & Restaurant",
+  "area": "Rohini",
+  "budget_category": "Mid-Range",
+  "rating": 3.9,
+  "trust_score": 0.6817771142764197,
+  "travel_purpose_tags": [
+    "Budget"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "rich",
+    "review_count": 5,
+    "positive_snippet_count": 3,
+    "negative_snippet_count": 2,
+    "positive_theme_count": 4,
+    "negative_theme_count": 2
+  },
+  "aspect_scores": {
+    "cleanliness": 0.8748123645782471,
+    "service": 0.5,
+    "location": 0.6251950765145011,
+    "value_for_money": 0.5,
+    "staff_behavior": 0.7000630779657513
+  },
+  "recommendation_features": {
+    "popularity_score": 0.4079220425584051,
+    "rating_score": 3.9,
+    "sentiment_score": 0.7000630779657513
+  },
+  "review_evidence": {
+    "positive_snippets": [
+      "Very Good hotel for Stay neat and clean.The owner is too much polite and Very helpful it's Nice Experience staying here",
+      "came from jaipur rajasthan for my exams at M.A GLOBAL ONLINE EXAM CENTRE.\nGreat location, really pleasant and clean rooms, but the thing that makes this such a good place and safe to stay is the owner.\nHe is so helpful and generous with his time\nand advice.\nTiny good deeds makes a lot of difference.\nThank you for your hospitality.\nAlso think about students for rupees for room.\nI have promise with owner.",
+      "I came from Maharashtra for my exams. Great location, really pleasant and clean rooms, but the thing that makes this such a good place and safe to stay is the owner. He is so helpful and generous with his time and advice. Tiny good deeds makes a lot of difference. Thank you for your hospitality."
+    ],
+    "negative_snippets": [
+      "\u2b50 1/5 \u2014 Worst Hotel Experience. Completely Unprofessional & Mismanaged.\n\nI stayed at Dusky Hotel & Restaurant during my exam at M.A. Global Examination Centre, Sector 22 Rohini, and the stay was honestly pathetic from start to finish.\n\n\u274c Scam in Pricing\n\nWhen I reached, the board clearly said \u201cRooms @ \u20b9600\u201d, but on call, the owner told me the room was \u20b91500.\nAfter reaching, I found out rooms were actually available for \u20b91200 and even less.\nIt genuinely felt like they took advantage because I travelled all the way from Punjab and urgently needed a room.\n\nThe receptionist made excuses that cheaper rooms were \u201cbooked\u201d, but only 2 rooms were actually occupied.\n\n\u274c Dirty Room & Terrible Washroom\n\nThe room looked fine from outside, but:\n\u2022\tWashroom was extremely dirty\n\u2022\tCommode was broken\n\u2022\tWashroom lock was jammed\n\u2022\tSink had hair\n\u2022\tBedsheet had holes\n\u2022\tThe room was not cleaned after previous use\n\u2022\tOnly one old towel provided\n\u2022\tNo soap, no shampoo, no water\u2014not even basic amenities\n\u2022\tA glass was kept which was full of dirt\n\nI asked them to clean the sink; they barely removed the visible hair. That\u2019s it.\n\n\u274c Unprofessional Behaviour\n\nLater the owner called and instead of listening, he:\n\u2022\tAccused us of \u201ctroubling\u201d the staff\n\u2022\tSaid he would believe his employee over me\n\u2022\tTold me to \u201cgo stay at Radisson\u201d if I wasn\u2019t satisfied\n\u2022\tArgued even after I said the room wasn\u2019t clean\n\nI had already paid \u20b9500 online, and he acted like refunding was doing me a favour.\n\n\u274c Morning Comment From Owner\n\nIn the morning, while I was checking out, the owner said to me:\n\u201cYou studied in a different room, I didn\u2019t say anything\u2026 you used two rooms.\u201d\n\nI had only sat in another room for barely 1\u20132 hours because the chair in my room was broken and leaned all the way back, making it impossible to study. He still counted that as \u201cusing two rooms\u201d.\n\n\u274c Zero Knowledge & No Basic Supplies\n\nThere was not even handwash in the bathroom.\nWhen I asked, the receptionist gave us a fabric perfume mixed with water as \u201chandwash\u201d.\nMy father immediately pointed out that it didn\u2019t even lather. This shows their lack of basic knowledge and hygiene.\n\n\u274c Mosquitoes, Smell & Poor Location\n\u2022\tThe room was filled with mosquitoes; me and my father barely slept.\n\u2022\tThe tap water smelt like sewage\u2014we had to buy water bottles to brush.\n\u2022\tThe location is extremely poor and unsafe.\n\u2022\tA big dirty water pond is right in front of the hotel.\n\u2022\tThe area is underdeveloped, and even delivery guys struggle to find it.\n\u2022\tNo market nearby at all.\n\n\u274c Overall\n\nExcept for the four walls, everything else was below basic standards.\nThis was a \u201cno choice\u201d situation because of my exam, or I would never have stayed here.\n\n\ud83d\udc49 I strongly do NOT recommend this hotel to anyone.\nThere are better and safer stays on the other side of the area with proper markets and better access.\n\nNever staying here again.\nForgot to click pictures of the room and the washroom.\nI would say owner was good only if he had addressed the issue as an issue and not as a trouble.",
+      "I read reviews and booked this hotel. Hotel as shown in the picture wasn't there when i reached the location. The location is not safe.\nWorst experience. Owner didn't refund the booking amount.\nPs: if I am lying... Mr. Owner.. kindly upload the 360degree view of the hotel and it's location. It will be very helpful for the people booking in future."
+    ]
+  },
+  "review_summary": "Based on 5 reviews.",
+  "positive_themes": {
+    "clean_rooms": 4,
+    "friendly_staff": 5,
+    "good_location": 4,
+    "great_value": 1
+  },
+  "negative_themes": {
+    "dirty_rooms": 1,
+    "rude_staff": 1
+  }
+}

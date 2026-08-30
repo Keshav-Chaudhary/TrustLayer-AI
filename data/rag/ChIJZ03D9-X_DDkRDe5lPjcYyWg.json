@@ -1,0 +1,50 @@
+{
+  "hotel_id": "ChIJZ03D9-X_DDkRDe5lPjcYyWg",
+  "hotel_name": "Hotel O Signature Village Guest House",
+  "area": "Gopalpur Village",
+  "budget_category": "Mid-Range",
+  "rating": 3.3,
+  "trust_score": 0.7280828260152901,
+  "travel_purpose_tags": [
+    "Leisure",
+    "Business",
+    "Family"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "moderate",
+    "review_count": 5,
+    "positive_snippet_count": 3,
+    "negative_snippet_count": 0,
+    "positive_theme_count": 5,
+    "negative_theme_count": 0
+  },
+  "aspect_scores": {
+    "cleanliness": 0.9997878670692444,
+    "service": 0.9995242655277252,
+    "location": 0.9998681545257568,
+    "value_for_money": 0.9995466768741608,
+    "staff_behavior": 0.9996121327082316
+  },
+  "recommendation_features": {
+    "popularity_score": 0.5541863122314439,
+    "rating_score": 3.3,
+    "sentiment_score": 0.9976930975914
+  },
+  "review_evidence": {
+    "positive_snippets": [
+      "Staff is very friendly and having a good vibes\nRoom is very clean and very affordable please come and visit....",
+      "Best service available at affordable prices and with all the food and staff services.",
+      "Great experience with very good service.\nStaff was very polite ."
+    ],
+    "negative_snippets": []
+  },
+  "review_summary": "Based on 5 reviews.",
+  "positive_themes": {
+    "clean_rooms": 1,
+    "friendly_staff": 3,
+    "great_value": 2,
+    "good_food": 1,
+    "good_location": 1
+  },
+  "negative_themes": {}
+}

@@ -1,0 +1,51 @@
+{
+  "hotel_id": "ChIJuYjlFNPjDDkRq-G603kqdxU",
+  "hotel_name": "Saltstayz Select",
+  "area": "Okhla",
+  "budget_category": "Budget",
+  "rating": 4.5,
+  "trust_score": 0.5977188557711776,
+  "travel_purpose_tags": [
+    "Budget"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "moderate",
+    "review_count": 5,
+    "positive_snippet_count": 0,
+    "negative_snippet_count": 3,
+    "positive_theme_count": 4,
+    "negative_theme_count": 3
+  },
+  "aspect_scores": {
+    "cleanliness": 0.0003325924189993,
+    "service": 0.0003098252855124,
+    "location": 0.0017170903738587,
+    "value_for_money": 0.0018177256667209,
+    "staff_behavior": 0.0003325924189993
+  },
+  "recommendation_features": {
+    "popularity_score": 0.686034757290049,
+    "rating_score": 4.5,
+    "sentiment_score": 0.0011843749263789
+  },
+  "review_evidence": {
+    "positive_snippets": [],
+    "negative_snippets": [
+      "My stay at Saltstayz Select was strictly average. Perhaps below average would be more accurate.\n\nThe hotel is in severe need of maintenance. The lift buttons are broken, the charging point in my room was loose, the room itself was cold and the hotel won\u2019t give you a heater. There is a general air of neglect and dereliction about the whole place.\n\nWorst of all, they have a bizarre rule about not ordering food from outside. I have stayed in hotels across the country and never have I ever come across a hotel that prohibits ordering food from Zomato or Swiggy.\n\nThe hotel\u2019s own complimentary dinner included in my reservation was tasteless.\n\nThe room is decently size if you are travelling solo. The breakfast spread is decent but I don\u2019t know why they claim it\u2019s served from 8 to 10am. In the four days I was there, breakfast was never fully laid out at 8am. It was by 8.30 that all the dishes were brought in.\n\nThe location of the hotel is good.\n\nAll in all, not worth the Rs 4,000+ per night you will pay per night if you book this place. A hotel like this should not charge more than 2.5k",
+      "I had booked this stay for my sister and she had the most horrible experience. She stayed in early January this year and had to face ample issues with hygiene and safety and literally no resolution from the staff at Nehru Place and from corporate office.\n- The room window lock was broken - this is during peak winters in Delhi.\n- While she was using the toilet, the water ran out. The other guest called the reception and then they were informed that there was some water work going on responsible for this disconnection and my sister was not informed in advance, despite you all messaging on her WhatsApp for things like check in, etc. The water did not come for more than another hour at this time.\n- Water ran yellow and the reception told them that since they had water work, water will run like this for some time. Even this was not informed in advance, had someone been taking a shower or dump and would end up using polluted water.\n- Hot water did not work at all for an entire day and the water smelled really bad. It made her washroom and room smell like sewage. She was again not informed of hot water not available. Since water itself became polluted, she couldn't use it for anything and couldn't even take a shower. She requested reception to change rooms or make alternate arrangements and none of her requests were entertained and infact, your staff there was completely ignorant and insensitive to difficulties she has had.\n- For the last two days, the water ran black and smelly in the toilet. The maintenance guys who came to check the issue acknowledged that there is a smell but your own management was dismissive about it.\nWe finally reached out to the corporate office and even they did not care to respond at all. This is when we paid over Rs, 10,000 for 3 nights which is not cheap!\nMy sister even become sick from cold exposure and unhygienic water.",
+      "Came here only because it was close to jamia milia.\n\nWorst hotel I've ever been to. The staff was a total nightmare, they had a problem with everything we did and scolded us for ordering blinkit and zomato even though they had shitty, overpriced food. Not to mention, their room service wasnt working. We asked them to give us unsweetened tea but guess what it had sugar in it.\n\nNo wifi, no room service, dirty bathroom, terrible staff, expensive for one night (6-7k on this garbage). No point staying here."
+    ]
+  },
+  "review_summary": "Based on 5 reviews.",
+  "positive_themes": {
+    "good_location": 4,
+    "great_value": 2,
+    "good_food": 2,
+    "friendly_staff": 2
+  },
+  "negative_themes": {
+    "bad_food": 1,
+    "dirty_rooms": 3,
+    "rude_staff": 1
+  }
+}

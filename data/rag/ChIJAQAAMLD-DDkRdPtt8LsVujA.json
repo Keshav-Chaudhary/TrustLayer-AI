@@ -1,0 +1,52 @@
+{
+  "hotel_id": "ChIJAQAAMLD-DDkRdPtt8LsVujA",
+  "hotel_name": "Radisson Blu Plaza Hotel, Delhi Airport",
+  "area": "Mahipalpur",
+  "budget_category": "Luxury",
+  "rating": 4.6,
+  "trust_score": 0.9963968679992252,
+  "travel_purpose_tags": [
+    "Leisure",
+    "Business",
+    "Family"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "moderate",
+    "review_count": 5,
+    "positive_snippet_count": 3,
+    "negative_snippet_count": 0,
+    "positive_theme_count": 5,
+    "negative_theme_count": 1
+  },
+  "aspect_scores": {
+    "cleanliness": 0.999847248196602,
+    "service": 0.9998107751210532,
+    "location": 0.9998415410518646,
+    "value_for_money": 0.9998036026954652,
+    "staff_behavior": 0.999808982014656
+  },
+  "recommendation_features": {
+    "popularity_score": 1.0,
+    "rating_score": 4.6,
+    "sentiment_score": 0.999814522266388
+  },
+  "review_evidence": {
+    "positive_snippets": [
+      "We had a very pleasant stay at the hotel. The rooms were clean, spacious, and well maintained. The staff was polite, helpful, and always ready to assist. Food quality was good and service was timely. Overall ambience of the hotel was calm and comfortable, which made our stay relaxing.\nSpecial thanks from Shreen and Sheetal for the warm hospitality. We would definitely recommend this hotel to others and would love to visit again.",
+      "Our stay at the hotel was excellent from start to finish. Check-in was smooth and welcoming, the room was spotless, modern, and very comfortable, and the entire property felt clean and well maintained. We also really enjoyed the food: high quality, well presented, and consistently good.\n\nA highlight of our stay was a deep tissue massage with Anju. She took the time to understand where I was sore and worked with precision and confidence, applying firm, targeted pressure that provided real relief. It was not just relaxing. More than that, it was genuinely therapeutic. I left feeling significantly better and would highly recommend her. She continued to provide excellent suggestions after the massage to ensure the benefits of the treatment would last longer.",
+      "I recently stayed at Radisson Blu Hotel, Mahipalpur (near Delhi Airport) and it was truly a wonderful experience. From the moment we arrived, everything was handled professionally and smoothly.\n\nA special thanks to Shivani and Suraj for their exceptional hospitality. They were extremely polite, attentive, and always ready to help with a smile. Their warm and welcoming attitude really made our stay extra comfortable and memorable.\n\nThe rooms were clean, spacious, and well-maintained. The ambience of the hotel is elegant, and the overall service standards are impressive. The food was delicious, and the staff ensured that every small detail was taken care of.\n\nI would highly recommend this hotel to anyone visiting Delhi, especially if you\u2019re looking for comfort and top-notch service near the airport. Looking forward to staying here again!"
+    ],
+    "negative_snippets": []
+  },
+  "review_summary": "Based on 5 reviews.",
+  "positive_themes": {
+    "clean_rooms": 4,
+    "friendly_staff": 5,
+    "good_food": 3,
+    "good_location": 1,
+    "great_value": 1
+  },
+  "negative_themes": {
+    "noise": 1
+  }
+}

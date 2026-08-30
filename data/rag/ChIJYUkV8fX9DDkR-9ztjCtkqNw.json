@@ -1,0 +1,48 @@
+{
+  "hotel_id": "ChIJYUkV8fX9DDkR-9ztjCtkqNw",
+  "hotel_name": "Venizia Sarovar Portico, Model Town",
+  "area": "Kalyan Vihar",
+  "budget_category": "Mid-Range",
+  "rating": 3.9,
+  "trust_score": 0.8457128803412306,
+  "travel_purpose_tags": [
+    "Leisure",
+    "Business"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "moderate",
+    "review_count": 5,
+    "positive_snippet_count": 3,
+    "negative_snippet_count": 0,
+    "positive_theme_count": 4,
+    "negative_theme_count": 0
+  },
+  "aspect_scores": {
+    "cleanliness": 0.9998396833737692,
+    "service": 0.9998612801233928,
+    "location": 0.9998396833737692,
+    "value_for_money": 0.5,
+    "staff_behavior": 0.9998519569635392
+  },
+  "recommendation_features": {
+    "popularity_score": 0.7291545915821304,
+    "rating_score": 3.9,
+    "sentiment_score": 0.99974445104599
+  },
+  "review_evidence": {
+    "positive_snippets": [
+      "The hotel is conveniently located near Model Town Metro Station, making it easily accessible and well-connected to key areas of the city. From the moment we arrived, the service staff were extremely courteous, professional, and attentive to our needs. Their warm hospitality truly enhanced our overall experience.\nThe room was spacious, comfortable, and well-maintained. The bedsheets and linens were clean, fresh, and neatly arranged, reflecting the hotel\u2019s commitment to hygiene and quality standards and mr chandan of  Housekeeping services were prompt and efficient, ensuring a pleasant and relaxing stay .\nThe breakfast offered a good variety of options, catering to different preferences. The food was fresh, well-prepared, and flavorful. A special mention to Mrs. Sonam, who was managing the breakfast service exceptionally well. She ensured everything was organized smoothly and personally took great care of the guests, which added a thoughtful and welcoming touch to our mornings.\nOverall, our stay was comfortable, enjoyable, and hassle-free. We truly appreciate the dedication and professionalism of the entire team and would gladly recommend this hotel to others. Thank you for the wonderful hospitality.",
+      "I am staying at Sarovar portico since 04 Jan. The hotel is located at a prime place & suits my work requirement!\nThe rooms could have been better with Provision for heating arrangements, especially given the Cold conditions in Delhi currently. The restaurant is Ok , however the range of Options available for breakfast are the same everyday, including the same 2 fruits. This should be improved upon. Otherwise a pleasant stay & a Good experience",
+      "Hotel located near Model Town metro station. Service staff was courteous and helpful. Room was comfortable and bedsheets were clean. Breakfast veriety was decent and tasty. Mrs Sonam had been looking after breakfast management and taken good care of us. Overall, had pleasant stay here. Thank you!"
+    ],
+    "negative_snippets": []
+  },
+  "review_summary": "Based on 5 reviews.",
+  "positive_themes": {
+    "clean_rooms": 3,
+    "friendly_staff": 4,
+    "good_location": 3,
+    "good_food": 5
+  },
+  "negative_themes": {}
+}

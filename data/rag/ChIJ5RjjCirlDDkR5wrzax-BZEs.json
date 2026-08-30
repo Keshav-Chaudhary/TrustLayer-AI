@@ -1,0 +1,49 @@
+{
+  "hotel_id": "ChIJ5RjjCirlDDkR5wrzax-BZEs",
+  "hotel_name": "Hr Grand Hotel",
+  "area": "Jasola Vihar",
+  "budget_category": "Mid-Range",
+  "rating": 4.6,
+  "trust_score": 0.7283751136886922,
+  "travel_purpose_tags": [
+    "Budget"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "moderate",
+    "review_count": 5,
+    "positive_snippet_count": 2,
+    "negative_snippet_count": 3,
+    "positive_theme_count": 3,
+    "negative_theme_count": 0
+  },
+  "aspect_scores": {
+    "cleanliness": 0.9998666048049928,
+    "service": 0.3333870447725833,
+    "location": 0.5,
+    "value_for_money": 0.0008014062768779,
+    "staff_behavior": 0.5000069347806857
+  },
+  "recommendation_features": {
+    "popularity_score": 0.6395319914422644,
+    "rating_score": 4.6,
+    "sentiment_score": 0.4000454510533018
+  },
+  "review_evidence": {
+    "positive_snippets": [
+      "Mr Mohd anas. Excellent experience! The hotel exceeded my expectations in every way. The room was spotless, beautifully designed, and had a very cozy atmosphere. The staff\u2019s hospitality was top-notch\u2014they were responsive, friendly, and made sure I had everything I needed.\nThe food was delicious, the property felt safe, and all facilities were well maintained. I would definitely choose this hotel again and again as I did",
+      "The stay was comfortable and the staff was cooperative. I especially appreciate Syed Iqram Ali and Masoom bhai for their professionalism and helpful nature. The only suggestion would be to improve the room service for a better experience."
+    ],
+    "negative_snippets": [
+      "Never book this hotel. As you can see in the attached image, this hotel and its related properties are shown as couple-friendly at the time of booking. However, once you arrive and contact customer care, the reality is completely different. The staff\u2014and even the man at the reception\u2014clearly say \u201cNO, we don\u2019t allow couples.\u201d\n\nThis is pure misinformation and a waste of time, money, and mental peace. If you don\u2019t allow couples, then don\u2019t advertise yourself as couple-friendly. Such misleading practices are unacceptable.\n\nOverall, a third-class experience with zero professionalism. I strongly recommend not booking this hotel.",
+      "Very disappointing stay at HR Grand Hotel.\n\nOn Day 1, the ceiling fan in my room was not working. I informed the staff immediately and was told it would be taken care of.\n\nOn Day 2, the fan was replaced, but shockingly the new fan got short-circuited. This was clearly a safety issue.\n\nDespite repeated complaints, the fan was never replaced or repaired for the rest of my stay. I stayed for 3 days without a working fan, which made it extremely uncomfortable and affected my sleep badly.\n\nNo proper response, no room change, and no urgency from the hotel staff.\n\nThis has been one of the worst hotel experiences I've had.\n\nI would not recommend this hotel to anyone, especially if you expect basic amenities and prompt service.",
+      "Very bad experience. They told us about a different room online and when we went there they gave us a different room in another hotel and that room was very cold and had no facilities."
+    ]
+  },
+  "review_summary": "Based on 5 reviews.",
+  "positive_themes": {
+    "clean_rooms": 1,
+    "friendly_staff": 4,
+    "good_food": 1
+  },
+  "negative_themes": {}
+}

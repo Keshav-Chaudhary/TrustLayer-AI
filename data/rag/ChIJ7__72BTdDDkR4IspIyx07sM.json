@@ -1,0 +1,48 @@
+{
+  "hotel_id": "ChIJ7__72BTdDDkR4IspIyx07sM",
+  "hotel_name": "Hotel O Dev Palace",
+  "area": "Sector 86",
+  "budget_category": "Luxury",
+  "rating": 4.1,
+  "trust_score": 0.6141671389116005,
+  "travel_purpose_tags": [
+    "Budget"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "moderate",
+    "review_count": 4,
+    "positive_snippet_count": 2,
+    "negative_snippet_count": 2,
+    "positive_theme_count": 3,
+    "negative_theme_count": 0
+  },
+  "aspect_scores": {
+    "cleanliness": 0.5,
+    "service": 0.5,
+    "location": 0.5,
+    "value_for_money": 0.0020130150660406,
+    "staff_behavior": 0.0004696368123404
+  },
+  "recommendation_features": {
+    "popularity_score": 0.2637433020525564,
+    "rating_score": 4.1,
+    "sentiment_score": 0.5009337898663944
+  },
+  "review_evidence": {
+    "positive_snippets": [
+      "Nice hotel \ud83d\udecd\ufe0f",
+      "Great hotel nice hotel"
+    ],
+    "negative_snippets": [
+      "Booked this room through Oyo for 3 people at night. Got late for check in so I contacted the hotel to inform about timings. He denied the booking at the price confirmed by Oyo and asked for the higher tarrif. He was taking benefit for the late night checking and ask me to search for other hotel.",
+      "The owner's behavior is very bad and he is very dishonest. He says one thing on the phone and after going there he says one thing and the rate of food is very bad. The system is very bad and the rate of food is very high. They give a thing worth Rs. 100 for Rs. 400. After going there all the staff are drinkers and they have no respect for anyone."
+    ]
+  },
+  "review_summary": "Based on 4 reviews.",
+  "positive_themes": {
+    "friendly_staff": 1,
+    "great_value": 1,
+    "good_food": 1
+  },
+  "negative_themes": {}
+}

@@ -1,0 +1,50 @@
+{
+  "hotel_id": "ChIJe1-rNqjjDDkR8ByQ3dve4Pc",
+  "hotel_name": "Hotel Kabli",
+  "area": "Bhogal",
+  "budget_category": "Mid-Range",
+  "rating": 4.0,
+  "trust_score": 0.8436726688835857,
+  "travel_purpose_tags": [
+    "Leisure",
+    "Business"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "moderate",
+    "review_count": 5,
+    "positive_snippet_count": 3,
+    "negative_snippet_count": 1,
+    "positive_theme_count": 4,
+    "negative_theme_count": 0
+  },
+  "aspect_scores": {
+    "cleanliness": 0.999603033065796,
+    "service": 0.999669055143992,
+    "location": 0.9977198441823324,
+    "value_for_money": 0.5,
+    "staff_behavior": 0.999669055143992
+  },
+  "recommendation_features": {
+    "popularity_score": 0.6589214981515372,
+    "rating_score": 4.0,
+    "sentiment_score": 0.9985050559043884
+  },
+  "review_evidence": {
+    "positive_snippets": [
+      "The rooms were spacious, clean, and felt like a home away from home. The hotelier was very friendly and took an extra effort to provide us with a prayer mat in the room. The service was incredible, and the breakfast options were varied and tasty. There is an item menu also wherein if you forgot an essential item the hotel will bring it for you. Will surely stay here again if I come to delhi.",
+      "We've stayed in Kabli three times already. It's a place in a stylish, post-colonial building with a nice garden where you can have breakfast. The rooms are spacious and clean, especially the sheets. The location is somewhat far from the railway station or the airport, but there are metro stations nearby, also it's more quiet than Paharganj for example. Probably will choose it again if we come back to Delhi.",
+      "Overall a great experience with the hotel and the staff. The property is like a old house, with a few hacks done to include the modern amenities. The place has an antique feel to it. The staff was very helpful and always prompt with any on the requests we had. The food was good as well. We were staying with our toddler for 1 night only but we had a great time time with him, with great outdoor space and helpful staff. Overall it was a very pleasant stay."
+    ],
+    "negative_snippets": [
+      "Good place to stay near nizammuddin station (1.5 km), jangpura (1km), lajpat nagar area, they are having pre independent property, ambience is pure natural aesthatic, toiletries were provided, best part they had given me early check out, so i will give my highfive for that \ud83d\ude4c."
+    ]
+  },
+  "review_summary": "Based on 5 reviews.",
+  "positive_themes": {
+    "clean_rooms": 3,
+    "friendly_staff": 3,
+    "good_food": 4,
+    "good_location": 3
+  },
+  "negative_themes": {}
+}

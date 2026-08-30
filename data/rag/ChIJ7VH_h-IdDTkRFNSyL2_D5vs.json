@@ -1,0 +1,50 @@
+{
+  "hotel_id": "ChIJ7VH_h-IdDTkRFNSyL2_D5vs",
+  "hotel_name": "Oyo Hotel Royal Stay",
+  "area": "Delhi",
+  "budget_category": "Budget",
+  "rating": 3.5,
+  "trust_score": 0.4012010156254896,
+  "travel_purpose_tags": [
+    "Budget"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "moderate",
+    "review_count": 5,
+    "positive_snippet_count": 1,
+    "negative_snippet_count": 3,
+    "positive_theme_count": 3,
+    "negative_theme_count": 1
+  },
+  "aspect_scores": {
+    "cleanliness": 0.0011552435850413,
+    "service": 0.5,
+    "location": 0.0006120575562817,
+    "value_for_money": 0.002644327187833,
+    "staff_behavior": 0.0067088664509356
+  },
+  "recommendation_features": {
+    "popularity_score": 0.3856836393487762,
+    "rating_score": 3.5,
+    "sentiment_score": 0.0021242285089101
+  },
+  "review_evidence": {
+    "positive_snippets": [
+      "i was there for 1 day. found few findings:\n1. environment was not safe.\n2. i booked two room 10 days back and at the time of checkin they said room are in different floor. (due to that we stayed in one room)\n3. no water in the room\n4. room was quite dirty."
+    ],
+    "negative_snippets": [
+      "i was there for 1 day. found few findings:\n1. environment was not safe.\n2. i booked two room 10 days back and at the time of checkin they said room are in different floor. (due to that we stayed in one room)\n3. no water in the room\n4. room was quite dirty.\nIssues:\n1) Firstly the location is incorrect...\n2) There is no contact number... Priceline or Agoda not able to give ..\n3) Very hard to find the location... it is 5kms far from this google location.\n4) Cost is more than actual .. direct visit is 40% less than shown in google.\n5) Cleanliness is avg.. only normal water.. no mineral water bottle.",
+      "Fake Hotel\nNot For Safe For Couple And Family.\nSo I Recommend All Of You .Don't waste your time and money by visiting this hotel.\nUnSafe Hotel And Staff Was Very Very Bad And Un Honest.\nI Stayed With Family.\nVery Very Worst Experience.\nSo I Recommend Again Please Don't Go At This Place.\nVery Very Unsafe Hotel .",
+      "Issues:\n1) Firstly the location is incorrect...\n2) There is no contact number... Priceline or Agoda not able to give ..\n3) Very hard to find the location... it is 5kms far from this google location.\n4) Cost is more than actual .. direct visit is 40% less than shown in google.\n5) Cleanliness is avg.. only normal water.. no mineral water bottle."
+    ]
+  },
+  "review_summary": "Based on 5 reviews.",
+  "positive_themes": {
+    "clean_rooms": 2,
+    "good_location": 2,
+    "friendly_staff": 1
+  },
+  "negative_themes": {
+    "dirty_rooms": 3
+  }
+}

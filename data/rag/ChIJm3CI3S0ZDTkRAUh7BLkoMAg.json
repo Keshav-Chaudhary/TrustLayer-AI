@@ -1,0 +1,54 @@
+{
+  "hotel_id": "ChIJm3CI3S0ZDTkRAUh7BLkoMAg",
+  "hotel_name": "Hotel Maharaja Palace Near Medanta Hospital, Hotel In Sector 38 Gurgaon",
+  "area": "Sector 38",
+  "budget_category": "Luxury",
+  "rating": 4.5,
+  "trust_score": 0.8391879901943425,
+  "travel_purpose_tags": [
+    "Budget"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "moderate",
+    "review_count": 5,
+    "positive_snippet_count": 3,
+    "negative_snippet_count": 1,
+    "positive_theme_count": 5,
+    "negative_theme_count": 3
+  },
+  "aspect_scores": {
+    "cleanliness": 0.5001171792391687,
+    "service": 0.5001171792391687,
+    "location": 0.6663977679175636,
+    "value_for_money": 0.998952865600586,
+    "staff_behavior": 0.6667008774044613
+  },
+  "recommendation_features": {
+    "popularity_score": 0.6234256697061392,
+    "rating_score": 4.5,
+    "sentiment_score": 0.7997789368964732
+  },
+  "review_evidence": {
+    "positive_snippets": [
+      "recently stayed at Hotel Maharaja Palace and had a very pleasant experience. The hotel is well-maintained and my room was beautiful, offering a panoramic view along with a huge balcony that made the stay even more enjoyable.\n\nThe staff were responsive and helpful any issue I had was addressed immediately without any hassle.\n\nOverall, it was a comfortable and satisfying stay. I would happily recommend Hotel Maharaja Palace to anyone looking for a good, relaxing place to stay.",
+      "Very niCmce hotel. Rooms have every thing you expect. Pleasant stay. Suman Kumar Jha is a nice host.",
+      "I recently visited this place for my EA exam. Anyone looking for an affordable option near the Prometric exam centre should definitely try it. I highly recommend it for those traveling from Ahmedabad to Gurgaon for the EA exam."
+    ],
+    "negative_snippets": [
+      "Horrible experience.. I had an incredibly disappointing experience at the Hotel Maharaja Palace, located in sector 38 Near Subhash Chowk Gurugram. Furts, the receptionist staff were extremely unhelpful and unfriendly. They seemed disinterested in assisting guests and were downright rude when I had questions about my reservation.\nThe problems didn't end there. The room I was assigned to was in terrible condition. The carpets were stained, the bathroom was dirty, and the air conditioning was barely working. I immediately called the front desk to request a room change, but they brushed me off and said they were fully booked, even though I had made a reservation well in advance. They even said that, if you don't like it just vacate the room in the middle of night. To make matters worse, the hotel's services were a complete letdown. The food was overpriced and tasteless. The Wi-Fi was painfully slow and unreliable, making it impossible to get any work done during my stay. Overall my experience at the Hotel Maharaja palace was nothing short of a nightmare. I would strongly advise anyone considering staying there to look elsewhere for accommodations....\nVery disappointed don't stay.."
+    ]
+  },
+  "review_summary": "Based on 5 reviews.",
+  "positive_themes": {
+    "friendly_staff": 3,
+    "good_location": 2,
+    "great_value": 1,
+    "clean_rooms": 1,
+    "good_food": 2
+  },
+  "negative_themes": {
+    "dirty_rooms": 1,
+    "rude_staff": 1,
+    "bad_food": 1
+  }
+}

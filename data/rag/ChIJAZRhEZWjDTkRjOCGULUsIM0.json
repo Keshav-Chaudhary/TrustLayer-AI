@@ -1,0 +1,50 @@
+{
+  "hotel_id": "ChIJAZRhEZWjDTkRjOCGULUsIM0",
+  "hotel_name": "Mehandi Resort",
+  "area": "Khanda Rd",
+  "budget_category": "Luxury",
+  "rating": 4.3,
+  "trust_score": 0.7666681932968267,
+  "travel_purpose_tags": [
+    "Leisure"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "moderate",
+    "review_count": 5,
+    "positive_snippet_count": 2,
+    "negative_snippet_count": 3,
+    "positive_theme_count": 2,
+    "negative_theme_count": 1
+  },
+  "aspect_scores": {
+    "cleanliness": 0.5,
+    "service": 0.5,
+    "location": 0.9998304843902588,
+    "value_for_money": 0.0029413774609565,
+    "staff_behavior": 0.5
+  },
+  "recommendation_features": {
+    "popularity_score": 0.4067510860676074,
+    "rating_score": 4.3,
+    "sentiment_score": 0.8002576485276223
+  },
+  "review_evidence": {
+    "positive_snippets": [
+      "Excellent resorts ...and equally good services ...ecofriendly environment ...love the view and food is amazing...if coming for Haryana tourism must stay here ...\ud83d\udc4d\ud83d\udc4c\u270c",
+      "One of the best tourist places to visit in Goa."
+    ],
+    "negative_snippets": [
+      "The place is extremely smaller than it is pictured and placed for booking really nice trick in picture where as it is less than half it seems to be in picture. Also, we reached there by means of online platform and they denied us by saying online booking are cancelled and thus asked to pay cash and book again at higher prices. Thus they are in a trick to call customer via online platforms and thus lock their own price and terms. This is a trick photo attached in real it is no more than 10 rooms property cum banquet cum party hall and not a resort, resort is a name not type.",
+      "It's a good resort for marriages any function at khanda road kharkhoda theres parking available and rooms are available",
+      "It is a resort given on hire to those who want to party here on various happy moments of life.It is in a township & caters to people in & around the town."
+    ]
+  },
+  "review_summary": "Based on 5 reviews.",
+  "positive_themes": {
+    "friendly_staff": 1,
+    "good_food": 1
+  },
+  "negative_themes": {
+    "parking_issues": 1
+  }
+}

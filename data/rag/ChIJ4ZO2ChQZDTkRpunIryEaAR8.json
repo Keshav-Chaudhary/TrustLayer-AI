@@ -1,0 +1,50 @@
+{
+  "hotel_id": "ChIJ4ZO2ChQZDTkRpunIryEaAR8",
+  "hotel_name": "Hotel Gracious",
+  "area": "Civil Lines",
+  "budget_category": "Mid-Range",
+  "rating": 4.6,
+  "trust_score": 0.8465338318310305,
+  "travel_purpose_tags": [
+    "Business",
+    "Family"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "moderate",
+    "review_count": 5,
+    "positive_snippet_count": 3,
+    "negative_snippet_count": 0,
+    "positive_theme_count": 4,
+    "negative_theme_count": 1
+  },
+  "aspect_scores": {
+    "cleanliness": 0.9997310042381288,
+    "service": 0.9997979700565338,
+    "location": 0.5,
+    "value_for_money": 0.9998383522033693,
+    "staff_behavior": 0.9994459003210068
+  },
+  "recommendation_features": {
+    "popularity_score": 0.2958444386389672,
+    "rating_score": 4.6,
+    "sentiment_score": 0.9995243906974792
+  },
+  "review_evidence": {
+    "positive_snippets": [
+      "One of the best hotel in gurugram\nStaff ver coperative\nFood was aowsome\nParking facility also good",
+      "This hotel is best hotel in under gurugram all staff behaviour so excellent and food are so tasty \ud83d\ude0b\ud83d\ude0b",
+      "Nice hotel service rooms clean staff behaviour good"
+    ],
+    "negative_snippets": []
+  },
+  "review_summary": "Based on 5 reviews.",
+  "positive_themes": {
+    "friendly_staff": 5,
+    "good_food": 4,
+    "clean_rooms": 1,
+    "great_value": 1
+  },
+  "negative_themes": {
+    "parking_issues": 1
+  }
+}

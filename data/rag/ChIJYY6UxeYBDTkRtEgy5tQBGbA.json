@@ -1,0 +1,53 @@
+{
+  "hotel_id": "ChIJYY6UxeYBDTkRtEgy5tQBGbA",
+  "hotel_name": "Collection O By Oyo Shalimar Bagh",
+  "area": "Shalimar Bagh",
+  "budget_category": "Budget",
+  "rating": 3.6,
+  "trust_score": 0.5833214227308399,
+  "travel_purpose_tags": [
+    "Budget"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "moderate",
+    "review_count": 5,
+    "positive_snippet_count": 2,
+    "negative_snippet_count": 3,
+    "positive_theme_count": 3,
+    "negative_theme_count": 3
+  },
+  "aspect_scores": {
+    "cleanliness": 0.0007224502624012,
+    "service": 0.0006402391882147,
+    "location": 0.4999761393119115,
+    "value_for_money": 0.0008868724107742,
+    "staff_behavior": 0.4003020657575689
+  },
+  "recommendation_features": {
+    "popularity_score": 0.5821677582793436,
+    "rating_score": 3.6,
+    "sentiment_score": 0.4003020657575689
+  },
+  "review_evidence": {
+    "positive_snippets": [
+      "I couldn't find any specific emails or documents in your Workspace about a hotel being very good for couples.\n\nHowever, a search for hotels that are highly rated for couples, particularly in the Delhi NCR area, yielded some excellent options and general tips for choosing a romantic stay: Recommended Couple-Friendly Hotels in Delhi NCR\n\nIt is very good as hotels",
+      "Good one property staff also good and polite location inside a gali but okay"
+    ],
+    "negative_snippets": [
+      "Most pathetic hotel ever seen..\n1.\tImages are totally different from real one\n2.\tLot of bug bites (khatmal) are there in beds\n3.\tWalls, washrooms, bedsheets are soo dirty\n4.\tThey charge extra money for parking\n5.\tArea is not good at all\n6.\tStaff is bit rude\n7.\tAll the ACs do not have covers which creates doubts of secret hidden camera\n8.\tNo privacy at all",
+      "Worst experience at this hotel. The AC doesn't work. No pillows, no buckets, no body wash, no towels. Absolutely terrible experience.\nI request everyone to never book a room in this hotel.\nI even called the reception but didn't get any positive response.\nThe hotel staff behaviour was very bad.\nThe location of the hotel was also very bad,room also dirty.\nI don't expect this from OYO",
+      "This is not a hotel , Guest house category room , small cockroch every room and bedsheet , washroom not proper maintain to hotel cleanless , staff was very rude and service , dirty smell room and washroom .room key is not available every room open any other person we can enter every room , not a. Secure , prostituted area and staff."
+    ]
+  },
+  "review_summary": "Based on 5 reviews.",
+  "positive_themes": {
+    "friendly_staff": 5,
+    "good_location": 2,
+    "clean_rooms": 1
+  },
+  "negative_themes": {
+    "dirty_rooms": 3,
+    "rude_staff": 2,
+    "parking_issues": 1
+  }
+}

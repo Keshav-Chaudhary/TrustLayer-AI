@@ -1,0 +1,53 @@
+{
+  "hotel_id": "ChIJ-cFw1QcDDTkRZHlhKN9WUNs",
+  "hotel_name": "Hotel O Delhi",
+  "area": "New Delhi",
+  "budget_category": "Mid-Range",
+  "rating": 4.4,
+  "trust_score": 0.7034333546336605,
+  "travel_purpose_tags": [
+    "Leisure"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "moderate",
+    "review_count": 5,
+    "positive_snippet_count": 2,
+    "negative_snippet_count": 3,
+    "positive_theme_count": 4,
+    "negative_theme_count": 2
+  },
+  "aspect_scores": {
+    "cleanliness": 0.5001003543875412,
+    "service": 0.5019567662384361,
+    "location": 0.999831199645996,
+    "value_for_money": 0.0004224859003443,
+    "staff_behavior": 0.5010418045058032
+  },
+  "recommendation_features": {
+    "popularity_score": 0.6459738562751545,
+    "rating_score": 4.4,
+    "sentiment_score": 0.4009073454304598
+  },
+  "review_evidence": {
+    "positive_snippets": [
+      "I recently stayed here and had a fantastic experience from start to finish. The staff were incredibly friendly, professional, and always ready to help. Check-in was smooth, and I was even offered a welcome drink \u2014 a nice touch!\n\nThe room was spotless, modern, and very comfortable. I especially appreciated the soft bedding, quiet air conditioning, and the view from the balcony. Housekeeping did a great job keeping everything clean during my stay.",
+      "Had a wonderful stay for 5days...service was very good...staff behaviour were nice and food served were hot,fresh,and homely ...all the amenities were served well..."
+    ],
+    "negative_snippets": [
+      "I had a very bad experience at Hotel O Delhi. The service is third class \u2014 I called the staff many times for room cleaning, but nobody came. The room shown in the pictures is completely different from the actual one. Very disappointing stay. I do not recommend this hotel.",
+      "This hotel is a nightmare. In the middle of my confirmed stay, they suddenly forced me to shift to another property \u201cfor one night\u201d without any valid reason. The alternate hotel was like a bunker \u2013 suffocatingly narrow stairs, unsafe rooms, and my floor led directly to an open roof with no gate or security at all.\n\nI spent the night feeling unsafe and cheated. Staff gave vague excuses and took zero responsibility. Absolutely unprofessional, unsafe, and disrespectful to guests.\n\nIf you value your safety and peace of mind, do NOT book this hotel.",
+      "One of the worst property of Karol Bagh, while booking they have sent 4 years old picture of the rooms and when we arrived there it was completely different setups, rooms are extremely dirty , all the wardrobes are broken , it\u2019s like a horrible stay for 2 nights . Washrooms are not clean at all."
+    ]
+  },
+  "review_summary": "Based on 5 reviews.",
+  "positive_themes": {
+    "clean_rooms": 3,
+    "friendly_staff": 4,
+    "good_food": 1,
+    "great_value": 1
+  },
+  "negative_themes": {
+    "rude_staff": 1,
+    "dirty_rooms": 1
+  }
+}

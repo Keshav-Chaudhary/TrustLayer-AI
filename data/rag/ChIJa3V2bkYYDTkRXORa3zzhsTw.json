@@ -1,0 +1,53 @@
+{
+  "hotel_id": "ChIJa3V2bkYYDTkRXORa3zzhsTw",
+  "hotel_name": "Hotel Haut Monde, Gurgaon",
+  "area": "Patel Nagar",
+  "budget_category": "Mid-Range",
+  "rating": 3.7,
+  "trust_score": 0.6303715116877747,
+  "travel_purpose_tags": [
+    "Leisure"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "moderate",
+    "review_count": 5,
+    "positive_snippet_count": 2,
+    "negative_snippet_count": 3,
+    "positive_theme_count": 4,
+    "negative_theme_count": 2
+  },
+  "aspect_scores": {
+    "cleanliness": 0.0004395885140789,
+    "service": 0.4971177428597002,
+    "location": 0.989307940006256,
+    "value_for_money": 0.0003800998238147,
+    "staff_behavior": 0.2498741032832185
+  },
+  "recommendation_features": {
+    "popularity_score": 0.7446885877276265,
+    "rating_score": 3.7,
+    "sentiment_score": 0.397760870627826
+  },
+  "review_evidence": {
+    "positive_snippets": [
+      "Honest Review: Based on 2 nights stay.\n\nBest location in main part of city. Good pantry hall and food. Spacious room. Good receptionist.\n\nCons:\n1) Frequent power shutdown after 10pm.\n2) Swimming pool not great.\n3) Service and Bedding okay.\n4) No one guided me to my room...\n\nGood for 2 nights stay. .",
+      "Celebrated my daughters 5th bday there on the terrace. They have a swimming pool on terrace so we.could use that space as well. Service and arrangement was as we expected. Food was tasty.\nLiked the arrangements.\nJust that they dont allow any outside third party to decorate, as they have their own vendor and you have to do the decorations thru him.\nDecoration costed arnd 7k.\nAnd Isha was very helpful there thruout the event.\nOverall I had a very nice experience and my daughter was happy \ud83d\ude0a"
+    ],
+    "negative_snippets": [
+      "This place is a little shady. Definitely not a 4 star. The service is poor, and rooms are not upto the mark (clogged washrooms; no hot water; and the staff keeps turning the central ac off). Apart from this, there are plenty of hygiene issues (bedding is not changed regularly... towels too.)",
+      "Very poor service in butter chicken I got cockroach the order comes in my room.i have asked to ranjeet also.bedsheets are not changed on daily basics in a month I think they change .unhygienic rooms are there .outerarea is so dirty.jaisingh from hk is so rude. Waste of money",
+      "No staff to guide me to the room at the time of check-in. Dirty looking lift and dirty floor carpets eminating a foul odor. Room door handle did not work properly. Phone handset did not work properly. Musty and stuffy smelling rooms - bathroom wall had signs of water seepage. Mattress was uncomfortable. Pillow covers and bedsheet underneath was stained. In room dining experience with the quality of food was really bad - did not deliver the items as ordered the first time - taste was below average for the items ordered. The only good thing about the experience was that the staff was courteous and the quality of buffet breakfast was slightly above average - although not so much in terms of the spread. The pics looked convincing and I had booked for 2 days and 2 nights. Checked in at around 9pm and checked out before 11am the next day - couldn't stand staying at the place any further, forget the money!"
+    ]
+  },
+  "review_summary": "Based on 5 reviews.",
+  "positive_themes": {
+    "good_location": 1,
+    "good_food": 3,
+    "friendly_staff": 3,
+    "clean_rooms": 1
+  },
+  "negative_themes": {
+    "dirty_rooms": 2,
+    "rude_staff": 1
+  }
+}

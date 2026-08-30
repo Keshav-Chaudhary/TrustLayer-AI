@@ -1,0 +1,50 @@
+{
+  "hotel_id": "ChIJn7p71dPjDDkRmAbO7nz1zME",
+  "hotel_name": "Casa Royal",
+  "area": "Chittaranjan Park",
+  "budget_category": "Mid-Range",
+  "rating": 3.5,
+  "trust_score": 0.5054758638416733,
+  "travel_purpose_tags": [
+    "Budget"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "moderate",
+    "review_count": 5,
+    "positive_snippet_count": 0,
+    "negative_snippet_count": 3,
+    "positive_theme_count": 4,
+    "negative_theme_count": 2
+  },
+  "aspect_scores": {
+    "cleanliness": 0.3329150415714442,
+    "service": 0.0032210490098805,
+    "location": 0.0062157232314348,
+    "value_for_money": 0.0032210490098805,
+    "staff_behavior": 0.0022539340958852
+  },
+  "recommendation_features": {
+    "popularity_score": 0.5121111013177606,
+    "rating_score": 3.5,
+    "sentiment_score": 0.2446758832636987
+  },
+  "review_evidence": {
+    "positive_snippets": [],
+    "negative_snippets": [
+      "It is not a hotel but can be called a dharamshala. I reached late night at this place and early morning first thing I did was to check out from there. I have seen that young unmarried couples are taking room there on hourly basis for their enjoyment. I would suggest not to book this place.",
+      "Good stay. Clean n comfortable. However its pricey! After such a high amount per night they even charge for the condiments like chips and soft drinks you use from the mini bar in the room that too at more than double of the MRP!",
+      "Here  I only share my own view as I faced during my stay. I don't know about others I stayed almost 1 week there due to the very bad service I had left that hotel.But the experience was very bad for me. In my room the water was coming to besin and the  other tap was very low. Like it takes almost 20 mins to fill a bucket. I complained again & again but the reply of the manager was like water coming like this. But one day there was no water after complaining The staff gave me 2 buckets of water from down & I prepared for the office.  Finally that day they fixed after 1 week but previous no action. One more thing if you unfortunately stay there please don't order anything from the hotel for dinner as well as lunch. You can order from Zomato or swiggy what ever may be. The price of food was too expensive. Also the price of the hotel was not justified. Not a great option in breakfast but they charge a lot. Some staff are very good. The manager doesn't take things seriously. Price was not justified by the services provided there. That was my experience. Thank you."
+    ]
+  },
+  "review_summary": "Based on 5 reviews.",
+  "positive_themes": {
+    "clean_rooms": 2,
+    "friendly_staff": 3,
+    "good_food": 1,
+    "great_value": 1
+  },
+  "negative_themes": {
+    "rude_staff": 1,
+    "dirty_rooms": 1
+  }
+}

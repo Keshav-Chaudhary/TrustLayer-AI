@@ -1,0 +1,43 @@
+{
+  "hotel_id": "ChIJGX2GTD77DDkRkCEj_1vvVpQ",
+  "hotel_name": "Roomshala 088 Hotel Green Villa",
+  "area": "Delhi",
+  "budget_category": "Mid-Range",
+  "rating": 3.4,
+  "trust_score": 0.505903595032776,
+  "travel_purpose_tags": [
+    "Budget"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "sparse",
+    "review_count": 3,
+    "positive_snippet_count": 2,
+    "negative_snippet_count": 1,
+    "positive_theme_count": 0,
+    "negative_theme_count": 0
+  },
+  "aspect_scores": {
+    "cleanliness": 0.5,
+    "service": 0.5,
+    "location": 0.5,
+    "value_for_money": 0.5,
+    "staff_behavior": 0.5
+  },
+  "recommendation_features": {
+    "popularity_score": 0.1935748254816269,
+    "rating_score": 3.4,
+    "sentiment_score": 0.5000407377301599
+  },
+  "review_evidence": {
+    "positive_snippets": [
+      "Very sweet",
+      "Nice hotel and best services."
+    ],
+    "negative_snippets": [
+      "Very bad condition"
+    ]
+  },
+  "review_summary": "Based on 3 reviews.",
+  "positive_themes": {},
+  "negative_themes": {}
+}

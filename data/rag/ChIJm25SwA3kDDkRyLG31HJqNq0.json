@@ -1,0 +1,52 @@
+{
+  "hotel_id": "ChIJm25SwA3kDDkRyLG31HJqNq0",
+  "hotel_name": "Hotel River View",
+  "area": "Okhla",
+  "budget_category": "Mid-Range",
+  "rating": 3.9,
+  "trust_score": 0.7025665923726764,
+  "travel_purpose_tags": [
+    "Leisure"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "moderate",
+    "review_count": 5,
+    "positive_snippet_count": 2,
+    "negative_snippet_count": 3,
+    "positive_theme_count": 4,
+    "negative_theme_count": 1
+  },
+  "aspect_scores": {
+    "cleanliness": 0.3336132595043939,
+    "service": 0.0006250782462302,
+    "location": 0.9994985163211824,
+    "value_for_money": 0.5,
+    "staff_behavior": 0.0006250782462302
+  },
+  "recommendation_features": {
+    "popularity_score": 0.6744966795636074,
+    "rating_score": 3.9,
+    "sentiment_score": 0.5875087040127255
+  },
+  "review_evidence": {
+    "positive_snippets": [
+      "I stayed at Hotel River View in a deluxe room from October 7 to 10, 2025. Room 404 was clean enough and very quiet. The ac and ceiling fan kept the room cool. Each day I received a complimentary breakfast and two bottles of Bisleri water. This hotel is in Jamia Nagar, the safest part of Delhi. So the overall quality of the room and its location make me recommend it to travellers.",
+      "The best thing is that hotel is at good location. Where you can park your vehicle. Room is good."
+    ],
+    "negative_snippets": [
+      "Disappointing Experience -Would Not Recommend\n\nI had a very unpleasant stay at this hotel. The room had a serious hygiene issue \u2014 there were insects, especially small cockroaches, which made it very uncomfortable. The air conditioning was not cooling properly, making the room stuffy and hard to sleep in.\n\nWhat was even more frustrating was the apparent attempt to overcharge when they found out I was an OCI holder. This kind of discriminatory pricing is completely unacceptable.\n\nBooking on-site was also a hassle \u2014 the server was constantly down, and the process felt unnecessarily difficult. On top of all that, the reception staff were rude and unhelpful, which only added to the negative experience.\n\nOverall, I would not recommend staying here, especially if you\u2019re expecting basic cleanliness, fair treatment, and professional service.",
+      "Given the kind of locality,the hotel is on main road ,so approachability is not an issue",
+      "It was a horrible experience. Rooms were stinking and it felt like we were staying in a Gutter (sewage). Couldn't sleep the whole night. Had to literally run away from the room as early as we could without even stepping a foot in the washroom. The room number was 306. Extremely unhygienic. Staff wasn't helpful. They served us unbaked bread and awfully tasted tea. When we complained about the condition of the room, the reception guy was ignorant and kept on blaming the poor guests who had stayed before us as if they had dropped the bombs in the room instead of poop.\nIt was a nightmare. Allah somehow saved us."
+    ]
+  },
+  "review_summary": "Based on 5 reviews.",
+  "positive_themes": {
+    "clean_rooms": 2,
+    "good_location": 2,
+    "good_food": 1,
+    "friendly_staff": 2
+  },
+  "negative_themes": {
+    "rude_staff": 1
+  }
+}

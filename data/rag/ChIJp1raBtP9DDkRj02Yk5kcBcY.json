@@ -1,0 +1,54 @@
+{
+  "hotel_id": "ChIJp1raBtP9DDkRj02Yk5kcBcY",
+  "hotel_name": "Super Hotel O Super Siddhartha Guest House",
+  "area": "New Delhi",
+  "budget_category": "Mid-Range",
+  "rating": 4.2,
+  "trust_score": 0.7163539487385527,
+  "travel_purpose_tags": [
+    "Leisure",
+    "Family"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "rich",
+    "review_count": 5,
+    "positive_snippet_count": 3,
+    "negative_snippet_count": 2,
+    "positive_theme_count": 5,
+    "negative_theme_count": 1
+  },
+  "aspect_scores": {
+    "cleanliness": 0.9998666048049928,
+    "service": 0.5000089272398327,
+    "location": 0.999741792678833,
+    "value_for_money": 0.999847710132599,
+    "staff_behavior": 0.5999804627528647
+  },
+  "recommendation_features": {
+    "popularity_score": 0.533111189268394,
+    "rating_score": 4.2,
+    "sentiment_score": 0.5999804627528647
+  },
+  "review_evidence": {
+    "positive_snippets": [
+      "\"Had a fantastic stay at this hotel! The room was clean and comfortable, with a lovely view. The staff were friendly and helpful, going above and beyond to make my stay enjoyable. The breakfast buffet was delicious, with plenty of options to choose from. The hotel's location was perfect, close to local attractions and public transport. Overall, I'd highly recommend this hotel to anyone looking for a relaxing and convenient stay. Great value for money! \ud83d\udc4d\ud83c\udffc 5/5 stars. I'll definitely be back! \ud83d\ude0a\"",
+      "Very good stay in hotel Siddhartha.  It's amazing service provided to guest and room cleaning is very good. The hotel staff is very cooperative. The staff have very gentle toward guest. Location for nearby attraction is very much accessible and found great value for money in budgets hotels. Service is very good. You feel like home in Siddhartha hotel. Plus point is service is very nice like 5 star. I enjoyed my trip",
+      "Stayed at this property last night for a short business trip. Great staff. Great room. Great service as always. Staff is always ready to help. I have issue with the market, reception manager helped me and shorted the things out for me . I especially recommend all people to come in siddarth guest house and enjoy the service of guest house"
+    ],
+    "negative_snippets": [
+      "Pathetic behaviour from the staff. After a long and exhausting journey, we checked into this hotel/OYO expecting basic hospitality. Unfortunately, the reception staff was extremely rude and unprofessional. He lacked even basic courtesy, showed no understanding of hospitality, and behaved in a very cunning and dismissive manner. This experience was highly disappointing.",
+      "Reception staff was rude and unprofessional with zero hospitality sense. Worst stay ever\u2014avoid this place."
+    ]
+  },
+  "review_summary": "Based on 5 reviews.",
+  "positive_themes": {
+    "clean_rooms": 2,
+    "friendly_staff": 5,
+    "good_location": 2,
+    "great_value": 2,
+    "good_food": 1
+  },
+  "negative_themes": {
+    "rude_staff": 2
+  }
+}

@@ -1,0 +1,52 @@
+{
+  "hotel_id": "ChIJQ0vxHv8fDTkRUeYGo5JciUc",
+  "hotel_name": "Tipsyy Inn Suites 007",
+  "area": "Sector 53",
+  "budget_category": "Budget",
+  "rating": 4.3,
+  "trust_score": 0.7301509898737447,
+  "travel_purpose_tags": [
+    "Budget"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "rich",
+    "review_count": 5,
+    "positive_snippet_count": 3,
+    "negative_snippet_count": 2,
+    "positive_theme_count": 4,
+    "negative_theme_count": 1
+  },
+  "aspect_scores": {
+    "cleanliness": 0.3343419803422875,
+    "service": 0.5007286498876056,
+    "location": 0.5,
+    "value_for_money": 0.9997822642326356,
+    "staff_behavior": 0.9998354613780976
+  },
+  "recommendation_features": {
+    "popularity_score": 0.5346150961871148,
+    "rating_score": 4.3,
+    "sentiment_score": 0.6005563123966567
+  },
+  "review_evidence": {
+    "positive_snippets": [
+      "Thank you Aman Rathi for given best service\nWhat a fantastic stay! The hotel is beautifully maintained, the breakfast was fresh and delicious, and the staff, especially [Name], made us feel so welcome. We'll definitely return!\"",
+      "Nice and comfortable stay. Clean rooms & value for money. Specially like to mention excellent service by Saddam. Really nice staff here.",
+      "Thanks absolutely liked everything about this hotel .from delicious dining option to cozy room.  Mr Aman Rathi was fabulous and we'll mannered person"
+    ],
+    "negative_snippets": [
+      "Third class rooms, pathetic service. All the rooms smell strongly of cigarettes, they don't have any non-smoking rooms. Bedsheets were dirty and torn. No towel provided. Bathroom was not clean.\nThe phone inside the room was not working, so there's no way to reach out to the reception.\n\nAvoid this place, unless you absolutely love to have bad experiences!",
+      "Very poor experience. The room was not okay, bedsheet was not changed, no toilet paper, no basic items in the room. Even mineral water was charged \u20b930. Washroom was not clean and service was missing. They charge too much but give nothing in return. I feel many of the good reviews here might be fake, because my experience was completely different"
+    ]
+  },
+  "review_summary": "Based on 5 reviews.",
+  "positive_themes": {
+    "friendly_staff": 2,
+    "good_food": 2,
+    "clean_rooms": 3,
+    "great_value": 1
+  },
+  "negative_themes": {
+    "dirty_rooms": 1
+  }
+}

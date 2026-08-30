@@ -1,0 +1,50 @@
+{
+  "hotel_id": "ChIJzXc9YhUBDTkRsWv66_fqyqA",
+  "hotel_name": "Hotel Vintage Villas",
+  "area": "Azadpur",
+  "budget_category": "Mid-Range",
+  "rating": 4.4,
+  "trust_score": 0.6501069780530673,
+  "travel_purpose_tags": [
+    "Budget"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "rich",
+    "review_count": 5,
+    "positive_snippet_count": 3,
+    "negative_snippet_count": 2,
+    "positive_theme_count": 2,
+    "negative_theme_count": 1
+  },
+  "aspect_scores": {
+    "cleanliness": 0.4997726272849831,
+    "service": 0.3998702601820696,
+    "location": 0.5,
+    "value_for_money": 0.0004458752324959,
+    "staff_behavior": 0.3998702601820696
+  },
+  "recommendation_features": {
+    "popularity_score": 0.3968120751380856,
+    "rating_score": 4.4,
+    "sentiment_score": 0.3998702601820696
+  },
+  "review_evidence": {
+    "positive_snippets": [
+      "Please owner do a check wht is going on in your absence since a have spend lots of money in interior and architecture of building which was good inspite your lacking in service which is sad. me and my partner check out early due to bad services provide by your staff bathroom traps are filled with hair whole  bathroom became a swimming pool and a i called room service for towel kept wait for half an hour when they did not provide i came outside and shouted for towel. Lady who worked as helper in saare was sleeping in bed and laughing in next room such pathetic behaviour, i felt so suffocated becoz shaft were filled with cigarette smoke staff members including that lady were enjoying in next room and smoking. Even here its not end I ordered pizza for lunch which was totally unbaked I request at least provide me maggi literally waited for 1 hour again i called for maggi they said we forgot your order i felt so hungry we check out early\nThe maggi which was I ordered for lunch by me after the worst pizza i have seen enjoying by the receptionist guy\nIf this keeps on going you will be in great dept soon becoz no one will stay.",
+      "Very hygiene, well maintain rooms management, also too much good 24 hours. Provide kitchen services and housekeeper staff. Also very good. This is too much every family stay and couple stay very, very, very good ambience",
+      "I had a small emergency during my stay when I misplaced my luggage keys. Sumit from the front desk and Varsha from housekeeping went out of their way to help me. Within minutes they arranged tools, helped me open the lock safely, and even offered me tea while I was stressed. This level of genuine care is rare. The staff here really treats you like family!"
+    ],
+    "negative_snippets": [
+      "Their hotel staff was very rude, especially the reception team. I booked this place for two days, and on the second morning they started asking me for extra money, claiming they do not consider bookings made through MakeMyTrip. The guy at the reception was extremely rude to both me and my partner. They are not welcoming at all. Hotel staff are usually polite and helpful, but these people behaved more like goons\u2014arguing over everything and trying to manipulate us to extract more money.\n\nThe food was so bad that I genuinely regret ordering from their restaurant.\n\nIf you are looking for a proper hotel experience, go somewhere else. This place is full of goons.",
+      "Bad behaviour and worst experience in my life.\nThe hotel room was okay, but the staff\u2019s attitude was extremely unprofessional. The receptionist behaved very rudely, as if we were staying in a day-use lodge. Every time we stepped out, the guard kept asking for money again and again, showing complete misbehaviour. When we complained at the reception, instead of resolving, she misbehaved even more. Overall, it was a very disappointing and unpleasant stay."
+    ]
+  },
+  "review_summary": "Based on 5 reviews.",
+  "positive_themes": {
+    "friendly_staff": 5,
+    "good_food": 1
+  },
+  "negative_themes": {
+    "rude_staff": 3
+  }
+}

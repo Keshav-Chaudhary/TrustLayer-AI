@@ -1,0 +1,50 @@
+{
+  "hotel_id": "ChIJBeUtHnTiDDkR4Ubj5utSO8c",
+  "hotel_name": "Deer Park Luxury Homestay",
+  "area": "Safdarjung Enclave",
+  "budget_category": "Budget",
+  "rating": 4.0,
+  "trust_score": 0.745210231227865,
+  "travel_purpose_tags": [
+    "Budget"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "moderate",
+    "review_count": 5,
+    "positive_snippet_count": 3,
+    "negative_snippet_count": 1,
+    "positive_theme_count": 5,
+    "negative_theme_count": 0
+  },
+  "aspect_scores": {
+    "cleanliness": 0.5000161674834089,
+    "service": 0.5,
+    "location": 0.5,
+    "value_for_money": 0.0002585345937404,
+    "staff_behavior": 0.9997457265853882
+  },
+  "recommendation_features": {
+    "popularity_score": 0.494605354142389,
+    "rating_score": 4.0,
+    "sentiment_score": 0.7994308053341228
+  },
+  "review_evidence": {
+    "positive_snippets": [
+      "Such a good experience with the room and their services . The boy named Nirmal Ji had a good behaviour and the food made by him and his working nature with answerability was too good. Good place to stay",
+      "The place is excellent... Very convenient, and the folks are very hospitable and friendly.. Felt very much at home. Good luck and keep up the services you are providing... Well done!!",
+      "The guest house room are very clean. The washroom are also good, and the room is on the 2 second 2 floor and breakfast is very healthy the boy who prepared breakfast here is very nice this name nirmal"
+    ],
+    "negative_snippets": [
+      "The rooms were not clean. No hangers anywhere to hang clothes in the bathroom or room. There were 2 cupboard and only one was in use and we struggled because we were a family of 3 supposed to share the room for few days. This is not worst because there was cockroaches in the entire property and it was really disgusting and hence we had to run from there. And their room tariff is high for such a disaster. Not worth it at all."
+    ]
+  },
+  "review_summary": "Based on 5 reviews.",
+  "positive_themes": {
+    "good_food": 3,
+    "friendly_staff": 2,
+    "good_location": 1,
+    "clean_rooms": 2,
+    "great_value": 1
+  },
+  "negative_themes": {}
+}

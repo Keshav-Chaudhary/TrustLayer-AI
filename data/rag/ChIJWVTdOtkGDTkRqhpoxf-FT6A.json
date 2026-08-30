@@ -1,0 +1,52 @@
+{
+  "hotel_id": "ChIJWVTdOtkGDTkRqhpoxf-FT6A",
+  "hotel_name": "Hotel O Rohil Residency",
+  "area": "Rohini",
+  "budget_category": "Mid-Range",
+  "rating": 3.4,
+  "trust_score": 0.4881111045897973,
+  "travel_purpose_tags": [
+    "Budget"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "moderate",
+    "review_count": 5,
+    "positive_snippet_count": 1,
+    "negative_snippet_count": 3,
+    "positive_theme_count": 4,
+    "negative_theme_count": 2
+  },
+  "aspect_scores": {
+    "cleanliness": 0.0004268571986661,
+    "service": 0.0003455649857641,
+    "location": 0.5000191252474906,
+    "value_for_money": 0.0004268571986661,
+    "staff_behavior": 0.0005148031195858
+  },
+  "recommendation_features": {
+    "popularity_score": 0.5595877406915236,
+    "rating_score": 3.4,
+    "sentiment_score": 0.2002637644181959
+  },
+  "review_evidence": {
+    "positive_snippets": [
+      "Location , room and services are pretty good . They are supportive and the locality is good not that one awesome as famous places are far away as we use our foot to go or by foot . But if we take riksha or other transport we can reach over easily within 20 -25 min .\nThanking you"
+    ],
+    "negative_snippets": [
+      "Location not good\nNo non-veg food available at the hotel including eggs.\nAlso the landline phone in the room won't work, so you cannot call reception.\nAnd they had tata sky dth  tv connection in which they did not give me the tv remote. So I cannot watch tv either.\n\nI had a bad experience, one day I came back around 11pm, they had closed the hotel doors and I couldn't enter. I kept banging their doors for around 10 minutes after which the owner came out and talked rudely. I had to prove to him that I stay there.\nI was really tired",
+      "hotel staff behavior was so rude. they charged extra money for stay as we were checked in at 11:15AM (we made our payment at the time of booking via app then also they were charging) they have empty room then also they were charging extra amount. very disappointed with the room as they were different from image shown. cleanliness was so bad \ud83d\udc4eand room was smelled dirty. don't book any room here otherwise you'll get same disappointment.",
+      "Pathetic property and in my whole life I have never seen such a disgusting property, just a waste of money. The room were smelly, bedsheets was dirty, walls were so dirty that it felt like I m in a washroom - even washroom walls might be better than those, washroom lock was broken and AC was not working. We asked them to change the room 5 times but they didn't do that, staff was not at all helpful. We paid full amount with AC i.e. 1800 and this is what we got.\n\nMost Important note - There were 2 rats and 1 lizard in the room and still they didn't changed our room and finally resulted in wasting our money as I left the property."
+    ]
+  },
+  "review_summary": "Based on 5 reviews.",
+  "positive_themes": {
+    "good_location": 2,
+    "good_food": 2,
+    "clean_rooms": 1,
+    "friendly_staff": 2
+  },
+  "negative_themes": {
+    "rude_staff": 2,
+    "dirty_rooms": 3
+  }
+}

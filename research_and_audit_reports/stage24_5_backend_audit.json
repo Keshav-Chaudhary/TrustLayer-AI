@@ -1,0 +1,53 @@
+{
+  "database": "trustlayer_db",
+  "server": "::1:5432",
+  "backend": "postgres",
+  "vector_backend": "pgvector",
+  "postgres_version": "PostgreSQL 17.6 on x86_64-windows, compiled by msvc-19.44.35213, 64-bit",
+  "row_counts": {
+    "hotels": 1661,
+    "hotel_locations": 1661,
+    "hotel_scores": 1661,
+    "hotel_sources": 1661,
+    "hotel_amenities": 1661,
+    "hotel_provenance": 0,
+    "embedding_documents": 7910,
+    "domain_events": 1661,
+    "ingestion_records": 1661,
+    "ingestion_runs": 1
+  },
+  "orphans": {
+    "locations": 0,
+    "scores": 0,
+    "sources": 0,
+    "amenities": 0
+  },
+  "duplicates": {
+    "hotels": 0,
+    "chunks": 0
+  },
+  "vector_integrity": {
+    "total_vectors": 7910,
+    "null_vectors": 0,
+    "column_datatype": "text",
+    "column_udt_name": "text",
+    "is_native_pgvector": false
+  },
+  "repository_resolution": {
+    "hotel_repository": "PostgresHotelRepository",
+    "embedding_repository": "PgVectorEmbeddingRepository",
+    "trace_repository": "PostgresTraceRepository",
+    "hotel_repo_target_db": "localhost:5432/trustlayer_db"
+  },
+  "api_provenance": {
+    "api_returned_count": 5,
+    "postgres_matched_count": 5,
+    "provenance_verified": true
+  },
+  "legacy_dependency_checks": {
+    "csv_source_bypassed": true,
+    "chroma_source_bypassed": true,
+    "sqlite_bypassed": true
+  },
+  "overall_status": "PASS"
+}

@@ -1,0 +1,53 @@
+{
+  "hotel_id": "ChIJTcaicyDjDDkRriIeJG6QFM8",
+  "hotel_name": "Hotel Mayur",
+  "area": "Chittaranjan Park",
+  "budget_category": "Mid-Range",
+  "rating": 4.1,
+  "trust_score": 0.7033141057470649,
+  "travel_purpose_tags": [
+    "Leisure"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "rich",
+    "review_count": 5,
+    "positive_snippet_count": 3,
+    "negative_snippet_count": 2,
+    "positive_theme_count": 5,
+    "negative_theme_count": 1
+  },
+  "aspect_scores": {
+    "cleanliness": 0.6651757580499785,
+    "service": 0.4145869237642425,
+    "location": 0.9975116550922394,
+    "value_for_money": 0.6221941709518433,
+    "staff_behavior": 0.6647985798578399
+  },
+  "recommendation_features": {
+    "popularity_score": 0.4626389936235164,
+    "rating_score": 4.1,
+    "sentiment_score": 0.6477568162954412
+  },
+  "review_evidence": {
+    "positive_snippets": [
+      "We had a wonderful stay at this hotel.the rooms were clean,bed was comfortable, making our stay truly relaxing. The staff was always helpful and ready to assist with a smile.Transport to travel anywhere is easily accessible, market is only 100ms away. They have a safe which is rare to find in india so helpful if you are travelling with valuable Overall,it was a great experience and we would definitely recommend this hotel to family and friends\nKumar from \ud83c\uddec\ud83c\udde7",
+      "Good place to stay in New Delhi. Rooms are very clean and confortable.  The only think is that the price given on phone was almost double than online.\nNear to metro station and good eatery places near by too.",
+      "I stayed at Hotel Mayur for about three weeks. The hotel was good in terms of facilities. The staff were polite and friendly. In the housekeeping section, there was a young man named Anup who, together with his colleagues, worked hard to provide daily room service. The only thing that was not suitable for my taste was the breakfast, because the Indian food was too spicy for me. Overall, it was a good hotel for staying."
+    ],
+    "negative_snippets": [
+      "My stay at Hotel Mayur was a comedy of errors, just not the funny kind. \ud83c\udfad The rooms were like a time capsule from the 70s, complete with dust bunnies that had their own ZIP codes. \ud83e\udd22 The \"service\" was more like a suggestion, and the manager? A masterclass in rudeness and shady dealings. \ud83d\ude20",
+      "Budget hotel with good rooms on the upper floors and breakfast facilities. Excellent choice if you're looking for affordable stays in Delhi, however the price also draws in rowdy guests and rooms on the reception floor are horrendous."
+    ]
+  },
+  "review_summary": "Based on 5 reviews.",
+  "positive_themes": {
+    "clean_rooms": 2,
+    "friendly_staff": 2,
+    "good_location": 1,
+    "good_food": 2,
+    "great_value": 1
+  },
+  "negative_themes": {
+    "rude_staff": 1
+  }
+}

@@ -1,0 +1,53 @@
+{
+  "hotel_id": "ChIJKYv_S8jjDDkRIbrMlfnrKF8",
+  "hotel_name": "Hotel Sunrise Ecostay",
+  "area": "East of Kailash",
+  "budget_category": "Budget",
+  "rating": 4.4,
+  "trust_score": 0.7215679635806036,
+  "travel_purpose_tags": [
+    "Leisure",
+    "Business",
+    "Family"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "rich",
+    "review_count": 5,
+    "positive_snippet_count": 3,
+    "negative_snippet_count": 2,
+    "positive_theme_count": 5,
+    "negative_theme_count": 0
+  },
+  "aspect_scores": {
+    "cleanliness": 0.9996199309825896,
+    "service": 0.99937504529953,
+    "location": 0.9996426701545716,
+    "value_for_money": 0.99937504529953,
+    "staff_behavior": 0.9996199309825896
+  },
+  "recommendation_features": {
+    "popularity_score": 0.4323454830297744,
+    "rating_score": 4.4,
+    "sentiment_score": 0.6001669522840529
+  },
+  "review_evidence": {
+    "positive_snippets": [
+      "I had a wonderful stay here! The room was very clean and the bed was super comfortable. All of the staff members were friendly and helpful, making feel welcome from the moment I arrived. The location is perfect\u2014close to everything but still quiet at night. I would definitely stay here again",
+      "I traveled from Australia to New Delhi and I am very happy with the hotel I chose. The entire staff is incredibly kind, always willing to help you. The WiFi works perfectly, the air conditioning too, and everything is very clean. They provide free cold bottled water and also offer an extra service of breakfast and lunch delivered directly to your room. There are more expensive hotels with worse services. The hotel  has hot water, provides towels, and has a smart TV. They also have a laundry service, and the price is very cheap per night! It is very close to the Nehru Place metro station and shopping areas, as well as important hospitals such as Apollo Spectra and Shroff Eye Centre. I am very happy to have chosen Hotel Sunrise Ecostay, I hope to come back soon. Thank you!",
+      "This is an over all decent place to stay with less traffic area and very near to access main road.\nI have stayed here for 4 nights and had great experience. Rooms are very decent and represent the same as seen in google images."
+    ],
+    "negative_snippets": [
+      "Wrost experience with this hotel.doing fraud on the name of hotel bill .charging 5%gst on bill instead of 2.5%.\nHaving no sense to talk with customers\nNot recommended",
+      "My guests were denied check-in despite full payment. They were even given a room and had started settling in, but an hour later\u2014around 3 AM\u2014the property refunded the booking and told them to leave."
+    ]
+  },
+  "review_summary": "Based on 5 reviews.",
+  "positive_themes": {
+    "clean_rooms": 2,
+    "friendly_staff": 2,
+    "good_location": 3,
+    "great_value": 1,
+    "good_food": 1
+  },
+  "negative_themes": {}
+}

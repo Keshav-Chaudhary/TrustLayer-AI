@@ -1,0 +1,50 @@
+{
+  "hotel_id": "ChIJQzZSoT0BDTkR37w2w39jxbY",
+  "hotel_name": "Aman Residency",
+  "area": "Rohini",
+  "budget_category": "Mid-Range",
+  "rating": 3.8,
+  "trust_score": 0.5311932941831283,
+  "travel_purpose_tags": [
+    "Leisure"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "moderate",
+    "review_count": 5,
+    "positive_snippet_count": 1,
+    "negative_snippet_count": 3,
+    "positive_theme_count": 2,
+    "negative_theme_count": 2
+  },
+  "aspect_scores": {
+    "cleanliness": 0.0002493299834895,
+    "service": 0.30184569908306,
+    "location": 0.9444062113761902,
+    "value_for_money": 0.0003134622238576,
+    "staff_behavior": 0.0008153035450958
+  },
+  "recommendation_features": {
+    "popularity_score": 0.3479389680186449,
+    "rating_score": 3.8,
+    "sentiment_score": 0.3097320803499315
+  },
+  "review_evidence": {
+    "positive_snippets": [
+      "Great place to stay, situated in a residential area so it's quite safe. Airy rooms with good washrooms and all.just walking distence from rohini west metro station."
+    ],
+    "negative_snippets": [
+      "Very Disappointing Stay at Aman Residency\nI had a confirmed online booking at Aman Residency, but upon arrival, the owner refused to accept it and said they do not take online reservations. This was extremely unprofessional and caused unnecessary inconvenience.\n\nThe room was very dirty and unhygienic. Cleanliness standards were very poor, and even the surrounding area was not clean. It did not feel safe or comfortable at all.\n\nThe owner's behavior was rude and uncooperative. Instead of resolving the issue, he was arguing and acting according to his own wishes.\n\nOverall, this was one of the worst experiences I have had. I would strongly not recommend Aman Residency to anyone.",
+      "God save you from mosquitoes. Room service is 0/10. You have ask again and again. Overall room is average but service can be improved",
+      "I have booked a room in this hotel via Agoda customer service after reaching. Hotel told they don't have room. It is very unprofessional and rude behaviour. Though I confirmed one day prior via phon for rooms availability and it was confirmed. Never book in this.\n\nIs it mandatory to pay amount in advance. I called and ask that room is confirmed or not you have assured room availability."
+    ]
+  },
+  "review_summary": "Based on 5 reviews.",
+  "positive_themes": {
+    "clean_rooms": 2,
+    "great_value": 1
+  },
+  "negative_themes": {
+    "dirty_rooms": 2,
+    "rude_staff": 2
+  }
+}

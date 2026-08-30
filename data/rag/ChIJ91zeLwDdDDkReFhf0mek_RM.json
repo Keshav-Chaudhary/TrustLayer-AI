@@ -1,0 +1,50 @@
+{
+  "hotel_id": "ChIJ91zeLwDdDDkReFhf0mek_RM",
+  "hotel_name": "Hotel Amar Palace",
+  "area": "New Industrial Township",
+  "budget_category": "Luxury",
+  "rating": 4.8,
+  "trust_score": 0.914388709275082,
+  "travel_purpose_tags": [
+    "Leisure",
+    "Business"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "moderate",
+    "review_count": 5,
+    "positive_snippet_count": 3,
+    "negative_snippet_count": 0,
+    "positive_theme_count": 4,
+    "negative_theme_count": 1
+  },
+  "aspect_scores": {
+    "cleanliness": 0.9998095333576202,
+    "service": 0.9993369976679484,
+    "location": 0.9990683794021606,
+    "value_for_money": 0.5,
+    "staff_behavior": 0.9995015144348144
+  },
+  "recommendation_features": {
+    "popularity_score": 0.4899028486553062,
+    "rating_score": 4.8,
+    "sentiment_score": 0.9995015144348144
+  },
+  "review_evidence": {
+    "positive_snippets": [
+      "We had a wonderful stay at Hotel Amar Palace while visiting to attend the marriage of our friend, Guru Harami. The overall experience was excellent from check-in to check-out.\n\nThe staff behaviour was very polite, helpful, and professional, making us feel comfortable throughout our stay. The rooms were very neat and clean, well-maintained, and provided a relaxing environment after a busy day of wedding functions.\n\nTheir couple suite is especially impressive and perfectly suited for newlyweds \u2014 spacious, comfortable, and beautifully arranged.\n\nHighly recommended for anyone looking for a clean, comfortable hotel with supportive staff and great accommodation options.",
+      "We found this hotel while we were stuck with a failed car and being toed by a tor truck. We had no hopes from this hotels while booking as this selection was purely done based on its near location to the service centre where i had to give my car.\n\nBut once i checked in a couple of people changed my experience of what this hotel could be. The first hand experience of meeting the person incharge in evening, he was just a care taker but the way he took care of our so many demands running back and forth on diff floors and not being irritated by us was an absolute.dream come true. And guess what he did not even take tip from us even thougg we insisted. The owner is a great person , his hospitality literally made us feel welcome at the hotel like we were at home. The manager was quite supportibe of our requests and demands as we were shuffling back and forth due to the unvertainity of the car delivery.\nOverall i am very satisfied and very happy with this hotel. This one is a home away from home.\nThe only things here to may be work upon would be the food servixe team behavior but rest this hotel will make u feel welcomed.",
+      "I had a great stay at Hotel Amar Palace. The rooms were clean, spacious, and comfortable. The staff was polite and very helpful. Service was quick and professional. The location is convenient and easily accessible. Overall, a pleasant and comfortable experience. Highly recommended!"
+    ],
+    "negative_snippets": []
+  },
+  "review_summary": "Based on 5 reviews.",
+  "positive_themes": {
+    "clean_rooms": 4,
+    "friendly_staff": 4,
+    "good_location": 2,
+    "good_food": 2
+  },
+  "negative_themes": {
+    "noise": 1
+  }
+}

@@ -1,0 +1,51 @@
+{
+  "hotel_id": "ChIJNZIqYG0bDTkRdTH5rWIGgSM",
+  "hotel_name": "Jannat Residency Dwarka",
+  "area": "Dwarka",
+  "budget_category": "Mid-Range",
+  "rating": 4.5,
+  "trust_score": 0.8494775262517906,
+  "travel_purpose_tags": [
+    "Leisure"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "rich",
+    "review_count": 5,
+    "positive_snippet_count": 3,
+    "negative_snippet_count": 2,
+    "positive_theme_count": 3,
+    "negative_theme_count": 1
+  },
+  "aspect_scores": {
+    "cleanliness": 0.5002900099789257,
+    "service": 0.6667908056600328,
+    "location": 0.999826043844223,
+    "value_for_money": 0.5,
+    "staff_behavior": 0.7481356132047948
+  },
+  "recommendation_features": {
+    "popularity_score": 0.6737634226757313,
+    "rating_score": 4.5,
+    "sentiment_score": 0.7984717144980096
+  },
+  "review_evidence": {
+    "positive_snippets": [
+      "Excellent \ud83d\udc4d experience luxurious rooms good location",
+      "Great experience Excellent hotel clean room and service good location good\nAll staff is very good service and Reception manager",
+      "Hotel was good an cleaning good amd staff give me  service excellent and  comfortable room. V nice hotel hospitality great and best hotel\nGood  service\nAnd  overall good views and nice hotel cleaning was good hotel\nExcellent all service 5 star hotels service"
+    ],
+    "negative_snippets": [
+      "The stay was pleasant, and the staff was helpful. Initially, the AC wasn't working, but the issue was resolved by changing the room. The photos on MakeMyTrip made the property appear new, but it is actually older and requires some maintenance.\nOverall, it was a good experience.",
+      "I was stayed in this Presidency this month ( Dec ) 3days..  Really I am telling i faced very very bad experience. Room not hygiene, hot water is not at available after one bucket, bed are at quality, sometimes room smells very bad. Reception people are behavior is very bad, they don't have basic manorus also how to interact with the customer. So i strongly oppose this residency do not go.. Even prize is also high.. For the same  u people get better room."
+    ]
+  },
+  "review_summary": "Based on 5 reviews.",
+  "positive_themes": {
+    "good_location": 2,
+    "clean_rooms": 2,
+    "friendly_staff": 3
+  },
+  "negative_themes": {
+    "dirty_rooms": 1
+  }
+}

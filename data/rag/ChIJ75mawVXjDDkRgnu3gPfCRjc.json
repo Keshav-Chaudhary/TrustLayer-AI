@@ -1,0 +1,54 @@
+{
+  "hotel_id": "ChIJ75mawVXjDDkRgnu3gPfCRjc",
+  "hotel_name": "Rose Mallow Hotel Pvt. Ltd.",
+  "area": "New Friends Colony",
+  "budget_category": "Mid-Range",
+  "rating": 4.4,
+  "trust_score": 0.7556741097771251,
+  "travel_purpose_tags": [
+    "Leisure"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "rich",
+    "review_count": 5,
+    "positive_snippet_count": 3,
+    "negative_snippet_count": 2,
+    "positive_theme_count": 5,
+    "negative_theme_count": 2
+  },
+  "aspect_scores": {
+    "cleanliness": 0.0003143444191664,
+    "service": 0.6662229884726306,
+    "location": 0.999190628528595,
+    "value_for_money": 0.999190628528595,
+    "staff_behavior": 0.9994182189305624
+  },
+  "recommendation_features": {
+    "popularity_score": 0.5932911511469264,
+    "rating_score": 4.4,
+    "sentiment_score": 0.599771341914311
+  },
+  "review_evidence": {
+    "positive_snippets": [
+      "Had a wonderful stay at Hotel Rise Mellow. The property is cozy, comfortable, and well-maintained, making it perfect for both short and extended visits. The rooms are neat and thoughtfully arranged, ensuring a relaxing experience.\n\nThe staff is extremely supportive and courteous, always ready to assist with a smile. The in-house dining is impressive, offering tasty and well-prepared meals.\n\nLocated in a convenient area of Okhla, the hotel provides easy accessibility while maintaining a calm atmosphere. Overall, a very comfortable and satisfying stay. Highly recommended!",
+      "Review: A Comfortable Stay in the Heart of New Friends Colony\n\nI recently stayed at the Rose Mallow Hotel in New Friends Colony. It is a solid choice for anyone looking for a comfortable stay in South Delhi, offering a great balance of service and convenience.\nThe Highlights:\nExcellent Location: The hotel\u2019s position in New Friends Colony is perfect. It is situated in a nice, upscale neighborhood that is central enough to access the rest of Delhi easily, yet feels a bit more relaxed than the city center.\nWarm Hospitality: The staff here are truly a credit to the hotel. They were incredibly friendly and went out of their way to ensure I had everything I needed during my stay.\nFantastic Food: One of the best parts of the experience was the food. Everything I ordered was fresh and flavorful\u2014the kitchen team clearly takes pride in their work.\nRoom for Improvement:\nThe only reason I\u2019m not giving a full five stars is the check-in process. Even though I had opted for an express check-in, it didn't quite work out as planned. Despite the pre-registration, the rooms were still only allotted at the standard check-in time. It felt like the \"express\" benefit wasn't fully utilized by the front desk, and I ended up waiting just like a regular walk-in. Streamlining this to honor the express option would make a big difference.\nFinal Thoughts:\nOnce I was in the room, the experience was flawless. If you value good food and a helpful team, Rose Mallow is a great pick\u2014just don't expect an early entry even if you've pre-booked the express service.",
+      "I recently stayed at Rose Mallow Hotel in New Friends Colony, New Delhi, and found it to be a decent option in a very convenient location with easy access to major city areas and transit routes. Guests appreciate the helpful and courteous staff, especially at the front desk, and the hotel offers comfortable rooms, free Wi-Fi, air conditioning, and dining options on-site which adds good value to the stay.\nGoibibo +1\nThe hotel\u2019s ambience and hospitality make it suitable for both short business stays and leisure trips, and the overall pricing feels reasonable considering the facilities provided.\nPlanet of Hotels\nAs a Google Local Guide and Google-trusted 360\u00b0 Virtual Tour photographer, I\u2019d recommend adding a Google 360\u00b0 Virtual Tour to showcase the guest rooms, lobby, and banquet spaces \u2014 this would help future guests see the interior before booking and improve visibility on Google Maps.\nOverall, a good stay with friendly staff and essential amenities \u2014 recommended for travellers looking for comfort and convenience in South Delhi."
+    ],
+    "negative_snippets": [
+      "Very Bad Experience \u2013 Highly Disappointed\n\nOur stay at Rosemallow Hotel, Delhi was extremely disappointing. We had booked multiple rooms for one night, but the condition of the hotel was unacceptable.\n\nThe rooms were very dirty and unhygienic. The cupboards were broken, and overall maintenance was very poor. Basic cleanliness standards were not followed at all, which made the stay uncomfortable and unpleasant.\n\nThis hotel is not suitable for families or group stays. Considering the condition of the rooms, it does not justify the booking or the expectations shown online.\n\nI would strongly not recommend this hotel to anyone looking for a clean and comfortable stay in Delhi.",
+      "Very disappointing experience at Hotel Rose Mallow. There was excessive noise from another room late at night, and the management failed to take prompt action even after repeated complaints. Guest safety and comfort, especially for women, need serious improvement."
+    ]
+  },
+  "review_summary": "Based on 5 reviews.",
+  "positive_themes": {
+    "clean_rooms": 2,
+    "friendly_staff": 3,
+    "good_location": 3,
+    "good_food": 2,
+    "great_value": 2
+  },
+  "negative_themes": {
+    "dirty_rooms": 1,
+    "noise": 1
+  }
+}

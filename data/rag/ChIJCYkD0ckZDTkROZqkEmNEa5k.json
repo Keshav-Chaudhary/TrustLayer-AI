@@ -1,0 +1,51 @@
+{
+  "hotel_id": "ChIJCYkD0ckZDTkROZqkEmNEa5k",
+  "hotel_name": "Hotel Bizzotel",
+  "area": "Sector 14",
+  "budget_category": "Mid-Range",
+  "rating": 4.3,
+  "trust_score": 0.7843579900970952,
+  "travel_purpose_tags": [
+    "Leisure"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "moderate",
+    "review_count": 5,
+    "positive_snippet_count": 3,
+    "negative_snippet_count": 1,
+    "positive_theme_count": 4,
+    "negative_theme_count": 1
+  },
+  "aspect_scores": {
+    "cleanliness": 0.9998537302017212,
+    "service": 0.9998307029406228,
+    "location": 0.9998527765274048,
+    "value_for_money": 0.5,
+    "staff_behavior": 0.6666987409795789
+  },
+  "recommendation_features": {
+    "popularity_score": 0.4903839340339828,
+    "rating_score": 4.3,
+    "sentiment_score": 0.7999488991859834
+  },
+  "review_evidence": {
+    "positive_snippets": [
+      "I had such a nice stay at the Bizzotel hotel in Gurugram. The services were superb from service providers. It was a nice moment and I will be a good ambassador in Tanzania when I go back home. I am thankful to the service team lead by Dharam, Dev, Hemraj, Amar and Ramu.",
+      "I am Mtabazi Sahini from Tanzania. I had a pleasant stay at the hotel. Excellent service, friendly staff, good food, strong internet.\nIt was nice meeting MR.DHARAM DEV BHATTRAI",
+      "I had a wonderful stay at Hotel Bizzotel in Gurgaon. The hospitality was truly top-notch, and the staff were incredibly well-disciplined, polite, and attentive throughout my visit . The hotel is very clean and well-maintained, reflecting their commitment to hygiene and guest comfort.\nOne of the best features was their 24-hour restaurant service\u2014very convenient and the food was delicious every time.Highly recommend this hotel for anyone visiting Gurgaon and looking for a pleasant and hassle-free stay!"
+    ],
+    "negative_snippets": [
+      "WC not working & had to change room.\nNo warm water in other room.\nReceptionist (Lady) was exceptionally rude. Her senior standing there said do whatever you want.\nBetter avoid the place."
+    ]
+  },
+  "review_summary": "Based on 5 reviews.",
+  "positive_themes": {
+    "friendly_staff": 2,
+    "good_food": 3,
+    "clean_rooms": 2,
+    "good_location": 2
+  },
+  "negative_themes": {
+    "rude_staff": 1
+  }
+}

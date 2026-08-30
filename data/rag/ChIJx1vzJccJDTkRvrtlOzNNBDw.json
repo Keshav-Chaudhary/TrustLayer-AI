@@ -1,0 +1,47 @@
+{
+  "hotel_id": "ChIJx1vzJccJDTkRvrtlOzNNBDw",
+  "hotel_name": "Suraaj Farms",
+  "area": "Jaunti",
+  "budget_category": "Mid-Range",
+  "rating": 4.7,
+  "trust_score": 0.901794259416862,
+  "travel_purpose_tags": [
+    "Leisure"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "moderate",
+    "review_count": 5,
+    "positive_snippet_count": 3,
+    "negative_snippet_count": 0,
+    "positive_theme_count": 4,
+    "negative_theme_count": 0
+  },
+  "aspect_scores": {
+    "cleanliness": 0.9998706579208374,
+    "service": 0.5,
+    "location": 0.999066323041916,
+    "value_for_money": 0.5,
+    "staff_behavior": 0.999877631664276
+  },
+  "recommendation_features": {
+    "popularity_score": 0.4932193759807653,
+    "rating_score": 4.7,
+    "sentiment_score": 0.9994814157485962
+  },
+  "review_evidence": {
+    "positive_snippets": [
+      "This is in Jaunti village, a sleepy hamlet in Northwest Delhi which has now become accessible to south Delhi and Gurugram owing to the operation of UER2.  Reaching here is not a problem. If you are visiting this place, lower your expectation. As I found, it's a good place for a rural trip with some friends of a larger group. You cna have the place to yourself for an over niter. Largely peaceful area.",
+      "We recently celebrated a birthday at Suraj Farms, and it was a wonderful experience. The venue is beautifully maintained with plenty of greenery and open space, which created the perfect setting for the occasion.\n\nThe staff was cooperative and attentive, making sure everything went smoothly. The food was delicious, and the arrangements were spot on. Everyone truly enjoyed the celebration, and it turned into a memorable day for all of us.\n\nSuraj Farms is a great choice for birthdays, gatherings, or team celebrations. Highly recommended!",
+      "I was there for two days to attend my best friend\u2019s wedding. The food and services were pretty nice. They have huge lawns and pool and space for other fun activities for the guests to engage. Rooms can use some improvements.\n\nOverall it was a nice experience."
+    ],
+    "negative_snippets": []
+  },
+  "review_summary": "Based on 5 reviews.",
+  "positive_themes": {
+    "friendly_staff": 2,
+    "good_food": 3,
+    "clean_rooms": 1,
+    "good_location": 1
+  },
+  "negative_themes": {}
+}

@@ -1,0 +1,48 @@
+{
+  "hotel_id": "ChIJAXp7bFcZDTkRkKdt_Lt46Tk",
+  "hotel_name": "Hotel Elite 29 Golf Course Road",
+  "area": "Sector 53",
+  "budget_category": "Mid-Range",
+  "rating": 4.4,
+  "trust_score": 0.6081335855279292,
+  "travel_purpose_tags": [
+    "Budget"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "moderate",
+    "review_count": 5,
+    "positive_snippet_count": 0,
+    "negative_snippet_count": 3,
+    "positive_theme_count": 2,
+    "negative_theme_count": 2
+  },
+  "aspect_scores": {
+    "cleanliness": 0.0015828221512492,
+    "service": 0.5,
+    "location": 0.5,
+    "value_for_money": 0.001376704298309,
+    "staff_behavior": 0.0010449487599543
+  },
+  "recommendation_features": {
+    "popularity_score": 0.5504868924455442,
+    "rating_score": 4.4,
+    "sentiment_score": 0.1658599685877561
+  },
+  "review_evidence": {
+    "positive_snippets": [],
+    "negative_snippets": [
+      "I had the worst experience at this hotel. The staff was unprofessional and unhelpful. I have waited for more than half hour for chekin and after it they denied to check just because of mmt's low price (discounted price) . Highly recommend not to visit this hotel worst staff , unprofessional behaviour",
+      "I did not had a good experience. I booked this hotel with mmt and hotel did not received booking after 1 hour i got refund and I booked offline with 1k extra.\nBathroom exhaust was not working, even bathroom towel was not available. So if you are a corporate employee come here at your own risk",
+      "Its a pathetic hotel and the staff is fraud. They don't agree with the bookings done on Makemytrip and ask for exorbitant rates when u arrive for check in ..knowing well that u r stuck as prepayment has been done. Its a big fraud going on with the hotel staff and its managers. kindly avoid it for any stay."
+    ]
+  },
+  "review_summary": "Based on 5 reviews.",
+  "positive_themes": {
+    "friendly_staff": 3,
+    "great_value": 1
+  },
+  "negative_themes": {
+    "rude_staff": 2,
+    "dirty_rooms": 1
+  }
+}

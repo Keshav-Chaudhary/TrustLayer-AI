@@ -1,0 +1,50 @@
+{
+  "hotel_id": "ChIJTUJpHx3iDDkRYzj9vx7KJRE",
+  "hotel_name": "Hotel Pearl Residency Inn",
+  "area": "Malviya Nagar",
+  "budget_category": "Budget",
+  "rating": 4.3,
+  "trust_score": 0.6518243003706586,
+  "travel_purpose_tags": [
+    "Budget"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "moderate",
+    "review_count": 5,
+    "positive_snippet_count": 2,
+    "negative_snippet_count": 3,
+    "positive_theme_count": 2,
+    "negative_theme_count": 1
+  },
+  "aspect_scores": {
+    "cleanliness": 0.3333567460989191,
+    "service": 0.5,
+    "location": 0.5,
+    "value_for_money": 0.5,
+    "staff_behavior": 0.9984307885169984
+  },
+  "recommendation_features": {
+    "popularity_score": 0.4676721011727747,
+    "rating_score": 4.3,
+    "sentiment_score": 0.3996796441351762
+  },
+  "review_evidence": {
+    "positive_snippets": [
+      "Best Good rooms staff was polite all amenities provided",
+      "Neat and clean room. Staff was polite"
+    ],
+    "negative_snippets": [
+      "Worst hotel , this is not running currently after booking on there official website , they were saying  not running this hotel and -have changed the address. If we go to that new address they were saying online website is not running from our side and later they are asking us to pay the amount once again . This hotel official website is working but they are not accepting that website own by them. They are charging through website and the time when we arrive at hotel twice.",
+      "Walking into the room was a moment of immediate regret. It was absolutely disgusting. The most immediate visual was the walls, which had large, dark patches of water seepage and dampness. The bedding was arguably worse; the sheets and pillowcases were a revolting, stained yellow, making it clear they were filthy and definitely not clean. I found the toilet to have a broken and cracked seat, and the bed was unstable and clearly broken, dipping severely. This was not just unclean\u2014it was vile and made the entire stay feel deeply unsettling and unsanitary.",
+      "A Nightmare of Neglect: Filthy, Dangerous, and Uninhabitable\n\nThe room was in an extremely unhygienic and deplorable state. The walls were marred by visible seepage and mold. The bedding was appalling\u2014the sheets and pillow covers were a sickening yellow hue, clearly not fresh. The furniture was damaged, featuring a broken, sagging bed and a cracked, broken toilet seat. This room should not be rented to guests."
+    ]
+  },
+  "review_summary": "Based on 5 reviews.",
+  "positive_themes": {
+    "friendly_staff": 2,
+    "clean_rooms": 2
+  },
+  "negative_themes": {
+    "dirty_rooms": 2
+  }
+}

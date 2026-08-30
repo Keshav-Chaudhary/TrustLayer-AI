@@ -1,0 +1,46 @@
+{
+  "hotel_id": "ChIJ10WgN8X_DDkRgi_2slwPS18",
+  "hotel_name": "Spot On 76153 Hotel Golden Blue Heart",
+  "area": "Mirkhera",
+  "budget_category": "Mid-Range",
+  "rating": 3.0,
+  "trust_score": 0.3154211626399882,
+  "travel_purpose_tags": [
+    "Budget"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "moderate",
+    "review_count": 5,
+    "positive_snippet_count": 0,
+    "negative_snippet_count": 3,
+    "positive_theme_count": 1,
+    "negative_theme_count": 1
+  },
+  "aspect_scores": {
+    "cleanliness": 0.0028446773067116,
+    "service": 0.5,
+    "location": 0.5,
+    "value_for_money": 0.0026879334909608,
+    "staff_behavior": 0.5
+  },
+  "recommendation_features": {
+    "popularity_score": 0.2958444386389672,
+    "rating_score": 3.0,
+    "sentiment_score": 0.00148401055485
+  },
+  "review_evidence": {
+    "positive_snippets": [],
+    "negative_snippets": [
+      "No light,no water,toilet condition very poor,room condition very dirty,pillow dirty,\nMai kabi bhi oyo book nahi karunga",
+      "Fraud people , they force you to cancel the online booking and make you pay more money in offline.",
+      "Very bad hotal and do not have water this hotal::"
+    ]
+  },
+  "review_summary": "Based on 5 reviews.",
+  "positive_themes": {
+    "great_value": 1
+  },
+  "negative_themes": {
+    "dirty_rooms": 2
+  }
+}

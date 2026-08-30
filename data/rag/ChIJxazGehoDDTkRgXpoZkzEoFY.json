@@ -1,0 +1,47 @@
+{
+  "hotel_id": "ChIJxazGehoDDTkRgXpoZkzEoFY",
+  "hotel_name": "Fabhotel Ashoka International",
+  "area": "Karol Bagh",
+  "budget_category": "Mid-Range",
+  "rating": 4.4,
+  "trust_score": 0.742543735175064,
+  "travel_purpose_tags": [
+    "Business"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "moderate",
+    "review_count": 5,
+    "positive_snippet_count": 3,
+    "negative_snippet_count": 1,
+    "positive_theme_count": 2,
+    "negative_theme_count": 0
+  },
+  "aspect_scores": {
+    "cleanliness": 0.5000281393367914,
+    "service": 0.9998397827148438,
+    "location": 0.5,
+    "value_for_money": 0.5,
+    "staff_behavior": 0.9998633861541748
+  },
+  "recommendation_features": {
+    "popularity_score": 0.2313194968117582,
+    "rating_score": 4.4,
+    "sentiment_score": 0.7999302411015379
+  },
+  "review_evidence": {
+    "positive_snippets": [
+      "Excellent, friendly, and supportive staff. The rooms are clean and tidy; I will definitely visit again.",
+      "Wonderful place",
+      "Superb stay"
+    ],
+    "negative_snippets": [
+      "Washroom was very bad"
+    ]
+  },
+  "review_summary": "Based on 5 reviews.",
+  "positive_themes": {
+    "clean_rooms": 1,
+    "friendly_staff": 1
+  },
+  "negative_themes": {}
+}

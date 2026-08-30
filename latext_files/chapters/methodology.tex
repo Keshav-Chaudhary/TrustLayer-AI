@@ -1,0 +1,224 @@
+\chapter{Methodology and System Architecture}\label{ch:methodology}
+
+\section{Overall System Methodology}
+TrustLayer-AI was engineered through an iterative 29-stage evolution to solve core challenges in recommendation quality, aspect explainability, conversational hallucination, vector store data drift, and data pipeline repeatability. Rather than assuming a static architecture from inception, the platform's methodology reflects empirical research discoveries and system engineering transitions.
+
+The system spans five primary subsystems:
+\begin{enumerate}
+    \item \textbf{Data Engineering Pipeline}: Upstream raw acquisition via external APIs, data cleaning, DistilBERT sentiment extraction, Aspect-Based Sentiment Analysis (ABSA), and canonical feature engineering.
+    \item \textbf{Hybrid Recommendation \& Explainability Subsystem}: Collaborative filtering (SVD), content-based feature matching, Reciprocal Rank Fusion (RRF), and real-time analytical aspect alignment scoring.
+    \item \textbf{Conversational RAG \& Grounding Subsystem}: Review evidence chunking, dense vector similarity retrieval, token-budget context compression, prompt orchestration, local LLM generation, citation injection, and post-generation grounding validation.
+    \item \textbf{Enterprise Database Infrastructure}: Clean Architecture repository abstraction layers managing unified relational and vector ACID transactions inside a PostgreSQL 17.6 database engine equipped with \texttt{pgvector}.
+    \item \textbf{Ingestion Engine \& Master Orchestrator}: A 9-stage repeatable data ingestion engine featuring SHA-256 field-level diffing, dry-run safety, human approval boundaries, selective vector synchronization, and a single-command CLI master orchestrator with live terminal progress tracking and signal safety.
+\end{enumerate}
+
+\section{Data Acquisition}
+The data acquisition methodology focused on obtaining representative accommodation metadata and authentic guest reviews for the Delhi National Capital Region (NCR).
+
+\subsection{Google Places API Data Collection}
+Primary hotel metadata and review text were collected using custom integration scripts (`\texttt{fetch\_google\_places.py}` and `\texttt{fetch\_google\_reviews.py}`). A geographic grid sampling approach across 15 major NCR area clusters (including central New Delhi, the Indira Gandhi International Airport corridor in Mahipalpur, Gurugram, Dwarka, Rohini, Paharganj, and Karol Bagh) yielded raw records for 1,661 distinct hotel properties.
+
+For each property, the Places Details API retrieved place identifiers, property names, physical addresses, geographic coordinates (latitude and longitude), user rating averages, total rating counts, and text reviews. Due to API detail response limits, text review acquisition was capped at 5 reviews per hotel, yielding approximately 8,305 raw review entries. All raw payloads were preserved in `\texttt{delhi\_hotels\_raw.csv}` and `\texttt{reviews\_raw.csv}` to establish an immutable acquisition baseline.
+
+Auditing raw data fields revealed that the Google Places API returned the \texttt{price\_level} attribute as 100\% missing (NaN) across all 1,661 hotels in India. Consequently, a proxy variable methodology was introduced during feature engineering to infer property budget tiers.
+
+\subsection{Synthetic User Profile and Interaction Generation}
+To model user interactions in the absence of private commercial booking logs, a synthetic user generation engine (`\texttt{generate\_users.py}`) created 500 demographic user profiles. Each profile incorporated explicit travel attributes, including budget category preferences, preferred area clusters, primary travel purpose (business, family, solo, leisure), and aspect priority weights.
+
+Initial interaction generation (`\texttt{generate\_interactions.py}`) simulated 5,000 user-item events (views, clicks, bookings). However, forensic evaluation in Stage A revealed that uniform random interaction assignment resulted in an extreme \textbf{99.27\% matrix sparsity}, introducing unweighted random noise that severely degraded collaborative filtering performance. This prompted a major engineering remediation in Stage A.1 (`\texttt{generate\_interactions\_v2.py}`), which injected realistic preference matching (66\% budget overlap, 51\% area cluster overlap) and a power-law distribution of user interaction frequencies to accurately model real-world user activity.
+
+\section{Data Cleaning and Preparation}
+Raw collected data underwent rigorous sanitization via `\texttt{clean\_hotel\_metadata.py}` and `\texttt{clean\_reviews.py}` to eliminate noise, standardize types, and enforce geographic constraints.
+
+\subsection{Geographic Bounding Box and Deduplication}
+Hotels were deduplicated by canonical Google \texttt{place\_id} keys and normalized property names. Geographic validity was enforced by passing coordinates through a spatial bounding-box filter defining the latitude/longitude limits of Delhi NCR ($28.40^\circ\text{N} \le \text{Lat} \le 28.88^\circ\text{N}$, $76.84^\circ\text{E} \le \text{Lng} \le 77.35^\circ\text{E}$). Out-of-bounds spatial outliers were pruned.
+
+\subsection{Review Text Sanitization and Zero-Review Handling}
+Review text was sanitized using regular expressions to strip non-ASCII artifacts, HTML tags, and trailing whitespace. Text review auditing identified that 1,618 out of 1,661 hotels possessed non-empty text reviews, while 43 hotels had 0 reviews. To prevent entity dropouts, all 1,661 canonical hotels were preserved in the primary entity table, while the 43 zero-review properties were flagged for aspect score median imputation during feature engineering. Cleaned metadata and reviews were consolidated into `\texttt{delhi\_hotels\_cleaned.csv}` and `\texttt{reviews\_cleaned.csv}`.
+
+\section{Sentiment Analysis and Aspect-Based Sentiment Analysis (ABSA)}
+To transform qualitative text reviews into structured quantitative signals, a two-stage NLP pipeline was implemented.
+
+\subsection{Sentence-Level Sentiment Extraction}
+Review text sentiment polarity was computed using a pre-trained DistilBERT model (`\texttt{distilbert-base-uncased-finetuned-sst-2-english}`) in `\texttt{analyze\_sentiment.py}`. For each review sentence, DistilBERT output a positive sentiment probability ($P_{\text{pos}} \in [0, 1]$). Evaluating sentiment probabilities against user star ratings demonstrated a high Pearson correlation ($r \approx 0.84$), confirming NLP extraction fidelity.
+
+\subsection{Aspect-Based Sentiment Analysis (ABSA)}
+To extract granular sentiment across specific hospitality dimensions, `\texttt{extract\_absa\_features.py}` implemented an Aspect-Based Sentiment Analysis engine. Review text was parsed using keyword dictionary masking across five core aspects:
+\begin{enumerate}
+    \item \textbf{Cleanliness}: Hygiene, room tidiness, and bathroom sanitation.
+    \item \textbf{Service}: Front-desk responsiveness, check-in efficiency, and room service.
+    \item \textbf{Location}: Accessibility to transit, airport corridors, and central attractions.
+    \item \textbf{Value for Money}: Perceived price-to-quality ratio.
+    \item \textbf{Staff Behavior}: Staff courtesy, helpfulness, and hospitality.
+\end{enumerate}
+
+Aspect scores ($S_{\text{aspect}} \in [0, 100]$) were calculated by combining aspect-keyword frequency masking with DistilBERT sentence sentiment probabilities. Review-level aspect scores were aggregated to the hotel level using weighted mean pooling. Explanatory analysis across the dataset confirmed that \textbf{Cleanliness} exhibited the highest score variance among properties, establishing it as the primary differentiator for hotel quality in Delhi NCR.
+
+\section{Feature Engineering and Trust Scoring}
+Feature engineering (`\texttt{engineer\_features.py}`) transformed cleaned metadata and aggregated NLP sentiment metrics into scaled numerical features.
+
+\subsection{Feature Normalization and Budget Proxying}
+All numeric variables were scaled using `scikit-learn` `MinMaxScaler` ($X_{\text{scaled}} \in [0, 1]$). To address the 100\% missing \texttt{price\_level} attribute, a \texttt{budget\_category} proxy feature (categorized as Budget, Mid-Range, or Luxury) was engineered by clustering property star ratings, review volumes, and geographic area tariffs. For the 43 zero-review hotels lacking ABSA sentiment scores, missing aspect values were imputed using the median aspect scores of their respective area clusters.
+
+\subsection{Trust Score and Popularity Score Formulation}
+Two primary composite quality scores were engineered:
+\begin{enumerate}
+    \item \textbf{Popularity Score ($P_{\text{score}}$)}: Derived from log-transformed total review counts:
+    \begin{equation}
+    P_{\text{score}} = \frac{\log(1 + N_{\text{reviews}})}{\max(\log(1 + N_{\text{reviews}}))}
+    \end{equation}
+    \item \textbf{Trust Score ($T_{\text{score}}$)}: A robust overall score combining normalized star rating ($R_{\text{norm}}$), DistilBERT positive sentiment probability ($S_{\text{sentiment}}$), and review density support ($V_{\text{support}}$):
+    \begin{equation}
+    T_{\text{score}} = 0.50 \cdot R_{\text{norm}} + 0.35 \cdot S_{\text{sentiment}} + 0.15 \cdot V_{\text{support}}
+    \end{equation}
+    Rescaled to $[0, 100]$, $T_{\text{score}}$ exhibited a Gaussian distribution centered at $68.0$, whereas $P_{\text{score}}$ followed a steep power-law distribution. The near-zero correlation between Trust and Popularity ($r \approx 0.05$) confirmed that they capture orthogonal evaluation signals.
+\end{enumerate}
+
+All features were merged into the canonical handoff dataset `\texttt{final\_hotel\_dataset.csv}` (1,661 hotels, 26 features, SHA-256: `\texttt{eca959c788...}`).
+
+\section{Recommendation Methodology and Engineering Pivots}
+Developing the recommendation system involved empirical evaluation and critical architectural remediations.
+
+\subsection{Initial Model Development and Diagnostic Failure (Stage A)}
+Four candidate models were initially implemented in `\texttt{scripts/recommender/}`:
+1. **Popularity Baseline**: Ranked hotels strictly by review volume and average rating.
+2. **Content-Based (CB)**: Cosine similarity between user preference vectors and hotel feature vectors.
+3. **Collaborative Filtering (CF)**: Matrix Factorization via SVD (`Surprise` library) over the user-item interaction matrix.
+4. **Linear Hybrid Model**: Score-based linear blending: $S_{\text{hybrid}} = \alpha \cdot S_{\text{CF}} + (1-\alpha) \cdot S_{\text{CB}}$.
+
+Diagnostic evaluation (`\texttt{recommender\_diagnostics.md}`) revealed catastrophic model failure:
+\begin{itemize}
+    \item Offline evaluation yielded abysmal metrics: $\text{Precision}@10 = 0.002$, $\text{Recall}@10 = 0.010$, $\text{NDCG}@10 = 0.006$.
+    \item Grid-search optimization over the linear hybrid model selected $\alpha = 1.0$, completely disabling the content-based component.
+    \item Matrix factorization (SVD) underfit heavily due to 99.27\% interaction matrix sparsity (~3.6 interactions/hotel).
+    \item Score calibration mismatch: Content-based cosine similarities clustered between $0.8$ and $0.9$, while SVD predicted ratings spread from $1.0$ to $5.0$. Linear blending over uncalibrated scales forced optimization to default to 100\% CF dominance.
+\end{itemize}
+
+\subsection{Recommender Remediation and Reciprocal Rank Fusion (Stage A.1)}
+To resolve these failures, two major remediations were executed in `\texttt{generate\_interactions\_v2.py}` and `\texttt{hybrid.py}`:
+\begin{enumerate}
+    \item \textbf{Synthetic Interaction Overhaul}: Regenerated interactions with structured preference overlap (66\% budget match, 51\% area match) and power-law interaction frequency.
+    \item \textbf{Reciprocal Rank Fusion (RRF)}: Replaced score-based linear blending with Reciprocal Rank Fusion ($k=60$):
+    \begin{equation}
+    RRF\_Score(d) = \frac{1}{60 + r_{\text{CF}}(d)} + \frac{1}{60 + r_{\text{CB}}(d)}
+    \end{equation}
+    RRF fuses ordinal item ranks rather than raw uncalibrated scores, completely bypassing score calibration mismatches.
+\end{enumerate}
+
+Re-evaluation demonstrated dramatic improvement, elevating $\text{NDCG}@10$ from $0.006$ to $> 0.12$ and passing recommendation quality gates.
+
+\section{Explainability Methodology}
+To provide transparent justifications for recommendations, explainability mechanisms were developed in `\texttt{scripts/explainability/}`.
+
+\subsection{Abandonment of SHAP Approximations}
+Initial designs explored SHAP (SHapley Additive exPlanations) to interpret tree-based and collaborative models. However, empirical benchmarking forced the abandonment of SHAP due to two factors:
+1. **Computational Latency**: SHAP value calculations required $> 1.5$ seconds per recommendation query, violating real-time API latency requirements ($< 500$ ms).
+2. **Dense Non-Deterministic Attribution**: SHAP attributions generated over RRF rank-fused outputs produced complex, non-intuitive importance scores that failed human readability audits.
+
+\subsection{Analytical Feature-Matching Explainer}
+SHAP was replaced by a real-time, deterministic **Analytical Feature-Matching Explainer** (`\texttt{explainer.py}`). For a target user preference vector and recommended hotel, the explainer calculates direct aspect alignment percentages across Cleanliness, Service, Location, Value, and Staff Behavior:
+\begin{equation}
+\text{Alignment}_{\text{aspect}} = 100 \cdot \left(1 - |W_{\text{user, aspect}} - S_{\text{hotel, aspect}}|\right)
+\end{equation}
+
+The explainer outputs structured aspect alignment breakdown bars and qualitative explanation badges (e.g., \textit{"Top Cleanliness Match in Mahipalpur"}), delivering deterministic, human-readable explanations in $< 5$ ms.
+
+\section{Retrieval-Augmented Generation (RAG) Methodology}
+To enable natural language conversational search, a grounded Hybrid RAG architecture was constructed (`\texttt{app/services/}`).
+
+\subsection{Review Document Chunking and Segmentation}
+The 1,661 canonical hotels were segmented into \textbf{7,910 review evidence text chunks} (`\texttt{data/rag/ChIJ*.json}`). Each chunk captured specific document types: Chunk A (Property Profile), Chunk B (Aspect Summaries), Chunk C (Positive Review Evidence), Chunk D (Negative Review Evidence), and Chunk E (Recommender Ranking Signals). Chunks were embedded into 384-dimensional vector representations using SentenceTransformers (`\texttt{all-MiniLM-L6-v2}`).
+
+\subsection{End-to-End RAG Execution Flow}
+Conversational queries execute through an 8-stage pipeline:
+\begin{enumerate}
+    \item \textbf{Query Parsing (`\texttt{query\_parser.py}`)}: Extracts natural language intent, budget limits, preferred area clusters, and requested amenities.
+    \item \textbf{Hybrid Retrieval (`\texttt{retriever.py}`)}: Combines vector cosine similarity search over review chunks, hard SQL metadata filtering (area, budget), and recommender trust score reranking.
+    \item \textbf{Context Compression (`\texttt{context\_compressor.py}`)}: Deduplicates overlapping chunks and enforces a strict 1,500-token budget, formatting chunks with explicit `\texttt{[Chunk ID: XYZ]}` markers.
+    \item \textbf{Prompt Orchestration (`\texttt{prompt\_orchestrator.py}`)}: Wraps compressed context in task-specific system prompts containing mandatory grounding instructions.
+    \item \textbf{LLM Generation (`\texttt{llm\_service.py}`)}: Executes local Ollama inference (\texttt{mistral}/\texttt{llama3}) supporting synchronous responses and HTTP chunked streaming (`\texttt{async stream\_generate}`).
+    \item \textbf{Citation Injection (`\texttt{citation\_injector.py}`)}: Parses inline chunk citations from raw LLM text into structured `\texttt{ProvenanceChunk}` JSON models.
+    \item \textbf{Grounding Validation (`\texttt{grounding\_validator.py}`)}: Cross-references LLM claims against retrieved evidence, actively stripping unverified amenity assertions.
+    \item \textbf{Frontend Delivery}: Delivers structured responses to the UI, enabling lazy-loading of provenance drawers.
+\end{enumerate}
+
+Grounding evaluation over 150 benchmark queries achieved a **96.7\% grounded response rate** and a **1.3\% hallucination rate**, with 3 active interceptions stripping fabricated amenity claims.
+
+\section{Vector Retrieval Evolution and PostgreSQL Migration}
+Managing vector embeddings evolved from decoupled file stores to unified relational storage.
+
+\subsection{Initial ChromaDB Architecture and Data Drift}
+In Stage C, vector embeddings were stored in a file-based ChromaDB database (`\texttt{data/vector_store/}`). While functional for initial retrieval testing, operating ChromaDB alongside raw CSV files introduced structural data drift, non-atomic schema updates, and a lack of ACID transaction guarantees.
+
+\subsection{PostgreSQL 17.6 + pgvector Cutover (Stage 24.2)}
+To unify relational metadata and vector embeddings under a single ACID-compliant database, the system migrated to PostgreSQL 17.6 with the `\texttt{pgvector}` extension in Stage 24.2. All 7,910 embedding chunks were backfilled into the `\texttt{embedding\_documents}` SQL table (`\texttt{backfill\_pgvector.py}`).
+
+Empirical parity verification demonstrated:
+\begin{itemize}
+    \item **Embedding Vector Parity**: **1.0000 average cosine similarity** between ChromaDB and `\texttt{pgvector}` embeddings across 100 sampled vectors ($0.0000$ max absolute difference).
+    \item **RAG Query Parity**: **20 / 20 (100.0%) Top-1 hotel match** across 20 benchmark recommendation queries comparing legacy file stores against PostgreSQL.
+\end{itemize}
+
+PostgreSQL 17.6 was established as the sole runtime source of truth.
+
+\section{PostgreSQL Data Architecture}
+The production PostgreSQL database (`\texttt{trustlayer\_db}`) enforces a normalized relational schema comprising nine tables:
+\begin{itemize}
+    \item `\texttt{hotels}`: Master entity table (1,661 rows; primary key `\texttt{id}`, property metadata, content hash, active flag).
+    \item `\texttt{hotel\_locations}`: Geographic coordinates and area cluster assignments (1,661 rows).
+    \item `\texttt{hotel\_scores}`: Engineered Trust Score, Popularity Score, and 5 ABSA aspect scores (1,661 rows).
+    \item `\texttt{hotel\_sources}`: External Google Place references and data URLs (1,661 rows).
+    \item `\texttt{hotel\_amenities}`: Boolean amenity indicators (wifi, parking, pool, restaurant, ac, bar, gym, spa; 1,661 rows).
+    \item `\texttt{embedding\_documents}`: Vector storage (7,910 rows; chunk ID, hotel FK, content text, `\texttt{vector(384)}`, metadata JSONB, content hash).
+    \item `\texttt{domain\_events}`: Transactional outbox pattern table recording domain state changes (`\texttt{HOTEL\_CREATED}`, `\texttt{HOTEL\_UPDATED}`; 1,661 rows).
+    \item `\texttt{ingestion\_runs}` \& `\texttt{ingestion\_records}`: Auditable ingestion run logs and record-level action histories.
+\end{itemize}
+
+SQL foreign key constraints enforce zero orphan child records across the database.
+
+\section{Repository Abstraction and Backend Architecture}
+To prevent coupling API routes directly to SQL queries, Stage 23 refactored the backend using the Clean Architecture Repository Pattern (`\texttt{app/repositories/}`).
+
+Abstract base contracts (`\texttt{BaseHotelRepository}`, `\texttt{BaseEmbeddingRepository}`, `\texttt{BaseTraceRepository}`) define data access methods. Concrete SQLAlchemy repository adapters (`\texttt{PostgresHotelRepository}`, `\texttt{PgVectorEmbeddingRepository}`, `\texttt{PostgresTraceRepository}`) handle database execution. Centralized configuration in `\texttt{app/config/config.py}` dynamically resolves active repositories based on environment flags (`\texttt{DATA\_BACKEND=postgres}`, `\texttt{VECTOR_BACKEND=pgvector}`). FastAPI service layers (`\texttt{HotelService}`, `\texttt{RecommendationService}`) consume abstract repository interfaces, ensuring clean separation of concerns.
+
+\section{Repeatable Data Ingestion Methodology (Stage 26)}
+Stage 26 built an auditable, repeatable data ingestion engine to eliminate manual SQL updates and redundant embedding recalculations.
+
+The engine executes a 9-stage lifecycle:
+\begin{enumerate}
+    \item `\texttt{RAW}`: Ingest source CSV files into staging memory.
+    \item `\texttt{NORMALIZED}`: Standardize types, strings, and coordinates.
+    \item `\texttt{VALIDATED}`: Enforce `\texttt{schema\_contract.py}` bounds (ratings $[0..5]$, trust scores $[0..100]$, valid lat/long).
+    \item `\texttt{DEDUPLICATED}`: Prune duplicate entity keys.
+    \item `\texttt{CANONICAL}`: Update master dataset (`\texttt{final\_hotel\_dataset.csv}`).
+    \item `\texttt{DIFF}`: Execute `\texttt{diff\_engine.py}` using canonical content hashing (`\texttt{calculate\_canonical\_content\_hash}`).
+    \item `\texttt{DRY-RUN}`: Produce `\texttt{dry\_run.json}` diff artifact detailing `\texttt{INSERT}`, `\texttt{UPDATE}`, and `\texttt{NO\_CHANGE}` counts with \textbf{ZERO} PostgreSQL mutation.
+    \item `\texttt{APPROVAL}`: Require explicit human approval specifying the generated `\texttt{RUN\_ID}`.
+    \item `\texttt{TRANSACTIONAL APPLY}`: Open a SQL transaction, apply database updates, log outbox events, and invoke `\texttt{selective\_vector\_sync.py}` to recompute embeddings \textit{only} for modified content hashes.
+\end{enumerate}
+
+\section{Master Pipeline Orchestration and Progress Tracking (Stages 28 \& 29)}
+Stages 28 and 29 unified all data pipeline processes into a single production CLI orchestrator.
+
+\subsection{One-Command CLI Orchestrator (Stage 28)}
+Stage 27 identified that upstream data processing (collection, cleaning, NLP, ABSA, feature engineering, merging) was fragmented across standalone scripts. Stage 28 resolved this by building `\texttt{scripts/orchestrator.py}`:
+\begin{itemize}
+    \item `\texttt{python -m scripts.orchestrator full}`: Sequentially triggers all 6 upstream pipeline stages, generates `\texttt{final\_hotel\_dataset.csv}`, and executes Stage 26 dry-run diffing under `\texttt{data/runs/<RUN\_ID>/}` while maintaining strict database read-only safety.
+    \item `\texttt{python -m scripts.orchestrator apply --run-id <RUN\_ID>}`: Enforces human approval before executing SQL transactions.
+\end{itemize}
+
+\subsection{Live Progress Tracking and Signal Safety (Stage 29)}
+Stage 29 integrated `\texttt{ProgressTracker}` (`\texttt{scripts/orchestration/progress.py}`), adding an interactive ASCII terminal progress dashboard rendering active stage names, script entrypoints, record percentage bars, elapsed time, and ETA calculations, alongside file logging (`\texttt{pipeline.log}`). A custom `\texttt{SIGINT}` (Ctrl+C) signal handler safely terminates active sub-processes, marks `\texttt{pipeline\_manifest.json}` as `\texttt{INTERRUPTED}`, and guarantees zero database corruption.
+
+\section{Experimental Methodology}
+The project employed distinct experimental and verification suites:
+\begin{itemize}
+    \item \textbf{Offline Recommender Benchmarking}: Evaluated SVD, Content-Based, and RRF Hybrid models across Precision@10, Recall@10, and NDCG@10 using 70/30 chronological train/test splits.
+    \item \textbf{Retrieval Ablation \& Evaluation}: Evaluated hybrid vector search over 150 benchmark queries across Precision@5, Recall@5, MRR, and NDCG@5.
+    \item \textbf{Grounding \& Hallucination Auditing}: Audited LLM response generation over 150 benchmark queries, quantifying interception rates via `\texttt{GroundingValidator}`.
+    \item \textbf{Database \& Vector Parity Verification}: Validated cosine similarity parity ($1.0000$) and SQL relational integrity via direct SQLAlchemy queries.
+    \item \textbf{Master Provenance Verification}: Executed master Pytest verification suites (`\texttt{test\_stage24\_5\_complete\_backend.py}`, `\texttt{test\_pipeline\_stage26.py}`, `\texttt{test\_stage28\_orchestrator.py}`, `\texttt{test\_stage29\_progress.py}`), achieving a 100\% pass rate across all 50 backend tests.
+\end{itemize}
+
+\section{End-to-End Operational Lifecycle}
+In summary, raw external data acquired from Google Places APIs is sanitized, enriched with DistilBERT sentiment and ABSA aspect scores, and merged into a canonical handoff dataset. A single-command orchestrator computes SHA-256 diffs against PostgreSQL 17.6, allowing approved transactional updates and selective vector synchronization. When users submit natural language queries, the FastAPI backend resolves abstract repository interfaces against PostgreSQL/pgvector storage, executes RRF hybrid ranking, generates aspect-alignment explanations in real time, and passes retrieved review evidence chunks through a grounded RAG generation loop. The resulting response is validated against hallucinations and rendered dynamically in the React frontend.

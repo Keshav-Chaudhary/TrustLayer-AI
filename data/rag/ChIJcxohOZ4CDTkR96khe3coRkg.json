@@ -1,0 +1,49 @@
+{
+  "hotel_id": "ChIJcxohOZ4CDTkR96khe3coRkg",
+  "hotel_name": "Hotel Benz International",
+  "area": "behind bikanerwala",
+  "budget_category": "Mid-Range",
+  "rating": 3.5,
+  "trust_score": 0.7601092436865641,
+  "travel_purpose_tags": [
+    "Leisure",
+    "Family"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "moderate",
+    "review_count": 5,
+    "positive_snippet_count": 3,
+    "negative_snippet_count": 1,
+    "positive_theme_count": 3,
+    "negative_theme_count": 0
+  },
+  "aspect_scores": {
+    "cleanliness": 0.99977445602417,
+    "service": 0.5,
+    "location": 0.99977445602417,
+    "value_for_money": 0.9997522234916688,
+    "staff_behavior": 0.9996856053670248
+  },
+  "recommendation_features": {
+    "popularity_score": 0.5783303433477104,
+    "rating_score": 3.5,
+    "sentiment_score": 0.998646593093872
+  },
+  "review_evidence": {
+    "positive_snippets": [
+      "In my opinion awesome destination for weekends and bussiness trips....I always wants to stay whenever I will visit delhi ...overall all admin nd staff behaviour superbe ..",
+      "Apart from location, everything else is fine.\nRooms are clean\nStaff is good.\nExactly behind Bikanervala.",
+      "We arrived in Delhi from the airport and the hotel booked us our driver which was really helpful from them.\n\nThe room was clean and the AC + fan were working very well.\n\nThe staff was very nice also and helpful.\n\nThe location was very good near the metro.\nDelhi metro is very well organized and I suggest everybody to take the metro instead of some tuktuk who can be very expensive for tourists."
+    ],
+    "negative_snippets": [
+      "All goods services and the behaviour of staffs are also good and coperate"
+    ]
+  },
+  "review_summary": "Based on 5 reviews.",
+  "positive_themes": {
+    "friendly_staff": 4,
+    "clean_rooms": 2,
+    "good_location": 2
+  },
+  "negative_themes": {}
+}

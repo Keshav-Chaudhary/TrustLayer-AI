@@ -1,0 +1,53 @@
+{
+  "hotel_id": "ChIJVSfh4c8FDTkRe54mRvZAn0E",
+  "hotel_name": "Hotel O Leo Saffron By F Hotels",
+  "area": "Pitampura",
+  "budget_category": "Mid-Range",
+  "rating": 4.3,
+  "trust_score": 0.6565301722791134,
+  "travel_purpose_tags": [
+    "Budget"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "moderate",
+    "review_count": 5,
+    "positive_snippet_count": 1,
+    "negative_snippet_count": 3,
+    "positive_theme_count": 5,
+    "negative_theme_count": 2
+  },
+  "aspect_scores": {
+    "cleanliness": 0.2275697006649958,
+    "service": 0.24963647689583,
+    "location": 0.6813905835151672,
+    "value_for_money": 0.000319260841934,
+    "staff_behavior": 0.4988009708176832
+  },
+  "recommendation_features": {
+    "popularity_score": 0.5853355812316818,
+    "rating_score": 4.3,
+    "sentiment_score": 0.3359872982196975
+  },
+  "review_evidence": {
+    "positive_snippets": [
+      "Hotel condition is good its on 2nd floor of building it has only 10 rooms on that floor, dulex / normal room both same no difference. its long stay at this place benifits, they clean room daily upon request, near to GOPAL mandir landmark & NEar metro is NSP it take 10 Rs only by e riksha to drop at metro."
+    ],
+    "negative_snippets": [
+      "Only oyo person given high rating other wise third class hotel so bad smell in room condom find in room very very poor service",
+      "Terrible experience,idk why it's 3 star actually it's zero star.\n\n1:- no room service, if there's someone - not trained .\n2:-no cleanliness,stains on bedsheet ,floor and walls.\n3:- tv not working, rooms are shady and not well maintained.\n4:- unhygienic breakfast , brought from some local stall.\n5:- got clinic plus sachet as shampoo, watery handwash of cheap quality.\n6:-charged extra for glasses,water which are basic includes.\n\nN number of problems are there ,anyone can think about.\n\nIf you're booking less then 1000 is fit. That's only slab.",
+      "The rooms are okay for a couple of days. Everything wolrs well but couple of front desk lads are absolutely mannerless. I thinks that's just west delhi. The other staff members are very helpful and warm."
+    ]
+  },
+  "review_summary": "Based on 5 reviews.",
+  "positive_themes": {
+    "clean_rooms": 2,
+    "good_location": 1,
+    "great_value": 1,
+    "good_food": 1,
+    "friendly_staff": 1
+  },
+  "negative_themes": {
+    "dirty_rooms": 3,
+    "rude_staff": 1
+  }
+}

@@ -1,0 +1,51 @@
+{
+  "hotel_id": "ChIJl0LO2F_dDDkRdoKJO5-Xlpw",
+  "hotel_name": "Oyo Laxmi Residency",
+  "area": "Sector 31",
+  "budget_category": "Budget",
+  "rating": 3.6,
+  "trust_score": 0.437500363361122,
+  "travel_purpose_tags": [
+    "Budget"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "moderate",
+    "review_count": 5,
+    "positive_snippet_count": 0,
+    "negative_snippet_count": 3,
+    "positive_theme_count": 3,
+    "negative_theme_count": 4
+  },
+  "aspect_scores": {
+    "cleanliness": 0.0005363901145756,
+    "service": 0.0049836668185889,
+    "location": 0.5,
+    "value_for_money": 0.0005363901145756,
+    "staff_behavior": 0.0004210114129818
+  },
+  "recommendation_features": {
+    "popularity_score": 0.4950627988643146,
+    "rating_score": 3.6,
+    "sentiment_score": 0.0013139431452145
+  },
+  "review_evidence": {
+    "positive_snippets": [],
+    "negative_snippets": [
+      "Not good at all, There was a TV in the room n it was fully broken, there was dampmeyin the room.",
+      "This was the bad experience at oyo for me. My previous oyo stays are very comfortable and good. At OYO 28576 nothing was good. Hotel management didn't provided soap or shampoo. The AC was just for making noise. No cooling. Bed was not soft. No cleaning. No room service. I have booked deluxe room for extra space but they gave me a very small room. Since I have lot of work to do so I didn't argue with them because that will be just my waste of time. And the best part was that they forced me to give 5 star rating when I checked out. And there was a rule of hotel \"no outside food allowed\" that's means you have to eat there bad food at high costs. I would say if are staying in faridabad then please avoid this hotel. Don't make mistake that I made. I forget to mention that TV was not working because there was no recharge in their setup box.",
+      "Worst ever experience.\nRoom & bathroom is dirty, windows & doors are damage. No soap's in bathroom. No availability of mug in bathroom. AC is broken. Very high cost."
+    ]
+  },
+  "review_summary": "Based on 5 reviews.",
+  "positive_themes": {
+    "clean_rooms": 1,
+    "good_food": 2,
+    "friendly_staff": 1
+  },
+  "negative_themes": {
+    "noise": 1,
+    "bad_food": 1,
+    "dirty_rooms": 1,
+    "rude_staff": 1
+  }
+}

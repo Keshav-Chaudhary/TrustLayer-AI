@@ -1,0 +1,51 @@
+{
+  "hotel_id": "ChIJOSNn5jXnDDkRyFSXt2zfFnM",
+  "hotel_name": "Super Oyo Flagship Hotel White Hut",
+  "area": "Delhi",
+  "budget_category": "Budget",
+  "rating": 4.2,
+  "trust_score": 0.5942379771381885,
+  "travel_purpose_tags": [
+    "Budget"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "rich",
+    "review_count": 5,
+    "positive_snippet_count": 3,
+    "negative_snippet_count": 2,
+    "positive_theme_count": 2,
+    "negative_theme_count": 2
+  },
+  "aspect_scores": {
+    "cleanliness": 0.5000779368128859,
+    "service": 0.0022208529990166,
+    "location": 0.5,
+    "value_for_money": 0.5,
+    "staff_behavior": 0.0002889111929107
+  },
+  "recommendation_features": {
+    "popularity_score": 0.2580997673088359,
+    "rating_score": 4.2,
+    "sentiment_score": 0.4005639842071105
+  },
+  "review_evidence": {
+    "positive_snippets": [
+      "Highly Recommended .\nI had a stay here and it was amazing, so peaceful and hygienic environment is provided.\nTotally new built Hotel everything is just new and so comfortable.\nSpecial Thanks to the Owner for making it an comfy stay .",
+      "Rooms r ok. But the area was not so good. Facing difficulties in parking vehicles.",
+      "Very clean and nice experience"
+    ],
+    "negative_snippets": [
+      "Yesterday I booked room on Oyo and when I was in reception he told me you have no booking at 12:30am\nI told him that payment also done but he is not listening and because I am very tired I repay payment\nBut still I have don't know what is the mystery I have very dangerous situation and Oyo customer says no refund",
+      "Poor hygiene and rude staff"
+    ]
+  },
+  "review_summary": "Based on 5 reviews.",
+  "positive_themes": {
+    "clean_rooms": 1,
+    "friendly_staff": 1
+  },
+  "negative_themes": {
+    "parking_issues": 1,
+    "rude_staff": 1
+  }
+}

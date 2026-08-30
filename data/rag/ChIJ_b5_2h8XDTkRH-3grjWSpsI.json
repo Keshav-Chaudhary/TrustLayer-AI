@@ -1,0 +1,52 @@
+{
+  "hotel_id": "ChIJ_b5_2h8XDTkRH-3grjWSpsI",
+  "hotel_name": "Capital O Harish Residency",
+  "area": "Sector 9",
+  "budget_category": "Mid-Range",
+  "rating": 3.6,
+  "trust_score": 0.5698044305400133,
+  "travel_purpose_tags": [
+    "Budget"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "moderate",
+    "review_count": 5,
+    "positive_snippet_count": 2,
+    "negative_snippet_count": 3,
+    "positive_theme_count": 4,
+    "negative_theme_count": 1
+  },
+  "aspect_scores": {
+    "cleanliness": 0.0817932561039924,
+    "service": 0.5,
+    "location": 0.0817932561039924,
+    "value_for_money": 0.0817932561039924,
+    "staff_behavior": 0.5217087131459266
+  },
+  "recommendation_features": {
+    "popularity_score": 0.487459406182981,
+    "rating_score": 3.6,
+    "sentiment_score": 0.4210736250504851
+  },
+  "review_evidence": {
+    "positive_snippets": [
+      "Recently we have hosted few rooms here for our guest and the experience was good and staff and mangement were helpful",
+      "Checked in into this hotel comfortably yesterday, during my stay as well everything was smooth. The rooms were spacious and extraordinary. Also staff had some amazing etiquettes, they behaved so professionally and with warm they served us. I just loved my stay here."
+    ],
+    "negative_snippets": [
+      "It's nice budget hotel. But location is too inside from the main road. Property is good and rooms are big but they lack in maintaining the hygiene. The bedsheets had black stains and were not properly washed. Washrooms are also big but not properly cleaned. Food options are vast and pocket friendly. Food was tasty and hygienic. Overall good but not best.",
+      "Located at a place with no public transportation nearby. Doesn't accept Oyo bookings, despite being on their page. Had to overspend to stay there. The rooms are fine. Nothing special. Cleanliness can be improved around it.",
+      "Very Very Poor.\n\nThe manager shows eyes.\n\nThe manager manipulates his own boss.\n\nThe manager don't let boys do work.\n\nThe other boys are obedient and polite.\n\nManager name is Abhishek and he will ask you to rate 5 star.\n\nVery Very bad ."
+    ]
+  },
+  "review_summary": "Based on 5 reviews.",
+  "positive_themes": {
+    "friendly_staff": 4,
+    "clean_rooms": 2,
+    "good_location": 2,
+    "good_food": 1
+  },
+  "negative_themes": {
+    "dirty_rooms": 1
+  }
+}

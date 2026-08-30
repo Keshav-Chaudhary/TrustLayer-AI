@@ -1,0 +1,52 @@
+{
+  "hotel_id": "ChIJ85M8_BDlDDkRuHggVmVCRmA",
+  "hotel_name": "Hotel The Imperio",
+  "area": "Jasola Vihar",
+  "budget_category": "Mid-Range",
+  "rating": 4.5,
+  "trust_score": 0.6862000744355737,
+  "travel_purpose_tags": [
+    "Budget"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "moderate",
+    "review_count": 5,
+    "positive_snippet_count": 2,
+    "negative_snippet_count": 3,
+    "positive_theme_count": 4,
+    "negative_theme_count": 1
+  },
+  "aspect_scores": {
+    "cleanliness": 0.0006883590249344,
+    "service": 0.5001367618096991,
+    "location": 0.0006832884391769,
+    "value_for_money": 0.5,
+    "staff_behavior": 0.6668144400464371
+  },
+  "recommendation_features": {
+    "popularity_score": 0.5033526122422379,
+    "rating_score": 4.5,
+    "sentiment_score": 0.4003059203736484
+  },
+  "review_evidence": {
+    "positive_snippets": [
+      "\"I had a wonderful experience at this hotel! The service was excellent, and the staff were very polite and helpful. I accidentally left some of my belongings behind, and they safely returned them to me, which I really appreciate. Overall, it\u2019s a great hotel with amazing hospitality \u2014 highly recommended!\"",
+      "Had a wonderful stay, rooms were nicely cleaned and spacious. Staff was helpful and polite."
+    ],
+    "negative_snippets": [
+      "I stayed here for three days and it was a regrettable choice. The online photos showed rooms with balconies, but the actual rooms did not. This set the tone for what turned out to be a very poor stay.\n\nMy first room had cockroaches all around the space. I complained right away. The manager insisted that pest control had been done, yet nothing changed. On the third day, I was shifted to another room that was claimed to be clean. That room also had cockroaches, which made it clear that hygiene is not taken seriously.\n\nThe food was mediocre. There is no in-house kitchen and the breakfast they serve is brought in from outside. The quality reflects that.\n\nThe manager\u2019s behavior was notably abrasive and dismissive. It added an unnecessary layer of irritation to an already unpleasant stay.\n\nThere are far better hotels in the same lane. I would not recommend this place to anyone, whether someone from my own circle or someone reading this review. Save yourself the trouble and choose a better option nearby.",
+      "Rooms are not so clean, has lot of roaches. They dont have any in house restaurant so the breakfast provided is not great and doesn't have much options. I may not want to come back here for long stays.",
+      "The guy at reception was highly unprofessional and opportunistic. No sense of hosting and openly exploiting between to guests. Will definitely discourage my connections from even trying this hotel. Ultimately he openly denied room to guest stating you are late I got INR 500 more for the same room."
+    ]
+  },
+  "review_summary": "Based on 5 reviews.",
+  "positive_themes": {
+    "friendly_staff": 2,
+    "clean_rooms": 3,
+    "good_location": 1,
+    "good_food": 2
+  },
+  "negative_themes": {
+    "rude_staff": 1
+  }
+}

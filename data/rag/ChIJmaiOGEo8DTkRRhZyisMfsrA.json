@@ -1,0 +1,50 @@
+{
+  "hotel_id": "ChIJmaiOGEo8DTkRRhZyisMfsrA",
+  "hotel_name": "Fabexpress Next Home",
+  "area": "Imt Manesar",
+  "budget_category": "Mid-Range",
+  "rating": 4.8,
+  "trust_score": 0.9121825363489156,
+  "travel_purpose_tags": [
+    "Leisure",
+    "Business",
+    "Family"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "moderate",
+    "review_count": 5,
+    "positive_snippet_count": 3,
+    "negative_snippet_count": 0,
+    "positive_theme_count": 5,
+    "negative_theme_count": 0
+  },
+  "aspect_scores": {
+    "cleanliness": 0.99982750415802,
+    "service": 0.9996654987335204,
+    "location": 0.9761501550674438,
+    "value_for_money": 0.964365392923355,
+    "staff_behavior": 0.9643114805221558
+  },
+  "recommendation_features": {
+    "popularity_score": 0.5003836649536477,
+    "rating_score": 4.8,
+    "sentiment_score": 0.9855993270874024
+  },
+  "review_evidence": {
+    "positive_snippets": [
+      "I had a great experience with this hotel . There service was excellent and there behaviour creates a life long bond like family \u2764\ufe0f . Specially they are very good cricket \ud83c\udfcf players \ud83d\ude02\ud83c\udfcf\ud83e\udd1f\ud83c\udffb",
+      "Excellent location, Economic and Hygiene. Nice place to stay for an office trip and work near IMT MANESAR.",
+      "Key points i like the most\n1)I found this place on make my trip and booked from Mumbai.\n2)less than 5 minute from highway.\n3)there is food market which is just 1minute away from this place.\n4)  owner is very polite. He arrange everything you want.\n5) daily cleaning\n6) well maintained by owner and staff.\n7)i will suggest paratha they have nice taste.\n8) hygienic conditions.\n9) value for money \u270c\ufe0f\n10) 10/10"
+    ],
+    "negative_snippets": []
+  },
+  "review_summary": "Based on 5 reviews.",
+  "positive_themes": {
+    "good_location": 1,
+    "clean_rooms": 1,
+    "friendly_staff": 2,
+    "great_value": 2,
+    "good_food": 2
+  },
+  "negative_themes": {}
+}

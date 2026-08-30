@@ -1,0 +1,53 @@
+{
+  "hotel_id": "ChIJw2f9Y3YDDTkR7XalAEXGCGI",
+  "hotel_name": "Fabhotel Grand Palazzo I",
+  "area": "New Delhi",
+  "budget_category": "Mid-Range",
+  "rating": 4.6,
+  "trust_score": 0.6189933358264827,
+  "travel_purpose_tags": [
+    "Budget"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "moderate",
+    "review_count": 5,
+    "positive_snippet_count": 1,
+    "negative_snippet_count": 3,
+    "positive_theme_count": 4,
+    "negative_theme_count": 3
+  },
+  "aspect_scores": {
+    "cleanliness": 0.0007981326198205,
+    "service": 0.0002560984285082,
+    "location": 0.5000787378376117,
+    "value_for_money": 0.0002520228154025,
+    "staff_behavior": 0.5000787378376117
+  },
+  "recommendation_features": {
+    "popularity_score": 0.4248943222933851,
+    "rating_score": 4.6,
+    "sentiment_score": 0.200293561030412
+  },
+  "review_evidence": {
+    "positive_snippets": [
+      "Excellent place to stay if you want to live close to Rajouri garden and west delhi. It is in proximity of the Rajouri garden main market and metro station. The staff is very cooperative and helpful. Special thanks to Mr Ashish for taking care of us during our stay."
+    ],
+    "negative_snippets": [
+      "So firstly location was not found easily and I had to call MMT and Fab Hotels to get the location. Secondly there was no proper parking place even when it was mentioned while booking. There were no room slippers dental kit or even the proper menu to order the food from. The worst part was that the blanket was actually just a Duvet cover with no cotton in it to feel warm in this winter and when asked they first mentioned that they cannot change it since they don't have it and then they exchanged it and exactly same cotton less duvet cover was given and I slept in actual cold whole night. Staff was good and courteous but services was absolutely pathetic.",
+      "Room was good enough however the bed sheets, pillow covers and the blankit was not clean as per the expectations. White cotton was coming out from the blanket which made my clothes dirty and became whitish. Felt uncomfortable throughout the stay.",
+      "This hotel is completely unprofessional and misleading. We booked with trust, but after arrival, the service was unacceptable and the atmosphere was uncomfortable.\n\nThere is no customer support, and when problems arise, they simply ignore you. Even after genuine complaints, they did not return our payment.\n\nIt feels like they only care about taking money and not about customer satisfaction. Highly disappointed. Not recommended at all."
+    ]
+  },
+  "review_summary": "Based on 5 reviews.",
+  "positive_themes": {
+    "friendly_staff": 2,
+    "good_location": 2,
+    "good_food": 1,
+    "clean_rooms": 1
+  },
+  "negative_themes": {
+    "parking_issues": 1,
+    "dirty_rooms": 1,
+    "rude_staff": 1
+  }
+}

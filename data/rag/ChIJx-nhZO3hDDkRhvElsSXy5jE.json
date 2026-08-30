@@ -1,0 +1,48 @@
+{
+  "hotel_id": "ChIJx-nhZO3hDDkRhvElsSXy5jE",
+  "hotel_name": "Hotel Saket 27",
+  "area": "Saket",
+  "budget_category": "Mid-Range",
+  "rating": 4.3,
+  "trust_score": 0.8961310170889084,
+  "travel_purpose_tags": [
+    "Leisure",
+    "Business"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "moderate",
+    "review_count": 5,
+    "positive_snippet_count": 3,
+    "negative_snippet_count": 0,
+    "positive_theme_count": 4,
+    "negative_theme_count": 0
+  },
+  "aspect_scores": {
+    "cleanliness": 0.9998088876406352,
+    "service": 0.9998335440953572,
+    "location": 0.9998294115066528,
+    "value_for_money": 0.5,
+    "staff_behavior": 0.9998117983341216
+  },
+  "recommendation_features": {
+    "popularity_score": 0.7160998745495267,
+    "rating_score": 4.3,
+    "sentiment_score": 0.9998103499412536
+  },
+  "review_evidence": {
+    "positive_snippets": [
+      "Great stay at Hotel Saket 27. The location is the biggest highlight\u2014very close to the Saket Metro and Select CITYWALK mall. The rooms are clean, which was perfect for my trip. I especially complimentary breakfast spread, which had a good variety of Indian and continental options. Staff was professional and check-in was smooth\nThe best part about the Hotel is their restaurant and the staff is very nice, especially Deeksha whose behavior was very good. We enjoyed both the breakfast and the dinner menu. The food was fresh and served hot. The hospitality in the dining area really stood out.\u2728",
+      "Rooms are clean, bathroom is very clean, polite and helpful housekeeping staff especially Mr Uttam who tried everythingpossible to make us comfortable, ample space in room for you to walk and to keep your luggage and your other stuff.\n\nComplimentary breakfast is very good. but our stay was for 3 Days and all days most of the menu were same, also on one day eggs were being served to some but denied to others.\n\nOverall a very pleasant and comfortable stay",
+      "We are staying at hotel Saket 27.  The customer service here is excellent, especially considering that we both arrived in the middle of the night. We just enjoyed our first breakfast, and we\u2019re served by\nRoopa and Deeksha. They are a very attentive, and helped us with each and every one of our weird requests without blinking an eye. Thank you so much, we are looking for our second breakfast tomorrow."
+    ],
+    "negative_snippets": []
+  },
+  "review_summary": "Based on 5 reviews.",
+  "positive_themes": {
+    "clean_rooms": 3,
+    "friendly_staff": 4,
+    "good_location": 1,
+    "good_food": 3
+  },
+  "negative_themes": {}
+}

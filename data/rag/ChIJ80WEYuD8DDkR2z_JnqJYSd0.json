@@ -1,0 +1,49 @@
+{
+  "hotel_id": "ChIJ80WEYuD8DDkR2z_JnqJYSd0",
+  "hotel_name": "Hotel Tara Palace Daryaganj",
+  "area": "Daryaganj",
+  "budget_category": "Luxury",
+  "rating": 4.0,
+  "trust_score": 0.7684870741903469,
+  "travel_purpose_tags": [
+    "Budget"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "moderate",
+    "review_count": 5,
+    "positive_snippet_count": 3,
+    "negative_snippet_count": 1,
+    "positive_theme_count": 4,
+    "negative_theme_count": 0
+  },
+  "aspect_scores": {
+    "cleanliness": 0.7517855180194601,
+    "service": 0.6691197372662524,
+    "location": 0.5037592973094434,
+    "value_for_money": 0.0076779774390161,
+    "staff_behavior": 0.9998213648796082
+  },
+  "recommendation_features": {
+    "popularity_score": 0.6012055068832813,
+    "rating_score": 4.0,
+    "sentiment_score": 0.8013224254362286
+  },
+  "review_evidence": {
+    "positive_snippets": [
+      "This hotel truly exceeded my expectations. Neat rooms, clean bathrooms, and very professional staff. They went out of their way to help whenever I needed anything. I\u2019d happily come back again!",
+      "Stayed here for a couple of days \u2014 everything was great! The room was spotless, the ambiance was peaceful, and the service was top-notch. Special thanks to the staff for making my stay so comfortable.",
+      "Review by Dr. Hukam Singh Sandu on Hotel Tara Palace, Daryaganj\n\nI recently had the pleasure of staying at Hotel Tara Palace in Daryaganj with my best friend, and the experience was truly commendable. From the moment we arrived, the staff was warm and welcoming, ensuring a smooth check-in process. The rooms were well-maintained, clean, and comfortable, offering a peaceful ambiance perfect for relaxation. The hotel\u2019s location is ideal, with easy access to nearby historical sites and markets.\n\nOne of the highlights of our stay was our meeting with the hotel owner, who was incredibly hospitable and passionate about providing quality service. He personally ensured that our needs were met and even shared insights about the hotel\u2019s commitment to guest satisfaction. The food quality was excellent, with a variety of delicious and hygienic options available.\n\nThe overall atmosphere was pleasant, and the services exceeded our expectations. Whether for business or leisure, Hotel Tara Palace is a great choice for anyone visiting Daryaganj. I would highly recommend this hotel for its exceptional hospitality, cleanliness, and affordability. Looking forward to visiting again!\n\nRating: \u2b50\u2b50\u2b50\u2b50\u2b50 (5/5)"
+    ],
+    "negative_snippets": [
+      "Room is spacious and washroom is also clean. Service was also good except wifi and hot water. You had to call them everytime so they would switch on the geyser. I had to completely rely on my phones internet as the router in our floor was not working and was not fixed throughout the entire duration of stay.\nAlso the reception is in first floor so they have configured the elevator to stop in first floor every time the elevator goes up or down. Your room is on second floor and you are alone in the elevator and you board from ground floor, still the elevator will stop in first floor by default then continue from there to second floor.\nLocation is bit strange as both the main roads leading to the hotel gets barricaded in the evening, as early as 7pm and you would need to walk frkm there to the hotel and the lanes are dimly lit. Hotel is inside an apartment complex, and although it is close to the main road, but due to barricades it would take you more than 5 mins of walking to reach any commute. Due to barricading you cannot find any autos near the hotel and also you cant call cab directly to your hotel neither will they be able to drop you at thr hotels gate.\nOverall suggestion isn to avoid at this price point."
+    ]
+  },
+  "review_summary": "Based on 5 reviews.",
+  "positive_themes": {
+    "clean_rooms": 4,
+    "friendly_staff": 3,
+    "good_location": 2,
+    "good_food": 2
+  },
+  "negative_themes": {}
+}

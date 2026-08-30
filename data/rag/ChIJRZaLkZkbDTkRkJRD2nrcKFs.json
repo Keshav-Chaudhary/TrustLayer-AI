@@ -1,0 +1,51 @@
+{
+  "hotel_id": "ChIJRZaLkZkbDTkRkJRD2nrcKFs",
+  "hotel_name": "Holiday Inn Express New Delhi Int'L Airport T3",
+  "area": "Level 5 Indira Gandhi International Airport Terminal 3",
+  "budget_category": "Budget",
+  "rating": 4.2,
+  "trust_score": 0.7670092440192733,
+  "travel_purpose_tags": [
+    "Leisure"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "rich",
+    "review_count": 5,
+    "positive_snippet_count": 3,
+    "negative_snippet_count": 2,
+    "positive_theme_count": 5,
+    "negative_theme_count": 0
+  },
+  "aspect_scores": {
+    "cleanliness": 0.999870777130127,
+    "service": 0.5,
+    "location": 0.9164486825466156,
+    "value_for_money": 0.000710298292688,
+    "staff_behavior": 0.7082389002243872
+  },
+  "recommendation_features": {
+    "popularity_score": 0.8210072437889171,
+    "rating_score": 4.2,
+    "sentiment_score": 0.5668225247354712
+  },
+  "review_evidence": {
+    "positive_snippets": [
+      "Our stay at Holiday Inn Express New Delhi Airport Terminal 3 was truly wonderful and exceeded all our expectations. From the very first moment, we felt welcomed, comfortable, and genuinely cared for.\nThe location is incredibly convenient for travelers, especially after a long flight, and the hotel itself is spotless, modern, and very well organized. The rooms were quiet, cozy, and perfectly prepared, allowing us to rest and recharge in complete comfort.\nWhat made our experience truly special, however, was the exceptional kindness of the staff. We would especially like to express our heartfelt gratitude to Deepak, the waiter at the restaurant. He was one of the kindest and most attentive people we met during our trip. Always smiling, polite, and thoughtful, he made sure we felt comfortable at every moment. His warm attitude and genuine care turned every meal into a lovely experience. It\u2019s rare to meet someone who serves not just with professionalism, but with heart.\nThank you to the entire team for your hospitality and for creating such a positive and memorable stay. We will always remember your kindness and look forward to coming back again.",
+      "This is an amazing experience - its like a secret hotel. The check in was tricky to find for us - it is located with the car hire desks in the domestic terminal and you cant go to the hotel on your own. You need to be taken there by airport staff - you cant access it directly. Your luggage goes through security. Dont book the international section if you are not able to check your international bags before you check into the hotel- we had to use the domestic section for this reason. Before you can be taken up, all your bags go through security check and scan. The loft you go up in to the hotel is very small, it basically takes one luggage trolley plus 2 people. You get 2 free bottles of water in the room. Its in a part of the airport which is administrative- there were no windows in the room we stayed in but we were not bothered. There is an office and some kind of relaxation zone but we just wanted to go to sleep. The beds are comfortable , you get a shower room with shampoo and shower gel. This was best way to arrive for 3am check in and we were very grateful to them for looking after us. I would say it takes approx 45 mins to get to the hotel after your flight has landed.",
+      "Stayed for a 12 hour layover while traveling to Phuket. It was an amazing stay. Very comfortable bed and everything you could need. Had butter chicken, rice and chapati in the restaurant and it was amazing. Anisha served us and was very attentive. A credit to the hotel. All the staff were very good and I wouldn\u2019t hesitate to book a long layover here in the future. Bonus there is a small gym!"
+    ],
+    "negative_snippets": [
+      "DO NOT BOOK FOR A STAY AT THIS HOTEL.  YOU WILL NOT GET A REFUND.  The hotel will not allow you check in; even though, you have paid for the hotel.  Let's say that you book a stay depart from Terminal 3 and the Airline change the departure to Terminal 2.  The hotel requires you must depart from T3.  The hotel will not refund the money if the terminal changes.  This is an absurd requirement.  Cost me more than $900 (USD).  Can't get a refund and can't cancel.",
+      "Decent room to take some sleep to relax and have a shower. Only if you have onward international flight from terminal 3.\nMaintenance could be better. Hairdryer not working and hanging off the wall. Water took around 10 mins to get hot.\nBreakfast is simply not good! Found a small cockroach in the covered bread and pastry display. Staff removed when I told them.\nI just had chicken sausage, cucumber, egg and an Indian type of pita and after 30mins rushed to the toilet!\nDoesn't worth the price 75 euros for 7 hours, but I guess that's monopoly and a choice if you need comfort"
+    ]
+  },
+  "review_summary": "Based on 5 reviews.",
+  "positive_themes": {
+    "clean_rooms": 1,
+    "friendly_staff": 4,
+    "good_location": 1,
+    "great_value": 1,
+    "good_food": 1
+  },
+  "negative_themes": {}
+}

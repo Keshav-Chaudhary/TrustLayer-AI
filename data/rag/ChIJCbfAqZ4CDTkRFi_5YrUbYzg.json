@@ -1,0 +1,52 @@
+{
+  "hotel_id": "ChIJCbfAqZ4CDTkRFi_5YrUbYzg",
+  "hotel_name": "Hotel Swaran Palace",
+  "area": "Karol Bagh",
+  "budget_category": "Luxury",
+  "rating": 3.8,
+  "trust_score": 0.5496502967774559,
+  "travel_purpose_tags": [
+    "Budget"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "moderate",
+    "review_count": 5,
+    "positive_snippet_count": 1,
+    "negative_snippet_count": 3,
+    "positive_theme_count": 4,
+    "negative_theme_count": 2
+  },
+  "aspect_scores": {
+    "cleanliness": 0.0006449349602916,
+    "service": 0.3335950085020158,
+    "location": 0.5,
+    "value_for_money": 0.5,
+    "staff_behavior": 0.3337154870484178
+  },
+  "recommendation_features": {
+    "popularity_score": 0.5986914115383751,
+    "rating_score": 3.8,
+    "sentiment_score": 0.2004149790853261
+  },
+  "review_evidence": {
+    "positive_snippets": [
+      "A lovely beautuful hotel. Staff is courteous and take  care of guests well. A must visit place when you at bareilly. Good work keep up the good work, my best wishes to the entire team and staff. Exellent keep up the good work. Food is good and rooms are nicely cleaned . This sound like a wondeful place to visit. Its always refresting to econunter friendly and helful staff. Postive interactors like that can truly enhance a stay. Politeness and good service can make all the difference. I appreciate you sharing your experience. thanks pawan from front desk and sachin from lobby for hassle free chekin and chekout. Must visit here. Thanks both of you. Also thanking the manager for his good service and the talk sessions we had. All with all this is a great and fantastic hotel where you can stay safe with your children and family."
+    ],
+    "negative_snippets": [
+      "Worst hotel ever stayed in.\nNo complimentary water bottle\nbottle.\nNo toiletries.\nNo Towels.\nAnd in fact you have to call to reception to switch on the geyser which was not mentioned anywhere.\nWe have to do early checkout and all of a sudden we got to know there is no hot water.\nAttitude of receptionist is on another level.",
+      "It is not possible to give review below 1 so giving 1. Very untidy dirty rooms. No hygiene even staff is very rude. Hot water not coming in room so we asked for a bucket of water for our child they gave warm water for name sake. Even water coming from tap is dirty. I request not even think of coming to this dirty and unhygienic place. And belive me positive reviews given are fake.",
+      "Very very bad experience staff is rude\nThey even charge rupees 10 for 1 print\n\nThis is one of the worst hotel services we have ever experienced. The staff is extremely unsupportive and rude. If we raise our concerns/ask for help, they raise their voices on us (literally), and answer back to us like they do not care at all. The hotel is extremely untidy, pillows and bedsheets are yellow and dirty. The dust has settled everywhere, showing that they haven't cleaned a single room for months. We got two rooms, and both have the same issue.\nAlso, we did not have to pay for this hotel as we get a partnership benefit from Bank of Baroda for this hotel. They have restricted mineral water and changing bedsheets for us"
+    ]
+  },
+  "review_summary": "Based on 5 reviews.",
+  "positive_themes": {
+    "clean_rooms": 3,
+    "friendly_staff": 3,
+    "good_food": 1,
+    "great_value": 1
+  },
+  "negative_themes": {
+    "dirty_rooms": 2,
+    "rude_staff": 2
+  }
+}

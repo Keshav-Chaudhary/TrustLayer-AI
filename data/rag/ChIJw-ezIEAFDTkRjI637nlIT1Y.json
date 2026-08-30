@@ -1,0 +1,53 @@
+{
+  "hotel_id": "ChIJw-ezIEAFDTkRjI637nlIT1Y",
+  "hotel_name": "Spot On The Arrow",
+  "area": "Paschim Vihar",
+  "budget_category": "Mid-Range",
+  "rating": 3.9,
+  "trust_score": 0.5673305213031709,
+  "travel_purpose_tags": [
+    "Budget"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "moderate",
+    "review_count": 5,
+    "positive_snippet_count": 2,
+    "negative_snippet_count": 3,
+    "positive_theme_count": 3,
+    "negative_theme_count": 3
+  },
+  "aspect_scores": {
+    "cleanliness": 0.000462233860162,
+    "service": 0.0004701882135123,
+    "location": 0.0004542795068118,
+    "value_for_money": 0.0004542795068118,
+    "staff_behavior": 0.5001069285499398
+  },
+  "recommendation_features": {
+    "popularity_score": 0.3196692287282864,
+    "rating_score": 3.9,
+    "sentiment_score": 0.4001795804826543
+  },
+  "review_evidence": {
+    "positive_snippets": [
+      "Good staff and good cleaning\nAlso staff very polite\nSpical thanks shekhar rajput",
+      "Good staff and well cleaning\nAnd also good talking of maneger shekhar rajput"
+    ],
+    "negative_snippets": [
+      "No TV in room, Wifi is slow, mattress is dirty, check in service is very slow, Room vibe's very uncomfortable, No Privacy, geyser not available in bathroom, Very disappointed....",
+      "A VERY HONEST REVIEW GUYS ( PLEASE DON'T WASTE YOUR MONEY AND TIME ON THIS HOTEL)\nRating: 1/5\n\nTerrible Experience \u2013 Please Avoid!\n\nMy stay at this hotel was a complete disappointment.\n\nPoor hospitality and extremely rude receptionist.\n\nLocation is bad and hard to access.\n\nThey changed my booking platform to OYO without consent and charged 15% more than the online price \u2013 a clear scam. (BOOKED IT FROM BOOKING.COM ACTUALLY)\n\nNo drinking water or beverages provided.\n\nBathrooms were filthy \u2013 foul-smelling, dirty toilet seats, and unhygienic environment.\n\nThe walls and infrastructure were in very poor condition \u2013 nothing like the photos shown online.\n\nThey even charged \u20b9100 extra for parking, which was never mentioned earlier.\n\nDo NOT trust the images uploaded on booking sites. They are completely misleading.\n\nHonestly, you\u2019re better off sleeping in your car or at a friend\u2019s place than staying here. A total waste of money and a very uncomfortable stay.",
+      "I had a very disappointing experience at Spot On The Arrow. The receptionist was extremely rude and had no manners in speaking to guests. He demanded \u20b91000 extra without any valid reason and also charged additional parking fees. This kind of behavior is completely unprofessional and unacceptable.\n\nThe hospitality was poor, and I would not recommend this hotel to anyone."
+    ]
+  },
+  "review_summary": "Based on 5 reviews.",
+  "positive_themes": {
+    "clean_rooms": 2,
+    "friendly_staff": 2,
+    "good_location": 1
+  },
+  "negative_themes": {
+    "dirty_rooms": 2,
+    "rude_staff": 2,
+    "parking_issues": 2
+  }
+}

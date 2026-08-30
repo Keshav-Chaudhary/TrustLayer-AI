@@ -1,0 +1,52 @@
+{
+  "hotel_id": "ChIJ-V35ZQLkDDkRAN9EIFb6qLA",
+  "hotel_name": "The Nanee Suites",
+  "area": "Jasola Vihar",
+  "budget_category": "Mid-Range",
+  "rating": 4.0,
+  "trust_score": 0.7674560355202297,
+  "travel_purpose_tags": [
+    "Leisure"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "moderate",
+    "review_count": 5,
+    "positive_snippet_count": 3,
+    "negative_snippet_count": 1,
+    "positive_theme_count": 5,
+    "negative_theme_count": 1
+  },
+  "aspect_scores": {
+    "cleanliness": 0.5017635370604694,
+    "service": 0.5017131413333118,
+    "location": 0.999874711036682,
+    "value_for_money": 0.9997735619544984,
+    "staff_behavior": 0.7507938367780298
+  },
+  "recommendation_features": {
+    "popularity_score": 0.5989907359557148,
+    "rating_score": 4.0,
+    "sentiment_score": 0.7995672760531306
+  },
+  "review_evidence": {
+    "positive_snippets": [
+      "I came for a business trip and client meetings for a week ,the staffs ,hotel cleanliness, amenities and all other facilities are higher than the expectation\n\nIt is highly recommended for travellers and business stay. Hotel is monitored with camera and staffs so it's highly safe to stay",
+      "We were there because our hospital was nearby but such a good decision to stay here. It may not be for everyone because they definitely have criteria for their guests they welcome to; no non married couples are allowed here and strictly no smoking\ud83d\udead The kitchen is purely vegetarian but you can order food from outside. The breakfast was so good and definitely very safe for girls. The staff are super attentive and love the service. They helped us to do uber or get transportation that would be faster and reliable for us. Definitely worth it!!!",
+      "I had a wonderful stay at Nanee Suites Hotel. The hospitality was excellent, with friendly and attentive staff who always made me feel comfortable. The location is perfect\u2014close to the mall, hospital, and other conveniences. The employees were polite, professional, and very helpful throughout my stay. Highly recommende"
+    ],
+    "negative_snippets": [
+      "Very bad experience i had today.  The man at the reception was very rude I only wanted to use washroom.  He rudely asked me to leave my hand bag at the reception not carry in wash room. First time something like this has happened. Security is one issue but behaving badly is not tolerable. Man needs to learn some hospitality."
+    ]
+  },
+  "review_summary": "Based on 5 reviews.",
+  "positive_themes": {
+    "clean_rooms": 2,
+    "friendly_staff": 4,
+    "good_location": 2,
+    "great_value": 1,
+    "good_food": 2
+  },
+  "negative_themes": {
+    "rude_staff": 1
+  }
+}

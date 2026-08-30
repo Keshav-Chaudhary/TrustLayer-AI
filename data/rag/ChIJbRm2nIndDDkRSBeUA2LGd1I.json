@@ -1,0 +1,49 @@
+{
+  "hotel_id": "ChIJbRm2nIndDDkRSBeUA2LGd1I",
+  "hotel_name": "K Hotel",
+  "area": "Sector 31",
+  "budget_category": "Mid-Range",
+  "rating": 3.8,
+  "trust_score": 0.6773138304399632,
+  "travel_purpose_tags": [
+    "Leisure"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "rich",
+    "review_count": 5,
+    "positive_snippet_count": 3,
+    "negative_snippet_count": 2,
+    "positive_theme_count": 3,
+    "negative_theme_count": 0
+  },
+  "aspect_scores": {
+    "cleanliness": 0.0130366152152419,
+    "service": 0.5064192148856819,
+    "location": 0.9021257758140564,
+    "value_for_money": 0.5,
+    "staff_behavior": 0.6708825848375758
+  },
+  "recommendation_features": {
+    "popularity_score": 0.6250208830257262,
+    "rating_score": 3.8,
+    "sentiment_score": 0.5830075725389179
+  },
+  "review_evidence": {
+    "positive_snippets": [
+      "This place is soo far from the city center, rooms are too small and this is also an old place.\nBut if you like being away from the hustle and bustle of the city then maybe this is a place to be.\nWe were booked in this place to stay aince I guess this hotel was closer to our host.\nThank uu \ud83d\udc90\ud83c\udf89",
+      "Very nice pace to stay. Staff behaviour helpful",
+      "Best service and the manager Suraj Ji is very friendly"
+    ],
+    "negative_snippets": [
+      "Old is no more gold, Food taste is not good.",
+      "The hotel is very old and needs maintainence if we talk about services offered like internet, laundry, washrooms etc.\nHotel is neat and clean.\nOn request services are offered quickly.\nLaundry service is slow.\nOnly thing that I liked is food quality here. \u0936\u0947\u092b is good here.\nThe reception bhaiya with beard is very helpful and dining members too."
+    ]
+  },
+  "review_summary": "Based on 5 reviews.",
+  "positive_themes": {
+    "friendly_staff": 3,
+    "good_food": 2,
+    "clean_rooms": 1
+  },
+  "negative_themes": {}
+}

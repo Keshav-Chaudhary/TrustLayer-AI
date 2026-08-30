@@ -1,0 +1,51 @@
+{
+  "hotel_id": "ChIJSbK5LDjcDDkRNyRcRHo4DI0",
+  "hotel_name": "Mahalakshmi Palace Hotel",
+  "area": "New Industrial Township",
+  "budget_category": "Luxury",
+  "rating": 3.9,
+  "trust_score": 0.6068160676641582,
+  "travel_purpose_tags": [
+    "Leisure"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "moderate",
+    "review_count": 5,
+    "positive_snippet_count": 1,
+    "negative_snippet_count": 3,
+    "positive_theme_count": 4,
+    "negative_theme_count": 1
+  },
+  "aspect_scores": {
+    "cleanliness": 0.5,
+    "service": 0.5,
+    "location": 0.9998408555984496,
+    "value_for_money": 0.0003495189885142,
+    "staff_behavior": 0.2503309749008621
+  },
+  "recommendation_features": {
+    "popularity_score": 0.5054167725029061,
+    "rating_score": 3.9,
+    "sentiment_score": 0.4001104515744373
+  },
+  "review_evidence": {
+    "positive_snippets": [
+      "Rooms are good. The room which I selected had old AC without remote. Hotel ambience is good. Cleanliness is good. In bathrooms hot water was not available and food rates are bit high. Complementary breakfast was available."
+    ],
+    "negative_snippets": [
+      "Worst hospitality by Mr. Rajesh, so rude doesn\u2019t know how to talk to a woman or anyone. We have asked him to just show us banquet hall he was so rude and adamant that he didn\u2019t wanted to move and check if dates are available or show us the hall. Then we just told him that we will complain his owner about this and his hospitality but he didn\u2019t even bothered he said hum to aise hi hain bol do jise bolna h. Video bhi lelo\u2026\n\nThis was so ridiculous and sad to see this from a well known brand.",
+      "The staff is not cooperative at all. Everybody gives 1 water bottle on daily basis but they refuse. The remote of the AC was broken and they had no solution for it.When I asked for a blanket for the night he refused.\nDon't even think of trying the buffet. They don't provide anything according to the money and the taste is also not that great.",
+      "I stayed there for 10+ days. Hotel is located on the main road. Easily reachable from Delhi airport. Rooms are good also food is good. Staffs are also friendly and well behaved. They provide a number of options for the breakfast. Overall a nice stay I had."
+    ]
+  },
+  "review_summary": "Based on 5 reviews.",
+  "positive_themes": {
+    "clean_rooms": 1,
+    "good_food": 2,
+    "friendly_staff": 3,
+    "great_value": 1
+  },
+  "negative_themes": {
+    "rude_staff": 2
+  }
+}

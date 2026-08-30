@@ -1,0 +1,56 @@
+{
+  "hotel_id": "ChIJbwpdFIXhDDkR1mfZ7FLaOV8",
+  "hotel_name": "Sarovar Portico Surajkund",
+  "area": "Lal Kuan",
+  "budget_category": "Mid-Range",
+  "rating": 4.0,
+  "trust_score": 0.6524045036200214,
+  "travel_purpose_tags": [
+    "Budget"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "moderate",
+    "review_count": 5,
+    "positive_snippet_count": 2,
+    "negative_snippet_count": 3,
+    "positive_theme_count": 5,
+    "negative_theme_count": 4
+  },
+  "aspect_scores": {
+    "cleanliness": 0.0006804300452737,
+    "service": 0.2504778082002303,
+    "location": 0.5000326361478072,
+    "value_for_money": 0.2504334921468398,
+    "staff_behavior": 0.4003207822504918
+  },
+  "recommendation_features": {
+    "popularity_score": 0.656938257108208,
+    "rating_score": 4.0,
+    "sentiment_score": 0.4003207822504918
+  },
+  "review_evidence": {
+    "positive_snippets": [
+      "The moment we entered here we were made comfortable by reception staff. They welcome us and made us that we are very special here. Room are very comfortable and spacious. The food was very very tasty. Every item of food was more than our expectations. My kids enjoyed the food very much. The staff was very friendly and amicable. Specially Laxmi mam and kiran mam were very helpful. They served food with lots of love and affection. We all like this ambiance. This place is far from crowd and noise. If anyone likes piece and comfortable please visit this place. The hospitality was excellent and met our expectations. I highly recommend this place and would like to come again with my kids.",
+      "Dear Sarovar Staff,\n\nTo be honest, we were very new to the experience of Indian food, hospitality, and everything else that came with it. But staying at Sarovar made it very easy to manage everything.\n\nWe arrived at the hotel 8 hours earlier than the check-in time, but the staff were extremely helpful and kind, making the necessary arrangements to give us an early check-in without charging a single rupee extra.\n\nThe variety of food is another highlight worth mentioning. The staff responsible for food and other services were very friendly and treated us with special care. We had a great experience enjoying the delicious range of Indian cuisine.\n\nThank you so much for everything. We still have two more days to stay!\n\nThis is an open invitation to all travelers\u2014if you ever visit Delhi, make sure to pay at least one visit to Sarovar Portico."
+    ],
+    "negative_snippets": [
+      "My stay at Sarovar Portico, Surajkund, New Delhi was extremely disappointing and far below any acceptable hospitality standards. From the moment I arrived, it was clear that this property is poorly managed and completely misrepresents what one expects from a hotel carrying the Sarovar name. The reception staff appeared uninterested and unprofessional, with slow check-in and no basic courtesy or warmth. Rooms were in pathetic condition\u2014unclean, poorly maintained, and showing clear signs of neglect. The furniture looked old and damaged, linens were stained, and basic hygiene was missing.\nHousekeeping was highly inefficient. Despite repeated requests, room service was delayed, and cleaning was either superficial or not done at all. Bathrooms were the worst part: foul smell, poor drainage, broken fittings, and lack of cleanliness made the stay uncomfortable and unhygienic. The food quality was equally disappointing\u2014limited options, average taste, and completely overpriced for what was served.\nOverall, this hotel feels more like a budget lodge than a branded property. Sarovar Group is seriously spoiling its image by associating its name with such a poorly run hotel. This property does not meet even the basic standards expected from the Sarovar brand. I would strongly advise travelers to avoid this hotel to save themselves from frustration and discomfort.",
+      "This hotel has everything that is mentioned in their site and in customer reviews. But everything is out of place! Not worth the price at all.  Good rooms size, neat, clean bedsheets, but they smell of cigarette smoke. all our clothes are smelling. It has good bathroom, but the washbasin is broken and soap bottle is broken. The room has windows, but they are glazed, hence you cant see anything outside. So you are stuck in a very bad so called big room There is so much noise in the supposedly nice lobby area, due to the repair work going on, that you cannot do any work in the room. I told them i dont want smoking room, still he conveniently gave me a room full of smoke. The breakfast has a live counter, sounds very good. But the staff is not in a mood to serve. they dont say anything , but the food in the buffet is very limited and cold contrary to the reviews. we heard the staff fighting with bad words yelling out from the kitchen. that was funny. Even the manager at the desk was quite uncourteous.",
+      "We checked into Sarovar Portico, Surajkund yesterday with expectations of a reputed brand, but the experience was extremely disappointing.\nBasic facilities were missing \u2013 There was no valet parking, the reception area air-conditioning was not working, and the first room shown to us had a strong sinking smell.\nHotel interiors were below standard \u2013 The hotel was very small, with bare flooring and not a single carpet, giving it a poor impression overall.\nStaff behaviour \u2013 Some employees, whether in housekeeping or the restaurant, were extremely rude and unhelpful. The only positive part was one newly joined staff member (a girl, name not recalled) who genuinely helped us find a decent room. Without her assistance, we would have left within the first hour itself.\nFood and service \u2013 The snacks served were of very poor taste, and the service across departments was unsatisfactory.\nFrankly, this is not what one expects from a brand like Sarovar. If the management of the Surajkund branch does not take immediate steps to improve, they may risk losing credibility in such a competitive hospitality industry. At present, I would not recommend anyone to waste their money here."
+    ]
+  },
+  "review_summary": "Based on 5 reviews.",
+  "positive_themes": {
+    "friendly_staff": 5,
+    "good_food": 5,
+    "great_value": 2,
+    "clean_rooms": 2,
+    "good_location": 1
+  },
+  "negative_themes": {
+    "noise": 2,
+    "dirty_rooms": 3,
+    "rude_staff": 2,
+    "parking_issues": 1
+  }
+}

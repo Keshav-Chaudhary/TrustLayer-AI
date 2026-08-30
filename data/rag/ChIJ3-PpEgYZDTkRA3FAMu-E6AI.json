@@ -1,0 +1,51 @@
+{
+  "hotel_id": "ChIJ3-PpEgYZDTkRA3FAMu-E6AI",
+  "hotel_name": "360 Degree Hotel Near Medanta Hospital Rajiv Chowk Gurugram",
+  "area": "Sector 39",
+  "budget_category": "Mid-Range",
+  "rating": 4.8,
+  "trust_score": 0.8661621684929305,
+  "travel_purpose_tags": [
+    "Leisure",
+    "Family"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "moderate",
+    "review_count": 5,
+    "positive_snippet_count": 3,
+    "negative_snippet_count": 1,
+    "positive_theme_count": 5,
+    "negative_theme_count": 0
+  },
+  "aspect_scores": {
+    "cleanliness": 0.9998463094234468,
+    "service": 0.5001375652354909,
+    "location": 0.9998463094234468,
+    "value_for_money": 0.99986732006073,
+    "staff_behavior": 0.999837964773178
+  },
+  "recommendation_features": {
+    "popularity_score": 0.5625075640667904,
+    "rating_score": 4.8,
+    "sentiment_score": 0.7999382367532235
+  },
+  "review_evidence": {
+    "positive_snippets": [
+      "Great location, beautiful surrounding atmosphere, great staff. Most friendly and helpful receptionist and staff ever, lovely and great first impression of hotel. Everything about the hotel was exceptional. It was clean, stylish, roomy with excellent service in where we had dinner. Food was good and great value for money and service was attentive and efficient. Room itself was well equipped and comfortable. I was very pleased with my stay. I hope to be back for a longer visit in the future.",
+      "We stay 360 degree hotel. The room was spotless, spacious, and beautifully decorated. The bed was very comfortable and we had everything we needed fast wifi, tea/coffee maker, and a stunning city view.",
+      "We stay at 360 Degree hotel for 3 nights in January 2026 during our visit to Gurgaon. From the moment we arrived, everything was exceptional.."
+    ],
+    "negative_snippets": [
+      "Not good quality food and not good service \ud83d\ude14 don't come"
+    ]
+  },
+  "review_summary": "Based on 5 reviews.",
+  "positive_themes": {
+    "clean_rooms": 2,
+    "friendly_staff": 2,
+    "good_location": 1,
+    "great_value": 1,
+    "good_food": 3
+  },
+  "negative_themes": {}
+}

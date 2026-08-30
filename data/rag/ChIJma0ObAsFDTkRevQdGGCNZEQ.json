@@ -1,0 +1,50 @@
+{
+  "hotel_id": "ChIJma0ObAsFDTkRevQdGGCNZEQ",
+  "hotel_name": "Townhouse Sunder Vihar",
+  "area": "Paschim Vihar",
+  "budget_category": "Mid-Range",
+  "rating": 3.4,
+  "trust_score": 0.4011525587307709,
+  "travel_purpose_tags": [
+    "Budget"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "moderate",
+    "review_count": 5,
+    "positive_snippet_count": 0,
+    "negative_snippet_count": 3,
+    "positive_theme_count": 4,
+    "negative_theme_count": 2
+  },
+  "aspect_scores": {
+    "cleanliness": 0.0007500465435441,
+    "service": 0.0002389696601312,
+    "location": 0.0003134659054921,
+    "value_for_money": 0.0002728594699874,
+    "staff_behavior": 0.0006223851407411
+  },
+  "recommendation_features": {
+    "popularity_score": 0.4502085811759851,
+    "rating_score": 3.4,
+    "sentiment_score": 0.0006223851407411
+  },
+  "review_evidence": {
+    "positive_snippets": [],
+    "negative_snippets": [
+      "You all will be surprised but I don\u2019t know how they are registered with renowned hotel booking sites. It\u2019s a complete scam.This property is not at all located at the mentioned address. I have cross checked with the actual owner. You will find a hotel with the name Townhouse but it\u2019s not this 1236 Sunder Vihar. Also they haven\u2019t mentioned even any personal number to reach out any respective staff.",
+      "Worst hotel I've seen in my life\nFirst of all wrong hotel's name as mentioned online\nWrong location as mentioned online\nLocation as well as hotel was hidden from us even when we called the hotel 1-2 days prior to check in\nUnclean rooms\nWaited for about 2 hours within the hotel for a better room to be allocated\nNo tea service before 10:30am . Can you imagine \ud83e\udd23\ud83e\udd23\nRooms full of mosquitoes.\nUnprofessional staff",
+      "The bed was broken . We were given a room with broken bed. It was a uncomfortable stay. We had tremendous backpain. Would never recommend this OYO to anyone. Even the rooms were not clean. In our room the pillows were full of stains. Please think thousand times before booking this OYO. Totally uncooperative staff."
+    ]
+  },
+  "review_summary": "Based on 5 reviews.",
+  "positive_themes": {
+    "friendly_staff": 4,
+    "clean_rooms": 3,
+    "good_location": 2,
+    "good_food": 1
+  },
+  "negative_themes": {
+    "dirty_rooms": 3,
+    "rude_staff": 2
+  }
+}

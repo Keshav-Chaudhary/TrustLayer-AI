@@ -1,0 +1,48 @@
+{
+  "hotel_id": "ChIJF8BDSvUjDTkRmTGzo9MYiVg",
+  "hotel_name": "Amahi Inn Sector 48",
+  "area": "Sector 48",
+  "budget_category": "Budget",
+  "rating": 4.5,
+  "trust_score": 0.8323736590048566,
+  "travel_purpose_tags": [
+    "Business",
+    "Family"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "moderate",
+    "review_count": 5,
+    "positive_snippet_count": 3,
+    "negative_snippet_count": 0,
+    "positive_theme_count": 4,
+    "negative_theme_count": 0
+  },
+  "aspect_scores": {
+    "cleanliness": 0.8018289903799692,
+    "service": 0.998597780863444,
+    "location": 0.5,
+    "value_for_money": 0.7028485387563705,
+    "staff_behavior": 0.8810430347919465
+  },
+  "recommendation_features": {
+    "popularity_score": 0.4694915039778556,
+    "rating_score": 4.5,
+    "sentiment_score": 0.8810430347919465
+  },
+  "review_evidence": {
+    "positive_snippets": [
+      "Rooms were clean and washroom spacious with requisite toiletries. Staff was courteous and doesn't have habit of asking tips etc. Uber was easily available even at silent hours.\nValue for Money",
+      "The room was spotlessly clean, the staff incredibly supportive and quick to respond, and service was lightning-fast. Outstanding value at an affordable price! No extra charges taken to provide early Check in if rooms available.",
+      "The Amahi inn hotel Gurugram offers a perfect mix of luxury and comfort. Rooms are spacious, food is excellent, and the staff is very courteous. A great choice for both business and leisure stays. \u2b50\u2b50\u2b50\u2b50"
+    ],
+    "negative_snippets": []
+  },
+  "review_summary": "Based on 5 reviews.",
+  "positive_themes": {
+    "clean_rooms": 3,
+    "friendly_staff": 5,
+    "great_value": 2,
+    "good_food": 3
+  },
+  "negative_themes": {}
+}

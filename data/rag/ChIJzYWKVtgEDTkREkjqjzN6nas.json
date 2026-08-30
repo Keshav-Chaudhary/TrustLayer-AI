@@ -1,0 +1,52 @@
+{
+  "hotel_id": "ChIJzYWKVtgEDTkREkjqjzN6nas",
+  "hotel_name": "All In One",
+  "area": "Dwarka",
+  "budget_category": "Mid-Range",
+  "rating": 4.1,
+  "trust_score": 0.6605083175081923,
+  "travel_purpose_tags": [
+    "Leisure"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "moderate",
+    "review_count": 5,
+    "positive_snippet_count": 2,
+    "negative_snippet_count": 3,
+    "positive_theme_count": 4,
+    "negative_theme_count": 1
+  },
+  "aspect_scores": {
+    "cleanliness": 0.0063203456811606,
+    "service": 0.0063203456811606,
+    "location": 0.9822569489479066,
+    "value_for_money": 0.5,
+    "staff_behavior": 0.0044367894297465
+  },
+  "recommendation_features": {
+    "popularity_score": 0.3410402707054878,
+    "rating_score": 4.1,
+    "sentiment_score": 0.5946531766559928
+  },
+  "review_evidence": {
+    "positive_snippets": [
+      "Best Hotel near Dwarka Metro station",
+      "Very good food and good environment"
+    ],
+    "negative_snippets": [
+      "Rude behaviour and not adjust with guest and abuse word using please no one come here. It\u2019s your insult in front of your GF and your family.",
+      "Cheep service room was not clean wrong number mentioned on Manu card  Clint. Se baat karne ki tamij  nhi hai  staff behaviour is very rood I am not Satisfied with. Service",
+      "Hotel all in one sweet & restaurant near Dwarka metro station"
+    ]
+  },
+  "review_summary": "Based on 5 reviews.",
+  "positive_themes": {
+    "good_location": 2,
+    "good_food": 1,
+    "clean_rooms": 1,
+    "friendly_staff": 1
+  },
+  "negative_themes": {
+    "rude_staff": 1
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "hotel_id": "ChIJa11F3PThDDkRiXUu-XFCPsM",
+  "hotel_name": "Hilton Garden Inn New Delhi/Saket",
+  "area": "Pushp Vihar",
+  "budget_category": "Budget",
+  "rating": 4.3,
+  "trust_score": 0.9033805074217846,
+  "travel_purpose_tags": [
+    "Leisure",
+    "Business"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "moderate",
+    "review_count": 5,
+    "positive_snippet_count": 3,
+    "negative_snippet_count": 0,
+    "positive_theme_count": 4,
+    "negative_theme_count": 0
+  },
+  "aspect_scores": {
+    "cleanliness": 0.9367683231830596,
+    "service": 0.9683371186256408,
+    "location": 0.9367683231830596,
+    "value_for_money": 0.5,
+    "staff_behavior": 0.9998580366373062
+  },
+  "recommendation_features": {
+    "popularity_score": 0.7879517570955235,
+    "rating_score": 4.3,
+    "sentiment_score": 0.9746317267417908
+  },
+  "review_evidence": {
+    "positive_snippets": [
+      "I stayed at this hotel and had  wonderful experience. Everything was perfect\u2026.from room to service staff. Mani Ram one of the housekeeping staff was very good at his work, soft spoken and kind. I truly appreciate his hard hard work and dedication. He should be rewarded for his hard work.\nWould recommend anyone to stay here cozy and comfy rooms.\nThanks\nKK",
+      "This hotel is great. My wife and I stayed here for around 2 weeks while adopting our daughter. The rooms are clean. All of the staff is very welcoming and kind, especially Deshpal, who did a great job with security. I felt safe the whole time. The location couldn\u2019t have been better. The close proximity to the mall ensured we always had great places to eat and lots to do. If I come back to Delhi, I will definitely be staying here again.",
+      "We had an excellent dining experience thanks to the outstanding food and service. Narayan Jatin was extremely attentive, polite, and professional, making sure everything was served promptly and exactly as requested. A special mention to Mr. Yogesh, the restaurant manager, whose leadership and warm hospitality were clearly reflected in the smooth service and overall atmosphere. The food quality was superb, and the entire team made us feel genuinely welcome. Truly a memorable experience, and we look forward to visiting again."
+    ],
+    "negative_snippets": []
+  },
+  "review_summary": "Based on 5 reviews.",
+  "positive_themes": {
+    "friendly_staff": 4,
+    "clean_rooms": 2,
+    "good_location": 2,
+    "good_food": 3
+  },
+  "negative_themes": {}
+}

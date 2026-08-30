@@ -1,0 +1,50 @@
+{
+  "hotel_id": "ChIJV5-5zT8ZDTkRZVbc0L1G0SU",
+  "hotel_name": "Saltstayz Select - Unitech Cyber Park",
+  "area": "Sector 39",
+  "budget_category": "Budget",
+  "rating": 4.7,
+  "trust_score": 0.8374790427046813,
+  "travel_purpose_tags": [
+    "Business"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "rich",
+    "review_count": 5,
+    "positive_snippet_count": 3,
+    "negative_snippet_count": 2,
+    "positive_theme_count": 2,
+    "negative_theme_count": 1
+  },
+  "aspect_scores": {
+    "cleanliness": 0.9998021125793456,
+    "service": 0.9996016919612885,
+    "location": 0.5,
+    "value_for_money": 0.5,
+    "staff_behavior": 0.8414103835821152
+  },
+  "recommendation_features": {
+    "popularity_score": 0.6789689611762815,
+    "rating_score": 4.7,
+    "sentiment_score": 0.6740602578036488
+  },
+  "review_evidence": {
+    "positive_snippets": [
+      "Had a very comfortable stay overall. The rooms were clean, well-maintained, and thoughtfully designed. Staff members were polite and responsive, which made the experience smooth from check-in to check-out.",
+      "The front desk staff were exceptionally friendly and efficient.they made checkin a breeze,loved the warm welcome and helpful from the manager Mr. UMANG at the reception.our room was spotless and fresh every day spacial thanks to House keeping team and all hotel staff. Thanku saltstayz.",
+      "I have stayed at many hotels, but the commitment to service here is top-notch. your staff makes this place feel like home. spaical thanks for night staff."
+    ],
+    "negative_snippets": [
+      "I had no issues with the property itself. Two days prior to my arrival, I contacted the hotel to request an early check-in. I was informed that if availability allowed, they would accommodate it, and I was also willing to pay the early check-in charges. I arrived early in the morning as discussed.\nHowever, upon arrival, the night shift manager was on duty and initially refused to provide a room. His behavior was unprofessional, and he did not communicate properly, which was disappointing\u2014especially since the early check-in had already been discussed over the phone.\nWhen a room was finally allotted, it lacked several amenities that were clearly mentioned in the hotel\u2019s listing, which further impacted the experience.\nMy first stay at this property was very good, but this time the overall experience was affected due to the behavior of the night shift manager and the absence of promised amenities.\nAdditionally, the next day around 9 AM, when I stepped outside the hotel, a housekeeping staff member called out to me from behind on the road and asked about my checkout time. This was inappropriate, as such queries should be handled politely while the guest is inside the hotel.\nOn a positive note, the day shift manager was extremely courteous and professional. He treated me very well and was very supportive, which I truly appreciated.",
+      "One of the horrible stay for me because of the room cleanliness, i just visited this hotel recently and i have found out on my bed there are 2-3 cockroaches are roaming on it, even in the kitchen area also. Like who can believe if you\u2019re paying more than 2000 rupees for a night and you have to face these kind of maintenance in the hotel."
+    ]
+  },
+  "review_summary": "Based on 5 reviews.",
+  "positive_themes": {
+    "clean_rooms": 3,
+    "friendly_staff": 4
+  },
+  "negative_themes": {
+    "rude_staff": 1
+  }
+}

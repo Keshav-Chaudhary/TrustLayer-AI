@@ -1,0 +1,52 @@
+{
+  "hotel_id": "ChIJd6482AwFDTkRIzkWAxQEfIw",
+  "hotel_name": "Hotel Vivah Residency",
+  "area": "New Delhi",
+  "budget_category": "Mid-Range",
+  "rating": 3.9,
+  "trust_score": 0.5404827397395127,
+  "travel_purpose_tags": [
+    "Budget"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "moderate",
+    "review_count": 5,
+    "positive_snippet_count": 1,
+    "negative_snippet_count": 3,
+    "positive_theme_count": 5,
+    "negative_theme_count": 1
+  },
+  "aspect_scores": {
+    "cleanliness": 0.0007809522212482,
+    "service": 0.0007564832339994,
+    "location": 0.0007564832339994,
+    "value_for_money": 0.0010917925974354,
+    "staff_behavior": 0.0010917925974354
+  },
+  "recommendation_features": {
+    "popularity_score": 0.4922837920896685,
+    "rating_score": 3.9,
+    "sentiment_score": 0.2009521504282019
+  },
+  "review_evidence": {
+    "positive_snippets": [
+      "Very nice and comfortable place best experience in my life to stay here. I recommend this everyone to visit once"
+    ],
+    "negative_snippets": [
+      "Dear Team\nhave been coming to your hotel quite often. Four members of the boys come with me. They always stay in room no. 101 or 201 or 301. For that, they charged me Rs. 1500, then Rs. 1800, then Rs. 2000. Today, on 10th February 2026, when I went there, he asked for Rs. 2500 from me and this employee of yours, Mr. Rohit, was talking to me in an attitude, there was no way to talk to me, as if he had visited your hotel for the first time. If it were so, it would be like that with your regular customers. According to me, it is not right to visit there ever again. Whatever he did with me, he must be talking the same thing with other people who come to your hotel. If you don't take action against him, then I will take action against him.",
+      "Nothing good about this hotel. I checked in with family at 10:17 and checked out at 11:10. While I was there couple of people came a male and a female and male seem to be a regular while female seem to be new and they took the rooms for like couple of hours only. Not very family friendly \ud83d\ude15.\nRooms are very filthy, full of cockroaches and unclean linens. I got my 2.5 year old daughters out of that place as fast as I can and it's not safe to be around a filthy place where so many issues exist.\nMy suggestion don't fall for their cheap rates.",
+      "Vivah Residency s Hotelzo   is in Paschim Vihar near Behra Enclave. Location wise its average.\nThere was nothing professional. The personnel at the reception was very casual in behaviour. They are unable to provide rooms timely even after advance booking.\nNo proper cleaning of rooms. Web are on window panels\n. Lots of dust at windows. Dustbin are not even a single room out of 10 booked room."
+    ]
+  },
+  "review_summary": "Based on 5 reviews.",
+  "positive_themes": {
+    "clean_rooms": 3,
+    "friendly_staff": 1,
+    "great_value": 1,
+    "good_location": 1,
+    "good_food": 1
+  },
+  "negative_themes": {
+    "dirty_rooms": 1
+  }
+}

@@ -1,0 +1,52 @@
+{
+  "hotel_id": "ChIJV4_uqVXdDDkRhSjJem1l21I",
+  "hotel_name": "Immense Residency - Hotel | Restaurant | Banquet Hall | Bar | Cafe",
+  "area": "Sector 28",
+  "budget_category": "Mid-Range",
+  "rating": 3.6,
+  "trust_score": 0.6991176741352341,
+  "travel_purpose_tags": [
+    "Budget"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "moderate",
+    "review_count": 5,
+    "positive_snippet_count": 3,
+    "negative_snippet_count": 1,
+    "positive_theme_count": 4,
+    "negative_theme_count": 2
+  },
+  "aspect_scores": {
+    "cleanliness": 0.666651713870427,
+    "service": 0.5000408113337471,
+    "location": 0.5,
+    "value_for_money": 0.5,
+    "staff_behavior": 0.666651713870427
+  },
+  "recommendation_features": {
+    "popularity_score": 0.5271639354507254,
+    "rating_score": 3.6,
+    "sentiment_score": 0.7999203252926236
+  },
+  "review_evidence": {
+    "positive_snippets": [
+      "We recently hosted a birthday party at this hotel, and the overall experience was excellent. The event team handled everything professionally\u2014from decorations and seating arrangements to food service and coordination. The banquet hall was clean, well-maintained, and perfectly suited for a family gathering.\n\nThe staff was attentive throughout the event and ensured that guests were comfortable. The food quality was impressive, with all dishes fresh and well-presented. Parking and accessibility were also convenient for everyone attending.\n\nHighly recommended for hosting celebrations and private events. A reliable venue with great service and hospitality.",
+      "This is with regards to DEEPAK. My stay here was great and I would recommend it to everyone travelling in this part of New Delhi.\n\nMore importantly Deepak helped with me dealing with the local authority to find my phone and wallet\n\nAgain thousands of thanks to Immense Residence, especially to Deepak",
+      "We booked hotel for wedding and Haldi,Mehandi all done under one room as three venues are available with complete different vibes.Hosted 120 guests and everything was peaceful and beautiful.Thank you for handling everything"
+    ],
+    "negative_snippets": [
+      "Very Poor Experience\nMy stay at this hotel was extremely disappointing. The service was the worst I have experienced, mainly due to a clear lack of staff. The room was small, dark, and felt shady and unclean. Overall cleanliness was very poor. The towels provided were old, and the bed sheets were torn, worn out, and dirty. The bathroom drainage was clogged, making it uncomfortable to use. I would not recommend this hotel to anyone looking for a clean and pleasant stay."
+    ]
+  },
+  "review_summary": "Based on 5 reviews.",
+  "positive_themes": {
+    "clean_rooms": 3,
+    "friendly_staff": 3,
+    "good_location": 1,
+    "good_food": 1
+  },
+  "negative_themes": {
+    "parking_issues": 1,
+    "dirty_rooms": 1
+  }
+}

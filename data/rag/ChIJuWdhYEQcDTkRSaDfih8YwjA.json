@@ -1,0 +1,55 @@
+{
+  "hotel_id": "ChIJuWdhYEQcDTkRSaDfih8YwjA",
+  "hotel_name": "Airport Hotel Grand",
+  "area": "Mahipalpur",
+  "budget_category": "Mid-Range",
+  "rating": 3.4,
+  "trust_score": 0.5813737316172785,
+  "travel_purpose_tags": [
+    "Leisure"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "moderate",
+    "review_count": 5,
+    "positive_snippet_count": 2,
+    "negative_snippet_count": 3,
+    "positive_theme_count": 5,
+    "negative_theme_count": 3
+  },
+  "aspect_scores": {
+    "cleanliness": 0.3335839012094462,
+    "service": 0.333839127017806,
+    "location": 0.9998596906661988,
+    "value_for_money": 0.0004380194586701,
+    "staff_behavior": 0.6667810109987234
+  },
+  "recommendation_features": {
+    "popularity_score": 0.6979652390364256,
+    "rating_score": 3.4,
+    "sentiment_score": 0.4003322814125568
+  },
+  "review_evidence": {
+    "positive_snippets": [
+      "Airport hotel Grand is the best hotel. I stayed here for 3 times. Whenever I come in India I book this hotel. Because it's location is easily reachable and rooms are very spacious and good. As well service is very good. The hotel staff is very much supportive and polite. Especially I met Ms yashu madam who is also a doctor there she has become my budddyyy (best friend) . And other staff including reception and housekeeping  and restaurent are very nice.",
+      "Initially, I had a bit of difficulty locating the hotel, but once I checked in, everything went smoothly. The rooms were neat, clean, and comfortable. The food was absolutely delicious\u2014truly mouth-watering. The staff were very cooperative and helpful throughout my stay. Overall, it was a pleasant experience and I would definitely recommend this hotel."
+    ],
+    "negative_snippets": [
+      "Poor hygiene. We went in January, there was no hot water, later they said it only heats upto 40\u00b0C and admitted they were lying that they have hot water. The both receptionist are very very rude. Please don't waste your money here.\nOrdered room service tea and the cup and kettle seemed it was not washed for years. So so dirty so filthy",
+      "better to sleep in your car terrible rooms, not very grand NOT WORTH YOUR MONEY GO TO ANOTHER HOTEL. the bathroom stinks hot water doesn\u2019t work. all the reviews that are 5 star are litterally fake please don\u2019t go, my family struggled a lot. and the noise level early morning is outraging, had my worst sleep ever.",
+      "We recently stayed at this hotel for a night and had to check out within 3-4 hours because it was that bad. The hotel did not have any hot water even tho this was in the middle of December. As a result, we could not even take a shower after a 20+ hour long international flight. The rooms and the bathrooms were pretty bad too, especially given how much they had charged. The management has not bothered to respond to our multiple complaints till date."
+    ]
+  },
+  "review_summary": "Based on 5 reviews.",
+  "positive_themes": {
+    "friendly_staff": 2,
+    "good_location": 1,
+    "clean_rooms": 1,
+    "good_food": 1,
+    "great_value": 1
+  },
+  "negative_themes": {
+    "dirty_rooms": 1,
+    "rude_staff": 1,
+    "noise": 1
+  }
+}

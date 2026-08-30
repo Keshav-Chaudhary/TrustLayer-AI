@@ -1,0 +1,50 @@
+{
+  "hotel_id": "ChIJO-kFgCXjDDkRp0o0QV0kfuQ",
+  "hotel_name": "Oyo 820080 Green Park Residency",
+  "area": "Green Park",
+  "budget_category": "Budget",
+  "rating": 2.7,
+  "trust_score": 0.3666636371137389,
+  "travel_purpose_tags": [
+    "Budget"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "moderate",
+    "review_count": 5,
+    "positive_snippet_count": 1,
+    "negative_snippet_count": 3,
+    "positive_theme_count": 3,
+    "negative_theme_count": 1
+  },
+  "aspect_scores": {
+    "cleanliness": 0.200420847145142,
+    "service": 0.0015224366215988,
+    "location": 0.3334542636002879,
+    "value_for_money": 0.0002355370767569,
+    "staff_behavior": 0.5006988122477196
+  },
+  "recommendation_features": {
+    "popularity_score": 0.4258589922067738,
+    "rating_score": 2.7,
+    "sentiment_score": 0.200420847145142
+  },
+  "review_evidence": {
+    "positive_snippets": [
+      "I recently had the pleasure of staying at the hotel o green park residency,and I must say it exceeded my expectations! From the moment I checked in,the staff were warm, welcoming,and super helpful. My room was spacious,clean,and had an amazing view of the city..."
+    ],
+    "negative_snippets": [
+      "\u2b50 Rating: -10/5 (If possible)\nHotel O Green Park Residency \u2013 Worst Experience Ever\n\nWe stayed here for only 1 hour, and even that felt unbearable. This is by far the most unhygienic and poorly managed property I have ever come across.\n\n1. Cheating at Check-in\nMy booking amount was \u20b9901 (inclusive of taxes), but at the time of check-in they suddenly increased it to \u20b91237. When I informed the receptionist about my original booking, he fiddled with his mobile for a while, and the price magically changed to \u20b91237. Still, we agreed to pay just to avoid an argument.\n\n2. Shifted to Another Property\nInstead of giving a room in the booked hotel, they took us to a different building two blocks away, which clearly did not look like an OYO-authorised property in any manner.\n\n3. Horrible Room Condition\nThe moment we entered, it felt like stepping into a slum or jhopdi.\n\nThe room was extremely dirty and dusty.\n\nA strong bad smell was everywhere.\n\nBedsheets were dirty, full of stains.\n\nThe washroom was filthy and unhygienic.\n\nInstead of a proper mattress, there was a plastic foam sheet.\n\nNo drinking water was provided despite asking multiple times.\n\nThey even said it would be chargeable, which is unbelievable.\n\nI am attaching photos so you can see how bad the condition actually was. Honestly, I doubt that the positive reviews online are real because this place does not deserve even a single star.\n\nFinal Verdict:\nIf I could, I would rate this property -10.\nPlease avoid this hotel completely. It is a total waste of money, extremely unhygienic, and a horrible experience overall.",
+      "Had a worst experience staying here. We booked room for just the luggage keepsake purpose and room smelled like something died ... Definitely a rat died there and no one cleaned it. Even the rooms don't have attached washroom and rooms are very unclean and it stinks. Better stay on the road than book a room in this. Don't waste your money.",
+      "This hotel seriously disappointed me. They overcharged compared to the online booking price, which feels like a dishonest practice. Even after showing the online price, they refused to match it. On top of that, the room was not clean, poorly maintained, and uncomfortable. For the amount charged, the quality was far below expectations. Definitely not recommended."
+    ]
+  },
+  "review_summary": "Based on 5 reviews.",
+  "positive_themes": {
+    "clean_rooms": 4,
+    "friendly_staff": 2,
+    "good_location": 1
+  },
+  "negative_themes": {
+    "dirty_rooms": 3
+  }
+}

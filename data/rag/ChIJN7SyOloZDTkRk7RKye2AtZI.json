@@ -1,0 +1,52 @@
+{
+  "hotel_id": "ChIJN7SyOloZDTkRk7RKye2AtZI",
+  "hotel_name": "The Palm Suites",
+  "area": "Sector 38",
+  "budget_category": "Mid-Range",
+  "rating": 4.4,
+  "trust_score": 0.6544034067227497,
+  "travel_purpose_tags": [
+    "Leisure"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "moderate",
+    "review_count": 5,
+    "positive_snippet_count": 1,
+    "negative_snippet_count": 3,
+    "positive_theme_count": 4,
+    "negative_theme_count": 2
+  },
+  "aspect_scores": {
+    "cleanliness": 0.0021727900020778,
+    "service": 0.5,
+    "location": 0.9898480772972108,
+    "value_for_money": 0.5000436415430158,
+    "staff_behavior": 0.6629414235552152
+  },
+  "recommendation_features": {
+    "popularity_score": 0.4188864433914587,
+    "rating_score": 4.4,
+    "sentiment_score": 0.3986206395551562
+  },
+  "review_evidence": {
+    "positive_snippets": [
+      "Nice stay hear,\nInternational guests are also allowed.\nStaff behaviour was excellent and you can avail in house restorent any time as per your requirement.\nFood quality is also acceptable.\nYou can visit with friends family or any how.\nPlease check availability before arrival since all the rooms are booked and I found some people disappointed to return after arrival.\nOverall experience was good within price range."
+    ],
+    "negative_snippets": [
+      "rooms are very dirty specially walls bed and bedsheet. below standard room in that price. Better look for properties nearby this area.",
+      "The rooms were nice. The mattress was very bad with its spring being broken mostly due to which it hurts your back if you sleep on it",
+      "The hotel is very unhygienic and not at all same as shown in the picture. They might also transfer you to different property without your concent even if you have already paid the full amount for booking.\nThe staff behavior is very rude and unprofessional."
+    ]
+  },
+  "review_summary": "Based on 5 reviews.",
+  "positive_themes": {
+    "friendly_staff": 3,
+    "good_food": 1,
+    "good_location": 2,
+    "clean_rooms": 1
+  },
+  "negative_themes": {
+    "dirty_rooms": 1,
+    "rude_staff": 1
+  }
+}

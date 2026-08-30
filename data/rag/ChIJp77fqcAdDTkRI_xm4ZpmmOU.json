@@ -1,0 +1,53 @@
+{
+  "hotel_id": "ChIJp77fqcAdDTkRI_xm4ZpmmOU",
+  "hotel_name": "Hotel Luxury Stay",
+  "area": "Mahipalpur",
+  "budget_category": "Budget",
+  "rating": 3.1,
+  "trust_score": 0.5327190286771546,
+  "travel_purpose_tags": [
+    "Budget"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "moderate",
+    "review_count": 5,
+    "positive_snippet_count": 2,
+    "negative_snippet_count": 3,
+    "positive_theme_count": 4,
+    "negative_theme_count": 2
+  },
+  "aspect_scores": {
+    "cleanliness": 0.0797638741884535,
+    "service": 0.999857485294342,
+    "location": 0.2386038452386856,
+    "value_for_money": 0.2386038452386856,
+    "staff_behavior": 0.4129617013192425
+  },
+  "recommendation_features": {
+    "popularity_score": 0.5855084500159704,
+    "rating_score": 3.1,
+    "sentiment_score": 0.4478013186308089
+  },
+  "review_evidence": {
+    "positive_snippets": [
+      "Really enjoyed my stay here. The hotel is well maintained, rooms are spacious, and the service quality is excellent. Everything felt organized and stress-free.",
+      "Great hotel with top-class service. Check-in was easy, staff was polite, and the stay was comfortable from start to end."
+    ],
+    "negative_snippets": [
+      "One of the worst, pathetic and I'll managed hotel, hotel staffs are very rude,ruff, mostly drunk.\nHotel is very dirty, bathroom, bed are very dirty and full of bad smell they provide used towels and the quality of food is such that even Animals will avoid to eat....\n\nPlease avoid this pathetic hotel.",
+      "There were cockroaches under the beds, people, many cockroaches. I changed rooms twice, and both rooms had them. The towels were super bad, too. They were dirty and left lint all over my body. I had to shower again. I had stayed for four nights, but they still gave me only two 500 ml water bottles to drink. They said there are extra charges for more bottles. Plus, the water from these bottles tasted weird. They gave RO water for free if you have a bottle.\n\nThe linen was mostly clean, but a few sheets were slightly yellow with a few holes. The AC worked, but leaked a lot of water. They said it was serviced and won\u2019t leak water, but it still leaked a lot. The rooms didn't have dustbins, and trash bags were conveniently kept outside, causing insects to enter.\n\nThe bathroom had hot water, fortunately. Also had two soaps and two shampoo satchets. The soap was terrible to use; it didn't clean anything. You are better off bringing your own towels and toiletries. The toilets were clean and worked well. The shower was operational too.\n\nThey took me to a neighboring hotel for breakfast, a minute walk away. The breakfast was surprisingly good. Eggs, sandwiches, parathas, bhature, and bananas were served daily, with one additional dish, like poha or rice, changed daily.\n\nThe stay would have been decent for the price if there were no cockroaches. The staff was super friendly and quite helpful. But unfortunately, they couldn't help me with the cockroaches. They said some cockroach pesticides were being applied to the walls, but that didn't work for me; I still had many encounters with them. The staff also offered to change my room a few times because of the insects, but all the rooms seemed to have them.\n\nOverall, it is a 1/5, which could rise to 4/5 if they remove the cockroaches, or you don't mind them. But you should, they are nasty creatures that spread diseases lol. Also, the surrounding neighborhood was shady and unclean, but the hotel is quite close to the airport. My package included pickup/drop-off at the airport, which I obviously did not get.",
+      "It is very bad the pillows had lipstick marks the bed was fully dirty the washroom was very very unclean and the kettle was full of dirty stuff and the pouring part was full of dirty things and telephone was not working don\u2019t ever book this hotel"
+    ]
+  },
+  "review_summary": "Based on 5 reviews.",
+  "positive_themes": {
+    "friendly_staff": 3,
+    "good_food": 2,
+    "clean_rooms": 2,
+    "good_location": 1
+  },
+  "negative_themes": {
+    "dirty_rooms": 3,
+    "rude_staff": 1
+  }
+}

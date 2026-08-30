@@ -1,0 +1,51 @@
+{
+  "hotel_id": "ChIJT1_dZwDjDDkRnebfK5pM3Es",
+  "hotel_name": "South Inn - Green Park South Delhi",
+  "area": "Green Park",
+  "budget_category": "Budget",
+  "rating": 4.8,
+  "trust_score": 0.7984898624213086,
+  "travel_purpose_tags": [
+    "Leisure"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "rich",
+    "review_count": 5,
+    "positive_snippet_count": 3,
+    "negative_snippet_count": 2,
+    "positive_theme_count": 5,
+    "negative_theme_count": 0
+  },
+  "aspect_scores": {
+    "cleanliness": 0.6000035326462239,
+    "service": 0.0054752947762608,
+    "location": 0.7494768530596048,
+    "value_for_money": 0.9963549077510834,
+    "staff_behavior": 0.6000035326462239
+  },
+  "recommendation_features": {
+    "popularity_score": 0.5442438957223944,
+    "rating_score": 4.8,
+    "sentiment_score": 0.6000035326462239
+  },
+  "review_evidence": {
+    "positive_snippets": [
+      "After seeing 3 properties in this street this was by far the best. I didn\u2019t agree to stay in the other 2 places but this one looked better and I also run out of choices\u2026 As a tourist, I was more suspicious but it all turned out OK. Clean, polite, simple (but no so cheap, so that\u2019s why 4 and not 5 stars. And also because I waited over 30 min for butter toast as breakfast and eventually checked out without eating anything)",
+      "I had a pleasant stay at Hotel South Inn. The rooms were clean, well-maintained, and comfortable. The staff was courteous and quick to assist with any requests. The location was convenient, with easy access to nearby landmarks and restaurants. The breakfast was fresh and had a decent variety. Overall, a great choice for both business and leisure stays \u2014 definitely worth recommending!",
+      "Stayed in hotel on 24th September 2025. Hotel is very nice. It's location is very good. Sarojini Market is very near from location. All prime facilities are reachable from hotel location. It is a safe place for tourists. For visitors Green Park metro station is at walkable distance from hotel. Hotel staff is very helpful. They had served in a very nice manner. Rooms are so neat and clean. Inside atmosphere of hotel is mesmerising. Very good in serving hospitality. \ud83d\udc4c\ud83d\udc4c\ud83d\udc4c"
+    ],
+    "negative_snippets": [
+      "Pros\n\nGood location, within walking distance of Green Park Metro Station\n\nSafe place to stay\n\nGood service by the staff\n\nTea and coffee pouches with sugar and milk powder are provided\n\nElectric kettle available in the room\n\nSmall ceiling fan provided in the bathroom, useful during hot weather\n\nQuiet and peaceful environment\n\nEssential toiletries are available\n\nCons\n\nNo lift available to carry luggage to upper floors; however, staff can assist\n\nRoom rates are slightly higher compared to the room size\n\nVery small room: one king-size bed with only about 2 feet of passage on both sides\n\nNo extra space to keep luggage or personal belongings; the table is mostly occupied by the electric kettle, glasses, and other items\n\nOnly one charging point, which is not conveniently located; however, an extension board is provided for charging electronic devices\n\nNot much food options are available to nearby locations",
+      "If you are looking for stay in air bnb then it's a choice . Each time you have to walk 3 floor to go to your rooms. Don't get fooled by 4.83 ratings . If you are good with walking upto 3rd floor with luggage then that's the hotel for you since there is no lift .\nFood is also not upto the mark .\nOn hotel website there is incomplete information.\nHotel rooms are so tiny that only a bed can be fitted  where as prices are high as 4 star hotel. Manager was unable to understand our concern ,since we paid a heavy amount we got to stay there .\nHygiene : 0\nSame brush used for toilet  and same brush is used to clean all sink .\nLinen change 0"
+    ]
+  },
+  "review_summary": "Based on 5 reviews.",
+  "positive_themes": {
+    "clean_rooms": 4,
+    "friendly_staff": 4,
+    "great_value": 2,
+    "good_food": 4,
+    "good_location": 3
+  },
+  "negative_themes": {}
+}

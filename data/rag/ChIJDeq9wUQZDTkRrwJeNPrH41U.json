@@ -1,0 +1,51 @@
+{
+  "hotel_id": "ChIJDeq9wUQZDTkRrwJeNPrH41U",
+  "hotel_name": "Skycity Hotel Gurgaon",
+  "area": "Sector 15 Part 1",
+  "budget_category": "Mid-Range",
+  "rating": 4.0,
+  "trust_score": 0.6027618938269191,
+  "travel_purpose_tags": [
+    "Leisure"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "rich",
+    "review_count": 5,
+    "positive_snippet_count": 3,
+    "negative_snippet_count": 2,
+    "positive_theme_count": 2,
+    "negative_theme_count": 2
+  },
+  "aspect_scores": {
+    "cleanliness": 0.000240538502112,
+    "service": 0.0020026550046168,
+    "location": 0.9998010993003844,
+    "value_for_money": 0.5,
+    "staff_behavior": 0.5001223446452058
+  },
+  "recommendation_features": {
+    "popularity_score": 0.715716875919074,
+    "rating_score": 4.0,
+    "sentiment_score": 0.2055364089319482
+  },
+  "review_evidence": {
+    "positive_snippets": [
+      "Rooms are bit small in size, the one with Jacuzzi is fit for one person.\nAfter requesting a big room was provided.\nService is a bit delayed 10 mins avg to reach your door",
+      "This has been my go-to hotel every time I visit Gurgaon\u2014I\u2019ve stayed here on my last four trips. The hotel is extremely customer-oriented. The staff are polite and courteous, and I\u2019d like to especially mention Ms. Meena Thakur, who managed the morning buffet during my stay. I was truly impressed by her managerial skills. In fact, every staff member I interacted with was highly professional and excellent at their job.\n\nThe food menu is diverse, offering a wide range of cuisines including Indian, Chinese, Japanese, and Korean. The hotel also features amenities such as a nightclub, salon, gym, and a massage parlor equipped with a Jacuzzi. Some of the special rooms also come with private Jacuzzis.\n\nWhile the rooms are slightly compact, the layout and furniture placement are so well-planned that they still feel quite spacious. The hotel also has specially designed rooms for old aged guests, making their stay more comfortable and accessible.\n\nOverall, I had a wonderful experience staying here and would highly recommend it.",
+      "Overall good hotel to stay.\nAmbience is good only he concern observed probably my rooms phone is not working correctly."
+    ],
+    "negative_snippets": [
+      "The food is pathetic, no Hygiene at all.. no breakfast spread.. water bottle are so dirty you cant even drink water.",
+      "I stayed at this hotel for a week, and the experience was extremely disappointing. The service was among the worst I\u2019ve encountered. On one occasion, the breakfast staff told me that breakfast wouldn\u2019t be available because I had already eaten in the morning \u2014 an utterly unprofessional and rude way to speak to a guest.\n\nIf there were extra charges for additional breakfast, they could have simply informed me politely, rather than refusing service outright. During my entire stay, I only had breakfast on 3\u20134 days, yet this was the treatment I received.\n\nGiven my experience, I would never recommend this hotel to anyone.\nI recommend everyone specially coming for some buisness work to not to opt for this hotel do you feel after paying such hefty amount this kind of behavior is justified?"
+    ]
+  },
+  "review_summary": "Based on 5 reviews.",
+  "positive_themes": {
+    "friendly_staff": 2,
+    "good_food": 3
+  },
+  "negative_themes": {
+    "dirty_rooms": 1,
+    "rude_staff": 1
+  }
+}

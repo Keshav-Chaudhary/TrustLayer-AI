@@ -1,0 +1,53 @@
+{
+  "hotel_id": "ChIJ_____5wCDTkRudqX6MHuX78",
+  "hotel_name": "Hotel Kochar International",
+  "area": "New Delhi",
+  "budget_category": "Mid-Range",
+  "rating": 3.5,
+  "trust_score": 0.5477721645663362,
+  "travel_purpose_tags": [
+    "Leisure"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "moderate",
+    "review_count": 5,
+    "positive_snippet_count": 1,
+    "negative_snippet_count": 3,
+    "positive_theme_count": 5,
+    "negative_theme_count": 2
+  },
+  "aspect_scores": {
+    "cleanliness": 0.968914270401001,
+    "service": 0.3334413002836906,
+    "location": 0.968914270401001,
+    "value_for_money": 0.3334040061502795,
+    "staff_behavior": 0.2501284916106669
+  },
+  "recommendation_features": {
+    "popularity_score": 0.4964217983810349,
+    "rating_score": 3.5,
+    "sentiment_score": 0.3877079478028463
+  },
+  "review_evidence": {
+    "positive_snippets": [
+      "I recently stayed at Hotel Kochar International during my trip to Delhi, and overall, I was quite pleased with my experience. The hotel is located in a convenient location, with easy access to many of the city's main attractions and amenities.\n\nThe accommodation at Hotel Kochar International was comfortable and well-maintained. My room was spacious and clean, with a comfortable bed and high-quality linens. I appreciated the small touches like the complimentary bottled water and toiletries, which added to my overall comfort during my stay.\n\nThe hotel offers several dining options, and I was impressed with the quality of the food and service. The breakfast buffet had a good variety of options, and the restaurant's menu had a range of dishes to suit different tastes. The staff were friendly and attentive, and went out of their way to ensure that I had an enjoyable dining experience.\n\nThe facilities at Hotel Kochar International were also impressive. I appreciated the availability of the business center, which allowed me to get some work done during my stay.\n\nThe hotel staff were courteous and helpful throughout my stay, and I appreciated their attention to detail and willingness to go above and beyond to make my stay comfortable. From the front desk staff to the housekeeping team, everyone was friendly and accommodating.\n\nIn terms of value for money, I felt that Hotel Kochar International offered a good balance of quality and affordability. While it wasn't the cheapest hotel in the area, I felt that the quality of the accommodation and services more than justified the cost.\n\nOverall, I would highly recommend Hotel Kochar International to anyone looking for a comfortable and convenient place to stay in Jaipur. With its well-appointed rooms, excellent dining options, and attentive staff, it offers a great option for travelers seeking a comfortable and enjoyab"
+    ],
+    "negative_snippets": [
+      "Location is Good, Room cleaning needs to improve a lot.\nTowels also not available and when asked the wet towel is given.\n\nVehicle has to be parked on Road Side.\n\nOk Property can be improved by providing Clean and Hygienic Environment",
+      "I had a very unpleasant stay at this hotel. First, they charged me for a broken door that was already damaged when I checked in. Despite explaining this to the staff, they refused to listen and insisted I pay.\n\nThe service was also terrible\u2014housekeeping skipped cleaning my room, and when I requested fresh towels, it took hours to get them. The front desk staff was rude and unhelpful, acting like every request was a burden.\n\nOn top of that, they charged extra for basic amenities like Wi-Fi and even asked for an additional fee to use the pool, which was not mentioned during booking. The worst part was the surprise charges added to my bill at checkout.",
+      "I had a really disappointing stay at this hotel. The food was awful\u2014completely tasteless, cold, and overpriced. Even the breakfast buffet was limited and not fresh. I ended up eating outside most of the time because the hotel\u2019s restaurant was just not worth it.\n\nThe service was even worse. The staff was slow, unprofessional, and not attentive to guests\u2019 needs. Whenever I asked for something, it felt like they were ignoring me or didn\u2019t care. Room service took forever, and even then, my order was wrong multiple times."
+    ]
+  },
+  "review_summary": "Based on 5 reviews.",
+  "positive_themes": {
+    "clean_rooms": 3,
+    "friendly_staff": 4,
+    "good_location": 2,
+    "great_value": 2,
+    "good_food": 2
+  },
+  "negative_themes": {
+    "rude_staff": 2,
+    "bad_food": 1
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "hotel_id": "ChIJYbCLDMP7DDkR1-R0n48fg2I",
+  "hotel_name": "Fabhotel Prime Shanit - Hotel In Anand Vihar",
+  "area": "New Delhi",
+  "budget_category": "Mid-Range",
+  "rating": 4.6,
+  "trust_score": 0.565831954795174,
+  "travel_purpose_tags": [
+    "Budget"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "moderate",
+    "review_count": 5,
+    "positive_snippet_count": 0,
+    "negative_snippet_count": 3,
+    "positive_theme_count": 3,
+    "negative_theme_count": 1
+  },
+  "aspect_scores": {
+    "cleanliness": 0.0011179276771144,
+    "service": 0.5,
+    "location": 0.0001912021834868,
+    "value_for_money": 0.5,
+    "staff_behavior": 0.0001874010340543
+  },
+  "recommendation_features": {
+    "popularity_score": 0.474176256655733,
+    "rating_score": 4.6,
+    "sentiment_score": 0.0008111569477477
+  },
+  "review_evidence": {
+    "positive_snippets": [],
+    "negative_snippets": [
+      "Dirty bathroom. Insects and cockroaches in the room and bathroom.\nDirty bed linen.\nBreakfast only available after 8.30 am.",
+      "Worst hotel I ever lived in . Dirty rooms , arrogant staff , non working bathroom fittings .. every things you name it and it\u2019s problematic .. pathetic hotel .. I had to change the room twice finally had to settle down in no better room .. only because they have taken all advance first and you can\u2019t find any hotel at midnight",
+      "Worst experience ever. So small room and they don't suggest you which type of room they are giving to us on the time of booking on fab. Even they have no toiletries in washroom. And food is wo taste less. Internet was not working and when when I opened any app in tv, it was shown network error.\nI'll  never ever stay in this hotel."
+    ]
+  },
+  "review_summary": "Based on 5 reviews.",
+  "positive_themes": {
+    "good_food": 2,
+    "friendly_staff": 1,
+    "good_location": 1
+  },
+  "negative_themes": {
+    "dirty_rooms": 2
+  }
+}

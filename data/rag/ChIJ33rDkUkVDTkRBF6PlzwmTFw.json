@@ -1,0 +1,49 @@
+{
+  "hotel_id": "ChIJ33rDkUkVDTkRBF6PlzwmTFw",
+  "hotel_name": "Hotel O 71370 White House",
+  "area": "jhajjar gate",
+  "budget_category": "Mid-Range",
+  "rating": 3.7,
+  "trust_score": 0.4398866076678594,
+  "travel_purpose_tags": [
+    "Budget"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "moderate",
+    "review_count": 5,
+    "positive_snippet_count": 0,
+    "negative_snippet_count": 3,
+    "positive_theme_count": 3,
+    "negative_theme_count": 2
+  },
+  "aspect_scores": {
+    "cleanliness": 0.0005860789970028,
+    "service": 0.027376831586783,
+    "location": 0.5,
+    "value_for_money": 0.0271475626504979,
+    "staff_behavior": 0.0005157093692104
+  },
+  "recommendation_features": {
+    "popularity_score": 0.4209324557207723,
+    "rating_score": 3.7,
+    "sentiment_score": 0.0165468932187649
+  },
+  "review_evidence": {
+    "positive_snippets": [],
+    "negative_snippets": [
+      "Worst room \ud83d\udca9\ud83d\udca9.  Worst Bedroom no facility  Staff so rude and no manner someone know door 3 4 time and price also expensive",
+      "Pathetic. This hotel is blot on the hotel industry. They do not know the meaning of cleanliness. When complained they will say this is the best possible cleanliness. One can understand the standards of their cleanliness.\nTheir bedsheet; blanket are dirty and filthy.\nTheir bathrooms are extremely dirty. Never cleaned before checkin by the guest.\nForget about the room service. No courtesy by the staff. They are uncouth.\nThe pot in the bathroom are so placed one cannot sit on it. The pot cover canot stay upright so that men can pee.\nI do not want to curse them, but this I am posting so that future customers can be prepared and the hotel tries to improve.",
+      "Rooms are ok. But I am not happy with their complimentary breakfast even I have paid extra money. First day, I went and asked for breakfast. They have brought breakfast with cold tea n paratha. Second day given previous day refrigerated paratha for single person instead two. Guest are treated like beggar and hotel guy request for good ratings even after poor and unacceptable behaviour n service"
+    ]
+  },
+  "review_summary": "Based on 5 reviews.",
+  "positive_themes": {
+    "friendly_staff": 3,
+    "clean_rooms": 2,
+    "good_food": 1
+  },
+  "negative_themes": {
+    "rude_staff": 1,
+    "dirty_rooms": 3
+  }
+}

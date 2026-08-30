@@ -1,0 +1,51 @@
+{
+  "hotel_id": "ChIJb681I4YbDTkRsQz7dBn9LQM",
+  "hotel_name": "Jaiminis Landmark",
+  "area": "Sector 13",
+  "budget_category": "Mid-Range",
+  "rating": 4.2,
+  "trust_score": 0.6460068116560382,
+  "travel_purpose_tags": [
+    "Budget"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "moderate",
+    "review_count": 5,
+    "positive_snippet_count": 2,
+    "negative_snippet_count": 3,
+    "positive_theme_count": 3,
+    "negative_theme_count": 1
+  },
+  "aspect_scores": {
+    "cleanliness": 0.5,
+    "service": 0.5,
+    "location": 0.5,
+    "value_for_money": 0.5,
+    "staff_behavior": 0.0108164376821756
+  },
+  "recommendation_features": {
+    "popularity_score": 0.5105787241053805,
+    "rating_score": 4.2,
+    "sentiment_score": 0.394507695842185
+  },
+  "review_evidence": {
+    "positive_snippets": [
+      "I am staying for the second time from last year.\nThe food ,devices and cleanliness are all excellent. Hope to come back soon.",
+      "I have visited multiple times to this place. Their food and all the other arrangements absolutely good. The only problem I see is in two banquet halls and one cafe they have only one common toilet, that too a small one"
+    ],
+    "negative_snippets": [
+      "We had booked with them by paying an advance. Two months before the scheduled date, we informed them that due to unforeseen circumstances the date had to be changed. Unfortunately, they refused to adjust or provide any alternative.\n\nWe even requested that they give us any date in the year 2026 so we could still hold our function, but they declined both adjustment and refund.\n\nThis kind of rigid and unhelpful behavior is very disappointing. Customers expect fairness and flexibility, especially when genuine reasons are shared well in advance.",
+      "The staff behaviour at this hotel is completely unacceptable\u2014rude, unprofessional, and lacking basic manners. They clearly have no idea how to deal with clients respectfully. I would not recommend this place to anyone, especially those travelling with family or female companions. Very disappointing experience.",
+      "The room appliances are faulty;  there is not a single window in the room and the breakfast vegetables are past their prime. However, the cleaning staff were very friendly."
+    ]
+  },
+  "review_summary": "Based on 5 reviews.",
+  "positive_themes": {
+    "clean_rooms": 2,
+    "good_food": 3,
+    "friendly_staff": 3
+  },
+  "negative_themes": {
+    "rude_staff": 2
+  }
+}

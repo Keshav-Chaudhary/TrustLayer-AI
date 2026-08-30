@@ -1,0 +1,48 @@
+{
+  "hotel_id": "ChIJZSmFMJkZDTkRohYgeUnNxxI",
+  "hotel_name": "Mod Avenue",
+  "area": "Sector 24",
+  "budget_category": "Mid-Range",
+  "rating": 4.6,
+  "trust_score": 0.9049828885984706,
+  "travel_purpose_tags": [
+    "Business",
+    "Family"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "moderate",
+    "review_count": 5,
+    "positive_snippet_count": 3,
+    "negative_snippet_count": 0,
+    "positive_theme_count": 4,
+    "negative_theme_count": 0
+  },
+  "aspect_scores": {
+    "cleanliness": 0.9998197555541992,
+    "service": 0.9997226238250732,
+    "location": 0.5,
+    "value_for_money": 0.9998197555541992,
+    "staff_behavior": 0.999851405620575
+  },
+  "recommendation_features": {
+    "popularity_score": 0.5703491102258005,
+    "rating_score": 4.6,
+    "sentiment_score": 0.9997226238250732
+  },
+  "review_evidence": {
+    "positive_snippets": [
+      "Had a wonderful stay at Mod Avenue Hotel. The ambience was excellent and the services provided were truly outstanding. Special thanks to Ms. Shipra for her respectful, courteous, and prompt assistance, making our stay truly comfortable and memorable. The food was absolutely amazing\u2014very tasty and reasonably priced.\n\nAlso, heartfelt thanks to Mr. Balwant and Ms. Hemlata for coordinating so well and ensuring all our requirements were fulfilled during our stay. Highly recommended! \ud83d\ude0a",
+      "I would like to share my sincere appreciation for the excellent hospitality and service provided during my recent stay at your hotel on MOD Avenue.\n\nA special mention goes to Mr. Balwant, whose professionalism, warmth, and attentiveness truly stood out. He was consistently courteous, prompt in addressing requests, and ensured that my stay was comfortable and pleasant throughout. His positive attitude and dedication to guest satisfaction reflect very well on your hotel\u2019s service standards.\n\nPlease convey my thanks to Mr. Balwant and acknowledge his efforts. Staff members like him make a meaningful difference to the overall guest experience, and I would be happy to recommend your hotel based on the service received.",
+      "Mod Avenue: Excellent Value, Stylish Stay, and Surprisingly Good Food\nMy recent stay at Mod Avenue was fantastic, offering a compelling blend of style, comfort, and value. For anyone looking for accommodation in the \u20b92500 price range, this hotel is definitely a top contender and highly recommended.\nThe first thing that stood out was the very good interior design. The aesthetic choices throughout the property give the hotel a premium feel that often costs much more. This attention to detail extended right into the rooms. I found my room to be surprisingly spacious, offering plenty of room to relax and work comfortably. Crucially, the hygiene was impeccably maintained\u2014everything felt fresh and clean, which is essential for a worry-free stay.\nOne of the unexpected highlights was the food service. Often, in-room dining can be overpriced or underwhelming, but at Mod Avenue, I was pleasantly surprised. The food prices were well within a reasonable range, and the quality was genuinely good. I especially enjoyed the simple comfort food I tried\u2014both the Maggi and the noodles were prepared perfectly.\nOverall, Mod Avenue provides exceptional value for money. It couples a stylish environment with clean, comfortable rooms and high-quality, reasonably priced dining, making it a stellar choice in its price segment."
+    ],
+    "negative_snippets": []
+  },
+  "review_summary": "Based on 5 reviews.",
+  "positive_themes": {
+    "good_food": 3,
+    "friendly_staff": 2,
+    "clean_rooms": 2,
+    "great_value": 2
+  },
+  "negative_themes": {}
+}

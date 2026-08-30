@@ -1,0 +1,53 @@
+{
+  "hotel_id": "ChIJa9fUXWDjDDkREFvr2Csh_lQ",
+  "hotel_name": "Treebo Mona Grand",
+  "area": "New Delhi",
+  "budget_category": "Mid-Range",
+  "rating": 4.0,
+  "trust_score": 0.5555697828975034,
+  "travel_purpose_tags": [
+    "Budget"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "moderate",
+    "review_count": 5,
+    "positive_snippet_count": 1,
+    "negative_snippet_count": 3,
+    "positive_theme_count": 5,
+    "negative_theme_count": 2
+  },
+  "aspect_scores": {
+    "cleanliness": 0.0026750531105789,
+    "service": 0.0003162417560815,
+    "location": 0.0043904040940105,
+    "value_for_money": 0.0003162417560815,
+    "staff_behavior": 0.4996684687212109
+  },
+  "recommendation_features": {
+    "popularity_score": 0.4990816882954259,
+    "rating_score": 4.0,
+    "sentiment_score": 0.2020420258515514
+  },
+  "review_evidence": {
+    "positive_snippets": [
+      "It's good like rooms are small but comfortable.\n\nStaff is Friendly you can consider this hotel for stay i stayed for 4 nights and yes I didn't faced any major issues\n\nStaff is helpful."
+    ],
+    "negative_snippets": [
+      "Whole night the kitchen  sounds were coming which made me so disturbed, could not sleep. The bathroom knob was broken and comode leaking with water wastage.cleaning was not done on the next day of my stay quoting the reason that i did not give the key. When i came back in the evening they said that now no one is abailable to clean. They were cleaning the rooms vacated. But were never interested to clean the rooms guests are staying. Whole Payment is collected before hand itself, so was kind of stuck and had no option. Bed linens and pillow covers stink like hell. Could not stay peacefully. I regret my stay.Never would recommend this to any one.",
+      "mattress are from 19th century, i hade to wake up all night without any sleep. complementary water bottle that they provide is used bottle, water tastes like tap water.\n\nThey say that lift is not working by making lift down knowingly in day time and force you to use stair in order to go to 3 floors.\n\nBy mistake i chose to order food from their restaurant, only one word \u201cpathetic \u201c, food was smelling bad but they said that is how everyone is eating. only one room occupied but they will act as if every room is filled with guest.\n\nIt is 1 star hotel, i don\u2019t know approved them 3 star hotel.\n\nif you ask mu rating -10/10",
+      "I chose this hotel because it was rated as a three-star property. Since it was a business trip with a team of three, I booked two rooms. However, based on my experience, this was nowhere near a three-star hotel\u2014I wouldn\u2019t even give it a single star.\n\nThe room itself was basic, so don\u2019t expect anything more. Upon check-in, there was a terrible smell, and we discovered a dead rat, which we had to request them to clean. While the rooms were clean and the washrooms were acceptable, the overall experience was disappointing. The water geyser was functional, but the breakfast was subpar.\n\nOverall, I would rate this as a below-average stay."
+    ]
+  },
+  "review_summary": "Based on 5 reviews.",
+  "positive_themes": {
+    "friendly_staff": 2,
+    "clean_rooms": 2,
+    "good_food": 3,
+    "good_location": 1,
+    "great_value": 1
+  },
+  "negative_themes": {
+    "dirty_rooms": 2,
+    "rude_staff": 1
+  }
+}

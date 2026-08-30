@@ -1,0 +1,51 @@
+{
+  "hotel_id": "ChIJAQBA6eAYDTkRV0RzEJj5IE8",
+  "hotel_name": "Fabhotel The Maple Stays - Hotel In Sushant Lok 1",
+  "area": "Sector 43",
+  "budget_category": "Budget",
+  "rating": 4.1,
+  "trust_score": 0.7118903284528848,
+  "travel_purpose_tags": [
+    "Leisure"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "rich",
+    "review_count": 5,
+    "positive_snippet_count": 3,
+    "negative_snippet_count": 2,
+    "positive_theme_count": 3,
+    "negative_theme_count": 1
+  },
+  "aspect_scores": {
+    "cleanliness": 0.5001694909587968,
+    "service": 0.4989161503108334,
+    "location": 0.9998608827590942,
+    "value_for_money": 0.9998608827590942,
+    "staff_behavior": 0.4989161503108334
+  },
+  "recommendation_features": {
+    "popularity_score": 0.5752965982577903,
+    "rating_score": 4.1,
+    "sentiment_score": 0.5995328570861601
+  },
+  "review_evidence": {
+    "positive_snippets": [
+      "Very friendly staff and ready to help.\nGood rooms n large beds. Could accommodate a family of 3 easily. After 1 hot shower you must wait for atleast 5-10mins for the hot water however it is manageable. Chai is really good n other smaller snaks like omelette n bread toast are easily available.",
+      "It was a good experience with The Residency. I suggest to keep a male and a female receptionist with uniform so that it gives a good feeling when you enter the hotel.",
+      "Very nice location and price is also right. I liked their attitude to trust the traveller's by letting them pay after stay. The rooms are big and good and clean."
+    ],
+    "negative_snippets": [
+      "**\u2b50 0/5 \u2013 Extremely Unprofessional & Rude Staff | Lost Business**\n\nI visited **Mapple Stays / FabHotel, IFFCO Chowk, Sector 28** to **block multiple rooms for a wedding function** and was fully prepared to make the payment on the spot. Unfortunately, the experience was so unpleasant that I walked out without confirming the booking.\n\nThe **reception staff**, especially a person named **Gidu**, was **exceptionally rude, unprofessional, and pathetic in behaviour**. He lacked basic hospitality etiquette, had zero understanding of how to speak to guests, and showed complete disinterest in business. His attitude clearly reflected **inexperience and poor training**.\n\nThis kind of behaviour is unacceptable, especially when dealing with bulk bookings and event clients. The **management must take serious notice**, as they are **directly losing business due to the rude and careless behaviour of their front-desk staff**.\n\nHotels are remembered not just for rooms, but for how guests are treated\u2014and this place failed miserably on that front.",
+      "Worst behaviour of people serving in the hotel including receptionist.\n\nEven after preinformed early arrival at morning, they will ask for morning charges but no bill Will be provided for that charges.\n\nIf ladies are there as guest, they won't get any washroom before 11 am.\n\nNot recommended for staying any family or officers or any corporate persons."
+    ]
+  },
+  "review_summary": "Based on 5 reviews.",
+  "positive_themes": {
+    "friendly_staff": 2,
+    "clean_rooms": 1,
+    "good_location": 1
+  },
+  "negative_themes": {
+    "rude_staff": 1
+  }
+}

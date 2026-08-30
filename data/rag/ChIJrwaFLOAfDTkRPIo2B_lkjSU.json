@@ -1,0 +1,49 @@
+{
+  "hotel_id": "ChIJrwaFLOAfDTkRPIo2B_lkjSU",
+  "hotel_name": "Fairley'S Hotels & Resorts",
+  "area": "Satbari",
+  "budget_category": "Luxury",
+  "rating": 3.9,
+  "trust_score": 0.6927661356271482,
+  "travel_purpose_tags": [
+    "Budget"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "rich",
+    "review_count": 5,
+    "positive_snippet_count": 3,
+    "negative_snippet_count": 2,
+    "positive_theme_count": 3,
+    "negative_theme_count": 0
+  },
+  "aspect_scores": {
+    "cleanliness": 0.999881148338318,
+    "service": 0.3329428379753759,
+    "location": 0.5,
+    "value_for_money": 0.0002533009974285,
+    "staff_behavior": 0.7495418740145396
+  },
+  "recommendation_features": {
+    "popularity_score": 0.6101044388473773,
+    "rating_score": 3.9,
+    "sentiment_score": 0.5997185435902793
+  },
+  "review_evidence": {
+    "positive_snippets": [
+      "Hosted my brother's wedding function here for 2 days.\nThe food was good all the arrangements were top notch.\nThe services provided by the team at Fairlie was commendable.\nThey agreed to everything with a smile.\nMr Sachin and Mr Negi were approachable and ready to help with all the needs and wants of the families.\nThe halls are beautiful and the only drawback is you can only opt for the vendors in their panel and can not deal with anyone from outside.\nRoom service was swift being a small property of 35 rooms in total and the staff courteous.\nKeep up the good work \ud83d\udc4d",
+      "We hosted our wedding celebrations on 26th & 27th November 2025 at Fairlie Resort, Chattarpur, New Delhi, and the experience was outstanding. From haldi to engagement and the wedding, everything was executed smoothly and exactly as planned.\n\nA special thanks to Sachin (SPOC) for his excellent coordination and to Praveen and the d\u00e9cor team for the beautiful setups. The rooms were spacious, clean, and very comfortable, making the stay pleasant for our family and guests.\n\nThe entire staff was courteous and supportive throughout. Fairlie Resort truly made our wedding memorable. Highly recommended!",
+      "Attended my cousin\u2019s wedding here last weekend. The banquet hall was beautifully decorated, and the staff made sure every guest was comfortable. The food was excellent, with a variety of dishes to please everyone. Highly recommend this venue for any big event!"
+    ],
+    "negative_snippets": [
+      "One of the worst services experienced ever.\n\nIf anyone is planning to host a wedding here, PLEASE DONT.\n\nAlthough the food was delicious, but the service was so delayed and slow. The snacks service started so late and finished in 40-45 minutes only, instead of the promised 2-3 hours.\n\nOnly thing worst than the service was the decoration and it\u2019s coordination. They don\u2019t have any taste in decoration and the team just wants to do whatever they have been doing for many years. No new taste.\nThey promise to deliver but eventually do only what they have only been doing.\n\nI would highly suggest everyone to stay away from the venue if you want to have a hassle free event.\n\nA recommendation to the owners - please change the people managing the decorations and handling services. You should outsource these teams since the existing one\u2019s cannot handle it at all.\n\nAdditionally please maintain your rooms - leaky taps, ACs not working and shower area also leaks.\n\nAlthough Mr. Sachin tried helping us as much as possible. And he was approachable at all times. But he alone does not have much authority to take care of everything.",
+      "worst services provided. booked engagement haldi mehendi and wedding on this venue. Food was pathetic, staff was not cooperative, room service is worst they don\u2019t care at all and it took 5-6 hours just to send water in a room. Guest got irritated because of them. Decoration vendor ruined everything, DJ was playing breakup and sad slow songs and making people bore. overall waste of lakhs of money for precious lifetime event like wedding. Rooms are worst no proper lights, ac not cooling in all rooms and when make complaints they don\u2019t care.Not recommended."
+    ]
+  },
+  "review_summary": "Based on 5 reviews.",
+  "positive_themes": {
+    "friendly_staff": 4,
+    "good_food": 4,
+    "clean_rooms": 1
+  },
+  "negative_themes": {}
+}

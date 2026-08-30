@@ -1,0 +1,53 @@
+{
+  "hotel_id": "ChIJR-G7XwX9DDkRB5h2b4-759I",
+  "hotel_name": "New Frontier Hotel",
+  "area": "New Delhi",
+  "budget_category": "Mid-Range",
+  "rating": 3.5,
+  "trust_score": 0.6269167933720936,
+  "travel_purpose_tags": [
+    "Budget"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "moderate",
+    "review_count": 5,
+    "positive_snippet_count": 1,
+    "negative_snippet_count": 3,
+    "positive_theme_count": 4,
+    "negative_theme_count": 3
+  },
+  "aspect_scores": {
+    "cleanliness": 0.3308254122869888,
+    "service": 0.594895329483552,
+    "location": 0.6631027396457891,
+    "value_for_money": 0.9847245216369628,
+    "staff_behavior": 0.9847245216369628
+  },
+  "recommendation_features": {
+    "popularity_score": 0.5577443178079743,
+    "rating_score": 3.5,
+    "sentiment_score": 0.594895329483552
+  },
+  "review_evidence": {
+    "positive_snippets": [
+      "clean & good room with amenities.\nclean bathroom.\n5 to 10 mnt walking distance from Old Delhi Railway station.\nfoods are good.\nonly problem is, you have climb up in stairs almost 2 floor to reach the reception, then you can avail the lift."
+    ],
+    "negative_snippets": [
+      "The stay was decent overall, though there were a few areas that could be improved.\nThe hotel had some water issues at certain times, which caused minor inconvenience. While it wasn\u2019t constant, it is something that should be addressed for better guest comfort.\nThe room was on the smaller side, especially if you have luggage, but it was functional and sufficient for a short stay. Maintenance and cleanliness were acceptable.\nService was mixed. Some staff members were helpful, while others could have been more attentive and welcoming. With better consistency and communication, the service experience could improve noticeably.\nFood was average.\nOverall, this hotel is okay for a short or budget-conscious stay. With improvements in water facilities, service consistency, room comfort, and food quality, it has the potential to offer a better experience.",
+      "We stay in Delux Room - paid Rs 3200 Hotel is very close to old delhi Railway station, just walkable distance .\nRoom are clean - But No Ventilation.\nMattress on Bed is not good quality ,\nMain issue is Mobile Network is not Coming in Room - Disrupted calls .\n- Night lamp is Available on Bed upside, which directly focus on eyes so no use \ud83d\ude42\nLot of Noise ....No cleaniness in corridor\n\nOn Desk person & service is good",
+      "On the main road, on the first floor, no parking, no easy access to reception area from the ground. Tiny rooms, no 24x7 hot water supply. Busy and dirty roadways. No easy access for cabs as well. Will not recommend it at all."
+    ]
+  },
+  "review_summary": "Based on 5 reviews.",
+  "positive_themes": {
+    "clean_rooms": 3,
+    "good_food": 2,
+    "friendly_staff": 1,
+    "good_location": 2
+  },
+  "negative_themes": {
+    "noise": 1,
+    "dirty_rooms": 1,
+    "parking_issues": 2
+  }
+}

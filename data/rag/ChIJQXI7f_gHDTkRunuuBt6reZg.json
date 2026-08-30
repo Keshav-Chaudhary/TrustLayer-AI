@@ -1,0 +1,48 @@
+{
+  "hotel_id": "ChIJQXI7f_gHDTkRunuuBt6reZg",
+  "hotel_name": "Oyo Hotel Heritage",
+  "area": "Begum Pur",
+  "budget_category": "Budget",
+  "rating": 4.6,
+  "trust_score": 0.8305706261803365,
+  "travel_purpose_tags": [
+    "Family"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "moderate",
+    "review_count": 5,
+    "positive_snippet_count": 3,
+    "negative_snippet_count": 2,
+    "positive_theme_count": 2,
+    "negative_theme_count": 0
+  },
+  "aspect_scores": {
+    "cleanliness": 0.9998613595962524,
+    "service": 0.5,
+    "location": 0.5,
+    "value_for_money": 0.9924986958503724,
+    "staff_behavior": 0.9997087518374124
+  },
+  "recommendation_features": {
+    "popularity_score": 0.223219623947779,
+    "rating_score": 4.6,
+    "sentiment_score": 0.9979062378406524
+  },
+  "review_evidence": {
+    "positive_snippets": [
+      "Oyo manager Karan and staff veri happy Sarvesh best room's quality",
+      "Room qualities best and staff very happy and property manager Karan very happy \ud83d\ude0a\ud83d\ude0a\ud83d\ude0a",
+      "Clean bold and Veri happy and staff"
+    ],
+    "negative_snippets": [
+      "Decent",
+      "Room at Higher price"
+    ]
+  },
+  "review_summary": "Based on 5 reviews.",
+  "positive_themes": {
+    "friendly_staff": 3,
+    "clean_rooms": 1
+  },
+  "negative_themes": {}
+}

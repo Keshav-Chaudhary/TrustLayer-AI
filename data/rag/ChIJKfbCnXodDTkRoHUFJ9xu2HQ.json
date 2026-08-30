@@ -1,0 +1,48 @@
+{
+  "hotel_id": "ChIJKfbCnXodDTkRoHUFJ9xu2HQ",
+  "hotel_name": "Hotel Corporate Guest House",
+  "area": "Safdarjung Enclave",
+  "budget_category": "Mid-Range",
+  "rating": 4.8,
+  "trust_score": 0.902217566999473,
+  "travel_purpose_tags": [
+    "Leisure",
+    "Business"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "moderate",
+    "review_count": 5,
+    "positive_snippet_count": 3,
+    "negative_snippet_count": 0,
+    "positive_theme_count": 4,
+    "negative_theme_count": 0
+  },
+  "aspect_scores": {
+    "cleanliness": 0.999729260802269,
+    "service": 0.9995122253894806,
+    "location": 0.9998544752597808,
+    "value_for_money": 0.5,
+    "staff_behavior": 0.9997241497039796
+  },
+  "recommendation_features": {
+    "popularity_score": 0.4323454830297744,
+    "rating_score": 4.8,
+    "sentiment_score": 0.9997241497039796
+  },
+  "review_evidence": {
+    "positive_snippets": [
+      "Perfect Corporate Stay!\n\nMy stay at Corporate Guest House was exceptional. The rooms were clean, spacious, and well-equipped for business travelers, with a comfortable bed and high-speed Wi-Fi. The meals were delicious and hygienic, and the location offered easy access to business hubs.\n\nThe staff's professionalism and warm hospitality made the experience even better. Highly recommended for a comfortable and hassle-free corporate stay!",
+      "Our stay at Corporate Guest House was absolutely fantastic! The rooms were impeccably clean, the staff were incredibly friendly and accommodating, and the breakfast was delicious. Highly recommend this gem!\"",
+      "I had a wonderful time at corporate guest house .The staff was incredibly friendly, and the room was spotless and cozy. The location was perfect, and the breakfast was delicious with plenty of options. I highly recommend this guest house for a comfortable and enjoyable stay in"
+    ],
+    "negative_snippets": []
+  },
+  "review_summary": "Based on 5 reviews.",
+  "positive_themes": {
+    "clean_rooms": 4,
+    "friendly_staff": 5,
+    "good_location": 2,
+    "good_food": 4
+  },
+  "negative_themes": {}
+}

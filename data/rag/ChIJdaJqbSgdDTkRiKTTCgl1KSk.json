@@ -1,0 +1,51 @@
+{
+  "hotel_id": "ChIJdaJqbSgdDTkRiKTTCgl1KSk",
+  "hotel_name": "Hotel The Tark",
+  "area": "Mahipalpur",
+  "budget_category": "Mid-Range",
+  "rating": 3.8,
+  "trust_score": 0.5022595374455858,
+  "travel_purpose_tags": [
+    "Budget"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "moderate",
+    "review_count": 5,
+    "positive_snippet_count": 0,
+    "negative_snippet_count": 3,
+    "positive_theme_count": 4,
+    "negative_theme_count": 3
+  },
+  "aspect_scores": {
+    "cleanliness": 0.0002135323593392,
+    "service": 0.0003127687377854,
+    "location": 0.000518669374287,
+    "value_for_money": 0.0003458475306008,
+    "staff_behavior": 0.0003127687377854
+  },
+  "recommendation_features": {
+    "popularity_score": 0.6758806952059268,
+    "rating_score": 3.8,
+    "sentiment_score": 0.0004149762680753
+  },
+  "review_evidence": {
+    "positive_snippets": [],
+    "negative_snippets": [
+      "Very Bad and Disrespectful Experience \u2013 Not Recommended\nWe booked through Booking.com. At the time of booking, the price shown was \u20b9757. However, when we reached the hotel and checked in, the front office staff suddenly added another \u20b9700+ and said it was Booking.com commission. This is completely unacceptable. If there are extra charges, they must be clearly mentioned during booking, not forced on guests at the counter. The way this was handled was very disrespectful.\nWe were already tired and did not have time to argue, so we had no choice but to take the room.\nThe room was just okay, nothing special. The AC was not working properly, and to make it worse, there was no battery in the AC remote. This shows very poor maintenance and care.\nThis hotel is not suitable for families at all. The staff behavior was rude and unhelpful. They did not try to solve any issues or speak politely.\n\nThe worst part was during breakfast. Even though breakfast was included in our room tariff, the staff kept asking how many breads we were eating. This was extremely uncomfortable and embarrassing. I don\u2019t understand why guests are questioned like this when breakfast is already paid for.\n\nOverall, this was a very bad experience. Poor service, hidden charges, bad attitude, and lack of basic hospitality.\nAbsolutely not recommended.\nI will never stay here again and would strongly advise others to avoid this hotel.",
+      "Had the worst experience ever. Same as others. When we reached the reception the receptionist Disha asked us to pay twice the booking price. When we saw her the confirmation email with the charges details received from booking.com. she refused to listen.  Worst and most disappointing was when I saw her the reviews on Google,  her response was \"there are so many bad customers who love to give negative reviews, I was like \"Really?? There was literally no feeling for my young kids. My 6 years old was literally crying because of tummy ache but they didn't bother. We gave call to manager \"Raj\" and he was giving the same instruction to her. Worst hotel ever. Will never suggest anyone to go there.",
+      "Very bad experience. There are many reviews already saying that staff charge extra by changing bookings, and unfortunately I faced the same issue \u2014 I am not the first.\n\nI booked a 2-bed room for \u20b91207 because I was traveling with my family. When I showed the staff my confirmed booking price on my phone, he took my phone and modified the booking himself, then charged me \u20b91687. Even after paying more, I was given only 1 bed, which was unacceptable.\n\nStaff behavior was rude and unprofessional. They almost damaged my luggage, and at night staff were sleeping on the sofa, creating noise and disturbance.\n\nFacilities were poor:\n\u2022\tNo proper hot water in the shower\n\u2022\tNo hot water bottle\n\u2022\tNo hair dryer\n\u2022\tNo toilet paper\n\u2022\tBreakfast was useless\n\u2022\tVery noisy at night\n\nOverall, dishonest billing, poor facilities, and bad service.\nDon\u2019t go there. Avoid at any cost."
+    ]
+  },
+  "review_summary": "Based on 5 reviews.",
+  "positive_themes": {
+    "friendly_staff": 2,
+    "good_food": 3,
+    "clean_rooms": 1,
+    "good_location": 1
+  },
+  "negative_themes": {
+    "rude_staff": 3,
+    "noise": 1,
+    "dirty_rooms": 1
+  }
+}

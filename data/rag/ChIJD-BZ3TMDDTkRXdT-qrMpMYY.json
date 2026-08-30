@@ -1,0 +1,51 @@
+{
+  "hotel_id": "ChIJD-BZ3TMDDTkRXdT-qrMpMYY",
+  "hotel_name": "Hotel Aman Deluxe",
+  "area": "Tagore Garden Extension",
+  "budget_category": "Mid-Range",
+  "rating": 3.5,
+  "trust_score": 0.5589008336275025,
+  "travel_purpose_tags": [
+    "Budget"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "moderate",
+    "review_count": 5,
+    "positive_snippet_count": 2,
+    "negative_snippet_count": 3,
+    "positive_theme_count": 3,
+    "negative_theme_count": 1
+  },
+  "aspect_scores": {
+    "cleanliness": 0.00310510773852,
+    "service": 0.0003947020450141,
+    "location": 0.3665470816195011,
+    "value_for_money": 0.5,
+    "staff_behavior": 0.9997891783714294
+  },
+  "recommendation_features": {
+    "popularity_score": 0.6102369510599138,
+    "rating_score": 3.5,
+    "sentiment_score": 0.3467126176634337
+  },
+  "review_evidence": {
+    "positive_snippets": [
+      "This place is perfect for gathering.\nThe hotel staff is well trained and professional. They have arrangements for all kind of functions and gathering. We had over 32 rooms in this hotel and not a single complaint from our guests at the hotel. We had guests with new born babies as well as very senior citizens and all were well taken care.\n\nMr. Honey at the Hotel, who was our contact person for all things was an exemplary host.\n\nSo good, that I will have higher expectations from which ever hotel I stay next.",
+      "Recently stayed at Hotel Aman Deluxe, Rajouri, Delhi\nThe hotel is good and the location is very easily accessible if you want a stay at Rajouri. It is near Rajouri garden metro station. The only thing is that the hotel needs to improve on cleanliness a bit."
+    ],
+    "negative_snippets": [
+      "The stay was just ok ok. The location was easy to reach. The hotel is very old. bed sheets, blanket, towels and mattresses everything looks old and dirty. The walls of the bathroom are full of sealan. The hotel really needs a renovation",
+      "This has to be one of the worst hotels in Delhi. I highly recommend you pay more and stay anywhere else than this place. The rooms were so dirty, cleaning wasn\u2019t done at all. Bedsheets were stained and the toilets were horrible. The air conditioning didn\u2019t work and the mini fridge looked like it hadn\u2019t been cleaned in months. The walls looked as if they are falling apart. Ordered room service in the morning just a simple cup of coffee and it took over half an hour to arrive. I also saw rats crawling around the halls and room was full of cockroaches and ants.",
+      "Hotel was nice only if you don't want a room. Rooms are dusty, ACs malfunctioned and rates are like 4star property very bad experience"
+    ]
+  },
+  "review_summary": "Based on 5 reviews.",
+  "positive_themes": {
+    "friendly_staff": 1,
+    "clean_rooms": 2,
+    "good_location": 2
+  },
+  "negative_themes": {
+    "dirty_rooms": 2
+  }
+}

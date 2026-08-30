@@ -1,0 +1,50 @@
+{
+  "hotel_id": "ChIJBXnLrFvhDDkRAiQRIACRglQ",
+  "hotel_name": "Crowne Plaza New Delhi Okhla By Ihg",
+  "area": "Okhla Industrial Estate",
+  "budget_category": "Mid-Range",
+  "rating": 4.5,
+  "trust_score": 0.9054810355886532,
+  "travel_purpose_tags": [
+    "Budget"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "moderate",
+    "review_count": 5,
+    "positive_snippet_count": 3,
+    "negative_snippet_count": 1,
+    "positive_theme_count": 5,
+    "negative_theme_count": 0
+  },
+  "aspect_scores": {
+    "cleanliness": 0.5,
+    "service": 0.6678993417881429,
+    "location": 0.003935728687793,
+    "value_for_money": 0.003935728687793,
+    "staff_behavior": 0.9998877048492432
+  },
+  "recommendation_features": {
+    "popularity_score": 0.9337512174753848,
+    "rating_score": 4.5,
+    "sentiment_score": 0.8006825991906226
+  },
+  "review_evidence": {
+    "positive_snippets": [
+      "Ganesh Singh Dhoni was very accommodating and made sure that our needs were particularly addressed. His patience and hospitality is truly admirable. My husband and I had a wonderful dinner buffet!",
+      "Kabool  from house keeping made our stay very comfortable. The food was very delicious. The delivery time was perfect. They asked for feedback\u2019s to make our stay more amazing. The room\u2019s interior was well lit with artistic wall paintings. it\u2019s feels like entering vintage era.",
+      "We hosted a party at the hotel and had a great experience. Everything was well arranged, and the food and service were excellent.\n\nSpecial thanks to Mayank for his supportive and cooperative behaviour. He made sure everything went smoothly. Highly recommended for events!"
+    ],
+    "negative_snippets": [
+      "I stayed here for 3 nights while I was on business, and was in a King-size bedroom on a higher floor.  I paid almost 35k per night, which I felt was totally not justified for the experience I had.\n\nI was not satisfied with the maintenance of the rooms. A light fell off near the door entrance, in-room safe was not working and had to be reset, workdesk chair was not working, and worst of all - it seemed like the bed was not cleaned properly and something small like a splinter poke my leg. When I requested them to give 2-3 bandaids for it, they gave me 1 and when I asked for 2 more, said \"they had to check\" and never gave any even after requesting for 2nd time. Imagine being in a so-called 5 star paying 35k per night and they have to check for Rs. 2 bandaid!! Also, the decorative pillows were not at all cleaned. I found some white spots on them and didn't use it at all. When I arrived in the room, iron box was missing and I had to call up and ask for it.\n\nI ordered for room service from the In-room Dining. It was better than average, but could have been better. I was a bit surprised to see the limited items in IRD menu. However, I appreciate that someone from Chaobella restaurant called up, sent me the menu and said they can room deliver - which they did. The IRD folks, in one instance, were a bit careless about the bill. Even though I had placed a hold for it on my card during checkin, they said it was direct payment and had sent card machine. I had to insist them on checking with the front desk and resolve it.\n\nI utilized the spa for a massage. It was hygienic and well maintained. The therapist also gave a good massage. The cost was also reasonable. I appreciate the experience there.\n\nOverall, it was the experience of a 3 star hotel for me but with a 5 star price. So if the room rates match that of a 3 star hotel, go for it. It's definitely not worth a 5 star tag or a 5 star cost"
+    ]
+  },
+  "review_summary": "Based on 5 reviews.",
+  "positive_themes": {
+    "good_food": 3,
+    "friendly_staff": 1,
+    "clean_rooms": 1,
+    "good_location": 1,
+    "great_value": 1
+  },
+  "negative_themes": {}
+}

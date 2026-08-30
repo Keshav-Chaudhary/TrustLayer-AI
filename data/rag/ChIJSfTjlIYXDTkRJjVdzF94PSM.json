@@ -1,0 +1,53 @@
+{
+  "hotel_id": "ChIJSfTjlIYXDTkRJjVdzF94PSM",
+  "hotel_name": "Hotel O Dwarka Palace",
+  "area": "Sector 88A",
+  "budget_category": "Luxury",
+  "rating": 4.0,
+  "trust_score": 0.6657582506943912,
+  "travel_purpose_tags": [
+    "Leisure"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "moderate",
+    "review_count": 5,
+    "positive_snippet_count": 1,
+    "negative_snippet_count": 3,
+    "positive_theme_count": 5,
+    "negative_theme_count": 2
+  },
+  "aspect_scores": {
+    "cleanliness": 0.529054541218405,
+    "service": 0.0099661471322178,
+    "location": 0.9985007047653198,
+    "value_for_money": 0.994566798210144,
+    "staff_behavior": 0.4002659193356521
+  },
+  "recommendation_features": {
+    "popularity_score": 0.5415137935002718,
+    "rating_score": 4.0,
+    "sentiment_score": 0.5191260951105505
+  },
+  "review_evidence": {
+    "positive_snippets": [
+      "It was good. Neat nd clean room nd bathroom. Plus the staff was also good. But we have toh book another room bcoz we didn't know about the checkin timings as oyo didn't mention the check-in conditions in the description. So please mention it in your description."
+    ],
+    "negative_snippets": [
+      "I booked a room in this hotel on 16 SEP 19 for a single person as me, I was very much disappointed by receptionist. The service staff was good accept the receptionist.\nThe behaviour of receptionist was very rude, he miss behaved with me & my two friends who came in hotel room to meet me for a while few minutes.\nNext day I checkout this hotel and the receptionist added extra item in my bill that I didn't ordered and forcing me to pay.\nFinally I paid and leave this hotel & in future never stay again.\n\nI suggest you to pls keep a professional service staff and a receptionist, that have polite in nature.\nAlso give proper dress code to all staff.....at least the receptionist fisrt which should be gentle look and dress first.\nThanks.",
+      "I wouldn't stay in ANY OYO again. I thought if it is at par with photos advertised, it would be a great deal. The whole room was stinking due to stench from the bathroom. Overall disgusting. Positive side - owner was polite.",
+      "It is old hotel, room is unclean. but staff are good and supportive. Also, location is like a village you won't get a place for breakfast. For lunch and dinner restaurant is available adjacent to the hotel."
+    ]
+  },
+  "review_summary": "Based on 5 reviews.",
+  "positive_themes": {
+    "clean_rooms": 3,
+    "friendly_staff": 4,
+    "good_location": 1,
+    "good_food": 1,
+    "great_value": 1
+  },
+  "negative_themes": {
+    "rude_staff": 1,
+    "dirty_rooms": 1
+  }
+}

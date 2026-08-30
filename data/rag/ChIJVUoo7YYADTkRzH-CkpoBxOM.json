@@ -1,0 +1,51 @@
+{
+  "hotel_id": "ChIJVUoo7YYADTkRzH-CkpoBxOM",
+  "hotel_name": "Mithas Motels",
+  "area": "Alipur",
+  "budget_category": "Mid-Range",
+  "rating": 4.2,
+  "trust_score": 0.8012021538420431,
+  "travel_purpose_tags": [
+    "Family"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "moderate",
+    "review_count": 5,
+    "positive_snippet_count": 3,
+    "negative_snippet_count": 1,
+    "positive_theme_count": 3,
+    "negative_theme_count": 2
+  },
+  "aspect_scores": {
+    "cleanliness": 0.99912828207016,
+    "service": 0.5006750437896699,
+    "location": 0.0015211529098451,
+    "value_for_money": 0.9993703961372375,
+    "staff_behavior": 0.0015211529098451
+  },
+  "recommendation_features": {
+    "popularity_score": 0.6320888858967758,
+    "rating_score": 4.2,
+    "sentiment_score": 0.7999415482394397
+  },
+  "review_evidence": {
+    "positive_snippets": [
+      "Simply beautiful. Loved this place. Spacious, great decor, lighting, everything about it is great. You can click so many pictures. Just the background will give you beautiful ones! Though the food wasn't that good. It was only average but looking at decor I might very well consider it",
+      "#Good place to do #grand #ceremony like #marriage #birthday #celebration etc. But it require lot of cost as well. Good #decoration and good place. Also everything here is well #arranged and proper defined that is visible from sight and also extra stage for #performers to dancer , #singer etc. I #loved it so much. Thankyou\ud83d\udc9d\u2764\ufe0f",
+      "Amazing banquet hall. Literally felt like I attended a grand wedding. Amazing food and service. Hotel rooms were comfortable but they didn't have the geyser for hot water. Overall it was great. :)"
+    ],
+    "negative_snippets": [
+      "EDIT 1:\nWorst Service, no sense of guest hospitality! Been there thrice and they are unapologetically rude in attending the guests!\n\nINITIAL REVIEW:\nNice ambience, nice food, wrong location! That sums it up all!\n\nEverything will feel good if you can reach there on time but, most of the times, you will have to face heavy traffic on Alipur Highway for around 2-3 hours and that kills everything good!"
+    ]
+  },
+  "review_summary": "Based on 5 reviews.",
+  "positive_themes": {
+    "good_food": 4,
+    "clean_rooms": 1,
+    "good_location": 1
+  },
+  "negative_themes": {
+    "parking_issues": 1,
+    "rude_staff": 1
+  }
+}

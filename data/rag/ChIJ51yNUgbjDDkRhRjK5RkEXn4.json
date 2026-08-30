@@ -1,0 +1,53 @@
+{
+  "hotel_id": "ChIJ51yNUgbjDDkRhRjK5RkEXn4",
+  "hotel_name": "South Delhi Inn - Hotel Near , Hazrat Nizamuddin Railway Station",
+  "area": "Hari Nagar Ashram",
+  "budget_category": "Budget",
+  "rating": 4.3,
+  "trust_score": 0.6776951482684676,
+  "travel_purpose_tags": [
+    "Budget"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "moderate",
+    "review_count": 5,
+    "positive_snippet_count": 2,
+    "negative_snippet_count": 3,
+    "positive_theme_count": 4,
+    "negative_theme_count": 2
+  },
+  "aspect_scores": {
+    "cleanliness": 0.4999486319720744,
+    "service": 0.9997239708900452,
+    "location": 0.0008412430761381,
+    "value_for_money": 0.9973342418670654,
+    "staff_behavior": 0.3336920458047339
+  },
+  "recommendation_features": {
+    "popularity_score": 0.5887333968701759,
+    "rating_score": 4.3,
+    "sentiment_score": 0.4000610902672633
+  },
+  "review_evidence": {
+    "positive_snippets": [
+      "Very nice service and hotel staff is coprative room is neat and clean",
+      "Good clean room just a little bit expensive for us as same rooms Available lower price online rest all was good"
+    ],
+    "negative_snippets": [
+      "The hotel\u2019s location is good and convenient. However, the rooms are quite old and not well maintained. Cleanliness was poor, and housekeeping did not clean our room or change the bed sheets during our four-day stay. The staff were not very friendly or welcoming. We were required to make full payment in advance, which was uncomfortable given the overall experience.\n\nI would not recommend this hotel for families",
+      "We had Horrible experience , Very unhygienic condition of the toilet . Broken toilet seat , broken kettle , no youtube no wifi.\nBedsheet were torn out\nThey promised the kitchen when v booked ,but no kitchen . Staff members were rude n making excuses.",
+      "The dayshift receptionist is quite unfriendly and not welcoming at all, the young guys working there are very unpolite and they don't respect the guests with their behaviour, I had to pay upfront like I was going to run away or something, for western standards is a dirty place and the food is really bad, I ordered veg noodles and I put then in the bin, really disgusting, I had to order others from Zomato.\n\nThis is a real review, thank you."
+    ]
+  },
+  "review_summary": "Based on 5 reviews.",
+  "positive_themes": {
+    "clean_rooms": 3,
+    "friendly_staff": 4,
+    "good_location": 1,
+    "good_food": 1
+  },
+  "negative_themes": {
+    "rude_staff": 1,
+    "dirty_rooms": 1
+  }
+}

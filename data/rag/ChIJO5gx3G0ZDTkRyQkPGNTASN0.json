@@ -1,0 +1,51 @@
+{
+  "hotel_id": "ChIJO5gx3G0ZDTkRyQkPGNTASN0",
+  "hotel_name": "Fabhotel Emoji Stays - Hotel In Sector 32, Gurgaon",
+  "area": "Sector 31",
+  "budget_category": "Budget",
+  "rating": 4.1,
+  "trust_score": 0.6397634519856557,
+  "travel_purpose_tags": [
+    "Leisure",
+    "Business"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "moderate",
+    "review_count": 5,
+    "positive_snippet_count": 2,
+    "negative_snippet_count": 3,
+    "positive_theme_count": 4,
+    "negative_theme_count": 0
+  },
+  "aspect_scores": {
+    "cleanliness": 0.0005723929498344,
+    "service": 0.9962246417999268,
+    "location": 0.998754620552063,
+    "value_for_money": 0.998754620552063,
+    "staff_behavior": 0.9974896311759948
+  },
+  "recommendation_features": {
+    "popularity_score": 0.5366805650560723,
+    "rating_score": 4.1,
+    "sentiment_score": 0.3992040956392884
+  },
+  "review_evidence": {
+    "positive_snippets": [
+      "Rooms are exactly as seen in photos..friendly atmosphere..daily room service lacking..but can managed by keep telling the reception..overall good place for long stay",
+      "This is a safe and ok place if you want to stay near sec 32 gurugram , as GST office and few industries are nearby. Neat and spacious room for the price you give. Manager is also very cooperative and are staffs.\nOnly point is breakfast inclusions means they dont have buffet but they serve in room one item you chose from their list and a hot beverage , for more u need to pay. Overall its a good deal for the money you pay, atms are around, and auto rickshaws are also available after walking aprx 150-200m or else ola and uber ."
+    ],
+    "negative_snippets": [
+      "Recently stayed at room 302 of Fab hotels. My god, absolutely the worst experience. The state of the rooms were pathetic, with seepage and paint falling off. Seemed like the room hadn\u2019t been open in ages. The fridge wouldn\u2019t close, the balcony was all dusty. Pillows looked like they hadn\u2019t been changed in ages",
+      "Room no 303 Terrible Experience. Bed sheet was not clean, blanket was not clean. Basic kits are not available. Like toothpaste brush.",
+      "I had a very poor experience during my 2-day stay at Emoji Hotel. On arrival, I was told that only one room was available, and to my shock, it was in a terrible condition. The walls were stained, even with paan spit, and a spider was crawling around trying to settle in. There were no keys to the room, and when I asked, the receptionist simply smiled and said the keys had been lost.\n\nThe bedsheets were torn and looked very unhygienic. Overall, the entire stay was extremely uncomfortable and disappointing.\n\nIn my opinion, people should avoid staying at this property. It is neither maintained properly nor does it provide even the basic standards of cleanliness and hospitality expected from a hotel."
+    ]
+  },
+  "review_summary": "Based on 5 reviews.",
+  "positive_themes": {
+    "friendly_staff": 2,
+    "clean_rooms": 3,
+    "good_location": 1,
+    "good_food": 1
+  },
+  "negative_themes": {}
+}

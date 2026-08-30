@@ -1,0 +1,53 @@
+{
+  "hotel_id": "ChIJQxM3RNLjDDkRpfU_0WZcbw8",
+  "hotel_name": "Rockland Hotel C R Park",
+  "area": "Chittaranjan Park",
+  "budget_category": "Mid-Range",
+  "rating": 3.8,
+  "trust_score": 0.6443558162049027,
+  "travel_purpose_tags": [
+    "Leisure"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "moderate",
+    "review_count": 5,
+    "positive_snippet_count": 2,
+    "negative_snippet_count": 3,
+    "positive_theme_count": 4,
+    "negative_theme_count": 2
+  },
+  "aspect_scores": {
+    "cleanliness": 0.500127637074911,
+    "service": 0.6665244259347674,
+    "location": 0.99931800365448,
+    "value_for_money": 0.5,
+    "staff_behavior": 0.5001074182000593
+  },
+  "recommendation_features": {
+    "popularity_score": 0.744375680496578,
+    "rating_score": 3.8,
+    "sentiment_score": 0.4001348836405668
+  },
+  "review_evidence": {
+    "positive_snippets": [
+      "The Rockland Hotel is conveniently located and well priced. It firmly falls within the 3-star range. Not fantastic, but not bad either. Cleanliness is at an acceptable level. Our biggest complaint is probably that every day, after the room had been cleaned we had to call down because the toilet paper, or the hand soap or the shampoo was not refilled. The rest was ok.\nStaff was very accommodating in reception during check in and check out.\nThe pool was closed and empty, but the roof was still lovely to sit and read on.\nI did love the book exchange and the amazing view from the rooftop.",
+      "From our compromec team just want to thank the rockland hotel team for the good service. The manager  Mr Shafi khan and staff were very cooperative and supportive. It was very pleasant stay at the hotel. The room was clean and good."
+    ],
+    "negative_snippets": [
+      "I had a very disappointing experience at this hotel.\n\nThe rooms are smaller than usual, although the general standard is acceptable. However, the bed in my original room was terrible. It was extremely hard, and I could literally feel the metal springs through the mattress. For a room costing 4,500 INR per night, this is completely unacceptable.\n\nWhen I went to the reception to complain, they first told me the hotel was fully booked. I explained that charging that amount for a room with a broken bed was not reasonable. After some discussion, they eventually assigned me a new room with a proper bed.\n\nThe hotel also advertises air conditioning in the rooms. This was not the case. The rooms was very hot. When I asked about the AC, I was first told it was turned off because it was winter season. Later, when I asked them to turn it on, I was told it was broken.\n\nI had really hoped for a good night\u2019s sleep, especially since I had a flight back to Europe the next morning. Unfortunately, this was difficult due to the heat, and noice from the traffic outside. Additionally, the beds are shorter than normal. Being slightly taller than average, my feet were hanging off the end of the bed.\n\nThe restaurant experience was even worse. It is located in the basement and felt dirty and poorly ventilated, with a stale and unpleasant smell. There were no other guests dining at the time, which made us somewhat skeptical, but we decided to give it a try.\n\nWe ordered tandoori chicken tikka (dry, without gravy) and dal. When the food arrived, the chicken did not look as it normally does. There was visible oil and sauce around the pieces, despite requesting it dry. After tasting it, I was shocked \u2014 the chicken was cold, although fully cooked. This suggested that it had been prepared earlier and reheated. From a food safety perspective, I did not feel comfortable eating it.\n\nAt first, the staff tried to convince us to order something else from the menu, but after this experience I did not feel confident about how the rest of the food was prepared. Eventually, the manager came and asked what the issue was. I explained the situation, and he apologized and told us we would not have to pay for the food. However, we were still charged for the drinks, even though we had ordered them to accompany the meal and did not finish them.\nIn the end, we left and went somewhere else for dinner.\n\nOverall, this was a very disappointing stay. Based on my experience, I would not recommend this hotel.",
+      "I am writing to formally complain about the unacceptable conditions during my stay in [Room Number 323 and 325]\n\nWe were unable to sleep the entire night because the central air conditioning was not functioning and there was no ventilation in the room. As a result, we now have a severe headache and we have finally kept our main door open for ventilation.\n\nWe alerted the hotel staff to the AC issue 4-5 times during the day, and we were assured that it would be repaired. However, when we returned to our room at room in the night. we were informed by the staff that the AC is not functioning and they keep shut AC units during this season. They would have informed us the same when we checked in or later when we were complaining about it.\n\nGiven the discomfort this has caused and the failure to resolve the issue after multiple reports.",
+      "Had to cancel due to a medical emergency and informed the hotel multiple times before check-in.\nThe property showed no flexibility or empathy and simply redirected everything to MakeMyTrip.\nPolicies aside, complete lack of support in a genuine medical case was disappointing."
+    ]
+  },
+  "review_summary": "Based on 5 reviews.",
+  "positive_themes": {
+    "clean_rooms": 2,
+    "friendly_staff": 4,
+    "good_location": 1,
+    "good_food": 1
+  },
+  "negative_themes": {
+    "dirty_rooms": 1,
+    "bad_food": 1
+  }
+}

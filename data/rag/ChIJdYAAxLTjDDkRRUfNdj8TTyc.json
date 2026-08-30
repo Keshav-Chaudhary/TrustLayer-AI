@@ -1,0 +1,48 @@
+{
+  "hotel_id": "ChIJdYAAxLTjDDkRRUfNdj8TTyc",
+  "hotel_name": "Nuo By J\u00fcsta, Greater Kailash",
+  "area": "Greater Kailash",
+  "budget_category": "Mid-Range",
+  "rating": 4.3,
+  "trust_score": 0.8722393433070903,
+  "travel_purpose_tags": [
+    "Leisure",
+    "Business"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "moderate",
+    "review_count": 5,
+    "positive_snippet_count": 3,
+    "negative_snippet_count": 0,
+    "positive_theme_count": 4,
+    "negative_theme_count": 0
+  },
+  "aspect_scores": {
+    "cleanliness": 0.999700963497162,
+    "service": 0.9997903307278952,
+    "location": 0.9997736215591432,
+    "value_for_money": 0.5,
+    "staff_behavior": 0.9998515844345092
+  },
+  "recommendation_features": {
+    "popularity_score": 0.603937295897043,
+    "rating_score": 4.3,
+    "sentiment_score": 0.9996999025344848
+  },
+  "review_evidence": {
+    "positive_snippets": [
+      "Great stay at Nuo by Justa! We stayed for 6 nights and the service was solid. Breakfast every morning was great and plenty of variety as well. Special shout out to the chef for always making a great Chai.\n\nRooms were nice and spacious, and as expected. Really appreciated the daily cleaning and any ask was met. We also had requested an early check in due to landing in Delhi early which the team accommodated.\n\nM block market is a couple minutes walk away and is super convenient, with lots of great food around. I managed to get to the SK 247 gym which was a short stroll from the hotel.\n\nWould definitely stay again on my next trip to Delhi!",
+      "Mr Arvind & Reena & Puskar were so very helpful and kind. The service was excellent, the food was delicious, rooms were clean and comfortable and the breakfast was delicious. The hotel is located in a very central location, near to all the shopping markets. All the hotel staff were so kind and helpful and professional and we will definitely come ans stay here again! We would recommend the nuo by justa to all traveller's from all over the world.",
+      "The hotel is very conveniently located In GK. Its clean and well maintained. We made some of our guests stay there and they were very pleased with the property.\n\nSpecial mention for Umesh from Front Desk. He was very kind and welcoming to all the requests and made sure the stay was comfortable. He took all the requests with attention and send assistance promptly.\n\nWe will definitely book this again."
+    ],
+    "negative_snippets": []
+  },
+  "review_summary": "Based on 5 reviews.",
+  "positive_themes": {
+    "clean_rooms": 4,
+    "good_location": 4,
+    "good_food": 2,
+    "friendly_staff": 4
+  },
+  "negative_themes": {}
+}

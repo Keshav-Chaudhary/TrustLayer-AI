@@ -1,0 +1,53 @@
+{
+  "hotel_id": "ChIJteDOQaoDDTkR671xxVVa6Dc",
+  "hotel_name": "Hotel Season Couple Friendlly Near Pitampura Metro",
+  "area": "New Delhi",
+  "budget_category": "Mid-Range",
+  "rating": 4.9,
+  "trust_score": 0.8510849490051706,
+  "travel_purpose_tags": [
+    "Leisure"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "rich",
+    "review_count": 5,
+    "positive_snippet_count": 3,
+    "negative_snippet_count": 2,
+    "positive_theme_count": 4,
+    "negative_theme_count": 2
+  },
+  "aspect_scores": {
+    "cleanliness": 0.5000836252656882,
+    "service": 0.9997598528862,
+    "location": 0.9998102486133577,
+    "value_for_money": 0.0002854221384041,
+    "staff_behavior": 0.6667166234595546
+  },
+  "recommendation_features": {
+    "popularity_score": 0.7289698528559163,
+    "rating_score": 4.9,
+    "sentiment_score": 0.6000390290806535
+  },
+  "review_evidence": {
+    "positive_snippets": [
+      "Best Hotel Pitampura.location best pitampura metro station the rooms are clean\nAnd the washroom are exceptionally well maintained Overall service are excellent couple fridenlly rooms .enjoy your hotel best hotel pitampura.location. Superb",
+      "Rooms are nice and clean, staff is well behaved and friendly, parking facility is also available, food is delicious here\nLoved our stay here\nDefinitely will come back and recommend to all.",
+      "Nice rooms\nLocation is nice and food is also delicious\nStaff is very well behaved and helping\nAmbience is so nice"
+    ],
+    "negative_snippets": [
+      "*Misleading* Worst hotel you could ever imagine, misleading photos, worst bathroom, cigarette smell everywhere, will take your phone to review himself five star, will take advance more than 50%, I would have given negative reviews if possible, waste of money.",
+      "The room was very bad and extremely dirty. The bedsheets and pillows were also very dirty. Bathroom is too bad. staff is not good they were zero talking sense."
+    ]
+  },
+  "review_summary": "Based on 5 reviews.",
+  "positive_themes": {
+    "clean_rooms": 2,
+    "good_location": 2,
+    "friendly_staff": 3,
+    "good_food": 2
+  },
+  "negative_themes": {
+    "parking_issues": 1,
+    "dirty_rooms": 2
+  }
+}

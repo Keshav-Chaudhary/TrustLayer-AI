@@ -1,0 +1,46 @@
+{
+  "hotel_id": "ChIJO-1YhaoBDTkRSjyr7WIIzG4",
+  "hotel_name": "Lotus Guest House",
+  "area": "Samaypur",
+  "budget_category": "Mid-Range",
+  "rating": 3.6,
+  "trust_score": 0.6390099484537338,
+  "travel_purpose_tags": [
+    "Budget"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "moderate",
+    "review_count": 5,
+    "positive_snippet_count": 3,
+    "negative_snippet_count": 0,
+    "positive_theme_count": 3,
+    "negative_theme_count": 0
+  },
+  "aspect_scores": {
+    "cleanliness": 0.4981596084835474,
+    "service": 0.9953566193580629,
+    "location": 0.5,
+    "value_for_money": 0.5,
+    "staff_behavior": 0.4981596084835474
+  },
+  "recommendation_features": {
+    "popularity_score": 0.2456693548613046,
+    "rating_score": 3.6,
+    "sentiment_score": 0.7991831387043932
+  },
+  "review_evidence": {
+    "positive_snippets": [
+      "Neat & clean rooms alongwith friendly & co-operative staff. Being on main service lane of G T Karnal road & just behind Libaspur DTC bus stand this property is convenient to reach & easier to locate. Prices too being pocket friendly. Overall best place to stay.",
+      "Best place for stay\nJust back side of bus stand\nEasy to find\nNeat n Clean rooms\nSupporting staff too friendly\nNearest hotel from idz centres\nOnly one thing you remember\nIts Little bit costly....\nAfter all\nI recommend.....\ud83d\udc4d",
+      "Good area \ud83d\udc4d"
+    ],
+    "negative_snippets": []
+  },
+  "review_summary": "Based on 5 reviews.",
+  "positive_themes": {
+    "clean_rooms": 2,
+    "friendly_staff": 2,
+    "good_location": 2
+  },
+  "negative_themes": {}
+}

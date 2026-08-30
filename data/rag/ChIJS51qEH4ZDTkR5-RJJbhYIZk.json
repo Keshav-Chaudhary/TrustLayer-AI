@@ -1,0 +1,52 @@
+{
+  "hotel_id": "ChIJS51qEH4ZDTkR5-RJJbhYIZk",
+  "hotel_name": "Grt Residency Hotel And Banquet",
+  "area": "Old Railway Rd",
+  "budget_category": "Mid-Range",
+  "rating": 4.2,
+  "trust_score": 0.7742210620264235,
+  "travel_purpose_tags": [
+    "Leisure",
+    "Business"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "moderate",
+    "review_count": 5,
+    "positive_snippet_count": 3,
+    "negative_snippet_count": 1,
+    "positive_theme_count": 4,
+    "negative_theme_count": 1
+  },
+  "aspect_scores": {
+    "cleanliness": 0.6664860707436067,
+    "service": 0.9994556705156962,
+    "location": 0.9994556705156962,
+    "value_for_money": 0.9997716546058656,
+    "staff_behavior": 0.9994897047678628
+  },
+  "recommendation_features": {
+    "popularity_score": 0.5054167725029061,
+    "rating_score": 4.2,
+    "sentiment_score": 0.7998207248398101
+  },
+  "review_evidence": {
+    "positive_snippets": [
+      "I stayed at a hotel GRT Residency located very close to the Gurgaon Railway Station, and it was the best stay I've had in Gurgaon so far. The hotel staff provided excellent service, including delicious food, neat and clean rooms, geyser for bathing, and drinking hot water.",
+      "I had an absolutely wonderful stay at GRT Residency. From the moment I arrived, the staff was warm, professional, and incredibly helpful. The check-in process was smooth, and I was impressed by the attention to detail throughout the hotel",
+      "Very good Budget stay, was surprised to see they had genset backup..food was also decent. Service is ok. Location is good, just near Railway station."
+    ],
+    "negative_snippets": [
+      "The room is very dirty. There is a spider web in the corner. The bucket used for bathing is completely dirty. It is 100 years old. I have never seen a dirtier room in my entire life. There is mold on the bathroom tiles. The bed sheets are torn. It is completely dirty."
+    ]
+  },
+  "review_summary": "Based on 5 reviews.",
+  "positive_themes": {
+    "clean_rooms": 2,
+    "friendly_staff": 3,
+    "good_location": 3,
+    "good_food": 2
+  },
+  "negative_themes": {
+    "dirty_rooms": 1
+  }
+}

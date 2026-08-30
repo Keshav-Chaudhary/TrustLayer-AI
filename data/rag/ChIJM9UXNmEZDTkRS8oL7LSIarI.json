@@ -1,0 +1,51 @@
+{
+  "hotel_id": "ChIJM9UXNmEZDTkRS8oL7LSIarI",
+  "hotel_name": "Capital O Hotel Flora Inn Near Ambience Mall",
+  "area": "Choma",
+  "budget_category": "Budget",
+  "rating": 3.9,
+  "trust_score": 0.7122993387707222,
+  "travel_purpose_tags": [
+    "Leisure",
+    "Business"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "rich",
+    "review_count": 5,
+    "positive_snippet_count": 3,
+    "negative_snippet_count": 2,
+    "positive_theme_count": 4,
+    "negative_theme_count": 0
+  },
+  "aspect_scores": {
+    "cleanliness": 0.992037296295166,
+    "service": 0.992037296295166,
+    "location": 0.9710381428400676,
+    "value_for_money": 0.5,
+    "staff_behavior": 0.9713343381881716
+  },
+  "recommendation_features": {
+    "popularity_score": 0.4296207085978143,
+    "rating_score": 3.9,
+    "sentiment_score": 0.7812654425040819
+  },
+  "review_evidence": {
+    "positive_snippets": [
+      "We stayed here for one night. Booked by Agoda.\nLocation - Near Delhi Gurgaon border.\nPerson in Reception was very cooperative.\nWe had alloted room in first floor. Room was small but cozy with all ammenities and cleaned. Bathroom alos had a good condition. They served food in room only.\nIts a small hotel but we were satisfied for one night stay.",
+      "I use this Hotel for a lot of visits. Convenient location helping staff and good food.\n\nPeople are very helpful and now I do not look beyond for my stay",
+      "Place is located near to market which is easy to commute and you can travel and get transportation easyly. The staff is very helpful and understanding. Rooms are well maintained and surly tell to all my friends and refer them to stay here"
+    ],
+    "negative_snippets": [
+      "Rooms are very badly managed, cockroaches all over the place, bed sheets, towels not cleaned properly. Toilet is pathetic, toilet seat cover is coming off, geyser not working. Food is average. Overall very bad experience. I would suggest people not to try this place based on the pics as only the pics look good but you regret when you stay here",
+      "Average place. Staff at check-in was not cooperative.  Cockroaches found in the room. Bedsheets might be washed but had oil patches. Breakfast was good. Toiletries were good."
+    ]
+  },
+  "review_summary": "Based on 5 reviews.",
+  "positive_themes": {
+    "clean_rooms": 2,
+    "good_location": 3,
+    "good_food": 4,
+    "friendly_staff": 3
+  },
+  "negative_themes": {}
+}

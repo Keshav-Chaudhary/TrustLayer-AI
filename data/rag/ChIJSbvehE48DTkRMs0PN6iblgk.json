@@ -1,0 +1,48 @@
+{
+  "hotel_id": "ChIJSbvehE48DTkRMs0PN6iblgk",
+  "hotel_name": "Collection O By Oyo Sakshi",
+  "area": "Gurugram",
+  "budget_category": "Budget",
+  "rating": 3.9,
+  "trust_score": 0.4923607167807811,
+  "travel_purpose_tags": [
+    "Budget"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "moderate",
+    "review_count": 5,
+    "positive_snippet_count": 0,
+    "negative_snippet_count": 3,
+    "positive_theme_count": 3,
+    "negative_theme_count": 1
+  },
+  "aspect_scores": {
+    "cleanliness": 0.5,
+    "service": 0.5,
+    "location": 0.5,
+    "value_for_money": 0.0005689247627742,
+    "staff_behavior": 0.0005689247627742
+  },
+  "recommendation_features": {
+    "popularity_score": 0.5659798477575022,
+    "rating_score": 3.9,
+    "sentiment_score": 0.0009889107808703
+  },
+  "review_evidence": {
+    "positive_snippets": [],
+    "negative_snippets": [
+      "They do not accept online booking and sell rooms at a higher price to people who come to them directly. And staff behaviour was very rude. I will never recommend this hotel personally as per as my experience.",
+      "Third class hotel, rooms, Breakfast, Even receiption  person ( receiption me ciggarate pite baitta Hai.)\nDont stay here. No any facilities.\nNo towel & soap, no water, no food facility,  No hot water ( only morning 1 hr available )",
+      "Third class owner. Running a PG in the name of hotel. Even booked hotel from MMT didn\u2019t allowed checking at night. Worst humans living on planet. Pathetic behaviour."
+    ]
+  },
+  "review_summary": "Based on 5 reviews.",
+  "positive_themes": {
+    "friendly_staff": 1,
+    "good_food": 1,
+    "clean_rooms": 1
+  },
+  "negative_themes": {
+    "rude_staff": 1
+  }
+}

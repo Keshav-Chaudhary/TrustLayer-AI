@@ -1,0 +1,55 @@
+{
+  "hotel_id": "ChIJf9AdFZ0DDTkROoUXx6i7QvM",
+  "hotel_name": "Bloom Hotel - Karol Bagh",
+  "area": "New Delhi",
+  "budget_category": "Mid-Range",
+  "rating": 4.6,
+  "trust_score": 0.8873790133301244,
+  "travel_purpose_tags": [
+    "Business",
+    "Family"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "moderate",
+    "review_count": 5,
+    "positive_snippet_count": 3,
+    "negative_snippet_count": 1,
+    "positive_theme_count": 5,
+    "negative_theme_count": 3
+  },
+  "aspect_scores": {
+    "cleanliness": 0.7469844791048672,
+    "service": 0.7469954314583447,
+    "location": 0.5000739341485314,
+    "value_for_money": 0.9938818514347076,
+    "staff_behavior": 0.749957201158395
+  },
+  "recommendation_features": {
+    "popularity_score": 0.7908311526493628,
+    "rating_score": 4.6,
+    "sentiment_score": 0.7975574233336374
+  },
+  "review_evidence": {
+    "positive_snippets": [
+      "I had a wonderful stay at this hotel. The people here are extremely kind, polite, and always ready to help, which made my experience even more comfortable. The location is perfect \u2014 everything is easily accessible and conveniently located nearby.\nAs a girl traveling alone, I felt completely safe and secure throughout my stay. The hotel maintains good security measures, and the environment feels very welcoming and respectful.\nAll services are practically at your fingertips \u2014 whether it\u2019s room service, assistance at reception, or any other support, everything is quick and user-friendly. The rooms are comfortable. The overall ambience is pleasant and relaxing.\nI would definitely recommend this hotel, especially for solo female travelers, families, and business travelers. Looking forward to staying here again!",
+      "Our stay at Bloom Hotel Karol Bagh was truly wonderful. I was travelling with my parents, both senior citizens, and the experience was exceptionally comfortable and reassuring. The rooms were clean, well-appointed, and serviced promptly. The in-house restaurant deserves special mention for its delicious food and thoughtful menu. What stood out most was the warm, polite, and genuinely hospitable staff, always ready to help with a smile. From room service to dining, everything was handled with care and professionalism. Overall, a brilliant stay and a hotel I would highly recommend to families and senior travellers.",
+      "We were 3 people and I had pre-booked for additional person , still expected I will have to talk to the reception about it during checkin. However it was a seamless comfortable checkin experience.  Rooms were clean and good and NO cover up of smell with room freshner. Breakfast is pure veg and modest. However,  good hotels are available for swiggy or zomato.  Walkable hotels are mostly south cuisine restaurants,  both Kerala and Tamil cuisine. Price could be for the brand as facility wise could have been priced 3k to 4k range."
+    ],
+    "negative_snippets": [
+      "My stay at Bloom Boutique Karol Bagh was extremely disappointing and far below the expectations created by its popularity.\n\nAlthough the room was clean, the size was very small and quite uncomfortable. The larger concern, however, was the service, which was highly unprofessional. The front office staff appeared uninterested and showed little concern for guest comfort.\n\nRoom service was painfully slow \u2014 my order took almost an hour to arrive, and when it finally did, the food was cold and tasteless. To add to the frustration, the TV in the room was not working as the balance had apparently run out.\n\nWhen I raised these issues, a staff member named Nikhil behaved rudely and did not take the complaint seriously. What was even more surprising was that one of the staff members mentioned they are severely short-staffed, and employees are made to do multiple roles \u2014 the receptionist acting as a bellboy, and so on \u2014 almost like a \u201ccarry-on\u201d system rather than a properly managed hotel.\n\nFor a hotel that is so heavily promoted, the overall experience was extremely poor and the service standards were far from acceptable. Certainly not a place I would recommend."
+    ]
+  },
+  "review_summary": "Based on 5 reviews.",
+  "positive_themes": {
+    "friendly_staff": 4,
+    "good_location": 1,
+    "clean_rooms": 4,
+    "good_food": 4,
+    "great_value": 1
+  },
+  "negative_themes": {
+    "dirty_rooms": 1,
+    "rude_staff": 1,
+    "bad_food": 1
+  }
+}

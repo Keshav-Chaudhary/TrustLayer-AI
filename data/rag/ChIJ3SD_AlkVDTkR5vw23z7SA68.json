@@ -1,0 +1,48 @@
+{
+  "hotel_id": "ChIJ3SD_AlkVDTkR5vw23z7SA68",
+  "hotel_name": "Sunahari Bagh Farm - A Luxury Farmhouse With Private Pool Near Delhi Ncr, Farmhouse For Weddings And Events",
+  "area": "Sector 95",
+  "budget_category": "Luxury",
+  "rating": 4.2,
+  "trust_score": 0.7667466437376765,
+  "travel_purpose_tags": [
+    "Budget"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "moderate",
+    "review_count": 5,
+    "positive_snippet_count": 3,
+    "negative_snippet_count": 1,
+    "positive_theme_count": 3,
+    "negative_theme_count": 0
+  },
+  "aspect_scores": {
+    "cleanliness": 0.5001913619926199,
+    "service": 0.0008904363494366,
+    "location": 0.5,
+    "value_for_money": 0.9996973276138306,
+    "staff_behavior": 0.999640852212906
+  },
+  "recommendation_features": {
+    "popularity_score": 0.4700901543599057,
+    "rating_score": 4.2,
+    "sentiment_score": 0.7999441628810018
+  },
+  "review_evidence": {
+    "positive_snippets": [
+      "Awesome experience and commendable services. We were 13 guest and enjoyed to fullest starting from hassle free check in, property views was stunning and breathtaking with ample lawn space. Food was in house cooked well and was too delicious and freshly served on time. Overall services were top notch and we enjoyed to the fullest. Special thanks to Rishi for providing great deal meeting our expectation and budget well.",
+      "Overall, we have had a great experience. However, there are a couple of things they can improve in the room amenities. The washroom needs a little tweak, such as adding a tall and a towel. They were not there, and there was no washroom. There are a few cracks here and there, which I really think they need to repair or look after across the whole property. The place is nice and quiet, very relaxing. The food is very good, and the staff is really supportive. I would say that you can give this property a chance because you would love the greenery. If you love the greenery, you would love the property. It was a great time, and I would love to be back in summer. Maybe if they had an open pool, currently the pool was closed, and yeah",
+      "This luxury farmhouse is a perfect getaway \ud83c\udf3f\u2728. The private pool is the highlight, offering complete privacy and a truly relaxing experience \ud83c\udfca\u200d\u2642\ufe0f\ud83d\udc99. The property is beautifully maintained with elegant interiors and spacious, comfortable rooms \ud83d\udecf\ufe0f\ud83e\udd0d. The ambiance is calm, peaceful, and gives a premium luxury hotel vibe \ud83c\udfe8\ud83c\udf1f.\nThe staff is polite, friendly, and always ready to help \ud83d\ude0a\ud83d\ude4c, making the stay smooth and enjoyable. Whether you\u2019re visiting with family, friends, or your partner, this place is ideal for creating memorable moments \ud83d\udcf8\u2764\ufe0f. Highly recommended for anyone looking for comfort, luxury, and privacy \ud83c\udf1f\ud83d\udc4c."
+    ],
+    "negative_snippets": [
+      "The service and the people are good but food options are limited.\nTheir whole furniture is too old and uncomfortable. We even raised a question about the non-working and broken taps and toilet sheets in mostly all the washrooms. Though its a good place to have get together but hygiene and comfort must be given the first priority among all the services."
+    ]
+  },
+  "review_summary": "Based on 5 reviews.",
+  "positive_themes": {
+    "good_food": 3,
+    "friendly_staff": 2,
+    "clean_rooms": 1
+  },
+  "negative_themes": {}
+}

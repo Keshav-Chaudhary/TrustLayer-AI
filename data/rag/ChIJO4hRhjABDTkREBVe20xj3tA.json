@@ -1,0 +1,48 @@
+{
+  "hotel_id": "ChIJO4hRhjABDTkREBVe20xj3tA",
+  "hotel_name": "Hotel Metro Park",
+  "area": "Adarsh Nagar",
+  "budget_category": "Mid-Range",
+  "rating": 4.0,
+  "trust_score": 0.6567633366046078,
+  "travel_purpose_tags": [
+    "Budget"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "moderate",
+    "review_count": 4,
+    "positive_snippet_count": 3,
+    "negative_snippet_count": 1,
+    "positive_theme_count": 3,
+    "negative_theme_count": 0
+  },
+  "aspect_scores": {
+    "cleanliness": 0.50429347762838,
+    "service": 0.5,
+    "location": 0.5,
+    "value_for_money": 0.9998034834861756,
+    "staff_behavior": 0.5045784772373736
+  },
+  "recommendation_features": {
+    "popularity_score": 0.1498222752495692,
+    "rating_score": 4.0,
+    "sentiment_score": 0.7520603269804269
+  },
+  "review_evidence": {
+    "positive_snippets": [
+      "Rooms were hygienic and clean",
+      "Great stay and the staff was friendly",
+      "Very affordable and value for money"
+    ],
+    "negative_snippets": [
+      "Staff member named Aman spoke to me very politely, which I didn't quite understand. There was light in the bathroom. The AC split cover was broken, and the TV wasn't on. Most importantly, the way Aman spoke to me hurt me. I condemn the Oyo Hotel staff and want Aman to apologize.\nTo identify: Aman's eyes are a different color...\nFrom Shubham Gandhi"
+    ]
+  },
+  "review_summary": "Based on 4 reviews.",
+  "positive_themes": {
+    "clean_rooms": 1,
+    "friendly_staff": 2,
+    "great_value": 1
+  },
+  "negative_themes": {}
+}

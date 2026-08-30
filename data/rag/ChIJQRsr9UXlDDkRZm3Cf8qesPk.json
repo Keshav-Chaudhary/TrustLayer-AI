@@ -1,0 +1,51 @@
+{
+  "hotel_id": "ChIJQRsr9UXlDDkRZm3Cf8qesPk",
+  "hotel_name": "Golden Tree Hotel",
+  "area": "Sector 31",
+  "budget_category": "Mid-Range",
+  "rating": 4.3,
+  "trust_score": 0.7416511486448708,
+  "travel_purpose_tags": [
+    "Business"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "rich",
+    "review_count": 5,
+    "positive_snippet_count": 3,
+    "negative_snippet_count": 2,
+    "positive_theme_count": 3,
+    "negative_theme_count": 1
+  },
+  "aspect_scores": {
+    "cleanliness": 0.5,
+    "service": 0.7502344349341001,
+    "location": 0.5,
+    "value_for_money": 0.5,
+    "staff_behavior": 0.750059876794694
+  },
+  "recommendation_features": {
+    "popularity_score": 0.5889000751843347,
+    "rating_score": 4.3,
+    "sentiment_score": 0.6004121533129364
+  },
+  "review_evidence": {
+    "positive_snippets": [
+      "I have been staying in this hotel since 2021.the rooms, quality of service and to top it good homely food. All is equally good till date i.e. feb 2026. Further the staff takes special care and fullfill my special needs regarding food as I can not eat spicy food being patient.The hotel has maintained its quality of service and cleanliness.",
+      "Planned and held my daughter's wedding programs at the lovely hotel with stay...it was a very pleasing experience... excellent food and great service...I have travelled a lot in my life but this is the only boutique hotel having 30 rooms AND OFFERING FULL SERVICE 24*7 KITCHEN which is a very unique feature... special thanks to the managers Bijen and Jewel to be so flexible (within the rule books) and helpful every time...Great job and thanks to the owner Mr Fardeen also",
+      "I am happy with the service,staff member including managers they were very helpful and instant service were provided. The stay was superb.  I found this hotel the most safest for women, I was new to noida but the staff of golden tree made me feel safe. Hats off to the security and the managers, who were always available 24/7.\n\nThanks alot team for the support,"
+    ],
+    "negative_snippets": [
+      "I visited here on a birthday party, they have a hall to celebrate ur occasions..... Snacks and service are overall good.... But the main course is silghtly a drawback.....Dal makhani looks alike but the taste is like dal tadka, worst dal I hv ever eaten. Breads are not too good.",
+      "Rude staff, misogynistic rules when it comes to letting female guests. You can have any random male coming to your room and stay untill 11pm, but you cannot have even your female family members come to your room without paying 1000 rupees. Also none of the rules are written down anywhere. Creepy and weird. Cleaned my room without my permission behind my back despite reminders to not enter unless asked"
+    ]
+  },
+  "review_summary": "Based on 5 reviews.",
+  "positive_themes": {
+    "clean_rooms": 2,
+    "friendly_staff": 4,
+    "good_food": 2
+  },
+  "negative_themes": {
+    "rude_staff": 1
+  }
+}

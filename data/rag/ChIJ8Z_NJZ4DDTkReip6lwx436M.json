@@ -1,0 +1,53 @@
+{
+  "hotel_id": "ChIJ8Z_NJZ4DDTkReip6lwx436M",
+  "hotel_name": "Qotel Comfort Ashok Vihar",
+  "area": "Ashok Vihar",
+  "budget_category": "Mid-Range",
+  "rating": 4.7,
+  "trust_score": 0.7982403004240494,
+  "travel_purpose_tags": [
+    "Budget"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "rich",
+    "review_count": 5,
+    "positive_snippet_count": 3,
+    "negative_snippet_count": 2,
+    "positive_theme_count": 4,
+    "negative_theme_count": 2
+  },
+  "aspect_scores": {
+    "cleanliness": 0.0661360715748742,
+    "service": 0.5000349750043824,
+    "location": 0.5328707891167141,
+    "value_for_money": 0.5659404024481773,
+    "staff_behavior": 0.7104025036096573
+  },
+  "recommendation_features": {
+    "popularity_score": 0.5661926245669118,
+    "rating_score": 4.7,
+    "sentiment_score": 0.6262554921675474
+  },
+  "review_evidence": {
+    "positive_snippets": [
+      "Professional and excellent service. Have ordered multiple work shirts and a suit over the past 3 years from luxury pus .highly recommend and at great value ! They have never disappointed ! Qotel comfort  signature bnb hotel to location Ashok vihar phase 3 Lakshmi Bai college",
+      "Hotel is very nice the staff were very polite room very pretty staff cooperative and hotel location on main road front of ashok vihar accommodation fullfill great stay overa experience perfect",
+      "Absolutely love food theory..5 yeras of experience is enough to say that it always maintains the\nStandard..staff.is friendly .menu is delicious \ud83d\ude0b\ud83d\ude0b.kudos to the chef ."
+    ],
+    "negative_snippets": [
+      "Probably the worst place I have booked. The blanket was very filthy and with many urine stains. The bed linens and pillows was also full of stains and evens some hairs. I told the reception about this. They offered to change, but came up with new dirty linens, now also with some blood stain. The new blanket was also wet. Even though I told them almost immediately that I can't stay here, there was no compensation. The whole hotel looks dirty and the room did not at all look as in the picture from booking.com. The location is also not good, right in front of a trafficked street.",
+      "this place is basically a scam. the staff is rude, the rooms are in bad condition and definitely not worth the price. hygiene is poor. they don\u2019t provide even basic things like soap, and you have to call 10 times just to get a fresh towel. they advertise it as a bnb, but there isn\u2019t even a kitchen. the rooms are very small for what they charge, so in reality, all they\u2019re giving you is four walls and a bed. if you want to stay somewhere where nobody will disturb you or check on you for days, you may consider. the location is decent"
+    ]
+  },
+  "review_summary": "Based on 5 reviews.",
+  "positive_themes": {
+    "good_location": 4,
+    "great_value": 2,
+    "friendly_staff": 3,
+    "good_food": 1
+  },
+  "negative_themes": {
+    "dirty_rooms": 1,
+    "rude_staff": 1
+  }
+}

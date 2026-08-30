@@ -1,0 +1,47 @@
+{
+  "hotel_id": "ChIJlRIZ9jv_DDkRp05iJfLCywQ",
+  "hotel_name": "Spot On 88657 Hotel Dazi Star",
+  "area": "loni",
+  "budget_category": "Mid-Range",
+  "rating": 3.5,
+  "trust_score": 0.5642759575222136,
+  "travel_purpose_tags": [
+    "Budget"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "sparse",
+    "review_count": 5,
+    "positive_snippet_count": 2,
+    "negative_snippet_count": 3,
+    "positive_theme_count": 1,
+    "negative_theme_count": 0
+  },
+  "aspect_scores": {
+    "cleanliness": 0.5,
+    "service": 0.0002175274275941,
+    "location": 0.5,
+    "value_for_money": 0.2661295385551056,
+    "staff_behavior": 0.0002175274275941
+  },
+  "recommendation_features": {
+    "popularity_score": 0.2456693548613046,
+    "rating_score": 3.5,
+    "sentiment_score": 0.6066053435897629
+  },
+  "review_evidence": {
+    "positive_snippets": [
+      "Had a long week and this spa in Kolkata was just what I needed! \ud83d\udcab",
+      "Motivational speech every Saturday given by vipin sir\nCold water CCTV daily News paper also provided ."
+    ],
+    "negative_snippets": [
+      "Two uneducated people  set at the reception who have no behavior  sense. Only  give u room  if paid online.. if u select  pay at hotel option they will not allow  and said logo ne pad kr rkha h instead of paid... I don't  know what oyo see give before  they give their brand name to anyone.. pathetic  service even  i have seen.. really  disappointed \ud83d\ude1e.  Waste of time watse of money.",
+      "Hotel is in right side however map shows in the left side, correct side is Right!\nHotel looks good and spacious but AC yet to be switched on, only fan can't add value.",
+      "Average"
+    ]
+  },
+  "review_summary": "Based on 5 reviews.",
+  "positive_themes": {
+    "great_value": 1
+  },
+  "negative_themes": {}
+}

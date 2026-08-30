@@ -1,0 +1,48 @@
+{
+  "hotel_id": "ChIJ_XfWkV0DDTkRV-MWftStFZY",
+  "hotel_name": "Hotel The Luxe",
+  "area": "Rani Bagh",
+  "budget_category": "Mid-Range",
+  "rating": 4.8,
+  "trust_score": 0.8877623137851947,
+  "travel_purpose_tags": [
+    "Leisure",
+    "Family"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "moderate",
+    "review_count": 5,
+    "positive_snippet_count": 3,
+    "negative_snippet_count": 0,
+    "positive_theme_count": 4,
+    "negative_theme_count": 0
+  },
+  "aspect_scores": {
+    "cleanliness": 0.9998666048049928,
+    "service": 0.5,
+    "location": 0.9998804330825806,
+    "value_for_money": 0.9998667240142822,
+    "staff_behavior": 0.9998666048049928
+  },
+  "recommendation_features": {
+    "popularity_score": 0.3641694923263474,
+    "rating_score": 4.8,
+    "sentiment_score": 0.9998666048049928
+  },
+  "review_evidence": {
+    "positive_snippets": [
+      "I recently stayed at HOTEL THE LUXE and I couldn't have been more impressed with my experience. From the moment I arrived, the staff made me feel right at home with their warm, welcoming hospitality. The guest house itself was beautifully maintained, with cozy and clean rooms that offered a peaceful retreat after a busy day.",
+      "I had a wonderful stay at HOTEL THE LUXE. The location was perfect, with easy access to nearby attractions. The room was clean, cozy, and well-equipped. The staff were friendly and helpful, making the overall experience very pleasant. Great value for the price, and I would definitely recommend it to others.",
+      "I had a wonderful stay at [Hotel The Luxe] during my recent trip. From the moment I arrived, the staff made me feel welcome and ensured a smooth check-in process. The hotel is beautifully designed, with a modern and clean aesthetic that created a comfortable atmosphere throughout my stay."
+    ],
+    "negative_snippets": []
+  },
+  "review_summary": "Based on 5 reviews.",
+  "positive_themes": {
+    "clean_rooms": 5,
+    "friendly_staff": 5,
+    "good_location": 1,
+    "great_value": 1
+  },
+  "negative_themes": {}
+}

@@ -1,0 +1,53 @@
+{
+  "hotel_id": "ChIJa1Ew2zQdDTkRoVtBcorX4Nw",
+  "hotel_name": "Hotel Palm View By Jmd Group",
+  "area": "Mahipalpur",
+  "budget_category": "Mid-Range",
+  "rating": 4.8,
+  "trust_score": 0.7553157584522776,
+  "travel_purpose_tags": [
+    "Budget"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "moderate",
+    "review_count": 5,
+    "positive_snippet_count": 2,
+    "negative_snippet_count": 3,
+    "positive_theme_count": 3,
+    "negative_theme_count": 3
+  },
+  "aspect_scores": {
+    "cleanliness": 0.0004721693985629,
+    "service": 0.5019607106223701,
+    "location": 0.5,
+    "value_for_money": 0.0041367728263139,
+    "staff_behavior": 0.5010032039645012
+  },
+  "recommendation_features": {
+    "popularity_score": 0.6399178565070297,
+    "rating_score": 4.8,
+    "sentiment_score": 0.4008969970513135
+  },
+  "review_evidence": {
+    "positive_snippets": [
+      "I am happy \ud83d\ude0a to stay hear in this hotel they provided a good facility and good  food also manager was good mostly the female manager name ::miss supriya she was very kind I loved that",
+      "My experience staying at the hotel was really good. Good staff with great service. Would revisit again next time."
+    ],
+    "negative_snippets": [
+      "\u2b50 Very disappointing stay \u2013 false rating and misleading photos\n\nI booked this hotel through Booking.com based on its rating, but the reality was completely different.\n\nCleanliness was zero. The bed sheets were dirty and clearly already used by previous guests, which was unacceptable. The room was noisy all night, making it impossible to sleep \u2014 we didn\u2019t sleep even one hour.\n\nBecause of these conditions, we had to check out early at 1:30 AM.\n\nAs a foreign traveler, I do not recommend this hotel at all. The rating is misleading, and the photos of the hotel and rooms appear to be heavily edited and do not reflect the real condition of the property.\n\nPlease be careful and do not be fooled by false ratings and pictures.",
+      "Rooms are good and other people are good except reception guy.\nThat reception guy is very rude and always behaves rude and irritating. One star is only for that person, other things are fine\nOne more thing is , they are not ready to provide the price in which they displayed in Third party apps like Agoda or Booking.com. Fans are extremely noisy and shaky. We got afraid that it will fall off.\n\nThey said extra money room available and agoda money rooms are full.",
+      "All I can say is one of the worst hotel, I don\u2019t recommend people to stay in this hotel rather than staying here better to spend time on the road because you will be not having the peaceful sleep in this hotel because whole day and night there was an work going on in different floor like day and night both the noice is too much which you can\u2019t handle.\n\nI booked this hotel recently this December first week the cleanliness was disaster and hotel staffs are unhygienic and even the manager was not professional enough to handle the customer.\n\nAlso the ratings and comments from their own people just to increase the ratings, I\u2019ll never suggest anyone to book this hotel if you guys want the peaceful stay."
+    ]
+  },
+  "review_summary": "Based on 5 reviews.",
+  "positive_themes": {
+    "good_food": 1,
+    "friendly_staff": 2,
+    "clean_rooms": 2
+  },
+  "negative_themes": {
+    "dirty_rooms": 1,
+    "noise": 2,
+    "rude_staff": 1
+  }
+}

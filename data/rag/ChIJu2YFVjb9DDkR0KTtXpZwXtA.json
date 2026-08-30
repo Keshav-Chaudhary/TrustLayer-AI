@@ -1,0 +1,53 @@
+{
+  "hotel_id": "ChIJu2YFVjb9DDkR0KTtXpZwXtA",
+  "hotel_name": "The Corus Hotel",
+  "area": "Connaught Place",
+  "budget_category": "Mid-Range",
+  "rating": 3.7,
+  "trust_score": 0.7847332599369473,
+  "travel_purpose_tags": [
+    "Leisure",
+    "Business",
+    "Family"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "moderate",
+    "review_count": 5,
+    "positive_snippet_count": 3,
+    "negative_snippet_count": 1,
+    "positive_theme_count": 3,
+    "negative_theme_count": 2
+  },
+  "aspect_scores": {
+    "cleanliness": 0.99758842587471,
+    "service": 0.9966752131779988,
+    "location": 0.996673862139384,
+    "value_for_money": 0.9949968457221984,
+    "staff_behavior": 0.9970072865486144
+  },
+  "recommendation_features": {
+    "popularity_score": 0.5715607084171292,
+    "rating_score": 3.7,
+    "sentiment_score": 0.9970072865486144
+  },
+  "review_evidence": {
+    "positive_snippets": [
+      "The location is the best for a tourist in Delhi. We were a family from Goa visiting Delhi for just two days & wanted to shop. Booked two rooms. The Hotel is placed on the first floor right next to Cafe Coffee Day above Out of the Box restaurant.\nThe Metro station is right outside.\nThis hotel is just a one station metro ride to Chawri bazaar, Chandni Chowk, Delhi main railway station, Red Fort, etc. Palika Bazaar is just 400 metres away, Connaught Place is full of amazing branded shops & fantastic eateries.\nThe rooms were comfortable & clean for double occupancy but no windows. Thankfully we were given rooms away from the restaurant below as there was loud music played late in the night on Christmas Eve. They provide basic toiletries & hot kettle with tea coffee in the room. We got a great deal on Agoda.\nThe vibe is young & happening in the area. We were there for the Christmas weekend & area was extremely crowded.\nThey also have room service. Reception staff were cordial & helpful.\nAmple street & Palika Bazar parking.",
+      "I had an excellent stay last night! The room was clean, comfortable, and well-maintained. The staff were incredibly polite and helpful, always ready to assist with a smile. The ambiance was peaceful, and all facilities worked perfectly \u2014 from the Wi-Fi to the room service. I truly appreciate the attention to detail and warm hospitality. Highly recommended for anyone looking for a relaxing and comfortable stay!",
+      "A small hotel at prime location, at inner circle of Cannaught Place has given us perfect comfort for family stay in comfortable budget. Service was excellent. Staff was very helpful, specially Ms. Meena at reception desk. The only shortcoming was that walls inside rooms were just simple and decent, not decorated in fancy system. But it didn't affect our quality of stay."
+    ],
+    "negative_snippets": [
+      "The Corus Hotel is perfectly located in Connaught Place which makes travel very easy. However, room size is small and maintenance can be improved. Cleanliness was average. Staff support was decent. Good for short business stay but price feels slightly high for the room quality."
+    ]
+  },
+  "review_summary": "Based on 5 reviews.",
+  "positive_themes": {
+    "clean_rooms": 3,
+    "friendly_staff": 5,
+    "good_location": 3
+  },
+  "negative_themes": {
+    "noise": 1,
+    "parking_issues": 1
+  }
+}

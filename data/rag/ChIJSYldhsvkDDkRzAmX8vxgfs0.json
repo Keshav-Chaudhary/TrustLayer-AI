@@ -1,0 +1,54 @@
+{
+  "hotel_id": "ChIJSYldhsvkDDkRzAmX8vxgfs0",
+  "hotel_name": "Park Inn By Radisson New Delhi Ip Extension",
+  "area": "New Delhi",
+  "budget_category": "Budget",
+  "rating": 4.4,
+  "trust_score": 0.8758582142581804,
+  "travel_purpose_tags": [
+    "Leisure",
+    "Business",
+    "Family"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "moderate",
+    "review_count": 5,
+    "positive_snippet_count": 3,
+    "negative_snippet_count": 1,
+    "positive_theme_count": 5,
+    "negative_theme_count": 1
+  },
+  "aspect_scores": {
+    "cleanliness": 0.9997593760490416,
+    "service": 0.9974770744641622,
+    "location": 0.9997602701187134,
+    "value_for_money": 0.9998308420181274,
+    "staff_behavior": 0.8077871054410934
+  },
+  "recommendation_features": {
+    "popularity_score": 0.8463208474070875,
+    "rating_score": 4.4,
+    "sentiment_score": 0.8077871054410934
+  },
+  "review_evidence": {
+    "positive_snippets": [
+      "The hotel made a very positive impression. I really liked the quiet location, as it allows you to relax after a busy day. The buffet offered delicious food with beautiful presentation. The staff were especially pleasant: friendly, smiling, and always ready to help, especially Priyadarshini. A great combination of comfort and service.\n\nReally liked padded window sill in rooms. 10 minutes walk to the nearest metro station.\nA small suggestion for improvement: more non-spicy meat dishes and having porridge available every day for breakfast would be appreciated",
+      "My family stayed here for 5 nights and we enjoyed our experience. The rooms were quite clean and the staff was very attentive. The breakfast was also quite good and I would recommend this as an affordable option whole staying in Delhi.",
+      "I stayed at Park Inn by Radisson for two nights and had a comfortable and efficient experience overall. The check-in process was smooth, and the staff were courteous and professional throughout the stay.\n\nThe room was clean, well-maintained, and functional, with comfortable bedding and adequate amenities for a short business or leisure stay. Housekeeping standards were consistent, and the room was serviced promptly.\n\nThe hotel\u2019s common areas were well kept, and the overall ambience aligned with the Park Inn brand\u2014modern, practical, and relaxed. Breakfast offered a decent spread with both local and continental options, and the dining staff were attentive.\n\nThe location is convenient, with good accessibility, making it suitable for business travelers as well as short city visits. Wi-Fi connectivity was reliable, which was helpful for work purposes.\n\nOverall, Park Inn by Radisson delivered a dependable and pleasant stay experience. I would consider staying again for short trips and would recommend it to travelers looking for comfort, cleanliness, and professional service at a mid-scale hotel."
+    ],
+    "negative_snippets": [
+      "Im from South Africa. Restaurant had superb meals with great staff. Food was tasty, huge variety. Beautiful setup. All staff go the extra mile including house keeping, reception, restaurant, to ensure you have comfortable stay. Bhisha showed such a warm experience during breakfast.\n\nThe rooms however are very old with cracked tiles, discoloration of floors etc. Needs serious renovation."
+    ]
+  },
+  "review_summary": "Based on 5 reviews.",
+  "positive_themes": {
+    "friendly_staff": 5,
+    "good_location": 2,
+    "good_food": 5,
+    "clean_rooms": 2,
+    "great_value": 1
+  },
+  "negative_themes": {
+    "parking_issues": 1
+  }
+}

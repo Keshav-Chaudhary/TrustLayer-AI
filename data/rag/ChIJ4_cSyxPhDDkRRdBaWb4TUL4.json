@@ -1,0 +1,51 @@
+{
+  "hotel_id": "ChIJ4_cSyxPhDDkRRdBaWb4TUL4",
+  "hotel_name": "Hotel O Premium Rooms",
+  "area": "Khanpur",
+  "budget_category": "Mid-Range",
+  "rating": 4.6,
+  "trust_score": 0.6882490458545544,
+  "travel_purpose_tags": [
+    "Budget"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "moderate",
+    "review_count": 5,
+    "positive_snippet_count": 2,
+    "negative_snippet_count": 3,
+    "positive_theme_count": 2,
+    "negative_theme_count": 2
+  },
+  "aspect_scores": {
+    "cleanliness": 0.0003619652998167,
+    "service": 0.9996482133865356,
+    "location": 0.5,
+    "value_for_money": 0.5,
+    "staff_behavior": 0.4986812804054352
+  },
+  "recommendation_features": {
+    "popularity_score": 0.4523990307935275,
+    "rating_score": 4.6,
+    "sentiment_score": 0.3990305557847023
+  },
+  "review_evidence": {
+    "positive_snippets": [
+      "Service are so very good and manger friendly good behaviour manager smooth check in and water bottle soaps towels good facilities and couples friendly....",
+      "Staff behaviour was very good and I will rate cleanliness 10 out of 10, Enjoyed stay over here too much."
+    ],
+    "negative_snippets": [
+      "This place is a disgrace and should be erased from maps or alternatively called The Nightmare Hotel. What was advertised as a four-star hotel turned out to be a filthy, unmarked dump hidden in a dark alley strewn with debris and human waste. After dragging my suitcases for an hour to find it, I was told there was no room for me\u2014despite my confirmed booking.\n\nStranded, I went to the police, who escorted me back at 2 AM. Miraculously, a room was suddenly available, but at a higher rate, and their card terminal didn't accept foreign cards. Forced to pay in cash, I was taken to a room with urine-stained pillowcases and filthy sheets. Even after demanding replacements, I was given another set\u2014full of holes and just as dirty. Only after more protests did they finally bring clean bedding, but basic necessities like towels, soap, and water never arrived.\n\nAt 6 AM, staff blasted loud music outside my door to force me out, and by 9:30, they were banging on it. I reminded them my checkout was at 11. By 11:05, I walked out, wishing this wretched place would be shut down so no traveler would ever suffer here again.",
+      "This is an illegal property Don't even think about going with your partners, police can anytime knock at your door and may arrest you for staying there....\nThey have no licence to run this hotel at all..\n\nThe room and restroom were not clean, the flush was not working properly.\nGo at your own risk \u274c\u274c\u274c",
+      "Very bad experience. The rooms are in the worst condition. No cleanliness. Washrooms are not maintained. Tv and charging points not working. Staff are non supportive. Also, faced  very difficulty in locating the place."
+    ]
+  },
+  "review_summary": "Based on 5 reviews.",
+  "positive_themes": {
+    "friendly_staff": 4,
+    "clean_rooms": 4
+  },
+  "negative_themes": {
+    "dirty_rooms": 1,
+    "noise": 1
+  }
+}

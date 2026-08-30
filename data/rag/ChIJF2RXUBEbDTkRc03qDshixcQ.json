@@ -1,0 +1,51 @@
+{
+  "hotel_id": "ChIJF2RXUBEbDTkRc03qDshixcQ",
+  "hotel_name": "Fabhotel Pingla Residency",
+  "area": "New Delhi",
+  "budget_category": "Mid-Range",
+  "rating": 3.3,
+  "trust_score": 0.4868794065651285,
+  "travel_purpose_tags": [
+    "Leisure"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "moderate",
+    "review_count": 5,
+    "positive_snippet_count": 1,
+    "negative_snippet_count": 3,
+    "positive_theme_count": 2,
+    "negative_theme_count": 3
+  },
+  "aspect_scores": {
+    "cleanliness": 0.0006840575806563,
+    "service": 0.0003452067903708,
+    "location": 0.9998656511306764,
+    "value_for_money": 0.5,
+    "staff_behavior": 0.3337445887639963
+  },
+  "recommendation_features": {
+    "popularity_score": 0.3166168302341184,
+    "rating_score": 3.3,
+    "sentiment_score": 0.4000504327646922
+  },
+  "review_evidence": {
+    "positive_snippets": [
+      "I had my first teeth whitening treatment at Shree Devam Dental Care. My smile is noticeably brighter"
+    ],
+    "negative_snippets": [
+      "Basic amenities are not good such as flush will not working , staff is too lazy....our group is staying no arrangement of water full day till my friends distribute water by his own, we want plates it took 45 min i.e unwashed plates we get oil stain",
+      "The hotel's proximity to the temple provides a serene environment, appreciated by many visitors. Guests have noted the courteous and attentive staff, contributing to a pleasant experience. The on-site dining options offer a variety of cuisines, catering to diverse tastes. Additionally, the hotel's location provides easy access to local attractions and transportation hubs, making it convenient for travelers.",
+      "Very disgusting, shameful situation, secrives are very poor, they not listen on one call, never recommend"
+    ]
+  },
+  "review_summary": "Based on 5 reviews.",
+  "positive_themes": {
+    "friendly_staff": 3,
+    "good_location": 1
+  },
+  "negative_themes": {
+    "dirty_rooms": 1,
+    "rude_staff": 1,
+    "noise": 1
+  }
+}

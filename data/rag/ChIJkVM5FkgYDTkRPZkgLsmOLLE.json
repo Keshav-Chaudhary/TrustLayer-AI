@@ -1,0 +1,53 @@
+{
+  "hotel_id": "ChIJkVM5FkgYDTkRPZkgLsmOLLE",
+  "hotel_name": "Ds Clarks Inn Gurgaon",
+  "area": "Civil Lines",
+  "budget_category": "Budget",
+  "rating": 4.0,
+  "trust_score": 0.7274449448032537,
+  "travel_purpose_tags": [
+    "Leisure",
+    "Business"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "rich",
+    "review_count": 5,
+    "positive_snippet_count": 3,
+    "negative_snippet_count": 2,
+    "positive_theme_count": 4,
+    "negative_theme_count": 1
+  },
+  "aspect_scores": {
+    "cleanliness": 0.6691080903013548,
+    "service": 0.750717805000022,
+    "location": 0.9994890987873076,
+    "value_for_money": 0.5,
+    "staff_behavior": 0.9994081556797028
+  },
+  "recommendation_features": {
+    "popularity_score": 0.7067249918231804,
+    "rating_score": 4.0,
+    "sentiment_score": 0.6023346180096268
+  },
+  "review_evidence": {
+    "positive_snippets": [
+      "Very nice budgetary hotel in Gurugram location. Service of staff is very good and polite in behavior. Room cleanliness also maintained.\nNeeds to improve in room facilities.\nOverall very good experience of stay.",
+      "Stay wise this is good. Rooms are not excellent but it is manageable. Prahlad was very supportive plus the service is too good. He helped with all the queries very politely and even he was very supportive. Because of his behaviour and support - I extended my stay from 4 to 6 days.\n\nFood wise - breakfast is okay\nDinner and Lunch - Have not tried\n\nHouse keeping - is good\nCleanliness - very good\nHygiene - very good\nSafety - perfect\n\nLocation wise - perfect one! You can have street food near by.\n\nWould recommend for the stay for sure!!",
+      "Staying at this hotel truly left a lasting impression\u2014its impeccable cleanliness and inviting ambiance set the stage for a perfect getaway. From the moment I stepped through the door, the reception area greeted me with polished surfaces, soft lighting, and a serene layout, exuding warmth and professionalism. Every corner felt meticulously maintained, showcasing a dedication to hygiene and guest well\u2011being.\n\nIn the guest rooms, everything felt brand new. Crisp linens adorned the queen bed, with plush pillows resting atop neatly arranged blankets. The floors, whether carpeted or tiled, appeared spotless\u2014no dust or debris in sight. High\u2011touch areas like door handles, switches, and the bathroom fixtures were thoroughly cleaned, clearly part of the hotel's attention to detail. Even the minibar and work desk were well\u2011organized, making for a clutter-free environment that was both functional and calming.\n\nThe bathroom continued this trend of excellence. Bright white tiles and chrome fittings gleamed under ambient lighting. Towels were impeccably folded and placed just right. The shower had excellent water pressure, and the complimentary toiletries\u2014shampoo, conditioner, and soap\u2014displayed a thoughtful aesthetic on a clean tray, adding to the feeling of luxury.\n\nOne of the most delightful aspects was the tranquil ambiance. Soft, warm lighting throughout both rooms and common areas created a relaxing atmosphere. Muted, neutral color palettes enhanced a sense of comfort, allowing you to unwind naturally. Whether unwinding in a reading nook or settling into an armchair in the lounge, the environment felt like a sanctuary after a long day.\n\nHousekeeping staff were both courteous and thorough. They cleaned quietly and efficiently, with minimal disturbance, always greeting in a friendly way"
+    ],
+    "negative_snippets": [
+      "The rooms were good but the air quality was not good. When we came back from outside, our bedsheets had not been changed and the towels were also dirty.And there was no exhaust fan in the washroom due to which I was feeling suffocated and I have stayed in Clarks Inn hotels many times before this but for the first time my experience is being spoilt\ud83d\udc4e",
+      "As a certified shauryalunpaglu enthusiast, i hereby declare that yes there are rats at the reception, water overflowing from the taps, no food given at time."
+    ]
+  },
+  "review_summary": "Based on 5 reviews.",
+  "positive_themes": {
+    "clean_rooms": 3,
+    "friendly_staff": 3,
+    "good_location": 2,
+    "good_food": 2
+  },
+  "negative_themes": {
+    "dirty_rooms": 1
+  }
+}

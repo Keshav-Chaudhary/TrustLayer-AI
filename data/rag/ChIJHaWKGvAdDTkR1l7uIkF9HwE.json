@@ -1,0 +1,48 @@
+{
+  "hotel_id": "ChIJHaWKGvAdDTkR1l7uIkF9HwE",
+  "hotel_name": "Hotel Airport City",
+  "area": "Mahipalpur",
+  "budget_category": "Mid-Range",
+  "rating": 4.2,
+  "trust_score": 0.8268477666320131,
+  "travel_purpose_tags": [
+    "Leisure",
+    "Business"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "moderate",
+    "review_count": 5,
+    "positive_snippet_count": 3,
+    "negative_snippet_count": 0,
+    "positive_theme_count": 4,
+    "negative_theme_count": 0
+  },
+  "aspect_scores": {
+    "cleanliness": 0.9998261630535126,
+    "service": 0.9995380838712056,
+    "location": 0.9998714923858644,
+    "value_for_money": 0.5038086869753896,
+    "staff_behavior": 0.9993713796138765
+  },
+  "recommendation_features": {
+    "popularity_score": 0.7507062280528919,
+    "rating_score": 4.2,
+    "sentiment_score": 0.8012463251128793
+  },
+  "review_evidence": {
+    "positive_snippets": [
+      "This hotel is a fantastic choice for anyone seeking luxury, convenience, and impeccable service near the airport.\n\n\u200b\ud83c\udf7d\ufe0f The Culinary Delight (Good Food Serving in Room)\n\u200bThe highlight of our stay was the absolutely delicious food and the excellent in-room dining service.\n\u200bGourmet In-Room Dining: The menu offered a wonderful variety of cuisines, and every dish we ordered for room service was delivered promptly, piping hot, and beautifully presented. It was a genuine pleasure to enjoy restaurant-quality meals in the comfort of our own room.\n\u200bQuality and Taste: The ingredients were fresh, and the flavors were outstanding. They truly went above and beyond to cater to our preferences, making every meal a memorable part of our trip.",
+      "We had a very pleasant stay at the hotel. The rooms were clean, spacious, and well maintained. The staff was polite, helpful, and always ready to assist. Food quality was good and service was timely. Overall ambience of the hotel was calm and comfortable, which made our stay relaxing.\nSpecial thanks Mr  sourabh  for the warm hospitality. We would definitely recommend this hotel to others and would love to visit again.",
+      "The rooms were clean, comfortable, and better maintained compared to many nearby properties. The interiors felt modern, tidy, and well-organised. The bed was comfortable, and overall room quality was impressive for the price.\n\nCleanliness:\nThis was one of the biggest positives. The room, washroom, and linens were all neat and fresh. The hotel clearly pays attention to cleanliness, which made the stay comfortable"
+    ],
+    "negative_snippets": []
+  },
+  "review_summary": "Based on 5 reviews.",
+  "positive_themes": {
+    "good_location": 2,
+    "good_food": 4,
+    "clean_rooms": 2,
+    "friendly_staff": 2
+  },
+  "negative_themes": {}
+}

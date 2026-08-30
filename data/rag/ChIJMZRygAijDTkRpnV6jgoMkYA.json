@@ -1,0 +1,46 @@
+{
+  "hotel_id": "ChIJMZRygAijDTkRpnV6jgoMkYA",
+  "hotel_name": "Golden City Hotel & Restaurant",
+  "area": "Rohtak - Sonipat Rd",
+  "budget_category": "Mid-Range",
+  "rating": 4.5,
+  "trust_score": 0.8287221167015192,
+  "travel_purpose_tags": [
+    "Business"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "sparse",
+    "review_count": 5,
+    "positive_snippet_count": 3,
+    "negative_snippet_count": 1,
+    "positive_theme_count": 1,
+    "negative_theme_count": 0
+  },
+  "aspect_scores": {
+    "cleanliness": 0.5,
+    "service": 0.9995680451393129,
+    "location": 0.5,
+    "value_for_money": 0.5,
+    "staff_behavior": 0.9998564720153807
+  },
+  "recommendation_features": {
+    "popularity_score": 0.2834140261914359,
+    "rating_score": 4.5,
+    "sentiment_score": 0.9936493784189224
+  },
+  "review_evidence": {
+    "positive_snippets": [
+      "Couple comfortable hotel nice service beutiful room",
+      "Best hotel and cool staff",
+      "This is my hotel\nFree            wi fi\nHot and cool water\nSo all guest"
+    ],
+    "negative_snippets": [
+      "Not good"
+    ]
+  },
+  "review_summary": "Based on 5 reviews.",
+  "positive_themes": {
+    "friendly_staff": 1
+  },
+  "negative_themes": {}
+}

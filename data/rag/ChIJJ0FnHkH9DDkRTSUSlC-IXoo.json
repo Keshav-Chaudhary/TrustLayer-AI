@@ -1,0 +1,51 @@
+{
+  "hotel_id": "ChIJJ0FnHkH9DDkRTSUSlC-IXoo",
+  "hotel_name": "Hotel Golden Oasis Delhi",
+  "area": "near AXIS bank ATM",
+  "budget_category": "Mid-Range",
+  "rating": 4.2,
+  "trust_score": 0.7686375371272433,
+  "travel_purpose_tags": [
+    "Budget"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "moderate",
+    "review_count": 5,
+    "positive_snippet_count": 3,
+    "negative_snippet_count": 1,
+    "positive_theme_count": 4,
+    "negative_theme_count": 1
+  },
+  "aspect_scores": {
+    "cleanliness": 0.7601792123168707,
+    "service": 0.0823964178562164,
+    "location": 0.6940423349539439,
+    "value_for_money": 0.5,
+    "staff_behavior": 0.6802861566344897
+  },
+  "recommendation_features": {
+    "popularity_score": 0.7419625761313076,
+    "rating_score": 4.2,
+    "sentiment_score": 0.6246226534247399
+  },
+  "review_evidence": {
+    "positive_snippets": [
+      "Wonderful Stay at Hotel Golden Oasis (10\u201317 December)\n\nI had a very pleasant stay at Hotel Golden Oasis from 10th to 17th December. The overall experience was excellent and truly comfortable.\n\nThe rooms were clean, spacious, and well-maintained, with all essential amenities provided. Housekeeping did a great job every day, ensuring a fresh and welcoming environment. The staff were extremely courteous, professional, and always ready to help with a smile, which made the stay even more enjoyable.\n\nThe hotel\u2019s location is convenient and peaceful, making it ideal for both relaxation and work. The food was tasty and well-prepared, offering good variety and quality throughout the stay.\n\nOverall, Hotel Golden Oasis exceeded my expectations. I would highly recommend it to anyone looking for a comfortable, clean, and friendly place to stay, and I would definitely choose to stay here again in the future.",
+      "I had a pleasant stay at Hotel Golden Oasis. The rooms were clean, well-maintained, and equipped with all the necessary amenities, which made the stay comfortable. The overall environment was nice and relaxing. Would definitely consider staying here again and recommend it to others.",
+      "Mattress and towel provided for 3rd guest was not cleaned well.\n\nNo sope provided.\n\nOtherwise rest of service was well.\n\nThey do attend to your queries.\n\nLocation is accurately inside gully from axis bank ATM.\n\nOne big red flag is on check out they force you to provide google review on spot."
+    ],
+    "negative_snippets": [
+      "The photos must be from when the hotel was built because I went there today and it certainly does NOT look like the photos. The rooms stink of mould/mildew and they are very dirty, the ENTIRE room is. Especially the headboards of the beds, I swap 2 rooms and it was the same. I am from Australia and our lowest prices hotels are 10 times cleaner than this. The hotel staff were quite friendly and helpful to allow me to look however."
+    ]
+  },
+  "review_summary": "Based on 5 reviews.",
+  "positive_themes": {
+    "clean_rooms": 5,
+    "friendly_staff": 3,
+    "good_location": 3,
+    "good_food": 1
+  },
+  "negative_themes": {
+    "dirty_rooms": 1
+  }
+}

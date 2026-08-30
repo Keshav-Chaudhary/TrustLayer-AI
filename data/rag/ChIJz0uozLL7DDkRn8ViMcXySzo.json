@@ -1,0 +1,54 @@
+{
+  "hotel_id": "ChIJz0uozLL7DDkRn8ViMcXySzo",
+  "hotel_name": "Fabhotel The Royal",
+  "area": "New Delhi",
+  "budget_category": "Mid-Range",
+  "rating": 4.0,
+  "trust_score": 0.6050622579384376,
+  "travel_purpose_tags": [
+    "Leisure"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "moderate",
+    "review_count": 5,
+    "positive_snippet_count": 2,
+    "negative_snippet_count": 3,
+    "positive_theme_count": 5,
+    "negative_theme_count": 2
+  },
+  "aspect_scores": {
+    "cleanliness": 0.2499045699441921,
+    "service": 0.3330996251897886,
+    "location": 0.9963810443878174,
+    "value_for_money": 0.5024521597661078,
+    "staff_behavior": 0.4986094082778436
+  },
+  "recommendation_features": {
+    "popularity_score": 0.4349927651275838,
+    "rating_score": 4.0,
+    "sentiment_score": 0.3998960232420359
+  },
+  "review_evidence": {
+    "positive_snippets": [
+      "Stayed at this hotel in August on a official trip. Here're my impressions about the place:\n1. Room: Pretty decent room. Room size was adequate with nicely done room and decor. The table could be better (its too narrow) and there was no chair in the room, instead there were some stools with wheels. Not workable. The Tata Sky connection had to be refreshed every time it was switched off, so it was a bit of a hassle. The washroom was nice and the pressure in the shower was one of the best I have found. So all in all, it was a decent room, with some minor irritants\n2. Service: The staff was very courteous and very very polite. That really took the experience to another level.\n3. Amenities: there is a fully functional restaurant but I never tried it. The breakfast buffet menu seemed limited but i did not try the food. This despite being a very large property, there is no fitness centre, which is a big negative. Wi-fi is pretty good.\n4. Location: right on the highway, the location was pretty okay.\n5. Overall: The property is pretty nicely done and its a grand place. Overall feel is quite nice. Except for the small things, this is a pretty decent option for staying in Navsari.",
+      "The Fab Royal Hotel  highlight specific positive aspects, often mentioning features like comfortable beds, cleanliness, convenient location, polite/helpful staff, and good food or amenities, such as a rooftop pool. Reviews also praise the value for money, excellent hospitality, and overall enjoyable experience"
+    ],
+    "negative_snippets": [
+      "Service is non existent\nSimple Food orders  (bread omelette)take inordinate time and quite often given to the wrong room\nTowels are not changed unless asked for\nIntercom does not work\nRooms were clean and the bathroom was clean\nNo menu of food available and no price list",
+      "This is not at all a hotel. This is a motel. The rooms are very conjusted. The manager is very rude. And the same time his behavior is very disrespectful for the ladies. He often knocked on the door meaninglessly when nobody is around. This is a serious safety issues. They will serves food of their own choice and that was very bad in teast and unhealthy also. They will not clean the room or not even change the bed sheet.They did not provides any bathroom kit or proper dinking water. All staffes behavior is disgusting and very bad. No senior person was their, some young boys runs the hotel and they behaves very badly, rudely with the customers. If you have any option, don't select this place to stay. This place is not at all safe for ladies.",
+      "Non-coperative staff,\nNo room cleaning service\nNot providing drinking water bottle,\nNot safe for women,\nStaff is rude with ladies\nWater issue\nDirty bedsheets, torn towels\nAlso there is electric current in board we told the staff but they reply that is bcoz of rain.we request to change the but they not listen.\nThere is no restaurant in hotel or nearby hotel so if you have tea you have to managed all the food.\nVery disappointed"
+    ]
+  },
+  "review_summary": "Based on 5 reviews.",
+  "positive_themes": {
+    "friendly_staff": 4,
+    "good_location": 3,
+    "good_food": 5,
+    "clean_rooms": 4,
+    "great_value": 1
+  },
+  "negative_themes": {
+    "rude_staff": 2,
+    "dirty_rooms": 1
+  }
+}

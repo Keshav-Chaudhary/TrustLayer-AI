@@ -1,0 +1,50 @@
+{
+  "hotel_id": "ChIJj2CkiW7jDDkRtk7vqwXeRTw",
+  "hotel_name": "The Grand Jpm",
+  "area": "Kalkaji",
+  "budget_category": "Mid-Range",
+  "rating": 4.3,
+  "trust_score": 0.7758148258904058,
+  "travel_purpose_tags": [
+    "Leisure",
+    "Business"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "moderate",
+    "review_count": 5,
+    "positive_snippet_count": 3,
+    "negative_snippet_count": 1,
+    "positive_theme_count": 4,
+    "negative_theme_count": 0
+  },
+  "aspect_scores": {
+    "cleanliness": 0.0031600224319845,
+    "service": 0.9874249994754792,
+    "location": 0.9990331828594208,
+    "value_for_money": 0.9982286095619202,
+    "staff_behavior": 0.999316116174062
+  },
+  "recommendation_features": {
+    "popularity_score": 0.4573181275341834,
+    "rating_score": 4.3,
+    "sentiment_score": 0.7952152774203569
+  },
+  "review_evidence": {
+    "positive_snippets": [
+      "The Grand JPM Hotel was one of the best experience I've had. The staff especially Khushi, Manish, and Amarjeet were very polite, helpful and provided excellent service throughout my stay. The food was really good, and overall, it was a wonderful and comfortable experience.\n\nHighly recommended.",
+      "Location is best as close to the metro station.\n\nFriendly and supportive staff. Everyone was very helpful and coordinated very well. Highly recommended for visitors in the area",
+      "Located in New Delhi, within 5.4 km of Tughlaqabad Fort and 8 km of Humayun's Tomb. With free WiFi, this 3-star property offers room service and a 24-"
+    ],
+    "negative_snippets": [
+      "The hotel is good but one problem was the bed sheet was not clean and hair of other persons was scattered around it."
+    ]
+  },
+  "review_summary": "Based on 5 reviews.",
+  "positive_themes": {
+    "friendly_staff": 3,
+    "good_food": 2,
+    "good_location": 1,
+    "clean_rooms": 1
+  },
+  "negative_themes": {}
+}

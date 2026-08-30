@@ -1,0 +1,48 @@
+{
+  "hotel_id": "ChIJl0oXUXPjDDkRr7CX9nQK4Hk",
+  "hotel_name": "The Nuvon Residency",
+  "area": "Chittaranjan Park",
+  "budget_category": "Mid-Range",
+  "rating": 5.0,
+  "trust_score": 0.93230118954053,
+  "travel_purpose_tags": [
+    "Leisure",
+    "Family"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "moderate",
+    "review_count": 5,
+    "positive_snippet_count": 3,
+    "negative_snippet_count": 0,
+    "positive_theme_count": 4,
+    "negative_theme_count": 0
+  },
+  "aspect_scores": {
+    "cleanliness": 0.9997843503952026,
+    "service": 0.5,
+    "location": 0.9997791945934296,
+    "value_for_money": 0.9998197257518768,
+    "staff_behavior": 0.9997994601726532
+  },
+  "recommendation_features": {
+    "popularity_score": 0.4494668257487076,
+    "rating_score": 5.0,
+    "sentiment_score": 0.999269986152649
+  },
+  "review_evidence": {
+    "positive_snippets": [
+      "Nuvon Residency was my stay for four days, and overall it was a good experience. The team was really supportive and courteous throughout our stay.\n\nThe rooms were clean, and since it\u2019s a relatively new property, everything felt fresh. However, we did have to remind the staff daily for room cleaning, which could be improved.\n\nWe had a bulk booking, and the coordination was handled well. Although there is no in-house restaurant yet, they serve a tasty breakfast in the common area, which was well managed and satisfying.\n\nI would definitely recommend this place for anyone travelling to Delhi and looking for an approachable, clean, and cost-effective stay. Overall, a good and comfortable option.",
+      "I had a wonderful stay at nivon residency. The hotel was very clean and nice staff . Everything is fresh and comfortable.overall it's a perfect choice for anyone looking pleasant, comfortable, budget  friendly stay. Highly recommend.",
+      "Small rooms but fairly well- maintained. Strong Wi-Fi network with a minimal breakfast offered as part of the package."
+    ],
+    "negative_snippets": []
+  },
+  "review_summary": "Based on 5 reviews.",
+  "positive_themes": {
+    "clean_rooms": 3,
+    "friendly_staff": 4,
+    "good_food": 2,
+    "good_location": 2
+  },
+  "negative_themes": {}
+}

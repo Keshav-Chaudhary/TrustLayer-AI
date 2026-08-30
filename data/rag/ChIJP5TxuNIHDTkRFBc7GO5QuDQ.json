@@ -1,0 +1,50 @@
+{
+  "hotel_id": "ChIJP5TxuNIHDTkRFBc7GO5QuDQ",
+  "hotel_name": "Collection O 76735 7 Sun Motels And Resorts",
+  "area": "Rohini",
+  "budget_category": "Luxury",
+  "rating": 4.0,
+  "trust_score": 0.5622095872072078,
+  "travel_purpose_tags": [
+    "Budget"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "moderate",
+    "review_count": 5,
+    "positive_snippet_count": 1,
+    "negative_snippet_count": 3,
+    "positive_theme_count": 3,
+    "negative_theme_count": 1
+  },
+  "aspect_scores": {
+    "cleanliness": 0.5002100916753989,
+    "service": 0.2502943413273897,
+    "location": 0.0006717225187458,
+    "value_for_money": 0.0005353395245037,
+    "staff_behavior": 0.3336880227240423
+  },
+  "recommendation_features": {
+    "popularity_score": 0.532807470194446,
+    "rating_score": 4.0,
+    "sentiment_score": 0.2003698175656609
+  },
+  "review_evidence": {
+    "positive_snippets": [
+      "This hotel is truly outstanding! The service is exceptional, the food quality is top-notch, and the overall ambiance is simply wonderful. Highly recommended for anyone looking for a perfect place to stay!\"\n\nmazing experience at this hotel! The rooms are clean and comfortable, the staff is incredibly attentive, and the food is delicious. The atmosphere is peaceful and welcoming, making it a perfect getaway spot. Highly recommend for anyone seeking excellent service and a relaxing stay"
+    ],
+    "negative_snippets": [
+      "\u201cThe overall experience was disappointing. The service standards were not maintained, the food quality was below expectations, and the room conditions did not meet the required level. The staff appeared more focused on payment rather than guest satisfaction. I do not recommend this property based on my experience.\u201d\n\n\u201cMy overall function did not go smoothly, and my guests were not satisfied. At the time of booking, several commitments were made, but after the booking was confirmed, most of those promises were not fulfilled. This caused inconvenience and disappointment. I cannot recommend this venue based on my experience.\u201d\n\nThank you",
+      "Worst place ever. We selected this place for my father retirement party, but honestly to say this has become the worst choice for us.\nThe food and service facility was so poor, they self opened dinner for guest, taste was bad, no sufficient water bottle served, no tissue paper provided. AC of the hall was not working, they intentionally switchoff AC intermittently. And the owner of property is a disgusting person, he dnt know how to talk to customer and even was not ready to accept his mistake when informed after the event. He literally quarrelled when fault was explained to him. Dnt go for this property for any event. VERY VERY bad place and people",
+      "The worst place ever seen in my life. I'm sharing my personal experience I had when I attended one marriage here about ten days back. I stayed there for three days and found that it was the greatest mistake of the host who got booked this resort for the marriage of his daughter. There was no cleanliness in and around the resort. The water logging within and around the resort was found.\nIn washrooms handwash containers are there but no liquid. Water logging in the wash basins and on floors, no house keeping staff available for cleaning. Lots of flies in dining areas and mosquitoes at night. The dirtiest place to have any function.\nIn rooms, TVs and intercoms not working, just show pieces. Rooms were cleaned on request only throughout our stay. No Managerial staff was there to whom we should complain. In the name of security we found no security guard. All the rooms were being opened with master key only. No room keys were made available.\nThe most disappointing is that we had given one Insulin injection pen to the staff for keeping in the fridge. The next day when we asked for, the pen was not traceable and the diabetic patient was not given insulin for two days.\nIn view of the above I strongly express my dissatisfaction and suggest not to think of any function here till all things are put to order."
+    ]
+  },
+  "review_summary": "Based on 5 reviews.",
+  "positive_themes": {
+    "clean_rooms": 3,
+    "friendly_staff": 3,
+    "good_food": 4
+  },
+  "negative_themes": {
+    "dirty_rooms": 1
+  }
+}

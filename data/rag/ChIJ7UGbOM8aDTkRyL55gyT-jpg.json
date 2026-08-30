@@ -1,0 +1,52 @@
+{
+  "hotel_id": "ChIJ7UGbOM8aDTkRyL55gyT-jpg",
+  "hotel_name": "Home Stay Dwarka & Hotel Tanish Regency",
+  "area": "Dwarka",
+  "budget_category": "Budget",
+  "rating": 3.6,
+  "trust_score": 0.4829329218031993,
+  "travel_purpose_tags": [
+    "Budget"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "moderate",
+    "review_count": 5,
+    "positive_snippet_count": 1,
+    "negative_snippet_count": 3,
+    "positive_theme_count": 5,
+    "negative_theme_count": 1
+  },
+  "aspect_scores": {
+    "cleanliness": 0.2041825260035693,
+    "service": 0.0002484440919943,
+    "location": 0.000524915929418,
+    "value_for_money": 0.014001440256834,
+    "staff_behavior": 0.0063232597894966
+  },
+  "recommendation_features": {
+    "popularity_score": 0.4043640369818747,
+    "rating_score": 3.6,
+    "sentiment_score": 0.2041825260035693
+  },
+  "review_evidence": {
+    "positive_snippets": [
+      "Nice room, clean, safe for single woman traveler, and really nice food ( they serve delicious chinese food and india food). Thank you homestay dwarka. \ud83d\ude4f"
+    ],
+    "negative_snippets": [
+      "Rooms are in bad condition, have smell in rooms if you turn off room for 10 minutes. Some rooms have no charger point near bed.",
+      "Worst experience. Non availability of lift. Lack of amenities.if u choose suppose Room 203, exhaust fan not working. Bathroom door nob is missing, due to which mosquitos are running freely in and out.Now if u choose room 101, there is lack of charging points. Service is not of the quality. Tea is brought in uncovered cup instead of kettle. Wifi gets disconnected from 10 o'clock of night, don't know if it is intentional or accidental. U ask for tea at 9 o'clock u will get it at 1030.",
+      "They have limited rooms. Also their is not food, one kitchen is there,where you can get cooked few  cooking something like breakfast of instant foods. The hotel staff is nice but the quilts and bedsheets were not clean. They must improve it."
+    ]
+  },
+  "review_summary": "Based on 5 reviews.",
+  "positive_themes": {
+    "clean_rooms": 3,
+    "good_food": 2,
+    "good_location": 1,
+    "friendly_staff": 1,
+    "great_value": 1
+  },
+  "negative_themes": {
+    "dirty_rooms": 1
+  }
+}

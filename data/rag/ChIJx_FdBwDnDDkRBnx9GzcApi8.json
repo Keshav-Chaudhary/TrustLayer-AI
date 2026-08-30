@@ -1,0 +1,53 @@
+{
+  "hotel_id": "ChIJx_FdBwDnDDkRBnx9GzcApi8",
+  "hotel_name": "Hotel Banquesta",
+  "area": "Sector 126",
+  "budget_category": "Mid-Range",
+  "rating": 4.5,
+  "trust_score": 0.697883658760734,
+  "travel_purpose_tags": [
+    "Leisure"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "rich",
+    "review_count": 5,
+    "positive_snippet_count": 3,
+    "negative_snippet_count": 2,
+    "positive_theme_count": 3,
+    "negative_theme_count": 3
+  },
+  "aspect_scores": {
+    "cleanliness": 0.3335429661383386,
+    "service": 0.3285180205784854,
+    "location": 0.7710645198822021,
+    "value_for_money": 0.5,
+    "staff_behavior": 0.4627894540375564
+  },
+  "recommendation_features": {
+    "popularity_score": 0.4645584392255316,
+    "rating_score": 4.5,
+    "sentiment_score": 0.4627894540375564
+  },
+  "review_evidence": {
+    "positive_snippets": [
+      "Absolutely10/10 experience! The staff were incredibly welcoming and helpful throughout our stay. The room was spotless, stylish, and very comfortable. The location was perfect for exploring the city. Truly a home away from home\u2014we will definitely be back! Special thanks to Manish Pandey perfect host",
+      "I recently stayed at banquesta hotel in Noida sector 126 and was impressed by the warm hospitality and elegant d\u00e9cor. The staff were attentive and welcoming specially receptionist girl pooja, making check-in smooth and pleasant. The room was spacious and well-maintained, offering a comfortable retreat after a long day. However, the room service was slower than expected, which slightly affected the overall experience. Despite this, the hotel\u2019s charm and excellent location make it a solid choice for travelers seeking comfort.",
+      "The rooms are good and spacious. But no windows or balcony in few rooms. If there is a balcony then the room is small. Very small geysers. Pathetic room service spl mention \"sanjeev\"- very arrogant staff. But special mention for rahul and pooja (I think) who went out of the way to make my stay comfortable. In old reviews people have rightly said that there are severe management issues with the hotel. Mr. Suman Barik the manager was really good in ensuring the stay was comfortable. The location is right next to HCLTECH gate no 3."
+    ],
+    "negative_snippets": [
+      "Very disappointing experience at Hotel Banquesta Noida.\n\nThe washroom was extremely small \u2014 almost the size of a train washroom \u2014 leaving hardly any space to take a proper shower. The room pictures online are misleading and do not reflect the actual size of the room or washroom.\n\nWhen I requested a toilet paper roll, I was told it was not available, which is a very basic necessity for any hotel.\n\nRefill water was provided only after multiple follow-ups \u2014 I had to call nearly 10 times. From around 6 AM, there was loud music playing in the corridor and someone singing loudly, which made it impossible to sleep.\n\nI was offered another room due to the washroom issue, but that room had not been cleaned after the previous guest. The staff also refused to clean it at night.\n\nOverall, the staff was unprofessional and lacked basic hospitality and there is nothing like management, no one who you can actually talk to who understands your problem and willing to do something.",
+      "Very disappointing stay. Basic amenities like toilet paper were unavailable. Refill water was provided only after multiple follow-ups. Loud corridor noise early in the morning made it impossible to rest. The alternate room offered was unclean and staff refused to clean it at night. Poor service and misleading room images.\nThe washroom was extremely small and nothing like the photos shown online. Would not recommend. The elevator door doesn\u2019t work coz of dirt accumulation in between."
+    ]
+  },
+  "review_summary": "Based on 5 reviews.",
+  "positive_themes": {
+    "clean_rooms": 3,
+    "friendly_staff": 5,
+    "good_location": 4
+  },
+  "negative_themes": {
+    "rude_staff": 1,
+    "noise": 2,
+    "dirty_rooms": 1
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "hotel_id": "ChIJixO9pSwfDTkRnBicOK6DA54",
+  "hotel_name": "Ahuja Residency Park Lane",
+  "area": "Sector 26A",
+  "budget_category": "Mid-Range",
+  "rating": 4.5,
+  "trust_score": 0.7623973673833263,
+  "travel_purpose_tags": [
+    "Leisure",
+    "Business"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "moderate",
+    "review_count": 5,
+    "positive_snippet_count": 3,
+    "negative_snippet_count": 1,
+    "positive_theme_count": 4,
+    "negative_theme_count": 0
+  },
+  "aspect_scores": {
+    "cleanliness": 0.9998675584793092,
+    "service": 0.9998675584793092,
+    "location": 0.9997745156288148,
+    "value_for_money": 0.5,
+    "staff_behavior": 0.99983682235082
+  },
+  "recommendation_features": {
+    "popularity_score": 0.5609467402082439,
+    "rating_score": 4.5,
+    "sentiment_score": 0.6007408362347633
+  },
+  "review_evidence": {
+    "positive_snippets": [
+      "Stayed at Ahuja Residency Park Lane and it was perfection! The property is modern, beautifully built, and situated in a peaceful, posh neighbourhood.\n\nA huge shoutout to the staff, especially Ajeet and Ajay, who were incredibly helpful and displayed genuine warmth. The hospitality here is next-level.\n\nThe food was the highlight, literally everything was delicious. From the snacks and refreshing cold coffee to the veg and non-veg main courses, every meal was a 10/10. Highly recommended for a flawless stay!",
+      "I spent a month at Ahuja residency Parklane - was given a choice of staying at a western five star hotel and rejected it in favor of Ahuja residency for two reasons - its residential location and its proximity to my work location. I would go back for the kindness of the staff.\nWhile the facility and rooms are older and not the sort you get in five star hotels, it makes up with a quiet sense of hospitality, a manager who sets the tone for the place and staff who are wonderful.  Rashid (manager) - quiet, respectful, warm and a totally can-do attitude - he was my rock while there. He was like a concerned family member looking out for anything I wanted or needed and really set the tone for the entire establishment. Thank you Rashid!  His associates (Sagar, Himanshu and two others) were equally helpful and attentive.  Staff were terrific - warm , attentive, friendly, helpful - be it Ajay or Ajit who waited on all of us during breakfast and dinner and Rawatji (the chef) and his associates (Mr. Suresh and Mr Ashok) took care of my dietary needs. Rahul who made sure my room was totally spick and span every day and Mr. Girijay (watchman) who made sure he helped me because of my sore shoulder - everyone was a delight to be.  I would go back and stay here again on my next visit.  Thank you Rashid and all the team!",
+      "Cleaner and better maintained than most parts of Delhi. Decent rooms, acceptable services. Ajay and the chef grind hard, from 6 AM to 1 AM, serious work ethic. Biggest downside is connectivity. Internet is weak no matter which SIM you use. The WiFi is worse. Constant logins, unstable, annoying to depend on."
+    ],
+    "negative_snippets": [
+      "Spacious room and decent facilities. Food is good also rest depends on your taste. Poor network connectivity and signal. On top of that the wifi given not reliable and irritating because you have to login every time when you go out and come again."
+    ]
+  },
+  "review_summary": "Based on 5 reviews.",
+  "positive_themes": {
+    "friendly_staff": 3,
+    "good_food": 4,
+    "good_location": 1,
+    "clean_rooms": 2
+  },
+  "negative_themes": {}
+}

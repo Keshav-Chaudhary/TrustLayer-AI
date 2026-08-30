@@ -1,0 +1,48 @@
+{
+  "hotel_id": "ChIJecUTHEUFDTkR29XTbwIDD8s",
+  "hotel_name": "Oyo 25416 Hotel Dwarka Inn",
+  "area": "pillar no 791",
+  "budget_category": "Budget",
+  "rating": 3.2,
+  "trust_score": 0.4275212634049595,
+  "travel_purpose_tags": [
+    "Budget"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "moderate",
+    "review_count": 5,
+    "positive_snippet_count": 0,
+    "negative_snippet_count": 3,
+    "positive_theme_count": 3,
+    "negative_theme_count": 1
+  },
+  "aspect_scores": {
+    "cleanliness": 0.0030851583142065,
+    "service": 0.0034914020216092,
+    "location": 0.0011414450127631,
+    "value_for_money": 0.0192971900105476,
+    "staff_behavior": 0.0011414450127631
+  },
+  "recommendation_features": {
+    "popularity_score": 0.3941521852236946,
+    "rating_score": 3.2,
+    "sentiment_score": 0.2039760962652507
+  },
+  "review_evidence": {
+    "positive_snippets": [],
+    "negative_snippets": [
+      "Very very very  bad and very dirty hotel,cleanliness are zero i have very vast experience .Isse achi to dhramshala hoti he. Please avoid this hotel",
+      "I am very trouble your serviceVery wrost service uneducated person hire oyo I booked on 4 dec and oyo disgusting staff had cancelled my booking and oyo customer care said I will not give u refund I will share my booking is remove hotel wla I HAD ALREADY PAID and oyo staff said oyo vale vaps ni hota, address is :- kaustubh residency ,vipin garden ext 55 fouta road new cutting gali no-36\u00a0 near :- Baba harish das chowk.....aapne kisko pay kiya h hume ni pata language\u00a0 is very rouad I need my refund against this hotel I'd 75131, I have screen shot and payment and transition I'd,,,, I have screen shot of 4th of December I am very disappointed... Me continue boking and excenting customer but hotel wala very bad behavior plze my refund provide my amount is :- 548 rs . .. Me attached screen shot of payment and transition I'd.....\n\nRegard\n\nPrateek aggarwal",
+      "problem is i booked one room for 2 guest and they provided a single bed for 2 persons.....but in the photos it looks like a king size bed nice work there"
+    ]
+  },
+  "review_summary": "Based on 5 reviews.",
+  "positive_themes": {
+    "clean_rooms": 1,
+    "friendly_staff": 1,
+    "good_location": 1
+  },
+  "negative_themes": {
+    "dirty_rooms": 2
+  }
+}

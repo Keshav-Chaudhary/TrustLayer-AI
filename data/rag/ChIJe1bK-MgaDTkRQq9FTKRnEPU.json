@@ -1,0 +1,49 @@
+{
+  "hotel_id": "ChIJe1bK-MgaDTkRQq9FTKRnEPU",
+  "hotel_name": "The Grand Parisian",
+  "area": "New Delhi",
+  "budget_category": "Mid-Range",
+  "rating": 4.2,
+  "trust_score": 0.8123205201583225,
+  "travel_purpose_tags": [
+    "Business"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "moderate",
+    "review_count": 5,
+    "positive_snippet_count": 3,
+    "negative_snippet_count": 1,
+    "positive_theme_count": 2,
+    "negative_theme_count": 1
+  },
+  "aspect_scores": {
+    "cleanliness": 0.5,
+    "service": 0.9998235553503036,
+    "location": 0.5,
+    "value_for_money": 0.5,
+    "staff_behavior": 0.9998707175254822
+  },
+  "recommendation_features": {
+    "popularity_score": 0.6843179489525855,
+    "rating_score": 4.2,
+    "sentiment_score": 0.7999713185010477
+  },
+  "review_evidence": {
+    "positive_snippets": [
+      "We recently hosted the Ring Ceremony and Wedding Ceremony of our daughter at Grand Parisian Hotel, and we are extremely delighted with the experience.\n\nFrom the very beginning, the entire team demonstrated professionalism, warmth, and exceptional attention to detail. The arrangements for both the Ring Ceremony and the Wedding Ceremony were beautifully planned and flawlessly executed. The d\u00e9cor was elegant and graceful, creating a perfect and memorable ambiance for such a special occasion in our family.\n\nThe banquet hall was well-organized, spacious, and tastefully decorated. The food was outstanding in taste and quality, and our guests truly appreciated the wide variety and impeccable service. Every small requirement was handled promptly and courteously by the staff, which allowed us to enjoy the celebrations without any stress.\n\nA heartfelt thank to especially Ms. Manisha Madam, the management and the entire team of Grand Parisian Hotel for making our daughter\u2019s special days so memorable and grand. We highly recommend this venue to anyone looking for perfect arrangements for family celebrations and weddings.\n\nWith gratitude,\nRK Maurya and Family",
+      "I recently had the pleasure of hosting my Sangeet Ceremony at the Grand Parisian Hotel and I am compelled to express my heartfelt gratitude for the truly exceptional experience we had.\n\nThe d\u00e9cor for the event was nothing short of spectacular. The food, too, was exceptional, with a wide variety that left everyone delighted. We received countless compliments about how exquisite everything was, which added an extra sparkle to our celebration.\n\nWhat stood out most, however, was the flawless management of the entire event. There wasn\u2019t a single moment where we, as the couple, had to intervene or worry about logistics. Manisha, the event manager, handled every aspect with remarkable professionalism and grace, allowing us to fully enjoy our special evening, stress-free. The entire staff was courteous, warm, and attentive, ensuring every little detail was taken care of seamlessly.\n\nOur overall experience at the Grand Parisian was nothing short of outstanding.",
+      "We celebrated our son's reception party. Manisha coordinated with us.\nVery nicely planned n well organised.\nHappy n satisfied \ud83d\udc95"
+    ],
+    "negative_snippets": [
+      "\"Terrible experience! Foreign guests were disturbed by loud noises at 1am by some drunk boys outside the room and the receptionist refused to acknowledge the issue. Lack of concern for guest safety and comfort. Would not recommend. 1/5 stars"
+    ]
+  },
+  "review_summary": "Based on 5 reviews.",
+  "positive_themes": {
+    "friendly_staff": 2,
+    "good_food": 3
+  },
+  "negative_themes": {
+    "noise": 1
+  }
+}

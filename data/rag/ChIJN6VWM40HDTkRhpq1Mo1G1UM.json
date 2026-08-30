@@ -1,0 +1,45 @@
+{
+  "hotel_id": "ChIJN6VWM40HDTkRhpq1Mo1G1UM",
+  "hotel_name": "Hotel O The Crown Inn",
+  "area": "Begum Pur",
+  "budget_category": "Budget",
+  "rating": 4.2,
+  "trust_score": 0.6974810565207517,
+  "travel_purpose_tags": [
+    "Budget"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "moderate",
+    "review_count": 5,
+    "positive_snippet_count": 3,
+    "negative_snippet_count": 0,
+    "positive_theme_count": 2,
+    "negative_theme_count": 0
+  },
+  "aspect_scores": {
+    "cleanliness": 0.5,
+    "service": 0.9996861219406128,
+    "location": 0.5,
+    "value_for_money": 0.5,
+    "staff_behavior": 0.5646283999085426
+  },
+  "recommendation_features": {
+    "popularity_score": 0.2456693548613046,
+    "rating_score": 4.2,
+    "sentiment_score": 0.732453603297472
+  },
+  "review_evidence": {
+    "positive_snippets": [
+      "Hygienic rooms staff behaviour is good\nFood is too good nice stay\nI.will give 5 star rating for this\nVisit soon \ud83d\udd1c \ud83d\ude04",
+      "It's a pg mast hai",
+      "Very nice property rooms are hygienic\n\nstaff behaviour and room service are also nice"
+    ],
+    "negative_snippets": []
+  },
+  "review_summary": "Based on 5 reviews.",
+  "positive_themes": {
+    "friendly_staff": 2,
+    "good_food": 1
+  },
+  "negative_themes": {}
+}

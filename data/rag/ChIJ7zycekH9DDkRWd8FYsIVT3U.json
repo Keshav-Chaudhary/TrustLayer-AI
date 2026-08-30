@@ -1,0 +1,51 @@
+{
+  "hotel_id": "ChIJ7zycekH9DDkRWd8FYsIVT3U",
+  "hotel_name": "Hotel Mother Palace",
+  "area": "Paharganj",
+  "budget_category": "Luxury",
+  "rating": 4.2,
+  "trust_score": 0.7243332834717576,
+  "travel_purpose_tags": [
+    "Family"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "rich",
+    "review_count": 5,
+    "positive_snippet_count": 3,
+    "negative_snippet_count": 2,
+    "positive_theme_count": 3,
+    "negative_theme_count": 1
+  },
+  "aspect_scores": {
+    "cleanliness": 0.959587335586548,
+    "service": 0.5,
+    "location": 0.6952400654554367,
+    "value_for_money": 0.6393129080533981,
+    "staff_behavior": 0.9416309297084808
+  },
+  "recommendation_features": {
+    "popularity_score": 0.4869629260003354,
+    "rating_score": 4.2,
+    "sentiment_score": 0.6557562105357647
+  },
+  "review_evidence": {
+    "positive_snippets": [
+      "It\u2019s a bit far off from Paharganji so the vicinity of hotel relatively tranquil at night.\nRoom is clean and ship-shape, hot shower is available, plus there\u2019s a rooftop you can dry up your clothes.",
+      "Good location and basic rooms.\nOwner gave us a good deal to just use the room for the day before our night bus.\nAC is just window mounted and not super powerful but can't complain for the price.\n500r fan or 700r AC day use rate.",
+      "Very comfortable n clean room good experience and staffs are very polite Hotel charges also suitable."
+    ],
+    "negative_snippets": [
+      "If you\u2019ve read about the appearance of some hotels in Delhi then you will be aware of stains and unclean rooms. We booked this hotel as a budget stay, our room was relatively clean but there were some cigarette burns in the bedding and the bathroom was fairly clean but wasn\u2019t appealing (very very run down). We had a fan which was perfect in the cooler weather, the staff we friendly. I wouldn\u2019t rush back but it was ok for a budget stay in Delhi in a hectic but central area. I think the price of the hotel reflects the presentation.",
+      "Fraude alert! We arrived at the hotel after WhatsApp contact and booking and they confirmed multiple times that we have a room. But arriving we don\u2019t have one. We met a man who had the same problem with the hotel. Be careful!"
+    ]
+  },
+  "review_summary": "Based on 5 reviews.",
+  "positive_themes": {
+    "clean_rooms": 3,
+    "good_location": 1,
+    "friendly_staff": 2
+  },
+  "negative_themes": {
+    "dirty_rooms": 1
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "hotel_id": "ChIJo7kBM2ocDTkR2TXLzP1eBUk",
+  "hotel_name": "Holiday Inn New Delhi Int'L Airport, An Ihg Hotel",
+  "area": "Aerocity",
+  "budget_category": "Budget",
+  "rating": 4.7,
+  "trust_score": 0.9712589636862764,
+  "travel_purpose_tags": [
+    "Leisure",
+    "Business"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "moderate",
+    "review_count": 5,
+    "positive_snippet_count": 3,
+    "negative_snippet_count": 0,
+    "positive_theme_count": 4,
+    "negative_theme_count": 1
+  },
+  "aspect_scores": {
+    "cleanliness": 0.7693649530410767,
+    "service": 0.846183160940806,
+    "location": 0.8410832087198893,
+    "value_for_money": 0.5,
+    "staff_behavior": 0.8807752430438995
+  },
+  "recommendation_features": {
+    "popularity_score": 0.9621415952164074,
+    "rating_score": 4.7,
+    "sentiment_score": 0.904595136642456
+  },
+  "review_evidence": {
+    "positive_snippets": [
+      "Great location with amazingly friendly and helpful staff. The hotel is gorgeous and the room is lovely and spacious. The only reason it\u2019s not 5 stars is because unfortunately the room reeked of cigarette smoke, even though I had a non-smoking room. It\u2019s a shame because the amenities, location and staff were top notch",
+      "Extremly friendly service! Roshni is an intelligent and engaged person with a welcoming way to interact and communicate. Congratulation to educate such valuable employees. The rooms are super clean, spacious and with highly comfortable beds and pure natural linen. The late check out is a highly appreciated extra service. The best Hotel I stayed in India and will surely chose it again!",
+      "I love the breakfast. Especially the chef Rajendra is very warm kind heart to ask me if I would like some healthy food when he saw my plate was full of fruits. He wants to design  special granola yogurt parfait for me, I feel warmed by his kindness. The parfait was excellent and fresh. It\u2019s yummy.  This is my fabulous experience staying here."
+    ],
+    "negative_snippets": []
+  },
+  "review_summary": "Based on 5 reviews.",
+  "positive_themes": {
+    "friendly_staff": 4,
+    "good_location": 3,
+    "clean_rooms": 2,
+    "good_food": 2
+  },
+  "negative_themes": {
+    "dirty_rooms": 1
+  }
+}

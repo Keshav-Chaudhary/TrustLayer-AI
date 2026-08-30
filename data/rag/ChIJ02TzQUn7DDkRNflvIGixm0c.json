@@ -1,0 +1,48 @@
+{
+  "hotel_id": "ChIJ02TzQUn7DDkRNflvIGixm0c",
+  "hotel_name": "Collection O Ggs Indraprastha University",
+  "area": "Shahdara",
+  "budget_category": "Mid-Range",
+  "rating": 3.4,
+  "trust_score": 0.4240205062222588,
+  "travel_purpose_tags": [
+    "Budget"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "moderate",
+    "review_count": 5,
+    "positive_snippet_count": 1,
+    "negative_snippet_count": 3,
+    "positive_theme_count": 3,
+    "negative_theme_count": 0
+  },
+  "aspect_scores": {
+    "cleanliness": 0.333608098657957,
+    "service": 0.5,
+    "location": 0.0006123809240913,
+    "value_for_money": 0.000178633374162,
+    "staff_behavior": 0.0007373145490419
+  },
+  "recommendation_features": {
+    "popularity_score": 0.2580997673088359,
+    "rating_score": 3.4,
+    "sentiment_score": 0.2003716839768458
+  },
+  "review_evidence": {
+    "positive_snippets": [
+      "Every thing is good. Smooth check in.\nNeat and clean rooms."
+    ],
+    "negative_snippets": [
+      "Worst hotel ever stayed in my lifetime, not having clean rooms, horrible stay.. Rooms doesn't look similar to the one in google images.. Also attached images for reference..\nVery worst experience is bed which is old and completely worn out.\n\nMy recommendation dont book the hotel here.. waste of money and health too..",
+      "You will strive to get basic amenities, like bathroom mate, Slipper,nearby market. Staff behavior is also not good. Taxi driver can't find out the place.",
+      "\ud83d\ude30\ud83d\ude30We had a booking for 11 sep at their hotel but we were unable to find the location because they were providing wrong location. We had suffered a lot to find the hotel and the property staff and owner was not receiving any call then we have to shift to another hotel after wasting 3 hours to find the hotel location.I will recommend don't make a booking on this hotel."
+    ]
+  },
+  "review_summary": "Based on 5 reviews.",
+  "positive_themes": {
+    "clean_rooms": 2,
+    "friendly_staff": 2,
+    "good_location": 3
+  },
+  "negative_themes": {}
+}

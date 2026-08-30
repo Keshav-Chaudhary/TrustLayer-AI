@@ -1,0 +1,51 @@
+{
+  "hotel_id": "ChIJfxtgQFYaDTkRwu0tU9lGPGE",
+  "hotel_name": "Hotel Moon Taj Near Yashobhoomi",
+  "area": "New Delhi",
+  "budget_category": "Luxury",
+  "rating": 4.7,
+  "trust_score": 0.7148280907075363,
+  "travel_purpose_tags": [
+    "Budget"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "moderate",
+    "review_count": 5,
+    "positive_snippet_count": 2,
+    "negative_snippet_count": 3,
+    "positive_theme_count": 3,
+    "negative_theme_count": 1
+  },
+  "aspect_scores": {
+    "cleanliness": 0.5004335782141424,
+    "service": 0.5007423739880322,
+    "location": 0.0010050815762951,
+    "value_for_money": 0.5,
+    "staff_behavior": 0.9998436868190764
+  },
+  "recommendation_features": {
+    "popularity_score": 0.5124902864187779,
+    "rating_score": 4.7,
+    "sentiment_score": 0.4006117844954132
+  },
+  "review_evidence": {
+    "positive_snippets": [
+      "The staff was extremely polite and welcoming from the very beginning. The room was clean, comfortable, and well maintained. Overall, I didn\u2019t face any issues during my stay, everything was smooth and well managed.\n\nBecause of that, I\u2019m happily rating it 5/5.\nIf you\u2019re reading this while deciding whether to book or not \u2014 don\u2019t overthink it. It\u2019s a good place with good people running it.\n\nThank you for the space\u2026 where I got to spend some really nice moments.",
+      "Good service nice hotel staff Mohit thakur good behaviour thanks to aal stafff I Love this place \ud83d\ude0d\ud83d\ude0d\ud83d\ude0d\ud83d\ude0d\ud83d\ude0d"
+    ],
+    "negative_snippets": [
+      "We had booked a Superior room for 2 nights through EaseMyTrip and made full advanced payment. But when we arrived at the hotel, they told us that the room is not available. They moved us to another room 4-5 km away. Created a lot of inconvenience for us. You are warned.",
+      "They changed the location to 7 km away, when I reached their hotel. I had booked this hotel because of its location. Talking to them it came to my understanding that they are running a scam and have been doing to a lot of people. They weren't even apologetic. It's like they know you will not be able to go anywhere else at 1:00 am in the night. I had already paid online through easemytrip. Easetrip hasn't taken any action either against them till now. I had to book my own taxi. The bathroom was so filthy that I didn't even take a bath. And just the water from my bisleri to brush my teeth and got the hell out of there to search for another hotel in the morning. I had read some reviews on google like mine before booking the hotel. But I thought they were rare cases and mistakes happen. But it is apparent they are doing it deliberately. I am writing this review to warn people they are intentionally running a scam.",
+      "Poor Service, Towels provided on 2nd day of the stay.\nIn the name of toiletry 1rs shampoo was given. (Quantity 1 for 2 persons :))"
+    ]
+  },
+  "review_summary": "Based on 5 reviews.",
+  "positive_themes": {
+    "clean_rooms": 1,
+    "friendly_staff": 2,
+    "good_location": 1
+  },
+  "negative_themes": {
+    "dirty_rooms": 1
+  }
+}

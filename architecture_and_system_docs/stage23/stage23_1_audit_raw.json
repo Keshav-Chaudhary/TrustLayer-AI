@@ -1,0 +1,734 @@
+{
+  "csv_audit": {
+    "total_rows": 1661,
+    "unique_hotel_ids": 1661,
+    "duplicate_ids_count": 0,
+    "duplicate_ids": [],
+    "columns": [
+      "hotel_id",
+      "google_place_id",
+      "hotel_name",
+      "address",
+      "latitude",
+      "longitude",
+      "rating",
+      "review_count",
+      "area",
+      "hotel_type",
+      "price_level",
+      "review_volume",
+      "average_sentiment",
+      "positive_review_ratio",
+      "negative_review_ratio",
+      "cleanliness_score",
+      "service_score",
+      "location_score",
+      "value_for_money_score",
+      "staff_behavior_score",
+      "area_cluster",
+      "budget_category",
+      "popularity_score",
+      "rating_score",
+      "sentiment_score",
+      "trust_score"
+    ],
+    "missing_values": {
+      "hotel_id": 0,
+      "google_place_id": 0,
+      "hotel_name": 0,
+      "address": 0,
+      "latitude": 0,
+      "longitude": 0,
+      "rating": 8,
+      "review_count": 8,
+      "area": 2,
+      "hotel_type": 0,
+      "price_level": 1661,
+      "review_volume": 43,
+      "average_sentiment": 43,
+      "positive_review_ratio": 43,
+      "negative_review_ratio": 43,
+      "cleanliness_score": 43,
+      "service_score": 43,
+      "location_score": 43,
+      "value_for_money_score": 43,
+      "staff_behavior_score": 43,
+      "area_cluster": 0,
+      "budget_category": 0,
+      "popularity_score": 0,
+      "rating_score": 0,
+      "sentiment_score": 0,
+      "trust_score": 0
+    },
+    "data_types": {
+      "hotel_id": "object",
+      "google_place_id": "object",
+      "hotel_name": "object",
+      "address": "object",
+      "latitude": "float64",
+      "longitude": "float64",
+      "rating": "float64",
+      "review_count": "float64",
+      "area": "object",
+      "hotel_type": "object",
+      "price_level": "float64",
+      "review_volume": "float64",
+      "average_sentiment": "float64",
+      "positive_review_ratio": "float64",
+      "negative_review_ratio": "float64",
+      "cleanliness_score": "float64",
+      "service_score": "float64",
+      "location_score": "float64",
+      "value_for_money_score": "float64",
+      "staff_behavior_score": "float64",
+      "area_cluster": "object",
+      "budget_category": "object",
+      "popularity_score": "float64",
+      "rating_score": "float64",
+      "sentiment_score": "float64",
+      "trust_score": "float64"
+    },
+    "rating_range": [
+      1.0,
+      5.0
+    ],
+    "distinct_cities_count": 21,
+    "distinct_destinations_count": 21,
+    "distinct_areas_count": 470,
+    "sample_areas": [
+      "&E",
+      "(A Unit of Haryana Tourism Corporation Ltd.) Surajkund",
+      "121001",
+      "135",
+      "512",
+      "56",
+      "Adarsh Nagar",
+      "Adchini",
+      "Aerocity",
+      "Aggarwal Colony",
+      "Airport",
+      "Ajronda",
+      "Alipur",
+      "Alipur Ghari",
+      "Alipur Village"
+    ],
+    "hotels_with_reviews": 1653,
+    "hotels_with_trust_scores": 1661,
+    "hotels_with_aspect_scores": 1618,
+    "hotels_with_coordinates": 1661
+  },
+  "json_audit": {
+    "run_count": 20,
+    "run_ids": [
+      "aa8e7647-47ae-4c32-bae3-da3f3bf4df47",
+      "2e5e7054-9d22-496c-b119-c7d926150373",
+      "3c366e8d-fb99-4251-8228-96a8adecdb88",
+      "2d4cfb07-6a57-4137-ac0a-098915eae9b0",
+      "431f9771-0564-45a9-bb1a-e8d648eaa9e9",
+      "c05774fa-f591-4455-a1f6-ff5a3c1ef229",
+      "81bdb8c3-a66b-4246-bf7c-7cb174bb05a3",
+      "b662dbac-019b-4fcb-872e-10ab43c14651",
+      "b910b2f0-9f2a-499c-8546-0eb11c4d1912",
+      "049315e9-27c7-4f75-82d6-d73d5967ceb9",
+      "0c3355ec-8e67-4244-80e0-8a9e694a7356",
+      "49ea17fb-647e-477d-b180-a47c53f84164",
+      "a40cdc46-3641-4d07-92f8-285e7e1f7cc9",
+      "0f262068-cdeb-4fc3-ab07-3c69a678ea30",
+      "08914288-2a63-4d1e-b0a1-68885329b67b",
+      "d4396cba-35f6-4fc4-a6a1-3b7fbfc11b53",
+      "4a5da111-9c3a-43ac-9386-7157ea879e16",
+      "c317b503-67b3-42cd-9430-172a0296199e",
+      "849f9407-5dd6-4ff4-8b07-b53258b41bfa",
+      "4c971c52-d6de-4f5c-9640-9dbd00634c23"
+    ],
+    "timestamps": [
+      "2026-07-30 16:56:43",
+      "2026-07-30 16:55:45",
+      "2026-07-30 17:10:41",
+      "2026-07-30 19:55:12",
+      "2026-07-30 19:55:18",
+      "2026-07-31 11:45:18",
+      "2026-07-31 11:45:26",
+      "2026-07-31 11:45:30",
+      "2026-07-31 11:52:48",
+      "2026-07-31 11:52:50",
+      "2026-07-31 11:52:53",
+      "2026-07-31 13:12:40",
+      "2026-07-31 13:12:46",
+      "2026-07-31 13:12:49",
+      "2026-07-31 13:15:02",
+      "2026-07-31 13:15:05",
+      "2026-07-31 13:15:08",
+      "2026-07-31 13:22:10",
+      "2026-07-31 13:22:12",
+      "2026-07-31 13:22:14"
+    ],
+    "is_history_readable": true
+  },
+  "chromadb_audit": {
+    "collection_name": "hotel_knowledge",
+    "document_count": 7910,
+    "embedding_model": "all-MiniLM-L6-v2",
+    "unique_hotel_ids_count": 1661,
+    "sample_chunk_distribution": [
+      [
+        "ChIJ--FGZrMZDTkRnNnjWOLxdmI",
+        5
+      ],
+      [
+        "ChIJ-5u-Vo0hDTkRbRiX9zTmtN8",
+        5
+      ],
+      [
+        "ChIJ-c-55sofDTkRvmWM-SVTms4",
+        5
+      ],
+      [
+        "ChIJ-cFw1QcDDTkRZHlhKN9WUNs",
+        5
+      ],
+      [
+        "ChIJ-d8FwZ4ZDTkRRzTD7epgUdw",
+        4
+      ],
+      [
+        "ChIJ-Q4xA7DlDDkRKbmDpYkiiUA",
+        5
+      ],
+      [
+        "ChIJ-SQyPM4_DTkR7vUfVVwEFyI",
+        5
+      ],
+      [
+        "ChIJ-Ty9tEz9DDkRxhAk4j8Iu8s",
+        5
+      ],
+      [
+        "ChIJ-UnEBH7jDDkRhJaGrJjZF4Y",
+        5
+      ],
+      [
+        "ChIJ-V35ZQLkDDkRAN9EIFb6qLA",
+        5
+      ]
+    ],
+    "sample_metadata_keys": [
+      "evidence_level",
+      "travel_purpose_tags",
+      "area",
+      "value_for_money_score",
+      "chunk_type",
+      "service_score",
+      "budget_category",
+      "cleanliness_score",
+      "trust_score",
+      "hotel_name",
+      "staff_behavior_score",
+      "hotel_id",
+      "rating_score",
+      "sentiment_score",
+      "location_score"
+    ]
+  },
+  "repository_verification": {
+    "csv_hotel_repo_count": 1661,
+    "sample_10_verification": {
+      "ChIJpV-ywbQVDTkRqWm6FgM6WCM": {
+        "exists_in_repo": true,
+        "name_matches": true,
+        "trust_score_matches": true
+      },
+      "ChIJm053GEI-DTkRwKJuNdfAyLw": {
+        "exists_in_repo": true,
+        "name_matches": true,
+        "trust_score_matches": true
+      },
+      "ChIJkTyoKUkVDTkR8L5-ZWny4t8": {
+        "exists_in_repo": true,
+        "name_matches": true,
+        "trust_score_matches": true
+      },
+      "ChIJAxoZFF0-DTkRrQYeGhnCS1c": {
+        "exists_in_repo": true,
+        "name_matches": true,
+        "trust_score_matches": true
+      },
+      "ChIJkUS0a7hrDTkR8_OhQzGLVjE": {
+        "exists_in_repo": true,
+        "name_matches": true,
+        "trust_score_matches": true
+      },
+      "ChIJ64_MiLE_DTkRGOHzyJ5UpDM": {
+        "exists_in_repo": true,
+        "name_matches": true,
+        "trust_score_matches": true
+      },
+      "ChIJockhMFI_DTkRlyEKfQmbwZU": {
+        "exists_in_repo": true,
+        "name_matches": true,
+        "trust_score_matches": true
+      },
+      "ChIJhe8U-lo_DTkRUQkm2haPpZ8": {
+        "exists_in_repo": true,
+        "name_matches": true,
+        "trust_score_matches": true
+      },
+      "ChIJu85bG-QVDTkRHw-yR_kKZU4": {
+        "exists_in_repo": true,
+        "name_matches": true,
+        "trust_score_matches": true
+      },
+      "ChIJOQBN0w8_DTkR2kC7ccAduAs": {
+        "exists_in_repo": true,
+        "name_matches": true,
+        "trust_score_matches": true
+      }
+    },
+    "json_trace_repo_history_count": 20,
+    "chroma_emb_repo_count": 7910
+  },
+  "endpoint_matrix": [
+    {
+      "endpoint": "/health",
+      "method": "GET",
+      "service": "RecommendationService",
+      "repository": "CsvHotelRepository / ChromaEmbeddingRepository / JsonTraceRepository",
+      "data_source": "CSV + ChromaDB + JSON",
+      "real_data": "YES",
+      "status": 200
+    },
+    {
+      "endpoint": "/ready",
+      "method": "GET",
+      "service": "RecommendationService",
+      "repository": "CsvHotelRepository / ChromaEmbeddingRepository / JsonTraceRepository",
+      "data_source": "CSV + ChromaDB + JSON",
+      "real_data": "YES",
+      "status": 200
+    },
+    {
+      "endpoint": "/metrics",
+      "method": "GET",
+      "service": "RecommendationService",
+      "repository": "CsvHotelRepository / ChromaEmbeddingRepository / JsonTraceRepository",
+      "data_source": "CSV + ChromaDB + JSON",
+      "real_data": "YES",
+      "status": 200
+    },
+    {
+      "endpoint": "/recommend",
+      "method": "POST",
+      "service": "RecommendationService",
+      "repository": "CsvHotelRepository / ChromaEmbeddingRepository / JsonTraceRepository",
+      "data_source": "CSV + ChromaDB + JSON",
+      "real_data": "YES",
+      "status": 200
+    },
+    {
+      "endpoint": "/hotels?limit=5",
+      "method": "GET",
+      "service": "HotelService",
+      "repository": "CsvHotelRepository / ChromaEmbeddingRepository / JsonTraceRepository",
+      "data_source": "CSV + ChromaDB + JSON",
+      "real_data": "YES",
+      "status": 200
+    },
+    {
+      "endpoint": "/hotel/ChIJpV-ywbQVDTkRqWm6FgM6WCM",
+      "method": "GET",
+      "service": "HotelService",
+      "repository": "CsvHotelRepository / ChromaEmbeddingRepository / JsonTraceRepository",
+      "data_source": "CSV + ChromaDB + JSON",
+      "real_data": "YES",
+      "status": 200
+    },
+    {
+      "endpoint": "/compare",
+      "method": "POST",
+      "service": "RecommendationService",
+      "repository": "CsvHotelRepository / ChromaEmbeddingRepository / JsonTraceRepository",
+      "data_source": "CSV + ChromaDB + JSON",
+      "real_data": "YES",
+      "status": 200
+    },
+    {
+      "endpoint": "/analyze",
+      "method": "POST",
+      "service": "RecommendationService",
+      "repository": "CsvHotelRepository / ChromaEmbeddingRepository / JsonTraceRepository",
+      "data_source": "CSV + ChromaDB + JSON",
+      "real_data": "YES",
+      "status": 200
+    },
+    {
+      "endpoint": "/chat",
+      "method": "POST",
+      "service": "RecommendationService",
+      "repository": "CsvHotelRepository / ChromaEmbeddingRepository / JsonTraceRepository",
+      "data_source": "CSV + ChromaDB + JSON",
+      "real_data": "YES",
+      "status": 200
+    },
+    {
+      "endpoint": "/search/suggest?q=mahi",
+      "method": "GET",
+      "service": "SearchService",
+      "repository": "CsvHotelRepository / ChromaEmbeddingRepository / JsonTraceRepository",
+      "data_source": "CSV + ChromaDB + JSON",
+      "real_data": "YES",
+      "status": 200
+    },
+    {
+      "endpoint": "/search/nearest?area=Mahipalpur",
+      "method": "GET",
+      "service": "SearchService",
+      "repository": "CsvHotelRepository / ChromaEmbeddingRepository / JsonTraceRepository",
+      "data_source": "CSV + ChromaDB + JSON",
+      "real_data": "YES",
+      "status": 200
+    },
+    {
+      "endpoint": "/debug/trace?query=cleanliness",
+      "method": "GET",
+      "service": "DebugService",
+      "repository": "CsvHotelRepository / ChromaEmbeddingRepository / JsonTraceRepository",
+      "data_source": "CSV + ChromaDB + JSON",
+      "real_data": "YES",
+      "status": 200
+    },
+    {
+      "endpoint": "/debug/batch",
+      "method": "GET",
+      "service": "DebugService",
+      "repository": "CsvHotelRepository / ChromaEmbeddingRepository / JsonTraceRepository",
+      "data_source": "CSV + ChromaDB + JSON",
+      "real_data": "YES",
+      "status": 200
+    },
+    {
+      "endpoint": "/api/v1/health",
+      "method": "GET",
+      "service": "RecommendationService",
+      "repository": "CsvHotelRepository / ChromaEmbeddingRepository / JsonTraceRepository",
+      "data_source": "CSV + ChromaDB + JSON",
+      "real_data": "YES",
+      "status": 200
+    },
+    {
+      "endpoint": "/api/v1/ready",
+      "method": "GET",
+      "service": "RecommendationService",
+      "repository": "CsvHotelRepository / ChromaEmbeddingRepository / JsonTraceRepository",
+      "data_source": "CSV + ChromaDB + JSON",
+      "real_data": "YES",
+      "status": 200
+    },
+    {
+      "endpoint": "/api/v1/metrics",
+      "method": "GET",
+      "service": "RecommendationService",
+      "repository": "CsvHotelRepository / ChromaEmbeddingRepository / JsonTraceRepository",
+      "data_source": "CSV + ChromaDB + JSON",
+      "real_data": "YES",
+      "status": 200
+    },
+    {
+      "endpoint": "/api/v1/recommend",
+      "method": "POST",
+      "service": "RecommendationService",
+      "repository": "CsvHotelRepository / ChromaEmbeddingRepository / JsonTraceRepository",
+      "data_source": "CSV + ChromaDB + JSON",
+      "real_data": "YES",
+      "status": 200
+    },
+    {
+      "endpoint": "/api/v1/hotels?limit=5",
+      "method": "GET",
+      "service": "HotelService",
+      "repository": "CsvHotelRepository / ChromaEmbeddingRepository / JsonTraceRepository",
+      "data_source": "CSV + ChromaDB + JSON",
+      "real_data": "YES",
+      "status": 200
+    },
+    {
+      "endpoint": "/api/v1/hotels/featured",
+      "method": "GET",
+      "service": "HotelService",
+      "repository": "CsvHotelRepository / ChromaEmbeddingRepository / JsonTraceRepository",
+      "data_source": "CSV + ChromaDB + JSON",
+      "real_data": "YES",
+      "status": 200
+    },
+    {
+      "endpoint": "/api/v1/hotel/ChIJpV-ywbQVDTkRqWm6FgM6WCM",
+      "method": "GET",
+      "service": "HotelService",
+      "repository": "CsvHotelRepository / ChromaEmbeddingRepository / JsonTraceRepository",
+      "data_source": "CSV + ChromaDB + JSON",
+      "real_data": "YES",
+      "status": 200
+    },
+    {
+      "endpoint": "/api/v1/save",
+      "method": "POST",
+      "service": "RecommendationService",
+      "repository": "CsvHotelRepository / ChromaEmbeddingRepository / JsonTraceRepository",
+      "data_source": "CSV + ChromaDB + JSON",
+      "real_data": "YES",
+      "status": 200
+    },
+    {
+      "endpoint": "/api/v1/compare",
+      "method": "POST",
+      "service": "RecommendationService",
+      "repository": "CsvHotelRepository / ChromaEmbeddingRepository / JsonTraceRepository",
+      "data_source": "CSV + ChromaDB + JSON",
+      "real_data": "YES",
+      "status": 200
+    },
+    {
+      "endpoint": "/api/v1/analyze",
+      "method": "POST",
+      "service": "RecommendationService",
+      "repository": "CsvHotelRepository / ChromaEmbeddingRepository / JsonTraceRepository",
+      "data_source": "CSV + ChromaDB + JSON",
+      "real_data": "YES",
+      "status": 200
+    },
+    {
+      "endpoint": "/api/v1/hotel/ChIJpV-ywbQVDTkRqWm6FgM6WCM/evidence",
+      "method": "GET",
+      "service": "HotelService",
+      "repository": "CsvHotelRepository / ChromaEmbeddingRepository / JsonTraceRepository",
+      "data_source": "CSV + ChromaDB + JSON",
+      "real_data": "YES",
+      "status": 200
+    },
+    {
+      "endpoint": "/api/v1/hotel/ChIJpV-ywbQVDTkRqWm6FgM6WCM/explanation",
+      "method": "GET",
+      "service": "HotelService",
+      "repository": "CsvHotelRepository / ChromaEmbeddingRepository / JsonTraceRepository",
+      "data_source": "CSV + ChromaDB + JSON",
+      "real_data": "YES",
+      "status": 200
+    },
+    {
+      "endpoint": "/api/v1/chat",
+      "method": "POST",
+      "service": "RecommendationService",
+      "repository": "CsvHotelRepository / ChromaEmbeddingRepository / JsonTraceRepository",
+      "data_source": "CSV + ChromaDB + JSON",
+      "real_data": "YES",
+      "status": 200
+    },
+    {
+      "endpoint": "/api/v1/search/suggest?q=delhi",
+      "method": "GET",
+      "service": "SearchService",
+      "repository": "CsvHotelRepository / ChromaEmbeddingRepository / JsonTraceRepository",
+      "data_source": "CSV + ChromaDB + JSON",
+      "real_data": "YES",
+      "status": 200
+    },
+    {
+      "endpoint": "/api/v1/search/nearest?area=Delhi",
+      "method": "GET",
+      "service": "SearchService",
+      "repository": "CsvHotelRepository / ChromaEmbeddingRepository / JsonTraceRepository",
+      "data_source": "CSV + ChromaDB + JSON",
+      "real_data": "YES",
+      "status": 200
+    },
+    {
+      "endpoint": "/api/v1/debug/trace?query=family",
+      "method": "GET",
+      "service": "DebugService",
+      "repository": "CsvHotelRepository / ChromaEmbeddingRepository / JsonTraceRepository",
+      "data_source": "CSV + ChromaDB + JSON",
+      "real_data": "YES",
+      "status": 200
+    },
+    {
+      "endpoint": "/api/v1/debug/batch",
+      "method": "GET",
+      "service": "DebugService",
+      "repository": "CsvHotelRepository / ChromaEmbeddingRepository / JsonTraceRepository",
+      "data_source": "CSV + ChromaDB + JSON",
+      "real_data": "YES",
+      "status": 200
+    }
+  ],
+  "query_traces": [
+    {
+      "query": "clean hotels in Delhi",
+      "parsed_intent": "AI Recommendation Search",
+      "retrieved_candidates": 0,
+      "quality_gate_passed": 0,
+      "final_recommendations": 5,
+      "status": "SUCCESS"
+    },
+    {
+      "query": "budget stay in Delhi NCR",
+      "parsed_intent": "AI Recommendation Search",
+      "retrieved_candidates": 0,
+      "quality_gate_passed": 0,
+      "final_recommendations": 5,
+      "status": "SUCCESS"
+    },
+    {
+      "query": "luxury hotel near Mahipalpur",
+      "parsed_intent": "AI Recommendation Search",
+      "retrieved_candidates": 0,
+      "quality_gate_passed": 0,
+      "final_recommendations": 1,
+      "status": "SUCCESS"
+    },
+    {
+      "query": "hotels close to Indira Gandhi International airport",
+      "parsed_intent": "AI Recommendation Search",
+      "retrieved_candidates": 0,
+      "quality_gate_passed": 0,
+      "final_recommendations": 5,
+      "status": "SUCCESS"
+    },
+    {
+      "query": "cheap hotels under 2000 in Delhi",
+      "parsed_intent": "AI Recommendation Search",
+      "retrieved_candidates": 0,
+      "quality_gate_passed": 0,
+      "final_recommendations": 5,
+      "status": "SUCCESS"
+    },
+    {
+      "query": "5 star luxury stay in Delhi",
+      "parsed_intent": "AI Recommendation Search",
+      "retrieved_candidates": 0,
+      "quality_gate_passed": 0,
+      "final_recommendations": 5,
+      "status": "SUCCESS"
+    },
+    {
+      "query": "highest rated hotels with 4.5 rating",
+      "parsed_intent": "AI Recommendation Search",
+      "retrieved_candidates": 0,
+      "quality_gate_passed": 0,
+      "final_recommendations": 5,
+      "status": "SUCCESS"
+    },
+    {
+      "query": "hotel with free wifi and swimming pool",
+      "parsed_intent": "AI Recommendation Search",
+      "retrieved_candidates": 0,
+      "quality_gate_passed": 0,
+      "final_recommendations": 5,
+      "status": "SUCCESS"
+    },
+    {
+      "query": "business hotel in Gurugram",
+      "parsed_intent": "AI Recommendation Search",
+      "retrieved_candidates": 0,
+      "quality_gate_passed": 0,
+      "final_recommendations": 5,
+      "status": "SUCCESS"
+    },
+    {
+      "query": "family friendly stay in Noida",
+      "parsed_intent": "AI Recommendation Search",
+      "retrieved_candidates": 0,
+      "quality_gate_passed": 0,
+      "final_recommendations": 1,
+      "status": "SUCCESS"
+    },
+    {
+      "query": "hotels in Mumbai",
+      "parsed_intent": "AI Recommendation Search",
+      "retrieved_candidates": 0,
+      "quality_gate_passed": 0,
+      "final_recommendations": 5,
+      "status": "SUCCESS"
+    },
+    {
+      "query": "beach resort in Goa",
+      "parsed_intent": "AI Recommendation Search",
+      "retrieved_candidates": 0,
+      "quality_gate_passed": 0,
+      "final_recommendations": 5,
+      "status": "SUCCESS"
+    },
+    {
+      "query": "tech stay in Bangalore",
+      "parsed_intent": "AI Recommendation Search",
+      "retrieved_candidates": 0,
+      "quality_gate_passed": 0,
+      "final_recommendations": 5,
+      "status": "SUCCESS"
+    },
+    {
+      "query": "hotels in Pune",
+      "parsed_intent": "AI Recommendation Search",
+      "retrieved_candidates": 0,
+      "quality_gate_passed": 0,
+      "final_recommendations": 5,
+      "status": "SUCCESS"
+    },
+    {
+      "query": "heritage hotel in Jaipur",
+      "parsed_intent": "AI Recommendation Search",
+      "retrieved_candidates": 0,
+      "quality_gate_passed": 0,
+      "final_recommendations": 5,
+      "status": "SUCCESS"
+    },
+    {
+      "query": "hotels in NonExistentCity999",
+      "parsed_intent": "AI Recommendation Search",
+      "retrieved_candidates": 0,
+      "quality_gate_passed": 0,
+      "final_recommendations": 5,
+      "status": "SUCCESS"
+    },
+    {
+      "query": "hotel near Aerocity",
+      "parsed_intent": "AI Recommendation Search",
+      "retrieved_candidates": 0,
+      "quality_gate_passed": 0,
+      "final_recommendations": 3,
+      "status": "SUCCESS"
+    },
+    {
+      "query": "hotel with high cleanliness score",
+      "parsed_intent": "AI Recommendation Search",
+      "retrieved_candidates": 0,
+      "quality_gate_passed": 0,
+      "final_recommendations": 5,
+      "status": "SUCCESS"
+    },
+    {
+      "query": "hotel for solo traveler in Karol Bagh",
+      "parsed_intent": "AI Recommendation Search",
+      "retrieved_candidates": 0,
+      "quality_gate_passed": 0,
+      "final_recommendations": 5,
+      "status": "SUCCESS"
+    },
+    {
+      "query": "hotel near Connaught Place",
+      "parsed_intent": "AI Recommendation Search",
+      "retrieved_candidates": 0,
+      "quality_gate_passed": 0,
+      "final_recommendations": 5,
+      "status": "SUCCESS"
+    }
+  ],
+  "csv_chroma_consistency": {
+    "csv_hotel_count": 1661,
+    "chroma_hotel_count": 1661,
+    "matched_hotel_count": 1661,
+    "csv_only_count": 0,
+    "chroma_only_count": 0,
+    "coverage_percentage": 100.0,
+    "csv_only_sample": [],
+    "chroma_only_sample": []
+  }
+}

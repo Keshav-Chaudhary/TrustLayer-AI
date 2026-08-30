@@ -1,0 +1,50 @@
+{
+  "hotel_id": "ChIJNQkZiF4HDTkRBq76ILZTk7M",
+  "hotel_name": "Qotel Hotel Rama Rohini Sector 24",
+  "area": "New Delhi",
+  "budget_category": "Mid-Range",
+  "rating": 4.7,
+  "trust_score": 0.6644016558547295,
+  "travel_purpose_tags": [
+    "Budget"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "moderate",
+    "review_count": 5,
+    "positive_snippet_count": 1,
+    "negative_snippet_count": 3,
+    "positive_theme_count": 2,
+    "negative_theme_count": 2
+  },
+  "aspect_scores": {
+    "cleanliness": 0.001562766090501,
+    "service": 0.9997803568840028,
+    "location": 0.5,
+    "value_for_money": 0.0018724395195022,
+    "staff_behavior": 0.5008263982017525
+  },
+  "recommendation_features": {
+    "popularity_score": 0.5749103329169135,
+    "rating_score": 4.7,
+    "sentiment_score": 0.2009429899044335
+  },
+  "review_evidence": {
+    "positive_snippets": [
+      "Good staff well mantein rooms and well service"
+    ],
+    "negative_snippets": [
+      "Worst possible place -\nStains all over place\nNo water in bathroom\nRusted knobs\nBed sheet pure yellow full of gross stains\nWalls with spits all over\nBroken walls\nTV broken in pieces\nCondoms all over place\nFloor filled with mud\nNo keys to room\nNo water in room for drinking\nRude personnel\nHours for a single room key\n1300 paid\nNot even worth 200rs\nBed sheet torn like whole\nSingle switch to AC light fan\nBroken doors\n303 and 302 both rooms seen seen some others too\nTruely pathetic\nEven told the host m paying more than what that place deserves I want the best\nWas given the worst kind of room\nEven staying is chauls is lot better than this\nAll kinds of insects are readily available\nA nice home to unwanted diseases\n\nEven REPUTED SITE LIKE AIRBNB WERE FULL ON SUPPORTING THEM.plz never go for Airbnb for these reasons",
+      "One of the worst Hotel I have ever seen in my life . If you are comming form outside of this state and for treatment purpose or holiday purpose don't even think to book this hotel.\n\nI am sharing some photo of this hotel kindly go through this you will understand how much worst it is. Picture itself will tell you how much worst it is.",
+      "Bad very rooms... bathroom stinks very bad and mosquitoes are there for welcome you in the room..."
+    ]
+  },
+  "review_summary": "Based on 5 reviews.",
+  "positive_themes": {
+    "friendly_staff": 1,
+    "great_value": 1
+  },
+  "negative_themes": {
+    "dirty_rooms": 2,
+    "rude_staff": 1
+  }
+}

@@ -1,0 +1,49 @@
+{
+  "hotel_id": "ChIJncDqI14PDTkRUyoZNk0tnt8",
+  "hotel_name": "All In One Hotel & Restaurant",
+  "area": "New Delhi",
+  "budget_category": "Mid-Range",
+  "rating": 4.5,
+  "trust_score": 0.7969514222765595,
+  "travel_purpose_tags": [
+    "Leisure"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "moderate",
+    "review_count": 5,
+    "positive_snippet_count": 3,
+    "negative_snippet_count": 1,
+    "positive_theme_count": 4,
+    "negative_theme_count": 0
+  },
+  "aspect_scores": {
+    "cleanliness": 0.992884397506714,
+    "service": 0.0002558917622081,
+    "location": 0.997453490893046,
+    "value_for_money": 0.5,
+    "staff_behavior": 0.7498641930724261
+  },
+  "recommendation_features": {
+    "popularity_score": 0.4268137678954004,
+    "rating_score": 4.5,
+    "sentiment_score": 0.7984682339592837
+  },
+  "review_evidence": {
+    "positive_snippets": [
+      "Nice room couple friendly prime location good food good sataf najafagarh ka bast hotel",
+      "Nice room prime location security and privacy neet and clean room testy food @HOTEL ALL IN ONE",
+      "Nice room luxury good staff testy food"
+    ],
+    "negative_snippets": [
+      "Not good for stay ..not proper mainten blanket nd matress ....nd not good room service nd staff mamber ....many call are give her Reception number but not recive\ud83d\ude14\ud83d\ude14"
+    ]
+  },
+  "review_summary": "Based on 5 reviews.",
+  "positive_themes": {
+    "friendly_staff": 4,
+    "good_location": 3,
+    "good_food": 3,
+    "clean_rooms": 1
+  },
+  "negative_themes": {}
+}

@@ -1,0 +1,50 @@
+{
+  "hotel_id": "ChIJxfD7FZwiDTkRP3SrCV-mTAE",
+  "hotel_name": "Alivaa Hotel Gurugram Sohna Road City Center",
+  "area": "Sector 47",
+  "budget_category": "Mid-Range",
+  "rating": 4.3,
+  "trust_score": 0.8519804920268403,
+  "travel_purpose_tags": [
+    "Leisure",
+    "Business"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "moderate",
+    "review_count": 5,
+    "positive_snippet_count": 3,
+    "negative_snippet_count": 1,
+    "positive_theme_count": 4,
+    "negative_theme_count": 0
+  },
+  "aspect_scores": {
+    "cleanliness": 0.9954948425292968,
+    "service": 0.9989572525024414,
+    "location": 0.9976443946361542,
+    "value_for_money": 0.5,
+    "staff_behavior": 0.9989572525024414
+  },
+  "recommendation_features": {
+    "popularity_score": 0.509802971169484,
+    "rating_score": 4.3,
+    "sentiment_score": 0.9989572525024414
+  },
+  "review_evidence": {
+    "positive_snippets": [
+      "I recently stayed at Alivaa\nhotel, and the experience was truly exceptional. From the moment I arrived, the hospitality stood out \u2014 the staff was warm, courteous, and always ready to assist with a genuine smile.\n\nThe rooms were extremely spacious, well-maintained, and thoughtfully designed to ensure complete comfort. It felt both luxurious and homely at the same time.\n\nThe food quality was outstanding. Every meal was fresh, flavorful, and beautifully presented, offering a great variety to choose from.\n\nWhat truly sets this hotel apart is their commitment to providing the best service. Every request was handled promptly and professionally, making the entire stay seamless and relaxing.\n\nHighly recommended for anyone looking for comfort, quality, and top-notch hospitality. \ud83c\udf1f",
+      "I\u2019ve stayed at Alivaa Hotel twice  once during my friend\u2019s wedding function and again while returning and both times it was a really smooth and pleasant experience.\n\nThe check-in process was hassle-free, the staff was extremely polite and well-behaved, and overall hospitality felt warm and professional. The restaurant serves good quality food, and the dining experience was genuinely enjoyable.\n\nThe location is a big plus. You have supermarkets, shopping malls, and plenty of good restaurants nearby, which makes everything very convenient.\n\nThe only drawback during my stay was that the swimming pool was non-operational, and at times room service was a bit slow. However, apart from that, everything else was comfortable and well managed.\n\nOverall, a great stay experience and definitely a reliable option for anyone visiting.",
+      "Had a 3 Night stay with family. It was very comfortable and smooth. Zero issued faced.\n\nPros - Big Rooms, New Property hence very Clean, Quick Room Service, Well-Trained Staff.\nCons - Only con is location as it is slight on the outer side, hence half an hour away from Cyber Hub/One Horizon etc.\n\nThanks to Ashi & The morning manager for their kind behaviour and assistance throughout."
+    ],
+    "negative_snippets": [
+      "I had an absolutely wonderful dining experience at this restaurant, thanks in large part to the exceptional staff, especially Anil and Dildar.\n\nFrom the moment we walked in, the team went above and beyond to make us feel welcome. Anil and Dildar were attentive without being intrusive, checking in at just the right moments and offering thoughtful recommendations. When we mentioned a dietary restriction, they immediately accommodated our needs with genuine care and enthusiasm, even suggesting modifications to make sure we could enjoy our meal fully.\n\nWhat really stood out was how Anil and Dildar worked together seamlessly with the entire team\u2014everyone from the host to the manager showed warmth and professionalism. They handled a busy evening with grace and never made us feel rushed.\n\nIt's rare to encounter service that feels this genuine and personalized. The kindness and attention to detail from Anil and Dildar elevated what was already a great meal into a truly memorable experience. I'll definitely be returning and recommending this restaurant to others, not just for the food, but for wonderful people like Anil and Dildar who make dining here such a pleasure."
+    ]
+  },
+  "review_summary": "Based on 5 reviews.",
+  "positive_themes": {
+    "friendly_staff": 5,
+    "good_food": 4,
+    "good_location": 2,
+    "clean_rooms": 1
+  },
+  "negative_themes": {}
+}

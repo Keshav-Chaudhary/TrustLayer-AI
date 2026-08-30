@@ -1,0 +1,47 @@
+{
+  "hotel_id": "ChIJ09kc2dgZDTkRR7K_tp-Fgco",
+  "hotel_name": "Fabhotel Gazelle Inn - Hotel Near Medanta Hospital",
+  "area": "Sector 38",
+  "budget_category": "Budget",
+  "rating": 3.1,
+  "trust_score": 0.4140293305487832,
+  "travel_purpose_tags": [
+    "Budget"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "moderate",
+    "review_count": 5,
+    "positive_snippet_count": 0,
+    "negative_snippet_count": 3,
+    "positive_theme_count": 2,
+    "negative_theme_count": 1
+  },
+  "aspect_scores": {
+    "cleanliness": 0.0006184119556564,
+    "service": 0.0004097549244761,
+    "location": 0.5,
+    "value_for_money": 0.0004505427205003,
+    "staff_behavior": 0.0006153360203218
+  },
+  "recommendation_features": {
+    "popularity_score": 0.400664617195975,
+    "rating_score": 3.1,
+    "sentiment_score": 0.1990123449009842
+  },
+  "review_evidence": {
+    "positive_snippets": [],
+    "negative_snippets": [
+      "Horrible experience. Hotel policy says 30% charge for checkout until 2 PM. But they charged me for a FULL extra day (100%). When I complained, customer care refused to connect me to a manager, said they \"can't help,\" and hung up the phone. This is pure cheating and robbery. No customer service. Demand a refund for the overcharge. Stay away unless you want to be scammed.\nThey don't provide a key to lock the room from outside! You cannot secure your belongings when you step out. Completely unsafe.",
+      "Visited Gazelle Hotel for a quick check-in, but the experience was shocking. The room and common areas were extremely dirty \u2014 overflowing dustbins, dirty floors, and an unclean balcony. The worst part was finding stains that looked like sperm on the chair, which was absolutely disgusting and unhygienic.\n\nWe immediately complained, but the staff was careless and did not offer any proper apology or cleaning. Despite such a horrible condition, they refused to refund our money, even though the booking was made through Booking.com.\n\nSharing these pictures so people are aware before booking. A hotel that cannot maintain basic hygiene should not be listed on any booking platform!",
+      "I had booked my stay for 3 days here through online booking.\n\nMy booking was confirmed.\n\nWhen I arrived at the hotel, hotel staff said we are fully booked and no room is available.\n\nThey did not even bother to call or update me prior so that I could have arranged my stay.\n\nV v uncooperative staff.\n\nNot recommended, this hotel.\n\nThey always try to have booking in person or through phone calls and try to get payments through cash so that they dun have to pay GST and taxes."
+    ]
+  },
+  "review_summary": "Based on 5 reviews.",
+  "positive_themes": {
+    "clean_rooms": 2,
+    "friendly_staff": 3
+  },
+  "negative_themes": {
+    "dirty_rooms": 1
+  }
+}

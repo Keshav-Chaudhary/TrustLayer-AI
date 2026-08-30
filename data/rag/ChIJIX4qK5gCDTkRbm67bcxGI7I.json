@@ -1,0 +1,54 @@
+{
+  "hotel_id": "ChIJIX4qK5gCDTkRbm67bcxGI7I",
+  "hotel_name": "Hotel Livasa Inn",
+  "area": "Karol Bagh",
+  "budget_category": "Budget",
+  "rating": 4.6,
+  "trust_score": 0.9035709789827544,
+  "travel_purpose_tags": [
+    "Leisure",
+    "Business",
+    "Family"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "moderate",
+    "review_count": 5,
+    "positive_snippet_count": 3,
+    "negative_snippet_count": 1,
+    "positive_theme_count": 5,
+    "negative_theme_count": 1
+  },
+  "aspect_scores": {
+    "cleanliness": 0.8688929677009583,
+    "service": 0.9997851252555848,
+    "location": 0.7498428225517273,
+    "value_for_money": 0.9878641963005066,
+    "staff_behavior": 0.8748534321784973
+  },
+  "recommendation_features": {
+    "popularity_score": 0.720657918709653,
+    "rating_score": 4.6,
+    "sentiment_score": 0.8950912952423096
+  },
+  "review_evidence": {
+    "positive_snippets": [
+      "I had a wonderful stay at this hotel Livasa inn. The staff were extremely good, supportive, and genuinely friendly, always ready to help with a smile. Their warm and attentive service made me feel comfortable and well taken care of throughout my stay. Truly a great experience thanks to the amazing team here!",
+      "Hotel livasa innEnjoyed the experience here.. The Prices may seem higher but the value of luxury you receive is high too... 30 min ride with OLA cab from T3Airport...  Not hard to reach since road directions aren't tricky.. Just will take longer duration. Rooms are clean, food are tasty and fresh and bathroom with hot water supply is fantastic. There is minifridge to chill your water,air conditioner to cool yourself and electric water boiler incase you like hot water to drink.. there is veg food available too. I ordered non veg.. it was great.. if you are new in town, have to stay in a nice hotel without worry of money, i recommend you here.",
+      "I stayed at Hotel Hotel livasa inn  recently and found the location very convenient near Karol Bagh market and metro, with easy access to shopping and transport. The staff, especially Ajeet and hira , were polite and helpful, always ready to assist. The rooms were spacious and fairly clean with comfortable beds, and hot water was available most of the time. Breakfast was decent though sometimes a bit delayed, and overall amenities were satisfactory for the price. While to detail, the value for money and service made my stay pleasant. I would recommend this hotel for budget and family travelers looking for comfort and good service at reasonable rates."
+    ],
+    "negative_snippets": [
+      "Ill start with positives\n1. Location :- very near to Karol Bagh market, good connectivity (we will get e rickshaw, Uber etc).\nGood restaurants serving good breakfast is also there (within 800 meter max)\nEx - Saravana bhavan , (avoid Annapoorna, saravanabhavan is way better)\n2. HOTEL STAFF :- They are really helpful and will listen to our concerns politely. They were well mannered and humble too.\n\nNow the cons\n1. Rooms\nWe stayed in first floor (10x) Rooms. There were stains on bed sheet, blankets etc. The headboard was untidy. The chair for table was broken. The switchboard were broken. Ac had no controls (only ON or OFF)\n2. BATHROOM\nThis was the Pathetic part. Totally  unhygienic. The floor was broken, no shower curtain. So when you take bath, whole floor will be wet plus the commod will also be wet, otherwise you will have to practice your shower in such a way to avoid targeting commod. A nice yoga class will help. Jokes apart, the bathroom was a total let down. The doors were broken and rusty. It was not even locking properly. They had some kind of sponge kept beside the shower and beside the washbasin. This was for keeping the soap after our use. Don't even dare flipping it and seeing the bottom, I did,  and saw blackish mould. The water will just be there on the floor after you take bath.\nI have attached the pics, you can judge by yourself.\n\nGeneral note\nI don't know if its the issue with the rooms.on first floor alone. Because I have seen people coming in as regular customers to this place. If that's the case, then we were in a disadvantage, because we had paid a hefty amount of 12k for 2 nights and 2 rooms.\n\nThe area is filled with similar hotels. Please don't fall for the names alone, because I had even seen a name which had an \"International\" in it. Im not sure about all the positive reviews in Google for this hotel, but our experience was far off from any such positive comments or reviews.\nWe just stayed for 2 nights and most of the time we were outside, so we could manage, plus we didn't have anyone who couldn't adjust to whatever is mentioned above.\nBut not everyone might be same, so sharing this review of the rooms which we stayed.\nPlease go through the photos I have attached and arrive at your judgement."
+    ]
+  },
+  "review_summary": "Based on 5 reviews.",
+  "positive_themes": {
+    "friendly_staff": 4,
+    "clean_rooms": 4,
+    "great_value": 2,
+    "good_food": 3,
+    "good_location": 2
+  },
+  "negative_themes": {
+    "dirty_rooms": 1
+  }
+}

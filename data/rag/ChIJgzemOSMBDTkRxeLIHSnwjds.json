@@ -1,0 +1,50 @@
+{
+  "hotel_id": "ChIJgzemOSMBDTkRxeLIHSnwjds",
+  "hotel_name": "Hotel Starline Residency",
+  "area": "Jahangirpuri",
+  "budget_category": "Mid-Range",
+  "rating": 4.0,
+  "trust_score": 0.6110034576566069,
+  "travel_purpose_tags": [
+    "Budget"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "rich",
+    "review_count": 5,
+    "positive_snippet_count": 3,
+    "negative_snippet_count": 2,
+    "positive_theme_count": 2,
+    "negative_theme_count": 1
+  },
+  "aspect_scores": {
+    "cleanliness": 0.9972455501556396,
+    "service": 0.5001502635714131,
+    "location": 0.5,
+    "value_for_money": 0.5,
+    "staff_behavior": 0.4996428013109834
+  },
+  "recommendation_features": {
+    "popularity_score": 0.2918825720663544,
+    "rating_score": 4.0,
+    "sentiment_score": 0.5139247751445509
+  },
+  "review_evidence": {
+    "positive_snippets": [
+      "I stayed last night , i like the room its clean luks gud , the  staff was polite, will recommend u guys if you are in jahagirpuri, do visit if you luking for stay",
+      "Osm Hotel all facilities is good good and rooms are well decorated and Staff is soo good and helpful\ud83d\ude0a\ud83d\ude0a\ud83d\ude0aThank u Sir for your good Service",
+      "I preferred thia property because its same as per images. Thanks for hospitity"
+    ],
+    "negative_snippets": [
+      "I have stayed in many establishments, but this was less of a \"hospitality experience\" and more of a social experiment in how much a guest can endure before losing their mind.\nThe Arrival & Staff\nUpon arrival, the front desk staff treated my presence as a personal insult. I wasn't greeted with a \"welcome,\" but rather a heavy sigh and a blank stare that suggested I was interrupting a very important session of doing absolutely nothing. When I dared to ask about the lack of hot water, the receptionist responded with a level of condescension usually reserved for explaining basic math to a toddler. The sheer arrogance of the team here is the only thing they seem to have in abundance. \" My suggestion to everyone avoid this hotel starline residency, such a shameless behaviour by their staff members and receptionist \ud83d\udc4e",
+      "Manager is very rude \ud83d\ude14\nName- Vijay Kalu"
+    ]
+  },
+  "review_summary": "Based on 5 reviews.",
+  "positive_themes": {
+    "clean_rooms": 1,
+    "friendly_staff": 3
+  },
+  "negative_themes": {
+    "rude_staff": 1
+  }
+}

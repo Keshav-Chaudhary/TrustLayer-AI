@@ -1,0 +1,49 @@
+{
+  "hotel_id": "ChIJ-5u-Vo0hDTkRbRiX9zTmtN8",
+  "hotel_name": "Citadines Paras Square Gurugram",
+  "area": "Sector 59",
+  "budget_category": "Mid-Range",
+  "rating": 4.7,
+  "trust_score": 0.8658075903196135,
+  "travel_purpose_tags": [
+    "Business"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "moderate",
+    "review_count": 5,
+    "positive_snippet_count": 3,
+    "negative_snippet_count": 1,
+    "positive_theme_count": 4,
+    "negative_theme_count": 0
+  },
+  "aspect_scores": {
+    "cleanliness": 0.4957876119879074,
+    "service": 0.7477161543502006,
+    "location": 0.5002052400377578,
+    "value_for_money": 0.5002052400377578,
+    "staff_behavior": 0.7477161543502006
+  },
+  "recommendation_features": {
+    "popularity_score": 0.6260321281207478,
+    "rating_score": 4.7,
+    "sentiment_score": 0.7981438125716521
+  },
+  "review_evidence": {
+    "positive_snippets": [
+      "Always have been a fan of the Citadines chain and seeing that the hotel was quite newly built in 2024, I took a chance on a stay.\n\nLocation was definitely out of the way from most places as it currently stands in the middle of nowhere, but most places are pretty easily accessible by an Uber.\n\nHotel felt definitely secure with very friendly security and hotel staff with its welcome lobby at level 14. Views are definitely amazing.\n\nThe rooms are definitely up to standard and very comfortable for my stay, notably for the price paid. Facilities wise, it is definitely quite limited.\n\nI was upgraded to a One Bedroom Executive on my first night stay and was pleasantly surprised how spacious the room was and the appliances that came with the room! Really happy with a fridge that actually worked!\n\nOn a return trip, I was housed in a Studio Deluxe room, and the amenities were sufficient and comfortable for my stay! Especially loved a hot water system that is consistent!\n\nI would like to express thanks to Ms. Shruti who has been very attentive and helpful towards my entire stay on both occasions and had graciously remembered me as well, and would love to commend her service in making my administrative stuff a breeze!\n\nHighly recommended if you are here for a short stay or a longer one with needs of a washing machine. Will definitely come back on another visit if I'm around the area!",
+      "Room size was very good\u2014spacious, neat, and clean. They provided a comfortable queen-size bed, and we truly enjoyed our stay. All facilities were available and well maintained. The only drawback I felt was that the reception staff were not very welcoming; a friendly smile and warmer interaction were missing.",
+      "Great service all in all. From security during check in to front desk assistance and food and housekeeping services, all were very outstanding. I had a great stay. Vishbender Gujjar in security was really helpful in getting me through the elevator with my luggages and taking me to the front desk. Rohit from housekeeping was wonderful in keeping everything up to the mark and assisting with any of my housekeeping needs. Thank you. A1 service. Highly recommend!"
+    ],
+    "negative_snippets": [
+      "Having stayed at many Citadines and Somerset places, this was one of my worst stays- not what you typically expect at ASR. Front desk (reception) seems untrained in customer service. Very blunt with their responses. As a platinum member, when I requested for a 3pm check out, I was told to check the website to understand it was sold out. Besides, there was minimal greeting on arrival or a thank you at departure- it was transactional at best. Lots of construction on the area makes the whole place dusty. Last stretch of road non existent as many noted. Not convenient to go out to near by restaurants, etc. inhouse restaurant was good and friendly service, especially after reception lowered expectation! Rooms were ok (perhaps dust not helping maintenance). For a relatively new hotel, was showing wear. Housekeeping missed things (towel change, replace water, etc) a couple of times and we had to call to follow up. Overall decent stay, could have been better. There are better options at this price, which I will explore next time."
+    ]
+  },
+  "review_summary": "Based on 5 reviews.",
+  "positive_themes": {
+    "friendly_staff": 4,
+    "good_location": 2,
+    "clean_rooms": 1,
+    "good_food": 2
+  },
+  "negative_themes": {}
+}

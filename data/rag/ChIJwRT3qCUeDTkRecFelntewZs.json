@@ -1,0 +1,52 @@
+{
+  "hotel_id": "ChIJwRT3qCUeDTkRecFelntewZs",
+  "hotel_name": "The Tivoli",
+  "area": "Mehrauli",
+  "budget_category": "Mid-Range",
+  "rating": 4.2,
+  "trust_score": 0.9129558230095268,
+  "travel_purpose_tags": [
+    "Leisure",
+    "Business",
+    "Family"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "moderate",
+    "review_count": 5,
+    "positive_snippet_count": 3,
+    "negative_snippet_count": 0,
+    "positive_theme_count": 5,
+    "negative_theme_count": 1
+  },
+  "aspect_scores": {
+    "cleanliness": 0.9998304843902588,
+    "service": 0.9998477697372437,
+    "location": 0.9998304843902588,
+    "value_for_money": 0.9998472332954408,
+    "staff_behavior": 0.9998598992824554
+  },
+  "recommendation_features": {
+    "popularity_score": 0.8576213024193502,
+    "rating_score": 4.2,
+    "sentiment_score": 0.999864673614502
+  },
+  "review_evidence": {
+    "positive_snippets": [
+      "Recently attended an event at The Tivoli, Chattarpur, and the experience was truly impressive. The venue is stunning\u2014spacious, elegant, and beautifully maintained\u2014but the real highlight was the food. Every dish was absolutely delicious, with an impressive variety that catered to all tastes.\nThe staff was equally commendable\u2014professional, attentive, and always ready to assist with a warm smile, ensuring everything was seamless. It\u2019s a fantastic choice for weddings and large gatherings. Highly recommended!\nKey Highlights:\nFood: Exceptional taste with a wide and impressive variety.\nAmbience: Elegant, well-maintained, and expansive\u2014especially the outdoor lawns.\nService: Courteous, professional, and highly attentive staff",
+      "A perfect place for a grand wedding. Located in the Chattarpur area of South Delhi, this property is a beautiful venue to host any celebration. The moment you enter, you forget the noise of the city and instantly feel the wedding vibe. The hotel has been recently renovated and offers excellent facilities. We hosted my sister\u2019s three-day wedding here, and it truly became a celebration we will always remember.\n\nOur family came from Bangalore, and the hotel team made everything very smooth. Most arrangements were handled over phone calls, thanks to their efficient marketing team. A special thank you to Ms. Muskaan for her constant support and dedication throughout the planning.\n\nThe entertainment and decoration teams arranged by the hotel were also wonderful. Ms. Priya from VD Designs created classy and budget-friendly d\u00e9cor that made every event look beautiful. The special effects managed by Ms. Neha and her team were spot-on and added a lovely touch. The food was delicious, and the hospitality made all our guests feel very comfortable.\n\nI would also like to mention that I was eight months pregnant during the wedding, yet everything was handled so well by these amazing ladies that I did not have to worry at all. They truly made the entire event smooth and stress-free.\n\nA big thank you to Team Tivoli for their hard work and warm hospitality. I highly recommend this property and would rate it a full 5 stars for any event or celebration.",
+      "Had my friend\u2019s engagement in tivoli. So the experience was great. All thanks to Poonam who was very friendly and helpful. Exceptional services with top-notch hospitality. Best part is they have grand venues for all your events with delicious food. Perfect venues for all the functions under one roof."
+    ],
+    "negative_snippets": []
+  },
+  "review_summary": "Based on 5 reviews.",
+  "positive_themes": {
+    "friendly_staff": 4,
+    "good_food": 5,
+    "clean_rooms": 1,
+    "good_location": 1,
+    "great_value": 1
+  },
+  "negative_themes": {
+    "noise": 1
+  }
+}

@@ -1,0 +1,51 @@
+{
+  "hotel_id": "ChIJD28IYhABDTkR33cJ9vppB2M",
+  "hotel_name": "Super Townhouse By Oyo Rohini Sector 18 Formerly Relic Stay",
+  "area": "Rohini",
+  "budget_category": "Budget",
+  "rating": 4.1,
+  "trust_score": 0.5755104695398278,
+  "travel_purpose_tags": [
+    "Budget"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "moderate",
+    "review_count": 5,
+    "positive_snippet_count": 1,
+    "negative_snippet_count": 3,
+    "positive_theme_count": 2,
+    "negative_theme_count": 3
+  },
+  "aspect_scores": {
+    "cleanliness": 0.00210620845246,
+    "service": 0.0001989434094866,
+    "location": 0.5,
+    "value_for_money": 0.0012687521521002,
+    "staff_behavior": 0.5031834554392844
+  },
+  "recommendation_features": {
+    "popularity_score": 0.5309640473108966,
+    "rating_score": 4.1,
+    "sentiment_score": 0.201622071940801
+  },
+  "review_evidence": {
+    "positive_snippets": [
+      "Nice staff nice recipecan staff\nFemale hotel calen room\nAll ok"
+    ],
+    "negative_snippets": [
+      "Room hygiene needs serious improvement. Service also doesn\u2019t match the ratings shown here. Definitely not a comfortable option for families.",
+      "Worst experience ever. Basic facilities were not available: no parking space, they didn't even provide drinking water, and there was no soap in the washroom. The bed sheet was dirty, and if you complain, they argue. If anybody plans to visit there, don't go. Find somewhere else.",
+      "I would not recommend to book room here unprofessional staff,room bed shet to much dirty, washroom to much dirty, no services in this hotel don't book room in this hotel wrost experience i would give -5 star if the option available"
+    ]
+  },
+  "review_summary": "Based on 5 reviews.",
+  "positive_themes": {
+    "friendly_staff": 2,
+    "great_value": 1
+  },
+  "negative_themes": {
+    "dirty_rooms": 3,
+    "parking_issues": 1,
+    "rude_staff": 1
+  }
+}

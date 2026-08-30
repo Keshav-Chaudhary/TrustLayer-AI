@@ -1,0 +1,50 @@
+{
+  "hotel_id": "ChIJ845VBz0eDTkRn4taWpUHdMI",
+  "hotel_name": "Hotel Riverb",
+  "area": "Chhatarpur",
+  "budget_category": "Mid-Range",
+  "rating": 4.1,
+  "trust_score": 0.7555934505127962,
+  "travel_purpose_tags": [
+    "Leisure",
+    "Business"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "moderate",
+    "review_count": 5,
+    "positive_snippet_count": 3,
+    "negative_snippet_count": 1,
+    "positive_theme_count": 4,
+    "negative_theme_count": 0
+  },
+  "aspect_scores": {
+    "cleanliness": 0.9998648166656494,
+    "service": 0.9997158646583556,
+    "location": 0.9997022449970244,
+    "value_for_money": 0.5,
+    "staff_behavior": 0.9997158646583556
+  },
+  "recommendation_features": {
+    "popularity_score": 0.4780905191293346,
+    "rating_score": 4.1,
+    "sentiment_score": 0.8013189467601478
+  },
+  "review_evidence": {
+    "positive_snippets": [
+      "Full out of I am happy with stay and it convinent as it is located on main road the staff are polite & they have best service including kitchen it is nice place to stay.",
+      "Excellent stay! Clean rooms, friendly staff, and a very pleasant atmosphere. The service was smooth and professional, and everything was well-maintained. Highly recommended.",
+      "Best service fast check in and good behaviour off staff make excellent stay thanks to all staff , location is also best near byy Tivoli garden \ud83e\udd70\ud83d\ude18"
+    ],
+    "negative_snippets": [
+      "Hey hotel  i m ur regular customer some get together n parties but I suggest u please ap log room k inside se kuch lagaiye lock  ya chain hook some security reason cuz  last two times koi gate galti se key laga deta hai ya try karta hai so please most important suggestion to u please isko improve kar sakte hai to in side se kuch laga dijiye n not for me  for All please baaki room facilities cleaning n staaf all good n some rooms geyser not working  I  noted this last two' times so please noted this point \u261d\ufe0f"
+    ]
+  },
+  "review_summary": "Based on 5 reviews.",
+  "positive_themes": {
+    "friendly_staff": 4,
+    "clean_rooms": 2,
+    "good_location": 2,
+    "good_food": 1
+  },
+  "negative_themes": {}
+}

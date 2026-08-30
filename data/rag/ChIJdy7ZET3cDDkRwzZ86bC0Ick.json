@@ -1,0 +1,51 @@
+{
+  "hotel_id": "ChIJdy7ZET3cDDkRwzZ86bC0Ick",
+  "hotel_name": "Hotel O By Oyo Sagar",
+  "area": "New Industrial Township",
+  "budget_category": "Budget",
+  "rating": 3.7,
+  "trust_score": 0.5656162774053466,
+  "travel_purpose_tags": [
+    "Budget"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "moderate",
+    "review_count": 5,
+    "positive_snippet_count": 2,
+    "negative_snippet_count": 3,
+    "positive_theme_count": 3,
+    "negative_theme_count": 1
+  },
+  "aspect_scores": {
+    "cleanliness": 0.0012128033170786,
+    "service": 0.0026956726796925,
+    "location": 0.0005169629002921,
+    "value_for_money": 0.0005169629002921,
+    "staff_behavior": 0.500199294037884
+  },
+  "recommendation_features": {
+    "popularity_score": 0.4358587231264387,
+    "rating_score": 3.7,
+    "sentiment_score": 0.4006801651674322
+  },
+  "review_evidence": {
+    "positive_snippets": [
+      "Best hotel,hotel staff is really very nice l, feel like i am in home,very good ambiance",
+      "Very good \ud83d\ude0a i am happy"
+    ],
+    "negative_snippets": [
+      "Very bad experience. The receptionist is very rude, room is of poor quality. Bathroom is in a very bad condition.\nWe pre-booked the room but Owner asked us for more than the price written in oyo application.\n. Though it is located in market place but the Google map location of this place is wrong.\n\nThe actual location is adjacent to the nearby gurudwara.",
+      "Wrost conditions of room...... They will switch off the AC from there Main panel every one hours.... Bathroom condition is wrost... No food available at hotel.... Only one power sockets available in room..... Pillow conditions are vary bad and pillow is defected....",
+      "Stayed to keep my things in order to search the room as the bathroom wasn't functional under no flush even though the shower was missing only pipe was there worse service ever had"
+    ]
+  },
+  "review_summary": "Based on 5 reviews.",
+  "positive_themes": {
+    "friendly_staff": 1,
+    "good_location": 1,
+    "good_food": 1
+  },
+  "negative_themes": {
+    "rude_staff": 1
+  }
+}

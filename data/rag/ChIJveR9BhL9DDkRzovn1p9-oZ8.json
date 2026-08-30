@@ -1,0 +1,49 @@
+{
+  "hotel_id": "ChIJveR9BhL9DDkRzovn1p9-oZ8",
+  "hotel_name": "Hotel O The Signature Stay",
+  "area": "GTB Nagar",
+  "budget_category": "Budget",
+  "rating": 1.7,
+  "trust_score": 0.2771820888687337,
+  "travel_purpose_tags": [
+    "Budget"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "moderate",
+    "review_count": 4,
+    "positive_snippet_count": 1,
+    "negative_snippet_count": 3,
+    "positive_theme_count": 1,
+    "negative_theme_count": 2
+  },
+  "aspect_scores": {
+    "cleanliness": 0.4982356182008516,
+    "service": 0.5,
+    "location": 0.5,
+    "value_for_money": 0.5,
+    "staff_behavior": 0.0027236549649387
+  },
+  "recommendation_features": {
+    "popularity_score": 0.1811444130340956,
+    "rating_score": 1.7,
+    "sentiment_score": 0.499761708357255
+  },
+  "review_evidence": {
+    "positive_snippets": [
+      "Good room and good staaf"
+    ],
+    "negative_snippets": [
+      "We stayed two times here the bed covers are dirty they won't change  and pillows also and washroom are also too much dirty.. other than that These are AC Rooms which was good...room looks beautiful from outside the interior is good",
+      "Dirty washroom dirty rooms dirty bed sheets and pillow covers\nOverall disgusting",
+      "Stupid,illetrate, and rude staff. They did allow us check in. The receptionist was sleeping in the lobby, and told us go off."
+    ]
+  },
+  "review_summary": "Based on 4 reviews.",
+  "positive_themes": {
+    "friendly_staff": 1
+  },
+  "negative_themes": {
+    "dirty_rooms": 2,
+    "rude_staff": 1
+  }
+}

@@ -1,0 +1,52 @@
+{
+  "hotel_id": "ChIJr-JBHwAPDTkRfQSor5wNRiE",
+  "hotel_name": "Urban Retreat",
+  "area": "Delhi",
+  "budget_category": "Mid-Range",
+  "rating": 4.9,
+  "trust_score": 0.898713486976806,
+  "travel_purpose_tags": [
+    "Leisure",
+    "Business"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "moderate",
+    "review_count": 5,
+    "positive_snippet_count": 3,
+    "negative_snippet_count": 1,
+    "positive_theme_count": 4,
+    "negative_theme_count": 1
+  },
+  "aspect_scores": {
+    "cleanliness": 0.9944334030151368,
+    "service": 0.994488686323166,
+    "location": 0.9997605681419371,
+    "value_for_money": 0.5,
+    "staff_behavior": 0.9998797178268432
+  },
+  "recommendation_features": {
+    "popularity_score": 0.3564075138935633,
+    "rating_score": 4.9,
+    "sentiment_score": 0.9976996898651124
+  },
+  "review_evidence": {
+    "positive_snippets": [
+      "Ajay attended us very well and was prompt in all our requests. Room, service and breakfast, everything was perfect",
+      "A perfect blend of rustic charm and cozy vibes! The caf\u00e9 offers fresh, delicious food with ingredients straight from the farm, and the open farmhouse setting makes it a peaceful escape from the city. Friendly staff, great coffee, and a lovely natural ambiance \u2013 ideal for a relaxing day out.",
+      "Very tasty food. Dahi k shole was awesome, chaap was very soft and delicious."
+    ],
+    "negative_snippets": [
+      "Perfect place to have pool party but little dissapointed with room. They are smelly and bed sheet was not clean and but the service guy is good. You have to do zomato for food"
+    ]
+  },
+  "review_summary": "Based on 5 reviews.",
+  "positive_themes": {
+    "good_food": 4,
+    "friendly_staff": 1,
+    "clean_rooms": 2,
+    "good_location": 1
+  },
+  "negative_themes": {
+    "dirty_rooms": 1
+  }
+}

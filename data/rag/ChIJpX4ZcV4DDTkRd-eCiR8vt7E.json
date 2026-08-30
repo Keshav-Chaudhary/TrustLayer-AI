@@ -1,0 +1,53 @@
+{
+  "hotel_id": "ChIJpX4ZcV4DDTkRd-eCiR8vt7E",
+  "hotel_name": "Oyo Florence Residency Near M2K Cinemas Rohini",
+  "area": "Rohini",
+  "budget_category": "Budget",
+  "rating": 3.7,
+  "trust_score": 0.5287909948737568,
+  "travel_purpose_tags": [
+    "Budget"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "moderate",
+    "review_count": 5,
+    "positive_snippet_count": 2,
+    "negative_snippet_count": 3,
+    "positive_theme_count": 4,
+    "negative_theme_count": 2
+  },
+  "aspect_scores": {
+    "cleanliness": 0.4178610499948263,
+    "service": 0.0028427122160792,
+    "location": 0.501476262928918,
+    "value_for_money": 0.235805481672287,
+    "staff_behavior": 0.2518537148833275
+  },
+  "recommendation_features": {
+    "popularity_score": 0.4859619506183351,
+    "rating_score": 3.7,
+    "sentiment_score": 0.2518537148833275
+  },
+  "review_evidence": {
+    "positive_snippets": [
+      "It's a great property to stay in. Best location. Walking distance from Rohine east metro station. Room are embedded with all the amenities. Washrooms and bedsheets are neat and clean. Staff is friendly and makes an easy check-in and check-out for customers.",
+      "Hotel was nice but some facilities is not good like in washroom not tissue/toilet roll. It's not good and issues only water 1 bottle.\nSome improvement was necessary.and evening tea not serve if we pay amount so y we not deserve evening tea, water, tissue roll ..\nOther wise hotel staff was good ..."
+    ],
+    "negative_snippets": [
+      "Hotel is good but nature of hotel manager is not good.\nIn OYO, the rate is less than Rs. 1,000 per night but after reaching hotel for check in, they force me to pay 1500 per room otherwise they will cancel the booking or change the location and hotel.\nBut i am in emergency and it's very urgent so I have to pay Rs. 1500 per day for get room in the hotel. And also there is no breakfast not wifi in thr hotel. If u want some thing from the hotel they charge service charge of Rs 50 every time. They also rated their hotel forcefully from Customer's phone on OYO. That's why rating of Hotel is good. I will not go to that hotel again. And charged me 1500 per day but in oyo they didn't mention these bill and also not provided me the bill for that. Means overall very bad experience in this hotel....",
+      "Folks, The reviews on the OYO app (4.9 stars) are entirely fake. Please don't fall for it; the property manager was so rude and denied the check-in and kept me waiting for 30 minutes in reception. Moreover, he asked for 2000 Rs. Cash if he wanted to let me check-in.\n\nHe wasted 2 hours talking with an OYO executive and smoking cigarettes with attitude and ended up with no conclusion. As soon as I transferred my new hotel, he was ready to give me check-in. Don't waste your time and energy on this type of people and property, even if it's a good deal. Hope this helps!",
+      "Very badly kept and linens with stains. Torn towels, washroom was dirty. Staff was ok. First room give to us was terrible. Had to escalate with Oyo to get it replaced with another room. Oyo should look at offering consistent experience, have surprise inspection at your hotels. Budget hotels doesn't need to mean bad hotels."
+    ]
+  },
+  "review_summary": "Based on 5 reviews.",
+  "positive_themes": {
+    "clean_rooms": 1,
+    "friendly_staff": 3,
+    "good_location": 2,
+    "good_food": 1
+  },
+  "negative_themes": {
+    "rude_staff": 1,
+    "dirty_rooms": 1
+  }
+}

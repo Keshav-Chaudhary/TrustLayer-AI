@@ -1,0 +1,50 @@
+{
+  "hotel_id": "ChIJbQkQQq38DDkRiO1-3Xdle-Y",
+  "hotel_name": "Roomshala 156 Hotel Mannat Inn",
+  "area": "New Delhi",
+  "budget_category": "Budget",
+  "rating": 4.5,
+  "trust_score": 0.7153752029302637,
+  "travel_purpose_tags": [
+    "Leisure",
+    "Business"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "rich",
+    "review_count": 5,
+    "positive_snippet_count": 3,
+    "negative_snippet_count": 2,
+    "positive_theme_count": 3,
+    "negative_theme_count": 0
+  },
+  "aspect_scores": {
+    "cleanliness": 0.9998828172683716,
+    "service": 0.9998674392700196,
+    "location": 0.845941573381424,
+    "value_for_money": 0.5,
+    "staff_behavior": 0.9998828172683716
+  },
+  "recommendation_features": {
+    "popularity_score": 0.2313194968117582,
+    "rating_score": 4.5,
+    "sentiment_score": 0.6731071665708441
+  },
+  "review_evidence": {
+    "positive_snippets": [
+      "My stay at Roomshala 156 Hotel Mannat Inn was fantastic! The location was convenient, the room was clean and comfortable, and the staff was friendly and accommodating. Overall, a great experience \u2013 highly recommend!",
+      "Good",
+      "Stay good\nAnd its service is very good"
+    ],
+    "negative_snippets": [
+      "As per it's location and situations rates are very very high.....",
+      "Unsatisfied"
+    ]
+  },
+  "review_summary": "Based on 5 reviews.",
+  "positive_themes": {
+    "clean_rooms": 1,
+    "friendly_staff": 1,
+    "good_location": 2
+  },
+  "negative_themes": {}
+}

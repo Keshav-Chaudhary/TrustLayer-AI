@@ -1,0 +1,54 @@
+{
+  "hotel_id": "ChIJzUZZUdzjDDkRJKDEesqf9fQ",
+  "hotel_name": "Comfy Stay Hotels",
+  "area": "Greater Kailash",
+  "budget_category": "Budget",
+  "rating": 4.6,
+  "trust_score": 0.8432934081784693,
+  "travel_purpose_tags": [
+    "Business",
+    "Family"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "moderate",
+    "review_count": 5,
+    "positive_snippet_count": 3,
+    "negative_snippet_count": 1,
+    "positive_theme_count": 5,
+    "negative_theme_count": 2
+  },
+  "aspect_scores": {
+    "cleanliness": 0.9997642636299132,
+    "service": 0.9982690811157228,
+    "location": 0.500715137051884,
+    "value_for_money": 0.9982361495494844,
+    "staff_behavior": 0.9997971951961516
+  },
+  "recommendation_features": {
+    "popularity_score": 0.5805424826164582,
+    "rating_score": 4.6,
+    "sentiment_score": 0.7995689871022478
+  },
+  "review_evidence": {
+    "positive_snippets": [
+      "This is the hotel you will find reasonable and value for money hotel.\nIt is situated second floor of the building so you directly go to Comfy stay hotels at second floor via lift.\nThere are other touts around parking area of the same buliding and they will try to divert you  but don't listen to them and go to the hotel reception directly at second floor.\nHighly recommended !",
+      "Satisfied with rooms and service.\nExcellent customer service and support by the hotel staff.\nRecommended for Delhi visit.",
+      "Very nice and best in this segment of small hotel chain. Truly happy with the hotel and it's facilities."
+    ],
+    "negative_snippets": [
+      "Location is good but rooms are small and noisy. No ventilation. Quality is not good. Advance payment needed. Basic amenities like water bottle is also not included. List stopped working from 2nd day. Each floor has different  hotel.  Using starts when lift is not working is quite challenging with all the luggage specially because they use it for storage as well. No safe emergency exit as such."
+    ]
+  },
+  "review_summary": "Based on 5 reviews.",
+  "positive_themes": {
+    "great_value": 1,
+    "friendly_staff": 2,
+    "clean_rooms": 1,
+    "good_location": 2,
+    "good_food": 1
+  },
+  "negative_themes": {
+    "parking_issues": 1,
+    "noise": 1
+  }
+}

@@ -1,0 +1,52 @@
+{
+  "hotel_id": "ChIJ0_gWbwAZDTkR_RpnbSXlPFY",
+  "hotel_name": "Aura Homes",
+  "area": "Sector 57",
+  "budget_category": "Mid-Range",
+  "rating": 4.7,
+  "trust_score": 0.7831667217742337,
+  "travel_purpose_tags": [
+    "Budget"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "rich",
+    "review_count": 5,
+    "positive_snippet_count": 3,
+    "negative_snippet_count": 2,
+    "positive_theme_count": 3,
+    "negative_theme_count": 2
+  },
+  "aspect_scores": {
+    "cleanliness": 0.499911365150183,
+    "service": 0.0004749740182887,
+    "location": 0.5,
+    "value_for_money": 0.0001954977487912,
+    "staff_behavior": 0.4940304977208142
+  },
+  "recommendation_features": {
+    "popularity_score": 0.5384152080472859,
+    "rating_score": 4.7,
+    "sentiment_score": 0.5975274997908855
+  },
+  "review_evidence": {
+    "positive_snippets": [
+      "Everything is good room clean very corporativ staf over all very good",
+      "it was a great experience and rooms are good I've spent quit time here and overall experience was good",
+      "Night manager is too good for my stay smooth and very helpful. and your hk staff is very polite for all work completed in 2 minutes."
+    ],
+    "negative_snippets": [
+      "Extremely disappointing stay. The photos are completely misleading, reality is nothing like what\u2019s advertised. The room was ridiculously small, cramped, and smelled terrible the moment we entered. Everything felt old, poorly maintained, and low quality.\nThe kitchen was dirty and unhygienic, with stained utensils that were honestly disgusting \ud83e\udd22. The TV was a cheap, low-grade brand with terrible sound and picture quality. Even basic amenities were a joke, the hair dryer looked third-hand, and despite turning on the geyser 40 minutes in advance, the water was still ice cold.\nOverall, this was easily the worst BNB experience I\u2019ve had. I have no idea how this place has good reviews. Definitely not worth the money and not recommended at all.",
+      "The host was rude and abusive. He made false allegations of bribery when i gave him a rating of 1 on Airbnb for shitty service"
+    ]
+  },
+  "review_summary": "Based on 5 reviews.",
+  "positive_themes": {
+    "clean_rooms": 1,
+    "friendly_staff": 1,
+    "great_value": 1
+  },
+  "negative_themes": {
+    "dirty_rooms": 1,
+    "rude_staff": 1
+  }
+}

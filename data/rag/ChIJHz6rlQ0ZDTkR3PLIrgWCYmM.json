@@ -1,0 +1,52 @@
+{
+  "hotel_id": "ChIJHz6rlQ0ZDTkR3PLIrgWCYmM",
+  "hotel_name": "Hotel Florainn",
+  "area": "Sector 20",
+  "budget_category": "Budget",
+  "rating": 4.7,
+  "trust_score": 0.8096647161550344,
+  "travel_purpose_tags": [
+    "Leisure",
+    "Business"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "moderate",
+    "review_count": 5,
+    "positive_snippet_count": 3,
+    "negative_snippet_count": 1,
+    "positive_theme_count": 4,
+    "negative_theme_count": 1
+  },
+  "aspect_scores": {
+    "cleanliness": 0.9953970909118652,
+    "service": 0.9994255900382996,
+    "location": 0.9953970909118652,
+    "value_for_money": 0.000466715049697,
+    "staff_behavior": 0.7475760754823568
+  },
+  "recommendation_features": {
+    "popularity_score": 0.3622888260681913,
+    "rating_score": 4.7,
+    "sentiment_score": 0.7979997775459197
+  },
+  "review_evidence": {
+    "positive_snippets": [
+      "This hotel is best for those who have offices in sector 21, sector 22, kapashera, DLF , udhyog vihar as these are under 1-2km from this hotel.\nLocation wise it will save your time if you wanna catch your flight as it's near or on Gurgaon and Delhi border..IndiriraGandhi Airport is very near to it.\nHotel and staff is very supportive, rooms are near and clean.",
+      "I stayed for near by month good service, clean and fast hospitality. Staff is also nice . Specially kamal ji.",
+      "Amazing hotel amazing experience and receptionists is very calm guy talks so politely food was so good"
+    ],
+    "negative_snippets": [
+      "The Receptionist is very rude. My family and I had booked a room at your hotel through Goibibo, and upon arrival, we were shocked to find that our confirmed booking was canceled by the receptionist. He stated that the price shown on Goibibo was low and demanded additional charges from my end.\nNot only was this completely unfair and unprofessional, but the receptionist also spoke to me in an extremely rude and aggressive manner. Such behavior is unacceptable, especially in the hospitality industry where courtesy and professionalism are expected at all times."
+    ]
+  },
+  "review_summary": "Based on 5 reviews.",
+  "positive_themes": {
+    "clean_rooms": 2,
+    "friendly_staff": 4,
+    "good_location": 2,
+    "good_food": 1
+  },
+  "negative_themes": {
+    "rude_staff": 1
+  }
+}

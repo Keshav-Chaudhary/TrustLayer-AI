@@ -1,0 +1,50 @@
+{
+  "hotel_id": "ChIJoUe5i936DDkRrglOagh-Tcc",
+  "hotel_name": "L'Elegant Hotel & Banquets (Ace Manor)",
+  "area": "Sahibabad",
+  "budget_category": "Mid-Range",
+  "rating": 3.8,
+  "trust_score": 0.5775283192817885,
+  "travel_purpose_tags": [
+    "Budget"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "moderate",
+    "review_count": 5,
+    "positive_snippet_count": 2,
+    "negative_snippet_count": 3,
+    "positive_theme_count": 2,
+    "negative_theme_count": 1
+  },
+  "aspect_scores": {
+    "cleanliness": 0.0002067094465019,
+    "service": 0.0007387888860345,
+    "location": 0.5,
+    "value_for_money": 0.0002067094465019,
+    "staff_behavior": 0.0004628646784112
+  },
+  "recommendation_features": {
+    "popularity_score": 0.7162695916677999,
+    "rating_score": 3.8,
+    "sentiment_score": 0.2094097430963302
+  },
+  "review_evidence": {
+    "positive_snippets": [
+      "All the banquet halls look lavish and well decorated. My guests really enjoyed my wedding in the property there. Great variety of cuisine available. Mr. Rishabh and Mr.Ahuja were very supportive towards us.\nBut we faced problems with the lift (low maintenance & balance issue) and ACs in some rooms were not working. Otherwise, it's a decent venue.",
+      "I recently attended an event at L\u2019Elegant Hotel & Banquet, and while the entrance looks quite lavish and impressive, the experience inside was a bit different. The hall at the backside is quite small and congested, especially if your guest list crosses 150\u2013200 people. It tends to feel packed very quickly, which can be uncomfortable during peak event hours.\n\nThe food was just okay, nothing extraordinary. Overall, it\u2019s suitable for small gatherings, but if you're planning a bigger event or expecting a seamless flow of guests, you may want to reconsider the hall size beforehand."
+    ],
+    "negative_snippets": [
+      "Worst hotel ever. Very bad service and pathetic rooms.\nMy father booked this property for my wedding for 2 days, and it turned out to be a complete nightmare. They served expired water bottles and coffee sachets in the rooms. The hygiene and management are absolutely horrible.\n\nSandeep Ahuja and Rishabh are scammers. In fact, the entire staff here is dishonest and unprofessional. Do NOT renew your day or book this property.\n\nBecause of their carelessness, my father fell sick, and our special occasion was completely ruined. Worst experience of my life. Do not waste your money here.",
+      "Pathetic Service , I request everyone Please do not make any booking in this banquet, Specially Don't Deal With Mr Nazir , Mr Pant I booked 40 rooms for my marriage on 22jan and 23 jan, And on 15 Jan they called me that we are not able to give you 40 rooms, we can give you 35 rooms and 5 rooms outside the banquet, rooms are pathetic , Yes food quality is good but overall service is zero. even they denied my dad for the food on my cocktail saying everything is windup",
+      "It was my friend's Ring Ceremony and weeding in this hotel and we have very bed experience about it. Behaviour of the staff and management is very rude and shameful, Poor quality service. Serving staff denied serving the food and beverages just after 30 min of starting the function. No any room service provided by the hotel. I suggest you do not booking this hotel for your functions."
+    ]
+  },
+  "review_summary": "Based on 5 reviews.",
+  "positive_themes": {
+    "good_food": 3,
+    "friendly_staff": 2
+  },
+  "negative_themes": {
+    "rude_staff": 2
+  }
+}

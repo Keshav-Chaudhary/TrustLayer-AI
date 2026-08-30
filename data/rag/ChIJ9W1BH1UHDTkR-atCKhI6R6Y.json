@@ -1,0 +1,52 @@
+{
+  "hotel_id": "ChIJ9W1BH1UHDTkR-atCKhI6R6Y",
+  "hotel_name": "The Crystal Palace",
+  "area": "Delhi",
+  "budget_category": "Luxury",
+  "rating": 4.4,
+  "trust_score": 0.7061198115242195,
+  "travel_purpose_tags": [
+    "Business"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "moderate",
+    "review_count": 5,
+    "positive_snippet_count": 2,
+    "negative_snippet_count": 3,
+    "positive_theme_count": 4,
+    "negative_theme_count": 1
+  },
+  "aspect_scores": {
+    "cleanliness": 0.3757068081467878,
+    "service": 0.7499204874038696,
+    "location": 0.5,
+    "value_for_money": 0.5,
+    "staff_behavior": 0.7488571405410767
+  },
+  "recommendation_features": {
+    "popularity_score": 0.509802971169484,
+    "rating_score": 4.4,
+    "sentiment_score": 0.5001083027338609
+  },
+  "review_evidence": {
+    "positive_snippets": [
+      "The rooms are very big nice and clean hygiene is maintained in the hotel the food is very delicious maij thing is that they prepare fresh food and the service is also very good highly recommended \ud83e\udd70",
+      "Nice rooms\nAll staff are very Disciplined\nKitchen available for this hotel"
+    ],
+    "negative_snippets": [
+      "I have been often staying in hotels under fabhotels india franchise.\nHowever, my today's experience with the above mentioned Booking ID is the worst experience  amongst any of the Booking made at any hotel in india.\n\n1. LOCATION MISMATCH.\n\n2. THE ROOMS ARE PATHETICALLY MAINTAINED. INITIALLY I WAS GIVEN 314 ROOM NUMBER. There was huge dampness in the walls. And the room was also too compact.\n\n3. I checked 8-9 rooms for replacement, and what i found, each and every room was pathetic. Huge moisture in walls. Smell in rooms.\nWalls paints was torned out almost every room.\nFinally I CHOOSE 312, due to compulsion as I have prepaid the room charges. The pics of this room are attaching for your kind perusal.\n\n4. The pics shown in the app in fabhotel and other hotel booking platforms like agoda are falsified.one should lodge a complaint against it.\nWhen i showed the photos to the worker, they say, even we don't find such neat and clean rooms in this hotel as shown in the photo.FALSFIED AND MISGUIDENESS.\n\n5. Mattress was partially damaged. Mattress,  Pillows were dirty. Walls were dirty.no any management. When I questioned, the worker say, they have already Said to the manager, but no one hears.\n\n6. Huge mosquitoes. Really felt all night. No any service for mosquito repellant.\n\n7. No any pre facility of towel and soap. I literally had to ask for 3-4 times. Poor and pathetic service.\nMoreover, amenities also include waterbottles. That too I had to literally aske 3-4 times.\n\n8. They say for TV for entertainment.  What i found was a dummy tv with no any channels. I asked for replacement. I was told that it runs on wifi and only YOUTUBE runs in it.  When I asked atleast run it, they were unable to run it. I don't think it will be replaced.\n\n9. FOOD: poor, not as per the price quoted.\n\n10. Lights in the room not working properly. 3-4 ceiling lights were not functioning and one was blinking continuously.\n\n11. Bathroom was too compact, again falsified photos shown in the app. Also, leakage in the shower. WATER WAS NOT SMOOTHLY DRAINING OUT.\n12. Regarding complimentary breakfast, at 7:30 am in the morning, I had a healthy conversation with the receptionist present at that time. I was told that breakfast starts from 9:30 to 10 am. At morning 7:30 am, i asked for breakfast as I had to go somewhere out. And receptionist and i were mutually agreed that I will be a little late at 11:30 am. And will get the breakfast. But, what happened, another receptionist, argued for one more day payment and first no such breakfast available after that. It was really absurd where professionalism is at the bottom.\n\nI seriouslly had no option to change as the company says no refund policy. But atleast. Such complaint should be heard.\nLiterally HOW FABHOTEL CHOOSE SUCH HOTEL UNDER THEIR FRANCHISE\n\nHOTELS ARE BOOKED FOR COMFORT AND EASE. BUT WHAT IF, WHEN WE FIND SUCH CONDITION.",
+      "This property is so filthy and dirty no one can stay in the room. Ladies hairs are all across the room even on the bed. I haven't stayed in any hotel like this before. Food was also very bad in taste and they served in dirty plates.",
+      "Such a worst experience hotel when I entered the room I got unwanted smell and bathroom was not clean bed has not comfart matters are too much bad condition I got such a bad experience please don't take room in this hotel"
+    ]
+  },
+  "review_summary": "Based on 5 reviews.",
+  "positive_themes": {
+    "clean_rooms": 3,
+    "good_food": 3,
+    "friendly_staff": 1,
+    "good_location": 1
+  },
+  "negative_themes": {
+    "dirty_rooms": 3
+  }
+}

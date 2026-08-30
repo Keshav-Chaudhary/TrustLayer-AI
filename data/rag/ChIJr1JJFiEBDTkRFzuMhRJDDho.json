@@ -1,0 +1,47 @@
+{
+  "hotel_id": "ChIJr1JJFiEBDTkRFzuMhRJDDho",
+  "hotel_name": "Hotel O By Oyo La Bella",
+  "area": "Rohini",
+  "budget_category": "Budget",
+  "rating": 4.6,
+  "trust_score": 0.7696372428454353,
+  "travel_purpose_tags": [
+    "Business"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "moderate",
+    "review_count": 5,
+    "positive_snippet_count": 3,
+    "negative_snippet_count": 1,
+    "positive_theme_count": 2,
+    "negative_theme_count": 0
+  },
+  "aspect_scores": {
+    "cleanliness": 0.9998026490211488,
+    "service": 0.9998159408569336,
+    "location": 0.5,
+    "value_for_money": 0.5,
+    "staff_behavior": 0.9998310506343842
+  },
+  "recommendation_features": {
+    "popularity_score": 0.2958444386389672,
+    "rating_score": 4.6,
+    "sentiment_score": 0.7585015324875712
+  },
+  "review_evidence": {
+    "positive_snippets": [
+      "Good service \ud83d\udc4d\ud83c\udffb",
+      "Good nice",
+      "The rooms are all clean and the service is very good and all the staff are very kind"
+    ],
+    "negative_snippets": [
+      "Had an issue with the Geyser on room no. - 201 but they said they will fix it as soon as possible"
+    ]
+  },
+  "review_summary": "Based on 5 reviews.",
+  "positive_themes": {
+    "clean_rooms": 1,
+    "friendly_staff": 2
+  },
+  "negative_themes": {}
+}

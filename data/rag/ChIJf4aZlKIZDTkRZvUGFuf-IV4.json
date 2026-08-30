@@ -1,0 +1,51 @@
+{
+  "hotel_id": "ChIJf4aZlKIZDTkRZvUGFuf-IV4",
+  "hotel_name": "The Trot Hotel & Suites",
+  "area": "Gurugram",
+  "budget_category": "Mid-Range",
+  "rating": 4.3,
+  "trust_score": 0.7677854343863697,
+  "travel_purpose_tags": [
+    "Business",
+    "Family"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "moderate",
+    "review_count": 5,
+    "positive_snippet_count": 3,
+    "negative_snippet_count": 1,
+    "positive_theme_count": 5,
+    "negative_theme_count": 0
+  },
+  "aspect_scores": {
+    "cleanliness": 0.7472496581904124,
+    "service": 0.7472743196121883,
+    "location": 0.6666734354803339,
+    "value_for_money": 0.6630766527960077,
+    "staff_behavior": 0.7977731905644759
+  },
+  "recommendation_features": {
+    "popularity_score": 0.4157305542656336,
+    "rating_score": 4.3,
+    "sentiment_score": 0.7977731905644759
+  },
+  "review_evidence": {
+    "positive_snippets": [
+      "Very good hotel to stay.\nConvenient location from Airport.\nRooms are nicely maintained, very clean.\nStaff is very cordial and helping nature.\nThough occupancy is less they serve best.\nBreakfast is very good. Sometimes buffet if more guests stay, or else they serve with proper aluminum foil in room.\nVery good hotel for group booking.\nRates are very reasonable.",
+      "We stayed for a while.The hotel is nice and well run. We had wonderful experience with Mr Om during our stay he took good care with the food service. He is well mannered and a great gentlemen. Thank you Mr Om you made us smile each and every time. Other staff are very friendly and competent. Overall it was a pleasant stay!",
+      "Difficult to find on Map. Rooms are neat and clean. Staff is moderate in support. Room service is not excellent. Breakfast menu is good. Breakfast place is not hygienic. Cannot access balcony. Room access is typically old style. They do provide cutlery. Overall, you can choose it for affordable stay."
+    ],
+    "negative_snippets": [
+      "The hotel description is itself misleading and erroneous ,this place is around 10 kms from Udyog Vihar / Yashobhoomi but the property has inserted these landmarks in their hotel name / description.\nThis leads to major confusion with cab bookings.\nThe property is on the upper floors of Conscient One Mall ,just off the newly opened Dwaraka Expressway.\nThe entrance is at the back of the mall with no prominent signboards nor staff on the ground floor to guide guests.\nThis hotel has different floors of reception,restaurant and rooms.\nThe reception is on 3rd floor whereas rooms are on the 10th-12th floors which is chaotic.\nSwimming pool is not operational.Rooms and pathways are old ,ill maintained and too basic.\nBathroom is too crampy and congested.Linens,fixtures and fittings are of poor quality and in broken condition.\nRestaurant is on the 2nd Floor, very dingy and unhygienic.Buffet breakfast with basic menu costs too high and not worth.\nThere are many good restaurants in the mall offering wide range of food options at far lower prices in a  better ambience.\nRoom service food is expensive and the hotel demands every bill to be settled immediately on delivering the food, which is a big nuisance Any reliable property generally adds all bills to the room account and settle it during check out.But here it is an extremely poor experience.\nStaff is courteous with decent service.\nOverall a very mediocre property with basic amenities and a poor experience."
+    ]
+  },
+  "review_summary": "Based on 5 reviews.",
+  "positive_themes": {
+    "clean_rooms": 3,
+    "friendly_staff": 5,
+    "good_location": 2,
+    "good_food": 4,
+    "great_value": 2
+  },
+  "negative_themes": {}
+}

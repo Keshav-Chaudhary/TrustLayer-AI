@@ -1,0 +1,48 @@
+{
+  "hotel_id": "ChIJ2TtPSgAZDTkR0nVA4pUDCkw",
+  "hotel_name": "Oasis Stay",
+  "area": "Sector 38",
+  "budget_category": "Budget",
+  "rating": 3.8,
+  "trust_score": 0.4264989642352176,
+  "travel_purpose_tags": [
+    "Budget"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "moderate",
+    "review_count": 5,
+    "positive_snippet_count": 0,
+    "negative_snippet_count": 3,
+    "positive_theme_count": 3,
+    "negative_theme_count": 1
+  },
+  "aspect_scores": {
+    "cleanliness": 0.0111678026587469,
+    "service": 0.0399601012468338,
+    "location": 0.0141887351831731,
+    "value_for_money": 0.0023992552887648,
+    "staff_behavior": 0.0399601012468338
+  },
+  "recommendation_features": {
+    "popularity_score": 0.3068088394720208,
+    "rating_score": 3.8,
+    "sentiment_score": 0.009000722982455
+  },
+  "review_evidence": {
+    "positive_snippets": [],
+    "negative_snippets": [
+      "Great Location but Needs Serious Improvement in Maintenance & Service\n\nI stayed at Wonderland Service Apartment for about 5-6 days, mainly because it is right next to Medanta Hospital, which makes it very convenient for patients and their families. The location is definitely the biggest advantage of this property.\n\nHowever, the room really needs maintenance. The AC was not working properly and kept dripping water continuously, which made the stay uncomfortable. The service staff also needs to be more attentive and professional. I had to repeatedly request room cleaning, bed making, and a change of bedsheets, but no one came to help, and my requests were completely ignored.\n\nConsidering that most of their guests are coming for medical purposes, cleanliness and hygiene should be their top priority. With proper maintenance and better service responsiveness, this could easily be one of the best stays in the area.\n\nOverall Rating: \u2b50\u2b50\u2b50\u2606\u2606 (3/5)",
+      "Overall it's good for 1 night but building is very old, and there's smell everywhere on our floor and there was garbage (plastic bottles) there.",
+      "The worst hotel I have stayed so far , dirty room , dirty washroom, no soaps for handwash , dirty blankets."
+    ]
+  },
+  "review_summary": "Based on 5 reviews.",
+  "positive_themes": {
+    "clean_rooms": 1,
+    "friendly_staff": 2,
+    "good_location": 2
+  },
+  "negative_themes": {
+    "dirty_rooms": 3
+  }
+}

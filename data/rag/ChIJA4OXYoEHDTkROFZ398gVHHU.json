@@ -1,0 +1,47 @@
+{
+  "hotel_id": "ChIJA4OXYoEHDTkROFZ398gVHHU",
+  "hotel_name": "Hotel O By Oyo Kaushik Guest House",
+  "area": "Mein",
+  "budget_category": "Budget",
+  "rating": 3.0,
+  "trust_score": 0.3351762982452057,
+  "travel_purpose_tags": [
+    "Budget"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "moderate",
+    "review_count": 5,
+    "positive_snippet_count": 0,
+    "negative_snippet_count": 3,
+    "positive_theme_count": 2,
+    "negative_theme_count": 1
+  },
+  "aspect_scores": {
+    "cleanliness": 0.0018379631728748,
+    "service": 0.00289390492253,
+    "location": 0.5,
+    "value_for_money": 0.5,
+    "staff_behavior": 0.00289390492253
+  },
+  "recommendation_features": {
+    "popularity_score": 0.3885929327977167,
+    "rating_score": 3.0,
+    "sentiment_score": 0.0015717130794655
+  },
+  "review_evidence": {
+    "positive_snippets": [],
+    "negative_snippets": [
+      "Very bad all things so much dirty bed and washroom room please don't come this hotel\nIsme 1 * se km nhi hai otherwise me bo rate krta",
+      "Very bed service in this Hotel & Hotel Honour  200 rupee extra charge for Id printout\nHotel staff behaviour very bed and room are not clean and walls are soo dirty .",
+      "The Hotel rooms are very bad in condition, walls have cracks, bathrooms have broken tiles and wet celling , the bed linen was also dirty there is no tv . Not Recommended , don't book via oyo try other website to book hotels"
+    ]
+  },
+  "review_summary": "Based on 5 reviews.",
+  "positive_themes": {
+    "clean_rooms": 1,
+    "friendly_staff": 1
+  },
+  "negative_themes": {
+    "dirty_rooms": 4
+  }
+}

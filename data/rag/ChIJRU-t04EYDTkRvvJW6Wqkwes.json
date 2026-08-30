@@ -1,0 +1,50 @@
+{
+  "hotel_id": "ChIJRU-t04EYDTkRvvJW6Wqkwes",
+  "hotel_name": "Keys Lite By Lemon Tree Hotels, Mayfield, Gurugram",
+  "area": "Sector 51",
+  "budget_category": "Mid-Range",
+  "rating": 4.1,
+  "trust_score": 0.841615781725331,
+  "travel_purpose_tags": [
+    "Leisure",
+    "Business",
+    "Family"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "moderate",
+    "review_count": 5,
+    "positive_snippet_count": 3,
+    "negative_snippet_count": 0,
+    "positive_theme_count": 5,
+    "negative_theme_count": 0
+  },
+  "aspect_scores": {
+    "cleanliness": 0.9996360689401628,
+    "service": 0.9998596906661988,
+    "location": 0.9998525381088256,
+    "value_for_money": 0.999853014945984,
+    "staff_behavior": 0.9996397644281388
+  },
+  "recommendation_features": {
+    "popularity_score": 0.5849888776145759,
+    "rating_score": 4.1,
+    "sentiment_score": 0.9996797442436218
+  },
+  "review_evidence": {
+    "positive_snippets": [
+      "I recently stayed at Keys Select by Lemon Tree Hotels, and overall, it was a pleasant experience. The rooms were clean and well-maintained, and the staff was courteous and helpful throughout the stay. The check-in and check-out process was smooth, and the ambience of the property was comfortable and welcoming.\n\nHowever, the only downside was the breakfast. While there were multiple options available, I found the food to be a bit too oily for my preference. A lighter and healthier spread would definitely improve the overall experience.\n\nApart from that, everything else was perfectly fine, and I had a comfortable stay. With a small improvement in the breakfast menu, this would be an excellent place to stay.",
+      "I recently stayed at Keys Lite by Lemon Tree in Gurgaon on a business trip, and it was a good experience. The hotel's location is convenient, and the rooms are clean and comfortable. The staff were friendly and helpful, making my stay even more enjoyable.\n\nThe breakfast spread was decent, with a good variety of options to start the day. I also appreciated the reliable Wi-Fi, which helped me stay productive on the go.\n\nOverall, I'd definitely stay here again for business. Good value for money. \ud83c\udf1f",
+      "Good Stay with a Nice Room Upgrade\n\nMy overall stay at Keys Lite Gurgaon was good. The location is convenient and works well for travelers.\n\nThe highlight of my visit was the room; it was neat and clean, and I really appreciated that they upgraded me to a more spacious room, which made the stay very comfortable. The receptionist was professional and handled everything well.\n\nIf you are looking for a clean place with a good location, this is a solid choice. A pleasant experience overall."
+    ],
+    "negative_snippets": []
+  },
+  "review_summary": "Based on 5 reviews.",
+  "positive_themes": {
+    "clean_rooms": 4,
+    "friendly_staff": 4,
+    "good_food": 4,
+    "good_location": 2,
+    "great_value": 1
+  },
+  "negative_themes": {}
+}

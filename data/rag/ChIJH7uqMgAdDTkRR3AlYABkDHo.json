@@ -1,0 +1,53 @@
+{
+  "hotel_id": "ChIJH7uqMgAdDTkRR3AlYABkDHo",
+  "hotel_name": "Hotel Delhi Airport Plaza (Complimentary One-Way Airport Transfer)",
+  "area": "Mahipalpur",
+  "budget_category": "Mid-Range",
+  "rating": 4.4,
+  "trust_score": 0.7556834563824504,
+  "travel_purpose_tags": [
+    "Leisure"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "rich",
+    "review_count": 5,
+    "positive_snippet_count": 3,
+    "negative_snippet_count": 2,
+    "positive_theme_count": 4,
+    "negative_theme_count": 2
+  },
+  "aspect_scores": {
+    "cleanliness": 0.5190934407194921,
+    "service": 0.5,
+    "location": 0.8883610367774963,
+    "value_for_money": 0.5571624040603638,
+    "staff_behavior": 0.9987605810165404
+  },
+  "recommendation_features": {
+    "popularity_score": 0.4268137678954004,
+    "rating_score": 4.4,
+    "sentiment_score": 0.7107855598616879
+  },
+  "review_evidence": {
+    "positive_snippets": [
+      "The Hotel is located near Mahipalpur flyover bridge approximately 300-400 m from the traffic signal.\n\nThe hotel lobby is decent and normally one more receptionist is present, I found the staff to be polite and helpful.\n\nThe room I got last time had a great outdoor seating available which I found quite interesting.\n\nRecommended",
+      "Nice hotel nice place there  wander full near bey airocity and never bey airport wander ful room and comfortable rooms and clean good staff and nice mannager is good and lovely \ud83d\udc4d",
+      "Vrey closed to Airport free airport pickup nice room and staff  2 mnt  walking  aerocity metro. Recomend  this hotel\nHotel Delhi Airport plaza. Good"
+    ],
+    "negative_snippets": [
+      "This is going to be the longest review I have written & probably never written a bad review ever. I book cheap places, because they offer what they have & sometimes, I am just looking for a clean bed & bathroom, that's it. So, let me start with check in. I meet a girl at check in, who gives me room 206 at around 2 pm. There is no room to the key & several people disturb me when I am there to sort out the room key thing. The bed is REALLY NICE for the price & I get a good sleep there. BATHROOM IS DIRTY BLACK & no one has attempted to change. The sheets have not been changed, (but I do not have a problem with it). I see the previous person's hair all around the bed & I am absolutely OK with this. Then until 7 pm, when I do not get the room key, I ask & the girl & the hotel owner tell me that it is totally safe to leave my belongings in my room without lock & key, since the hotel is covered by CCTV. Finally, they change my room. I ask them for an iron box & they say they do not have it. Then, they make me one hour trying to find some one & still don't offer help. When I read my booking carefully, I read IRON BOX in the offerings. Thankfully, a male on duty at night promise to get it to me by 9 AM & he does it. Then when I ask for my complimentary ONE WAY transfer to the airport, they charge me Rs 150 as parking charges. Again, when I ask the girl to give me a receipt of Rs 150, she gets the complimentary ride.",
+      "Very very dirty place. Dirty building. No parking nearby. Rooms are filthy and bathroom seems like never been cleaned."
+    ]
+  },
+  "review_summary": "Based on 5 reviews.",
+  "positive_themes": {
+    "friendly_staff": 3,
+    "good_location": 3,
+    "clean_rooms": 3,
+    "great_value": 1
+  },
+  "negative_themes": {
+    "dirty_rooms": 2,
+    "parking_issues": 2
+  }
+}

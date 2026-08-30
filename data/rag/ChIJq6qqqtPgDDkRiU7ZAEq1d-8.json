@@ -1,0 +1,46 @@
+{
+  "hotel_id": "ChIJq6qqqtPgDDkRiU7ZAEq1d-8",
+  "hotel_name": "Sunbird Resorts",
+  "area": "Surajkund",
+  "budget_category": "Luxury",
+  "rating": 4.2,
+  "trust_score": 0.7642523744056168,
+  "travel_purpose_tags": [
+    "Business"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "moderate",
+    "review_count": 5,
+    "positive_snippet_count": 3,
+    "negative_snippet_count": 0,
+    "positive_theme_count": 3,
+    "negative_theme_count": 0
+  },
+  "aspect_scores": {
+    "cleanliness": 0.5,
+    "service": 0.9979122877120972,
+    "location": 0.5,
+    "value_for_money": 0.9959497451782228,
+    "staff_behavior": 0.9998748302459716
+  },
+  "recommendation_features": {
+    "popularity_score": 0.5154694146898892,
+    "rating_score": 4.2,
+    "sentiment_score": 0.7618733435869217
+  },
+  "review_evidence": {
+    "positive_snippets": [
+      "Place is good with spacious room and open area. But need improvement in food. Taste was average",
+      "Visited resturant. Lots of space, value for money. Government sector. Service slow but cordial. I like it.",
+      "We recently stayed at Sunbird Tourist Resort for a wedding event, and it was truly a wonderful experience. From the moment we arrived, Anand Ji made sure we were well taken care of. He was an amazing host, always attentive to our needs and ensuring everything ran smoothly.\n\nThe food was delicious, offering a great variety to suit everyone\u2019s tastes, and the overall hospitality of the staff was excellent. They were polite, prompt, and always ready to assist with a smile.\n\nA special thanks to Anand Ji for his outstanding support and warmth throughout our stay. He truly made our event even more memorable.\n\nHighly recommend Sunbird Tourist Resort for any special occasions or a comfortable stay!"
+    ],
+    "negative_snippets": []
+  },
+  "review_summary": "Based on 5 reviews.",
+  "positive_themes": {
+    "good_food": 3,
+    "great_value": 1,
+    "friendly_staff": 1
+  },
+  "negative_themes": {}
+}

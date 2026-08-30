@@ -1,0 +1,50 @@
+{
+  "hotel_id": "ChIJX6pW1UYcDTkRgiws2YCBsJw",
+  "hotel_name": "Hotel Le Seasons",
+  "area": "Mahipalpur",
+  "budget_category": "Mid-Range",
+  "rating": 3.9,
+  "trust_score": 0.7200834458067296,
+  "travel_purpose_tags": [
+    "Leisure"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "moderate",
+    "review_count": 5,
+    "positive_snippet_count": 3,
+    "negative_snippet_count": 1,
+    "positive_theme_count": 5,
+    "negative_theme_count": 0
+  },
+  "aspect_scores": {
+    "cleanliness": 0.7662025336176157,
+    "service": 0.6883180464307466,
+    "location": 0.7662025336176157,
+    "value_for_money": 0.5327795036137103,
+    "staff_behavior": 0.6884716674685478
+  },
+  "recommendation_features": {
+    "popularity_score": 0.7186137036371202,
+    "rating_score": 3.9,
+    "sentiment_score": 0.6130017676507122
+  },
+  "review_evidence": {
+    "positive_snippets": [
+      "My recent stay at Hotel Le Season was primarily for an overnight short official transit, and for that purpose, it\u2019s an excellent, strategically located choice. The major selling point is its incredible proximity to New Delhi International Airport and its direct location on the NH-8 service road, which makes getting to or from the terminals a quick and hassle-free affair.\nThe Deluxe Room I occupied was very clean, well-maintained, and surprisingly soundproof\u2014a huge plus given the busy road outside\u2014it felt great and the decor leaned toward the traditional side, suggesting the property is well maintained. The air conditioning worked perfectly, but some of the bathroom fittings could use a modern update.\nService, however, was generally a highlight. The front desk staff were quick, courteous, and efficient with the express check-in and check-out process. They were clearly accustomed to handling all the guests/ travelers.\nThe on-site dining as well as breakfast is decent. I found the quality of the Indian dishes at the breakfast to be quite flavorful and sufficient variety for continental options as well. Be aware that dining in the hotel can be a little pricey compared to local restaurants.\nOverall, if you are looking for an extremely convenient, clean, and reliably comfortable place to crash for an airport layover or a short business trip where proximity to Aerocity and the Metro is key, Le Season delivers. It\u2019s certainly a better value than some of the more expensive Aerocity properties, provided you are willing to overlook the somewhat aging interiors.\nPros: Unbeatable airport proximity, excellent soundproofing, fast check-in.\nCons: Rooms can be small, internal food prices are high.",
+      "I had a wonderful stay at hotel le seasons\u2014 the staff were warm, welcoming, and always ready to help, which made me feel truly cared for throughout my visit. The rooms were spotless, well-maintained, and offered a comfortable space to relax after sightseeing. The food, especially the breakfast buffet, was delicious with plenty of variety to suit every taste. What stood out the most was the calm and peaceful ambiance of the property, with beautiful interiors and thoughtful amenities that added to the overall experience. The hotel\u2019s location was also very convenient, making it easy to explore the nearby attractions. Overall, it was a delightful experience and I would happily return. I would also like to show my gratitude to Mr Dhirendra for letting me know about his workplace....",
+      "A hotel very near to airport. We were looking a hotel in aerocity but booked this one. This in Mahipalpur, on the highway. Rooms are well maintained, neat and clean. Service and food both were excellent. Ms Priyanka was taking updates on arrival and stay. I recommend this for stay if u have a flight to catch or reaching late"
+    ],
+    "negative_snippets": [
+      "I recently stayed at Le Seasons Hotel with a group of around 20 people, and unfortunately it was one of the worst hotel experiences we\u2019ve had. The rooms were extremely small and congested, with almost no ventilation, making them feel very suffocating. The hallways were dark and poorly maintained, which added to the overall unpleasant atmosphere.\n\nSeveral basic facilities were not working properly \u2014 the water taps and showers in some rooms were malfunctioning, which was very inconvenient. For a hotel that claims to have a 4-star rating, the condition and quality of the rooms were very disappointing and misleading. Overall, the stay did not meet even basic expectations, and I would not recommend this place."
+    ]
+  },
+  "review_summary": "Based on 5 reviews.",
+  "positive_themes": {
+    "clean_rooms": 4,
+    "friendly_staff": 3,
+    "good_location": 4,
+    "great_value": 1,
+    "good_food": 4
+  },
+  "negative_themes": {}
+}

@@ -1,0 +1,53 @@
+{
+  "hotel_id": "ChIJR3VQqa0ZDTkRTEA4kYW9eMo",
+  "hotel_name": "Limewood Stay Oasis",
+  "area": "Sector 52",
+  "budget_category": "Budget",
+  "rating": 4.8,
+  "trust_score": 0.8068448482219788,
+  "travel_purpose_tags": [
+    "Leisure"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "rich",
+    "review_count": 5,
+    "positive_snippet_count": 3,
+    "negative_snippet_count": 2,
+    "positive_theme_count": 4,
+    "negative_theme_count": 2
+  },
+  "aspect_scores": {
+    "cleanliness": 0.7491099647886585,
+    "service": 0.499272428889526,
+    "location": 0.999843955039978,
+    "value_for_money": 0.5,
+    "staff_behavior": 0.7490451750345528
+  },
+  "recommendation_features": {
+    "popularity_score": 0.5844663889823761,
+    "rating_score": 4.8,
+    "sentiment_score": 0.5993762079393491
+  },
+  "review_evidence": {
+    "positive_snippets": [
+      "I had a great stay at this hotel. The staff was welcoming and professional, and the check-in process was seamless. The room was clean, comfortable, and well-maintained. The location was convenient, and the overall service exceeded expectations. I would definitely recommend it and stay here again.\n\nAssisted by mohit tiwari, pankaj",
+      "It was a good experience! The service staff and receptionist make up for some sort of dullness in the rooms. The linen at times look stained even though clean but just one mention of the same to the team and they will replace it for you. Brijesh from the service team and the managing team at reception have been very accommodating of the requests and took care of the stay with utmost professionalism.",
+      "The rooms are clean and well lit, not very big but sufficient for two person, bathroom was clean, toiletry was not provided apart from bath towels.\nThe staff was very good and food is also nice. I enjoyed my stay there. They also have ample parking space"
+    ],
+    "negative_snippets": [
+      "Check-in: Oct 26th 2025\nCheck-out: Oct 27th 2025\nMy stay was mixed and somewhat disappointing. The rooms were average and not very well maintained, although the staff did accommodate my request to change rooms twice, which I appreciate. Parking was a major issue, as there was no designated space and my car had to be parked on the pavement in front of the property.\nBreakfast service was poor \u2014 bananas were unavailable, my order had to be modified, and even a simple poha with a milkshake was not delivered for over 45 minutes. I eventually had to leave without having breakfast. Additionally, no one assisted with my luggage, and it felt uncomfortable that the reception staff asked me to submit a review immediately at the time of check-in. Overall, the experience needs improvement, especially in service and basic amenities.",
+      "Very bad experience. Our bed sheets were very dirty and stained. There were no towels. There were hairs laying all over the bathroom floor. The room and hallways smelled like fire smoke. The dirty dishes from the room service were still in the hallways in the morning. There was a large gap under the room door, so you heard everyting that happend in the hallways, lobby and even other rooms."
+    ]
+  },
+  "review_summary": "Based on 5 reviews.",
+  "positive_themes": {
+    "clean_rooms": 3,
+    "friendly_staff": 4,
+    "good_location": 1,
+    "good_food": 2
+  },
+  "negative_themes": {
+    "parking_issues": 2,
+    "dirty_rooms": 1
+  }
+}

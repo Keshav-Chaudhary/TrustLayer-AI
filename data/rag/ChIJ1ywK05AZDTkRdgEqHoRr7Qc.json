@@ -1,0 +1,53 @@
+{
+  "hotel_id": "ChIJ1ywK05AZDTkRdgEqHoRr7Qc",
+  "hotel_name": "The Royal Oak - Hotel In Sector 40, Gurgaon",
+  "area": "Sector 40",
+  "budget_category": "Mid-Range",
+  "rating": 4.3,
+  "trust_score": 0.5681091257398443,
+  "travel_purpose_tags": [
+    "Budget"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "moderate",
+    "review_count": 5,
+    "positive_snippet_count": 1,
+    "negative_snippet_count": 3,
+    "positive_theme_count": 5,
+    "negative_theme_count": 2
+  },
+  "aspect_scores": {
+    "cleanliness": 0.0006572424463229,
+    "service": 0.1250048154809822,
+    "location": 0.1115735694766044,
+    "value_for_money": 0.1829850155627354,
+    "staff_behavior": 0.1216470039798877
+  },
+  "recommendation_features": {
+    "popularity_score": 0.5274866041051129,
+    "rating_score": 4.3,
+    "sentiment_score": 0.0974084363144356
+  },
+  "review_evidence": {
+    "positive_snippets": [
+      "All the staff sarvice is so parfect was good cleaning  and friendly staff was helpful parking also available\nLocation is good \ud83d\udc4d near by Unitech cyber park"
+    ],
+    "negative_snippets": [
+      "I booked the hotel for one night stay. The charge against the kind of rooms is fine. I am ready to give them more if they change their Reception Manager and hire a better person may be atleast who has done Hospitality course. Hire an intern if the budget is less. BUT PLEASE FIRE THE CURRENT MANAGER.",
+      "Please don't ever use it for long stays. I paid 27k as my room deposit and also always paid my monthly rent on the first date, still they didn't return my deposit when I left. They don't value your privacy, one of the staff came to my room asking for money to borrow and he was drunk, as a woman I felt really uncomfortable. The food is average at best, sometimes too oily. Staff is the worst, have no quick service, no manners. Even the manager at the front desk only cares about finding ways to extort money. I had a issue with my bathroom tap but it never got fixed in 4 months. They would never clean my room on time. Sometimes power goes out and have to call multiple times to get it back. Also they charge so much for the power, its prepaid and staff uses your room to clean and leaves all switches on. The washing machine is so dirty and mostly disfunction al that I had to use external laundry service. The worst experience ever, don't waste your money here ever.",
+      "Breakfast was not appetizing or tasting\nGreat. No curds for aloo paratha, no eggs, no coffee. Items served were macaroni!!\n\nHad some creepy crawlies in the washroom. Had to request a reclean of the toilet as the same was still soiled by the last user. Room was nice in photos but maintenance needs improvement"
+    ]
+  },
+  "review_summary": "Based on 5 reviews.",
+  "positive_themes": {
+    "clean_rooms": 4,
+    "friendly_staff": 3,
+    "good_location": 1,
+    "great_value": 1,
+    "good_food": 2
+  },
+  "negative_themes": {
+    "parking_issues": 1,
+    "dirty_rooms": 1
+  }
+}

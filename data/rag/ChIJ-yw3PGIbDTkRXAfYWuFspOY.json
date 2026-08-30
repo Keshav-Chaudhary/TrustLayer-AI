@@ -1,0 +1,50 @@
+{
+  "hotel_id": "ChIJ-yw3PGIbDTkRXAfYWuFspOY",
+  "hotel_name": "Treebo Prime Elight",
+  "area": "Ramphal Chowk Rd",
+  "budget_category": "Mid-Range",
+  "rating": 4.6,
+  "trust_score": 0.6458425147707669,
+  "travel_purpose_tags": [
+    "Budget"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "moderate",
+    "review_count": 5,
+    "positive_snippet_count": 1,
+    "negative_snippet_count": 3,
+    "positive_theme_count": 3,
+    "negative_theme_count": 1
+  },
+  "aspect_scores": {
+    "cleanliness": 0.3336080526545022,
+    "service": 0.0005521565326489,
+    "location": 0.5,
+    "value_for_money": 0.0005133406375534,
+    "staff_behavior": 0.0005133406375534
+  },
+  "recommendation_features": {
+    "popularity_score": 0.5507381471556665,
+    "rating_score": 4.6,
+    "sentiment_score": 0.2005531121860257
+  },
+  "review_evidence": {
+    "positive_snippets": [
+      "Okies... Not so clean but good to stay"
+    ],
+    "negative_snippets": [
+      "Room was full of coackroaches and flies and not very clean. The bed sheet had lots of stains from god knows what. Options for breakfast was missing and the food tasted average. The lift does not go down till the ground floor making it difficult to carry luggage from reception to ground floor. Overall a below average experience.",
+      "Expected a hygeinic stay but was quite disappointing in terms of cleanliness",
+      "Not a great hotel. Unsure how this has such a great rating. Bedsheets and blankets were not clean, rooms have no sound proofing whatsoever. There was a smell of smoke even though there were boards that said \"no smoking\". When confronted the staff about the smell, he mentioned \"Sir logon ko kaise mana kar sakte hai\". No accountability. I had an overnight stay of 5 hours so I didn't bother complaining about the blanket and slept wearing my jacket. Lacks basic cleanliness. I didn't expect anything else in this budget but was disappointed to find the lack thereof. Would not recommend."
+    ]
+  },
+  "review_summary": "Based on 5 reviews.",
+  "positive_themes": {
+    "clean_rooms": 4,
+    "good_food": 1,
+    "friendly_staff": 1
+  },
+  "negative_themes": {
+    "dirty_rooms": 2
+  }
+}

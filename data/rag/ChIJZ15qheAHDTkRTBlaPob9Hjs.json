@@ -1,0 +1,47 @@
+{
+  "hotel_id": "ChIJZ15qheAHDTkRTBlaPob9Hjs",
+  "hotel_name": "Townhouse Rama Hotel",
+  "area": "Rohini",
+  "budget_category": "Mid-Range",
+  "rating": 3.1,
+  "trust_score": 0.3629570572333374,
+  "travel_purpose_tags": [
+    "Budget"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "moderate",
+    "review_count": 5,
+    "positive_snippet_count": 0,
+    "negative_snippet_count": 3,
+    "positive_theme_count": 1,
+    "negative_theme_count": 2
+  },
+  "aspect_scores": {
+    "cleanliness": 0.000702677090885,
+    "service": 0.0009392158244735,
+    "location": 0.0003113324346486,
+    "value_for_money": 0.0003113324346486,
+    "staff_behavior": 0.0005874894850421
+  },
+  "recommendation_features": {
+    "popularity_score": 0.4580001072406909,
+    "rating_score": 3.1,
+    "sentiment_score": 0.0007089537393766
+  },
+  "review_evidence": {
+    "positive_snippets": [],
+    "negative_snippets": [
+      "AVOID AT ALL COSTS!\nA Traumatic and Unsanitary Nightmare.\nIf I could give this place zero stars, I would. My recent stay here was not just disappointing; it was a traumatic ordeal that ended with my companions and me seeking refuge at a railway station in the middle of the night. Do not let the listing fool you; this place is a genuine health and safety hazard.\nThe Room: The photos speak for themselves, but let me be clear. The bedsheets were covered in large, disgusting stains and the pillows were visibly soiled and lumpy. The air conditioning unit was caked in a thick layer of grime. The overall state of the room was one of complete neglect and filth, making it absolutely uninhabitable.\nThe Bathroom: The bathroom was a disaster zone. The tap on the sink was so corroded and covered in buildup that it was practically crumbling. The shower fixtures were similarly rusted and dysfunctional. The entire space was dirty, with stained tiles and a general feeling of decay. Basic hygiene was simply not possible.\nOur Ordeal: The conditions were so appalling that we immediately complained, but the staff were completely indifferent. For our own safety and well-being, we had no choice but to leave late at night\u2014a humiliating and dangerous experience.\nThis establishment should not be allowed to operate. I am urging anyone reading this: DO NOT book a room here. You will be putting your health, safety, and money at risk. I am appalled that this property is even listed on booking platforms.",
+      "In this hotel , the experience was very bad , as I faced many problems like after booking in this hotel from agoda app then during check in process they told that booking was not done . Then they told us to pay 300\u20b9 extra but after conversation they told that the booking was done through oyo website. After talking to customer service of oyo , the issue resolved but after getting room and after 10 min. , they told us to come to reception, then the new problem arose as they said, one of my cousin brother is under age , they were neither giving room nor giving refund and the receptionist was so rude that he didn't want to resolve problems then again I had to talk to oyo customer service, they were also denying that they would not give any room , they were also denying to give refund and were not solving the problem . And I was disheartened to choose this hotel , and I will make sure that I will not take this type of hotels .",
+      "No TV, no ac remote, no geyser, no room service, dirty room.aur kitna batau? Just a bawas hotel I stayed ever"
+    ]
+  },
+  "review_summary": "Based on 5 reviews.",
+  "positive_themes": {
+    "friendly_staff": 2
+  },
+  "negative_themes": {
+    "dirty_rooms": 3,
+    "rude_staff": 1
+  }
+}

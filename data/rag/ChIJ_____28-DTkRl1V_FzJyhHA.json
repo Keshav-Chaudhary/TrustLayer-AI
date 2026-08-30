@@ -1,0 +1,54 @@
+{
+  "hotel_id": "ChIJ_____28-DTkRl1V_FzJyhHA",
+  "hotel_name": "Ginger Manesar",
+  "area": "Imt Manesar",
+  "budget_category": "Mid-Range",
+  "rating": 3.7,
+  "trust_score": 0.6850901171099989,
+  "travel_purpose_tags": [
+    "Leisure",
+    "Business",
+    "Family"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "moderate",
+    "review_count": 5,
+    "positive_snippet_count": 2,
+    "negative_snippet_count": 3,
+    "positive_theme_count": 4,
+    "negative_theme_count": 1
+  },
+  "aspect_scores": {
+    "cleanliness": 0.9991887211799622,
+    "service": 0.9991887211799622,
+    "location": 0.9991779029369354,
+    "value_for_money": 0.9996659755706788,
+    "staff_behavior": 0.9994273483753204
+  },
+  "recommendation_features": {
+    "popularity_score": 0.6964041658930418,
+    "rating_score": 3.7,
+    "sentiment_score": 0.6014591938292142
+  },
+  "review_evidence": {
+    "positive_snippets": [
+      "Rooms are comparatively small but well arranged. Staffs are well behaved and come operative. Food is just okay. Location is brilliant of you are visiting for industrial purposes. Wide view from your rooms cam take your heart but it was foggy morning in my case.",
+      "I really loved the environment. Room was very neat and clean . Small fridge steals the show. Hotel staff is very much chilled and too polite. Reception and Security staff is very helpful. They are very much lively and always have smile in their faces.\nDefinitely recommend others."
+    ],
+    "negative_snippets": [
+      "The telephone number provided does not work. Website does not identify its own hotel at Manesar, pathetic.",
+      "Stopped by this hotel for quick coffee.\nStaff: Courteous and Hospitable\nAmbience: Decent crowd. pretty good stay one can expect as part of relaxation, keeping in mind the location. All factory people can depend on the chain since it belongs to a brand.\nPrice: competitive pricing\nParking: available. Roads are well built around.",
+      "The hotel is pretty decent for what it charges and the rooms were neat. But couple of problems here - the hotel didn't have restaurant working when I was staying there. Also the room didn't have a window so it felt claustrophobic, and not having an open dining area or a balcony to get air made it worse. They do have rooms which have windows I think they would be better."
+    ]
+  },
+  "review_summary": "Based on 5 reviews.",
+  "positive_themes": {
+    "friendly_staff": 3,
+    "good_location": 2,
+    "good_food": 1,
+    "clean_rooms": 2
+  },
+  "negative_themes": {
+    "parking_issues": 1
+  }
+}

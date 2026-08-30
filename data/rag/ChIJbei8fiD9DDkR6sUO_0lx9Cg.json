@@ -1,0 +1,52 @@
+{
+  "hotel_id": "ChIJbei8fiD9DDkR6sUO_0lx9Cg",
+  "hotel_name": "Hotel Royal Afghan",
+  "area": "New Delhi",
+  "budget_category": "Mid-Range",
+  "rating": 3.9,
+  "trust_score": 0.6089809232483195,
+  "travel_purpose_tags": [
+    "Budget"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "moderate",
+    "review_count": 5,
+    "positive_snippet_count": 2,
+    "negative_snippet_count": 3,
+    "positive_theme_count": 4,
+    "negative_theme_count": 1
+  },
+  "aspect_scores": {
+    "cleanliness": 0.5,
+    "service": 0.5,
+    "location": 0.4985092172646545,
+    "value_for_money": 0.4992846859568089,
+    "staff_behavior": 0.6656509529566392
+  },
+  "recommendation_features": {
+    "popularity_score": 0.516562458327211,
+    "rating_score": 3.9,
+    "sentiment_score": 0.399465466736001
+  },
+  "review_evidence": {
+    "positive_snippets": [
+      "Room was good as per the price, the staff and manager were very helpful. I felt safe and secured",
+      "Good location hotel for budget travel with good and helpful staff but do not expect cleanliness."
+    ],
+    "negative_snippets": [
+      "I recently stayed at this hotel, and honestly, it was disappointing. The room was tiny and cramped, definitely not worth the price. As for cleanliness- well, it wasn\u2019t even up to the mark considering what I paid.\nBut the worst part was the staff. Unbelievably awkward and downright unprofessional. They asked ridiculous and completely inappropriate questions- like seriously, asking if I was planning to bring my girlfriend to the room? Absolutely ridiculous! Their behavior was rude, intrusive, and frankly, embarrassing.\nOverall, I wouldn\u2019t recommend this hotel unless you can tolerate the staff\u2019s ridiculous attitude.",
+      "The property is just very old and worn. Worst is the location it\u2019s far from cirt centre and I didn\u2019t even see one restaurant nearby. The neighbourhood just did not seem nice at all\nAlso rhe charge double the price of the nicer hotels who are actually in city centre",
+      "worst room , don't even try to checkin worst experience. lack of cleanliness, lack of basic facilities including bath tub. No proper response."
+    ]
+  },
+  "review_summary": "Based on 5 reviews.",
+  "positive_themes": {
+    "friendly_staff": 3,
+    "clean_rooms": 3,
+    "good_location": 2,
+    "great_value": 1
+  },
+  "negative_themes": {
+    "rude_staff": 1
+  }
+}

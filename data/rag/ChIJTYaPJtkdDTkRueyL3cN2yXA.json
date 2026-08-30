@@ -1,0 +1,51 @@
+{
+  "hotel_id": "ChIJTYaPJtkdDTkRueyL3cN2yXA",
+  "hotel_name": "Minimalist Poshtel & Suites",
+  "area": "Hauz Khas",
+  "budget_category": "Mid-Range",
+  "rating": 4.0,
+  "trust_score": 0.6445458816498005,
+  "travel_purpose_tags": [
+    "Budget"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "moderate",
+    "review_count": 5,
+    "positive_snippet_count": 2,
+    "negative_snippet_count": 3,
+    "positive_theme_count": 5,
+    "negative_theme_count": 0
+  },
+  "aspect_scores": {
+    "cleanliness": 0.3335426026508988,
+    "service": 0.5001063923482434,
+    "location": 0.5001137230865424,
+    "value_for_money": 0.2502187516074627,
+    "staff_behavior": 0.3334896408681136
+  },
+  "recommendation_features": {
+    "popularity_score": 0.6202697805803141,
+    "rating_score": 4.0,
+    "sentiment_score": 0.4001345535740256
+  },
+  "review_evidence": {
+    "positive_snippets": [
+      "The single room had all the basic comforts for a short stay. It as not spectacular but what made the experience of staying at Minimalist poshtel was the smiling faces, friendly service and effort the staff went to to make me comfortable. Also the breakfast at the partner business was delicious I tried all the Indian options on the menu.\nHauz Khas is also a charming village. I would highly recommend this hotel for short stays in South Delhi. Thank you for your hospitality and kindness.",
+      "Nice hostel, reasonable price and great service. I stayed in the capsules area, the place itself is well maintained and clean. Most of the time it was quite, but I could hear people talking across the wall of my capsule every night, so using ear plugs is highly recommended.\nThe breakfast is nice with pleasant dining area, and the service is really good. The location is fine, quite and close to the main road, the only problem is that sometimes taxis and tuktuks cannot enter this area because of traffic. They helped to carry my luggage to the entrance of the neighborhood, which I really appreciate."
+    ],
+    "negative_snippets": [
+      "DO NOT STAY HERE. IT IS A SCAM. I visited in January 2026 after booking online, only to arrive and find a cockroach-infested room that looked completely different to the one in the photos!\n\nIf I were to give the benefit of the doubt to the company then I would say that it's possible that, when it originally opened, it slightly resembled its photos; after having the bathroom extractor fan nearly fall on me while washing (leaving an exposed electrical wire next to a running shower), and feeling cockroaches run over my fingers whilst using my laptop on my desk, I'm much more inclined to believe that the run-down, grotty, and ironically-named \"Minimalist Poshtel & Suites\" has never resembled the photoshopped pictures on its website, and exists only as an avenue through which to scam unsuspecting tourists with their strict no-refunds policy.\n\nI cut my 7-day stay short, and found another hostel nearby after 2 days; there are infinitely better options at the same price-point, and you won't have difficulty finding somewhere nicer at even half the price. Save yourself the time, stress, and money and skip this place entirely.",
+      "The photos are highly misleading. The actual stay is shabby and old. Not very well maintained. Rooms are okayish but not as good as the pictures. I got a 4 star nearby in the same rate and booked there and skipped this stay.\nUnless you get like a very low rate, this isn't worth it. Staff panders more to foreign tourists and ignores the local guests.",
+      "Do not book any rooms in this hotel , it\u2019s not worth it! Worst experience of a lifetime, the rooms look nothing like in the website. Checked in around 1AM, noticed couple of flies in the room. Ignored it because was too tired. The bathroom was barely maintained with seepage on walls, shower was broken. Next day morning when I moved the curtains to see the \u201csunrise view\u201d, I was greeted with at least 12-15 live flies living behind the curtain! The entire stay felt disgusting, unhygienic and left a bad impression. Immediately checked out and let the reception know about this issue.The response was if I had informed earlier, the hotel staff would have sprayed the room.\nHow about you check the hotel rooms before assigning it to guests?"
+    ]
+  },
+  "review_summary": "Based on 5 reviews.",
+  "positive_themes": {
+    "friendly_staff": 3,
+    "good_food": 2,
+    "clean_rooms": 1,
+    "good_location": 3,
+    "great_value": 2
+  },
+  "negative_themes": {}
+}

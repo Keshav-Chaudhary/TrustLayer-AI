@@ -1,0 +1,53 @@
+{
+  "hotel_id": "ChIJWZJF18sYDTkRlMhB1jn6drk",
+  "hotel_name": "Anya Gurgaon",
+  "area": "Sector 43",
+  "budget_category": "Mid-Range",
+  "rating": 4.0,
+  "trust_score": 0.7294427944275572,
+  "travel_purpose_tags": [
+    "Leisure"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "rich",
+    "review_count": 5,
+    "positive_snippet_count": 3,
+    "negative_snippet_count": 2,
+    "positive_theme_count": 4,
+    "negative_theme_count": 2
+  },
+  "aspect_scores": {
+    "cleanliness": 0.7499719025727245,
+    "service": 0.0013647329615196,
+    "location": 0.9998179972171783,
+    "value_for_money": 0.5,
+    "staff_behavior": 0.6004507522506174
+  },
+  "recommendation_features": {
+    "popularity_score": 0.7189438097049816,
+    "rating_score": 4.0,
+    "sentiment_score": 0.6004507522506174
+  },
+  "review_evidence": {
+    "positive_snippets": [
+      "Stayed at Anya Hotel for a week and honestly, it was such a pleasant experience. The room was really good \u2014 super clean, comfortable, and well-maintained. The staff were so polite, humble, and always ready to help.\n\nParking Available - Sector 42-43 Rapid Metro available at 2mins walking distance\n\nThe best part has to be the breakfast! They offer a different buffet spread every morning \u2014 from chicken sausages, grilled fish, pav bhaji, parathas, omelettes, fruits, juices, and dry fruits to South Indian dishes like dosa and medu vada.\n\nIf you\u2019re staying here, definitely ask for a masala dosa from Chef Anuj at the live counter \u2014 he makes the best one! And don\u2019t miss the watermelon squeeze juice, it\u2019s super refreshing. \ud83c\udf49\n\nOverall, loved my stay \u2014 cozy room, great food, and a beautiful view. Would absolutely recommend this place! \ud83c\udf3f\u2728\n\nAttaching few images for Proof",
+      "Wonderful family-friendly stay at Anya Hotel Gurgaon. Spacious, clean rooms and calm ambience made it very comfortable for us and our 1-year-old child.  Courteous staff, good breakfast and convenient location made it a relaxing and enjoyable family getaway.",
+      "This was our second stay at Anya Hotel, and it was just as good as the first. The rooms were clean and comfortable. The breakfast was delicious with plenty of variety.\n\nThe staff were polite, helpful, and made us feel very welcome.\nWe\u2019d happily visit again!"
+    ],
+    "negative_snippets": [
+      "Terrible experience.\nTo start with it\u2019s not even a 4 star hotel.\nThe infrastructure and service is that of a 3 star hotel\nThe staff at the reception was very cold and unwelcoming. The towels in the bathroom were so old they didn\u2019t even look white. The food at the breakfast was undercooked. I had to repeatedly call the house keeping to get napkins. I was there for 4 nights and after 2 nights my room key stopped working and I had to run around to get it fixed.\nLightings were so poor we couldn\u2019t do makeup properly at any place in the room.\nOur dustbin was not cleared till moment we checked out.\nOverall a pretty unpleasant experience. Would never recommend or book my stay again.",
+      "I had a disappointing experience during my recent stay. At the time of check-in, I clearly mentioned that I would be checking out early and requested a breakfast box accordingly. The staff confirmed this arrangement, and based on that assurance, I booked the room with breakfast included.\n\nHowever, when I called the reception the night before to reconfirm my wake-up call at 5:00 AM and breakfast box at 5:30 AM, I was informed that the morning team had forgotten to note my request. I was then told that since the chef had already left, nothing could be done.\n\nWhen I asked why the guest should suffer due to the hotel\u2019s internal miscommunication\u2014especially after paying for the service\u2014the response was simply, \u201cSir, I\u2019m just a junior working here.\u201d\n\nI find this attitude unprofessional. Regardless of hierarchy, guests deserve a hassle-free experience and proper service as promised. I hope the management addresses this issue seriously and ensures better communication among their staff in the future."
+    ]
+  },
+  "review_summary": "Based on 5 reviews.",
+  "positive_themes": {
+    "clean_rooms": 3,
+    "friendly_staff": 5,
+    "good_food": 5,
+    "good_location": 1
+  },
+  "negative_themes": {
+    "parking_issues": 1,
+    "rude_staff": 1
+  }
+}

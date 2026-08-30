@@ -1,0 +1,50 @@
+{
+  "hotel_id": "ChIJYcsBST0ZDTkR5eL0sZwm_rI",
+  "hotel_name": "Ivory Leaf Stays",
+  "area": "Sector 57",
+  "budget_category": "Budget",
+  "rating": 4.8,
+  "trust_score": 0.8935526116063478,
+  "travel_purpose_tags": [
+    "Leisure",
+    "Business",
+    "Family"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "moderate",
+    "review_count": 5,
+    "positive_snippet_count": 3,
+    "negative_snippet_count": 0,
+    "positive_theme_count": 5,
+    "negative_theme_count": 0
+  },
+  "aspect_scores": {
+    "cleanliness": 0.9998515844345092,
+    "service": 0.9998500347137452,
+    "location": 0.9998692274093628,
+    "value_for_money": 0.9998692274093628,
+    "staff_behavior": 0.9998579621315002
+  },
+  "recommendation_features": {
+    "popularity_score": 0.3914140521329489,
+    "rating_score": 4.8,
+    "sentiment_score": 0.9998525381088256
+  },
+  "review_evidence": {
+    "positive_snippets": [
+      "The hotel location was very good.\n\nThe room was clean and comfortable.\n\nThe staff was friendly and helpful.\n\nThe service was fast and on time.\n\nThe food was tasty and fresh.\n\nThe bathroom was neat and hygienic.\n\nThe hotel was worth the price.\n\nOverall, my experience was very nice.\n\nI would like to stay here again in the future.",
+      "Good neat and clean room, wonderful staff, specially Shailander! He was very helpful and friendly. Need more amenities in room although. Good comfortable stay. Keep it up.",
+      "Very nice hotel rooms are clean and spacious staff is very helpful had a wonderful stay with definitely stay back in future\u2026!"
+    ],
+    "negative_snippets": []
+  },
+  "review_summary": "Based on 5 reviews.",
+  "positive_themes": {
+    "clean_rooms": 3,
+    "friendly_staff": 4,
+    "good_location": 1,
+    "great_value": 1,
+    "good_food": 2
+  },
+  "negative_themes": {}
+}

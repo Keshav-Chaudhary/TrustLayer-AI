@@ -1,0 +1,49 @@
+{
+  "hotel_id": "ChIJlVva8wIDDTkROmiajVKodCw",
+  "hotel_name": "Hotel Royal Saffron - Kirti Nagar",
+  "area": "New Delhi",
+  "budget_category": "Mid-Range",
+  "rating": 4.1,
+  "trust_score": 0.523273067256654,
+  "travel_purpose_tags": [
+    "Budget"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "moderate",
+    "review_count": 5,
+    "positive_snippet_count": 0,
+    "negative_snippet_count": 3,
+    "positive_theme_count": 4,
+    "negative_theme_count": 1
+  },
+  "aspect_scores": {
+    "cleanliness": 0.0011448372194232,
+    "service": 0.0006046367343514,
+    "location": 0.0019015261204913,
+    "value_for_money": 0.0003838345583062,
+    "staff_behavior": 0.0008404361549764
+  },
+  "recommendation_features": {
+    "popularity_score": 0.586538975081628,
+    "rating_score": 4.1,
+    "sentiment_score": 0.0008404361549764
+  },
+  "review_evidence": {
+    "positive_snippets": [],
+    "negative_snippets": [
+      "The worst hotel experience I have ever had. I booked 15 rooms (with extra mattresses) for 3 days for a wedding gathering. So many commitments were made by the manager regarding our stay at the time of booking that the hotel would be providing kettles in every room with tea bags etc. But not a single room had any of these. We had to go to the reception to ask for these things several times. We had to call them up from our rooms in every 10-15 minutes but still till the last day not even half of these facilities were provided. We even had to ask for the extra mattresses again and again that we had paid for in advance. Breakfast options were fixed way before time but still we were not provided with all the items. We had to literally argue with the staff for all this but still they were least bothered. Customer service of this hotel is completely zero. I would recommend NOT to book this hotel especially for bulk gatherings. They have charged me 1.45 lakh for my stay and the services were not worth even a single penny! A major disappointment.",
+      "What an absolute dump, the rooms pictured here are NOT at all what we got. We arrived after a 20hr flight ready to sleep but the hotel was so disgusting that we immediately had to call around at 3am to find other options.\nWhen you arrive they ask for way too much info, they want both your passport and drivers license, their credit card machine won\u2019t take any of your cards which was Good because once we saw the room we fled the hotel.\nRoom: as you walk in you\u2019re immediate greeted with a heavy moist cigarette stench thick in the air. You notice there\u2019s all sorts of black scuffs along the wall from people\u2019s suitcases. That would\u2019ve been fine enough to ignore but to our Horror there was hair on the pillows, I pulled back the blanket to find indiscernible brown things on the sheets both stains and free roaming crusties. I immediately checked for bed bugs and thought I saw them but it was only more brown crusties being moved by my detective work. Toilet has poop splashes, would not dare go bare foot in the shower which was next to the toilet without a barrier. It was clear our room was not cleaned, we walked down the stairs to exit the building for fresh air and the stairway had multiple plates of food hanging out on each landing. We finally found another hotel 30mins away back towards the airport and we couldn\u2019t have been happier (shout out to the 4 Points Sheraton), I almost kissed the feet of the Sheraton hotel staff, fresh white beds, gorgeous clean bathroom, great breakfast buffet, gorgeous hotel. Don\u2019t not stay at the Royal Saffron it looks NOTHING like the pictures.",
+      "Mr.Adarsh that's for you as you fooled us....\ud83d\udc4e\ud83c\udd7e\ufe0f\nMy experience was worst and I think all the family members and my guest also has the same worst experience here. The service was awful...we had to carry out own luggage many times there was no bell boy....water bottles which was mentioned in our plan had to be requested for....no cleaning of rooms and washroom until we tab after them....they had promised to provide kettles, tea and coffee pouches but in my 3 days stay I did not even see them in our 15 rooms.\nThey just know how to lie while taking the bookings and once you enter there is no facility provide. The organizer was literally running after them asking to provide water bottles and other services which they promised for....on our breakfast, the things which were mentioned were not provided at all.... really 0 ratings to the hotel and their services. Don't be fooled by what they promise while booking.\nMr.Adarsh who took the booking and took advance payment in one go was not there a single day during the stay and he didn't receive a call once ....the staff kept on lying that he is busy, will come after some time, is in a meeting and also not well.....very well done Mr.Adarsh Sharma....you can go to this level was never expected. The bride to be who planned and organised every thing was seen running after them which is actually so herat breaking....\nMy sincere request to everyone don't do any booking for making your guests stay in this hotel....A big Zero to them\ud83d\udc4e\ud83c\udd7e\ufe0f"
+    ]
+  },
+  "review_summary": "Based on 5 reviews.",
+  "positive_themes": {
+    "friendly_staff": 5,
+    "great_value": 2,
+    "good_food": 4,
+    "clean_rooms": 3
+  },
+  "negative_themes": {
+    "dirty_rooms": 1
+  }
+}

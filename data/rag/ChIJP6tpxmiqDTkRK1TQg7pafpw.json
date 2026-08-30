@@ -1,0 +1,50 @@
+{
+  "hotel_id": "ChIJP6tpxmiqDTkRK1TQg7pafpw",
+  "hotel_name": "Palm Green Hotel & Resort",
+  "area": "New Delhi",
+  "budget_category": "Luxury",
+  "rating": 4.1,
+  "trust_score": 0.8285679995696421,
+  "travel_purpose_tags": [
+    "Business"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "moderate",
+    "review_count": 5,
+    "positive_snippet_count": 3,
+    "negative_snippet_count": 1,
+    "positive_theme_count": 5,
+    "negative_theme_count": 0
+  },
+  "aspect_scores": {
+    "cleanliness": 0.9998558759689332,
+    "service": 0.7499458888014487,
+    "location": 0.5,
+    "value_for_money": 0.0002223646006314,
+    "staff_behavior": 0.9998594125111898
+  },
+  "recommendation_features": {
+    "popularity_score": 0.8232639122777773,
+    "rating_score": 4.1,
+    "sentiment_score": 0.7999330599181121
+  },
+  "review_evidence": {
+    "positive_snippets": [
+      "Excellent Stay & Outstanding  Staff Behaviour \u2b50\u2b50\u2b50\u2b50\u2b50\n\nI had a wonderful experience at this hotel. The front office staff was extremely polite, humble, and always ready to help with a smile. Their behavior was very professional and welcoming, which made my stay comfortable and stress-free.\n\nFrom check-in to check-out, everything was well managed. The rooms were clean, hygienic, and well-maintained. The service was quick and efficient.\n\nI truly appreciate the hospitality and positive attitude of the entire team. Because of their excellent service and kind behavior, I would highly recommend this hotel to everyone.\n\nThank you for making my stay so pleasant. I will definitely visit again!",
+      "Palm Green Resort is a wonderful spacious beautifully structured Grand place having beautiful ambience Grand decor and very tasty food. I frequently come to perform as a singer and Anchor here for which I am greatly thankful to the owner of this place Mr Suresh Bansal ji and his family for this wonderful platform. I love this place and would recommend people to come here to celebrate all the desired functions which they would like to have. Last but not the least the staff of this place is very co-operative and helpful and prompt at service as well.  I see many hard working and alert staff in this place .",
+      "We hosted our destination wedding at Palm Green Hotel & Resort, Alipur, and it was an absolutely wonderful experience. From Mehendi and Sangeet to the Wedding ceremony, every function was beautifully managed.\nOur family stayed at the resort, and the hospitality, comfort, d\u00e9cor, and food were truly impressive. The staff was cooperative and professional throughout.\nHighly recommended for a memorable and well-organized wedding celebration. \u2728"
+    ],
+    "negative_snippets": [
+      "NEVER NEVER NEVER EVER  chose this property for your events and destination functions.  Substandard Housekeeping services make the good property and food not worth of any recommendations. Total disaster.\nWorst ever experience.  I am staying in a room in the property to attend the corporate event of my organization and writing this review on the spot.  Rooms lack even basic amenities.  TV in the room was without remote. This was very inconvenient for running TV. Even after 100 or so reminders and follow ups to housekeeping and front desk about TV remote and other things, they were completely unresponsive.\nMr Gagnesh who  heads the housekeeping department is not fit for the job.\nSo if you don't want to ruin your guests' experience about your function, never organise any event in this resort unless you want to spoil the memories."
+    ]
+  },
+  "review_summary": "Based on 5 reviews.",
+  "positive_themes": {
+    "clean_rooms": 1,
+    "friendly_staff": 3,
+    "good_food": 4,
+    "good_location": 1,
+    "great_value": 1
+  },
+  "negative_themes": {}
+}

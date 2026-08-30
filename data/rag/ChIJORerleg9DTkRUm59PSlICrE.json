@@ -1,0 +1,50 @@
+{
+  "hotel_id": "ChIJORerleg9DTkRUm59PSlICrE",
+  "hotel_name": "Hotel Heaven",
+  "area": "Imt Manesar",
+  "budget_category": "Mid-Range",
+  "rating": 4.8,
+  "trust_score": 0.7693037448039867,
+  "travel_purpose_tags": [
+    "Budget"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "rich",
+    "review_count": 5,
+    "positive_snippet_count": 3,
+    "negative_snippet_count": 2,
+    "positive_theme_count": 2,
+    "negative_theme_count": 1
+  },
+  "aspect_scores": {
+    "cleanliness": 0.498572296652128,
+    "service": 0.9997937083244324,
+    "location": 0.5,
+    "value_for_money": 0.9987531105677286,
+    "staff_behavior": 0.0003975402505602
+  },
+  "recommendation_features": {
+    "popularity_score": 0.4079220425584051,
+    "rating_score": 4.8,
+    "sentiment_score": 0.5994044881314039
+  },
+  "review_evidence": {
+    "positive_snippets": [
+      "Affordable price and luxury rooms and nice behaviour",
+      "Luxury rooms and affordable price good service",
+      "Affordable price and proper clean rooms clean washrooms bedsheet and towel"
+    ],
+    "negative_snippets": [
+      "This is honestly the worst hotel experience I\u2019ve ever had. There was absolutely no hygiene \u2014 they didn\u2019t even show us the room before check-in. When we finally saw it, there were hairs all over the bed and pillow, and even cockroaches crawling on the bed. It was disgusting! We immediately asked for a refund, but they still charged 50% as a cancellation fee, even though we had booked the room for just 3 hours. Totally unacceptable and unhygienic \u2014 never staying here again and wouldn\u2019t recommend this place to anyone.",
+      "Dirtiest rooms I've seen in any hotel, There were cockroaches all over the place, Employee & Owner Behavior is so rude. Try avoiding this hotel if possible"
+    ]
+  },
+  "review_summary": "Based on 5 reviews.",
+  "positive_themes": {
+    "great_value": 3,
+    "clean_rooms": 1
+  },
+  "negative_themes": {
+    "rude_staff": 1
+  }
+}

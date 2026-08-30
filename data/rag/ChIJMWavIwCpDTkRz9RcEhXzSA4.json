@@ -1,0 +1,53 @@
+{
+  "hotel_id": "ChIJMWavIwCpDTkRz9RcEhXzSA4",
+  "hotel_name": "M2M Hotel",
+  "area": "Narela",
+  "budget_category": "Mid-Range",
+  "rating": 3.6,
+  "trust_score": 0.6481395859121679,
+  "travel_purpose_tags": [
+    "Leisure",
+    "Business"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "rich",
+    "review_count": 5,
+    "positive_snippet_count": 3,
+    "negative_snippet_count": 2,
+    "positive_theme_count": 4,
+    "negative_theme_count": 1
+  },
+  "aspect_scores": {
+    "cleanliness": 0.9990224838256836,
+    "service": 0.7497304380885907,
+    "location": 0.9994232952594756,
+    "value_for_money": 0.5,
+    "staff_behavior": 0.999344527721405
+  },
+  "recommendation_features": {
+    "popularity_score": 0.2877445657749879,
+    "rating_score": 3.6,
+    "sentiment_score": 0.7997487188142258
+  },
+  "review_evidence": {
+    "positive_snippets": [
+      "Good service\nGood staff\nMy first time stay in this hotel",
+      "Nice experience I'll visit again I'm sure \ud83d\ude0a",
+      "This hotel is very good in service\nLocation is also very good\nRooms condition are excellent\nI like this hotel\nI would like to suggest to stay in this hotel\nIt is really very good \ud83e\udd70"
+    ],
+    "negative_snippets": [
+      "Bad service, and no confirmation before cancellations the room with us",
+      "Clean hotel, helpful team, great location. Wi-Fi reliable, breakfast okay. Slow service at times, but four-star vibe. Will stay again!"
+    ]
+  },
+  "review_summary": "Based on 5 reviews.",
+  "positive_themes": {
+    "friendly_staff": 2,
+    "good_location": 2,
+    "clean_rooms": 1,
+    "good_food": 1
+  },
+  "negative_themes": {
+    "rude_staff": 1
+  }
+}

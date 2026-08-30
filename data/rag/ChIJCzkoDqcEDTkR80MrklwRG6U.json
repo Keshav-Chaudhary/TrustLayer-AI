@@ -1,0 +1,53 @@
+{
+  "hotel_id": "ChIJCzkoDqcEDTkR80MrklwRG6U",
+  "hotel_name": "Glory Villa Hotel",
+  "area": "New Delhi",
+  "budget_category": "Mid-Range",
+  "rating": 4.0,
+  "trust_score": 0.6986380020053147,
+  "travel_purpose_tags": [
+    "Leisure"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "moderate",
+    "review_count": 5,
+    "positive_snippet_count": 2,
+    "negative_snippet_count": 3,
+    "positive_theme_count": 4,
+    "negative_theme_count": 2
+  },
+  "aspect_scores": {
+    "cleanliness": 0.499558421142865,
+    "service": 0.5006337460363284,
+    "location": 0.9981911778450012,
+    "value_for_money": 0.5,
+    "staff_behavior": 0.7499908803147264
+  },
+  "recommendation_features": {
+    "popularity_score": 0.574522458132469,
+    "rating_score": 4.0,
+    "sentiment_score": 0.6001778371399269
+  },
+  "review_evidence": {
+    "positive_snippets": [
+      "Very kind staff and professional recetion staff and nice hotel and room",
+      "nise hotel nd good staff .. house keeping..mr . Himanshu good boy"
+    ],
+    "negative_snippets": [
+      "Spotless rooms, kind staff, ideal location. Wi-Fi steady, breakfast okay. Occasional slow service, but four-star feel. Will visit again!",
+      "Reception staff 2 kodi ka hai, totaly unprofessional behaviour",
+      "honestly....i don't recommend this place at all...please do not book this hotel for your family.\nrooms are very untiddy...\nthe bedsheets and quilts are all full of dust.\ncurtains are very  dirty and full of stains..\nthere's a lot of  bad smell in rooms.\nplease find some other hotel."
+    ]
+  },
+  "review_summary": "Based on 5 reviews.",
+  "positive_themes": {
+    "friendly_staff": 4,
+    "clean_rooms": 1,
+    "good_location": 1,
+    "good_food": 1
+  },
+  "negative_themes": {
+    "rude_staff": 1,
+    "dirty_rooms": 1
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "hotel_id": "ChIJUXEBCwAbDTkReAT2lErQcEA",
+  "hotel_name": "Hotel Dwarka Inn",
+  "area": "Dwarka",
+  "budget_category": "Budget",
+  "rating": 5.0,
+  "trust_score": 0.8961936124947738,
+  "travel_purpose_tags": [
+    "Leisure",
+    "Family"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "moderate",
+    "review_count": 5,
+    "positive_snippet_count": 3,
+    "negative_snippet_count": 0,
+    "positive_theme_count": 4,
+    "negative_theme_count": 0
+  },
+  "aspect_scores": {
+    "cleanliness": 0.9997499585151672,
+    "service": 0.5,
+    "location": 0.9998306334018706,
+    "value_for_money": 0.9997933506965636,
+    "staff_behavior": 0.9997933506965636
+  },
+  "recommendation_features": {
+    "popularity_score": 0.2788721589039871,
+    "rating_score": 5.0,
+    "sentiment_score": 0.9998250246047974
+  },
+  "review_evidence": {
+    "positive_snippets": [
+      "Amazing stay, friendly staff, the location is near metro and hence easy access. Would love to come here again, recommended with best price",
+      "Fully Ac rooms and specially Terrance room gives full vibes and view is awesome.",
+      "Hassle free entry. Budgeted and clean rooms. Food is also good"
+    ],
+    "negative_snippets": []
+  },
+  "review_summary": "Based on 5 reviews.",
+  "positive_themes": {
+    "friendly_staff": 1,
+    "good_location": 1,
+    "clean_rooms": 1,
+    "good_food": 1
+  },
+  "negative_themes": {}
+}

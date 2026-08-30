@@ -1,0 +1,54 @@
+{
+  "hotel_id": "ChIJk4WvZ3DjDDkRZ9zZPlkz7RU",
+  "hotel_name": "Itsy Hotels Arien International",
+  "area": "Kalkaji",
+  "budget_category": "Mid-Range",
+  "rating": 4.1,
+  "trust_score": 0.6380722291024561,
+  "travel_purpose_tags": [
+    "Budget"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "moderate",
+    "review_count": 5,
+    "positive_snippet_count": 2,
+    "negative_snippet_count": 3,
+    "positive_theme_count": 4,
+    "negative_theme_count": 3
+  },
+  "aspect_scores": {
+    "cleanliness": 0.50133735583222,
+    "service": 0.5,
+    "location": 0.4999823396210558,
+    "value_for_money": 0.2514604009193135,
+    "staff_behavior": 0.6681875033924977
+  },
+  "recommendation_features": {
+    "popularity_score": 0.5258619587925035,
+    "rating_score": 4.1,
+    "sentiment_score": 0.4011155706248246
+  },
+  "review_evidence": {
+    "positive_snippets": [
+      "HI Im Chintamani Santosh Kumar, to be honest one of the best hotel in New delhi. In this hotel I was stay in (Feb 15-feb 21). Very good environment & nice ambience. First of all I really thanks to him the hotel manager when I reach the hotel  very nice recieving & good welcoming for me, he is very polite, calm, soft spoken & very humble. What ever u want he will provide us. I dont know anything in delhi where ever I go, he is suggested me how to reach easy way to our destination. I was attened AI summit, daily travelling and come back to hotel in easy way. Rooms are very clean. Staff boys are very good. Day by day or every day they was clean my room very neatly. Bathroom Toilet all are good. Balcony was so   good, in day time very good air to come with my room, very good atmosphere. AC & TV room eminities are good. Food is very delicious. whatever u want they will arrange good food. I slept very well at night. Room tarriff is good price & less cost compared to other hotels . Hotel is very confortable fully covered with CC . 24 hrs. water & power supply. Greser hot water is there. Finally I give (5/5) star rating",
+      "Stayed here last night and overall had a decent experience. The room was clean and comfortable, and the staff was polite and helpful. Check-in was smooth and the location is convenient"
+    ],
+    "negative_snippets": [
+      "My experience at the hotel (booked via agoda) was avg. The hotel is highly rated but honestly I couldn't find a reason to rate it higher. Initially I was given room at lower floor which had no tv and broken chair. It was changed to a different room.\n\nChanged room felt like below\n\nRoom: twin bed room with very basic amenities, linen seemed to be not so clean, had some stains nothing big though. Even the towels felt just cleaned not dry cleaned for sure. No tea or coffee setup\n\nStaff: okish, I guess English was a problem.\n\nFood: I had my food outside so can't comment on the food. Although I ordered tea it was on milkier side (I like strong tea)\n\nParking: very limited parking on site, although you can park on the road at your own risk\n\nCheckin: was smooth though\n\nCheckout: was smooth, for some reason I got an SMS stating pending amount of my stay which is weird as the booking was already paid by agoda.\n\nNot sure if renovations are happening, it's a budget stay but I think you can get better deal at other places.\n\nLot of noise of cars and bikes since it's a residential area connected to main road",
+      "Bathroom smell so bad, towel given dirty, dirty slippers given, used lotion bottle, TV not working, room not clean, no hot water, basically charging money for nothing, and yes door lock not working, keep your luggage in the room at your own risk, food price so high taste is 0, outside food not allowed. Not recommended",
+      "I waited with this review to compare to other budget hotels, unfortunately this was the worst by far. The only good thing is that the room looked like on the pictures, although a little run down and the lighting was a bit too intense. The sheets had a couple holes. The AC was also really loud, but we didn\u2018t have high expectations for the price anyways.\n\nThe main issue is that there were cockroaches everywhere in the room. Not like one or two randomly but lots and at one point three of them were in my bag. It was very hard to be relaxed with them crawling around all the time.\n\nThe owner was nice and organized but didn\u2018t really act on the services requested, in the end we didn\u2018t get any of the promised toilet paper.\n\nFor the price the room would have been fine, but unfortunately the bugs ruined it."
+    ]
+  },
+  "review_summary": "Based on 5 reviews.",
+  "positive_themes": {
+    "clean_rooms": 4,
+    "friendly_staff": 3,
+    "good_food": 3,
+    "good_location": 1
+  },
+  "negative_themes": {
+    "dirty_rooms": 2,
+    "noise": 2,
+    "parking_issues": 1
+  }
+}

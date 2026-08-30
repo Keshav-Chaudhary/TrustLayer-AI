@@ -1,0 +1,48 @@
+{
+  "hotel_id": "ChIJUc57VzMHDTkRg3Uh88w6Gbk",
+  "hotel_name": "Hotel Sarvasa Residency By F9 Hotels",
+  "area": "New Delhi",
+  "budget_category": "Mid-Range",
+  "rating": 4.2,
+  "trust_score": 0.6683775935047119,
+  "travel_purpose_tags": [
+    "Budget"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "moderate",
+    "review_count": 5,
+    "positive_snippet_count": 3,
+    "negative_snippet_count": 2,
+    "positive_theme_count": 2,
+    "negative_theme_count": 0
+  },
+  "aspect_scores": {
+    "cleanliness": 0.5,
+    "service": 0.999836802482605,
+    "location": 0.5,
+    "value_for_money": 0.5,
+    "staff_behavior": 0.6880554184317589
+  },
+  "recommendation_features": {
+    "popularity_score": 0.2877445657749879,
+    "rating_score": 4.2,
+    "sentiment_score": 0.6131822533672675
+  },
+  "review_evidence": {
+    "positive_snippets": [
+      "This hotel is very nice; the staff here are very helpful  , and the cleanliness is also good. I stayed here for 3 days with my family and received excellent service, so I would say everyone should stay here at least once.",
+      "It's a very good guest house\nStaff is also too good.",
+      "Beautiful space and comfort place to stay.\n\nRecommended for further visits."
+    ],
+    "negative_snippets": [
+      "i came property in 10 o clock  sarvasa residency  he will charge extra 500 rs I say why you charge for extra he told my oyo ss staff will be charge by himanshu",
+      "I stayed here only 1 day room not well cleaned very wrost"
+    ]
+  },
+  "review_summary": "Based on 5 reviews.",
+  "positive_themes": {
+    "clean_rooms": 2,
+    "friendly_staff": 3
+  },
+  "negative_themes": {}
+}

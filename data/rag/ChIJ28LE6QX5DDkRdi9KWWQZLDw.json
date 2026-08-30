@@ -1,0 +1,49 @@
+{
+  "hotel_id": "ChIJ28LE6QX5DDkRdi9KWWQZLDw",
+  "hotel_name": "Oyo Flagship Dev Inn Hotel",
+  "area": "Loni",
+  "budget_category": "Budget",
+  "rating": 3.3,
+  "trust_score": 0.3340414269481263,
+  "travel_purpose_tags": [
+    "Budget"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "moderate",
+    "review_count": 4,
+    "positive_snippet_count": 1,
+    "negative_snippet_count": 3,
+    "positive_theme_count": 1,
+    "negative_theme_count": 2
+  },
+  "aspect_scores": {
+    "cleanliness": 0.0002025832363869,
+    "service": 0.5,
+    "location": 0.5,
+    "value_for_money": 0.0042718565528047,
+    "staff_behavior": 0.0002025832363869
+  },
+  "recommendation_features": {
+    "popularity_score": 0.1935748254816269,
+    "rating_score": 3.3,
+    "sentiment_score": 0.0030266707472037
+  },
+  "review_evidence": {
+    "positive_snippets": [
+      "Good room"
+    ],
+    "negative_snippets": [
+      "On 11th June, I talked to Mr Kamal at Loni Oyo hotel branch and enquired about the availability of the room. He told me to come by 1 pm. I confirmed the call twice. When I reached the branch with my guest. So Kamal said that there is no room, I have come after travelling 35 kilometres and Kamal wasted my time. So please pay attention. You people should be ashamed of harassing the customer by giving wrong information. If anyone is reading my review then please do not visit this branch. Wrost experience\nThis hotel does not deserve even a one star rating.",
+      "Charges is different as showing on Oyo book app  I booked a room for an emergency for my family as 2 person the told me you have to pay charges that available that expensive then oyo",
+      "The experience was very bad. The staff is also very bad. They talk rudely with the guests. There was a dirty smell and torn bedsheet in the room. It was very bad. Waste of money and time \ud83d\udca9\ud83d\udca9\ud83d\udca9\ud83d\udca9\ud83d\udca9\ud83d\udca9\ud83d\udca9\ud83d\udca9\ud83d\udca9 Expression"
+    ]
+  },
+  "review_summary": "Based on 4 reviews.",
+  "positive_themes": {
+    "friendly_staff": 1
+  },
+  "negative_themes": {
+    "dirty_rooms": 1,
+    "rude_staff": 1
+  }
+}

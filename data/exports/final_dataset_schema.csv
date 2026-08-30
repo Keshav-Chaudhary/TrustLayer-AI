@@ -1,0 +1,27 @@
+Column Name,Data Type,Non-Null Count,Description
+hotel_id,str,1661,TBD
+google_place_id,str,1661,TBD
+hotel_name,str,1661,TBD
+address,str,1661,TBD
+latitude,float64,1661,TBD
+longitude,float64,1661,TBD
+rating,float64,1653,TBD
+review_count,float64,1653,TBD
+area,str,1659,TBD
+hotel_type,str,1661,TBD
+price_level,float64,0,TBD
+review_volume,float64,1618,TBD
+average_sentiment,float64,1618,TBD
+positive_review_ratio,float64,1618,TBD
+negative_review_ratio,float64,1618,TBD
+cleanliness_score,float64,1618,TBD
+service_score,float64,1618,TBD
+location_score,float64,1618,TBD
+value_for_money_score,float64,1618,TBD
+staff_behavior_score,float64,1618,TBD
+area_cluster,str,1661,TBD
+budget_category,str,1661,TBD
+popularity_score,float64,1661,TBD
+rating_score,float64,1661,TBD
+sentiment_score,float64,1661,TBD
+trust_score,float64,1661,TBD

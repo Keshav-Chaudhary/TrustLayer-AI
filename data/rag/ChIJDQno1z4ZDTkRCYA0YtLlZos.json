@@ -1,0 +1,49 @@
+{
+  "hotel_id": "ChIJDQno1z4ZDTkRCYA0YtLlZos",
+  "hotel_name": "Blue Moon Residency Hotel & Restaurant",
+  "area": "Sector 45",
+  "budget_category": "Mid-Range",
+  "rating": 4.6,
+  "trust_score": 0.8924798702075161,
+  "travel_purpose_tags": [
+    "Leisure",
+    "Family"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "moderate",
+    "review_count": 5,
+    "positive_snippet_count": 3,
+    "negative_snippet_count": 0,
+    "positive_theme_count": 5,
+    "negative_theme_count": 0
+  },
+  "aspect_scores": {
+    "cleanliness": 0.9998643398284912,
+    "service": 0.5,
+    "location": 0.9998605251312256,
+    "value_for_money": 0.9998605251312256,
+    "staff_behavior": 0.9998674869537354
+  },
+  "recommendation_features": {
+    "popularity_score": 0.5113480657867013,
+    "rating_score": 4.6,
+    "sentiment_score": 0.9998674869537354
+  },
+  "review_evidence": {
+    "positive_snippets": [
+      "Great location and very clean rooms, with friendly and efficient staff. The breakfast had a good variety. A great value for a  stay, highly recommended\".\nStaff were very friendly and helpful, especially the receptionist who answered all my questions efficiently\".\nOverall, a fantastic stay and I would definitely book again. It offers excellent value for the price\".",
+      "Great location and very cleaning rooms with friendly and staff.the breakfast had a good variety. A great value for staying highly recommended. Staff were very friendly and helpful. Overall a fantastic stay .",
+      "Such a great place to visit and stay.. staff was also great, polite and well maintained. Food Quality was also great and hygienic...."
+    ],
+    "negative_snippets": []
+  },
+  "review_summary": "Based on 5 reviews.",
+  "positive_themes": {
+    "clean_rooms": 3,
+    "friendly_staff": 5,
+    "good_location": 2,
+    "great_value": 2,
+    "good_food": 4
+  },
+  "negative_themes": {}
+}

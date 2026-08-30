@@ -1,0 +1,49 @@
+{
+  "hotel_id": "ChIJgSk2NVIFDTkRfuvFZDMRVkU",
+  "hotel_name": "Western Blu Inn",
+  "area": "Paschim Vihar",
+  "budget_category": "Budget",
+  "rating": 4.0,
+  "trust_score": 0.5862464581232233,
+  "travel_purpose_tags": [
+    "Budget"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "moderate",
+    "review_count": 5,
+    "positive_snippet_count": 1,
+    "negative_snippet_count": 3,
+    "positive_theme_count": 4,
+    "negative_theme_count": 0
+  },
+  "aspect_scores": {
+    "cleanliness": 0.0943590551614761,
+    "service": 0.5011940663680434,
+    "location": 0.5,
+    "value_for_money": 0.0025641173124313,
+    "staff_behavior": 0.9998762607574464
+  },
+  "recommendation_features": {
+    "popularity_score": 0.3166168302341184,
+    "rating_score": 4.0,
+    "sentiment_score": 0.4198375131934881
+  },
+  "review_evidence": {
+    "positive_snippets": [
+      "Western blu INN is one of the best hotel I have stayed in Delhi . The staff is always in mood to do more, rooms are spacious and elegant, morning breakfast was sumptuous and hospitality is amazing."
+    ],
+    "negative_snippets": [
+      "Rooms are gold very neat very clean everything is ok but the only problem is that day charge too much for some water bottles. They give only two water bottles for one room but that's ok but if we the if I need extra then they will charge it too much for that. This was just one of the example I stayed only for like if you ask there and I said my experience in that. If you want to review about that you can visit on your own.",
+      "Third class room and hotel.\nReceptionists Mr Pankaj is not having any soft skill training.\nJust Hotel management let him sit at Reception.\nThink which hotel now a days collecting Security for keys , they are collecting 1000rs \ud83d\ude07\ud83d\ude2d",
+      "Won't say value for money. Rooms are good but not worth the money. Can be a good fit if the value is lower. Receptionist, you won't like him at all don't know if he had grudges with someone or his behaviour is the same for everyone"
+    ]
+  },
+  "review_summary": "Based on 5 reviews.",
+  "positive_themes": {
+    "friendly_staff": 1,
+    "good_food": 2,
+    "clean_rooms": 1,
+    "great_value": 1
+  },
+  "negative_themes": {}
+}

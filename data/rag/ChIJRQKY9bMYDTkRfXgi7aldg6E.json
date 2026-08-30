@@ -1,0 +1,48 @@
+{
+  "hotel_id": "ChIJRQKY9bMYDTkRfXgi7aldg6E",
+  "hotel_name": "Fabhotel Exotica Avenue",
+  "area": "Sector 53",
+  "budget_category": "Mid-Range",
+  "rating": 4.8,
+  "trust_score": 0.8775923370849785,
+  "travel_purpose_tags": [
+    "Leisure",
+    "Business"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "moderate",
+    "review_count": 5,
+    "positive_snippet_count": 3,
+    "negative_snippet_count": 0,
+    "positive_theme_count": 4,
+    "negative_theme_count": 0
+  },
+  "aspect_scores": {
+    "cleanliness": 0.999806582927704,
+    "service": 0.9996060729026792,
+    "location": 0.9994525015354156,
+    "value_for_money": 0.5,
+    "staff_behavior": 0.9996918439865112
+  },
+  "recommendation_features": {
+    "popularity_score": 0.3166168302341184,
+    "rating_score": 4.8,
+    "sentiment_score": 0.9996918439865112
+  },
+  "review_evidence": {
+    "positive_snippets": [
+      "Rooms were clean, staff\u2019s nature was very welcoming and polite, food was tasty. I would highly recommend to visit",
+      "The feel of this property is similar to home and we were so delighted to choose this property. The staff , the owner and the place is so easily accessible, the rooms are comfortable and we found the staff respectable and responsible",
+      "Hotel Exotica Avenue is Lavish Newly made Apartments cum Hotel. Recently i got stay from 30th December to 3rd of Jan 2026\nDuring my stay i personally enjoyed the space, facility and the services. The staff is so coordinating with your luggage transfer, daily cleaning, Personal assistance. It a newly made so the buffet culture is yet to come but you can your in room dining experience. Reception staff is also supporting to help the only problem was the location of this property you will not get this beautiful location easily when you put on map. Rest i love to mention of youre coming for business trip, leisure stay, personal time must choose this property"
+    ],
+    "negative_snippets": []
+  },
+  "review_summary": "Based on 5 reviews.",
+  "positive_themes": {
+    "clean_rooms": 2,
+    "friendly_staff": 5,
+    "good_food": 1,
+    "good_location": 1
+  },
+  "negative_themes": {}
+}

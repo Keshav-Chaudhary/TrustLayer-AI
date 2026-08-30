@@ -1,0 +1,49 @@
+{
+  "hotel_id": "ChIJz16IJ_3dDDkRmEAza-Hp2Os",
+  "hotel_name": "Hotel Royal Harmony",
+  "area": "Sector 11",
+  "budget_category": "Mid-Range",
+  "rating": 4.6,
+  "trust_score": 0.7906523560335533,
+  "travel_purpose_tags": [
+    "Budget"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "moderate",
+    "review_count": 5,
+    "positive_snippet_count": 3,
+    "negative_snippet_count": 1,
+    "positive_theme_count": 4,
+    "negative_theme_count": 0
+  },
+  "aspect_scores": {
+    "cleanliness": 0.668354531750083,
+    "service": 0.5,
+    "location": 0.0053598303347826,
+    "value_for_money": 0.5,
+    "staff_behavior": 0.8009559754282236
+  },
+  "recommendation_features": {
+    "popularity_score": 0.3309666882836649,
+    "rating_score": 4.6,
+    "sentiment_score": 0.8009559754282236
+  },
+  "review_evidence": {
+    "positive_snippets": [
+      "My experience at this hotel is really good they have very quite environment and also receptionist Mrs areena the  staff was very corporative everything is neat and clean in the room also the food was also nice I've tired Chinese it was fresh and tasty too. Overall great place will go there again for sure...",
+      "Nice place for small and big occasion....Ambience is good and liked it's eco - friendly decor The staff here is very good, the rooms and banquet hall are very nice and neat and clean\n\n\ud83d\udc4d\ud83d\udc4d",
+      "A very fantastic place I ever visited. The staff are very cordial with the guest."
+    ],
+    "negative_snippets": [
+      "Location good. Normally used for marriage or family parties. Rooms are newly renovated & clean but there is not any ventilation in bathroom. Maximum rooms do not have sun light.\nPrize is not much. Staff hv friendly behavior.\nBecause of marriage function u may get disturbation.\nRoom facilities - in bathroom only small shoap. Towels old washed. No bathroom floater."
+    ]
+  },
+  "review_summary": "Based on 5 reviews.",
+  "positive_themes": {
+    "clean_rooms": 3,
+    "friendly_staff": 5,
+    "good_food": 1,
+    "good_location": 1
+  },
+  "negative_themes": {}
+}

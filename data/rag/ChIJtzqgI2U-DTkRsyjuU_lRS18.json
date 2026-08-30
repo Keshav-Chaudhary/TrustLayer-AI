@@ -1,0 +1,49 @@
+{
+  "hotel_id": "ChIJtzqgI2U-DTkRsyjuU_lRS18",
+  "hotel_name": "Paradise Inn Hotel",
+  "area": "Imt Manesar",
+  "budget_category": "Budget",
+  "rating": 3.7,
+  "trust_score": 0.6065238060370454,
+  "travel_purpose_tags": [
+    "Budget"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "moderate",
+    "review_count": 5,
+    "positive_snippet_count": 2,
+    "negative_snippet_count": 3,
+    "positive_theme_count": 3,
+    "negative_theme_count": 0
+  },
+  "aspect_scores": {
+    "cleanliness": 0.5,
+    "service": 0.0067276176996529,
+    "location": 0.0067276176996529,
+    "value_for_money": 0.0067276176996529,
+    "staff_behavior": 0.9996814727783204
+  },
+  "recommendation_features": {
+    "popularity_score": 0.6237698098895316,
+    "rating_score": 3.7,
+    "sentiment_score": 0.4036257020197809
+  },
+  "review_evidence": {
+    "positive_snippets": [
+      "I don't even bother looking for other hotels in Manesar. Best bang for buck. Good rooms, good staff. Mr. Karan is especially accomodating but the rest of the staff is also really good to interact with. I travel to Manesar mostly to handle my projects at SKH, glad there's a reasonably good Hotel close by to my work place.",
+      "Every thing is great , a person is available to carry bag, good hospitality, pay at checkout,nice food"
+    ],
+    "negative_snippets": [
+      "I checked out on Saturday morning using their towel for bath, i had chicken pox that night, still suffering from the disease.\n\nSame thing happened with my friend.",
+      "We order food in night and they are delivered the low quality food like in daal makhni they didn't put makkhan and in tawa roti didn't not put butter and the tone of voice is also very bad. It means the food safety and other things are to scarey.\ud83e\udd2e\ud83e\udd2e",
+      "This hotel is in manesar. Today we have visited and arder for tandoori chap and egg noodles. Chap is not so good and price is 240 rs. This price is too much as compared to the taste. Egg noodles was so yummy but its price are also high. The main problem is with the cold drink, they have charged more than the mrp on bottle and same with water bottle.  After too much arguments they have charged the same. They also don't mention in bill the quantity of bottle only just mention the rate that was 60 rupees for 750 ml. Customer service was very good. I have given 3 Star \u2b50\u2b50\u2b50 only for customer service.\nBad experience in during the billing. Outside\nLocation is not good."
+    ]
+  },
+  "review_summary": "Based on 5 reviews.",
+  "positive_themes": {
+    "friendly_staff": 1,
+    "good_food": 2,
+    "good_location": 1
+  },
+  "negative_themes": {}
+}

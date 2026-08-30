@@ -1,0 +1,49 @@
+{
+  "hotel_id": "ChIJOw9xHnqyvDsRI5yP40PhcsM",
+  "hotel_name": "Treebo Mall View, Dlf Phase Ii",
+  "area": "Gurugram",
+  "budget_category": "Mid-Range",
+  "rating": 4.1,
+  "trust_score": 0.5318151331688901,
+  "travel_purpose_tags": [
+    "Budget"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "moderate",
+    "review_count": 5,
+    "positive_snippet_count": 0,
+    "negative_snippet_count": 3,
+    "positive_theme_count": 3,
+    "negative_theme_count": 2
+  },
+  "aspect_scores": {
+    "cleanliness": 0.0086733766511315,
+    "service": 0.0127675939002073,
+    "location": 0.0002684069768292,
+    "value_for_money": 0.0002558534324634,
+    "staff_behavior": 0.0003556188457877
+  },
+  "recommendation_features": {
+    "popularity_score": 0.6150118342727531,
+    "rating_score": 4.1,
+    "sentiment_score": 0.0086325803247745
+  },
+  "review_evidence": {
+    "positive_snippets": [],
+    "negative_snippets": [
+      "Worst hotel you can find at this price range. Staff is very bad especially the manager. Unexperienced manager talking like he owns the hotel. Cheap quality OYO style rooms and dirty old washrooms. Better find accomodation somewhere else. Even connectivity is an issue because gate to metro station closes at 7PM so you need to travel 1.5 km to reach metro.",
+      "This Treebo has two kinda of room, one is maple which is good, well maintained and spacious, then there's the opposite Oak room, its dirty, smells bad, AC is from baba adam zamana, washroom is bad. So choose wisely",
+      "One of the worst location and it is in residential area\u2026\nGuests not allowed at all ..\nit\u2019s disgusting experience..\nNOT ADVISED"
+    ]
+  },
+  "review_summary": "Based on 5 reviews.",
+  "positive_themes": {
+    "friendly_staff": 2,
+    "great_value": 1,
+    "good_location": 2
+  },
+  "negative_themes": {
+    "dirty_rooms": 2,
+    "rude_staff": 1
+  }
+}

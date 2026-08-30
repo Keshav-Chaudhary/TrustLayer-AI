@@ -1,0 +1,53 @@
+{
+  "hotel_id": "ChIJo_EVHzH7DDkRq0dEqPdaQ04",
+  "hotel_name": "Country Inn & Suites By Radisson, Sahibabad, Distt Ghaziabad (U.P.)",
+  "area": "Sahibabad",
+  "budget_category": "Budget",
+  "rating": 4.6,
+  "trust_score": 0.8660122179818234,
+  "travel_purpose_tags": [
+    "Leisure"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "rich",
+    "review_count": 5,
+    "positive_snippet_count": 3,
+    "negative_snippet_count": 2,
+    "positive_theme_count": 5,
+    "negative_theme_count": 1
+  },
+  "aspect_scores": {
+    "cleanliness": 0.4989625599700956,
+    "service": 0.3327990871427269,
+    "location": 0.9935348033905028,
+    "value_for_money": 0.5021345403511077,
+    "staff_behavior": 0.002431229018839
+  },
+  "recommendation_features": {
+    "popularity_score": 0.9873442862657792,
+    "rating_score": 4.6,
+    "sentiment_score": 0.599577087268699
+  },
+  "review_evidence": {
+    "positive_snippets": [
+      "5 stars - Out of this world veg buffet!\nJust had an amazing dinner buffet at Country Inn Sahibabad again, and it was pure bliss! The all-vegetarian spread is incredible, featuring a huge variety of continental, North Indian, South Indian, and Italian dishes. Lavish selection with tons of desserts, ice cream, and unlimited drinks \u2013 everything tastes divine.Ambience is top-notch and consistent with my last visit two years ago. Prices have doubled since then, but it's absolutely worth every penny for the quality and quantity. Highly recommend this gem of a hotel restaurant! \ud83d\ude0a",
+      "Was here for a cousins wedding and the entire wedding party stayed here. We had a pretty good time here and the food was great on every service. We did struggle with the water turning off every now and then in the bathroom post regular use and the faucet not being fully functional. Apart from that, we were well taken care of. It\u2019s also conveniently located next to the Vaishali station which is great for connectivity",
+      "I absolutely loved the vegetarian buffet here! \ud83e\udd66 The spread was quite elaborate, offering a fantastic variety of dishes. But the real highlight for me was the rose-flavored ice cream \ud83c\udf39\ud83c\udf66 \u2013 it was truly a showstopper! Definitely a must-try. \ud83d\udc4d"
+    ],
+    "negative_snippets": [
+      "We did not have a good experience in this hotel. We stayed here for 4 nights and we did not get to sleep properly even for a single night since people will be shouting in the corridor at 3 am in the morning and there was not much help or monitoring from the hotel staff to keep the noise levels down. I understand that it is the wedding season but there are other folks in the hotel as well who would like to sleep!\n\nMoreover, the refrigerator in our room was not working and we complained about it to the hotel staff like 6 times!! They would say that they would look into it but there was no remedy till the end of our stay!\n\nOne important note: this is a completely vegetarian hotel and honestly we did not know about it. Their breakfast buffet is completely vegetarian and they should properly mention this in their ads but they did not! It is not a deal breaker but the stay was expensive and maybe non veg people wont appreciate it.\n\nThe rooms were standard, clean and ok.\n\nPersonally I wont recommend this hotel for the price and the laggy service. The Radisson Blu which is like a klick away is more worth the money!",
+      "Disappointing experience \u2013 Poor management and misleading pricing\nI recently stayed at this hotel and was quite disappointed. The property was severely overcrowded due to ongoing parties, making it incredibly loud and chaotic. To make matters worse, the staff was uncooperative when these issues were raised.\nThere was also a lack of transparency regarding charges. I was asked for a \u20b93,000 security deposit, and despite being promised a 20% discount on in-room dining, I was charged the full amount. I would not recommend this hotel for those seeking a peaceful or professional stay."
+    ]
+  },
+  "review_summary": "Based on 5 reviews.",
+  "positive_themes": {
+    "great_value": 2,
+    "good_location": 1,
+    "good_food": 2,
+    "clean_rooms": 1,
+    "friendly_staff": 2
+  },
+  "negative_themes": {
+    "noise": 2
+  }
+}

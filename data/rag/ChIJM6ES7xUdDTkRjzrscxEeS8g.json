@@ -1,0 +1,50 @@
+{
+  "hotel_id": "ChIJM6ES7xUdDTkRjzrscxEeS8g",
+  "hotel_name": "Hotel Diplomat",
+  "area": "Chanakyapuri",
+  "budget_category": "Mid-Range",
+  "rating": 4.1,
+  "trust_score": 0.84646511456953,
+  "travel_purpose_tags": [
+    "Leisure",
+    "Business",
+    "Family"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "moderate",
+    "review_count": 5,
+    "positive_snippet_count": 3,
+    "negative_snippet_count": 0,
+    "positive_theme_count": 5,
+    "negative_theme_count": 0
+  },
+  "aspect_scores": {
+    "cleanliness": 0.9996484120686848,
+    "service": 0.9359188377857208,
+    "location": 0.914764920870463,
+    "value_for_money": 0.9996022284030914,
+    "staff_behavior": 0.9996922761201856
+  },
+  "recommendation_features": {
+    "popularity_score": 0.684258180209866,
+    "rating_score": 4.1,
+    "sentiment_score": 0.9486998438835144
+  },
+  "review_evidence": {
+    "positive_snippets": [
+      "Located in the heart of the diplomatic enclave on Sardar Patel Marg, Hotel Diplomat is a boutique 4-star property that offers a quieter, more intimate alternative to the massive luxury hotels nearby. It is favored by business travelers, diplomats, and tourists looking for a serene atmosphere without being too far from the city center.\n\ud83c\udfe8 The Good (Pros)\nLocation & Vibe: Situated away from the chaos of central Delhi, it\u2019s surrounded by greenery. It feels very secure and tranquil. Excellent proximity to Chanakyapuri, the airport, and main embassies.\nRooms: The rooms are ornate and individually decorated, giving them a charming, non-cookie-cutter feel. They are generally clean, comfortable, and well-maintained.\nService: Because it is a boutique hotel, the staff often provides more personalized and attentive service compared to larger chain hotels.\nDining: Their in-house restaurant/bar is stylish and generally highly rated for quality.",
+      "Had a really nice and comfortable stay at Hotel Diplomat in Delhi. The hotel is well located and easily accessible, making it convenient for travel around the city. The check-in process was smooth and the staff was polite and helpful throughout the stay.\n\nThe rooms were clean, spacious, and well maintained. The bed was comfortable and the overall ambiance of the room felt calm and relaxing after a long day of travel. Housekeeping was prompt and ensured everything was in order. Basic amenities were available and the stay felt hassle-free.\n\nService at the hotel was good and the staff was courteous whenever we needed assistance. The food and breakfast options were decent and served fresh. Overall, the experience was pleasant and comfortable.\n\nA good choice if you\u2019re looking for a clean, well-located hotel with a peaceful stay in Delhi. Would definitely consider staying here again.",
+      "Hotel Diplomat is a comfortable and well-located property in Chanakyapuri. The rooms are clean, the staff is courteous, and overall the stay experience is pleasant and smooth. The ambience and service make it a good choice for both business and short stays.\nHowever, the breakfast spread is quite limited. The options are mostly restricted to paratha, curd, papaya, one juice, bread, boiled eggs, and potatoes. It would be much better if they could improve the variety or at least rotate the breakfast menu to add more choices.\nOn the positive side, the food is tasty. Their butter chicken and mix veg are definitely worth trying. Another plus is that the hotel has a bar, so if you want to grab a drink, you do have that option within the property.\nOverall, apart from the limited breakfast options, everything else is good and well-managed. A solid stay with scope for improvement in breakfast variety."
+    ],
+    "negative_snippets": []
+  },
+  "review_summary": "Based on 5 reviews.",
+  "positive_themes": {
+    "clean_rooms": 3,
+    "friendly_staff": 4,
+    "good_location": 3,
+    "good_food": 3,
+    "great_value": 1
+  },
+  "negative_themes": {}
+}

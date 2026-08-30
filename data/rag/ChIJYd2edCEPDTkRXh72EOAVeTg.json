@@ -1,0 +1,53 @@
+{
+  "hotel_id": "ChIJYd2edCEPDTkRXh72EOAVeTg",
+  "hotel_name": "Metroview Rooms & Celebration",
+  "area": "Tikri Kalan",
+  "budget_category": "Mid-Range",
+  "rating": 4.3,
+  "trust_score": 0.794442718904466,
+  "travel_purpose_tags": [
+    "Business",
+    "Family"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "moderate",
+    "review_count": 5,
+    "positive_snippet_count": 3,
+    "negative_snippet_count": 1,
+    "positive_theme_count": 5,
+    "negative_theme_count": 1
+  },
+  "aspect_scores": {
+    "cleanliness": 0.7499330761202144,
+    "service": 0.9998700618743896,
+    "location": 0.6668632390986508,
+    "value_for_money": 0.9998437166213988,
+    "staff_behavior": 0.9996275703112284
+  },
+  "recommendation_features": {
+    "popularity_score": 0.5378405777437043,
+    "rating_score": 4.3,
+    "sentiment_score": 0.7999204732710495
+  },
+  "review_evidence": {
+    "positive_snippets": [
+      "Tidy clean rooms with full safety and express check in\nStaff is humble and polite",
+      "Awesome location\nTidy room\nHumble staff and good management\nEverything is perfect\nWith free wifi delicious food",
+      "Awesome stay with hotel metro view\nNeat clean tidy rooms and affordable stay\nSafe and secure for family"
+    ],
+    "negative_snippets": [
+      "BEWARE OF FAKE 5 STAR REVIEWS: I stayed there for 4 days. The experience couldn't have been worse. I had booked a double deluxe room with balcony. However, I was given a small untidy room with disgusting toilet, smelly comforter and uncomfortable bed. Everything was a mess. On top of that, they showed me some hidden charges on my check out. The location is near Tikri Border Metro Station but the surroundings are very dirty, with open drains and water overflowing from them. Go only if you want to experience hell."
+    ]
+  },
+  "review_summary": "Based on 5 reviews.",
+  "positive_themes": {
+    "clean_rooms": 5,
+    "friendly_staff": 3,
+    "good_location": 2,
+    "good_food": 2,
+    "great_value": 1
+  },
+  "negative_themes": {
+    "dirty_rooms": 1
+  }
+}

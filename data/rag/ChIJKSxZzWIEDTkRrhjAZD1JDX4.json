@@ -1,0 +1,52 @@
+{
+  "hotel_id": "ChIJKSxZzWIEDTkRrhjAZD1JDX4",
+  "hotel_name": "Hotel Lexus",
+  "area": "New Delhi",
+  "budget_category": "Mid-Range",
+  "rating": 4.6,
+  "trust_score": 0.6293120838364981,
+  "travel_purpose_tags": [
+    "Budget"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "moderate",
+    "review_count": 5,
+    "positive_snippet_count": 2,
+    "negative_snippet_count": 3,
+    "positive_theme_count": 4,
+    "negative_theme_count": 1
+  },
+  "aspect_scores": {
+    "cleanliness": 0.0012992253759875,
+    "service": 0.5013846900546923,
+    "location": 0.5,
+    "value_for_money": 0.5,
+    "staff_behavior": 0.9997780919075012
+  },
+  "recommendation_features": {
+    "popularity_score": 0.472446984385614,
+    "rating_score": 4.6,
+    "sentiment_score": 0.2009346271399408
+  },
+  "review_evidence": {
+    "positive_snippets": [
+      "The overall experience was good the one thing which lacked , room was not cleaned properly.\n1. First the bed sheet was  bit dirty.\n2. Second, there was no soap in the wash room.\n3. The rooms showed in photo is much different as compared to the room you get.\nI hope the next time i will book this hotel the management will fix these issues.",
+      "I had an amazing experience in this hotel.I have stayed in many hotels but the service I got here is something special everytime I enter the reception the staff makes me feel special and the hospitality was a 10 on 10"
+    ],
+    "negative_snippets": [
+      "They are definitely charging rates comparable to a 3-star hotel, but the experience didn\u2019t match that standard at all. The moment I stepped into the room, there was an unpleasant smell and we had to manage with a room freshener. The rooms are also not spacious, and there\u2019s nothing much to expect in terms of in-room facilities.\n\nWhen I asked about breakfast, I was told it starts only after 10 a.m., which was quite inconvenient and unusual. Additionally, I couldn\u2019t find any good food options nearby.\n\nThe biggest concern was security, it seemed like any random delivery person could walk inside, which raises serious safety questions.",
+      "Those who prefer reviews before booking any hotel then please don't ever visit this hotel, rooms are very small, queen size beds, only one boy is available to serve all and that too busy on phone all time, even doesn't give u proper response. We asked them to give tea at 8:30am and they said will be available by 10 only really!!! What if a customer need on time? Then tea was given in a very dirty cup and tray, so unhygienic... So pathetic",
+      "We did not stay here .We had booked a room here but needed to cancel the booking because of personal issues. The person with whom I had talked said he would refund the advance as per rules but even after repeated calls it did not happen.At times the person said he needed to talk to the owner ,he asked for my details in which the refund would be made.The amount of the advance is not huge but the intention of the hotel and the overall attitude is very disparaging . Please consider booking here and assure the refund issues.We travel very frequently and cancellation issues come up at times.There are different cancellation policies in different hotels  but we did not face such an issue.We are really upset with this.This is nothing but cheating and leaves a sour taste in the mind."
+    ]
+  },
+  "review_summary": "Based on 5 reviews.",
+  "positive_themes": {
+    "clean_rooms": 1,
+    "friendly_staff": 1,
+    "good_location": 1,
+    "good_food": 1
+  },
+  "negative_themes": {
+    "dirty_rooms": 3
+  }
+}

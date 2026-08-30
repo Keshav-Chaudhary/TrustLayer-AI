@@ -1,0 +1,52 @@
+{
+  "hotel_id": "ChIJiRsZjhfjDDkRh-Hz8soazjI",
+  "hotel_name": "Kings Court Hotel Panchsheel Park",
+  "area": "Delhi",
+  "budget_category": "Mid-Range",
+  "rating": 4.6,
+  "trust_score": 0.8125013131598708,
+  "travel_purpose_tags": [
+    "Leisure"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "moderate",
+    "review_count": 5,
+    "positive_snippet_count": 3,
+    "negative_snippet_count": 1,
+    "positive_theme_count": 5,
+    "negative_theme_count": 1
+  },
+  "aspect_scores": {
+    "cleanliness": 0.5020267420914024,
+    "service": 0.5020349675323814,
+    "location": 0.9996784329414368,
+    "value_for_money": 0.9997369945049286,
+    "staff_behavior": 0.9997113943099976
+  },
+  "recommendation_features": {
+    "popularity_score": 0.4341186759487797,
+    "rating_score": 4.6,
+    "sentiment_score": 0.80067084049806
+  },
+  "review_evidence": {
+    "positive_snippets": [
+      "I stayed at King's Court Hotel during my time in Delhi for my Convocation, and despite it being a last-minute booking, this place was one of the best places I stayed.\nThe location was very close to the Panchsheel Park Metro station (roughly 400 metres), which made it very convenient for travel.\nI believe there was renovation going on at the front of the hotel during my visit, but it wasn't exactly a hurdle because the entrance was still easily accessible, and there was a side entrance too.\nSimilarly, despite not having an elevator, the staff was kind enough to carry my luggage to the third floor and offered me a brief stay in one of their suites until my room (Deluxe) was ready for check-in. They also offered complimentary tea and coffee.\nThe room was also pretty neat and tidy, including the washroom, so there are no complaints per se.\nBesides, the manager and staff in general were extremely polite and catered to every one of our requirements. I arrived pretty early (around 6 a.m.) and checked out at an unusually early hour (around 4 a.m.) due to my flight timings, and the manager ensured there were no hurdles at check-in or check-out. They truly went above and beyond, which is what struck me the most, because at a time when hotel reviews are filled with bad experiences, this one definitely does everything it can to keep those staying happy.\nI highly recommend this place to anyone travelling to Delhi, as it is one of the best places to stay without pinching your pocket.",
+      "Great place to stay. Metro is like 300m away and lots of food options near by. I stayed here for 5 days and it was good stay. Management helped me in so many ways specifically Piyush bhai. Very affordable for price they offer for 1 BHK Room.\nI\u2019ll come here next time again for sure.",
+      "I had stayed for 20 days. The experience was very good. Rooms were nice and affordable."
+    ],
+    "negative_snippets": [
+      "The hotel rooms are bad and not cleaned. Bathrooms are dirty!!  Except for the room service from the workers, nothing seemed positive. I would not recommend this place to anyone. Stay at your own risk!!"
+    ]
+  },
+  "review_summary": "Based on 5 reviews.",
+  "positive_themes": {
+    "clean_rooms": 2,
+    "friendly_staff": 2,
+    "good_location": 3,
+    "great_value": 2,
+    "good_food": 1
+  },
+  "negative_themes": {
+    "dirty_rooms": 1
+  }
+}

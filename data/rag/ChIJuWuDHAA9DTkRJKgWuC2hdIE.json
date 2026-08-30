@@ -1,0 +1,48 @@
+{
+  "hotel_id": "ChIJuWuDHAA9DTkRJKgWuC2hdIE",
+  "hotel_name": "Raj Residency New",
+  "area": "Gurugram",
+  "budget_category": "Mid-Range",
+  "rating": 4.2,
+  "trust_score": 0.747154255668919,
+  "travel_purpose_tags": [
+    "Leisure",
+    "Business"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "moderate",
+    "review_count": 5,
+    "positive_snippet_count": 3,
+    "negative_snippet_count": 0,
+    "positive_theme_count": 4,
+    "negative_theme_count": 0
+  },
+  "aspect_scores": {
+    "cleanliness": 0.0012014970416203,
+    "service": 0.999756932258606,
+    "location": 0.9997946918010712,
+    "value_for_money": 0.5,
+    "staff_behavior": 0.999670386314392
+  },
+  "recommendation_features": {
+    "popularity_score": 0.3779858829355023,
+    "rating_score": 4.2,
+    "sentiment_score": 0.7999370905803517
+  },
+  "review_evidence": {
+    "positive_snippets": [
+      "I had a good experience at this hotel. The rooms were pretty nice and comfortable. \ud83d\ude0a The service stood out as truly excellent! The location was also quite convenient. \ud83d\udc4d Overall, a pleasant stay! \u2728\ud83c\udfe8",
+      "It's looking good and best service in tha hotel staff excellent food \ud83d\udc4c looking very pretty \ud83d\ude0d",
+      "The stress-free environment, combined with the beauty of the location, made for an unforgettable stay.\""
+    ],
+    "negative_snippets": []
+  },
+  "review_summary": "Based on 5 reviews.",
+  "positive_themes": {
+    "good_location": 2,
+    "friendly_staff": 1,
+    "good_food": 1,
+    "clean_rooms": 1
+  },
+  "negative_themes": {}
+}

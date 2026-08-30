@@ -1,0 +1,52 @@
+{
+  "hotel_id": "ChIJ7aqqqhn9DDkROmpPLJp4sS0",
+  "hotel_name": "Hotel Tara Palace Chandni Chowk",
+  "area": "New Delhi",
+  "budget_category": "Luxury",
+  "rating": 4.0,
+  "trust_score": 0.7706443199543621,
+  "travel_purpose_tags": [
+    "Leisure"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "moderate",
+    "review_count": 5,
+    "positive_snippet_count": 3,
+    "negative_snippet_count": 1,
+    "positive_theme_count": 4,
+    "negative_theme_count": 2
+  },
+  "aspect_scores": {
+    "cleanliness": 0.4991350530617637,
+    "service": 0.7499407708164654,
+    "location": 0.998008906841278,
+    "value_for_money": 0.0002611992822494,
+    "staff_behavior": 0.6666599551196365
+  },
+  "recommendation_features": {
+    "popularity_score": 0.6139999785104596,
+    "rating_score": 4.0,
+    "sentiment_score": 0.7995543980214279
+  },
+  "review_evidence": {
+    "positive_snippets": [
+      "What truly sets this hotel apart is the exceptional service. Every staff member we encountered was courteous, attentive, and genuinely kind. Whether it was arranging local tours or simply greeting us with a warm smile, they made our stay feel personal and memorable.\n\nIf you're looking for a luxurious, peaceful, and perfectly managed place to stay, look no further. We can\u2019t wait to return!",
+      "Arrived at Tara Palace hotel. Not quite what I imagined the laneway is unique but the service and rooms where great. You can't judge a book by it's cover. Thanks for all your help.",
+      "Review of Hotel Tara Palace, Delhi\n\nBy Dr. Hukam Singh Sandu\n\nI recently had the pleasure of staying at Hotel Tara Palace, Delhi, and my experience was nothing short of exceptional.\n\nAmbience & Comfort\n\nThe hotel offers a warm and inviting atmosphere, making it an ideal choice for both business and leisure travelers. The rooms are well-maintained, spacious, and equipped with modern amenities, ensuring a comfortable stay. The overall cleanliness and upkeep of the property reflect high standards of hospitality.\n\nService & Hospitality\n\nThe staff at Hotel Tara Palace is highly professional and courteous, always ready to assist with any requirements. Their attention to detail and commitment to guest satisfaction truly stand out.\n\nMeeting with the Owner \u2013 Mr. Bhawaeh\n\nOne of the highlights of my stay was meeting Mr. Bhawaeh, the owner of the hotel. He has an incredibly friendly, cooperative, and down-to-earth nature, making guests feel welcome and valued. His approachability and dedication to providing the best possible experience for visitors add a personal touch to the hotel's charm.\n\nOverall Experience\n\nHotel Tara Palace is a perfect blend of comfort, excellent service, and warm hospitality. Whether you are in Delhi for business or leisure, this hotel ensures a memorable and pleasant stay.\n\nRating: \u2b50\u2b50\u2b50\u2b50\u2b50 (5/5)"
+    ],
+    "negative_snippets": [
+      "Horrible Experience \u2013 Avoid at All Costs!\n\nI stayed at Hotel Tara Palace for an entire week, and I deeply regret it. The only reason I stayed that long was because I had to be within Chandni Chowk, and switching hotels was a hassle. If that hadn't been the case, I would have left immediately.\n\nFirst off, the service is abysmal. The staff is ill-mannered and rude, with no regard for customer service. As a solo female traveler, I would never recommend this place to anyone\u2014it felt anything but safe or accommodating.\n\nThe rooms are disgusting. They have a horrible, damp smell, and the bed sheets and mattresses are old and stinky. The pillows are no better. The rooms were never cleaned on time, and when they finally were, the job was half-hearted. There are no electric kettles provided, and while some rooms have working TVs, many do not. Basic amenities like fans don\u2019t work properly, which is unacceptable, especially during the peak summer heat in India. When I complained about the fan not working, the staff had the audacity to tell me I should have checked it before agreeing to the room! The manager's attitude was beyond rude.\n\nThe hotel is undergoing renovations, but it doesn't excuse the fact that the lift is old and unreliable, unable to carry much weight. The rooms are not suitable for three people, even though they may try to squeeze guests in, which is just misleading.\n\nThe worst part of my stay was how dismissive the staff was towards complaints. I asked for hot water because I wasn\u2019t feeling well, and after requesting it twice within an hour, I was treated as if I were being a nuisance. Room service was consistently late, and the staff seemed annoyed at every simple request. They kept asking for IDs repeatedly, which felt suspicious and unprofessional.\n\nOverall, this hotel is a disaster, especially for the price they charge. The management is haughty, rude, and refuses to acknowledge or apologize for their poor service. I would never stay here again and absolutely do not recommend it to anyone."
+    ]
+  },
+  "review_summary": "Based on 5 reviews.",
+  "positive_themes": {
+    "friendly_staff": 3,
+    "clean_rooms": 3,
+    "great_value": 1,
+    "good_location": 1
+  },
+  "negative_themes": {
+    "dirty_rooms": 1,
+    "rude_staff": 1
+  }
+}

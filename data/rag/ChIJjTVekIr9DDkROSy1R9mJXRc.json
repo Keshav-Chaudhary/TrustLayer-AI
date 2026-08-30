@@ -1,0 +1,48 @@
+{
+  "hotel_id": "ChIJjTVekIr9DDkROSy1R9mJXRc",
+  "hotel_name": "Hotel O Kashish Residency",
+  "area": "GTB Nagar",
+  "budget_category": "Mid-Range",
+  "rating": 1.6,
+  "trust_score": 0.1183232655436929,
+  "travel_purpose_tags": [
+    "Budget"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "moderate",
+    "review_count": 5,
+    "positive_snippet_count": 0,
+    "negative_snippet_count": 3,
+    "positive_theme_count": 2,
+    "negative_theme_count": 2
+  },
+  "aspect_scores": {
+    "cleanliness": 0.0005472075378444,
+    "service": 0.0003899172879755,
+    "location": 0.0003899172879755,
+    "value_for_money": 0.5,
+    "staff_behavior": 0.0001960113731911
+  },
+  "recommendation_features": {
+    "popularity_score": 0.2456693548613046,
+    "rating_score": 1.6,
+    "sentiment_score": 0.0004883911780779
+  },
+  "review_evidence": {
+    "positive_snippets": [],
+    "negative_snippets": [
+      "Worst hotel I have ever faced dirty room, dirty and clogged bathroom no proper bathing area, smelly room and very dirty blankets and one thing don't pay them before visting the room or if they say there is another property of ours where you can stay and they will show you some very good picture and video of that property then just don't trust them and never pay them without visiting the room .",
+      "Worst hotel I have ever face dirty room, dirty and congested bathroom no proper bathing area, smelly room and very dirt blankets and bed andi found a condom on the bed and one thing don't pay them before visting the room or if they say there is another property of ours where you can stay and they will show you some very good picture and video of that property then just don't trust them and never pay them without visiting the room and it is very unsafe.",
+      "My experience at this hotel through OYO was absolutely terrible. The entire staff here was deceitful. They didn't even speak properly, and they failed to provide us with towels, shampoo, or soap. Furthermore, they asked us to check out a day earlier than scheduled. The rooms were extremely dirty, and the taps in the washroom were not working properly either."
+    ]
+  },
+  "review_summary": "Based on 5 reviews.",
+  "positive_themes": {
+    "friendly_staff": 1,
+    "good_location": 1
+  },
+  "negative_themes": {
+    "dirty_rooms": 3,
+    "rude_staff": 1
+  }
+}

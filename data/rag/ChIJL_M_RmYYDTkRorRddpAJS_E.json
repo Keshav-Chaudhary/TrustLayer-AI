@@ -1,0 +1,48 @@
+{
+  "hotel_id": "ChIJL_M_RmYYDTkRorRddpAJS_E",
+  "hotel_name": "Hotel O By Oyo Telone Stay",
+  "area": "Sector 39",
+  "budget_category": "Budget",
+  "rating": 3.8,
+  "trust_score": 0.5824460423562597,
+  "travel_purpose_tags": [
+    "Budget"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "moderate",
+    "review_count": 5,
+    "positive_snippet_count": 1,
+    "negative_snippet_count": 3,
+    "positive_theme_count": 1,
+    "negative_theme_count": 1
+  },
+  "aspect_scores": {
+    "cleanliness": 0.0003251703456044,
+    "service": 0.5,
+    "location": 0.3346871088918609,
+    "value_for_money": 0.4828970671223943,
+    "staff_behavior": 0.5
+  },
+  "recommendation_features": {
+    "popularity_score": 0.4626389936235164,
+    "rating_score": 3.8,
+    "sentiment_score": 0.3939108038903214
+  },
+  "review_evidence": {
+    "positive_snippets": [
+      "Comfort and experience of a 4 star hotel at the price of a budget hotel. I believe the only budget hotel in Gurgaon in an otherwise geography crowded with guest houses."
+    ],
+    "negative_snippets": [
+      "PLEASE DON'T BOOK THIS PLACE\n\nI recently booked this place for 4 days of stay for attending a conference at SGT University,\nSince my flight was delayed and using the google location I was left at a place where no such structure existed.\n\nTHIS IS A PROPER SCAM which will teach you to not just rely on reviews.",
+      "Very bad. Hotel is not there in the location(gurugram). Today I came to the location but hotel is not there. Everything what you see in google is wrong. I paid money online after checking in google but no hotel. Very bad experience.please don\u2019t book this hotel",
+      "Its a ok place the location is not that much good But it have nice amenities"
+    ]
+  },
+  "review_summary": "Based on 5 reviews.",
+  "positive_themes": {
+    "good_location": 3
+  },
+  "negative_themes": {
+    "dirty_rooms": 1
+  }
+}

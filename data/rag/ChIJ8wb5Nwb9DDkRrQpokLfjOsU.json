@@ -1,0 +1,50 @@
+{
+  "hotel_id": "ChIJ8wb5Nwb9DDkRrQpokLfjOsU",
+  "hotel_name": "Hotel J'Joy Deluxe Karol Bagh",
+  "area": "New Delhi",
+  "budget_category": "Mid-Range",
+  "rating": 3.9,
+  "trust_score": 0.4568066870005458,
+  "travel_purpose_tags": [
+    "Budget"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "moderate",
+    "review_count": 5,
+    "positive_snippet_count": 0,
+    "negative_snippet_count": 3,
+    "positive_theme_count": 4,
+    "negative_theme_count": 2
+  },
+  "aspect_scores": {
+    "cleanliness": 0.0006490706582553,
+    "service": 0.0255140187897874,
+    "location": 0.041306547820568,
+    "value_for_money": 0.0038140073011162,
+    "staff_behavior": 0.0012047093769069
+  },
+  "recommendation_features": {
+    "popularity_score": 0.3747192385157226,
+    "rating_score": 3.9,
+    "sentiment_score": 0.0170562696817796
+  },
+  "review_evidence": {
+    "positive_snippets": [],
+    "negative_snippets": [
+      "If you want to experience cockroach \ud83e\udeb3 and mouse \ud83d\udc01 with public toilet \ud83d\udebd then you can stay in this hotel.\nAnd the cost of mineral water is 30rs although mrp is 18 rs.\nBetter to stay in station than to stay here.",
+      "Worst experience ever. We booked an online hotel on go ibibo and paid upfront couple of hours ago. When we reached to reception. They said all the hotel were fully booked and ask use to send them refund request online and go to other hotel and they cannot do anything. Do not book this hotel ever for your safe side",
+      "Giving one star because there is no option to rate it lesser than that. Rooms are in terrible condition. Booking is done through a third party who will tell you about all these non existent facilities in this hotel. There in not even proper functioning toilets here. This is not a family hotel. due to these kind of previous reviews they have changed their name on booking.com and maybe other apps as well ( now known as hotel j premium on booking.com) . This hotels name is hotel j joy of you want to check their correct reviews. We had a stay for 5 days couldn't last one single evening. When asked for a refund the staff kept referring ki 'aap 3rd party se baat karo they will do it, hum nahi de sakte refund.'"
+    ]
+  },
+  "review_summary": "Based on 5 reviews.",
+  "positive_themes": {
+    "friendly_staff": 2,
+    "great_value": 1,
+    "good_location": 1,
+    "good_food": 1
+  },
+  "negative_themes": {
+    "dirty_rooms": 1,
+    "rude_staff": 1
+  }
+}

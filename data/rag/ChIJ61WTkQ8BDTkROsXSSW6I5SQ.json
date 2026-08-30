@@ -1,0 +1,50 @@
+{
+  "hotel_id": "ChIJ61WTkQ8BDTkROsXSSW6I5SQ",
+  "hotel_name": "Hotel O Hotel Gold Star",
+  "area": "Mahendra Park",
+  "budget_category": "Mid-Range",
+  "rating": 4.8,
+  "trust_score": 0.7067590982069456,
+  "travel_purpose_tags": [
+    "Budget"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "rich",
+    "review_count": 5,
+    "positive_snippet_count": 3,
+    "negative_snippet_count": 2,
+    "positive_theme_count": 2,
+    "negative_theme_count": 1
+  },
+  "aspect_scores": {
+    "cleanliness": 0.0003470899246167,
+    "service": 0.2504803183255716,
+    "location": 0.0013912558788433,
+    "value_for_money": 0.0004014977312181,
+    "staff_behavior": 0.6666325967040999
+  },
+  "recommendation_features": {
+    "popularity_score": 0.4124639098458538,
+    "rating_score": 4.8,
+    "sentiment_score": 0.4003381087444722
+  },
+  "review_evidence": {
+    "positive_snippets": [
+      "Night manager was so bad room is so bad and he ask miss behave for client.room is so dirty I m so ugly tomorrow I will complaint to hotel manager delhi and  beat officer because this is not hospitality work night managet is over charges 1800 and room was not 1800 charges ....i hate service and i hate room",
+      "Very good hotel staff also good good service meneger bewahar nice",
+      "Nice stay staff good m nejment bewahar good"
+    ],
+    "negative_snippets": [
+      "My experience at this Oyo hotel was awful. First, there were no towels available in the room, and when I asked, the hotel said they simply didn\u2019t have any! On top of that, I was charged extra for the room, which was ridiculously small and uncomfortable. For the price I paid, I expected at least basic amenities and decent service, but this place was a huge disappointment. I will definitely not be returning and wouldn\u2019t recommend this hotel to anyone.",
+      "Location on Google maps is totally wrong, it is just at start of the lane (theke Wali Gali) while location shows it is way in.\nThe lift was not working all 3 days, seemed like it never worked. Had room on 3rd floor, so it was annoying.\nMosquitoes were overpowering the reception area and it was tough to check in.\n\nRoom was OK, not bad.\nI would stay there for any urgency or emergency or in case I don't find anything else."
+    ]
+  },
+  "review_summary": "Based on 5 reviews.",
+  "positive_themes": {
+    "friendly_staff": 2,
+    "good_location": 1
+  },
+  "negative_themes": {
+    "dirty_rooms": 1
+  }
+}

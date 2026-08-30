@@ -1,0 +1,55 @@
+{
+  "hotel_id": "ChIJ01RYkd0dDTkRcowtxjOpraI",
+  "hotel_name": "Foxoso Delhi Airport - T3",
+  "area": "Mahipalpur",
+  "budget_category": "Mid-Range",
+  "rating": 4.4,
+  "trust_score": 0.7269071852444787,
+  "travel_purpose_tags": [
+    "Leisure",
+    "Family"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "moderate",
+    "review_count": 5,
+    "positive_snippet_count": 2,
+    "negative_snippet_count": 3,
+    "positive_theme_count": 5,
+    "negative_theme_count": 2
+  },
+  "aspect_scores": {
+    "cleanliness": 0.9997665286064148,
+    "service": 0.5027787760773208,
+    "location": 0.9997665286064148,
+    "value_for_money": 0.9997665286064148,
+    "staff_behavior": 0.258289235731354
+  },
+  "recommendation_features": {
+    "popularity_score": 0.7478215660265124,
+    "rating_score": 4.4,
+    "sentiment_score": 0.4065846943063661
+  },
+  "review_evidence": {
+    "positive_snippets": [
+      "We are a family of four and stayed at the hotel for 4 days. Overall, it was a pleasant experience. The food was tasty and had good variety, the service staff were attentive and helpful, and the room was comfortable and well-maintained. I would rate the food, service, and room a solid 4 out of 5. This hotel made our family stay enjoyable, and we would consider coming back again.",
+      "I had a pleasant stay at Foxoso Hotel near Delhi Airport. Overall, the hotel experience was good and comfortable. The housekeeping was satisfactory, with rooms generally clean and well-maintained. Basic amenities were available, and the hotel environment was decent for a short stay, especially due to its convenient location close to the airport.\nWhile there is scope for improvement in service consistency, the hotel offers good value for money and a comfortable stay for travelers."
+    ],
+    "negative_snippets": [
+      "The Hotel has hired professional staff to give good reviews so that their rating does not get affected. They should instead focus on customer service. If the lift is not working, should a person stay at their place. FYI they have only one lift and the parking is the basement. I had to climb the ramp to get back to the Hotel after parking my car.\n\nInconsiderate Hotel. Please do not try.\n\nTomorrow you will see two or three good reviews after this is posted\n\n\u2014 Dhalvinder Singh Basra",
+      "I had recommended this hotel to a friend of mine based on my earlier impression, but unfortunately his experience turned out to be extremely disappointing.\n\nMy friend has a knee problem and cannot climb stairs. When he arrived, the hotel\u2019s elevator was not working. Considering his medical condition, using the stairs was not possible for him. When he informed the hotel staff about the issue, they told him on the spot that he could check into another hotel and that they would refund the amount.\n\nHowever, after he arranged another hotel and requested the refund, the management completely stopped responding to emails and calls. This behavior is very unprofessional and disappointing.\n\nIf the elevator was not operational, the hotel should have informed guests in advance or handled the refund properly as promised. Ignoring communication after making a commitment is not acceptable.\n\nI hope the management addresses this issue seriously and improves their customer service so other guests do not face similar problems.\n\n\u2b50 Very disappointing experience.",
+      "I booked an executive suite for three nights, but unfortunately, I didn\u2019t get to stay in it on the first night because the lock wasn\u2019t working. This feel like something that should have been checked and fixed before my arrival. I did pay for a suite that I never actually got to stay in and the hotel staff didn\u2019t offer any solution or compensation for that.\nThe hotel definitely needs some improvements. The rooms felt dusty and old and could really use some repair or a makeover to bring them up to standard. On the brighter side, I found the night staff to be much more helpful and friendly than the day staff. During the day, I felt like one of the staff members wasn\u2019t really interested in assisting guests, which goes against what you expect from good hospitality. The gate men were pleasant and welcoming, though.\nOverall, while there were some good points the experience left me feeling that the hotel has a lot of room for improvement."
+    ]
+  },
+  "review_summary": "Based on 5 reviews.",
+  "positive_themes": {
+    "friendly_staff": 4,
+    "good_food": 1,
+    "clean_rooms": 1,
+    "good_location": 1,
+    "great_value": 1
+  },
+  "negative_themes": {
+    "parking_issues": 1,
+    "rude_staff": 1
+  }
+}

@@ -1,0 +1,49 @@
+{
+  "hotel_id": "ChIJAQAQ3iIeDTkRUX6NDxRGhiA",
+  "hotel_name": "Mauryan Elite Hotel Chhatarpur Metro Station",
+  "area": "Chhatarpur",
+  "budget_category": "Mid-Range",
+  "rating": 4.4,
+  "trust_score": 0.5530865986399941,
+  "travel_purpose_tags": [
+    "Budget"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "moderate",
+    "review_count": 5,
+    "positive_snippet_count": 0,
+    "negative_snippet_count": 3,
+    "positive_theme_count": 3,
+    "negative_theme_count": 2
+  },
+  "aspect_scores": {
+    "cleanliness": 0.0004675627496908,
+    "service": 0.0002615950579638,
+    "location": 0.0002411539171589,
+    "value_for_money": 0.0006169266416691,
+    "staff_behavior": 0.0005348148163951
+  },
+  "recommendation_features": {
+    "popularity_score": 0.5398364541818974,
+    "rating_score": 4.4,
+    "sentiment_score": 0.0004222809831844
+  },
+  "review_evidence": {
+    "positive_snippets": [],
+    "negative_snippets": [
+      "Review for Hotel Trendy Residency, Chhatarpur\n\nI stayed at Hotel Trendy Residency recently, and unfortunately, my experience was extremely disappointing. At check-in(19th and 20th November 2026), I was charged \u20b91500 per night for two nights (\u20b93000 total), and additional transaction fees were added for card payment. Later, I discovered that the actual online prices for the same rooms range between \u20b9700\u2013\u20b91000 per night. This was the first sign of overcharging and lack of transparency.\n\nThe room conditions were far below acceptable standards. There was no water supply, the telephone inside the room did not work, the TV was non-functional, and despite being promised complimentary drinking water, none was provided. The mobile network signal inside the room was almost nonexistent, and their Wi-Fi was extremely slow and practically unusable.\n\nThroughout the stay, there was no proper assistance from the staff regarding any of these issues. At checkout, I explained everything to the same staff member who handled my booking (Truecaller shows his name as Gopal Gupta). Instead of addressing the problems, he behaved in an unprofessional manner, using inappropriate and abusive language. When I recorded the call, he suddenly changed his tone, which shows a complete lack of responsibility and integrity.\n\nOverall, this has been one of the worst hotel experiences I\u2019ve ever had. The service quality, staff behaviour, and basic facilities were extremely poor. I do not recommend this hotel to anyone looking for a comfortable or professional stay.",
+      "We chose this hotel after carefully checking its Google profile. But the moment we stepped inside the room, that hope broke.\n\nThere was a strange, suffocating smell as soon as the door opened. The bedsheet had visible stains and looked carelessly spread, as if it hadn\u2019t been changed properly. I didn\u2019t even feel comfortable sitting on the bed, let alone sleeping on it. The walls were dirty with marks and peeling paint, giving the room a neglected and depressing feeling.\n\nThe washroom was the most upsetting part. It smelled bad, the floor had stains, and the sink was unclean. It didn\u2019t feel hygienic or safe. Instead of feeling relaxed after a long journey, we felt stressed and disturbed.\n\nWhen we tried to speak to the staff, there was no empathy \u2014 just excuses.\n\nIt honestly felt like the Google profile was fake or completely misleading. The reality was the opposite of what was shown online. This wasn\u2019t just a bad stay; it felt like our trust was broken. We left feeling disappointed, uncomfortable, and emotionally drained.",
+      "We booked this hotel after seeing its profile on Google. We trusted what we saw online. But the reality was completely different \u2014 and heartbreaking.\n\nThe moment we entered the room, we realized we had been misled. The room was poorly maintained and looked nothing like the pictures on Google. The bedsheet was dirty and stained, and there was a strong, unpleasant smell throughout the room. The mattress felt old and uncomfortable, and even the pillows seemed unclean.\n\nThe washroom was worse. There were stains on the tiles, the sink was not properly cleaned, and there was a constant bad odor. The walls had marks and peeling paint, giving the entire room a neglected and unhygienic look. It felt like basic cleanliness was completely ignored.\n\nWhat hurt us the most was realizing that the Google profile seemed totally fake or at least extremely misleading. The photos and positive image shown online did not match the actual condition at all.\n\nWe felt cheated and emotionally disappointed. This was not just bad service \u2014 it was a complete betrayal of trust."
+    ]
+  },
+  "review_summary": "Based on 5 reviews.",
+  "positive_themes": {
+    "friendly_staff": 3,
+    "clean_rooms": 3,
+    "good_food": 2
+  },
+  "negative_themes": {
+    "rude_staff": 3,
+    "dirty_rooms": 3
+  }
+}

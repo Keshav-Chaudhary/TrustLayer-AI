@@ -1,0 +1,48 @@
+{
+  "hotel_id": "ChIJI69JKUfcDDkRXn3xNhvAIp8",
+  "hotel_name": "Radisson Blu Hotel, Faridabad",
+  "area": "Sector 20B",
+  "budget_category": "Luxury",
+  "rating": 4.7,
+  "trust_score": 0.9949243344010488,
+  "travel_purpose_tags": [
+    "Leisure",
+    "Business"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "moderate",
+    "review_count": 5,
+    "positive_snippet_count": 3,
+    "negative_snippet_count": 0,
+    "positive_theme_count": 4,
+    "negative_theme_count": 0
+  },
+  "aspect_scores": {
+    "cleanliness": 0.9973432421684264,
+    "service": 0.9966210126876832,
+    "location": 0.990119457244873,
+    "value_for_money": 0.5,
+    "staff_behavior": 0.9978514432907104
+  },
+  "recommendation_features": {
+    "popularity_score": 0.933521406498111,
+    "rating_score": 4.7,
+    "sentiment_score": 0.9978514432907104
+  },
+  "review_evidence": {
+    "positive_snippets": [
+      "During my stay at Radisson Blu, I had a very good experience.\n\n\u2022 Mr. Binod Ji \u2013 He is always polite and greets everyone with a smile. Every time I entered or left the hotel, he made me feel welcome. His respectful behaviour really creates a positive first impression.\n\n\u2022 Ms. Deepa \u2013 She took care of my room during my stay. From the first day, I told her about my daily needs, and after that everything was managed properly without any reminder. The room was always clean and well arranged. I am very happy with her service.\n\nThank you for the great hospitality.",
+      "We had a wonderful stay at Radisson Blu Hotel Faridabad. The staff were consistently friendly and helpful, making us feel welcome from the moment we arrived. Our room was clean, very comfortable, and peaceful, with the only lively moments coming from nearby weddings\u2014which were actually a delight to experience.\n\nA special mention goes to Uday, who was extremely professional and went out of his way to help us try local food and share his personal favourites with us. His kindness, warm nature, and professional manner brought so much joy to our mornings and made our experience truly special.\n\nAs this was our first time in India, staying here was a wonderful introduction to the country. We couldn\u2019t have asked for a better start to our journey and would happily recommend this hotel to anyone visiting Faridabad.",
+      "Our stay at the hotel has been absolutely wonderful, made even more special by the incredible staff. A heartfelt thank you to Binod, whose warmth, courtesy and constant attention at the entrance made us feel welcomed every single day. Deepak ensured our restaurant and breakfast experience was always seamless and impeccable \u2014 his attentiveness and professionalism truly stood out. A special mention as well to Nirmal, who went above and beyond to help us arrange beautiful flowers for my sister\u2019s 40th birthday, making the celebration extra memorable.\n\nThe hotel staff overall are exceptional, the service is outstanding, and the rooms are comfortable and beautifully maintained. A truly excellent experience from start to finish \u2014 highly recommended!"
+    ],
+    "negative_snippets": []
+  },
+  "review_summary": "Based on 5 reviews.",
+  "positive_themes": {
+    "clean_rooms": 4,
+    "friendly_staff": 5,
+    "good_location": 2,
+    "good_food": 3
+  },
+  "negative_themes": {}
+}

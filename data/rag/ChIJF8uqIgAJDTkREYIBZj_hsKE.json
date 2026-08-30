@@ -1,0 +1,46 @@
+{
+  "hotel_id": "ChIJF8uqIgAJDTkREYIBZj_hsKE",
+  "hotel_name": "Royal Hotel And Restaurant",
+  "area": "Mahavir Park",
+  "budget_category": "Mid-Range",
+  "rating": 4.4,
+  "trust_score": 0.7184948044656535,
+  "travel_purpose_tags": [
+    "Budget"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "sparse",
+    "review_count": 4,
+    "positive_snippet_count": 3,
+    "negative_snippet_count": 1,
+    "positive_theme_count": 1,
+    "negative_theme_count": 0
+  },
+  "aspect_scores": {
+    "cleanliness": 0.5,
+    "service": 0.9998610019683838,
+    "location": 0.5,
+    "value_for_money": 0.0001864924561232,
+    "staff_behavior": 0.5
+  },
+  "recommendation_features": {
+    "popularity_score": 0.1935748254816269,
+    "rating_score": 4.4,
+    "sentiment_score": 0.7497149530681781
+  },
+  "review_evidence": {
+    "positive_snippets": [
+      "It's really royal choice",
+      "Best service and food .\nLoved it",
+      "Good service"
+    ],
+    "negative_snippets": [
+      "I ordered food in zomato from this hotel. It's rubbish. Totally waste of money."
+    ]
+  },
+  "review_summary": "Based on 4 reviews.",
+  "positive_themes": {
+    "good_food": 2
+  },
+  "negative_themes": {}
+}

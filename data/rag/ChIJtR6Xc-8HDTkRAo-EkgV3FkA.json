@@ -1,0 +1,49 @@
+{
+  "hotel_id": "ChIJtR6Xc-8HDTkRAo-EkgV3FkA",
+  "hotel_name": "Collection O By Oyo The Crystal Palace.",
+  "area": "Rohini",
+  "budget_category": "Budget",
+  "rating": 4.0,
+  "trust_score": 0.609059411739888,
+  "travel_purpose_tags": [
+    "Leisure"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "moderate",
+    "review_count": 5,
+    "positive_snippet_count": 1,
+    "negative_snippet_count": 3,
+    "positive_theme_count": 4,
+    "negative_theme_count": 0
+  },
+  "aspect_scores": {
+    "cleanliness": 0.5,
+    "service": 0.5,
+    "location": 0.9997982382774352,
+    "value_for_money": 0.0007681860224693,
+    "staff_behavior": 0.5113266790285707
+  },
+  "recommendation_features": {
+    "popularity_score": 0.4645584392255316,
+    "rating_score": 4.0,
+    "sentiment_score": 0.3927141586173093
+  },
+  "review_evidence": {
+    "positive_snippets": [
+      "This is an wonderful banquet hall and Hotel to celebrate your precious events . Here you can get all the things to organise your any kind of event ...it's  fully air-conditioned..also you can organise terrace party there ..staff is very polite cooperative and understanding ...Food quality, decor, furnishing is better than most. Location is just near  to main road approx 200 mtr, easily accessible. Spacious. Recommended."
+    ],
+    "negative_snippets": [
+      "I've had itching on my skin for a week after staying here.\nGave me a broken room with wiry bed and a broken lock when another was empty, receptionist lied to my face about room availability, tried to give me a higher cost room than their usual amount (which i came to know by chance later on).\nI realized too late that most of the older reviews are fake.\nAll this i could forgive, but the itchy skin is crazy. Wash your sheets you disgusting people!!",
+      "Worst place i had ever visited and the owner of the banquets is just too ruthless and ill mannered.\nThey don't know how much sophisticated businesses they are running and even not having any idea about the hosting an event. As per our experience it would be much better if you can hire a tent house for your celebrations because those people are not having any adequate manner to talk and deal with the person.\nThe below mentioned rating was given by one of the owner. Now you can conclude urself how much cheap they guys are",
+      "This crystal place is good for couples only but I went their to attend the family function ring ceremony but at the same time I have seen few  couples coming down from upstairs,\n\nIf they have taken the booking for family function at their place then should keep the separate door for them entry and exit not the main gate , at same time family function was going on so I feel bit enjoyed with family members,\n\nI am posting the pictures because those are with my family members"
+    ]
+  },
+  "review_summary": "Based on 5 reviews.",
+  "positive_themes": {
+    "friendly_staff": 2,
+    "good_location": 1,
+    "good_food": 1,
+    "great_value": 1
+  },
+  "negative_themes": {}
+}

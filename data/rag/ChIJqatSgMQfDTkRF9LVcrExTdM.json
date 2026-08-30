@@ -1,0 +1,47 @@
+{
+  "hotel_id": "ChIJqatSgMQfDTkRF9LVcrExTdM",
+  "hotel_name": "Park Boulevard Hotel, New Delhi",
+  "area": "CHATTARPUR MANDIR ROAD",
+  "budget_category": "Mid-Range",
+  "rating": 4.3,
+  "trust_score": 0.9034725490464068,
+  "travel_purpose_tags": [
+    "Leisure",
+    "Business"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "moderate",
+    "review_count": 5,
+    "positive_snippet_count": 3,
+    "negative_snippet_count": 0,
+    "positive_theme_count": 3,
+    "negative_theme_count": 0
+  },
+  "aspect_scores": {
+    "cleanliness": 0.5,
+    "service": 0.9998713731765746,
+    "location": 0.9997933506965636,
+    "value_for_money": 0.5,
+    "staff_behavior": 0.999864101409912
+  },
+  "recommendation_features": {
+    "popularity_score": 0.750559699117258,
+    "rating_score": 4.3,
+    "sentiment_score": 0.9998482584953308
+  },
+  "review_evidence": {
+    "positive_snippets": [
+      "We recently celebrated our wedding at Delhi Park Boulevard, and it was truly a dream come true.\n\nOur guests came from different nationalities and parts of the world, and every single one of them was amazed by the warmth, organization, and beauty of the celebration. The venue provided the perfect setting for our two-day wedding festivities, blending elegance with comfort in a way that made everyone feel special.\n\nWhat made the experience even more exceptional was that everything \u2014 from the design to the d\u00e9cor \u2014 was handled in-house. The attention to detail was outstanding. Every element was thoughtfully curated and executed flawlessly. The ambiance they created for each event was unique, vibrant, and perfectly aligned with our vision.\n\nThe coordination throughout the two days was seamless. The team ensured that every function ran smoothly, allowing us and our families to truly enjoy each moment without stress. From the d\u00e9cor arrangements to guest management, everything was perfectly planned and delivered beyond expectations.\n\nWe are deeply grateful to the entire team for making our wedding so memorable. If you are looking for a venue that offers professionalism, creativity, and a flawless execution, we highly recommend Delhi Park Boulevard.",
+      "Had an absolutely blast at Park Boulevard recently! If you\u2019re looking for a spot in Chattarpur that actually lives up to the hype, this is the perfect place to host an event or a wedding!!\n\nThe hospitality by the top management and staff here is top-notch and actually pays attention to the little things, which we really appreciated.\n\nTheir in house event/ decor management team of Aayna Events is just amazing, they fully understand the details and requirements of a guest to the core & full-fill it beyond expectations.\n\nNow, let\u2019s talk about the food: honestly, everything  is delicious, you name it and it tastes yum!\n\nThe whole vibe of the place is just really welcoming and well-managed.\n\nI would say if you\u2019re planning an event or wedding and want a great place to stay/eat and host an event, definitely check this place out.\n\nHuge thumbs up team Park Boulevard and absolute special mention to Yogesh Sakhuja, Nipun Sakhuja, Rubal Sakhuja and Govind ji, you all are the best\ud83d\udc4d",
+      "We had the best experience hosting our wedding here. The venue looked stunning, the food was amazing, and everything was so well managed. All our guests had travelled from outside and they genuinely loved every bit of the celebration. We had attended two weddings here before, and that\u2019s when Akshay and I knew this was exactly where we wanted to get married. It honestly turned out even better than we imagined!"
+    ],
+    "negative_snippets": []
+  },
+  "review_summary": "Based on 5 reviews.",
+  "positive_themes": {
+    "friendly_staff": 1,
+    "good_food": 4,
+    "good_location": 1
+  },
+  "negative_themes": {}
+}

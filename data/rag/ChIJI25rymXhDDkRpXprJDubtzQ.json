@@ -1,0 +1,50 @@
+{
+  "hotel_id": "ChIJI25rymXhDDkRpXprJDubtzQ",
+  "hotel_name": "Heistel Delhi",
+  "area": "near Saket",
+  "budget_category": "Mid-Range",
+  "rating": 4.0,
+  "trust_score": 0.6966478034894574,
+  "travel_purpose_tags": [
+    "Family"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "rich",
+    "review_count": 5,
+    "positive_snippet_count": 3,
+    "negative_snippet_count": 2,
+    "positive_theme_count": 4,
+    "negative_theme_count": 0
+  },
+  "aspect_scores": {
+    "cleanliness": 0.9996143281459808,
+    "service": 0.7498226022580637,
+    "location": 0.4998104583937674,
+    "value_for_money": 0.9998486042022704,
+    "staff_behavior": 0.5999195581767707
+  },
+  "recommendation_features": {
+    "popularity_score": 0.5655528295152028,
+    "rating_score": 4.0,
+    "sentiment_score": 0.5999195581767707
+  },
+  "review_evidence": {
+    "positive_snippets": [
+      "If any one of you want a comfort stay with a friendly. The Lady at desk is also very nice and helpful. Staff are also good. If you are feeling is it worth it? It is. Go ahead",
+      "It's nice hostel to stay for a short visit. Staff is very good & courteous. Washrooms are clean. Good amenities.  Hot/cold drinking water dispenser. Laundry service, kitchen.  200 mts from Saket Metro Station.",
+      "It is the best hostel I have ever stayed the dorms are clean and the staff is very friendly specially the reception guy manish is very nice he makes people feel comfortable like home and all the other staff is also good i would love to visit again in heistal delhi"
+    ],
+    "negative_snippets": [
+      "Very poor experience overall.\n\n!!!!!!!!!!!!ALERT!!!!!!!!!!!!!!!!\nDO NOT BOOK THIS HOSTEL\n\nRoom, service, and location were all unacceptable. During the booking process, we tried contacting the hostel multiple times via WhatsApp and calls, but there was no proper response. Calls and messages were ignored, including on the day of check-in, even though we had informed them about a late check-in.\n\nWhen we finally arrived, someone was already sleeping in our assigned room, which was shocking. The rooms and surroundings felt unsafe and uncomfortable, nothing like what was shown in the online reviews. The place gave a red-area / unsafe vibe, and did not feel suitable for travelers.\n\nDue to this, we refused to check in and had to look for a new hotel at 11:30 pm, which was extremely stressful.\n\nThe person at reception was not friendly and seemed reluctant to answer questions, offering no help or reassurance.\n\nOverall, the experience did not match the reviews online, which felt misleading. I would not recommend this hostel.",
+      "SCAMMERS !!!!\n\nOne of the worst stays I\u2019ve experienced. Calls and WhatsApp messages were ignored during booking and even on the day of check-in. Were asked to pay deposit 50%, lucky we didn\u2019t do that. On arrival, our room was already occupied, and the place felt unsafe and uncomfortable. The reality was completely different from the online reviews. Staff was unwelcoming, and we had to find another hotel late at night. Not recommended."
+    ]
+  },
+  "review_summary": "Based on 5 reviews.",
+  "positive_themes": {
+    "friendly_staff": 5,
+    "great_value": 1,
+    "clean_rooms": 2,
+    "good_location": 1
+  },
+  "negative_themes": {}
+}

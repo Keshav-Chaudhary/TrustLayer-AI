@@ -1,0 +1,46 @@
+{
+  "hotel_id": "ChIJ4xrnQuerDTkRFSt71MB3oMw",
+  "hotel_name": "Spot On Shri Ram Hotel",
+  "area": "Janti Kalan Rd",
+  "budget_category": "Mid-Range",
+  "rating": 3.6,
+  "trust_score": 0.4064243812386827,
+  "travel_purpose_tags": [
+    "Budget"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "moderate",
+    "review_count": 5,
+    "positive_snippet_count": 0,
+    "negative_snippet_count": 3,
+    "positive_theme_count": 3,
+    "negative_theme_count": 0
+  },
+  "aspect_scores": {
+    "cleanliness": 0.0002000842359848,
+    "service": 0.5,
+    "location": 0.0002000842359848,
+    "value_for_money": 0.5,
+    "staff_behavior": 0.0004472126408169
+  },
+  "recommendation_features": {
+    "popularity_score": 0.3501294176361872,
+    "rating_score": 3.6,
+    "sentiment_score": 0.0005323705263435
+  },
+  "review_evidence": {
+    "positive_snippets": [],
+    "negative_snippets": [
+      "Trust me. If I will get the chance the rate it in negative star then I will surely do it. This is not a hotel at all. 3 room house in the middle of the village. You will not get any food nearby. No security. Non sense staff is available there. I went there but returned without getting checkin.",
+      "Very poor staff, not supportive at all , plus behavior is not acceptable... Worst oyo hotel i have ever seen in my life.\nLocation is incorrect as shown in the google location, hence its difficult to find hotel at night.\nBed sheet are not hygiene .\ud83d\ude21\ud83d\ude21\ud83d\ude21",
+      "wrost supportive staff,no security in hotel premises, if google allow me to rate in minus 5hen my reating will \"-5\""
+    ]
+  },
+  "review_summary": "Based on 5 reviews.",
+  "positive_themes": {
+    "friendly_staff": 3,
+    "good_location": 2,
+    "good_food": 1
+  },
+  "negative_themes": {}
+}

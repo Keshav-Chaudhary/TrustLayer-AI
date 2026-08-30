@@ -1,0 +1,48 @@
+{
+  "hotel_id": "ChIJg4R_9YMFDTkRyOFMO5N_XAk",
+  "hotel_name": "Fabhotel 19 West",
+  "area": "New Delhi",
+  "budget_category": "Mid-Range",
+  "rating": 4.3,
+  "trust_score": 0.7873930666631596,
+  "travel_purpose_tags": [
+    "Business"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "moderate",
+    "review_count": 5,
+    "positive_snippet_count": 3,
+    "negative_snippet_count": 1,
+    "positive_theme_count": 1,
+    "negative_theme_count": 1
+  },
+  "aspect_scores": {
+    "cleanliness": 0.8625333905220032,
+    "service": 0.9998226761817932,
+    "location": 0.5,
+    "value_for_money": 0.5,
+    "staff_behavior": 0.8625333905220032
+  },
+  "recommendation_features": {
+    "popularity_score": 0.2740972756911478,
+    "rating_score": 4.3,
+    "sentiment_score": 0.953653077284495
+  },
+  "review_evidence": {
+    "positive_snippets": [
+      "Good",
+      "Best hotel",
+      "Great rooms with bathtub also"
+    ],
+    "negative_snippets": [
+      "It\u2019s a honest review. I had booked this hotel for 2 Feb 2024 via Fab hotels. Rooms were pathetic they was smelling very bad. They have serious Rat problems. I am hypertensive patient and couldn\u2019t sleep whole night as rats were in the Down ceiling of room and manager said they can do nothing about it. . Moreover my booking was including breakfast which was denied by hotel. Nether Fab hotel company nor hotel itself listen to my problem. To make things worse their washroom doesn\u2019t have window glass and it\u2019s open. How difficult could it be for a female guest if coming. So people it\u2019s my sincere concern to never stay in such pathetic hotel."
+    ]
+  },
+  "review_summary": "Based on 5 reviews.",
+  "positive_themes": {
+    "good_food": 1
+  },
+  "negative_themes": {
+    "dirty_rooms": 1
+  }
+}

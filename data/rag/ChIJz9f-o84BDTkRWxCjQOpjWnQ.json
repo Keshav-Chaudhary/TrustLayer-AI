@@ -1,0 +1,52 @@
+{
+  "hotel_id": "ChIJz9f-o84BDTkRWxCjQOpjWnQ",
+  "hotel_name": "Hotel16",
+  "area": "Adarsh Nagar",
+  "budget_category": "Mid-Range",
+  "rating": 4.0,
+  "trust_score": 0.6688384690574211,
+  "travel_purpose_tags": [
+    "Budget"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "moderate",
+    "review_count": 5,
+    "positive_snippet_count": 2,
+    "negative_snippet_count": 3,
+    "positive_theme_count": 4,
+    "negative_theme_count": 1
+  },
+  "aspect_scores": {
+    "cleanliness": 0.4470053183395066,
+    "service": 0.5000240969020524,
+    "location": 0.5,
+    "value_for_money": 0.5,
+    "staff_behavior": 0.6667138728468368
+  },
+  "recommendation_features": {
+    "popularity_score": 0.4664391054836876,
+    "rating_score": 4.0,
+    "sentiment_score": 0.5788304510439047
+  },
+  "review_evidence": {
+    "positive_snippets": [
+      "Excellent communication of hotel staff good rooms and good service for rooms and cleaning is also good.",
+      "The staff is really good and the food is great as well. Rooms are cozy. Bathrooms can have a good cleaning the fixers need a change. Overall the experience was great.\u263a\ufe0f\ud83e\udd1e\ud83c\udffc\ud83d\ude4f\ud83c\udffc"
+    ],
+    "negative_snippets": [
+      "Extremely rude staff! Have no patience to deal with a client and explain about facilities available..\nCannot take feedbacks.. booked a 3 star nearby..",
+      "Room was clean and everything was very hygienic. My experience was 5 out of 5.",
+      "Had horrible experience of stay at this hotel. Rooms were not clean. Very poor service."
+    ]
+  },
+  "review_summary": "Based on 5 reviews.",
+  "positive_themes": {
+    "clean_rooms": 4,
+    "friendly_staff": 3,
+    "good_food": 1,
+    "good_location": 1
+  },
+  "negative_themes": {
+    "rude_staff": 1
+  }
+}

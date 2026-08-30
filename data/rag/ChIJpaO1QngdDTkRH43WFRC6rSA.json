@@ -1,0 +1,53 @@
+{
+  "hotel_id": "ChIJpaO1QngdDTkRH43WFRC6rSA",
+  "hotel_name": "Hotel International Inn",
+  "area": "Mahipalpur",
+  "budget_category": "Budget",
+  "rating": 3.9,
+  "trust_score": 0.6521615046843146,
+  "travel_purpose_tags": [
+    "Budget"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "moderate",
+    "review_count": 5,
+    "positive_snippet_count": 2,
+    "negative_snippet_count": 3,
+    "positive_theme_count": 5,
+    "negative_theme_count": 1
+  },
+  "aspect_scores": {
+    "cleanliness": 0.9943214654922484,
+    "service": 0.320871821323332,
+    "location": 0.4810730958124622,
+    "value_for_money": 0.4892183468255097,
+    "staff_behavior": 0.3914543991617392
+  },
+  "recommendation_features": {
+    "popularity_score": 0.7315953565262725,
+    "rating_score": 3.9,
+    "sentiment_score": 0.3914543991617392
+  },
+  "review_evidence": {
+    "positive_snippets": [
+      "Decent Budget Stay but Needs Improvement\n\nMy husband and I stayed at this hotel for two nights during our visit to Delhi, India. On arrival, we were given a very small room with a full-size bed, and we didn\u2019t sleep well the first night. The next morning, I requested a room change, and the staff kindly moved us to a larger room with a king bed. Unfortunately, that room had quite a few tiny black flies, and the TV didn\u2019t work. Although I asked for it to be fixed, nothing was done except that they took the remote.\n\nThe bathroom was fine and had consistent hot water. The bed was clean, and the Wi-Fi worked well throughout our stay, which we really appreciated. Our room included breakfast \u2014 the buffet was okay, though limited for foreigners who prefer non-spicy options like my husband. There were boiled eggs and cereal available, which helped.\n\nWe also ate dinner at the hotel\u2019s restaurant; the food was tasty but quite spicy. Overall, it\u2019s a decent option if you\u2019re on a budget and just need a clean place to rest for the night. The staff were polite and helpful, but the hotel could definitely improve cleanliness and room maintenance.",
+      "Hotel International Inn, Mahipalpur is a decent mid-range option conveniently located near IGI Airport, making it suitable for short stays or early-morning flights. The staff is generally polite and cooperative, and airport shuttle service is available on request (though not always prompt). Rooms are compact and equipped with basic amenities like Wi-Fi, TV, and air-conditioning, but cleanliness and maintenance can be inconsistent. The in-house food service is average; fine for a quick meal. Though better dining options are available nearby. Overall, a value-for-money stay if you prioritize location and transit convenience over luxury or premium comfort."
+    ],
+    "negative_snippets": [
+      "This hotel is a FRAUD. There is a big scam going on. I booked an executive room much in advance and paid in full but when I checked in late at night (flight arrival) I was checked in the a dingy small room. I question the manager at reception and he threatened that this is the only option available and it\u2019s my choice if I want to stay here or leave. They provided other options around the hotel but those were even worse.\nThe bed was a tiny bed ad i couldn\u2019t even fit myself in unless I lie down diagonally on the bed.\nRoom wasn\u2019t cleaned, line was not refreshed and there were staff noises outside in the corridor throughout the night and I couldn\u2019t sleep at all despite being so tired from the journey.\nIt appears that they prioritise the demand and sell the rooms for higher prices and don\u2019t give a damn about online bookings. I checked out 7am in the morning the next day.\n\nWORSE place to stay, I would not recommend this place at all.\n\nNO ETHICS, NO CONCERNS. Just the audacity to mention that it\u2019s my fault that I paid in full before arrival and that I should have checked the room first before paying. How\u2019s that guarantee that they will even give a room in this case.\n\nBooked it through MMT and they are investigating the matter (that\u2019s what they told me).",
+      "Worst hotel experience ever.\nStayed here for 5 days and booked 2 suite rooms, but the service was absolutely pathetic. Every order\u2014food or even drinking water\u2014took more than 1 hour, every single time.\nWe called multiple times and informed the manager, but his only response was \u201cNo staff is available, what can I do?\u201d This clearly shows poor management and zero concern for guests.\nThird-class service at premium prices. No professionalism, no hospitality, and no accountability.\nDO NOT stay here. Please don\u2019t waste your money.",
+      "Dear all,\nThe overall condition of the room was highly unsatisfactory. I had booked a family room for \u20b97,000, but the facilities provided were not even worth \u20b92,000. The air conditioner was not functioning, and the cupboard was broken. When I requested tissue paper, the staff were reluctant to provide it. The room also lacked sufficient lighting; at the very least, a bedside lamp should have been available for the price charged. Additionally, an international multi-socket was not provided, which is quite disappointing for a hotel located near the airport. Overall, it was a very poor experience, and I would not recommend this hotel."
+    ]
+  },
+  "review_summary": "Based on 5 reviews.",
+  "positive_themes": {
+    "clean_rooms": 3,
+    "friendly_staff": 5,
+    "good_food": 3,
+    "good_location": 2,
+    "great_value": 2
+  },
+  "negative_themes": {
+    "noise": 1
+  }
+}

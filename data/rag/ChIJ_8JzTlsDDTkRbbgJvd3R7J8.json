@@ -1,0 +1,53 @@
+{
+  "hotel_id": "ChIJ_8JzTlsDDTkRbbgJvd3R7J8",
+  "hotel_name": "Golden Tulip Essential",
+  "area": "Hari Nagar",
+  "budget_category": "Mid-Range",
+  "rating": 3.8,
+  "trust_score": 0.7557587083162608,
+  "travel_purpose_tags": [
+    "Leisure",
+    "Business"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "rich",
+    "review_count": 5,
+    "positive_snippet_count": 3,
+    "negative_snippet_count": 2,
+    "positive_theme_count": 4,
+    "negative_theme_count": 1
+  },
+  "aspect_scores": {
+    "cleanliness": 0.7486277345567942,
+    "service": 0.8689875602722168,
+    "location": 0.7381564974784851,
+    "value_for_money": 0.0086311120539903,
+    "staff_behavior": 0.9982662200927734
+  },
+  "recommendation_features": {
+    "popularity_score": 0.7454043076873624,
+    "rating_score": 3.8,
+    "sentiment_score": 0.7486277345567942
+  },
+  "review_evidence": {
+    "positive_snippets": [
+      "We stayed at Hotel Golden Tulip on 4th and 5th February 2026 during our daughter\u2019s wedding celebrations, and it was a wonderful experience. Our Haldi and Sangeet functions were hosted at the hotel with pre-wedding gatherings of around 100 people and everything was organized beautifully.\nThe hospitality was excellent, the food was delicious, the rooms in which we stayed were clean and spacious , and the ambience added a special charm to the celebrations. The staff ensured that everything was managed smoothly, allowing us and our guests to enjoy the functions without any worries. Our outstation guests also stayed at the hotel, and the baraat that came from outside Delhi was accommodated there as well, which made it very convenient for everyone.\nA special thanks to the GM Mr. Shoumik  and Mr. Bhup Singh for their personal involvement and efforts in making our stay and events truly memorable. Their support and attention to detail made a big difference.\nSince the main wedding had more than 400 guests, it was held at a separate venue, but Golden Tulip was the perfect place to host our pre-wedding celebrations and stay.  We are grateful to the entire team for their wonderful hospitality and would highly recommend the hotel for such special occasions.",
+      "Stayed at Golden Tulip Essential and had a pleasant experience overall.\nThe rooms were good\u2014clean, comfortable, and well maintained. Food quality was also good and enjoyable.\nThe only downside was that room service was quite slow, which could be improved.\nOverall, a decent stay with good rooms and food.",
+      "I felt safe and comfortable during my stay here. The staff were very friendly and welcoming, which made the experience even better. The food at breakfast was delicious, and I especially want to thank the chef who kindly prepared for me every morning a traditional dish \u2014 a pancake similar to a waffle with potato filling. The only point that needs attention is cleanliness \u2014 during the first few days, I developed a strong allergy due to the noticeable amount of dust. However, once I reported the issue, the room was cleaned quickly and thoroughly. I believe this should be taken care of in advance to avoid such situations."
+    ],
+    "negative_snippets": [
+      "Unfortunately the person that clean my room went throughout my stuff and stole money. They had to open my bag, find a small purse in the bottom of my backpack and find the cash.\n\nThere was no safe box in my room and I made the mistake not to ask. Very worrisome.\n\nThe hotel is very average. Cleanness was not the best. Breakfast was ok. People in the restaurant was very nice. But the robbery incident definitely erases the few positive comments.\n\nI stayed 2 nights.",
+      "The first room had bugs on the bed, no fridge, mould on the pillow, and a very dirty floor. They happily changed us to another room which had no hand towels, and the toilet seat was loose. The floor was still dirty but not quite as bad. The location is just ok with a 5 minute walk to a couple of streets that had some shops to browse through but not any places to eat. The food at the hotel for dinner was ok but the service was slow and I had finished my main before my entree came out and then I finished that before my husbands dinner came out. The breakfast options were limited and the pastries were hard both days. The cooked to order omelette was good. There weren\u2019t enough glasses or forks in the place!"
+    ]
+  },
+  "review_summary": "Based on 5 reviews.",
+  "positive_themes": {
+    "clean_rooms": 4,
+    "friendly_staff": 2,
+    "good_location": 2,
+    "good_food": 5
+  },
+  "negative_themes": {
+    "dirty_rooms": 1
+  }
+}

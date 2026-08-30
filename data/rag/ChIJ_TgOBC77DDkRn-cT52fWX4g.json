@@ -1,0 +1,50 @@
+{
+  "hotel_id": "ChIJ_TgOBC77DDkRn-cT52fWX4g",
+  "hotel_name": "The Roseman Hotel & Suites",
+  "area": "Vaishali",
+  "budget_category": "Mid-Range",
+  "rating": 3.8,
+  "trust_score": 0.5768980033400205,
+  "travel_purpose_tags": [
+    "Budget"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "moderate",
+    "review_count": 5,
+    "positive_snippet_count": 1,
+    "negative_snippet_count": 3,
+    "positive_theme_count": 3,
+    "negative_theme_count": 1
+  },
+  "aspect_scores": {
+    "cleanliness": 0.0003362756688147,
+    "service": 0.2005403715389548,
+    "location": 0.5,
+    "value_for_money": 0.000829734019741,
+    "staff_behavior": 0.0004448369072633
+  },
+  "recommendation_features": {
+    "popularity_score": 0.7266101778304801,
+    "rating_score": 3.8,
+    "sentiment_score": 0.2005403715389548
+  },
+  "review_evidence": {
+    "positive_snippets": [
+      "Excellent services and hospitality!\nOur experience was truly top-notch. All the preparations were extremely well-organized and thoughtfully planned. Special thanks to Mr. Vikash, who did a great job coordinating everything. Mr. Rajeev was constantly present to ensure all , and Mr. Divyanshu were also a great help\u2014especially Mr. , who ensured that check-ins were handled effortlessly.\nThe entire Housekeeping Team and the Chefs did an amazing job throughout the wedding celebrations.\nThank youthe rosema hotel  Team, for making my daughter\u2019s wedding memorable with their exceptional service and support."
+    ],
+    "negative_snippets": [
+      "This property is advertised as a hotel, but in my experience it does not match the standards or the price they are charging. The photos shown online appear misleading and do not reflect the actual condition of the rooms and facilities.\nConsidering the current quality and service, the price of around \u20b94000 per room seems significantly overpriced. Based on the condition and overall experience, the property feels closer to accommodations that would typically be priced below \u20b91000.\nI would request the local authorities to ensure that such listings accurately represent their services and maintain transparency with customers.\nAs a corporate traveler, I would not recommend this place. I also noticed several 5-star reviews, but my experience was quite different, which makes it difficult to understand how those ratings were given.",
+      "Worst service ever!\nIf there was option go give zero rating, I would have given\nI have stayed here for 4 days.\nProperty maintenance: literally wall paint is wearing out, Washroom is very poorly maintained,\n4 days - No room cleaning despite requests.\nEven for complementary water we need to ask 4 times.\nSuch an awful experience it was here!\nA 500 Rs hotel is way more better than this.\nThey charge 2500 Rs for a room. Its a scam!",
+      "I booked a room at this hotel for well over \u20b92000, expecting a comfortable and pleasant stay, but the experience was completely disappointing. Upon arrival, the staff initially refused to acknowledge my booking under my name, and I was made to wait for almost an hour while I contacted customer care. After checking other reviews later, it seems this is a recurring issue faced by many guests.\nThe room condition was very poor and did not justify the price at all. The air conditioner was not working properly, basic amenities like a kettle and towels were missing, and the TV had been removed from its place. The staff showed little interest in resolving these issues and appeared indifferent to guest concerns.\nDuring booking, a welcome drink was mentioned, but it was never provided even after asking. Overall, this was one of the worst hotel experiences I have had. Most of the reviews on the hotel profile appear fake or misleading. The only positive aspect was that the food was decent. I would not recommend this place to others."
+    ]
+  },
+  "review_summary": "Based on 5 reviews.",
+  "positive_themes": {
+    "clean_rooms": 1,
+    "friendly_staff": 2,
+    "good_food": 1
+  },
+  "negative_themes": {
+    "rude_staff": 1
+  }
+}

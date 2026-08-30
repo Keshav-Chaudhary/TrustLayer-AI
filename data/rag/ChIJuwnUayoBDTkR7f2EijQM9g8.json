@@ -1,0 +1,50 @@
+{
+  "hotel_id": "ChIJuwnUayoBDTkR7f2EijQM9g8",
+  "hotel_name": "Oyo Hotel Prince Near Haiderpur Metro Station",
+  "area": "Shalimar Bagh",
+  "budget_category": "Budget",
+  "rating": 2.9,
+  "trust_score": 0.3744282035913757,
+  "travel_purpose_tags": [
+    "Budget"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "moderate",
+    "review_count": 5,
+    "positive_snippet_count": 1,
+    "negative_snippet_count": 3,
+    "positive_theme_count": 2,
+    "negative_theme_count": 2
+  },
+  "aspect_scores": {
+    "cleanliness": 0.0063154648814815,
+    "service": 0.3376940323893602,
+    "location": 0.012217566370964,
+    "value_for_money": 0.5,
+    "staff_behavior": 0.0008035589416976
+  },
+  "recommendation_features": {
+    "popularity_score": 0.3335891099690984,
+    "rating_score": 2.9,
+    "sentiment_score": 0.2029378430102952
+  },
+  "review_evidence": {
+    "positive_snippets": [
+      "Absolutely delighted with my stay at this hotel! From the warm welcome at the entrance to the impeccable service throughout, every moment felt like a luxurious escape. The attention to detail in room decor and amenities was exceptional, providing a cozy and elegant atmosphere."
+    ],
+    "negative_snippets": [
+      "This oyo not good we are check at 10pm after 1 hour light is gone now it's more then 5 hours but still light not come \" as pas ki light aa rahi h but only hamare 3rd floor pe nhi aa rahi\u00a0 or ham service boy se bolne gye he said\u00a0\u00a0\u00a0\u00a0 *nhi ayegi jo Krna h kr lo*.\u00a0 This not accepted oyo \ud83d\ude21\ud83d\ude21\ud83d\ude21\ud83d\ude21\ud83d\ude21\ud83d\ude21\ud83d\ude21\ud83d\ude21\n\nBilkul acha nhi h ye oyo please mat ana try kro khi or jao",
+      "We stayed for just one night (luckily), as we needed a bed for a night before we left for the airport.\nThe room was really dirty and even the bed sheet was stained. Also, there was a very uncomfortable smell in the room. I'm not sure if it was mold or the AC.\nI guess at this rate you can't expect much more.\nAt least the service was good. We got a private phone number for the case of any issues and could reach the person at 5am in the morning, when we had to go to the airport.",
+      "Very very bad\nBehavior is bad\nOnline show single room with two double bed but there is no spacious and only single bed is provided for 3 adults water problems\nNo AC . No Tv availability"
+    ]
+  },
+  "review_summary": "Based on 5 reviews.",
+  "positive_themes": {
+    "clean_rooms": 1,
+    "good_food": 1
+  },
+  "negative_themes": {
+    "dirty_rooms": 2,
+    "rude_staff": 1
+  }
+}

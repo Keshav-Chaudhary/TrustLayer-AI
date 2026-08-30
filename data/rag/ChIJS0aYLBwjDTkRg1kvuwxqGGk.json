@@ -1,0 +1,54 @@
+{
+  "hotel_id": "ChIJS0aYLBwjDTkRg1kvuwxqGGk",
+  "hotel_name": "Clay Inn Hotel, Gurugram",
+  "area": "Sector 49",
+  "budget_category": "Budget",
+  "rating": 4.4,
+  "trust_score": 0.831964380704186,
+  "travel_purpose_tags": [
+    "Leisure",
+    "Business"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "rich",
+    "review_count": 5,
+    "positive_snippet_count": 3,
+    "negative_snippet_count": 2,
+    "positive_theme_count": 4,
+    "negative_theme_count": 2
+  },
+  "aspect_scores": {
+    "cleanliness": 0.0078319227322936,
+    "service": 0.8010080678388476,
+    "location": 0.9976194500923156,
+    "value_for_money": 0.5,
+    "staff_behavior": 0.8010080678388476
+  },
+  "recommendation_features": {
+    "popularity_score": 0.6501197060019712,
+    "rating_score": 4.4,
+    "sentiment_score": 0.8010080678388476
+  },
+  "review_evidence": {
+    "positive_snippets": [
+      "We recently organized our daughter\u2019s first birthday party at Clay Inn, and the overall experience was excellent.\n\nRight from the beginning, the Sales Head Mr. Mohit was extremely polite, professional, and prompt in addressing all our requests, which made the planning process smooth and stress-free.\n\nThe food was delicious and received great feedback from all our guests\u2014special thanks to Chef Moin for the wonderful spread.\n\nThe music was handled by DJ Neeraj, who did a fantastic job. He played all our requested songs and had a great collection that kept the ambiance lively throughout the event.\n\nOverall, we had a very pleasant experience at Clay Inn and would definitely recommend it for family celebrations and events.",
+      "I had a wonderful stay at the hotel, and a big reason for that was Devendra. He was extremely polite, professional, and always ready to help with a warm smile. From check-in to check-out, Devendra went out of his way to make sure everything was comfortable and smooth. His attention to detail and genuine care for guests truly stood out and made the stay feel special. Service like this really makes a difference. Highly appreciate Devendra\u2019s efforts and would definitely recommend this hotel because of staff members like him.",
+      "I would like to say a few word about clay inn hotel, it's very good hotel, service & food is superb .\nI personally feel and sharing this feedback.\nFrist of all\nLet's talk about a few factor ,\n1.Check in is smooth with warm welcome and friendly atmosphere\n2. Room is very neat & cleaned with great ambiance.\n3. Room service efficiency is great ,I ordered a batti ka paneer tikka it was so delicious & mouth watering.\n4. Restaurant, I had breakfast, it has good spread & nice presentation.\n5. We used a banquet for 02 days for our residential event. It was very well managed & all staff is very co-operative.\nVery professional.\nI purely recommended this place for many more\nAnd will be sharing the good word of mouth with everyone out there."
+    ],
+    "negative_snippets": [
+      "I recently hosted a family function at Clay Inn, Sector 49, and while the event was successful overall, there are a few things future hosts should keep in mind.\n\nThe Highlights: Space and Setup\n\nIdeal for Mid-Sized Parties: We hosted around 200 guests, and the hall felt comfortable and well-organized. It\u2019s a great fit for that guest count without feeling crowded.\n\nPrime Corner Plot: Being located on a corner plot gives the venue a more open and premium feel. The layout is practical for hosting and flow.\n\nAmple Parking: One of the biggest wins here is the parking space. Unlike many other venues in Gurgaon, they have a good dedicated area for vehicles, which made it very easy for our guests to arrive and park without stress.\n\nNice Facilities: The overall ambiance and the maintenance of the banquet hall were impressive. It\u2019s a solid choice for family gatherings and celebrations.\n\nThe Challenges: Service and Accessibility\n\nSlow Service & Understaffed: The main area where they need to improve is their service speed. We found the staff to be a bit thin on the ground, and service was slow at times. I often had to \"chase\" the staff to get basic tasks done or to ensure things were moving on schedule.\n\nWalking Distance: The venue is located within a residential colony (Uppal Southend). If your guests are coming by public transport and plan to walk from the main road, be aware that it\u2019s about a 500\u2013700 meter walk. This can be a bit difficult for elderly guests or those dressed in heavy formal wear.\n\nFinal Verdict\n\nRating: 3.5/5\n\nClay Inn is a fantastic venue in terms of infrastructure and parking, making it a stress-free choice for the \"hosting\" side of things. However, you will need to be a very proactive host and keep a close eye on the service team to ensure your guests are attended to on time.",
+      "If there was an option of no star or negative star, I would give that.\n\nLooks decent from outside but rooms are absolutely horrible.\n\nIt was unfortunate that I had to stay her. Someone booked it based on the review as it was close to the meeting venue.\n\nRoom is spacious.\n\nNight was very cold and AC was not working. It was very cold inside the room.\n\nThe bed cover and the pillow case were not changed from the previous guest. Luckily I had carried extra bedspreads which came in handy.\n\nThe bathroom was smelling of drainage! Yuck! And the seat was dirty.\n\nHorrible place!\n\nBreakfast spread was ok but taste was sub par.\n\nThe reason for 4 star for the service is becos the lady at the reception was very helpful.\n\nThink again before booking this place."
+    ]
+  },
+  "review_summary": "Based on 5 reviews.",
+  "positive_themes": {
+    "friendly_staff": 5,
+    "good_food": 3,
+    "clean_rooms": 1,
+    "good_location": 1
+  },
+  "negative_themes": {
+    "parking_issues": 1,
+    "dirty_rooms": 1
+  }
+}

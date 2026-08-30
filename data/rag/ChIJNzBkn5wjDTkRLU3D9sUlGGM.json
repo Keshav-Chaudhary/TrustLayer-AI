@@ -1,0 +1,40 @@
+{
+  "hotel_id": "ChIJNzBkn5wjDTkRLU3D9sUlGGM",
+  "hotel_name": "Hotel Bansal Inn",
+  "area": "Sector 57",
+  "budget_category": "Budget",
+  "rating": 3.0,
+  "trust_score": 0.5901687799355968,
+  "travel_purpose_tags": [
+    "Budget"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "sparse",
+    "review_count": 1,
+    "positive_snippet_count": 1,
+    "negative_snippet_count": 0,
+    "positive_theme_count": 0,
+    "negative_theme_count": 0
+  },
+  "aspect_scores": {
+    "cleanliness": 0.5,
+    "service": 0.5,
+    "location": 0.5,
+    "value_for_money": 0.9916963577270508,
+    "staff_behavior": 0.5
+  },
+  "recommendation_features": {
+    "popularity_score": 0.1022696131573402,
+    "rating_score": 3.0,
+    "sentiment_score": 0.9916963577270508
+  },
+  "review_evidence": {
+    "positive_snippets": [
+      "Best Room with Budget pricing"
+    ],
+    "negative_snippets": []
+  },
+  "review_summary": "Based on 1 reviews.",
+  "positive_themes": {},
+  "negative_themes": {}
+}

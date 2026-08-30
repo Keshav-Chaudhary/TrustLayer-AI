@@ -1,0 +1,52 @@
+{
+  "hotel_id": "ChIJO4HVEPUBDTkRn0LyWHtKEs8",
+  "hotel_name": "Hotel Blue Diamond",
+  "area": "Adarsh Nagar",
+  "budget_category": "Mid-Range",
+  "rating": 3.3,
+  "trust_score": 0.5194581775885634,
+  "travel_purpose_tags": [
+    "Leisure",
+    "Business"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "moderate",
+    "review_count": 5,
+    "positive_snippet_count": 1,
+    "negative_snippet_count": 3,
+    "positive_theme_count": 4,
+    "negative_theme_count": 1
+  },
+  "aspect_scores": {
+    "cleanliness": 0.0001919419300974,
+    "service": 0.9989829659461976,
+    "location": 0.999858260154724,
+    "value_for_money": 0.0335985794663429,
+    "staff_behavior": 0.999858260154724
+  },
+  "recommendation_features": {
+    "popularity_score": 0.4600165719380828,
+    "rating_score": 3.3,
+    "sentiment_score": 0.4065647378854919
+  },
+  "review_evidence": {
+    "positive_snippets": [
+      "Hotel blue diamond Delhi, very nice staff nice location ,good behaviour of the staff, food is available good quality and reasonable rates"
+    ],
+    "negative_snippets": [
+      "I had a very disappointing experience during my stay last night. Firstly, there was garbage kept inside the drawer, which was extremely unhygienic. The bathroom was also too dirty to use comfortably \u2014 it clearly hadn\u2019t been cleaned properly.\n\nAdditionally, there\u2019s a large garbage storage area right in front of the hotel which gives off a terrible smell and completely ruins the environment. This was not mentioned anywhere in the listing. Please do not trust the photos provided on the site \u2014 they are misleading and do not reflect the actual condition of the place.",
+      "We booked a fresh-up room for 6 hours at Hotel Blue Diamond, Delhi, through MakeMyTrip for the morning slot. However, upon arrival, the receptionist denied our check-in despite showing our confirmed booking details and demanded an extra \u20b91000. We refused to pay the extra charge and reached out to MakeMyTrip support. Their support team was outstanding\u2014they promptly assisted us and connected with the hotel management. Finally, the management instructed the receptionist to allow our check-in. Thanks to MakeMyTrip's excellent support, we were able to check in without any extra hassle.",
+      "A good option in low price.. in March 2025 I have paid 800 for a room. Area is not too good generally Couples comes for Stay.."
+    ]
+  },
+  "review_summary": "Based on 5 reviews.",
+  "positive_themes": {
+    "friendly_staff": 1,
+    "good_location": 1,
+    "good_food": 1,
+    "clean_rooms": 2
+  },
+  "negative_themes": {
+    "dirty_rooms": 2
+  }
+}

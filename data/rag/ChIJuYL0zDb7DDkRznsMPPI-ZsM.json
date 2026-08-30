@@ -1,0 +1,47 @@
+{
+  "hotel_id": "ChIJuYL0zDb7DDkRznsMPPI-ZsM",
+  "hotel_name": "Hotel O Mayura Residency",
+  "area": "Shahdara",
+  "budget_category": "Mid-Range",
+  "rating": 4.0,
+  "trust_score": 0.6017382708963779,
+  "travel_purpose_tags": [
+    "Budget"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "sparse",
+    "review_count": 5,
+    "positive_snippet_count": 3,
+    "negative_snippet_count": 2,
+    "positive_theme_count": 1,
+    "negative_theme_count": 0
+  },
+  "aspect_scores": {
+    "cleanliness": 0.5,
+    "service": 0.5,
+    "location": 0.000324052554788,
+    "value_for_money": 0.5,
+    "staff_behavior": 0.5
+  },
+  "recommendation_features": {
+    "popularity_score": 0.2690641681418895,
+    "rating_score": 4.0,
+    "sentiment_score": 0.500096461168141
+  },
+  "review_evidence": {
+    "positive_snippets": [
+      "Good for everywhere everything",
+      "Good\ud83d\udc4d",
+      "Excellent"
+    ],
+    "negative_snippets": [
+      "This hotel is Fake..I  pay first installment. After I reached the location there was no oyo hotel.",
+      "Fake"
+    ]
+  },
+  "review_summary": "Based on 5 reviews.",
+  "positive_themes": {
+    "good_location": 1
+  },
+  "negative_themes": {}
+}

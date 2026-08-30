@@ -1,0 +1,47 @@
+{
+  "hotel_id": "ChIJ845-Av8hDTkR92215ULZUa0",
+  "hotel_name": "Doubletree By Hilton Hotel Gurgaon - New Delhi Ncr",
+  "area": "Gurugram",
+  "budget_category": "Mid-Range",
+  "rating": 4.5,
+  "trust_score": 0.9598988724022748,
+  "travel_purpose_tags": [
+    "Leisure",
+    "Business"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "moderate",
+    "review_count": 5,
+    "positive_snippet_count": 3,
+    "negative_snippet_count": 0,
+    "positive_theme_count": 3,
+    "negative_theme_count": 0
+  },
+  "aspect_scores": {
+    "cleanliness": 0.5,
+    "service": 0.9998165369033812,
+    "location": 0.999746859073639,
+    "value_for_money": 0.5,
+    "staff_behavior": 0.999794046084086
+  },
+  "recommendation_features": {
+    "popularity_score": 0.8908992908046224,
+    "rating_score": 4.5,
+    "sentiment_score": 0.9998165369033812
+  },
+  "review_evidence": {
+    "positive_snippets": [
+      "I recently visited DoubleTree by Hilton and initially had some feedback regarding the taste of the food. What truly impressed me was not just the hotel itself, but how the management handled my feedback. The team took my concerns very seriously and invited us back for a second visit to make things right\u2014and they absolutely did!\nThe second experience was flawless. A special shout-out to Shyamal for the attentive service, Chef Gopal for ensuring the food was delicious this time around and the Vishwa for personally ensuring we were taken care of. It is rare to see a team care so much about guest satisfaction. Thank you for turning a concern into a wonderful memory. Highly recommended!",
+      "stayed at this hotel for about six weeks during Nov/Dec 2025, and it truly felt like home. The stay was extremely comfortable, and what made it most memorable was the warmth and friendliness of the staff.\n\nRestaurant - Asia Alive\nRuthy & Misao - Pure gems. I cannot praise them enough. Their care, attention, and genuine interaction with every guest is simply exceptional. They go above and beyond to make dining not just a meal, but an experience. It\u2019s rare to see such consistency and dedication, and they made a huge difference in my stay.\n\nLounge:\nStaff at the lounge were very friendly and professional. i should mention Pia & Kushi for their friendly and professional service.\n\nChef:\nSubhasish - My favorite Chef! Despite being busy in the kitchen, he always found time to interact with guests. His friendliness and passion for cooking shone through in every dish. Chef Gopal was so kind and friendly too!\n\nOther staff:\nAll other staff were all friendly and welcoming as well.\n\nI also fondly remember Ria, Imran, Rohit, and Sunidhi from the restaurant. Each of them was welcoming, helpful, and contributed to the warm atmosphere that made my stay so enjoyable.",
+      "Me and my wife stayed at this hotel for almost two weeks. Staff of this facility is what made our stay memorable. To start with, check in process from Preeti was smooth and she was very attentive to our need getting them fulfilled immediately.  Harsh, and other front desk staff were very courteous and helpful too during our stay.\n\nOur room was serviced by Peace who made sure that our room was nicely done, displaying beautiful art using flowers and towels were icing on the cake.\n\nMukesh ji, bell boy was amazing and helped us in many of our needs. He needs special mention.\n\nRestaurant staff were very attentive. As we were missing home cooked food, Chef Aryan made my favorite breakfast.  It truly made our day. Chef Vishwa was also always there making sure we had the best during breakfast or evening lounge food. Restaurant also has amazing people like Rohit, Rahul, Joshim, Ria, Ruthy, Omica, and many more who took care of our needs. Even Pinky at coffee bar was very helpful. At the end of the day, most days, Khushi was there to greet us with a lovely smile and get us relaxed in the bar cum lounge.\n\nOf course, Ms Pia Shethy was omni present at the hotel overseeing all guests need. If one needs anything , she would magically appear and help us.\n\nMy wife told me that in our future trip to India, we will stay at this hotel instead of aerocity.  Our office is in cybercity and this hotel location made it easy to commute.\n\nBest wishes to the the hotel management and please keep up the service and the great team that you have assembled."
+    ],
+    "negative_snippets": []
+  },
+  "review_summary": "Based on 5 reviews.",
+  "positive_themes": {
+    "good_food": 3,
+    "friendly_staff": 3,
+    "good_location": 2
+  },
+  "negative_themes": {}
+}

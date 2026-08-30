@@ -1,0 +1,49 @@
+{
+  "hotel_id": "ChIJYZ4wOkEcDTkREEowD3Q59Fc",
+  "hotel_name": "Hotel Mayank Residency",
+  "area": "Mahipalpur",
+  "budget_category": "Mid-Range",
+  "rating": 3.3,
+  "trust_score": 0.4277302600602989,
+  "travel_purpose_tags": [
+    "Budget"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "moderate",
+    "review_count": 5,
+    "positive_snippet_count": 0,
+    "negative_snippet_count": 3,
+    "positive_theme_count": 4,
+    "negative_theme_count": 1
+  },
+  "aspect_scores": {
+    "cleanliness": 0.0012180010186663,
+    "service": 0.0013283248408697,
+    "location": 0.5,
+    "value_for_money": 0.0018568909727036,
+    "staff_behavior": 0.0009061261080205
+  },
+  "recommendation_features": {
+    "popularity_score": 0.636884709344455,
+    "rating_score": 3.3,
+    "sentiment_score": 0.0011428210476878
+  },
+  "review_evidence": {
+    "positive_snippets": [],
+    "negative_snippets": [
+      "Scam! Run away. Photos are deceptive. The toilet was so tidy, jet pipe not working,  washbasin stinky, bedroom not cleaned. Bedsheets and pillow cover not changed. Please avoid it at any cost. Morever I had pre-booked from makemytrip but still I had to pay 700 extra at the hotel.",
+      "Rooms and bathrooms were extremely dirty. There were cockroaches everywhere, even on the bed. The staff behaviour was okay, but the property has not been maintained for a long time. The photos online looked nice, but when we arrived, we were shocked to see the actual condition. I have also added videos and pictures as proof.\nNot recommended at all, especially if you are travelling with kids. This place is not suitable for staying.",
+      "It was very bad. There was a lot of hair on the bed.. And  the blanket wasn't good either. The TV wasn't working. And the worst thing was their service. If you call and order food or anything else, they take 1-2 hours.  sometimes they don't even come, no matter how much you call. Not good experience"
+    ]
+  },
+  "review_summary": "Based on 5 reviews.",
+  "positive_themes": {
+    "clean_rooms": 3,
+    "friendly_staff": 1,
+    "good_food": 1,
+    "good_location": 1
+  },
+  "negative_themes": {
+    "dirty_rooms": 1
+  }
+}

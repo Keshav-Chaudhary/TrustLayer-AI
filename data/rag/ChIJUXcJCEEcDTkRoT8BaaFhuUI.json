@@ -1,0 +1,49 @@
+{
+  "hotel_id": "ChIJUXcJCEEcDTkRoT8BaaFhuUI",
+  "hotel_name": "Hotel Stanley - Near Delhi Airport",
+  "area": "Mahipalpur",
+  "budget_category": "Mid-Range",
+  "rating": 4.1,
+  "trust_score": 0.7956339346185233,
+  "travel_purpose_tags": [
+    "Budget"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "moderate",
+    "review_count": 5,
+    "positive_snippet_count": 3,
+    "negative_snippet_count": 1,
+    "positive_theme_count": 4,
+    "negative_theme_count": 0
+  },
+  "aspect_scores": {
+    "cleanliness": 0.9998183846473694,
+    "service": 0.5000784511357778,
+    "location": 0.6649934526940342,
+    "value_for_money": 0.5,
+    "staff_behavior": 0.9985807985067368
+  },
+  "recommendation_features": {
+    "popularity_score": 0.6699382113285287,
+    "rating_score": 4.1,
+    "sentiment_score": 0.798922436038265
+  },
+  "review_evidence": {
+    "positive_snippets": [
+      "(Hotel Stanley)...I had a wonderful stay at Hotel!! The staff were exceptionally friendly and always ready to help with a smile. Their warm hospitality made the experience even more enjoyable. The service was top-notch \u2014 professional, attentive, and truly above expectations. A perfect place to relax and unwind. Highly recommended for anyone looking for a peaceful getaway with outstanding service!",
+      "I stay in the hotel and my experience was too good and staff was very friend  and sweetly. Every thing food and other too good location was main road and view",
+      "It's really nice holiday in the hotel stanley...all staff are to much amazing and all types of things are available is nearby shop, and looking view' nice and room provided neat and clean and big room"
+    ],
+    "negative_snippets": [
+      "I had to wait for more than one hour for the airport pickup arranged by the hotel. There was no partition or screen separating the shower area from the toilet, resulting in the toilet seat becoming wet each time the shower is used. Additionally, the lock latch on the room door was not functioning from the inside."
+    ]
+  },
+  "review_summary": "Based on 5 reviews.",
+  "positive_themes": {
+    "friendly_staff": 4,
+    "good_location": 2,
+    "good_food": 1,
+    "clean_rooms": 1
+  },
+  "negative_themes": {}
+}

@@ -1,0 +1,52 @@
+{
+  "hotel_id": "ChIJj3OjmdKtDTkRvWh_wE1co6E",
+  "hotel_name": "Oyo 23668 Hotel The Hridhaan Regency",
+  "area": "Delhi Rd",
+  "budget_category": "Budget",
+  "rating": 3.6,
+  "trust_score": 0.5437119241763667,
+  "travel_purpose_tags": [
+    "Leisure"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "rich",
+    "review_count": 5,
+    "positive_snippet_count": 3,
+    "negative_snippet_count": 2,
+    "positive_theme_count": 4,
+    "negative_theme_count": 1
+  },
+  "aspect_scores": {
+    "cleanliness": 0.5003281368408352,
+    "service": 0.0056669595651328,
+    "location": 0.9887717366218568,
+    "value_for_money": 0.5302172973752022,
+    "staff_behavior": 0.9887717366218568
+  },
+  "recommendation_features": {
+    "popularity_score": 0.376366888848488,
+    "rating_score": 3.6,
+    "sentiment_score": 0.4133515655994415
+  },
+  "review_evidence": {
+    "positive_snippets": [
+      "Nice location nearby the highway. Staff behaviour was good., The is too narrow, space not enough for three. Foods, cinema, lifestyles everything available at one place. Have more money visit these places , it will help you to spend all of your money.",
+      "Services was good and owner and staff behaviour is very good.Neat and clean room and very large room. Hotel Location was nice. Overall experience was fantastic. I wish that when I'll come to Sonipat I'll stay again in this hotel.",
+      "Its a budget hotel from oyo available in 700 but check in denies took room direct for 1200 ... oven fridge mini bar available in room ... highway touch ... okay for 1 day stay ...."
+    ],
+    "negative_snippets": [
+      "i had stayed for the hotel for last 3 days.by seeing buckets  in bathroom v will get a clear idea regarding their hygiene.i will never suggest anyone to b stay there .mini fridge and tv was not working .v had complainted to the hotel boy and he changed to room no 618 ,there a big hole was found in toilet door in dat room also mini fridge and tv was not working",
+      "Overpriced, and services were very bad, room service available but no telephone in rooms to call from, also the place smelled funny as if raided by addicts recently."
+    ]
+  },
+  "review_summary": "Based on 5 reviews.",
+  "positive_themes": {
+    "friendly_staff": 2,
+    "good_location": 2,
+    "good_food": 1,
+    "clean_rooms": 1
+  },
+  "negative_themes": {
+    "dirty_rooms": 1
+  }
+}

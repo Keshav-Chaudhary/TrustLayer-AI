@@ -1,0 +1,55 @@
+{
+  "hotel_id": "ChIJQzynNDjcDDkRwyLgZhp-JWY",
+  "hotel_name": "Cs Boutique Hotel",
+  "area": "New Industrial Township",
+  "budget_category": "Mid-Range",
+  "rating": 3.9,
+  "trust_score": 0.7877571374105,
+  "travel_purpose_tags": [
+    "Leisure",
+    "Business",
+    "Family"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "moderate",
+    "review_count": 5,
+    "positive_snippet_count": 3,
+    "negative_snippet_count": 1,
+    "positive_theme_count": 5,
+    "negative_theme_count": 2
+  },
+  "aspect_scores": {
+    "cleanliness": 0.9998706579208374,
+    "service": 0.7512718525249511,
+    "location": 0.9998656511306764,
+    "value_for_money": 0.9998706579208374,
+    "staff_behavior": 0.7512734916526824
+  },
+  "recommendation_features": {
+    "popularity_score": 0.7548022105017324,
+    "rating_score": 3.9,
+    "sentiment_score": 0.8009909221902489
+  },
+  "review_evidence": {
+    "positive_snippets": [
+      "Today\u2019s CME program was organized very well at the hotel. The ambience was professional, comfortable, and perfectly suitable for an academic discussion. The seating arrangement was properly managed, and the audio system was clear, which helped the presentation run smoothly.\nThe food quality was good, and the service staff was cooperative and attentive. Overall, the hospitality and management were satisfactory. The doctors actively participated, and the session was productive and interactive.\nOverall, the venue selection was appropriate and can be recommended for future CME programs as well.( For Mr. Manish 10/10)",
+      "The hotel surpassed all my expectations! The location was perfect for sightseeing, and the staff made us feel at home. Our room was clean, spacious, and had all the amenities we needed, including fast Wi-Fi and a very comfortable bed. I highly recommend it!\"\n\"Everything about the hotel was exceptional. It was clean, stylish, and roomy with excellent service. Food was good and great value for money, and the overall service exceeded expectations. I was very pleased with my stay and hope to be back for a longer visit in the future",
+      "Overall good we enjoy food. Even service is much better than any other near by."
+    ],
+    "negative_snippets": [
+      "Hotel and food are nice but the receptionist lady handling check in is very rude and unwelcoming. Her name was Sonam I think. She was loudly arguing with people checking in before me. When my turn came continued her rude behaviour and when I pointed out she said wait for 30 mins for check in without any reason. Stay here only if you want to spoil your mood arguing with her. Not recommended only because of receptionist."
+    ]
+  },
+  "review_summary": "Based on 5 reviews.",
+  "positive_themes": {
+    "friendly_staff": 4,
+    "good_food": 5,
+    "clean_rooms": 1,
+    "good_location": 2,
+    "great_value": 1
+  },
+  "negative_themes": {
+    "rude_staff": 1,
+    "noise": 1
+  }
+}

@@ -1,0 +1,52 @@
+{
+  "hotel_id": "ChIJm6x4_EL9DDkR-nogAnARs0Y",
+  "hotel_name": "Fabstays-Hotel Heritage Inn",
+  "area": "Paharganj",
+  "budget_category": "Budget",
+  "rating": 3.2,
+  "trust_score": 0.5125095164834681,
+  "travel_purpose_tags": [
+    "Leisure"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "moderate",
+    "review_count": 5,
+    "positive_snippet_count": 2,
+    "negative_snippet_count": 3,
+    "positive_theme_count": 4,
+    "negative_theme_count": 1
+  },
+  "aspect_scores": {
+    "cleanliness": 0.6666343030422771,
+    "service": 0.001150454612798,
+    "location": 0.9996349811553956,
+    "value_for_money": 0.4999291194399121,
+    "staff_behavior": 0.9996349811553956
+  },
+  "recommendation_features": {
+    "popularity_score": 0.4990816882954259,
+    "rating_score": 3.2,
+    "sentiment_score": 0.4004082738654688
+  },
+  "review_evidence": {
+    "positive_snippets": [
+      "I stayed at Hotel heritage for my family of 5 for 3 days of our visit to Delhi. And it was a very pleasant experience, the hospitality was really nice. The room was clean, and the food was also really good!! I would definitely recommend Hotel Heritage.\nYou will definitely be happy and satisfied.",
+      "Great experience .very much neat and clean rooms.helpful staff.amzing location and lots of good food options around.price is very reasonable according the rooms."
+    ],
+    "negative_snippets": [
+      "Very disappointing stay. The room was not clean and felt unhygienic. We were given a used mattress right from the start, and even after raising the issue, it was never changed. The bathroom had leakages, basic amenities like soap and towels were missing, the AC wasn\u2019t working, and the window fittings didn\u2019t feel safe. Overall, poor service and a frustrating experience. Would not recommend.",
+      "Very often in india when you book an AC room you are not in control of the Air Conditioning, only hotel management decides when to switch it on and off. This was same here, it get back on only after multiple complaints. NEVER BOOK THIS PLACE ONLINE AS IT IS AFFILIATE TO PREVIOUS OWNER. And when you get there you need to pay again to get your already booked and paid room. I'm still waiting for my refund from BOOKSTAYS which is unprofessional as it is still advertised although being a SCAM. If you really want to stay there better go directly and book.",
+      "The worst place I have ever stayed. They switch off the AC at 6 am which ruins your sleep. We had to request thm at 9.30 to switch it on. They charged us Rs. 30 for a bottle of water. The room was stinking and there was pan gutka spit on the walls. The linen was not fresh. It was a total waste of money. Never ever stay in this hotel."
+    ]
+  },
+  "review_summary": "Based on 5 reviews.",
+  "positive_themes": {
+    "clean_rooms": 3,
+    "good_food": 2,
+    "friendly_staff": 1,
+    "good_location": 1
+  },
+  "negative_themes": {
+    "rude_staff": 1
+  }
+}

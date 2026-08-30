@@ -1,0 +1,50 @@
+{
+  "hotel_id": "ChIJL7sYP6T9DDkRKJECSyhpJpU",
+  "hotel_name": "Shree Delhi Gujarati Samaj",
+  "area": "Civil Lines",
+  "budget_category": "Mid-Range",
+  "rating": 4.1,
+  "trust_score": 0.6190641617202677,
+  "travel_purpose_tags": [
+    "Leisure"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "moderate",
+    "review_count": 5,
+    "positive_snippet_count": 1,
+    "negative_snippet_count": 3,
+    "positive_theme_count": 3,
+    "negative_theme_count": 1
+  },
+  "aspect_scores": {
+    "cleanliness": 0.5,
+    "service": 0.0005044157733209,
+    "location": 0.9963380098342896,
+    "value_for_money": 0.498456322151469,
+    "staff_behavior": 0.0012309993908274
+  },
+  "recommendation_features": {
+    "popularity_score": 0.7351924559291825,
+    "rating_score": 4.1,
+    "sentiment_score": 0.2019834669539704
+  },
+  "review_evidence": {
+    "positive_snippets": [
+      "Well was there to experience a authentic gujrati food specially thali...but landed up eating a punjabi thali that was in the open area my mistake the original canteen and thali actually gujrati is in the coveted room and not at the open space so be careful in selecting the right eatery there.."
+    ],
+    "negative_snippets": [
+      "I visited Shree Delhi Gujarati Samaj Restaurant recently, hoping for authentic Gujarati flavors.\n\nHonestly, don\u2019t expect the real Gujarati taste here.\n\nThe thali looked decent, but the taste and quality were disappointing.\n\nFlavors were bland, and nothing stood out as memorable.\n\nThe presentation was ordinary, not worth the hype.\n\nFor someone craving authentic Gujarati cuisine, I would recommend avoiding this place.\n\nOverall, a completely underwhelming experience, especially for the price.",
+      "For solo traveler,  they only give a bed in dormitory, no separate room. Very cost effective.\nLocation is good. 700m from civil lines metro station. Kashimiri gate ISBT is also near.\nGood Gujarati food is served in canteen.",
+      "I\u2019m a Gujarati married to a Maharashtrian, and we visited this Gujarati Samaj for just a day to keep our luggage while we stepped out. Unfortunately, the experience was extremely disappointing.\nDespite explaining our situation multiple times, we were denied entry simply because my husband isn\u2019t Gujarati. They even questioned why my Aadhaar wasn\u2019t updated with marriage details and insisted on speaking to my parents. The lady at the reception was rude and dismissive, even saying \u201cyou don\u2019t look married\u201d \u2014 which was completely uncalled for.\nIf a community space is meant for support, why create barriers that exclude people? What\u2019s the point of having a Gujarati Samaj if you can\u2019t even allow people to sit inside in a moment of need?\nDefinitely not recommended."
+    ]
+  },
+  "review_summary": "Based on 5 reviews.",
+  "positive_themes": {
+    "good_food": 2,
+    "great_value": 1,
+    "good_location": 1
+  },
+  "negative_themes": {
+    "rude_staff": 2
+  }
+}

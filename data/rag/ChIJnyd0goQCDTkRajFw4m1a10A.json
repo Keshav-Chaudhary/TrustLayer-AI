@@ -1,0 +1,53 @@
+{
+  "hotel_id": "ChIJnyd0goQCDTkRajFw4m1a10A",
+  "hotel_name": "Hotel Sehej Inn",
+  "area": "New Delhi",
+  "budget_category": "Budget",
+  "rating": 3.2,
+  "trust_score": 0.5242264716594495,
+  "travel_purpose_tags": [
+    "Leisure"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "moderate",
+    "review_count": 5,
+    "positive_snippet_count": 2,
+    "negative_snippet_count": 3,
+    "positive_theme_count": 4,
+    "negative_theme_count": 2
+  },
+  "aspect_scores": {
+    "cleanliness": 0.500318944308674,
+    "service": 0.500318944308674,
+    "location": 0.9997677206993104,
+    "value_for_money": 0.6657958029730556,
+    "staff_behavior": 0.5000228840508498
+  },
+  "recommendation_features": {
+    "popularity_score": 0.5551484894132765,
+    "rating_score": 3.2,
+    "sentiment_score": 0.3997557549155317
+  },
+  "review_evidence": {
+    "positive_snippets": [
+      "I had a very comfortable and pleasant stay at Hotel Sehej Inn, Karol Bagh. The rooms were clean, well-maintained, and equipped with all essential amenities. The staff was extremely courteous, supportive, and always ready to help with a smile.\n\nThe hotel\u2019s location is a big advantage\u2014close to the market and easily accessible, yet peaceful. Check-in and check-out were smooth, and overall service quality exceeded expectations.\n\nI would highly recommend Hotel Sehej Inn to anyone visiting Delhi for business or leisure. Great value for money and a truly hassle-free experience.",
+      "Hotel is budget hotel. With basic facilities.  The owner of the hotel is a kind and humble person. He helped us in getting a good doctor for our daughter as she was not keeping well when we visited Delhi."
+    ],
+    "negative_snippets": [
+      "The most third class hotel I had ever been in. I was traveling with Kundu Special and our entire group was kept there. The bathroom was tiny and untidy, room had a foul smell, beds and towels were dirty. I asked for a towel but was not given to me. Door lock was broken, half of the lights in room were not working, lift display board was not working, roof was just a mess, lobby was messy with wifi and cables hanging, staircase floor was cracked at some place, room had no balcony or ventilation. Two windows, both were covered with a sticker. Only the reception area was decorated just to give people an illusion of a good hotel but as soon as you go inward, you'll find what a hell it is. Even if I was asked to stay there free of cost for one night, I still wouldn't have stayed there. A horrible experience. The worst hotel I had ever been in my life.",
+      "Worst experience of the hotel no cleaning at all, blankets were smelly and the staff was very rude. \ud83e\udd2e\ud83e\udd2e\ud83e\udd2e\ud83e\udd2e\ud83e\udd2e\ud83e\udd2e\ud83e\udd2e",
+      "Heater is very small hot water is not at all available"
+    ]
+  },
+  "review_summary": "Based on 5 reviews.",
+  "positive_themes": {
+    "clean_rooms": 3,
+    "friendly_staff": 2,
+    "good_location": 1,
+    "great_value": 1
+  },
+  "negative_themes": {
+    "dirty_rooms": 2,
+    "rude_staff": 1
+  }
+}

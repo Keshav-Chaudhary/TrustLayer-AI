@@ -1,0 +1,53 @@
+{
+  "hotel_id": "ChIJ374hXsgDDTkRRRix0z5YTcQ",
+  "hotel_name": "Hotel Spb 87",
+  "area": "Karol Bagh",
+  "budget_category": "Mid-Range",
+  "rating": 3.4,
+  "trust_score": 0.6223146275700616,
+  "travel_purpose_tags": [
+    "Business"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "rich",
+    "review_count": 5,
+    "positive_snippet_count": 3,
+    "negative_snippet_count": 2,
+    "positive_theme_count": 4,
+    "negative_theme_count": 2
+  },
+  "aspect_scores": {
+    "cleanliness": 0.0017314010619884,
+    "service": 0.9998052716255188,
+    "location": 0.6005942604446318,
+    "value_for_money": 0.0003638122871052,
+    "staff_behavior": 0.7499680780965718
+  },
+  "recommendation_features": {
+    "popularity_score": 0.5900585411484343,
+    "rating_score": 3.4,
+    "sentiment_score": 0.6005942604446318
+  },
+  "review_evidence": {
+    "positive_snippets": [
+      "Excellent location and a truly wonderful stay overall. The staff were warm, professional, and genuinely caring, but I must especially mention Mr. Ganesh, who made our experience exceptional. He was incredibly helpful, welcoming, and attentive from the very beginning. He went out of his way to understand our special needs and ensured everything was taken care of with great care and promptness.\n\nHis hospitality, positive attitude, and personal attention made us feel comfortable and valued throughout our stay. Thanks to him, our experience was smooth, pleasant, and memorable.\n\nI would happily recommend this hotel to friends and family, and I will definitely choose to stay here again on my next visit. Truly an excellent experience!",
+      "We stayed at this hotel for five days and booked four rooms. The rooms were decent, and our overall experience was quite positive. While we encountered some issues with the air conditioning and a few other minor concerns, the staff and management addressed them promptly. The hotel's location is convenient, being close to the metro station and Karol Bagh market. The manager and hotel staff were courteous and helpful throughout our stay. Despite a few small issues, which were quickly resolved, we had a pleasant and comfortable experience at this hotel.",
+      "Great experience with the hotel. Staff was very polite nature. Location is also very good, just near the karol bagh metro station."
+    ],
+    "negative_snippets": [
+      "I had a very disappointing experience at this hotel in Karol Bagh. The cleanliness was extremely poor\u2014rooms were dirty, the washroom was unhygienic, and even the bedsheets were torn and looked like they hadn\u2019t been changed properly. Despite this, they had the audacity to charge \u20b91500 extra for damaged (already torn) bedsheets, which felt completely unfair and unprofessional. Basic amenities were either missing or not working properly, making the stay very uncomfortable.\nOverall, it was a very unpleasant experience, and I would strongly advise others to avoid this hotel.\nIf you are planning to stay in Karol Bagh, I highly recommend choosing Hotel Southern Karol Bagh instead. It is much cleaner, better managed, and offers a far more comfortable and reliable stay",
+      "Except for the location everything was worst. The hotel was expensive and everything was dirty - the bed linen, blanket, pillow etc. Had broken walls, no hot water, no kettle or any other amenities, switch boards were popping out.\nThe manager behaviour was so rude not cooperative. I don't know people keep this type of staff for the hospitality.\nWill never recommend this to anyone and it was an emergency that is why I had to stay there for a night."
+    ]
+  },
+  "review_summary": "Based on 5 reviews.",
+  "positive_themes": {
+    "friendly_staff": 4,
+    "good_location": 4,
+    "great_value": 1,
+    "clean_rooms": 1
+  },
+  "negative_themes": {
+    "dirty_rooms": 2,
+    "rude_staff": 2
+  }
+}

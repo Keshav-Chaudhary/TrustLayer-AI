@@ -1,0 +1,48 @@
+{
+  "hotel_id": "ChIJr3G6agDdDDkRHk3tDePJCI4",
+  "hotel_name": "Hotel Golden Valley - Rooms | Banquet Hall | Roof-Top Restaurant",
+  "area": "Karkhana Bagh",
+  "budget_category": "Mid-Range",
+  "rating": 3.8,
+  "trust_score": 0.6910862965313342,
+  "travel_purpose_tags": [
+    "Business"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "moderate",
+    "review_count": 5,
+    "positive_snippet_count": 3,
+    "negative_snippet_count": 1,
+    "positive_theme_count": 3,
+    "negative_theme_count": 0
+  },
+  "aspect_scores": {
+    "cleanliness": 0.999784767627716,
+    "service": 0.750196845823666,
+    "location": 0.5,
+    "value_for_money": 0.5,
+    "staff_behavior": 0.9996952712535858
+  },
+  "recommendation_features": {
+    "popularity_score": 0.3641694923263474,
+    "rating_score": 3.8,
+    "sentiment_score": 0.8000765931559727
+  },
+  "review_evidence": {
+    "positive_snippets": [
+      "Nice Hotel cleaning very nice staff good behavior Kitchen food very yummy",
+      "Good service and good behaviour staff i like this hotal very nice",
+      "Very nice exlent service good quality service is very good staff behavour is so polite"
+    ],
+    "negative_snippets": [
+      "Extreamly disappointing stay Avoid this place!!\nI rarely leave negative reviews, but my experience at this hotel was beyond frustrating. From the moment I arrived, it was clear that cleanliness and customer service are not priorities here.\n\nWorst \ud83e\udd22"
+    ]
+  },
+  "review_summary": "Based on 5 reviews.",
+  "positive_themes": {
+    "clean_rooms": 3,
+    "friendly_staff": 4,
+    "good_food": 2
+  },
+  "negative_themes": {}
+}

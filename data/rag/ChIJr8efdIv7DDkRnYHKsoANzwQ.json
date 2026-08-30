@@ -1,0 +1,50 @@
+{
+  "hotel_id": "ChIJr8efdIv7DDkRnYHKsoANzwQ",
+  "hotel_name": "Mona Regency Hotel And Banquet",
+  "area": "Preet Vihar",
+  "budget_category": "Mid-Range",
+  "rating": 3.4,
+  "trust_score": 0.6200467547101498,
+  "travel_purpose_tags": [
+    "Budget"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "rich",
+    "review_count": 5,
+    "positive_snippet_count": 3,
+    "negative_snippet_count": 2,
+    "positive_theme_count": 4,
+    "negative_theme_count": 0
+  },
+  "aspect_scores": {
+    "cleanliness": 0.999848484992981,
+    "service": 0.5003672516031656,
+    "location": 0.6668609960664375,
+    "value_for_money": 0.5,
+    "staff_behavior": 0.9998294413089752
+  },
+  "recommendation_features": {
+    "popularity_score": 0.5798109282536353,
+    "rating_score": 3.4,
+    "sentiment_score": 0.6003176350728608
+  },
+  "review_evidence": {
+    "positive_snippets": [
+      "Very good location and service front office staffs behavior is very Good.",
+      "Really nice hotel. Aside from the numerous trip hazards on the way to the room, this is a solid 3 star hotel. Clean, spacious and in a great location.\n\nOne suggestion, the rooms need warmer lighting, especially the ones without a window. You end up with either bright white light or complete darkness.\n\nOther than that, it\u2019s a great place to stay. The staff are friendly and helpful.",
+      "Fantastic place for FAMILY PARTIES, KITTIES and only VEGETARIAN FOODS ARE SERVED...."
+    ],
+    "negative_snippets": [
+      "Rooms are extremely small and are suffocating. Location is also unsafe. Service provided is not good. Lift is only there till 2 floors .",
+      "People were howling and tried to open the door at midnight the scene was very scary i would suggest to not book that hotel safety is very poor and no one taken action when I complained about that problem"
+    ]
+  },
+  "review_summary": "Based on 5 reviews.",
+  "positive_themes": {
+    "friendly_staff": 2,
+    "good_location": 3,
+    "clean_rooms": 1,
+    "good_food": 1
+  },
+  "negative_themes": {}
+}

@@ -1,0 +1,52 @@
+{
+  "hotel_id": "ChIJq5SJS2YfDTkRQUWOxyoaoOE",
+  "hotel_name": "The Aldott Boutique Hotel",
+  "area": "Sector 24",
+  "budget_category": "Mid-Range",
+  "rating": 4.5,
+  "trust_score": 0.7795839569752341,
+  "travel_purpose_tags": [
+    "Budget"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "rich",
+    "review_count": 5,
+    "positive_snippet_count": 3,
+    "negative_snippet_count": 2,
+    "positive_theme_count": 4,
+    "negative_theme_count": 1
+  },
+  "aspect_scores": {
+    "cleanliness": 0.6666511835064739,
+    "service": 0.0024645657977088,
+    "location": 0.500090947956778,
+    "value_for_money": 0.5,
+    "staff_behavior": 0.600881124800071
+  },
+  "recommendation_features": {
+    "popularity_score": 0.6415401700731959,
+    "rating_score": 4.5,
+    "sentiment_score": 0.600881124800071
+  },
+  "review_evidence": {
+    "positive_snippets": [
+      "The place I can call home away home! Had a chance to stay for four days with full occupancy in December 2025. Nothing felt short of anything to name in regard to services, staff, f&b, and something that need mentioning is the calm, patient and friendly services. The rooms were elegant, clean and comfortable. Food and catering just super delicious. Above all Need to mention the fact that GM Mr Santosh Soni met with all the challenges, provided and provisioned all my needs and requirements. Not only Mr Soni but the MD Mr Rajnikant Gupta too needs to be applauded for his leadership and support. It\u2019s been a privilege staying amongst the best of most capable and talented people and super excited place. I can summarise my stay as lifetime relationship with hotel and its staff at all levels.",
+      "It was a pleasant stay. Comfortable rooms, very cordial and accommodating staff and excellent location. Miss Sanjana was especially cooperative and kind to our requests. Would recommend to all.",
+      "We organized my brother\u2019s wedding at The Aldott Hotel, and everything was absolutely perfect. From beautiful arrangements to smooth coordination, the staff took great care of every detail. The rooms were clean, food was delicious, and guests were very happy. Truly a memorable experience for our family. Highly recommended for weddings."
+    ],
+    "negative_snippets": [
+      "This was a very disappointing stay, especially considering it was a corporate booking.\n\nWe had requested an early check-in in advance and were told it would be arranged, but on arrival we were simply asked to wait, with no proper explanation.\n\nAt check-in, the staff mentioned providing a balcony view room (initially chargeable, later stated as complimentary), but this was made conditional on giving a positive review immediately, even before seeing the room or experiencing the service. This was highly unprofessional.\n\nThe room hygiene was poor, with flies present in the room.\n\nThe Wi-Fi was unreliable and slow, with frequent disconnections and speeds not exceeding 10 Mbps. Anyone coming for office or remote work should be aware that working from the room is extremely difficult.\n\nI also found that the online ratings do not reflect the actual experience. I shared my concerns directly with the hotel team, yet even during checkout, the staff continued to ask for reviews. I clearly informed them that I did not wish to leave one.\n\nOverall, this was one of the worst hotel stays I\u2019ve experienced. I would strongly advise future guests, especially corporate travelers, to think twice and not rely solely on the ratings.",
+      "I am writing to formally report an issue I faced at your property, **Hotel Aldott cyber city, Gurgaon Sector 24\u00a0**and to request your approval for hotel-side cancellation, which is required for my refund to be processed by ClearTrip.\n\nBooking Details:\n\n- Platform: ClearTrip\n- Hotel:\u00a0**Aldott cyber city, Gurgaon Sector 24\u00a0**\n- Check-in date: 2nd February\n- Time I reached the hotel: 1:30 a.m. on 2nd February\n\nWhen I reached the hotel at 1:30 a.m., the receptionist denied me entry, stating that my booking was for \u201ctomorrow\u201d and that check-in would be allowed only after 2:00 p.m. This was extremely distressing, as early-morning check-ins are commonly considered part of the same night.\n\nImmediately after this, I contacted ClearTrip customer support. The ClearTrip executive:\n\n1. Sent an official cancellation approval email to the hotel, requesting acknowledgment\n2. Then issued a voucher to change the booking date from 2nd Feb to 1st Feb, as per my request\n\nHowever, the receptionist refused to acknowledge or reply to any email or voucher, stating repeatedly that he \u201cdid not have the authority\u201d to do so.\n\nAdditionally, the receptionist insisted that I pay \u20b94,500 in cash to book another room offline, despite the fact that I had already paid \u20b94,485 online for the same room. I refused this request, as it was unreasonable and inappropriate.\n\nI was clearly informed by the receptionist that a manager would arrive in the morning and would handle the acknowledgment and cancellation. However, later that morning, ClearTrip informed me that the hotel manager has now denied the cancellation, resulting in my refund being put on hold.\n\nDue to:\n\n- Denial of check-in despite reaching at 1:30 a.m.\n- Refusal to acknowledge official communication from ClearTrip\n- Request for additional cash payment\n- Conflicting statements regarding authority and cancellation\n\nI was left stranded at night and unable to avail the booking.\n\nI respectfully request you to approve the cancellation from the hotel\u2019s end and acknowledge the cancellation request sent by ClearTrip, so that my rightful refund can be processed immediately.\n\nI hope this matter can be resolved amicably and promptly. I am confident that the property management will take this seriously and ensure fair treatment of guests."
+    ]
+  },
+  "review_summary": "Based on 5 reviews.",
+  "positive_themes": {
+    "clean_rooms": 2,
+    "friendly_staff": 4,
+    "good_food": 2,
+    "good_location": 1
+  },
+  "negative_themes": {
+    "rude_staff": 1
+  }
+}

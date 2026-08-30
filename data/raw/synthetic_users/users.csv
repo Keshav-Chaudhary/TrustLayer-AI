@@ -1,0 +1,501 @@
+user_id,budget_preference,preferred_area,travel_purpose,amenity_preferences
+8d63328b-b8f5-49e8-b079-ef905e979000,Budget,Paharganj,Family,Spa|Gym|Parking
+aed195e5-c072-4e8c-8b2a-e059c9ed5269,Budget,Dwarka,Family,Gym|WiFi|Parking
+9cf8a809-9280-44e6-a449-7763669097d1,Luxury,Sector 43,Business,WiFi|Spa|Gym|Breakfast
+4ecb7f65-2af8-4ec7-8b12-9554a9b0e195,Budget,Sector 57,Family,Pool|Parking
+9854e937-8208-487c-850b-333b4361aa4b,Mid-Range,Manesar,Family,Spa|Parking|Gym|Breakfast
+986b321c-89a3-42a6-8a29-7c0a4a6fa629,Budget,Other,Family,Pool|WiFi|Spa|Parking
+5804cbde-16f5-4f86-9c79-c7a496dd5fed,Mid-Range,Loni,Solo,Spa|Breakfast|Parking|Pool
+3a6e0b68-74dc-4717-9176-72f6e8e3a7bd,Mid-Range,Imt Manesar,Solo,WiFi|Gym|Pool
+7b62c419-e6b2-4d8b-bb06-aabe02b68533,Mid-Range,Other,Leisure,Gym|Pool
+44b2c638-8bef-4048-8c5a-ebbc137701de,Budget,New Industrial Township,Leisure,WiFi|Spa|Parking
+0b26c8e7-179c-40f6-9134-e8c30e352bfb,Budget,Paschim Vihar,Leisure,Parking|Pool|Breakfast|Spa
+59d00233-6f03-4537-aedd-506822d32e60,Budget,Delhi,Family,Pool|Gym|Breakfast
+104bc144-8fe5-4f73-81e8-b7f224365b3f,Mid-Range,Sector 57,Leisure,Breakfast|WiFi
+283ab683-de94-4819-8ebb-c48ea454754e,Mid-Range,Loni,Leisure,Breakfast|Parking
+55c5c8e8-95c2-4bf8-83d3-cdef857972b5,Mid-Range,Chhatarpur,Leisure,Pool|Gym|Spa
+298dfa59-b079-46a7-9255-4f0b61fa762d,Luxury,New Industrial Township,Family,Gym|WiFi|Pool|Parking
+45c71378-3b1e-4de8-b453-c0feb181abf5,Mid-Range,New Industrial Township,Leisure,Gym|Pool|WiFi
+242f6ed7-3900-4e83-be98-d787898fd382,Budget,Paschim Vihar,Leisure,Spa|Breakfast
+7d3689e7-f1c2-4b72-a1ae-8d6d4f2839a6,Mid-Range,Loni,Family,Breakfast|Parking
+eef96bc8-b043-4079-9da9-5a76681d3eea,Budget,Gurugram,Couple,Breakfast|Gym|Pool|WiFi
+34c5fd82-866e-41d3-84cd-f06635dabcd4,Mid-Range,Manesar,Solo,Spa|Breakfast
+da47b46c-39a2-4b9f-9340-7c0218a3cd9c,Mid-Range,Imt Manesar,Family,Pool|Spa|Parking
+2c608aba-2fba-4421-8dd9-3f1742cdb95c,Mid-Range,Burari,Business,Breakfast|Parking|WiFi
+197d693f-5dce-46d4-843e-1c31ab8463ee,Luxury,Sector 43,Leisure,Spa|Breakfast
+0bac33d6-17bc-44d5-aa57-dcf4ae3d866c,Budget,Delhi,Family,Breakfast|Parking|WiFi
+3369e67b-5b51-4ceb-a39a-638e7bc518de,Mid-Range,Loni,Leisure,Parking|WiFi
+7e16b6c4-85ec-4cdb-b438-9924bb9a18c6,Budget,Sector 43,Family,Pool|WiFi
+e93b6cc2-e8b9-473d-8647-fe7a3e6f5717,Budget,Chhatarpur,Business,Gym|Spa|Pool
+a73c3fa8-df38-4b1c-b1bb-5e3ade9d5aeb,Mid-Range,Delhi,Business,Breakfast|Parking
+280b1f0f-0c6b-47a9-8ab8-84a6889bec21,Mid-Range,Chhatarpur,Couple,Breakfast|Pool|Gym|Parking
+a272ba94-3ed3-4133-8c62-e2afbf5a0a80,Budget,Sector 38,Family,Parking|WiFi
+80e1e5ea-0c1d-4e34-bc08-037e85e00384,Mid-Range,Sector 57,Couple,Pool|Breakfast|Gym|WiFi
+69805d1a-430b-40a4-9964-f3bf9986ccc9,Budget,Burari,Leisure,Gym|Spa
+5c29f76c-0959-46fd-8c1c-599590497a61,Luxury,Sector 38,Business,Pool|Gym
+893e5714-054b-4a75-9e97-22290d2ce7c0,Budget,Sector 53,Leisure,Parking|Breakfast|WiFi|Gym
+1bb7a3cf-aefe-4a9f-92f6-147e2513c38f,Mid-Range,Sector 43,Business,Pool|Spa|Parking
+bf084b94-4ff5-4841-afad-85b42bcb7d9b,Mid-Range,Chhatarpur,Business,WiFi|Spa|Pool|Breakfast
+66d61d38-7928-4dcf-9b77-7bd201b7df04,Mid-Range,Sector 38,Business,Parking|WiFi|Breakfast
+c9da429b-bcf2-45ef-a9f7-60decad054e9,Budget,Other,Leisure,Gym|WiFi|Breakfast
+dd9fc025-15cd-44ad-9cf7-409c0288e1c9,Budget,Paschim Vihar,Business,Gym|Breakfast
+173b425d-7478-42b8-aba5-34f891734d95,Luxury,Paharganj,Business,Parking|Pool|WiFi
+cfa4f9ed-92f7-41ed-9c87-07e1c0a24104,Mid-Range,Chhatarpur,Leisure,WiFi|Breakfast|Parking
+92964dac-16dc-4d45-97de-c2e009e7ea46,Mid-Range,Rohini,Business,Breakfast|Spa
+3c51afb3-5e62-4156-a527-21b73a1e4c4e,Mid-Range,Sector 53,Business,Breakfast|WiFi
+5be95d9e-9c32-4403-a18c-9456a35e7b95,Luxury,Chhatarpur,Family,Spa|Pool|Gym
+28c08d9e-b6a2-4885-9c91-9e02f3fe146d,Mid-Range,Paharganj,Leisure,Pool|WiFi|Gym
+aafedbd4-5afc-42d2-aba2-3975f8f3520e,Budget,Imt Manesar,Business,Gym|WiFi
+5f8a77fd-4e57-4e7f-8291-9e6fc075064f,Mid-Range,Paharganj,Family,Pool|Parking|Gym|WiFi
+eb99bac9-d6a3-489a-8266-eead618a417d,Budget,Delhi,Leisure,Parking|WiFi|Spa
+7444dec3-6195-4c1c-9a1e-0eb5551e1ecc,Mid-Range,Sector 38,Couple,Breakfast|Parking
+d36cfa7f-2179-4310-a939-45f352c972ac,Mid-Range,Mahipalpur,Leisure,Parking|Gym|Pool
+da9c155d-74c5-4b86-9bfa-cae0d9c8a142,Mid-Range,Mahipalpur,Solo,Parking|WiFi
+a58fe1e0-d1e4-48e8-8ea3-9f286b1c1fe0,Luxury,Sector 57,Solo,Parking|Pool|Spa|Breakfast
+13d670ee-fb3e-479f-9cb0-e63eb3b08b8d,Mid-Range,Sector 43,Business,Gym|Pool|WiFi
+f955e15a-b03e-459a-90b3-d685f3c5b043,Mid-Range,Imt Manesar,Leisure,Parking|Pool|Spa|Breakfast
+da0162ed-f59a-4859-9c14-d37c40b7a2b1,Budget,Paschim Vihar,Couple,Pool|Gym|Breakfast|WiFi
+2864aa48-090e-4438-b972-24b34d654847,Budget,New Delhi,Business,Parking|WiFi
+aef12d1b-0793-4f8f-93be-dada26f47ca7,Budget,Delhi,Business,Pool|Parking|WiFi|Gym
+3d6f2b92-73e6-4063-bac7-54120c0a2eca,Mid-Range,Shahdara,Leisure,Parking|Pool|Spa|Breakfast
+05c7577b-09e6-45aa-a736-806e4342369b,Mid-Range,Sector 57,Solo,Pool|Parking|Gym
+154d1736-bd3d-4d3c-ad99-3e2dcbe3cae6,Budget,Paschim Vihar,Leisure,Spa|Parking|WiFi|Breakfast
+51a87217-1bae-40ea-8183-ad3fc2245e8b,Luxury,Sector 38,Leisure,Pool|Breakfast|Spa
+baee59dc-2265-4133-9e9a-7cae54ca8a29,Budget,Other,Solo,WiFi|Parking|Breakfast
+b877b471-c8f4-4163-9930-547715aa1f0b,Mid-Range,Paschim Vihar,Business,WiFi|Parking
+5eebad7b-d3e8-42f9-a41f-44dbb9b00d6b,Budget,Sector 53,Family,Breakfast|Parking
+85821283-f00b-42db-b09c-635fd89988f2,Mid-Range,Sector 43,Couple,WiFi|Parking|Breakfast
+64f23b3d-899b-41b1-ac13-578a6778b078,Mid-Range,Burari,Solo,Parking|Spa|Gym
+f5e1490d-338d-4c31-a66b-afe8b7d8947c,Budget,Delhi,Couple,Breakfast|Spa|Gym
+d8b12256-b311-42a2-a490-199ababef2b4,Mid-Range,New Industrial Township,Business,Pool|WiFi|Gym
+e4a1ebd7-c97d-4ca9-9467-09104172db58,Mid-Range,Mahipalpur,Family,WiFi|Pool|Gym|Spa
+20dbe3b3-cfd0-4478-b109-92cf16a1e142,Budget,Imt Manesar,Business,Parking|Spa
+e1b1e5af-b397-4e3b-b84b-64f23d005b71,Budget,Gurugram,Leisure,Breakfast|WiFi|Spa|Pool
+abdbb96a-401c-4963-a97d-9adb2b62d9d0,Budget,Sector 57,Business,Breakfast|Pool|Parking
+e4f0b796-a814-4ae8-8531-50ab50290c9d,Budget,Loni,Leisure,WiFi|Spa
+e6307a32-caeb-427b-9b1f-59ffcf5a935b,Mid-Range,Sector 53,Business,Spa|WiFi
+e8bc8778-b4d2-4c78-be08-1fa3b2ab477c,Mid-Range,Gurugram,Couple,Breakfast|WiFi|Pool
+db3aba4a-83da-473d-bb0d-3cfb6f2f3d68,Mid-Range,Dwarka,Solo,Breakfast|WiFi|Gym|Spa
+9ac719da-1914-45e3-8bc9-fdf3ba7080c2,Mid-Range,Burari,Leisure,WiFi|Gym
+d2c2fcc2-39d2-4fc5-aa03-76a7a16e7655,Budget,New Industrial Township,Couple,Pool|Parking|Breakfast|WiFi
+46e55124-b653-4948-94ac-ec3769ebb0b9,Budget,Other,Family,Parking|Spa|WiFi|Gym
+81381393-b8b2-4909-997d-b7eb578ef360,Mid-Range,Chhatarpur,Couple,Gym|Pool|Spa|WiFi
+cd88f7a5-a7a9-4bba-8860-718c15f748c5,Budget,Delhi,Leisure,WiFi|Spa
+2f4feda1-78e4-4560-b5d8-706e9824973c,Mid-Range,Paschim Vihar,Family,WiFi|Spa|Breakfast
+a1443eb1-cf2d-4cd4-b58f-7675f1a76ada,Mid-Range,Mahipalpur,Leisure,Pool|Gym|Spa
+680321da-c822-4ba9-9682-34f1e944e377,Budget,Mahipalpur,Business,Spa|Parking|Pool|WiFi
+8a30ba8d-102b-4944-a779-70c1cbfc3415,Mid-Range,Gurugram,Leisure,Pool|Parking|Spa|Gym
+7a3c614d-9f9b-4b3b-b7d5-6fa430d4def8,Mid-Range,Burari,Leisure,Gym|Parking|Spa|Breakfast
+adcd05c3-8904-45cc-b36c-a12b2a9ee0bb,Budget,Mahipalpur,Leisure,Spa|Pool
+26402c48-9f32-4fa9-ad74-c06ac1c78fac,Budget,Shahdara,Family,Pool|Gym
+7eb4d399-1b8f-4ace-82cf-bbf5cc9ae24b,Mid-Range,Gurugram,Leisure,Gym|WiFi|Breakfast|Parking
+17460094-cd3d-4c5f-8f4a-0a31c50b1432,Mid-Range,Paschim Vihar,Leisure,Spa|Parking|Pool
+10f0b8e2-deb3-4e26-aca5-90ffe3e8e99b,Mid-Range,Karol Bagh,Leisure,Parking|Spa|Pool
+e60ea33a-656b-4a11-a52b-237d4e3786ea,Mid-Range,Dwarka,Family,Pool|Parking
+0d673e5f-8978-42ab-a3c0-199a53e93a87,Luxury,Chhatarpur,Family,Breakfast|WiFi
+f7a78b1f-4d2a-410c-91be-f76480156929,Mid-Range,Burari,Family,Pool|Breakfast
+8d5fa760-7e26-4162-b980-5fa6b4618085,Mid-Range,Other,Business,Gym|Breakfast|WiFi
+1751f97a-1efe-4769-a2bf-cc693c38b8b0,Mid-Range,Manesar,Business,Parking|Pool|Spa
+49c3a8c2-0d09-44d7-b6a3-abda454be902,Luxury,New Industrial Township,Business,WiFi|Pool|Gym
+8387477e-ccc7-4ca8-8d83-b2f795c1cfd6,Budget,Shahdara,Leisure,Spa|Breakfast|Parking|Gym
+bf80f762-8b0c-4fa6-8b21-2005bd1dce5c,Mid-Range,Karol Bagh,Leisure,WiFi|Breakfast|Parking
+51fb6cf1-4f93-46ec-9bd5-6684a19895db,Luxury,Burari,Couple,Pool|Spa
+f2c58a76-7152-4386-9abf-93e52df41425,Luxury,Sector 38,Family,Pool|WiFi|Spa
+c9c64118-2d9d-4fc9-b82b-b9c81aad9d6d,Luxury,Sector 38,Family,Spa|Gym|WiFi
+d3046880-a3c3-4e89-8b50-5e923e00059f,Mid-Range,Karol Bagh,Business,Gym|Spa|Parking|WiFi
+d77dca61-3e09-4500-a590-f21bb569f3ea,Budget,Sector 38,Family,Pool|Parking
+93d2a93a-437e-4520-9697-d60d0b80bf8c,Budget,Karol Bagh,Family,WiFi|Parking|Breakfast|Pool
+fc15b51b-39eb-478b-ae87-056c4c7eca24,Mid-Range,Dwarka,Business,Pool|Breakfast
+75b858f3-620d-4727-9179-a6314ba185a0,Budget,Paschim Vihar,Solo,Pool|Gym|WiFi|Spa
+a1fb0e10-d34e-44d3-b683-51f238d6b9e9,Mid-Range,Dwarka,Business,WiFi|Spa|Gym
+e33be9ee-3d0c-44df-9665-8020a2d7d3cf,Mid-Range,Other,Leisure,WiFi|Parking|Spa|Pool
+0ab75a7f-df28-4916-98e5-af36e92c9693,Mid-Range,Gurugram,Leisure,Breakfast|Parking|Pool|Gym
+593af43c-54b9-4047-9f69-97cb3a428ed1,Budget,Rohini,Leisure,Gym|WiFi|Breakfast
+dab65971-b0f4-4286-8b84-e7977e44e935,Budget,New Industrial Township,Couple,Spa|Parking|Gym|Pool
+732513d1-f4f5-4168-9ff9-321be240ccd0,Mid-Range,Manesar,Business,Breakfast|Parking
+c421a6cd-9a42-4e54-a55e-22112e9636e0,Mid-Range,New Industrial Township,Business,Pool|Breakfast|WiFi
+c1babf89-687b-45ed-991f-d2486e6bb480,Mid-Range,Other,Solo,Spa|Gym|Breakfast|WiFi
+8653e6e5-30b7-4eee-9aeb-7193aeac187d,Mid-Range,New Industrial Township,Leisure,Spa|Gym|Parking|Pool
+f62ee30d-1673-4a00-b2d4-2ce4aa682f43,Budget,Imt Manesar,Family,Gym|Spa
+d869cf53-9e45-4f88-bd6e-a3676a48a6c5,Mid-Range,Sector 38,Solo,Breakfast|Spa|Pool|Parking
+f7be0785-240a-42ee-8b2f-70eba51c17b8,Mid-Range,Sector 57,Couple,Parking|Spa|Gym|Pool
+bec9ecdb-c5ac-412a-90f0-0dd35099444b,Luxury,Sector 53,Family,WiFi|Spa|Parking
+4d26f2e3-268c-497f-92d2-5a97ff6d024d,Budget,Paharganj,Business,Pool|Gym
+d470e70f-bc7e-4b05-b864-cfc09c8c0aa4,Mid-Range,Karol Bagh,Couple,Spa|Pool|Parking
+3bbf01ad-afdc-4b20-a91c-43fdb6ed7924,Mid-Range,Shahdara,Family,Parking|Spa|WiFi
+fcc031ad-4208-4740-88ba-b107e425dc05,Mid-Range,Sector 43,Business,Spa|Breakfast|Gym
+620e0ad4-347b-4052-bbbc-42daf839267d,Mid-Range,Burari,Family,Pool|WiFi|Gym
+247c86f4-8951-4e3b-a21d-77f03d82ad67,Mid-Range,Imt Manesar,Solo,Parking|Breakfast|Pool|WiFi
+cc97c076-c4a2-4250-bbf1-ca4cd519cead,Mid-Range,Shahdara,Business,Breakfast|WiFi|Gym|Parking
+c975001f-3b45-42fe-acb5-9e82a8193725,Mid-Range,Delhi,Solo,Breakfast|Pool|Spa|Parking
+cdd1929b-56e0-473c-bb41-c14e0501acc8,Luxury,Paharganj,Couple,Parking|WiFi|Spa|Gym
+ab30a6f2-8033-42c5-9ed7-c240fc5b1904,Luxury,Sector 53,Leisure,Parking|Pool|WiFi|Breakfast
+de6ce82d-b9c0-402f-8b6f-0b2f6e99ac99,Luxury,Manesar,Family,Parking|Pool
+f85b12e4-d529-444d-98d3-b24f348cc255,Budget,Sector 53,Leisure,Breakfast|Spa|WiFi|Parking
+5f71cbee-87b1-4879-99af-43b553974275,Budget,Paschim Vihar,Family,Spa|WiFi
+aae78df0-8618-4522-9128-e23f8706f3ec,Mid-Range,Mahipalpur,Couple,Gym|Pool
+5e7b0e4b-647c-477b-8230-01f4059583d6,Mid-Range,Sector 43,Family,Spa|Gym|Breakfast
+e4ef0e13-544d-4798-978a-8bef5ec73c2e,Budget,Sector 43,Leisure,Parking|Breakfast|Gym
+2c05449c-a061-4d66-8d3f-0f834181a896,Budget,New Delhi,Business,WiFi|Spa|Pool
+03bef37d-3d9d-48b7-bf64-8d5066ad358b,Budget,Loni,Leisure,Breakfast|Gym|WiFi|Spa
+47f3cb3e-9ec8-43f6-870d-85e6d6cfdc35,Mid-Range,Chhatarpur,Couple,Spa|Parking|Gym
+e3867216-fe86-4600-a219-9f33758eb210,Mid-Range,Dwarka,Family,WiFi|Spa|Breakfast|Gym
+fc8c2322-38c2-4462-8d21-cbf7f2378fcb,Luxury,Chhatarpur,Leisure,Breakfast|Gym|Spa|WiFi
+8e667844-ef65-43ff-b2d9-993cef706409,Mid-Range,Karol Bagh,Business,Gym|Breakfast|Parking
+36ffb52d-7b83-45cc-95cd-193e7b44df6b,Mid-Range,Sector 57,Business,Parking|Gym
+a5f8e98b-2ba0-4e4b-bb54-b670a8e485f9,Budget,Mahipalpur,Business,Spa|Breakfast|Pool|Parking
+e2e26456-e93e-46ed-a675-50f7a2c8c8a3,Budget,Gurugram,Family,Gym|Spa|WiFi
+955694d2-0120-43cb-ba48-ede2a15c8881,Mid-Range,Imt Manesar,Leisure,Gym|Breakfast|Pool|Spa
+26caffda-1a3d-4589-ae97-7381682bdd7a,Budget,Burari,Solo,WiFi|Gym
+9cf83b4b-5384-4d82-84d1-94810591235f,Budget,Sector 57,Leisure,WiFi|Pool
+ee8a34c2-7609-4c18-afd1-af4e174cb78d,Budget,Sector 53,Couple,Gym|Breakfast|Parking|Pool
+5eca0444-5f8a-42f9-9d8b-9e1f71df019d,Luxury,Burari,Solo,Breakfast|Spa|Gym
+b32fb846-cfef-4960-b9ab-46068bb35d50,Budget,Loni,Leisure,Breakfast|Gym|Pool|WiFi
+9ef10082-3428-4ada-8c3b-eab2fb649deb,Budget,Sector 57,Couple,Parking|Pool
+1489e59d-1e74-4f84-9390-e516e51b8b9b,Budget,Dwarka,Leisure,Breakfast|Gym
+90ae9cc5-01b4-44d3-9218-2747c44f5604,Mid-Range,Karol Bagh,Business,WiFi|Gym
+6021da90-399d-4029-8ace-3cb50ef240c9,Mid-Range,Paharganj,Family,Pool|Gym|Breakfast
+fcdd6e30-986b-4ad1-aa53-2974f5fb06e7,Budget,Mahipalpur,Leisure,Spa|Parking|Gym
+2b85f71d-1aac-4c7a-9e8d-b75d1c19637f,Luxury,Sector 43,Leisure,Spa|WiFi|Pool
+5b4d4db2-1930-4544-828c-16aa7d840170,Luxury,Gurugram,Leisure,WiFi|Pool
+8caf6093-3818-48f0-8dfd-b789b157aa8f,Mid-Range,Karol Bagh,Leisure,Gym|Parking
+818303ed-e609-48fa-a620-fe875de78545,Budget,Karol Bagh,Leisure,Pool|Gym|Breakfast
+e03de052-a1e6-4466-9bbf-a31625c32cd6,Mid-Range,Karol Bagh,Leisure,Breakfast|Pool
+b4792de9-31b2-4bb8-be23-dba1e4935673,Mid-Range,Sector 43,Family,WiFi|Gym|Pool
+a10c532b-bbce-4fb2-94fe-57bb8ed57aee,Budget,Gurugram,Family,Spa|Parking|WiFi
+afe42210-3934-4e89-a48c-aa0b88be3930,Luxury,Gurugram,Family,Pool|Breakfast|Gym
+75f7a969-4b39-43d5-9129-6e3e7f5b737b,Mid-Range,Delhi,Family,Pool|WiFi
+a0edda00-56b2-4bcc-bafa-768af0edb620,Mid-Range,Paharganj,Couple,Spa|WiFi
+5120b3fc-df68-4ca3-b023-977b29ccbc3d,Mid-Range,Burari,Couple,Pool|Breakfast|WiFi
+6650d9cd-e50e-4e5e-b6c0-9d31deaa1fa2,Budget,Manesar,Leisure,Parking|Gym
+4f7b8026-abe4-4530-958f-19c7a44e1c23,Budget,Rohini,Leisure,Pool|WiFi|Spa|Gym
+460d50dc-f903-45dc-8b71-ffdcfb556d7e,Budget,Sector 38,Business,Spa|Parking
+9b873d8f-70cf-41e3-aad8-702168306f70,Budget,Shahdara,Family,Gym|Parking|WiFi
+f3bd1519-3811-4c22-8fe4-5970c52bde89,Mid-Range,Chhatarpur,Leisure,WiFi|Gym|Parking
+b4e9dd4d-f2f0-4512-9159-f981a1dddd87,Mid-Range,Karol Bagh,Leisure,Pool|Parking
+8fa92135-d83e-4170-ad36-8e3c43650ee2,Mid-Range,Sector 57,Family,Parking|Spa|WiFi
+ea80e38c-6d58-4c9d-a1e7-616c53eace2e,Mid-Range,Shahdara,Business,Gym|Parking
+ea628140-be21-4ba9-9e5c-567879dd6cb2,Luxury,Rohini,Business,Parking|Spa|Breakfast|Gym
+95fe4890-4507-4b5f-a2d2-3ac7db9a3134,Mid-Range,Sector 53,Business,Pool|Parking|Gym|WiFi
+4aa4d550-c08f-42fa-a6bf-834d59f81a34,Budget,Loni,Couple,Gym|Spa|Parking
+31212950-4295-47f4-b6dc-7ec74ef4b506,Luxury,Imt Manesar,Solo,Parking|Spa|Pool|WiFi
+443bcecc-58a0-4976-8093-9fb99caaac34,Mid-Range,Mahipalpur,Business,Gym|WiFi
+2ecd8a47-2028-4428-ac7e-8f22a81b6281,Mid-Range,Chhatarpur,Solo,Breakfast|Spa
+2571a4c9-548d-4d82-b8e7-37b3117bb99b,Luxury,Karol Bagh,Business,WiFi|Pool
+d524d4ef-3243-4533-ac76-c481a2c6b7e3,Mid-Range,Mahipalpur,Family,WiFi|Spa|Parking|Gym
+84a70170-eb28-479b-898a-98d1f6398b18,Budget,Imt Manesar,Business,Pool|Spa
+bcafdb66-81b4-4091-ba36-7192516a495a,Mid-Range,Manesar,Leisure,WiFi|Spa|Gym
+ec211d83-5c1e-4686-84e6-0666cc0e4845,Budget,Chhatarpur,Business,WiFi|Spa|Gym
+363239d3-7cec-43d3-94ed-311afaf4f117,Budget,Sector 57,Leisure,Parking|Gym|Spa|Pool
+da797232-2cbb-4978-85f2-2df5471839af,Mid-Range,Dwarka,Leisure,Breakfast|Parking
+78979b28-bf57-4f10-a9d1-a047327947ef,Mid-Range,Sector 38,Leisure,Gym|Pool
+930e56f6-e620-4173-a63b-e69845c7e999,Budget,Sector 38,Leisure,Breakfast|Gym
+3f80fadc-1f93-4aa5-862f-5d6288297faa,Mid-Range,New Delhi,Leisure,WiFi|Gym
+2f15a99f-f29e-4c8c-b876-5a3fa26aa34c,Budget,Mahipalpur,Couple,Parking|Breakfast|Pool
+4d363b1d-d65a-4898-8acd-c9de6de2f300,Mid-Range,Rohini,Family,Parking|WiFi|Breakfast|Spa
+bc705235-7723-4018-ade4-b7fcdf5fc078,Mid-Range,Sector 43,Solo,Breakfast|WiFi|Gym|Pool
+dcef2a7c-7d24-4c85-93b5-3f5617be5aff,Budget,Other,Leisure,WiFi|Parking
+d4485619-0b1e-47bb-bdc3-32bf8eb3b431,Budget,Dwarka,Leisure,Gym|WiFi|Breakfast
+ff6fc418-8902-4709-a357-bf07ab612659,Mid-Range,Imt Manesar,Business,Parking|Gym|Breakfast
+d1afe129-0195-4fbb-b035-0d36db3ec051,Luxury,Gurugram,Leisure,Breakfast|Pool
+9c44561f-34d4-4a7c-baad-8cf6753013db,Budget,Loni,Leisure,Spa|Parking
+f7d761cc-d4c1-4236-a4c4-0cedca99b448,Mid-Range,Paharganj,Leisure,Gym|Breakfast|WiFi|Spa
+f58f3b26-6d04-4d8a-b947-be108b843493,Mid-Range,Paharganj,Leisure,Pool|Parking|Breakfast|Spa
+f3db8f49-ab3c-4387-850b-36f7ed675c2b,Budget,Delhi,Leisure,Gym|Parking|Breakfast|WiFi
+9555b3b6-192a-4499-94c4-fd89a637d42b,Mid-Range,Gurugram,Couple,Parking|Spa|WiFi|Pool
+7d95da2e-51e6-4f4f-9d38-3d5957682347,Mid-Range,Karol Bagh,Business,Breakfast|Spa|Parking|WiFi
+eefc4c41-4e27-4857-9c2c-12392223d894,Budget,New Delhi,Business,Breakfast|Gym|WiFi|Spa
+8488785e-3f19-43a7-90fe-eef8a4c5758c,Luxury,Sector 38,Couple,WiFi|Parking|Breakfast|Pool
+13e9d08a-dbcf-4db7-bb49-09aef8fbb693,Mid-Range,Imt Manesar,Business,Parking|WiFi|Gym
+43563929-26e7-43e5-a281-541d6df43e12,Mid-Range,New Industrial Township,Leisure,WiFi|Breakfast|Gym|Parking
+98102b4d-cdc2-4540-b33d-acaed57fd37e,Mid-Range,Gurugram,Leisure,Gym|Pool|Parking
+31b619bb-5b4f-4963-8e79-cc40838c0b61,Mid-Range,Delhi,Couple,Pool|Spa|Gym
+455c6d03-8710-4ad4-a1b4-92e6351848ab,Luxury,Burari,Business,Gym|WiFi|Parking
+95634efa-5753-4e81-aa27-ab0c3e743543,Budget,Mahipalpur,Leisure,Parking|Pool
+52846282-2ea3-4564-8b6e-0f1e37c8d0f0,Budget,Shahdara,Leisure,Gym|Pool|Breakfast|WiFi
+edfe7576-a72a-4af9-88f2-b2ab5e647e79,Budget,New Industrial Township,Solo,WiFi|Spa
+d7945dc7-8d7b-4200-9ad7-24662c114578,Mid-Range,New Industrial Township,Business,Pool|Breakfast|WiFi|Spa
+c3c81418-929a-41cb-babf-58c2e5c64821,Budget,Sector 53,Leisure,WiFi|Breakfast|Spa|Gym
+7e5cd4f9-8546-40fd-8ca4-2562399c8727,Luxury,Paschim Vihar,Couple,Pool|Gym
+1716ad43-d9a8-41b7-9390-461b5eaa5ef3,Budget,Chhatarpur,Couple,Breakfast|Spa|WiFi|Gym
+175d0fb4-340c-4d83-9846-322d9a268beb,Mid-Range,Karol Bagh,Family,WiFi|Parking|Pool
+63623873-fa83-4cbb-873c-3c157f800306,Mid-Range,Shahdara,Couple,Spa|WiFi|Gym
+e6b5a895-61d4-4a3c-a4cc-98754530cead,Mid-Range,Mahipalpur,Solo,Parking|WiFi
+e009c381-b54a-4cc8-8881-6f27bf5a7b6c,Budget,Imt Manesar,Leisure,Breakfast|Parking|Spa|WiFi
+aaf7a1dd-a303-483c-9109-6044d52f938c,Budget,Loni,Business,Spa|Gym|Pool
+de2ebfc8-9a10-40a1-a280-fb0a8021786f,Budget,Delhi,Business,Gym|Breakfast|WiFi
+33135610-2b43-42b0-a0e5-75ba1bc8cc3e,Mid-Range,New Delhi,Solo,Spa|Pool|Gym
+e5ec9485-21d7-44be-9815-4074d5656ba7,Budget,Paschim Vihar,Business,Breakfast|Spa|WiFi
+60088506-d034-490f-b7dd-7097ba0bbe9f,Mid-Range,New Delhi,Leisure,Spa|WiFi|Breakfast|Gym
+a877b009-d29a-47d3-8792-72f833f787f9,Mid-Range,Loni,Leisure,Spa|Parking
+3aebde1d-a0bb-4bdf-a475-0b7edccc6068,Mid-Range,Sector 43,Leisure,WiFi|Pool
+6593e86a-9014-4224-bd03-d2ef0a87cfd7,Mid-Range,New Industrial Township,Leisure,Parking|Gym|Breakfast|Pool
+9712a410-d28b-48ac-85dc-13465e5db5aa,Mid-Range,Gurugram,Family,Parking|Breakfast
+545a22ee-dbba-4304-8a5a-0a3e64819596,Mid-Range,Chhatarpur,Couple,WiFi|Breakfast|Pool|Parking
+9d51c09a-38c3-4f19-aed3-da9ba9d43ed5,Budget,Other,Family,WiFi|Parking|Spa
+6d055ab8-931e-4669-8970-8532cc3f839c,Mid-Range,Shahdara,Business,WiFi|Breakfast
+949a5e77-6bda-4dc4-a037-c9fc31a64b29,Mid-Range,Paharganj,Business,Gym|Breakfast
+86492d3e-bf92-429c-a397-4b0891a0d73d,Budget,Burari,Family,Breakfast|Spa|Gym
+4939db32-97cd-4846-9c6f-72d28fb6e954,Budget,Sector 57,Couple,WiFi|Parking|Gym|Spa
+39bea8fd-c380-4357-961c-2773b38527f5,Mid-Range,Imt Manesar,Family,Breakfast|Spa
+a20b8254-b406-4004-942d-b1e5bf377a2b,Budget,Shahdara,Family,Parking|Gym|Spa
+bddca7ca-8ed3-48dd-b244-69905cca533b,Budget,Shahdara,Leisure,Breakfast|Gym|WiFi|Pool
+e0e2a088-1a26-4e53-aa9b-b2bf7ea3a3e7,Mid-Range,Burari,Couple,Spa|Pool|WiFi
+68e0e071-bfd4-43c8-bcb0-03c780fd6047,Mid-Range,Burari,Solo,Spa|Breakfast|Pool|WiFi
+ce363863-71a3-4828-b817-26cd2016fc03,Mid-Range,Paharganj,Business,Spa|Gym|Pool
+79aa85c3-bad3-42fb-81ba-d1f294060277,Budget,Paharganj,Couple,Spa|Gym
+4a144288-098e-478c-aa33-592884bb8933,Mid-Range,Mahipalpur,Leisure,Spa|Parking|Breakfast
+ca34e73b-9772-4f2d-b86c-74739a9d5f3e,Budget,Mahipalpur,Family,Gym|Pool
+b033da63-8c68-421b-af77-c122c153fed4,Luxury,Sector 43,Leisure,Parking|Spa
+411810e1-825c-4dfb-9b8e-4810f3a08765,Budget,Dwarka,Family,Breakfast|WiFi
+72e012d0-a00e-4428-9e6e-d0db4d4f95a7,Budget,Imt Manesar,Leisure,Parking|Pool|Breakfast
+65a5e215-19a8-4693-a00c-9ebf918fb79f,Luxury,Sector 38,Leisure,Breakfast|Gym|Spa
+76705e62-2c94-4b09-aad3-1f526dc6528f,Mid-Range,Manesar,Business,Breakfast|Spa|Pool|Parking
+7bda1897-3ce9-4b49-af25-be1cab2b00ea,Budget,Loni,Leisure,Parking|WiFi|Spa|Breakfast
+22d0faee-c7b8-4666-98b3-6bff70590b8d,Luxury,Sector 53,Family,Spa|Breakfast|Parking
+34ecef8c-eba6-4bb3-9060-b472cdd2cdc2,Luxury,Rohini,Leisure,Parking|WiFi
+3636779b-bf0d-4265-9b0d-eb8a4f800a0f,Mid-Range,New Industrial Township,Family,Breakfast|Pool|WiFi
+e1a8ca14-e844-4b91-bdf5-0dfcabfb49da,Mid-Range,Sector 57,Leisure,Breakfast|WiFi|Pool|Parking
+87a46557-8538-45ea-89cd-e09a9c232266,Mid-Range,Other,Family,Gym|WiFi|Parking
+04966e9d-b267-4aca-a5ea-5f6321f8c582,Luxury,Other,Leisure,Pool|Gym|WiFi
+8eb7018d-ddcd-44b0-ac61-81e5b81ca112,Budget,New Industrial Township,Leisure,Breakfast|Gym|Parking
+93ec9aa1-1176-41a2-b349-95979ee16250,Mid-Range,Manesar,Business,Breakfast|Gym|Parking|Pool
+9d2cf1de-2b85-4046-9a4b-8aaa74193687,Budget,Sector 38,Leisure,Gym|Spa|Parking|WiFi
+91a64f8d-f4c7-479d-b883-6d34fca6d236,Mid-Range,Burari,Leisure,Spa|WiFi|Pool|Parking
+86c5bdbf-fb9a-472c-be53-4e2031fa2c5c,Mid-Range,Imt Manesar,Business,Pool|Spa
+196b6614-8766-4298-b13a-51764677685f,Budget,Sector 43,Couple,Parking|Pool|Spa|Gym
+80dc6d0c-4150-488e-b866-f3b03de1f348,Mid-Range,Manesar,Solo,WiFi|Breakfast
+3dc54018-44a7-4196-a681-1908e0e627cb,Budget,Sector 43,Leisure,Gym|Pool
+61e2815b-b26b-4d02-967d-01f794f1a64c,Mid-Range,Paharganj,Solo,WiFi|Parking|Spa|Gym
+b72c580f-8cba-48b4-8d64-106b61c44bb4,Mid-Range,Sector 38,Business,Parking|Spa|Pool
+c7fbdb26-73c6-423a-b3bc-642d4e2745f3,Budget,Sector 53,Family,Gym|Parking|Pool|Breakfast
+2e41b5fb-593e-4675-a77f-94383da91235,Budget,New Delhi,Business,Spa|Parking|WiFi
+1e453724-8b61-4d7c-8241-ca5d9aad8039,Budget,New Delhi,Leisure,Breakfast|Parking
+d7f948e9-cccb-470b-9f96-9a61be107759,Mid-Range,Delhi,Couple,Parking|WiFi|Spa|Pool
+cf84944c-298c-4c33-b61a-3974b8662cbc,Mid-Range,Dwarka,Solo,WiFi|Pool
+1dc25d94-fbc0-4a52-bbab-a63812f6cea2,Luxury,Karol Bagh,Family,WiFi|Gym|Pool
+041537c7-0629-485a-abeb-b815b9185255,Luxury,Chhatarpur,Solo,Gym|Breakfast|Pool
+daa9c52c-a818-4d52-8468-ddc49b19e536,Mid-Range,Burari,Solo,Spa|Parking|WiFi|Gym
+b583e9dd-5ab3-4c7e-b9c0-2f2e865c6475,Budget,Mahipalpur,Family,Parking|Breakfast
+525736f9-6005-4b5f-8c52-dc5beebb8de2,Mid-Range,Loni,Business,Parking|WiFi|Breakfast
+b8010e0d-afe1-4027-a49f-130eb03fe2a0,Mid-Range,Dwarka,Couple,Parking|Gym
+65a126c8-3a35-4a98-ac76-a50d4f90da95,Mid-Range,Mahipalpur,Couple,Breakfast|Spa
+ddf3153f-149f-44d1-97c2-da138dd015e9,Luxury,Loni,Leisure,Gym|WiFi
+6eadb203-202b-4559-8946-bb4f03e97bdc,Mid-Range,New Delhi,Leisure,Pool|Parking|WiFi|Breakfast
+55c2287a-e9d9-4f87-83bb-911ac4657a7d,Mid-Range,Paharganj,Leisure,Pool|Spa|Gym|WiFi
+1e8bb5bf-c231-4228-9bd8-f30892490c7b,Mid-Range,Sector 43,Solo,Gym|Spa|Breakfast|Parking
+ed5883f0-b639-44de-9169-ab62246c1f3d,Mid-Range,Gurugram,Couple,WiFi|Spa|Breakfast
+6f0e0fa4-7334-45dc-a61b-3fcc0e68a21b,Mid-Range,Delhi,Leisure,Gym|Breakfast
+80259426-d3cf-4b31-b56b-6a63a2659eca,Mid-Range,Delhi,Leisure,WiFi|Breakfast|Gym
+bed72a28-07a8-4027-8bbf-ba793f4b02ad,Budget,Chhatarpur,Family,Breakfast|Spa|Pool|Gym
+32f7e87a-c088-483a-b2db-b721f6a05a50,Mid-Range,Karol Bagh,Family,WiFi|Pool|Parking
+c5bd2261-ff97-41a5-bbeb-9707f4f4d3f3,Budget,Rohini,Leisure,Pool|WiFi
+0af1107b-4a09-41d8-9480-e5b75be1b60a,Budget,Paharganj,Couple,Pool|Breakfast
+ced3a408-9538-4303-95e3-17c95bc30f30,Luxury,Loni,Business,Spa|Pool|Breakfast
+a760bd2e-5436-4a32-b46d-1dd6f5e01d07,Budget,Delhi,Couple,Spa|Parking|Breakfast|WiFi
+d041431a-db88-43c7-be90-50d8542de246,Luxury,Paschim Vihar,Leisure,Gym|WiFi|Pool
+3bcb1f30-e174-405b-81cf-bf039e58daea,Budget,Delhi,Leisure,Spa|Gym
+66a67190-9fa5-407b-ac61-696c4bb437c5,Budget,Imt Manesar,Solo,Gym|Breakfast|WiFi
+8dcc9b3f-c74e-4abb-ad65-c9df52884d52,Mid-Range,Manesar,Family,Spa|Parking|Gym|Pool
+bcf12c8a-5322-4638-a1f7-faa5306e61bd,Luxury,Chhatarpur,Couple,Spa|Gym
+da10b899-34dc-4f84-acd1-88995f70b1dc,Mid-Range,Sector 38,Leisure,Breakfast|Gym|Pool|WiFi
+8f3106ad-15fe-42ea-9dc2-e0eb57b89ed0,Budget,Dwarka,Business,Gym|Spa
+b134b6a1-e2ff-48a1-83ff-2eaa26fdaa43,Budget,Loni,Family,Pool|Spa|Breakfast|Parking
+1af23451-feb0-4e96-82d9-a935334f3015,Mid-Range,Sector 43,Business,Parking|Gym
+6a492d74-4686-4592-bcf4-313953b5c63b,Mid-Range,Delhi,Family,Breakfast|Pool|Parking|Gym
+fd8401ef-0d70-4bc5-9ee8-7622fe1e587b,Mid-Range,Gurugram,Couple,WiFi|Gym|Spa|Parking
+dc346e81-4cdc-4433-8e45-384021162828,Mid-Range,Other,Leisure,Pool|Parking|Breakfast
+ba0e3106-dc43-4f9f-8d3f-00f693dc5b97,Luxury,Chhatarpur,Family,Parking|Pool
+30829bf5-f40b-457a-86c5-89fe7f05416d,Budget,Loni,Leisure,Gym|Breakfast|Parking|Pool
+ecbbf13a-d26a-4cf1-8656-77e40c28cc5f,Mid-Range,Imt Manesar,Family,Parking|Spa|Pool
+3faee578-3127-4324-b492-e83e53c63717,Mid-Range,Rohini,Family,Gym|Breakfast|Spa|Pool
+e9b3621e-7a05-431a-9cff-76b2b87199d9,Budget,New Delhi,Family,Pool|Parking
+dece36fe-4865-4a57-8785-393cdb00c453,Mid-Range,Gurugram,Leisure,Breakfast|Parking|WiFi
+74f70620-34a1-4166-a393-e1c017706639,Luxury,Sector 38,Business,Breakfast|Gym
+54d8e14f-c122-4ab2-a323-e8044ccd3ef3,Luxury,Delhi,Leisure,WiFi|Pool|Parking
+b29fbee8-b0b6-4b83-a913-932db256cf7e,Mid-Range,Paharganj,Couple,Parking|WiFi|Gym
+1eda1fc9-ec1f-4438-91e0-0e0d7afcd2c6,Budget,Karol Bagh,Family,Gym|Pool
+03cecda4-6139-4f4b-a267-5275a0639de2,Mid-Range,Karol Bagh,Solo,Pool|Parking|Spa|Breakfast
+13c3bf0b-7c39-455b-af69-f143982417e9,Luxury,Sector 43,Business,Breakfast|Parking|Gym
+9dfd85dd-d853-4ffa-9146-7fa2af33e4dc,Luxury,Loni,Family,Parking|Pool|Breakfast
+2be6d32d-a9c7-4bb0-bfb6-feddfe94bae4,Budget,Dwarka,Couple,Gym|WiFi
+17cdec70-983e-4844-9227-1a1bdf139e99,Mid-Range,New Industrial Township,Business,Parking|WiFi
+2e013040-7377-4a41-a1e0-b050fbc473e8,Mid-Range,Burari,Business,Gym|Spa|Breakfast
+02cd8ffc-6de4-4740-8dea-9b9ea5454fbf,Budget,Dwarka,Leisure,Pool|Gym|Breakfast|WiFi
+7a4335dc-4eb8-4e5c-a09a-0eb6bde7cd6a,Mid-Range,Other,Leisure,WiFi|Spa|Breakfast
+61c13efb-3738-4fa5-b53d-a79aa94e68a4,Luxury,Mahipalpur,Solo,Breakfast|Pool|Gym
+7a7ec166-b9cd-4903-89dc-a3aaae0f24dc,Mid-Range,Loni,Couple,Gym|WiFi|Breakfast|Pool
+a48b4e1a-0b67-48e8-87a5-3fcc4de5a940,Mid-Range,Paharganj,Solo,Gym|Spa|Breakfast|Pool
+c354fe00-829a-4e48-9f25-51cd2c0c6865,Budget,Chhatarpur,Leisure,Pool|Breakfast|Parking
+3f589b54-ae41-467d-9d40-0084749e3124,Budget,Sector 53,Leisure,WiFi|Spa|Parking|Breakfast
+24df5f0b-3adc-4152-98b7-1c96e4a4c01c,Luxury,Manesar,Couple,Parking|Breakfast|WiFi|Spa
+db2d30f6-f673-4689-bfb7-8e1da5b10d5c,Mid-Range,Loni,Family,Breakfast|Gym
+f0354a24-35d4-4982-bf22-1a3894c548be,Luxury,Sector 38,Family,Breakfast|Spa|Pool|Gym
+07f86d75-5b1d-4fb3-9a08-a4161796b0dd,Budget,Manesar,Family,Gym|Parking|Breakfast|WiFi
+382d10c6-2788-4e4b-b574-dd7d9d2e3a12,Budget,Sector 53,Leisure,Parking|Breakfast|WiFi|Pool
+b8414774-9ef0-4427-95ae-3f9320a9a5d8,Mid-Range,Rohini,Leisure,Parking|Breakfast|Spa|Pool
+f5cf4577-13a8-4529-beda-83b94c480c0d,Mid-Range,Rohini,Business,WiFi|Breakfast
+71ee1fac-3408-4bbd-82a4-39a7bc52f366,Budget,Mahipalpur,Leisure,Parking|Pool
+fc8729f9-92d5-4043-a676-685846368626,Luxury,Karol Bagh,Business,Gym|Spa|Pool
+68ce2516-f8ee-48e5-926b-148b95cf1a09,Budget,Paharganj,Leisure,WiFi|Breakfast|Spa|Parking
+651edfcc-4430-42ef-bd9c-5186befd50e6,Luxury,New Delhi,Leisure,Spa|Pool|Breakfast
+63a38a77-a285-445a-9d3a-cb543001973f,Mid-Range,Imt Manesar,Leisure,Pool|Spa
+ea7573c0-128a-4af1-8c36-ded7063c29a5,Mid-Range,Delhi,Solo,Gym|Breakfast|WiFi
+f5942d67-360f-49fc-a0c1-386fc1463d8f,Mid-Range,Sector 38,Leisure,Breakfast|Gym|Pool
+1de73627-26f9-49b7-ba51-5a65ab47218a,Budget,Imt Manesar,Leisure,Spa|Breakfast|Parking
+f5bf1a80-69b7-4dd9-802b-53e0b8d39f96,Budget,Mahipalpur,Business,Gym|Parking|Pool|Spa
+45122407-4733-4650-82d2-bb8bfbddf7a7,Luxury,Loni,Family,Parking|WiFi
+b1c6d5cf-4dfe-46b4-b16c-65bd1a03de93,Mid-Range,Sector 57,Family,Spa|WiFi|Parking
+7ac7a3f1-3380-4976-b08e-1eb7b8f839c1,Budget,Mahipalpur,Business,Breakfast|Spa|Parking
+eb872ab1-a119-406f-b7a0-3e1c36810095,Mid-Range,Burari,Family,Gym|WiFi
+0c03e811-facf-4934-873c-aa07faaaddfd,Budget,Imt Manesar,Family,Spa|Gym|Parking
+2f7ecbcc-0734-4fb0-ad81-f8fb29e82df9,Budget,Loni,Family,Gym|WiFi|Parking
+e92b61fc-3670-4c95-a006-321d81f13180,Mid-Range,Karol Bagh,Family,Parking|WiFi|Spa|Gym
+2ab0fc2b-0055-4ff8-9df4-f51eb198d6ae,Budget,Shahdara,Leisure,Gym|Breakfast
+e6033133-4cb2-4a10-96f9-2321bc7c0a9d,Budget,Sector 57,Leisure,Spa|Pool|WiFi
+23ea755a-7457-4725-a0d1-1093d08975c7,Mid-Range,Loni,Business,Breakfast|Pool|Spa|WiFi
+f5ba205b-2117-436b-bee2-e4238744efda,Budget,Paharganj,Solo,Gym|Parking
+f3b43db0-5c2a-482b-9e39-500e3f8745a2,Mid-Range,Sector 57,Business,Breakfast|Gym|Pool
+53aed743-1c5d-4217-a2c2-fdd2f48d8974,Mid-Range,Rohini,Business,WiFi|Breakfast|Parking
+7ff32979-1033-4916-bd03-ffe254652729,Mid-Range,Dwarka,Business,Pool|Breakfast
+166e934e-0833-4cbe-b689-7c9bb50018b2,Mid-Range,New Industrial Township,Leisure,Spa|Gym|Pool
+207dc878-af9a-4a0f-a7ed-1d1d8d18db83,Mid-Range,Karol Bagh,Solo,Breakfast|Pool
+96f5067d-aa5f-475b-8780-85cf3a50abd7,Budget,Sector 38,Leisure,Spa|Gym
+458dd05d-73c8-4841-8526-2b29e409bee9,Budget,New Industrial Township,Family,Gym|WiFi|Pool|Spa
+3337218e-50a7-4c4a-ab59-1d7fe5093062,Mid-Range,Mahipalpur,Leisure,Gym|Breakfast
+84d577f0-0d17-49d1-b446-3416a91efd09,Luxury,Loni,Family,WiFi|Pool
+23f542fe-1bd2-4578-b8e2-65b6d8b3ab47,Luxury,New Delhi,Leisure,Breakfast|WiFi|Spa|Parking
+a9afaae9-2bcd-48e7-a8a0-33304286940d,Mid-Range,Shahdara,Business,Pool|Breakfast|Parking
+332f5b91-95fd-4852-91a8-c892da3964ea,Budget,Paschim Vihar,Leisure,Breakfast|WiFi
+0c44bd8e-682a-458c-85ec-ae0a0fb6b126,Mid-Range,Sector 57,Solo,Spa|WiFi
+194ac56e-faa0-421e-b86a-1b22acdefec3,Mid-Range,Paschim Vihar,Leisure,Breakfast|Spa
+c0444842-0038-4486-8083-9225fe221ee9,Mid-Range,New Industrial Township,Leisure,Parking|Gym|Breakfast
+cac69531-3fe2-4240-b447-f40b24bc4a35,Budget,Imt Manesar,Leisure,Spa|Gym|Pool
+55d09abd-b474-4789-8049-d69742a7d8cf,Budget,Sector 43,Family,Spa|Gym|Parking
+f56eb824-35c5-449f-b46c-bde115164e5f,Mid-Range,Delhi,Couple,Pool|Breakfast
+1fd762d5-634e-4767-8ce2-5d93f56bb72e,Luxury,Manesar,Business,Parking|Spa
+46731728-72bb-464d-8b6f-3f40a54ec265,Mid-Range,Delhi,Leisure,Gym|Breakfast|WiFi|Pool
+bcdf37c0-ce2c-47f3-a896-338831cb24ce,Mid-Range,Paschim Vihar,Business,Parking|Pool|Gym
+3ad5f581-21d1-4985-9e3b-adaf3310cde5,Budget,Paschim Vihar,Business,Parking|WiFi|Gym
+04ae7166-ac17-4e7e-bcba-462b17039d1a,Budget,Karol Bagh,Family,Gym|Breakfast
+41c9bb71-ae25-4344-9415-99edf09ba155,Luxury,Delhi,Family,Gym|Breakfast|Parking|Spa
+70d28ff3-7464-4ebf-9436-20360ad4be3a,Mid-Range,Mahipalpur,Couple,Pool|Parking|Gym
+ae129226-ef92-4c89-8b81-41c4eedb9157,Budget,Paschim Vihar,Solo,Breakfast|Spa|Parking
+a4c162b0-24f7-4ce1-84f9-1fe2aad4cf70,Budget,Delhi,Family,Spa|Parking|WiFi|Breakfast
+2b966c97-5c0b-4641-9e2f-8d6c4d45b21a,Mid-Range,Gurugram,Couple,Breakfast|Parking
+457a6ef6-dccf-4690-8b90-a68c1b23f159,Budget,Sector 57,Family,Parking|WiFi|Breakfast|Pool
+34bd8122-1e89-413e-bfe5-a024eb316aa3,Mid-Range,Delhi,Business,Gym|Pool|Spa|Parking
+cf301b9f-734f-4ade-91c7-e3d5758a9429,Luxury,Delhi,Business,Parking|Pool|Spa
+96285234-7b8b-4271-a004-f2685a6b28f8,Luxury,New Delhi,Business,Pool|Spa|Parking|Gym
+5b46bf8b-69dd-42b2-9a1d-733565d4c6ed,Luxury,Burari,Leisure,Pool|Breakfast
+dbe3caa2-86aa-4101-8ea9-2559a2ed2a31,Mid-Range,Shahdara,Business,Pool|Gym
+795cf852-2ad8-4f0f-8271-d3c308611c9e,Luxury,Gurugram,Leisure,Gym|WiFi|Spa|Breakfast
+52fd54c6-74a2-407c-b854-421734934b1c,Budget,Paschim Vihar,Business,Parking|Spa|Gym|WiFi
+2f806021-fd6b-4a64-9fdd-14920bd588ac,Budget,Manesar,Solo,Pool|Parking
+0506d485-7aee-4f30-ad9a-f8d85fcd7a57,Mid-Range,Sector 57,Leisure,Parking|Gym|Pool
+c7565d13-3376-4a53-9caa-6f4112a40654,Luxury,Dwarka,Business,WiFi|Spa
+f98d9294-c736-4097-8d96-269805417b0b,Mid-Range,Chhatarpur,Business,Parking|Breakfast|WiFi
+dd392445-ef82-4dee-b950-99f40b107932,Mid-Range,Mahipalpur,Couple,Parking|Breakfast
+b76dce90-8f4c-4ad5-9c08-2a263df6b7b4,Mid-Range,Sector 43,Business,WiFi|Pool|Gym|Breakfast
+4004fe9d-4814-44ec-8e5b-3f30d145c6e9,Budget,Paschim Vihar,Business,Spa|WiFi
+c656d157-e4b8-4385-ab05-9cc1b90ecdd1,Budget,Sector 53,Business,Spa|WiFi
+6207a0e2-99e7-4206-9936-fe77c15206b6,Budget,Other,Couple,Parking|Breakfast
+f5b0e28f-2141-4b36-8dbf-094149fab893,Mid-Range,Dwarka,Business,Spa|Parking|Gym
+97c3bf4b-8f18-4558-9858-b91b720889e6,Luxury,Loni,Leisure,Parking|Spa|Pool|Breakfast
+a6e59606-7080-4ed7-870e-f90460f574cb,Budget,Paharganj,Business,Breakfast|Spa
+c921d427-db9d-454b-911c-fe39aea2d108,Luxury,Chhatarpur,Family,WiFi|Gym|Spa|Pool
+e3f92629-86d1-4bb9-b1a0-5d51557eb1de,Mid-Range,Shahdara,Business,Parking|Gym|Breakfast|WiFi
+9fdca396-f59a-4286-a967-77f531d502f4,Budget,Chhatarpur,Business,Gym|Spa|Breakfast
+7b587b1f-d984-4d7f-9b37-a5530cb3fdb0,Luxury,Imt Manesar,Solo,Spa|Pool
+3bb5864c-4314-489f-9ead-9c9b84ac9761,Budget,Burari,Leisure,Breakfast|Pool|Spa|Gym
+827b5cb7-f20b-458f-b0d2-9644aeb72ee1,Budget,New Industrial Township,Leisure,WiFi|Parking
+58e945db-c22b-4ca2-b3f7-6b79fa886786,Budget,Manesar,Family,WiFi|Gym|Breakfast|Parking
+3830deb9-ec37-48eb-9f3f-c6ed3f1424eb,Budget,Sector 43,Business,Breakfast|Gym|Spa
+82db62f3-8d93-4579-a1b9-4a9619dd196c,Budget,Burari,Solo,Breakfast|Spa|Gym|Parking
+56b7ce40-7c62-4037-8413-8716fb7bf16a,Mid-Range,New Delhi,Business,Parking|Spa|WiFi|Gym
+bd124241-ad6a-42e6-a807-775f0dd0ec36,Budget,Mahipalpur,Solo,Parking|Breakfast
+c566efe2-5602-4dba-99e2-edc041a57376,Budget,Chhatarpur,Leisure,Spa|Parking|WiFi
+871384d1-9ceb-436d-966e-578020471ae2,Mid-Range,Other,Business,Parking|Gym|Spa|WiFi
+e38ce0cc-66fe-4cd7-99fd-c44b5c0f64b6,Mid-Range,Paschim Vihar,Business,Pool|Spa|Parking|WiFi
+ad2215a1-cb30-4d62-8a05-fe44be1b71b4,Budget,Sector 43,Business,Breakfast|Gym|WiFi
+d269043f-0de5-4682-af3a-13873afc6541,Budget,Karol Bagh,Family,Gym|Parking|Pool|WiFi
+1f983e55-ad30-4248-9ccf-8bcbbd2ccf44,Luxury,Burari,Family,Breakfast|Gym
+b0ce4d12-f46b-4008-a353-40591ea16842,Mid-Range,Mahipalpur,Leisure,Spa|Breakfast|WiFi|Pool
+ea6c87e7-9ff3-499e-9b43-76920c142059,Budget,Loni,Business,Gym|Breakfast
+ff77ecd5-50c5-42b0-966e-919c224a968e,Mid-Range,Paharganj,Leisure,Spa|Parking|WiFi
+b93e07fb-a19b-4087-bac1-8342e93cc635,Mid-Range,Mahipalpur,Business,Gym|Pool|Spa|Breakfast
+e23adfcb-b9c6-4a73-ab24-97ecfe075703,Budget,Paschim Vihar,Business,Gym|Breakfast
+87654aea-2c11-4e30-8a1c-342ae24b516e,Budget,Burari,Business,Spa|Breakfast|Parking|Pool
+f82ae96a-354e-41a6-887d-fcf4aff4fc7a,Mid-Range,Loni,Leisure,Pool|Breakfast|Gym
+57cb4eb3-a6fe-4eb1-941a-bc475839dadd,Mid-Range,Imt Manesar,Leisure,Breakfast|Gym
+552290b2-6fea-45a3-b6da-3cd890db5705,Mid-Range,Karol Bagh,Family,Spa|Gym|Parking
+3863a866-2dd2-4fb7-a145-62b1b8d138ce,Budget,Delhi,Leisure,Parking|Gym|Pool
+8985c615-e0d8-4321-a745-c708e1781a52,Mid-Range,Sector 43,Couple,WiFi|Spa
+1c6dcd4b-cc03-447b-ac05-5791b9d9dec8,Mid-Range,Shahdara,Couple,WiFi|Gym|Spa
+a9c038a2-f7bf-4920-b650-58303b6587ef,Mid-Range,New Delhi,Leisure,WiFi|Pool|Breakfast
+f8eda1ac-1d75-4fc0-a655-b54438376776,Mid-Range,Loni,Family,Breakfast|WiFi
+12f2ea25-114a-4349-990c-8c92fa22a883,Budget,Rohini,Leisure,Pool|Breakfast
+d38383b2-9bec-4ca0-ab7b-b613abd919aa,Budget,New Delhi,Leisure,Pool|WiFi|Breakfast|Spa
+ef4dcdbf-6279-4377-ab12-d0440da5ee73,Mid-Range,Paschim Vihar,Leisure,Gym|Pool
+a9009728-6e3d-4a89-ae8d-049611a27506,Mid-Range,New Delhi,Business,Breakfast|Parking
+5fa34112-2c97-41af-ad57-7fed282faa2f,Budget,Paschim Vihar,Business,WiFi|Parking|Spa|Gym
+784b7665-0fb3-4ba9-a25c-7176edbf53d6,Budget,Paschim Vihar,Couple,Pool|WiFi
+f5751e88-b910-41e6-befa-1b4d1dcac279,Budget,Paharganj,Couple,Breakfast|Parking|Pool|Spa
+4f280e39-14d2-4182-9d9c-a4e9e5403e4a,Budget,Karol Bagh,Solo,Breakfast|Spa|Parking|WiFi
+9b766003-893a-4691-9682-9d5691b3dd9b,Budget,Sector 57,Business,Parking|WiFi|Breakfast
+9cd5aa8f-a809-42ae-ac19-600bb6c0457a,Budget,Burari,Business,Breakfast|Spa|WiFi
+c0111cd9-b6cc-44a8-8933-5efa78d66b8f,Luxury,Manesar,Solo,WiFi|Breakfast|Parking
+8d8756a8-e1c8-4ed0-b1c3-c1c5b674b319,Budget,Imt Manesar,Business,WiFi|Pool|Spa
+4f301727-b9d1-44c4-b444-5ff5ff210e99,Luxury,Chhatarpur,Business,Spa|Parking
+fe7da8b0-1239-46b7-a2ad-4ab3770ed4a5,Budget,Gurugram,Couple,Parking|Spa|WiFi
+9676e8bc-632c-4b7e-b2c5-d428de34d430,Budget,Paschim Vihar,Family,Pool|Gym|WiFi
+ced5fcde-054c-4083-a4b6-088c20e253a8,Luxury,Rohini,Couple,Parking|WiFi
+bae66e6b-de0a-41e7-979a-5d2e564dd878,Mid-Range,Loni,Family,Breakfast|Gym|Pool
+198493ce-66fd-4baa-8ff4-cc9c725d4a5c,Luxury,Dwarka,Business,Breakfast|Pool
+5f6a9512-7f91-4787-bffd-78ece886fd34,Mid-Range,Shahdara,Business,Breakfast|Pool|Parking|Gym
+a857b624-aa6d-4d23-848e-0854feca3530,Budget,Karol Bagh,Business,WiFi|Parking|Gym
+87f0ecc7-85fa-4c57-b1e6-16df2328398b,Budget,Manesar,Couple,Gym|Spa|WiFi
+4929c355-de1e-42a4-bdd3-99932b90afa8,Mid-Range,Manesar,Leisure,Gym|Parking|WiFi|Pool
+36d4fdc6-1585-4b14-aecf-d1ff7ac61b44,Mid-Range,Chhatarpur,Couple,Gym|WiFi
+a649b0db-a1ba-42fa-b5e2-a45ef8a2a956,Mid-Range,Sector 53,Business,Parking|Gym|Spa|Pool
+b7c995c0-1473-46e8-a67a-6ff45480c56a,Budget,Paschim Vihar,Business,Spa|Parking
+bfbc632e-78c4-4bef-aa8c-bbeb4c7dea77,Budget,Gurugram,Leisure,WiFi|Gym|Breakfast|Pool
+228552c7-e5f7-4555-b938-51307f8a312a,Budget,Chhatarpur,Business,Gym|Spa|Pool|Breakfast
+2314dc04-c3fa-470b-b2dd-93e93147478f,Mid-Range,Sector 38,Leisure,Pool|Spa
+80a19fee-6296-489b-915e-53a73244dbcd,Budget,Rohini,Leisure,Spa|Pool|Breakfast
+c1befcaf-2694-481b-959f-5f8924d0ac4d,Budget,Sector 53,Leisure,Spa|Parking
+78fcf018-9183-41d7-9688-fc52b282a563,Budget,Shahdara,Business,Gym|Breakfast|Spa
+c5e474f7-3636-4849-b3d3-8cf799e0aae0,Mid-Range,Sector 43,Couple,Breakfast|Parking
+2943ff2a-fc27-491d-8ed6-90d205463a5a,Mid-Range,Delhi,Leisure,Pool|WiFi|Spa|Breakfast
+db8bc94a-d032-4e3e-99f0-bcf22db8c318,Budget,Imt Manesar,Couple,Pool|WiFi
+4416fb8d-fcc4-498f-b012-b08184a46cfa,Budget,Sector 57,Couple,Gym|Spa
+4ca45bec-c980-4b8d-9812-94fb8dba507b,Budget,Paharganj,Leisure,Gym|Parking|Breakfast
+c58e514a-380d-41f2-aabe-9ee231bf0f93,Budget,Sector 43,Leisure,Pool|Gym
+f2a55090-b341-462c-8806-6dc06465e2fd,Budget,Burari,Family,Parking|Pool
+629db136-afe1-42cc-9ccd-e2e1686202c0,Budget,Rohini,Family,Pool|Breakfast|Gym|WiFi
+6227d18c-fffd-46af-a805-564f69455b2c,Mid-Range,Sector 57,Business,Gym|Spa|Pool
+bafbed3a-9266-4384-bc0e-0553b4a41863,Luxury,Paharganj,Family,Pool|Parking
+b8da929e-e242-4a81-9eba-b2c59e708a5f,Budget,Shahdara,Leisure,Pool|Breakfast|Gym|Parking
+9f6c3dd8-287c-4a9f-a258-df6ad493e4cb,Luxury,Mahipalpur,Couple,Breakfast|Pool
+8f1762e4-4214-4379-8b31-5171b9c49e7d,Budget,Sector 38,Business,Breakfast|Parking
+c1c69497-1c9c-4d55-8049-d2b1b3019f84,Mid-Range,Delhi,Family,Parking|Pool
+ffe87a26-8a7d-4231-a018-6400ae34b580,Budget,Sector 38,Family,Gym|Breakfast|Pool
+26d12fe2-c931-449f-8654-151a37bd3dc4,Mid-Range,Rohini,Couple,WiFi|Gym|Parking|Spa
+2de69606-dab0-4c83-b42d-ba0269477c0d,Budget,Dwarka,Leisure,WiFi|Gym|Breakfast|Spa
+11ce6edf-4ec6-48ca-8f2e-b10a9fbd4a97,Mid-Range,Dwarka,Family,WiFi|Spa|Parking|Pool
+f8576180-4ffb-43bf-a615-44c075fbfd6d,Luxury,Paharganj,Leisure,Spa|Gym
+e72002e4-0218-40b9-b21d-0dd84a69862b,Budget,Mahipalpur,Leisure,Breakfast|Gym
+1590db0b-2f36-402e-8d93-9ceb95e69be9,Luxury,Mahipalpur,Leisure,Spa|Gym|WiFi|Parking
+b8c8a580-1cc5-43ed-babf-623cb3486479,Mid-Range,Paschim Vihar,Business,Breakfast|WiFi
+9478040a-4e3f-4768-a40c-36a0b942c354,Luxury,Mahipalpur,Solo,Breakfast|Parking
+11f5ae1b-7c55-4fd6-8758-e9b2c00a5e9f,Mid-Range,Sector 38,Solo,Spa|WiFi|Gym|Breakfast
+e307df0d-5ec2-4ca9-983a-6b3409902228,Mid-Range,Karol Bagh,Leisure,Parking|Gym
+57b4f186-e139-405c-9892-4401b942c8af,Mid-Range,Sector 38,Couple,Pool|Spa|Breakfast|Gym
+1287d6a8-9a66-49d2-8893-e1407c8790e6,Mid-Range,Sector 38,Business,Gym|WiFi
+59a13ea8-1610-44e7-9a0a-5b44b0b5cc1d,Luxury,Delhi,Couple,Gym|Breakfast|WiFi
+b96885b7-191c-4542-91ca-a1aa4fdf102c,Mid-Range,Gurugram,Business,Spa|Gym
+b3c28637-c7eb-4de6-8f99-93e9acfc761e,Budget,Delhi,Family,Breakfast|WiFi
+b03a33a6-306e-44c0-97f4-823c91c99d5c,Budget,Loni,Business,Pool|Parking
+9f7ab8dc-b46a-4d0d-9171-dddf5e5e4f7d,Luxury,Burari,Solo,Spa|Pool
+5c8a0ae5-9157-49f1-bc4b-e32de395f59b,Luxury,Delhi,Solo,Gym|Spa
+2fde7347-612a-422b-bbb6-02b68e5dd702,Budget,Sector 38,Business,Pool|Gym

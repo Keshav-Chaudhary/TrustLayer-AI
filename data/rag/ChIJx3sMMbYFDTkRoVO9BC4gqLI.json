@@ -1,0 +1,53 @@
+{
+  "hotel_id": "ChIJx3sMMbYFDTkRoVO9BC4gqLI",
+  "hotel_name": "Hotel O A K Residency",
+  "area": "Virender Nagar",
+  "budget_category": "Mid-Range",
+  "rating": 4.3,
+  "trust_score": 0.7495137277820987,
+  "travel_purpose_tags": [
+    "Leisure",
+    "Business"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "rich",
+    "review_count": 5,
+    "positive_snippet_count": 3,
+    "negative_snippet_count": 2,
+    "positive_theme_count": 4,
+    "negative_theme_count": 1
+  },
+  "aspect_scores": {
+    "cleanliness": 0.6560760199305756,
+    "service": 0.9997207522392272,
+    "location": 0.9994937181472778,
+    "value_for_money": 0.0003161607019137,
+    "staff_behavior": 0.9996808767318726
+  },
+  "recommendation_features": {
+    "popularity_score": 0.336139675368766,
+    "rating_score": 4.3,
+    "sentiment_score": 0.7935633694694844
+  },
+  "review_evidence": {
+    "positive_snippets": [
+      "Booked directly from the hotel for \u20b91200 for 10 hours and checked in easily, room was clean but the bedsheet and blanket was kind of dirty with some stains, otherwise it was a comfy bed.\n\nwashroom was very clean and got geyser and shower as well, there was nothing except tv , bed and ac.\n\noverall it was a good place, would visit again.",
+      "All friends staying at this hotel rooms service all are good \ud83d\udc4d",
+      "Nice Hotel and also Staff."
+    ],
+    "negative_snippets": [
+      "Dont waste your money\nAlot of bedbugs\nStinking smell\nRusted everycorner\nThis is the bad hotel ever in my life please don't waste your money",
+      "Clean hotel, friendly team, great location. Wi-Fi good, breakfast average. Slight room wear, but four-star experience. Will stay again!"
+    ]
+  },
+  "review_summary": "Based on 5 reviews.",
+  "positive_themes": {
+    "clean_rooms": 2,
+    "friendly_staff": 2,
+    "good_location": 1,
+    "good_food": 1
+  },
+  "negative_themes": {
+    "dirty_rooms": 2
+  }
+}

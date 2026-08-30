@@ -1,0 +1,48 @@
+{
+  "hotel_id": "ChIJHR7ZdDj9DDkRSJTP7ahdEpY",
+  "hotel_name": "Hotel O By Oyo Kiiza Stay House",
+  "area": "GTB Nagar",
+  "budget_category": "Budget",
+  "rating": 2.0,
+  "trust_score": 0.2019145311897709,
+  "travel_purpose_tags": [
+    "Budget"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "moderate",
+    "review_count": 5,
+    "positive_snippet_count": 0,
+    "negative_snippet_count": 3,
+    "positive_theme_count": 2,
+    "negative_theme_count": 2
+  },
+  "aspect_scores": {
+    "cleanliness": 0.0002754072047536,
+    "service": 0.000251630495768,
+    "location": 0.5,
+    "value_for_money": 0.0007398711265219,
+    "staff_behavior": 0.0002547791809774
+  },
+  "recommendation_features": {
+    "popularity_score": 0.3885929327977167,
+    "rating_score": 2.0,
+    "sentiment_score": 0.0005458343483041
+  },
+  "review_evidence": {
+    "positive_snippets": [],
+    "negative_snippets": [
+      "We booked a room at this hotel, but later they told us that no rooms were available. We were left waiting at the gate, and the manager didn\u2019t even open it. Very unprofessional behavior.",
+      "Bahut bekar hotel h , very conjusted and so suffocated , not available Ac and they judged by your looks . Owner is not supportive and he discriminated family and couple .So don't go and I also want to suggest don't go through OYO because they didn't value . You will regret after booking.You will search another which is better than it.\ud83d\udc4e\ud83d\udc4e\ud83d\udc4e\ud83d\udc4e\ud83d\udc4e\ud83d\udc4e\ud83d\udc4e\ud83d\udc4e\ud83d\udc4e\ud83d\udc4e",
+      "Everything here is on the lowest possible side!!\nPeople, place, property are pathetic.\n\nRoom was stinking, used & dirty linen spread on the bed. No pillows on bed, no towels provided.\n\nHighly unprofessional behaviour from the people at the property and from OYO as well!!!\n\nWorst ever possible room condition one can get!\nLook at the pictures posted.\n\nNo water heater too. When asked for it.. the room service guy gave a immersion coil to heat the water. @OYO - Do you want someone to get electrocuted?????\n\nWhen asked to return the booking amount, OYO customer service agent blatantly refused to take up the case.\n\nPictures posted on the OYO app doesn't even match 1% with the realistic condition inside the room.\n\nSimply ruined money, time, experience and peace!!!!\n\nBe aware of this - When you are booking!!!!\n\n@OYO - Thanks for providing me this first time experience while using your service!!!\n\n@Google - Please provide options to rate in negative ranks."
+    ]
+  },
+  "review_summary": "Based on 5 reviews.",
+  "positive_themes": {
+    "great_value": 1,
+    "friendly_staff": 1
+  },
+  "negative_themes": {
+    "rude_staff": 3,
+    "dirty_rooms": 1
+  }
+}

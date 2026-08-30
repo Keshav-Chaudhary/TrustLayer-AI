@@ -1,0 +1,52 @@
+{
+  "hotel_id": "ChIJRSLL8FUZDTkRdDJEkxGactk",
+  "hotel_name": "Five Elements Hotels - Gurugram (The Claire)",
+  "area": "Sector 31",
+  "budget_category": "Mid-Range",
+  "rating": 3.8,
+  "trust_score": 0.625719596830022,
+  "travel_purpose_tags": [
+    "Budget"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "moderate",
+    "review_count": 5,
+    "positive_snippet_count": 2,
+    "negative_snippet_count": 3,
+    "positive_theme_count": 4,
+    "negative_theme_count": 1
+  },
+  "aspect_scores": {
+    "cleanliness": 0.0006230120197869,
+    "service": 0.0002961942227557,
+    "location": 0.5,
+    "value_for_money": 0.0006230120197869,
+    "staff_behavior": 0.3335885151561038
+  },
+  "recommendation_features": {
+    "popularity_score": 0.5232020688781126,
+    "rating_score": 3.8,
+    "sentiment_score": 0.4891710307798348
+  },
+  "review_evidence": {
+    "positive_snippets": [
+      "This is very better place to stay and very safe\u26a1",
+      "A nice hotel in sector 31 of Gurgaon. Since it is in a residential area, it is very quite. Nice spacious rooms and decent ambience. Staff is very cooperative and help out whenever asked for. Decent breakfast spread and food in the restaurant was ok."
+    ],
+    "negative_snippets": [
+      "I recently stayed at Five Elements Hotel, The Claire in Gurgaon, and overall, it was a pleasant experience. The room was spacious and well-maintained, with efficient air conditioning that made the stay comfortable. However, there were a couple of minor inconveniences. The hotel restaurant closed early at 9:30 PM, which forced us to order food from outside when we returned late. Additionally, there was no hot water available in the early morning, which could be a problem for guests with early flights. Despite these issues, the overall ambiance and room quality made for a comfortable stay. With a few adjustments, this could be an even better experience for future guests.",
+      "I had the unfortunate experience of booking my stay at Hotel Five Elements by Claire in Sector 31, Gurgaon, and I must say it was nothing short of disastrous. From the moment I checked in, the staff demonstrated an utter lack of professionalism and courtesy. The front desk staff and even the management team are completely untrained in basic guest services \u2013 their attitude was dismissive and disrespectful, making me feel unwelcome and ignored. The hospitality at this hotel is zero. They do not know how to speak to guests, let alone provide any form of genuine service. My complaints and requests were met with indifference or outright rudeness. It\u2019s astonishing how a place that claims to be a hospitality provider manages to be so utterly incompetent and unpleasant. I would strongly advise anyone considering this hotel to look elsewhere. Staying here was an unbelievably disappointing experience, and I would not recommend it to anyone who values basic decency or good service.",
+      "The rooms are spacious but not very clean. Things are broken inside the room. No exhaust in the washroom. Single king Size bed was joined by using two different beds. The behaviour of the staff is also not welcoming. Not worth the money."
+    ]
+  },
+  "review_summary": "Based on 5 reviews.",
+  "positive_themes": {
+    "friendly_staff": 3,
+    "good_food": 2,
+    "great_value": 2,
+    "clean_rooms": 1
+  },
+  "negative_themes": {
+    "rude_staff": 1
+  }
+}

@@ -1,0 +1,52 @@
+{
+  "hotel_id": "ChIJ1xMztXH9DDkRrZ5RpRJu8zI",
+  "hotel_name": "Hotel Worth",
+  "area": "Paharganj",
+  "budget_category": "Mid-Range",
+  "rating": 4.4,
+  "trust_score": 0.8233262605755846,
+  "travel_purpose_tags": [
+    "Leisure"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "moderate",
+    "review_count": 5,
+    "positive_snippet_count": 3,
+    "negative_snippet_count": 1,
+    "positive_theme_count": 4,
+    "negative_theme_count": 2
+  },
+  "aspect_scores": {
+    "cleanliness": 0.999574601650238,
+    "service": 0.742002185084857,
+    "location": 0.984121471643448,
+    "value_for_money": 0.4999725439120083,
+    "staff_behavior": 0.5000114359427243
+  },
+  "recommendation_features": {
+    "popularity_score": 0.6207441246058331,
+    "rating_score": 4.4,
+    "sentiment_score": 0.7935166683979332
+  },
+  "review_evidence": {
+    "positive_snippets": [
+      "I stayed at the hotel from 24th to 26th February 2026. The property is located in a prime area, easily accessible from New Delhi Railway Station and close to both New Delhi and R.K. Ashram Metro Stations. The rooms were clean and well-sanitized, meeting all expectations for a budget hotel. Its proximity to various modes of public transportation makes it a very convenient choice for travelers.",
+      "The room was very good and the service was top-notch. I really liked everything about my stay. A special mention to Supervisor Swati\u2014she was extremely cooperative and paid attention to every matter I suggested, which made the experience even better.\n\nThe only drawback was that there are quite a few bars nearby, so it was a bit noisy at night. Overall, a very good stay.",
+      "The Front Desk agent ( Mr. RABIUL RAZA) and the staff were very supportive of my issues and concerns. The service was prompt. I highly recommend this particular site as it's in a very busy and commercially situated; not too mention the hospitality of the staff"
+    ],
+    "negative_snippets": [
+      "Worst Experience at Hotel Worth, Paharganj\n\nMy name is Ankur Jaiswal. I stayed at Hotel Worth, Paharganj for 3 days in Room No. 105 and paid \u20b97,500 for the stay. I checked out today, but my experience was extremely disappointing.\n\nThe manager, Mr. Pintu, behaved very rudely and unprofessionally. His attitude towards guests was disrespectful and unacceptable. Instead of providing proper customer service, his behavior was arrogant and careless.\n\nAs a paying guest, I expected basic courtesy and professionalism, but unfortunately, the service quality was very poor. I would not recommend this hotel to anyone unless the management improves their staff behavior and customer handling.\n\nIf the hotel management needs any clarification regarding my stay, they may contact me."
+    ]
+  },
+  "review_summary": "Based on 5 reviews.",
+  "positive_themes": {
+    "clean_rooms": 1,
+    "good_location": 3,
+    "friendly_staff": 2,
+    "great_value": 1
+  },
+  "negative_themes": {
+    "noise": 2,
+    "rude_staff": 1
+  }
+}

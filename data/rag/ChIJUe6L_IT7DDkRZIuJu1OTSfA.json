@@ -1,0 +1,53 @@
+{
+  "hotel_id": "ChIJUe6L_IT7DDkRZIuJu1OTSfA",
+  "hotel_name": "Green Palms Hotel",
+  "area": "Sahibabad",
+  "budget_category": "Mid-Range",
+  "rating": 4.1,
+  "trust_score": 0.6978699363576208,
+  "travel_purpose_tags": [
+    "Family"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "rich",
+    "review_count": 5,
+    "positive_snippet_count": 3,
+    "negative_snippet_count": 2,
+    "positive_theme_count": 5,
+    "negative_theme_count": 1
+  },
+  "aspect_scores": {
+    "cleanliness": 0.795283854007721,
+    "service": 0.4483000543041271,
+    "location": 0.0006335506914183,
+    "value_for_money": 0.8960908949375153,
+    "staff_behavior": 0.59752222217503
+  },
+  "recommendation_features": {
+    "popularity_score": 0.5707547309703416,
+    "rating_score": 4.1,
+    "sentiment_score": 0.5586155816970859
+  },
+  "review_evidence": {
+    "positive_snippets": [
+      "I would have gladly given this property and its staff a full five-star rating; however, due to an unpleasant experience with one member of the Front Office Executive (FOE) team, I am holding back one star.\nThe hotel is located in an excellent area, with two metro stations nearby and a mall just behind the property, which is a great advantage for visitors looking to explore during their free time. The staff is generally approachable, and the rooms offer good value for money. While there is some scope for improvement, it is quite negligible.\nThe hotel does have parking facilities; however, the entry is chargeable as it is through the mall. This applies even to guests or visitors coming only for pickup or drop-off, which is an area the management should look into.\nI would especially like to mention a few staff members for their exceptional service. Mr. Ravindra Singh (FOM) was extremely cordial, both during my check-in and when I contacted him earlier for the booking. Similarly, Mr. Himanshu Bisht from the night FOE team was also very polite and helpful. Mr. Ajay and Mr. Gajendra from housekeeping deserve appreciation for their support. A special mention as well to the restaurant captain, Mr. Madan, who is very humble and attentive, ensuring all food-related needs are well taken care of.\nOverall, it was a very good experience in Delhi after a long time.",
+      "The hotel is situated in the backside of the Pacific Mall. The rooms are good and clean. The food is nice and tasty however the biggest issue is getting there. Taxis aren't allowed to enter the mall backside only private vehicles can and hence it is difficult to get there with luggage.\nThe staff although knows this but won't send a bellboy or staff to carry luggage. It was difficult to carry luggage and small kids upto the reception together. The staff won't even guide you about the taxi or uber not allowed to enter the mall entrance or difficulty getting luggage inside.\nThe price is cheaper than other hotels around and mall nearby allows shoping easier.",
+      "We hosted marriage events (Sagan and sangeet) at SK ceremony and many guest stayed in the hotel. The experience was amazing.  A big thanks to Mr. ZAFAR who was always making sure that our guests are comfortable.\nThe food quality in restaurant and in banquet was also very good, almost all the guest appreciated the food quality."
+    ],
+    "negative_snippets": [
+      "We recently had a function of marriage in sk ceremony which is tieup with green plam, it was a digester and a biggest mistake. The staff is not at all experienced they created the blunder and vanished from the venue. Relative has to server by there own. And the cook also did not listen what changes in food we discussed earlier.\nWaiters are very slow at chat counters.\nCleaners are not working at all they were just gathering at corner of hall. There were no management and even Manager was not present at venue.",
+      "If you need an emergency stay and you have a flight from Hindon Airport, this is not the right location to stay. You have got better options in Gaziabad.\nRooms were quiet big and neat,and the only positive about this hotel.\nLack of service . No extra options in the breakfast.\nWonder how Make My Trip and go ibibo have tied up here."
+    ]
+  },
+  "review_summary": "Based on 5 reviews.",
+  "positive_themes": {
+    "friendly_staff": 3,
+    "good_location": 3,
+    "great_value": 2,
+    "good_food": 5,
+    "clean_rooms": 3
+  },
+  "negative_themes": {
+    "parking_issues": 1
+  }
+}

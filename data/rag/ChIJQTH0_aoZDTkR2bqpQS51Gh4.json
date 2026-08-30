@@ -1,0 +1,53 @@
+{
+  "hotel_id": "ChIJQTH0_aoZDTkR2bqpQS51Gh4",
+  "hotel_name": "Ginger - Sector 1, Gurugram",
+  "area": "Palam Vihar",
+  "budget_category": "Mid-Range",
+  "rating": 3.7,
+  "trust_score": 0.6824570267750416,
+  "travel_purpose_tags": [
+    "Budget"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "rich",
+    "review_count": 5,
+    "positive_snippet_count": 3,
+    "negative_snippet_count": 2,
+    "positive_theme_count": 3,
+    "negative_theme_count": 3
+  },
+  "aspect_scores": {
+    "cleanliness": 0.0003139784093946,
+    "service": 0.3336269590266359,
+    "location": 0.5,
+    "value_for_money": 0.9998809099197388,
+    "staff_behavior": 0.5002720648481045
+  },
+  "recommendation_features": {
+    "popularity_score": 0.6862105643556893,
+    "rating_score": 3.7,
+    "sentiment_score": 0.6000018318300135
+  },
+  "review_evidence": {
+    "positive_snippets": [
+      "Ms. Fiza is very soft and handled things properly. Mr. Digvinay is also done the process of check in & check out very smoothly. All staffs are in friendly and having helping nature. Definitely will come back.",
+      "Excellent stay at affordable rate. The service the provide was amazing, especially service from Prathik was great. The room were spacious. The surrounding of hotel is so pleasant and good.",
+      "Just had mutton boti curry served by Himani. Although the mutton pieces were a little tough, the preparation was delicious. Recommended with some expected improvement. Cheers!"
+    ],
+    "negative_snippets": [
+      "I am extremely upset with this property. They charge a very high amount but provide absolutely no proper facilities or service. It is a pathetic hotel.\n\nThe gym is located on the top floor, and loud music plays from 5:00 AM until 12:00 PM. On top of that, the sound of gym equipment continues from 5:00 PM until 12:30 AM. It is impossible to sleep due to the constant noise.\n\nRoom service is very poor. The bedsheets and blankets were dirty and had a bad smell. There was no hot water, and sometimes not even normal running water. The towels were dirty as well.\n\nOverall, it was a very bad experience. The management seems new and unable to handle guest complaints or resolve issues properly.\n\nI strongly recommend avoiding this hotel.",
+      "am writing to express my disappointment regarding my recent stay at your hotel. Unfortunately, my experience did not meet the standards I expected.\n\nDuring my stay, I encountered several issues, particularly concerning the unprofessional behavior of some staff members. I found their attitude to be discourteous and unhelpful, which made my stay uncomfortable. As a guest, I believe respectful communication and prompt assistance are essential, but sadly, this was lacking."
+    ]
+  },
+  "review_summary": "Based on 5 reviews.",
+  "positive_themes": {
+    "friendly_staff": 2,
+    "great_value": 1,
+    "good_food": 1
+  },
+  "negative_themes": {
+    "dirty_rooms": 1,
+    "noise": 1,
+    "rude_staff": 1
+  }
+}

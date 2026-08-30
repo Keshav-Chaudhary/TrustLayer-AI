@@ -1,0 +1,50 @@
+{
+  "hotel_id": "ChIJMV2w6CweDTkR-KXGpaExz2Q",
+  "hotel_name": "Oyo Kcg Hotels Near Chhatarpur Metro Station",
+  "area": "Satbari",
+  "budget_category": "Budget",
+  "rating": 3.8,
+  "trust_score": 0.4613715011083324,
+  "travel_purpose_tags": [
+    "Budget"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "moderate",
+    "review_count": 5,
+    "positive_snippet_count": 0,
+    "negative_snippet_count": 3,
+    "positive_theme_count": 5,
+    "negative_theme_count": 1
+  },
+  "aspect_scores": {
+    "cleanliness": 0.0002282116474816,
+    "service": 0.0006546359472849,
+    "location": 0.0003338024835102,
+    "value_for_money": 0.000216920103412,
+    "staff_behavior": 0.0006628796327276
+  },
+  "recommendation_features": {
+    "popularity_score": 0.4834113852186676,
+    "rating_score": 3.8,
+    "sentiment_score": 0.0005693510873242
+  },
+  "review_evidence": {
+    "positive_snippets": [],
+    "negative_snippets": [
+      "If there was an option for ZERO stars, this venue would still not deserve it.\nOur experience here was nothing short of a nightmare. The entire event was handled with shocking unprofessionalism \u2014 no proper staff, absolutely poor management, and people who make big promises but deliver nothing. It felt like they only care about taking money, not about fulfilling even the basic responsibilities.\n\nA wedding is an emotional, once-in-a-lifetime event for a family, and this venue completely ruined it for us. No arrangements were done on time, the d\u00e9cor wasn\u2019t ready, and the so-called manager was of no help whatsoever. The team seemed clueless, careless, and utterly uninterested in doing their job. The owner and manager both behaved as if they were doing us a favour by simply existing.\n\nTo anyone considering this place for any function \u2014 please don\u2019t even think about it. Save yourself the stress, humiliation, and disappointment. There are many venues out there, but this one is hands-down the worst experience we have ever had.",
+      "Hosting my sister\u2019s wedding at this hotel turned out to be one of the biggest mistakes we made. We selected the place thinking it would deliver a smooth and pleasant stay for our guests, but the reality was the exact opposite. Right from the moment we arrived, it became clear that the hotel was nowhere near prepared to handle an event.\n\nThe rooms looked neglected \u2014 dusty corners, stained linens, and broken fixtures were just the beginning. Toiletries and other basics that every hotel keeps ready were either missing or provided only after multiple follow-ups. It never felt like we were staying at a property meant for celebrations; it felt more like damage control from day one.\n\nThe most frustrating part was the management, the food provided was not sufficient it was over before the guests even arrived. Instead of taking initiative and ensuring things were in place, we had to constantly remind them of every single responsibility. There was zero coordination between staff members, and we were the ones juggling between functions and hotel issues, which completely ruined the experience.\n\nWeddings are emotional and memorable occasions, and a hotel hosting one should understand that. Unfortunately, this place showed no sense of accountability or ownership. What should have been a joyful time for the entire family turned into unnecessary stress and disappointment because of the hotel\u2019s inefficiency.\n\nIf you are planning an important family event, I would strongly suggest choosing another venue. This hotel failed us when it mattered the most.",
+      "If chaos had an address, OYO KCG Hotel would proudly claim the pin code\n\nWe stayed here for three days for a wedding, and honestly, by the end of it, we were convinced the entire place was running a social experiment on how much incompetence a group of people can tolerate.\n\nFood:\nLet\u2019s start with the \u201ccreative cuisine.\u201d\n\nRajma without rajma - bold.\nDahi vada without vada - avant-garde.\nChicken biryani without chicken - truly revolutionary.\n\nIf only they had mentioned that the theme was \u201cimaginary food,\u201d we would\u2019ve adjusted our expectations accordingly. And the best part? Whatever wasn\u2019t missing was late. Always.\nTo top it off, many guests ended up with stomach issues post-wedding - a memory none of us asked for.\n\n\ud83d\udecf\ufe0f Rooms & Stay:\nThe rooms were large, but that\u2019s where the compliments end.\nFrom clogged bathrooms to random electricity failures, it felt like the hotel was actively trying to recreate a survival reality show. You don\u2019t just *stay* here \u2014 you *endure* it.\n\n\ud83d\udc4e Staff & Service:\nThe staff was the cherry on top of this disaster cake. Unprofessional, evasive, and Olympic-level experts in passing responsibility.\nNeed coffee during the wedding event? After three hours of \u201cmachine not working,\u201d \u201cplease ask that person,\u201d and \u201cwe\u2019re looking into it,\u201d you either give up or grow old waiting or even make it yourself\n\n\ud83c\udfaa Event Management:\nThe wedding was scheduled for 7 PM, but clearly, time runs on a different planet here. The stage wasn\u2019t ready until 8 PM.\nAnd the manager, Sheetal? Possibly the most unhelpful person in the entire establishment. Rude, dismissive, and allergic to basic courtesy. Every request was treated like we were asking for a miracle.\n\n\ud83d\udca1 Bonus Observation:\nAfter this experience, it\u2019s hard not to question the glowing reviews online. Because honestly, no person who has actually lived through what we did would willingly give this place even *one* star. The positivity online feels\u2026 suspiciously manufactured.\n\n---\n\nIn summary:\nIf you\u2019re planning a wedding, a holiday, or even a last-minute escape from daily life \u2014 do yourself a favor and look elsewhere. This hotel will give you stories, yes\u2026 but mostly the kind you\u2019d rather forget."
+    ]
+  },
+  "review_summary": "Based on 5 reviews.",
+  "positive_themes": {
+    "friendly_staff": 4,
+    "good_location": 1,
+    "good_food": 3,
+    "clean_rooms": 1,
+    "great_value": 1
+  },
+  "negative_themes": {
+    "rude_staff": 3
+  }
+}

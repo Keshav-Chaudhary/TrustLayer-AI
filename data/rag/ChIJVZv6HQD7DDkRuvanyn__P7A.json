@@ -1,0 +1,49 @@
+{
+  "hotel_id": "ChIJVZv6HQD7DDkRuvanyn__P7A",
+  "hotel_name": "Qotel Comfort Ip Residency East Delhi Preet Vihar",
+  "area": "Anand Vihar",
+  "budget_category": "Mid-Range",
+  "rating": 4.5,
+  "trust_score": 0.5745920406220727,
+  "travel_purpose_tags": [
+    "Budget"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "moderate",
+    "review_count": 5,
+    "positive_snippet_count": 0,
+    "negative_snippet_count": 3,
+    "positive_theme_count": 3,
+    "negative_theme_count": 2
+  },
+  "aspect_scores": {
+    "cleanliness": 0.0004126547464693,
+    "service": 0.5,
+    "location": 0.5,
+    "value_for_money": 0.0004089991707587,
+    "staff_behavior": 0.0005014868293073
+  },
+  "recommendation_features": {
+    "popularity_score": 0.5785167094031255,
+    "rating_score": 4.5,
+    "sentiment_score": 0.0003749285679077
+  },
+  "review_evidence": {
+    "positive_snippets": [],
+    "negative_snippets": [
+      "I booked this hotel based on its rating, but my stay was terrible. The floors were not clean at all, and the door locks were in very poor condition\u2014honestly, unacceptable. The only positive thing I can mention is that the hotel has plenty of parking space. Apart from that, there is not a single thing I can say was good about this hotel.",
+      "4k+ for 2 nights is not worth wasting here. The rooms are in terrible conditions. The floors are not clean, the walls have dampness and mold with rust. The ACs do not work. There is dust sitting on the bed and the cupboard, like it hasn't been cleaned for ages. The staff comes after calling 10 times for help. There are no toiletries provided. We asked for a second towel and the person denied the same. We asked for toothbrush and toothpaste which other 3 star fabhotels provide but they denied. The bed has disgusting stains and they don't even try to hide it. The bathrooms are so disgusting you can only get dirtier if you are taking a bath there. We switched the rooms which we were provided, twice, but it kept getting worse. The only good thing about this hotel - it has a door that you can use to get out from this filthy place. Public restrooms are much more maintained and clean than the rooms here.",
+      "I had one of the worst hotel experiences here. We checked in around midnight, and the process was extremely frustrating \u2014 the staff had no common sense, and their policies were completely illogical, making everything unnecessarily difficult.\n\nThe room itself was equally disappointing. The bathroom fittings were broken, door locks were jammed, and the lighting in the room was so poor that it felt unsafe and uncomfortable. The overall condition of the place gave off a shady vibe rather than that of a proper hotel.\n\nDefinitely not worth the money or the hassle. I would not recommend this place to anyone."
+    ]
+  },
+  "review_summary": "Based on 5 reviews.",
+  "positive_themes": {
+    "clean_rooms": 2,
+    "friendly_staff": 2,
+    "great_value": 3
+  },
+  "negative_themes": {
+    "parking_issues": 1,
+    "dirty_rooms": 2
+  }
+}

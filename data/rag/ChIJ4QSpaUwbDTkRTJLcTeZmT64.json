@@ -1,0 +1,50 @@
+{
+  "hotel_id": "ChIJ4QSpaUwbDTkRTJLcTeZmT64",
+  "hotel_name": "Dwarka Heritage Hotel",
+  "area": "New Delhi",
+  "budget_category": "Mid-Range",
+  "rating": 4.9,
+  "trust_score": 0.8504599050723518,
+  "travel_purpose_tags": [
+    "Leisure"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "moderate",
+    "review_count": 5,
+    "positive_snippet_count": 3,
+    "negative_snippet_count": 1,
+    "positive_theme_count": 5,
+    "negative_theme_count": 0
+  },
+  "aspect_scores": {
+    "cleanliness": 0.9991893768310546,
+    "service": 0.6639116704463959,
+    "location": 0.9997760653495787,
+    "value_for_money": 0.3280301094055176,
+    "staff_behavior": 0.9992360770702362
+  },
+  "recommendation_features": {
+    "popularity_score": 0.3282682438797654,
+    "rating_score": 4.9,
+    "sentiment_score": 0.8652143120765686
+  },
+  "review_evidence": {
+    "positive_snippets": [
+      "Clean and hygienic Rooms , staff like pravesh yadav was helpful",
+      "Its good experience in this hotel, safe for girls, good connectivity to matro specially pravesh ji gives us good service and very humble. Must stay",
+      "Pravesh Manager is excellent. Very friendly and good local guide"
+    ],
+    "negative_snippets": [
+      "Affordable stay! Room are not like pictures , they can improve the service little more"
+    ]
+  },
+  "review_summary": "Based on 5 reviews.",
+  "positive_themes": {
+    "clean_rooms": 2,
+    "friendly_staff": 2,
+    "good_location": 1,
+    "good_food": 1,
+    "great_value": 1
+  },
+  "negative_themes": {}
+}

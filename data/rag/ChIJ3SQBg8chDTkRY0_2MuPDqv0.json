@@ -1,0 +1,52 @@
+{
+  "hotel_id": "ChIJ3SQBg8chDTkRY0_2MuPDqv0",
+  "hotel_name": "Golden Leaf Garden",
+  "area": "Baliawas",
+  "budget_category": "Mid-Range",
+  "rating": 3.7,
+  "trust_score": 0.5595746215881737,
+  "travel_purpose_tags": [
+    "Budget"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "moderate",
+    "review_count": 5,
+    "positive_snippet_count": 1,
+    "negative_snippet_count": 3,
+    "positive_theme_count": 3,
+    "negative_theme_count": 3
+  },
+  "aspect_scores": {
+    "cleanliness": 0.5565069317817687,
+    "service": 0.7039734125137329,
+    "location": 0.5,
+    "value_for_money": 0.9989063739776612,
+    "staff_behavior": 0.5280619401601143
+  },
+  "recommendation_features": {
+    "popularity_score": 0.3747192385157226,
+    "rating_score": 3.7,
+    "sentiment_score": 0.4225029978144448
+  },
+  "review_evidence": {
+    "positive_snippets": [
+      "We have good and awesome experience of stay there. The best thing is service of staff and Swimming Pool cleanliness and maintainence. Extraordinary space here for fun with friends and family. Staff is too cooperative. Food quality is Good.\n\nLawn area is bigger for sports activities like cricket \ud83c\udfcf and football \u26bd\ufe0f and more. Second Lawn area also available here for dancing \ud83d\udd7a and kids zone activities. We have also great experience of Music \ud83c\udfb6 in the Pool area with natural look and much more space available with cabanas and pool. Rain dance floor is also the point of interaction.\n\nWe strongly recommend  this place for Parties with friends and family. It's also good for family functions. It's also cost effective. Parking of 40 to 50 vehicles available in the property."
+    ],
+    "negative_snippets": [
+      "\u2757\ufe0f\u2757\ufe0fread this before booking\u2757\ufe0f\u2757\ufe0fI got skin infection because of pool. Downgrading the rating to 2\n\nWe booked the resort for party. We were very disappointed as the pool was not clean at all. It would be great if the maintenance team could improve the cleanliness of the pool area.\n\nThe food at the resort was just okay. Similarly, the rooms were also okay.\nample parking (5-6 cars) space available. The staff was supportive but quite slow.\n\nIn terms of pricing, I found the resort to be over costly. The rates were not justified based on the overall experience.\n\nWe enjoyed and had lots of fun but didn\u2019t like the hospitality. If few things can be improved at this place then this would be good. Property has sufficient space and overall looks good.",
+      "DO NOT BOOK if you wish to stay here. The rooms are extremely dirty and smelly with visible marks on sheets, cushions, walls etc. Horrendous washrooms that reek.\nIt's a decent place to go and party. Pool is not the cleanest but decent size.\nStaff was prompt and available.\nBut good service and decent outdoor space don't make up for the terrible state of the rooms which is why I wouldn't recommend this place.",
+      ">>>>I had a disappointing visit to Golden Leaf Garden recently (we made an online booking after checking reviews and photos, but it was not as good as it was in the photos and reviews).\nThe swimming pool was not well maintained and lacked cleanliness. Essential facilities were also missing, indicating a lack of attention to detail. The room was not adequately cleaned or maintained, making us feel uncomfortable and unsatisfied. The food was average.\nI strongly suggest visiting the establishment in person before making a reservation to ensure it meets your expectations."
+    ]
+  },
+  "review_summary": "Based on 5 reviews.",
+  "positive_themes": {
+    "clean_rooms": 5,
+    "friendly_staff": 4,
+    "good_food": 3
+  },
+  "negative_themes": {
+    "parking_issues": 2,
+    "dirty_rooms": 1,
+    "rude_staff": 1
+  }
+}

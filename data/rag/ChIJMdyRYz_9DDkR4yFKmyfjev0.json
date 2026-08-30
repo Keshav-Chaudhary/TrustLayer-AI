@@ -1,0 +1,51 @@
+{
+  "hotel_id": "ChIJMdyRYz_9DDkR4yFKmyfjev0",
+  "hotel_name": "Hotel Pink City",
+  "area": "New Delhi",
+  "budget_category": "Mid-Range",
+  "rating": 4.3,
+  "trust_score": 0.7597373968045538,
+  "travel_purpose_tags": [
+    "Budget"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "moderate",
+    "review_count": 5,
+    "positive_snippet_count": 3,
+    "negative_snippet_count": 1,
+    "positive_theme_count": 4,
+    "negative_theme_count": 1
+  },
+  "aspect_scores": {
+    "cleanliness": 0.714926150161773,
+    "service": 0.6270909799883763,
+    "location": 0.4705477692186832,
+    "value_for_money": 0.0008463133126497,
+    "staff_behavior": 0.5003568166866899
+  },
+  "recommendation_features": {
+    "popularity_score": 0.7099559988175865,
+    "rating_score": 4.3,
+    "sentiment_score": 0.5763973146677017
+  },
+  "review_evidence": {
+    "positive_snippets": [
+      "Hotel Pink offers good service and responds quickly. Rooms are small but neat and clean. Only the stairs are not good for the old ages. You won\u2019t face any issues with blankets or hot water. The rates for AC and non-AC rooms are the same. Food, tea, etc. are available at the hotel, but they\u2019re charged separately. The hotel is located right in front of New Delhi Station. There are plenty of other hotels and food stalls in the area. Your safety is in your own hands.",
+      "\u200b\"Had an excellent stay here! The room was spotless, modern, and surprisingly quiet given the central location. The staff went above and beyond to make us feel welcome, and the breakfast spread was delicious with plenty of variety. Highly recommend for anyone visiting Delhi!\"",
+      "1) Hotel is Near Station Area.(But in crowded and small lane)\n2) Rooms are Small (Neat and Clean)\n3) No Separate Geyser (Hot water is made available through common Boiler whenever required)\n4) Staff is cooperative.\n5) Slightly Expensive ( I was charged Rs 2000 for a room, with a Big + small bed for 2 Adults + 2 Children.\n6) Mobile Network Coverage very poor. (Wifi with good speed is available)"
+    ],
+    "negative_snippets": [
+      "Very bad service,on advance booking receiving from rly station but no done, our checkin was 1.00pm but we have provided the room till 7.00 pm as they have no ready room. They have provided prontha  of KHATTA ATTA.We have checkout at 12pm, they have asked to give us 100% rating and we will deliver your luggage at  Rly station. But at 4 p.m they have refused to do.  We stay from 17.02.2026 to 19.02.2026 the rent paid near Rs. 13000. we are 4 adult and to child, we have booked 2 rooms of super deluxe, the room was allotted one normal room at ground floor and the other on 3rd floor. Qult is also wear and tear.\n\nPlease be aware while booking room."
+    ]
+  },
+  "review_summary": "Based on 5 reviews.",
+  "positive_themes": {
+    "clean_rooms": 4,
+    "good_food": 2,
+    "friendly_staff": 2,
+    "good_location": 3
+  },
+  "negative_themes": {
+    "rude_staff": 1
+  }
+}

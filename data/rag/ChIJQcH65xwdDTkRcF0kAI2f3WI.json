@@ -1,0 +1,51 @@
+{
+  "hotel_id": "ChIJQcH65xwdDTkRcF0kAI2f3WI",
+  "hotel_name": "Hotel Pearl Mahipalpur Delhi Airport @ 05 Minutes Walk To Aero City Metro Station",
+  "area": "Mahipalpur",
+  "budget_category": "Mid-Range",
+  "rating": 4.6,
+  "trust_score": 0.8212265126562458,
+  "travel_purpose_tags": [
+    "Business"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "rich",
+    "review_count": 5,
+    "positive_snippet_count": 3,
+    "negative_snippet_count": 2,
+    "positive_theme_count": 5,
+    "negative_theme_count": 0
+  },
+  "aspect_scores": {
+    "cleanliness": 0.6667993523102874,
+    "service": 0.9996732771396638,
+    "location": 0.5001803262275644,
+    "value_for_money": 0.5002953197690658,
+    "staff_behavior": 0.999691128730774
+  },
+  "recommendation_features": {
+    "popularity_score": 0.775988409842961,
+    "rating_score": 4.6,
+    "sentiment_score": 0.6001057444605976
+  },
+  "review_evidence": {
+    "positive_snippets": [
+      "Staying at Hotel Pearl was a comfortable and convenient experience, especially if you\u2019re looking for a stay close to the airport. The location is a big advantage  easily accessible and well-connected, making it ideal for short business trips or layovers.\n\nThe rooms were neat, well-maintained, and equipped with basic amenities needed for a smooth stay. The bed was comfortable, and housekeeping ensured cleanliness was maintained. While the property isn\u2019t overly luxurious, it offers decent comfort for the price point.\n\nThe staff was polite and cooperative, assisting with check-in and any small requests promptly. Service felt straightforward and hassle-free, which is important when you\u2019re traveling and just want things to be easy.\n\nOverall, Hotel Pearl in Mahipalpur is a practical and budget-friendly option for travelers looking for a clean, accessible place to stay near Delhi Airport.",
+      "I have been here on a business trip and stayed for 5 days in Novemeber 2025. The property is inside of the main road and is very peaceful and clam. Rooms and wash rooms are clean and neat.  I had a pleasant stay with the support of Mr. Kapil the front desk team and other staff.\n\nComplimentary breakfast was good and food is delicious. This is a very good choice that we made to be here for a week.",
+      "Very good experience at Hotel Pearl near Delhi airport.  We booked for just 3 hours before our flight to rest and freshen up.  Staff were very professional and welcoming, eager to please.  Room was great, we will definitely return for an overnight stay the next time we fly to Delhi.  Plenty of shops and restaurants close by.  Easy access to Aero City metro station, we walked there from the hotel."
+    ],
+    "negative_snippets": [
+      "THEY FORCE YOU TO REVIEW ON THE BOOKING SITE!\nThe rooms are terrible. We had an extra bed booked for the room and they gave us a thin mattress on the floor. The food was so bland - we skipped the dishes to eat fruits.\nFood: They provided no toiletries - we asked for soap. We had to remind them four times to actually get soap.\nLocation: the street is so narrow and so difficult to get into.",
+      "It was very poor experience and definitely not worth the money. Just the facade of the building is shining. Staffs would look like some premium hotel and talk nicely. Room I stayed was poor. Switch not working not able to turn off the lights in the night, all plug points were full of dust, fan was not fitted properly. It was cold weather so I didn\u2019t use it. Overall, Very bad experience. Just because it is near the airport, doesn\u2019t mean it will be good for lay over. If you think of wasting money, you can book this hotel. Don\u2019t go by the 5 star reviews."
+    ]
+  },
+  "review_summary": "Based on 5 reviews.",
+  "positive_themes": {
+    "clean_rooms": 2,
+    "friendly_staff": 4,
+    "good_location": 4,
+    "good_food": 2,
+    "great_value": 1
+  },
+  "negative_themes": {}
+}

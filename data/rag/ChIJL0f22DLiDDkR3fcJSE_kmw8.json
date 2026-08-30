@@ -1,0 +1,52 @@
+{
+  "hotel_id": "ChIJL0f22DLiDDkR3fcJSE_kmw8",
+  "hotel_name": "Fabhotel Cabana - Hotel In Greater Kailash, New Delhi",
+  "area": "Greater Kailash",
+  "budget_category": "Mid-Range",
+  "rating": 3.8,
+  "trust_score": 0.5792976092245647,
+  "travel_purpose_tags": [
+    "Budget"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "moderate",
+    "review_count": 5,
+    "positive_snippet_count": 1,
+    "negative_snippet_count": 3,
+    "positive_theme_count": 4,
+    "negative_theme_count": 2
+  },
+  "aspect_scores": {
+    "cleanliness": 0.1180698612394431,
+    "service": 0.442688965704292,
+    "location": 0.3324880426516756,
+    "value_for_money": 0.0018852734938263,
+    "staff_behavior": 0.2564333652844652
+  },
+  "recommendation_features": {
+    "popularity_score": 0.63229807657714,
+    "rating_score": 3.8,
+    "sentiment_score": 0.2709363739006221
+  },
+  "review_evidence": {
+    "positive_snippets": [
+      "If only I could give location and service more stars. Such friendly and helpful staff members. And location could not be better than this. Highly recommended"
+    ],
+    "negative_snippets": [
+      "Good location. Rooms are okay. Don\u2019t provide enough towels or toilet paper. Had some weird communication issues with the staff when doing an early check-in; they were reluctant to tell me the price of doing an early check-in in advance. At first it was 1500 rupees, then 1500-2300, then 2500 when I asked them to write the price down. Eventually they did honor the first price of 1500, but it was a poor experience.",
+      "It's a very well located old hotel. Staff is very nice and friendly. Standard room was neat and clean but very small but fine for a solo traveller. Amenities like TV and aircon were so old an dated like 15 years. Shower system needs to be replaced as well. Refrigerator was not cooling at all. Overall 3 star and needs improvement.",
+      "The AC was dripping water inside the room and the wash basin in the bathroom was a bit clogged and there was water leaking in the toilet. The prices are reasonable and so we shouldn\u2019t expect 5 star quality services but the basic maintenance wasn\u2019t done properly and I found that the water boiler provided in the room hasn\u2019t been cleaned in a while and was very dirty. Breakfast was ok and service was also ok. The location is good and easily accessible in google maps and uber too."
+    ]
+  },
+  "review_summary": "Based on 5 reviews.",
+  "positive_themes": {
+    "friendly_staff": 4,
+    "good_location": 4,
+    "clean_rooms": 3,
+    "good_food": 1
+  },
+  "negative_themes": {
+    "dirty_rooms": 2,
+    "rude_staff": 1
+  }
+}

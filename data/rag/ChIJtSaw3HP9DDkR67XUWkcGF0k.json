@@ -1,0 +1,52 @@
+{
+  "hotel_id": "ChIJtSaw3HP9DDkR67XUWkcGF0k",
+  "hotel_name": "Hotel Apple Inn",
+  "area": "Paharganj",
+  "budget_category": "Budget",
+  "rating": 4.2,
+  "trust_score": 0.7935552777481132,
+  "travel_purpose_tags": [
+    "Business",
+    "Family"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "moderate",
+    "review_count": 5,
+    "positive_snippet_count": 3,
+    "negative_snippet_count": 1,
+    "positive_theme_count": 4,
+    "negative_theme_count": 1
+  },
+  "aspect_scores": {
+    "cleanliness": 0.9997490644454956,
+    "service": 0.999846339225769,
+    "location": 0.6670387899503112,
+    "value_for_money": 0.7502424058038741,
+    "staff_behavior": 0.7502486046869308
+  },
+  "recommendation_features": {
+    "popularity_score": 0.5957987724974919,
+    "rating_score": 4.2,
+    "sentiment_score": 0.8001667687669396
+  },
+  "review_evidence": {
+    "positive_snippets": [
+      "I am Abdulla from Tamil Nadu.\nI booked a room at Hotel Apple Inn, New Delhi from 19 Feb 2026 to 23 Feb 2026 (4 nights stay).\nMy stay was very good and comfortable. The room was clean and well maintained. Housekeeping service was good and cleaning was done properly. Room size is perfect and comfortable for couples.\nThe staff members were polite, friendly and supportive. Especially the receptionist was very polite and helpful. They supported us well during check-in and throughout the stay.\nCheck-in and check-out process was smooth without any issues.\nOverall, it was a pleasant stay and worth the money. I would recommend this hotel to couples and families visiting Delhi.\nThank you.",
+      "\u2b50\u2b50\u2b50\u2b50\nI had a pleasant stay at Hotel Apple Inn. The rooms were neat, clean, and comfortable, making it suitable for both short and long stays. The staff was polite, cooperative, and always ready to help, which made the experience smooth and hassle-free.\n\nThe hotel is conveniently located around 1\u20132 km from New Delhi Railway Station Paharganj side platform no-1, making it easy to reach for travelers. Parking is not available within the hotel premises, but parking can be found in the nearby locality, which is manageable if you\u2019re traveling by car. The surrounding area has good connectivity and access to local transport and markets.\n\nOverall, the stay was comfortable and value for money. I would recommend this hotel to anyone visiting Delhi \ud83d\ude0a\ud83c\udfe8",
+      "Perfect for an amazing stay. Location was convenient for travel all over as it's located near metro.. Wi-Fi was fast and reliable, and the facilities were excellent. The room was well-equipped and comfortable, and the front desk was incredibly efficient. Highly recommend for any  traveler looking for a great value stay.\". Thanku team for making my stay more comfortable more like a home \ud83c\udfe0..\u2764\ufe0f\u2764\ufe0f"
+    ],
+    "negative_snippets": [
+      "I stayed at Apple Inn for two days with my brother. The facilities were decent for the budget, but here\u2019s a big issue: The price on their official site was about 600-700 rupees lower than what they tried to charge walk-in customers. Thankfully, since we booked online, they accepted it\u2014though reluctantly. Now, despite claiming to be a 4-star property, the room felt more like a basic 2-star room. And get this: they charged about five times the market rate just for bottled water! Extremely disappointing. On top of that, staff asked each guest for their phone and posted Google reviews themselves. So, don\u2019t trust those glowing reviews. Overall, shady practices overshadowed an otherwise okay stay."
+    ]
+  },
+  "review_summary": "Based on 5 reviews.",
+  "positive_themes": {
+    "clean_rooms": 2,
+    "friendly_staff": 4,
+    "great_value": 3,
+    "good_location": 2
+  },
+  "negative_themes": {
+    "parking_issues": 1
+  }
+}

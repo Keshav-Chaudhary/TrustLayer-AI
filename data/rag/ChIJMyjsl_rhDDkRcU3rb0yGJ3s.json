@@ -1,0 +1,54 @@
+{
+  "hotel_id": "ChIJMyjsl_rhDDkRcU3rb0yGJ3s",
+  "hotel_name": "Hide-In Delhi",
+  "area": "Near Saket Metro Gate No. 1",
+  "budget_category": "Mid-Range",
+  "rating": 4.2,
+  "trust_score": 0.7329115891646469,
+  "travel_purpose_tags": [
+    "Budget"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "rich",
+    "review_count": 5,
+    "positive_snippet_count": 3,
+    "negative_snippet_count": 2,
+    "positive_theme_count": 5,
+    "negative_theme_count": 2
+  },
+  "aspect_scores": {
+    "cleanliness": 0.6671393408905715,
+    "service": 0.5001386373478454,
+    "location": 0.5008871696190909,
+    "value_for_money": 0.9996386766433716,
+    "staff_behavior": 0.9998131394386292
+  },
+  "recommendation_features": {
+    "popularity_score": 0.6103692749110328,
+    "rating_score": 4.2,
+    "sentiment_score": 0.6003729506745004
+  },
+  "review_evidence": {
+    "positive_snippets": [
+      "This is a great place for short or long stay. They have good rooms with bunker beds covered with screens. The washrooms are clean and hot water is available at all times. Saket metro is just 5-7 mins away by walk and Anupam PVR complex is just 200 metres away; it has various food stalls, shops and a cinema hall.\n\nThe crowd that come to Hide-In are great people and it's great if you get to connect with people and make new friends.\n\nAshutosh bhai, Robin bhai and Bobby bhai are kind and responsible with their service. They do their best to cater to our requests and ensure that we have a great stay.\n\nThe food is on the pricier side but the cook does a great job and they have various food options on their menu. Worth the stay for the money and the experience.",
+      "Hide In Hostel has been favourite place in Delhi , and it never disappoints. The vibe is chill, rooms are clean, and the staff makes you feel at home. Big shoutout to Bobby Bhai for always being helpful, Robbin for keeping things smooth, Aashutosh for that friendly energy every time,and Shivam is also very helpful everytime, Nitin,manish and Golu in Kitchen= Great Food. Thankyou Guys for Making my stay Comfortable and for good food.Highly recommended for anyone looking for comfort and good vibes!",
+      "Beautiful view and great managers (Robin bhai and Shivam bhai) who are both welcoming and professional as well as I have to especially mention Guard sahab ( Indrajeet Ji) who is the nicest person one can ever meet as well as dedicated to his work and I had great time with Om bhai and Yatin bhai who became best company and friendship one can look up to.\nThis place has a character rather than other hostels in delhi and has become a place where I look up to visit."
+    ],
+    "negative_snippets": [
+      "Entered the property at 8am and left by 9am.\n\n1. The location is difficult to find even with google maps. It is inside an apartment building at 3rd floor. No lifts, steep steps. Hostel itself is a 3bhk apartment.\n2. Only 10 bed & 12 bed dorms available. Bed condition is quite poor. Mattresses smell bad. There is no attached washroom in dorms. Washroom is quite far. You'll have to go across the entire apartment area to access washroom.\n3. They've a charge for everything. Early check-in \u20b9500, late check-out \u20b9500. My bed costed me 500, why would I pay extra for an early check-in? They've the bed empty, yet they won't provide early check-in.\nI cancelled my booking & left for hosteller. They've 2pm check-in at hosteller, but I got my bed by 11am. I didn't even ask for an early check-in.\n4. They've a kitchen but the chef isn't available. A basic tea is priced at \u20b952. No water bottles available. There is a water dispenser, but no cups.\n\nDon't go by google ratings, I relied on it and booked this place for a night. Regretted the decision. Cancelled my booking, wasted \u20b9500 and left for a different hostel.\nVery wierd and shady place. Entire place seemed like a crime patrol scene. Only good thing here was the washroom. Surprisingly, clean & well-maintained.",
+      "Decent rooms but pathetic service. If you are a light sleeper, reconsider booking this place. You'll feel like you're sleeping in the middle of the road as the noise from traffic and construction is too loud, even at night. The property is under renovation /repair and the work goes on throughout the day. They don't let people order but also close the kitchen during day time. When we checked in at 2:30PM, there was no water and the water tanker arrived around 5-5:30 pm. We couldn't freshen up or take a bath and sat in the noisy room waiting for water. The device to switch to tap from shower was broken and we were told that plumber will come tomorrow (after we check out)."
+    ]
+  },
+  "review_summary": "Based on 5 reviews.",
+  "positive_themes": {
+    "clean_rooms": 3,
+    "great_value": 1,
+    "good_food": 2,
+    "friendly_staff": 2,
+    "good_location": 1
+  },
+  "negative_themes": {
+    "dirty_rooms": 1,
+    "noise": 1
+  }
+}

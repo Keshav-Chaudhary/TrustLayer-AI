@@ -1,0 +1,49 @@
+{
+  "hotel_id": "ChIJmdMbDOMFDTkRLZQSShdTEFw",
+  "hotel_name": "Oyo Hotel Vihaan Regency",
+  "area": "Nawada",
+  "budget_category": "Budget",
+  "rating": 3.5,
+  "trust_score": 0.5665870042361345,
+  "travel_purpose_tags": [
+    "Leisure"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "rich",
+    "review_count": 5,
+    "positive_snippet_count": 3,
+    "negative_snippet_count": 2,
+    "positive_theme_count": 3,
+    "negative_theme_count": 0
+  },
+  "aspect_scores": {
+    "cleanliness": 0.6602926328390216,
+    "service": 0.5,
+    "location": 0.999847412109375,
+    "value_for_money": 0.5,
+    "staff_behavior": 0.9998459815979004
+  },
+  "recommendation_features": {
+    "popularity_score": 0.2690641681418895,
+    "rating_score": 3.5,
+    "sentiment_score": 0.598252491815947
+  },
+  "review_evidence": {
+    "positive_snippets": [
+      "Good hotel and staff. Very clean rooms",
+      "Very nice palace this hotel staf is very good room very best this location",
+      "Very higene room full clean and staffs are very politely"
+    ],
+    "negative_snippets": [
+      "I will not recommend this place at all. Ghatiya rooms washroom is so small. Overall experience very bad",
+      "Poor rooms now previously they were good"
+    ]
+  },
+  "review_summary": "Based on 5 reviews.",
+  "positive_themes": {
+    "clean_rooms": 2,
+    "friendly_staff": 2,
+    "good_location": 1
+  },
+  "negative_themes": {}
+}

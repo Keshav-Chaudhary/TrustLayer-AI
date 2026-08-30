@@ -1,0 +1,51 @@
+{
+  "hotel_id": "ChIJPeq9RFDnDDkR3ThA8S-1P4Y",
+  "hotel_name": "Hotel Green Vegas",
+  "area": "Sector 43",
+  "budget_category": "Mid-Range",
+  "rating": 4.4,
+  "trust_score": 0.8036662677482808,
+  "travel_purpose_tags": [
+    "Leisure"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "rich",
+    "review_count": 5,
+    "positive_snippet_count": 3,
+    "negative_snippet_count": 2,
+    "positive_theme_count": 5,
+    "negative_theme_count": 0
+  },
+  "aspect_scores": {
+    "cleanliness": 0.9998372197151184,
+    "service": 0.5000086758373071,
+    "location": 0.9998242259025574,
+    "value_for_money": 0.0002365179534535,
+    "staff_behavior": 0.7999170793627854
+  },
+  "recommendation_features": {
+    "popularity_score": 0.5187107801377314,
+    "rating_score": 4.4,
+    "sentiment_score": 0.7999170793627854
+  },
+  "review_evidence": {
+    "positive_snippets": [
+      "I stay at this Hotel green wegs by the premium villa* , and I would like to share my experience in detail. From the moment I arrived, the staff made me feel welcomed with their warm and professional approach. The check-in process was smooth and quick,\nThe room provided was spacious, clean, and well-maintained, with all the necessary amenities in place. The bed was comfortable, and the housekeeping staff ensured that the room was kept spotless throughout my stay. I also appreciated the attention to detail in the room d\u00e9cor, which created a relaxing atmosphere after a long day.\nAnother highlight of my stay was the courteous and helpful attitude of the staff across all departments \u2013 reception, housekeeping, and restaurant. They were always ready to assist with a smile, which made my stay even more comfortable",
+      "I had a pleasant stay at the hotel. The room was clean, comfortable, and well-maintained. The staff were polite and helpful throughout my stay. The location was convenient, and overall it was a relaxing experience. I would definitely consider staying here again\nHotel Manager name Gopal",
+      "I had a comfortable solo stay at this hotel. The room was clean, quiet, and well-maintained. Staff were polite and helpful, which made me feel safe and welcome. Overall, a pleasant experience."
+    ],
+    "negative_snippets": [
+      "Very Disappointing Stay \u2013 Poor Service & Facilities\nI booked this hotel for 4 people for 4 days, which included breakfast and dinner, but the overall experience was extremely disappointing.\nOn arrival, we were given a room where the flush was not working. Despite reporting it immediately, it was only fixed on the second day, causing unnecessary inconvenience. One blanket was missing on a double bed, and even after informing the staff, it was not arranged promptly. The TV in the room was broken and unusable throughout the stay.\nThe biggest issue was with the food service. The food timing was clearly mentioned as 8:30 AM onwards, but breakfast was not served at all yesterday. Today, we were told breakfast would be served, yet no food was provided even till 9:00 AM. Since we had training at 9:30 AM, we were forced to skip breakfast completely, which is unacceptable when meals are part of the package.\nAdditionally, the quantity and quality of dinner served yesterday were below standard and not worth what we paid.\nOverall, this hotel lacks basic management, hospitality, and accountability. I would not recommend this place to anyone, especially families or professionals who depend on timely service.\n\nStaff was found having dinner at 8:30pm but despite asking for dinner multiple times we only got ours after 10:30pm!\nHighly disappointed!",
+      "We had a wonderful stay as a couple. The room was clean, comfortable, and provided complete privacy. The atmosphere was peaceful and romantic. The staff were polite and respectful. Overall, it was a lovely experience."
+    ]
+  },
+  "review_summary": "Based on 5 reviews.",
+  "positive_themes": {
+    "clean_rooms": 4,
+    "friendly_staff": 5,
+    "good_location": 1,
+    "great_value": 1,
+    "good_food": 1
+  },
+  "negative_themes": {}
+}

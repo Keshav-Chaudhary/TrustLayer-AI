@@ -1,0 +1,49 @@
+{
+  "hotel_id": "ChIJ4RfKFssFDTkRU4i5FR1_Mcc",
+  "hotel_name": "Hotel O By Oyo Grand",
+  "area": "New Delhi",
+  "budget_category": "Budget",
+  "rating": 3.6,
+  "trust_score": 0.3794609496191046,
+  "travel_purpose_tags": [
+    "Budget"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "moderate",
+    "review_count": 3,
+    "positive_snippet_count": 0,
+    "negative_snippet_count": 3,
+    "positive_theme_count": 2,
+    "negative_theme_count": 3
+  },
+  "aspect_scores": {
+    "cleanliness": 0.0003857152187265,
+    "service": 0.0007451739293173,
+    "location": 0.5,
+    "value_for_money": 0.0002958768236566,
+    "staff_behavior": 0.0006253543591204
+  },
+  "recommendation_features": {
+    "popularity_score": 0.223219623947779,
+    "rating_score": 3.6,
+    "sentiment_score": 0.0006253543591204
+  },
+  "review_evidence": {
+    "positive_snippets": [],
+    "negative_snippets": [
+      "Hotel Grand Worst Experience of My Life.\nI spent \u20b97k+ for a 5-day stay in a so-called \u201cdeluxe room,\u201d but what I got was the worst experience ever. The room was dusty, the bathroom was smelly and slippery, and they provided used towels and bedsheets with stains and a foul odor and non of the rooms have a proper working A/c\n\nDuring my stay, I had to change rooms 4 times every single day because of the following problems which i was facing in very single rooms of this hotel. The manager\u2019s behavior was extremely unprofessional more like a thug than a hotel manager. If you question them or ask them to clean the room or any basic help they make you feel unsafe, as if they might harm you.\n\nTo make matters worse, I even heard from another guest that someone died in one of the rooms. Whether true or not, this rumor alone shows how unsafe and disturbing the environment feels.\n\nThis place is absolutely not family-friendly. The atmosphere is filled with shady and strange people. If you are planning even a single day\u2019s stay with your family, I strongly advise you to avoid this place. I stayed their for 5 days because i have no options left and no refunds if i cancel.\n\nI hope my review helps others save their money and avoid the nightmare I went through.",
+      "They're the worst. There are no words to express the disappointment that I faced . I was travelling from another state to Delhi. Had booked a room for night on their website. Called the hotel when I landed. Mind you, it\u2019s 11 at night. They refused to acknowledge my booking because of the price that booked on the OYO application! I had to look for other arrangements at night in an unfamiliar city, that too after booking room in advance. Highly disappointing and pathetic service by the customer service at OYO. They made me hold the line for more than 20 mins. Insane ! Extremely unprofessional and rude hotels are partnering with OYO. What a nightmare!",
+      "1. On road, but tough to find through google map, may be due to strange geography.\n2. OYO, Agoda etc.. all other online room booking services are fake, they don't have any tie-up with the property, they will show you less rent, but the owner will ask more, so better to avoid booking through them.\n3. Property should n't be listed online, because they simply deny any link-ups with them.\n4. Rooms are of average quality including washrooms.\n5. Service is not upto the mark but staff is cooperative\n6. Parking space is very congested, barely any space for 4 wheelers."
+    ]
+  },
+  "review_summary": "Based on 3 reviews.",
+  "positive_themes": {
+    "clean_rooms": 1,
+    "friendly_staff": 2
+  },
+  "negative_themes": {
+    "dirty_rooms": 1,
+    "rude_staff": 2,
+    "parking_issues": 1
+  }
+}

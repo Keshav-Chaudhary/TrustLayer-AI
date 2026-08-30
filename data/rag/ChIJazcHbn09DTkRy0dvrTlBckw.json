@@ -1,0 +1,52 @@
+{
+  "hotel_id": "ChIJazcHbn09DTkRy0dvrTlBckw",
+  "hotel_name": "Rao Residency",
+  "area": "Imt Manesar",
+  "budget_category": "Mid-Range",
+  "rating": 3.9,
+  "trust_score": 0.6538986303571019,
+  "travel_purpose_tags": [
+    "Leisure"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "rich",
+    "review_count": 5,
+    "positive_snippet_count": 3,
+    "negative_snippet_count": 2,
+    "positive_theme_count": 4,
+    "negative_theme_count": 1
+  },
+  "aspect_scores": {
+    "cleanliness": 0.9998687505722046,
+    "service": 0.5000382348007406,
+    "location": 0.9998103082180024,
+    "value_for_money": 0.5,
+    "staff_behavior": 0.5003031590895262
+  },
+  "recommendation_features": {
+    "popularity_score": 0.4268137678954004,
+    "rating_score": 3.9,
+    "sentiment_score": 0.6000869307288668
+  },
+  "review_evidence": {
+    "positive_snippets": [
+      "I had a fantastic experience staying at Rao Residency! The rooms are clean, spacious, and well-maintained, providing a comfortable and peaceful living environment. The amenities are top-notch, making daily life easy and convenient.\n\nOne of the best aspects of this PG is its prime location, which offers easy access to transportation, markets, and essential services. The hygiene and cleanliness standards are impressive, ensuring a healthy and pleasant stay.\n\nThe food is delicious and hygienic, with a variety of options that cater to different tastes. The management is also very responsive and cooperative, always ensuring the best experience for residents.\n\nOverall, if you're looking for a safe, clean, and well-managed PG with great amenities and excellent food, this is the perfect choice. Highly recommended!",
+      "Rao Residency is a perfect blend of elegance and comfort. Impeccably maintained, with top-notch amenities and a serene ambiance, it offers a truly jaggery living experience. The staff\u2019s hospitality is exceptional, making every stay effortless and delightful. Highly recommended!",
+      "The amenities, including high-speed WiFi, 24/7 security, and hygienic food, made my stay even more pleasant. The location is also convenient,.\n\nOverall, a fantastic place to stay, whether for short or long-term accommodation. Highly recommended for anyone looking for a safe and comfortable living space!"
+    ],
+    "negative_snippets": [
+      "We stayed at this PG for over 3 months. At the time of moving in, the owner took \u20b99,000 as an advance and clearly mentioned that it would be refunded when we vacate.\n\nInitially, he seemed polite and cooperative. But once we informed him about leaving, his attitude completely changed. He said he would transfer the refund to our account, but it\u2019s been over 3 months and we haven\u2019t received anything.\n\nDespite repeated calls and follow-ups, he keeps giving baseless excuses and avoids taking responsibility.\n\nHighly unprofessional and dishonest behavior. Do not trust this place or the owner.",
+      "Worst Pg ever. Students are told to leave their rooms within 2 days after joining without proper notice. They don't have a proper owner. Worst food and worst management here. There's a quote \" Hati ke sath khane ke liye ek dekhne ke liye ek\" This building only looks professionally from outside only.\nNo safety"
+    ]
+  },
+  "review_summary": "Based on 5 reviews.",
+  "positive_themes": {
+    "clean_rooms": 1,
+    "good_location": 2,
+    "good_food": 3,
+    "friendly_staff": 2
+  },
+  "negative_themes": {
+    "rude_staff": 1
+  }
+}

@@ -1,0 +1,49 @@
+{
+  "hotel_id": "ChIJI6js6jjjDDkRfSHTcQtq7WQ",
+  "hotel_name": "Classic Hotel Nizamuddin",
+  "area": "Nizamuddin",
+  "budget_category": "Mid-Range",
+  "rating": 2.5,
+  "trust_score": 0.3222642922661198,
+  "travel_purpose_tags": [
+    "Leisure"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "moderate",
+    "review_count": 5,
+    "positive_snippet_count": 0,
+    "negative_snippet_count": 3,
+    "positive_theme_count": 3,
+    "negative_theme_count": 2
+  },
+  "aspect_scores": {
+    "cleanliness": 0.0003811753558693,
+    "service": 0.9083459973335266,
+    "location": 0.9083459973335266,
+    "value_for_money": 0.0002013774646911,
+    "staff_behavior": 0.000566336500924
+  },
+  "recommendation_features": {
+    "popularity_score": 0.3695937341215708,
+    "rating_score": 2.5,
+    "sentiment_score": 0.1821000912983435
+  },
+  "review_evidence": {
+    "positive_snippets": [],
+    "negative_snippets": [
+      "Terrible Experience \u2013 Avoid This Place\n\nWe booked a room online through Booking.com. When we arrived, the property refused to accept the booked price and demanded double the amount we had confirmed online.\n\nAfter paying the inflated price, the room they gave us was in terrible condition.\n\nThe room was very dirty. The bedsheets and pillows were old, stained, and unpleasant to use. Overall, this was one of the worst hotel experiences we\u2019ve had \u2014 extremely unprofessional and not worth half of the money.",
+      "Very bad experience. Staff behavior is very very rude, no hot water (even after telling they did not fix) , name is Kerala homestay, not classic hotel, hence was difficult to find. Would not recommend.",
+      "Bad experience the hotel is not as shown in picture it's unorganised and lack of think same feels like hostel ,\nI will suggest first check the room live book"
+    ]
+  },
+  "review_summary": "Based on 5 reviews.",
+  "positive_themes": {
+    "great_value": 1,
+    "friendly_staff": 1,
+    "good_location": 1
+  },
+  "negative_themes": {
+    "dirty_rooms": 2,
+    "rude_staff": 2
+  }
+}

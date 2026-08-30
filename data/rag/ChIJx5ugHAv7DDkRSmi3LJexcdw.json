@@ -1,0 +1,52 @@
+{
+  "hotel_id": "ChIJx5ugHAv7DDkRSmi3LJexcdw",
+  "hotel_name": "Hotel O Galaxy",
+  "area": "Sahibabad",
+  "budget_category": "Mid-Range",
+  "rating": 4.4,
+  "trust_score": 0.7298721723783201,
+  "travel_purpose_tags": [
+    "Leisure",
+    "Business"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "moderate",
+    "review_count": 4,
+    "positive_snippet_count": 3,
+    "negative_snippet_count": 1,
+    "positive_theme_count": 4,
+    "negative_theme_count": 1
+  },
+  "aspect_scores": {
+    "cleanliness": 0.5012791705084964,
+    "service": 0.9997982382774352,
+    "location": 0.9997982382774352,
+    "value_for_money": 0.9997982382774352,
+    "staff_behavior": 0.9997982382774352
+  },
+  "recommendation_features": {
+    "popularity_score": 0.3196692287282864,
+    "rating_score": 4.4,
+    "sentiment_score": 0.7013129717088304
+  },
+  "review_evidence": {
+    "positive_snippets": [
+      "I had a pleasant stay at Hotel O Galaxy. The property offers a comfortable and budget-friendly experience with clean rooms and basic amenities. The staff is polite, helpful, and quick to respond to any requests. The location is convenient, with easy access to transportation, restaurants, and nearby attractions.\n\nThe rooms are well-maintained, and the housekeeping team ensures everything stays tidy. The hotel also provides decent food options, and the service quality is quite good for the price range.",
+      "Very Excellent",
+      "MATA KALI MANDIR SANAUDI KAYMPUR ROAD"
+    ],
+    "negative_snippets": [
+      "There is No Mirror\nNo ventilation\nDirty towel"
+    ]
+  },
+  "review_summary": "Based on 4 reviews.",
+  "positive_themes": {
+    "clean_rooms": 1,
+    "friendly_staff": 1,
+    "good_location": 1,
+    "good_food": 1
+  },
+  "negative_themes": {
+    "dirty_rooms": 1
+  }
+}

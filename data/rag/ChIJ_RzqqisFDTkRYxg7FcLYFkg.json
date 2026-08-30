@@ -1,0 +1,52 @@
+{
+  "hotel_id": "ChIJ_RzqqisFDTkRYxg7FcLYFkg",
+  "hotel_name": "Hotel Western Blu",
+  "area": "New Delhi",
+  "budget_category": "Mid-Range",
+  "rating": 4.5,
+  "trust_score": 0.7058961891295124,
+  "travel_purpose_tags": [
+    "Leisure"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "moderate",
+    "review_count": 5,
+    "positive_snippet_count": 2,
+    "negative_snippet_count": 3,
+    "positive_theme_count": 4,
+    "negative_theme_count": 1
+  },
+  "aspect_scores": {
+    "cleanliness": 0.5,
+    "service": 0.4004101850790903,
+    "location": 0.9998818635940552,
+    "value_for_money": 0.0008304361836053,
+    "staff_behavior": 0.5003051223029615
+  },
+  "recommendation_features": {
+    "popularity_score": 0.5957987724974919,
+    "rating_score": 4.5,
+    "sentiment_score": 0.4004101850790903
+  },
+  "review_evidence": {
+    "positive_snippets": [
+      "I am writing on behalf of my father, to sincerely thank you for the care, kindness, and attention he has consistently received during his stay at WesternBlu, Delhi. Your team has gone above and beyond to ensure his comfort, and we truly appreciate it.\n\nFrom the very first day, my father has felt completely at home. We are especially grateful for the thoughtful gestures that make such a meaningful difference in his daily experience. The special meals prepared by your master chef, tailored to his dietary requirements and free from spice due to his ongoing hospital treatment, have brought him immense comfort. He genuinely feels treated like part of your family. Similarly, the housekeeping manager\u2019s attentiveness in keeping his room immaculate, and the receptionists\u2019 courteous and welcoming demeanor, have all been outstanding.\n\nEven though I explored other hotel apartments where he could cook for himself, as well as numerous nearby restaurants, my father has expressed that he does not wish to leave WesternBlu. He deeply values the warmth, respect, and professionalism shown to him by your team. Having stayed at many hotels across Delhi, he feels that WesternBlu\u2019s service exceeds expectations for a three-star hotel. Having lived abroad for many years and traveled extensively, he believes your hotel is easily comparable to a four-star experience.\n\nWe are truly grateful to the management and staff for being consistently proactive, considerate, and dedicated to ensuring guest satisfaction. Your efforts are highly commendable and sincerely appreciated.\n\nOnce again, thank you for your kindness, care, and outstanding hospitality.",
+      "Comfortable rooms , good service , delicious Food and a cool restaurant with remarkable ambiance and location. Thanks to staff of hotel western blu to make marriage event memorable and appreciated by all our Guests.\nHighly recommended for family events , functions."
+    ],
+    "negative_snippets": [
+      "We attended a function few days back in Sapphire hall, the gathering was only for 50 people.The food and service was pathetic. The team was standing idle and not attending the guests. The manager who was taking care of the things had no answers. Please book your event carefully and mindfully with them. Won't recommend this to anyone for even a small get together.",
+      "Booked for doing our Lohri event for 50 people. Very poor service. Staff is highly unprofessional only focusing on getting the payment and they don't know how to provide a great experience.",
+      "Pathetic hotel, no fan, such small rooms and they take security amount lol. They charge triple amount for a water bottle and you have to call room service an hour before twice only to get cuttlery. They also dont have smart tv but their price is so high. Not at all worth it."
+    ]
+  },
+  "review_summary": "Based on 5 reviews.",
+  "positive_themes": {
+    "friendly_staff": 3,
+    "good_location": 2,
+    "great_value": 2,
+    "good_food": 2
+  },
+  "negative_themes": {
+    "rude_staff": 1
+  }
+}

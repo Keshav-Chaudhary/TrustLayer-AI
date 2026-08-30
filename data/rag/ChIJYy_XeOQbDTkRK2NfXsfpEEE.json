@@ -1,0 +1,52 @@
+{
+  "hotel_id": "ChIJYy_XeOQbDTkRK2NfXsfpEEE",
+  "hotel_name": "Goa Country Club By Pearl",
+  "area": "Palam Vihar",
+  "budget_category": "Mid-Range",
+  "rating": 4.2,
+  "trust_score": 0.665879719776424,
+  "travel_purpose_tags": [
+    "Budget"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "moderate",
+    "review_count": 5,
+    "positive_snippet_count": 1,
+    "negative_snippet_count": 3,
+    "positive_theme_count": 4,
+    "negative_theme_count": 2
+  },
+  "aspect_scores": {
+    "cleanliness": 0.0004671191854868,
+    "service": 0.4999705298687331,
+    "location": 0.5,
+    "value_for_money": 0.0003899125149473,
+    "staff_behavior": 0.5000575582234887
+  },
+  "recommendation_features": {
+    "popularity_score": 0.5954889891381056,
+    "rating_score": 4.2,
+    "sentiment_score": 0.4001900278497487
+  },
+  "review_evidence": {
+    "positive_snippets": [
+      "Had the best experience hosting my mom\u2019s birthday at Goa Country Club! The staff was genuinely kind and attentive, the kind that smiles at you even when you\u2019re running around last minute. Everything was smooth and effortless on their end. The service was on point, the venue looked amazing, and the food was loved by literally every guest (which is rare). Super grateful for how well everything was handled. Would 100% recommend for anyone looking to host a chill, well-managed event. \u2728"
+    ],
+    "negative_snippets": [
+      "If you have extra money to waste, only then consider choosing this place. They charge you for the smallest things even for taking a few extra steps on their property. The management and planning are extremely poor, and no one seems to know what\u2019s happening within their own resort.\n\nI booked this property for my wedding reception, and the experience was truly disappointing. Throughout the function, they kept approaching us with additional bills for services that were already included. It felt very unprofessional and money-minded.\n\nThey even went back on their words and charged us for things as minor as a light bulb being used in the manager\u2019s office.\n\nOverall, I would not recommend this place at all.",
+      "Today at 4th March,26...Occassion of Holi celebration....we went there first time... Rs.999/ person charging ... In advertisement charges r included all music, dance DJ, foam party,pools, Rain dance, food and drinks...but when we reached....at food stall, everything is chargeable... We hv to pay extra for every  single thing....don't understand for what they charge 1000rs/ person......place was too small.... Divided in two parts..no cleanliness,..dirty rest rooms, after online booking we hv to wait in queue...for entry bands,...\nIf foods was chargeable, must mention in Instagram adds....pathetic place....worthless,.... We Came bk  in just 1.5 hours.... disappointed and wastage of money.",
+      "I celebrated my sons first bday here in the month of June and they promised that it was an ac hall but the AC was not working.. I was ashamed when all of my guests were dripping in sweat. And then they refused to refund!"
+    ]
+  },
+  "review_summary": "Based on 5 reviews.",
+  "positive_themes": {
+    "friendly_staff": 1,
+    "good_food": 3,
+    "clean_rooms": 1,
+    "great_value": 1
+  },
+  "negative_themes": {
+    "rude_staff": 1,
+    "dirty_rooms": 1
+  }
+}

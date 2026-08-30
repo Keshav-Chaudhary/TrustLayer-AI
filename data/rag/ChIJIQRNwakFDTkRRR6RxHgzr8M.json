@@ -1,0 +1,51 @@
+{
+  "hotel_id": "ChIJIQRNwakFDTkRRR6RxHgzr8M",
+  "hotel_name": "Hazel Town House",
+  "area": "New Delhi",
+  "budget_category": "Mid-Range",
+  "rating": 4.3,
+  "trust_score": 0.7677664939621182,
+  "travel_purpose_tags": [
+    "Business",
+    "Family"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "moderate",
+    "review_count": 5,
+    "positive_snippet_count": 3,
+    "negative_snippet_count": 1,
+    "positive_theme_count": 5,
+    "negative_theme_count": 0
+  },
+  "aspect_scores": {
+    "cleanliness": 0.9998679161071776,
+    "service": 0.9997696280479432,
+    "location": 0.6796773262321949,
+    "value_for_money": 0.9997099339962006,
+    "staff_behavior": 0.9997942000627518
+  },
+  "recommendation_features": {
+    "popularity_score": 0.400664617195975,
+    "rating_score": 4.3,
+    "sentiment_score": 0.8077577821910381
+  },
+  "review_evidence": {
+    "positive_snippets": [
+      "I recently visited Hazel Town, and my experience was outstanding! The company offers high-quality products and top-notch customer service. The staff was polite, professional, and guided me throughout the process. Everything from the product range to delivery was smooth and efficient. I\u2019m really happy with their service and would definitely recommend Hazel Town to others.",
+      "Had an amazing experience with Hazel Town!\nThe quality of their products and the way they handle customers is just impressive. The team is super helpful and ensures you get exactly what you\u2019re looking for. Highly recommend them for anyone who values quality and great service.",
+      "I recently stayed at Hazel Townhouse, Mundka. I had a wonderful stay at this hotel! The staff was courteous and helpful, rooms were clean and well-maintained, and the overall ambience was relaxing. The location is convenient with nearby metro station at a walking distance. Breakfast was delicious with good variety. Definitely recommend for both business and leisure travelers. Will surely return for another stay. Great value for money and excellent hospitality!"
+    ],
+    "negative_snippets": [
+      "Location is very poor\nBhut hi bekar experience\nRoom acche h but location\nSafety bilkul nhi h\n800-1000 ka room h for stay better than Nangloi hotel"
+    ]
+  },
+  "review_summary": "Based on 5 reviews.",
+  "positive_themes": {
+    "friendly_staff": 4,
+    "great_value": 2,
+    "clean_rooms": 1,
+    "good_location": 3,
+    "good_food": 2
+  },
+  "negative_themes": {}
+}

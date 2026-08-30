@@ -1,0 +1,54 @@
+{
+  "hotel_id": "ChIJ-Q4xA7DlDDkRKbmDpYkiiUA",
+  "hotel_name": "Hotel Aarkay Palace",
+  "area": "Sector 44",
+  "budget_category": "Luxury",
+  "rating": 3.9,
+  "trust_score": 0.7638277730384229,
+  "travel_purpose_tags": [
+    "Leisure",
+    "Business"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "rich",
+    "review_count": 5,
+    "positive_snippet_count": 3,
+    "negative_snippet_count": 2,
+    "positive_theme_count": 5,
+    "negative_theme_count": 1
+  },
+  "aspect_scores": {
+    "cleanliness": 0.5000474153639516,
+    "service": 0.9997392296791076,
+    "location": 0.9997845739126204,
+    "value_for_money": 0.9997727274894714,
+    "staff_behavior": 0.9997615615526836
+  },
+  "recommendation_features": {
+    "popularity_score": 0.6439679256745925,
+    "rating_score": 3.9,
+    "sentiment_score": 0.7998768090677914
+  },
+  "review_evidence": {
+    "positive_snippets": [
+      "I had a very pleasant stay at Hotel Aarkay Place. The hotel offers a perfect combination of comfort, cleanliness, and convenience \u2014 especially for travelers visiting South Delhi.\n\nThe rooms were neat, well-maintained, and equipped with all essential amenities. The staff was polite, responsive, and always ready to help, which made the experience even smoother. Check-in and check-out were hassle-free.\n\nThe location is another big advantage \u2014 well connected to key areas, markets, and metro stations, making travel around Noida quite easy.\n\nOverall, it\u2019s a reliable and comfortable option for business trips as well as short family stays. Definitely recommended for anyone looking for a value-for-money stay in Noid.",
+      "I had a wonderful stay at this hotel. The rooms were spotless, well-designed, and very comfortable. The staff was extremely courteous and always ready to help. Food quality was excellent, and the location made it easy to travel around. Truly value for money\u2014would love to stay here again.",
+      "Amazing view from the hotel balcony and gallery. All rooms are properly ventilated with balcony and gallery/corridor with awesome view. I had booked the hotel along with its banquet, lawn and pool area for my haldi, mehendi, sangeet and wedding. Highly satisfied with what they delivered."
+    ],
+    "negative_snippets": [
+      "I recently stayed at Hotel Aarkay Palace and overall, it was a pleasant experience.\n\nI really like the design of the hotel, as every room comes with a balcony, which adds a lot of charm to the stay. The location is excellent, being nearest to Sector 94 and Botanical Garden metro station, making it very convenient.\n\nThe breakfast has improved a lot compared to my previous visit in July. During my September stay, I found the breakfast spread much better with more variety. The dinner was also very good \u2013 the taste stood out, and I would give full 5 stars to the kitchen staff for the quality and flavor of the food.\n\nRoom service is fine \u2013 not very good, but not bad either. There is definitely some scope for improvement in service quality. I also feel that the rooms could benefit from a deep cleaning, and the appliances should be repaired and serviced on time to maintain comfort standards.\n\nThat being said, I would still recommend Hotel Aarkay Palace for its:\n\nGood location (nearest to Sector 94, Botanical Garden station)\n\nSpacious rooms with balconies\n\nGood breakfast and excellent dinner quality\n\nFriendly kitchen staff delivering tasty food\n\nWith a little more attention to housekeeping and service improvements, this hotel can truly become an outstanding place to stay.",
+      "I had a very disappointing stay at this hotel. The room was in a terrible condition. There was a bad smell the moment I entered. The bed was extremely dirty, and the bedsheets did not seem clean at all. The TV was not working, and nothing in the room was functioning properly.\n\nSpending even one night here was very difficult. The washroom and bathroom were also not clean, and overall hygiene was very poor. I am highly dissatisfied with the stay and would not recommend this hotel to anyone."
+    ]
+  },
+  "review_summary": "Based on 5 reviews.",
+  "positive_themes": {
+    "clean_rooms": 4,
+    "friendly_staff": 3,
+    "good_location": 3,
+    "great_value": 2,
+    "good_food": 2
+  },
+  "negative_themes": {
+    "dirty_rooms": 1
+  }
+}

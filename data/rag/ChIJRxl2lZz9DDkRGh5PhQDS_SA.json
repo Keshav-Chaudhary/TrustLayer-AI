@@ -1,0 +1,53 @@
+{
+  "hotel_id": "ChIJRxl2lZz9DDkRGh5PhQDS_SA",
+  "hotel_name": "Oyo Flagship D C Palace",
+  "area": "Gopalpur Village",
+  "budget_category": "Budget",
+  "rating": 3.6,
+  "trust_score": 0.540877042466747,
+  "travel_purpose_tags": [
+    "Leisure"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "rich",
+    "review_count": 5,
+    "positive_snippet_count": 3,
+    "negative_snippet_count": 2,
+    "positive_theme_count": 4,
+    "negative_theme_count": 2
+  },
+  "aspect_scores": {
+    "cleanliness": 0.5,
+    "service": 0.9998875856399536,
+    "location": 0.9981149435043336,
+    "value_for_money": 0.4995835740701295,
+    "staff_behavior": 0.3333934454324965
+  },
+  "recommendation_features": {
+    "popularity_score": 0.379577200550308,
+    "rating_score": 3.6,
+    "sentiment_score": 0.4023257713066414
+  },
+  "review_evidence": {
+    "positive_snippets": [
+      "Had a wonderful stay at the guest house. The AC was comfortable, service was excellent, and the food was delicious. Overall, a great experience and would love to visit again.",
+      "Budget friendly hotel. Good for couple of days to take a tour of Delhi. Near to Metro and many public conveyance.",
+      "Dc . guest house. Parking \ud83c\udd7f\ufe0f arya full.ac . Non. Ac rooms Available"
+    ],
+    "negative_snippets": [
+      "Pathetic experience, firstly OYO executive herself told me about the offer, that a room will be booked at Rs 482. When I reached the hotel, the manager told me room will be Non AC. I talked with 3 customer executive for 70-80 minutes jn total over call and first two executives told me the issue will be resolved. Finally 3rd executive told me that it is a Non AC room only. How the first two executives were not aware of the same. I paid 400 rupees to the manager to get the AC room. Such a bad experience I had with OYO. Rooms were still as per price, but this was problem from OYO, not hotel.",
+      "Pathetic experience. Staff rude behaviour and miss behave with my girlfriend. Dont go there to save few penny. Rooms are u. Cleaned. Uneducated staff. They look at my girlfriend without blinking and she starts feelings unsafe and uncomfortable!"
+    ]
+  },
+  "review_summary": "Based on 5 reviews.",
+  "positive_themes": {
+    "good_food": 1,
+    "friendly_staff": 2,
+    "good_location": 1,
+    "clean_rooms": 1
+  },
+  "negative_themes": {
+    "parking_issues": 1,
+    "rude_staff": 1
+  }
+}

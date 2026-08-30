@@ -1,0 +1,47 @@
+{
+  "hotel_id": "ChIJ4WmKF40BDTkRhunQxIe-GlU",
+  "hotel_name": "Hotel Red Chilly Adarsh Nagar",
+  "area": "New Delhi",
+  "budget_category": "Mid-Range",
+  "rating": 4.9,
+  "trust_score": 0.880417846369468,
+  "travel_purpose_tags": [
+    "Leisure",
+    "Family"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "moderate",
+    "review_count": 5,
+    "positive_snippet_count": 3,
+    "negative_snippet_count": 0,
+    "positive_theme_count": 3,
+    "negative_theme_count": 0
+  },
+  "aspect_scores": {
+    "cleanliness": 0.995089590549469,
+    "service": 0.5,
+    "location": 0.9990422129631042,
+    "value_for_money": 0.995089590549469,
+    "staff_behavior": 0.999866247177124
+  },
+  "recommendation_features": {
+    "popularity_score": 0.2690641681418895,
+    "rating_score": 4.9,
+    "sentiment_score": 0.998583161830902
+  },
+  "review_evidence": {
+    "positive_snippets": [
+      "Nice stay and good location",
+      "Nice stay and Awasome location",
+      "Very good hotel and staff"
+    ],
+    "negative_snippets": []
+  },
+  "review_summary": "Based on 5 reviews.",
+  "positive_themes": {
+    "good_location": 2,
+    "friendly_staff": 1,
+    "great_value": 1
+  },
+  "negative_themes": {}
+}

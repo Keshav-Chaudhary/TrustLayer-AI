@@ -1,0 +1,52 @@
+{
+  "hotel_id": "ChIJe61PIQ8FDTkRhg9m7cdt9gg",
+  "hotel_name": "Fabhotel Lee Way",
+  "area": "New Delhi",
+  "budget_category": "Mid-Range",
+  "rating": 3.5,
+  "trust_score": 0.5051641152146391,
+  "travel_purpose_tags": [
+    "Leisure"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "moderate",
+    "review_count": 5,
+    "positive_snippet_count": 2,
+    "negative_snippet_count": 3,
+    "positive_theme_count": 3,
+    "negative_theme_count": 2
+  },
+  "aspect_scores": {
+    "cleanliness": 0.2740705838805297,
+    "service": 0.0008488975727231,
+    "location": 0.9997349381446838,
+    "value_for_money": 0.0013870898401364,
+    "staff_behavior": 0.5
+  },
+  "recommendation_features": {
+    "popularity_score": 0.4124639098458538,
+    "rating_score": 3.5,
+    "sentiment_score": 0.3101302066876087
+  },
+  "review_evidence": {
+    "positive_snippets": [
+      "Name has been changed to hotel Pratiq. Ok hotel with perfect location.",
+      "I went to delhi for an exam then stayed in the hotel for one night. My experience is almost good. But some of the problems were there.\n1. Rats were moving in the AC duct.\n2. TV was not working, I say to the boy then he says that ye nahi chalega.\n3. There was duct in the almirah.\n4. The fridge was smelling.\n5. Food is costly.\nBut if your want to go for exam or one night stay then its ok you can stay."
+    ],
+    "negative_snippets": [
+      "I had the worst experience in this hotel. They took 2000 for an average room which cost around 1200 to1500. Also they took our 100 rupees in whole when we asked for 20 rupees change, and still they charge us for water and all..\nyou people should get a grip on yourself, I really had the wish to create a scene there or even call the police or sue your hotel but I didn\u2019t.\nThey make two old men in charge of everything who is very bad at service and money seeker.\nAnd in rooms like if u have tv u don\u2019t have fan if u have fan u don\u2019t have tv.\nMost of all it is the wrost hotel I\u2019ve ever seen in service, fee and all.",
+      "Food taste was average. Though there\u2019s luxury setup in terms of seats, rooms I dont know it was empty and felt an air of strangeness. Washrooms needs to be little more clean. Rest everything is okay. But yes, you can order something and sit for long time comfortably in the soft cushioned luxury chairs in good ambience.",
+      "Get this. Their room card reader doesn't work so you have to go to the reception everytime to get your room opened. A room btw which literally stinks. All their different areas of the hotel have absurd stink of different kinds.\nAnd the room cleaning was pathetic\nBathroom had a leaky roof which had made a puddle on the floor.\nWifi doesn't work.\nMini fridge doesn't work.\nTheir 'fresh' towels are delivered wet.\nThe combs they expect their guests to use are already used and dirty. Pillows are torn up. This is a 1 star hotel with bad service and disgusting ambience and pathetic facilities"
+    ]
+  },
+  "review_summary": "Based on 5 reviews.",
+  "positive_themes": {
+    "good_location": 1,
+    "good_food": 2,
+    "clean_rooms": 2
+  },
+  "negative_themes": {
+    "dirty_rooms": 2,
+    "rude_staff": 1
+  }
+}

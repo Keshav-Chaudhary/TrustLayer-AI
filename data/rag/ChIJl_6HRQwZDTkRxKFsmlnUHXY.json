@@ -1,0 +1,50 @@
+{
+  "hotel_id": "ChIJl_6HRQwZDTkRxKFsmlnUHXY",
+  "hotel_name": "Pacific Inn Huda City Centre",
+  "area": "Sector 41",
+  "budget_category": "Budget",
+  "rating": 4.1,
+  "trust_score": 0.5453723848167391,
+  "travel_purpose_tags": [
+    "Budget"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "moderate",
+    "review_count": 5,
+    "positive_snippet_count": 1,
+    "negative_snippet_count": 3,
+    "positive_theme_count": 3,
+    "negative_theme_count": 1
+  },
+  "aspect_scores": {
+    "cleanliness": 0.0002935937154688,
+    "service": 0.0002982378064188,
+    "location": 0.0002050702314591,
+    "value_for_money": 0.0002456897418596,
+    "staff_behavior": 0.5000715098431101
+  },
+  "recommendation_features": {
+    "popularity_score": 0.3914140521329489,
+    "rating_score": 4.1,
+    "sentiment_score": 0.2001912988169351
+  },
+  "review_evidence": {
+    "positive_snippets": [
+      "Such a wonderful stay ,very friendly staff specially Mr. Shivam very cooperative"
+    ],
+    "negative_snippets": [
+      "We had an extremely poor experience with Pacific Inn Hotel. We paid an advance amount to the owner to plan an event after he verbally agreed to all our requirements. However, when we requested the same commitments in writing for clarity and transparency, he started ignoring our messages and avoided confirming anything officially.\nThe service was unprofessional, and the owner was completely non-cooperative. There was no accountability, no proper communication, and no clarity despite taking advance payment.\nI would strongly advise others to be very cautious before booking this property for any event. Make sure everything is documented properly before making any payment.\nHighly disappointed with the overall conduct and service.",
+      "Worst worst worst rooms. Worst services. Not at all worth it. Worst location. Idk how they have 4star rating. Itna ganda room full of leakage. Bathroom itna bekaar .Doors were in a bad condition.\n\nKoi room mein rukega to bimar ho jayega. Pure paise waste. They need to renovate the whole building. Bohot hi ghatiya rooms the yrr. Trust me don\u2019t waste your money here please",
+      "I would like to give 0 star on my experience but there are only option is minimum 1. Horrible experience I have on my business tour. Maybe all other reviews are fake or either paid basis.\n\n1. Very much unprofessional person at reception. Not answering anything properly. Not giving any proper service. Although he ask us to leave if we are not comfortable with room\n2. Room TV is not working / AC is working but they don\u2019t have remote.\n3. Door locking system is failed / washroom (flush / shower not working )\n\nThey don\u2019t even want to improve their service and hospitality. I\u2019m not writing with personal but had a highly unprofessional and horrible experience in this hotel."
+    ]
+  },
+  "review_summary": "Based on 5 reviews.",
+  "positive_themes": {
+    "friendly_staff": 2,
+    "good_location": 1,
+    "great_value": 1
+  },
+  "negative_themes": {
+    "rude_staff": 3
+  }
+}

@@ -1,0 +1,56 @@
+{
+  "hotel_id": "ChIJLfQAWagDDTkRGM0hGwSrAyw",
+  "hotel_name": "Orana Aurnum Mayapuri | Hotel And Banquet",
+  "area": "New Delhi",
+  "budget_category": "Mid-Range",
+  "rating": 4.3,
+  "trust_score": 0.7697088142959392,
+  "travel_purpose_tags": [
+    "Leisure",
+    "Family"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "moderate",
+    "review_count": 5,
+    "positive_snippet_count": 2,
+    "negative_snippet_count": 3,
+    "positive_theme_count": 5,
+    "negative_theme_count": 3
+  },
+  "aspect_scores": {
+    "cleanliness": 0.9997938573360444,
+    "service": 0.7498754733096575,
+    "location": 0.9997307658195496,
+    "value_for_money": 0.9993938207626344,
+    "staff_behavior": 0.6007599851931446
+  },
+  "recommendation_features": {
+    "popularity_score": 0.7202932573848838,
+    "rating_score": 4.3,
+    "sentiment_score": 0.6007599851931446
+  },
+  "review_evidence": {
+    "positive_snippets": [
+      "\u2b50\u2b50\u2b50\u2b50\u2b50\nOutstanding Stay \u2013 Truly a Royal Experience!\nI stayed at Orana Aurnam Hotel for 6 days during my Delhi tour, and it was truly a wonderful and memorable experience. From the moment I checked in till checkout, everything was absolutely outstanding.\nThe staff deserves special appreciation \u2014 extremely polite, attentive, and genuinely caring. They take guest comfort seriously and pay attention to even the smallest details at a micro level, which really makes you feel special and valued.\nThe rooms are spacious, very clean, and super comfortable, perfect for a long stay. The food quality and breakfast spread were excellent, fresh, and well-prepared every day. The location is very convenient, making travel around Delhi easy, and the ample car parking space is a big plus.\nBoth check-in and check-out processes were smooth and hassle-free, showing how well-organized the hotel management is. Throughout my stay, the team made me feel truly royal and ensured a super comfort level that is hard to find.\nI honestly don\u2019t have enough words to describe their outstanding hospitality and guest-focused approach.\nHighly recommended for anyone planning a stay in Delhi \u2014 whether for business or leisure. I would definitely choose Orana Aurnam Hotel again without a second thought.\n\u2b50 5/5 \u2013 Exceptional in every aspect.....",
+      "\u2b50\u2b50\u2b50\u2b50\u2b50\nI had an absolutely wonderful experience at this hotel. From the moment I arrived, the staff was extremely warm, welcoming, and professional. The team went out of their way to ensure that every detail was taken care of, making my stay truly comfortable and memorable.\n\nThe rooms were clean, well-maintained, and equipped with everything I needed. The service was quick, and the staff was always ready to help with a smile. What stood out the most was the helpful and cooperative nature of the entire team \u2013 they made me feel like a valued guest throughout my stay.\nMr Azam Mr Keshav Mr Vidya All Are Very Helpful\n\nOverall, it was a perfect experience, and I would highly recommend this hotel to anyone looking for comfort, great service, and a truly hospitable environment. Definitely deserves 5 stars! \ud83c\udf1f\n\nThanks You so much"
+    ],
+    "negative_snippets": [
+      "NEVER STAY HERE!\nOne word: Rubbish place.\nDuring my stay- The staff was extremely unprofessional and argumentative when requested to address basic concerns.\n\nMusic was played well beyond the permissible Delhi noise regulation limits, continuing until 2:00 AM. Around midnight, I called the reception requesting them to reduce the music volume and also asked that the housekeeping staff working on the third floor (right behind my room) keep the noise down. Unfortunately, there was NO response or action taken. Loud arguing, abusive language, and the sound of crockery continued throughout the night.\n\nAt 2:00 AM, when I personally requested the staff member on my floor (third) to reduce the noise, he responded rudely: \u201cYeh toh aise hi hota hai, toh ab kaam na karein? Manager ko bula lo itna hi hai toh.\u201d The manager of the hotel never showed up despite the situation.\n\nOn 19th February, 2:15 am  (early morning duty), when I called reception again to report the issue, the staff member casually responded, \u201cArey haan haan, abhi aate hain,\u201d but no one ever came.\n\nMy sleep was completely ruined, and no one took responsibility for managing the disturbance.\n\nI strongly advise against organizing any function or staying at this hotel. The staff behavior and lack of accountability are unacceptable.",
+      "We hosted our wedding at Orana Aurnum. About 10\u201312 days before the event, we visited the venue and sat down with Robin, the manager. During that meeting, we finalized all the elements for the bridal entry\u2014like smoke bubbles, a glass walkway, and a few other details\u2014and clearly confirmed everything from our side. At that point, it was the manager\u2019s responsibility to record everything accurately and inform us of any extra charges (which he did mention, and we agreed to).\n\nHowever, on the wedding day, none of the things we had discussed were arranged. When we contacted the manager, he shifted the blame onto us, claiming we hadn\u2019t confirmed or paid for any additional services. This was extremely disappointing, especially because we had already given our approval. Expecting WhatsApp confirmation\u2014something he never communicated to us\u2014is not a professional way to handle clients, and using that excuse on the wedding day felt unacceptable.\n\nThe only reason I\u2019m giving 2 stars is because the food was excellent and the staff was polite. Otherwise, please be extremely cautious when planning your special day here.",
+      "Rating: \u2605\u2605\u2605\u2606\u2606\u2606 (3.5/5)\n\nI recently visited Orana Aurnum Mayapuri, and my experience was generally positive, though there were a few things that could be improved.\n\nStarting with the staff, Himanshu, Rajkumar and Rojit really stood out for their friendly and attentive service. They were both welcoming and ensured that we felt comfortable throughout our visit. Their professionalism was much appreciated, and they made the experience more pleasant overall. Kudos to both of them!\nFood quality was great, additionally, there were a couple of delays with our order, and while the staff was quick to apologize and explain, it did affect the overall timing of our meal. Not a major issue, but worth noting. One downside was the lack of laundry services, which was a bit of an inconvenience during my stay.\n\nOverall, Orana Aurnum Mayapuri is a good choice for a casual outing, especially if you're looking for good service and a pleasant ambiance. However, there\u2019s definitely room for improvement when it comes to food consistency and efficiency. I would still recommend it, but with the expectation that it may not blow you away."
+    ]
+  },
+  "review_summary": "Based on 5 reviews.",
+  "positive_themes": {
+    "clean_rooms": 2,
+    "friendly_staff": 5,
+    "good_location": 1,
+    "great_value": 3,
+    "good_food": 3
+  },
+  "negative_themes": {
+    "parking_issues": 1,
+    "rude_staff": 1,
+    "noise": 1
+  }
+}

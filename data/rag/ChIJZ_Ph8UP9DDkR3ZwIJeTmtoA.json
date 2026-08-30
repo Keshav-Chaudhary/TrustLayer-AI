@@ -1,0 +1,56 @@
+{
+  "hotel_id": "ChIJZ_Ph8UP9DDkR3ZwIJeTmtoA",
+  "hotel_name": "Hotel Signature Grand",
+  "area": "New Delhi",
+  "budget_category": "Mid-Range",
+  "rating": 4.0,
+  "trust_score": 0.671293245532848,
+  "travel_purpose_tags": [
+    "Budget"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "moderate",
+    "review_count": 5,
+    "positive_snippet_count": 2,
+    "negative_snippet_count": 3,
+    "positive_theme_count": 5,
+    "negative_theme_count": 4
+  },
+  "aspect_scores": {
+    "cleanliness": 0.0007286551772267,
+    "service": 0.0007286551772267,
+    "location": 0.5,
+    "value_for_money": 0.0011718188034137,
+    "staff_behavior": 0.4006512590829515
+  },
+  "recommendation_features": {
+    "popularity_score": 0.7452491838161257,
+    "rating_score": 4.0,
+    "sentiment_score": 0.4006512590829515
+  },
+  "review_evidence": {
+    "positive_snippets": [
+      "Went to this place to attend a wedding. The food was amazing, rooms were spacious and the staff was also very humble and nice. Definitely recommend this place for your family functions. We faced no issues.",
+      "Very good nice and friendly hotel signature grand for us very delicious food in this hotel and all are comfortable stay in hotel there is manager of Sanjay bajaj sir very every think is fine so my suggestion to every tourist to stay this hotel .staff also very friendly and responsible....."
+    ],
+    "negative_snippets": [
+      "We stayed here for 3 nights, plan was to stay for 4 nights but the overall service and room cleanliness was so bad that we checked out prior one night.\nThis hotel has no windows, in restaurant, there are very less lights, you get a feeling as if you are in a bar.\nThe management is worried only about the weddings and programs, no or less attention towards customers who came only for stay.\nThey charge 100 Rs for coffee and 70 Rs for mineral water bottle, which is too high and tea / coffee is not at all worth 20 Rs. On one day you will get overdoes of ginger in tea and on another day you will get overdose of tea powder in tea. No consistency.\nRooms are congested, poorly designed corridor and rooms. You do not feel fresh anytime.\nWorst thing is about cleanliness, we found used condom packet below our bed. pathetic! we brought this to notice of management, they were prompt enough to come and clean the room up within no time, also the manager himself came to our room and apologised, however, we lost our faith in this hotel and we decided to change hotel.\n\nTwo plus points -\n1. The restaurant chef was kind enough to cook food which we carried with for our 1.5 year old. This made us so relieved to see our kid eating his favourite food.\n2. Hot water is available 24 hours, and you will not have to wait for it. open the tap you will get it withing no time. Necessary for winters in Delhi.",
+      "Extremely poor hotel overall that is showing signs of what was good sometime back. The rooms are in bad condition with very poor maintenance. Staff is not intrested in taking care of guests and after outright rude. Food is tasteless and expensive. There is no parking facility available. Even if you park right in front of the hotel, right by their own boundary wall, you can expect to get a challan by Delhi Police. Overall an extremely bad experience. Avoid at all costs.",
+      "I had one of the worst experiences at The Signature Grand. The rooms were extremely dirty, poorly maintained, and nowhere close to what a decent hotel should offer. The staff was unprofessional, rude, and completely lacking basic hospitality skills \u2013 they don\u2019t even know how to speak to guests properly. On top of that, they failed to provide something as basic as cutlery when asked.\n\nOverall, this place is highly disappointing and does not live up to even minimum service standards. Definitely not worth the money \u2013 I would strongly advise avoiding this hotel."
+    ]
+  },
+  "review_summary": "Based on 5 reviews.",
+  "positive_themes": {
+    "friendly_staff": 4,
+    "good_food": 4,
+    "clean_rooms": 1,
+    "great_value": 2,
+    "good_location": 1
+  },
+  "negative_themes": {
+    "rude_staff": 2,
+    "bad_food": 1,
+    "parking_issues": 1,
+    "dirty_rooms": 1
+  }
+}

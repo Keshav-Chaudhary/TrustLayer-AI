@@ -1,0 +1,40 @@
+{
+  "hotel_id": "ChIJnd_wn9j5DDkRNKbthWouCeo",
+  "hotel_name": "Oyo Sunshine Residency Hotel",
+  "area": "Loni",
+  "budget_category": "Budget",
+  "rating": 3.4,
+  "trust_score": 0.5001945643419254,
+  "travel_purpose_tags": [
+    "Budget"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "sparse",
+    "review_count": 1,
+    "positive_snippet_count": 1,
+    "negative_snippet_count": 0,
+    "positive_theme_count": 0,
+    "negative_theme_count": 0
+  },
+  "aspect_scores": {
+    "cleanliness": NaN,
+    "service": NaN,
+    "location": NaN,
+    "value_for_money": NaN,
+    "staff_behavior": NaN
+  },
+  "recommendation_features": {
+    "popularity_score": 0.1667945549845492,
+    "rating_score": 3.4,
+    "sentiment_score": 0.5
+  },
+  "review_evidence": {
+    "positive_snippets": [
+      "Nice hotel"
+    ],
+    "negative_snippets": []
+  },
+  "review_summary": "Based on 1 reviews.",
+  "positive_themes": {},
+  "negative_themes": {}
+}

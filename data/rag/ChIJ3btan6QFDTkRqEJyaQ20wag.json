@@ -1,0 +1,52 @@
+{
+  "hotel_id": "ChIJ3btan6QFDTkRqEJyaQ20wag",
+  "hotel_name": "Hotel Allen Stay\u2019S",
+  "area": "Uttam Nagar",
+  "budget_category": "Budget",
+  "rating": 4.7,
+  "trust_score": 0.6974944473484463,
+  "travel_purpose_tags": [
+    "Budget"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "moderate",
+    "review_count": 5,
+    "positive_snippet_count": 2,
+    "negative_snippet_count": 3,
+    "positive_theme_count": 4,
+    "negative_theme_count": 1
+  },
+  "aspect_scores": {
+    "cleanliness": 0.000717531137828,
+    "service": 0.0008472980116494,
+    "location": 0.0008472980116494,
+    "value_for_money": 0.0002319613849977,
+    "staff_behavior": 0.500120549917483
+  },
+  "recommendation_features": {
+    "popularity_score": 0.4314460575440993,
+    "rating_score": 4.7,
+    "sentiment_score": 0.4003111067373538
+  },
+  "review_evidence": {
+    "positive_snippets": [
+      "Very good experience and stuff very polite and cooperative.Good place to stay",
+      "Good place to stay,\nstaff is very polite too,\nI suggest your hotel in my friend circle...."
+    ],
+    "negative_snippets": [
+      "Do not book room here. Please prefer to stay in dharmashala rather than staying here.\nPoor cleaning services. Rooms are without windows even no exhaust fan in bathroom.",
+      "I had Booked a deluxe room in this hotel for a night for my senior citizen parents. Let me tell you the staff who was in reception was awful, disrespectful, and denied checkin firstly. After good 20 minutes of arguments and repetitive showing of booking details he gave a room. This room was not at all what I have booked for them. No toiletries, no hot water kettle Nothin was as mentioned in their website. The washroom was not even cleaned and had popped on it by the previous visitors. It's winters these days and they don't have provision of hot water in their bathroom and they give you a jug full of water to take a bath on paid basis .\n\nPlease do not visit this hotel even if you need a basic room for a day.  The only thing is it's near the uttam nagar metro station and easy to commute",
+      "I stayed at this hotel for 2 nights and it was a terrible experience. Loud music kept playing till late at night, and even after repeatedly informing the staff, no action was taken. The washroom was in a broken condition \u2014 the fittings were damaged and one of the lights wasn\u2019t working. Overall, very poor maintenance and lack of concern for guests\u2019 comfort. Definitely not worth the stay."
+    ]
+  },
+  "review_summary": "Based on 5 reviews.",
+  "positive_themes": {
+    "friendly_staff": 4,
+    "clean_rooms": 2,
+    "good_location": 1,
+    "great_value": 1
+  },
+  "negative_themes": {
+    "noise": 1
+  }
+}

@@ -1,0 +1,49 @@
+{
+  "hotel_id": "ChIJ59PVuv4bDTkRw6GldlMth6I",
+  "hotel_name": "Hotel Tms Grand",
+  "area": "Sector 7 Dwarka",
+  "budget_category": "Mid-Range",
+  "rating": 4.6,
+  "trust_score": 0.8430899064992099,
+  "travel_purpose_tags": [
+    "Family"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "moderate",
+    "review_count": 5,
+    "positive_snippet_count": 3,
+    "negative_snippet_count": 1,
+    "positive_theme_count": 4,
+    "negative_theme_count": 0
+  },
+  "aspect_scores": {
+    "cleanliness": 0.9996190965175628,
+    "service": 0.5002189646183978,
+    "location": 0.5,
+    "value_for_money": 0.9997046987215678,
+    "staff_behavior": 0.999744787812233
+  },
+  "recommendation_features": {
+    "popularity_score": 0.5790735793404571,
+    "rating_score": 4.6,
+    "sentiment_score": 0.7999104050802999
+  },
+  "review_evidence": {
+    "positive_snippets": [
+      "My stay at TMS Grand was truly joyful and very comfortable. The rooms were clean, well-maintained, and provided a relaxing atmosphere after a long day. The staff was polite, helpful, and always ready to assist, which made the overall experience even better. The service was prompt, and the facilities were well organized.\n\nI especially appreciated the peaceful environment and the attention to guest comfort. Overall, it was a pleasant and satisfying stay, and I would definitely recommend TMS Grand to anyone looking for a comfortable and enjoyable experience.",
+      "I recently stayed at this hotel and had a decent experience overall. It\u2019s definitely budget-friendly, and for the price I paid, the services were appropriate and fair.\n\nThe highlight of my stay was the staff. Their behavior was outstanding \u2014 they were extremely courteous, friendly, and always ready to help with a smile. Their hospitality truly made the stay more comfortable and pleasant.",
+      "We stayed for a day. Experience has been very good. Room was clean and receptionist were so humble and polite. TV provided in our room was an Android version so it was it easy for us to watch our shows as was in home. In the locality this is one of the fine stay for a very decent budget."
+    ],
+    "negative_snippets": [
+      "Our stay at this hotel was disappointing. The TV was not working during our entire stay. We stayed for two days, but room service and housekeeping were not done even once. Basic amenities were missing \u2014 slippers were not provided, the basin light was not working, and there was no night lamp in the room.\nWe had booked the room for two people, but only one towel was provided, which was inconvenient. Overall, the lack of maintenance and poor service did not meet expectations. I hope the management improves these basic facilities for future guests."
+    ]
+  },
+  "review_summary": "Based on 5 reviews.",
+  "positive_themes": {
+    "clean_rooms": 2,
+    "friendly_staff": 4,
+    "great_value": 1,
+    "good_location": 1
+  },
+  "negative_themes": {}
+}

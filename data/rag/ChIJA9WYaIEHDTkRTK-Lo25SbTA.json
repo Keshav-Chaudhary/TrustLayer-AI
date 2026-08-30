@@ -1,0 +1,52 @@
+{
+  "hotel_id": "ChIJA9WYaIEHDTkRTK-Lo25SbTA",
+  "hotel_name": "Hotel 7 Star",
+  "area": "Sector 22",
+  "budget_category": "Mid-Range",
+  "rating": 4.5,
+  "trust_score": 0.6009351804773692,
+  "travel_purpose_tags": [
+    "Budget"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "moderate",
+    "review_count": 5,
+    "positive_snippet_count": 1,
+    "negative_snippet_count": 3,
+    "positive_theme_count": 4,
+    "negative_theme_count": 2
+  },
+  "aspect_scores": {
+    "cleanliness": 0.0003527443041093,
+    "service": 0.0002665696592884,
+    "location": 0.5,
+    "value_for_money": 0.0001803950144676,
+    "staff_behavior": 0.2492954526060201
+  },
+  "recommendation_features": {
+    "popularity_score": 0.4031471593455658,
+    "rating_score": 4.5,
+    "sentiment_score": 0.1998572793294442
+  },
+  "review_evidence": {
+    "positive_snippets": [
+      "Badiya hotel h couple friendly\nSaf suthre room h\nFood b best h\nSafe and secure\nPrivacy assurance"
+    ],
+    "negative_snippets": [
+      "Hotel 7 Star, Sector 20 & Sector 22 Rohini, Delhi is completely fraudulent and unsafe. We came all the way from Assam for important work, but this hotel ruined our trip and put us through a traumatic and risky experience.\nThey denied our check-in even after full advance payment, gave false excuses, and then forced us to shift to another property with the same name in Sector 22 Rohini. After check-in, they allotted an unhygienic room filled with used condoms, cigarette butts, and foul smell.\nAfter an hour, the staff started demanding extra \u20b92300 per night, claiming our booking was made for another hotel under the same name. We paid the same.  they harassed us throughout the night, knocking on our door and ringing the bell repeatedly. The telephone didn\u2019t work, so there was no way to call the front desk.\nThis entire incident felt like a trap and scam. The place is unsafe, unhygienic, and highly unprofessional. I strongly warn everyone not to book this hotel through MakeMyTrip or any other platform.\nMMT should immediately ban Hotel 7 Star for such fraudulent and unsafe practices.\nStay away from Hotel 7 Star, Sector 20 and Sector 22 Rohini \u2014 it\u2019s a total scam and a threat to your safety.",
+      "Receptionist is not polite, i have stayed here 4-5 times and spent more than 75,000 INR with these guys, given more than 5000inr tips to their cleaners and they dont know how to speak with respect\n\nwill never stay here again",
+      "Cannot be trusted!\n\nI had booked 2 rooms one day in advance, booking amount was given. While booking we had asked them if they can provide check-in between 10-11AM (July 6th), they agreed to it and hence booked the rooms.\n\nGuess what happened next day, we went to confirm if rooms are ready for check-in around 10:30AM, because guests were arriving soon and they told rooms are not available yet (all rooms are full), we will provide a room soon.\n\nNow that\u2019s why they cannot be trusted, what\u2019s the point pf advance booking? Denied the refund as well, saying we cannot provide the refund as per policy. Does their policy say, we won\u2019t give room and refund both?"
+    ]
+  },
+  "review_summary": "Based on 5 reviews.",
+  "positive_themes": {
+    "friendly_staff": 4,
+    "good_food": 1,
+    "clean_rooms": 1,
+    "great_value": 1
+  },
+  "negative_themes": {
+    "dirty_rooms": 1,
+    "rude_staff": 2
+  }
+}

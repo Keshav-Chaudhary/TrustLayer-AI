@@ -1,0 +1,48 @@
+{
+  "hotel_id": "ChIJQ_bOxt8BDTkRAmvBpYtyb_U",
+  "hotel_name": "Manali Hotel Rooms",
+  "area": "Nangli Puna",
+  "budget_category": "Mid-Range",
+  "rating": 3.7,
+  "trust_score": 0.4299607737975367,
+  "travel_purpose_tags": [
+    "Budget"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "moderate",
+    "review_count": 5,
+    "positive_snippet_count": 0,
+    "negative_snippet_count": 3,
+    "positive_theme_count": 3,
+    "negative_theme_count": 1
+  },
+  "aspect_scores": {
+    "cleanliness": 0.0021959509613224,
+    "service": 0.001447236893,
+    "location": 0.0004954850737703,
+    "value_for_money": 0.0021116251155034,
+    "staff_behavior": 0.0023650142829865
+  },
+  "recommendation_features": {
+    "popularity_score": 0.3968120751380856,
+    "rating_score": 3.7,
+    "sentiment_score": 0.0015158469323068
+  },
+  "review_evidence": {
+    "positive_snippets": [],
+    "negative_snippets": [
+      "not recommended at all , place is very far from Delhi and there is no eating point or shop , it's very deserted and not safe at all for kids and women . one should avoid this hotel at all costs . there is no proper ventilation in room , and you have to climb many stairs to reach the rooms , my old parents had very difficult time. there was no lift . most of the rooms has bad odour and smell. bathrooms stink and stench .please avoid to escape bad experience.",
+      "Would never stay here again. There was no provision for the crazy amount of mosquitoes, the food tasted like it was made out of mud. If you want to have even a less than decent exp, DO NOT STAY HERE. total money waste age",
+      "rooms were not clean , linen was dirty with hair and dirt marks , i also saw a rat in the room . lots of smell in bathroom . it was a 500 rupee room being sold for 1200 . even oyo is better. dont waste your money"
+    ]
+  },
+  "review_summary": "Based on 5 reviews.",
+  "positive_themes": {
+    "good_food": 2,
+    "clean_rooms": 1,
+    "friendly_staff": 1
+  },
+  "negative_themes": {
+    "dirty_rooms": 2
+  }
+}

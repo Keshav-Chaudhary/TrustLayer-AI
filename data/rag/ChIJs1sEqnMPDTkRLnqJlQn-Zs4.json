@@ -1,0 +1,50 @@
+{
+  "hotel_id": "ChIJs1sEqnMPDTkRLnqJlQn-Zs4",
+  "hotel_name": "Flagship Royal Mini Guest House Near Najafgarh Metro Station",
+  "area": "Najafgarh",
+  "budget_category": "Mid-Range",
+  "rating": 3.9,
+  "trust_score": 0.6489250111429842,
+  "travel_purpose_tags": [
+    "Budget"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "rich",
+    "review_count": 5,
+    "positive_snippet_count": 3,
+    "negative_snippet_count": 2,
+    "positive_theme_count": 2,
+    "negative_theme_count": 1
+  },
+  "aspect_scores": {
+    "cleanliness": 0.9996367692947388,
+    "service": 0.5002903303247875,
+    "location": 0.5,
+    "value_for_money": 0.5,
+    "staff_behavior": 0.999687522649765
+  },
+  "recommendation_features": {
+    "popularity_score": 0.4031471593455658,
+    "rating_score": 3.9,
+    "sentiment_score": 0.6002754747867585
+  },
+  "review_evidence": {
+    "positive_snippets": [
+      "Very good and fabulous services hotels please visit one more time ...Very finished furniture and all services \ud83e\udd1e\ud83e\udd1e",
+      "Nice and easy checkin process.. good staff behaviour.rooms were clean",
+      "It was a very nice hotel and the service was fast and the staff was also friendly \ud83e\udd70\ud83d\ude18\ud83e\udd73\ud83d\udcaf"
+    ],
+    "negative_snippets": [
+      "Mr. Sanjeev Sharma is a person with bad intentions as has no courtesy to refund the paid amount of INR 7700.00 on his Paytm account on 14-May-2024 at about 1745 hours.\n\nSo the review is bad and would circulate this all over in the hospitality circle & all across from OLTAs such as MMT etc. It would be beneficial for \"OYO Rooms\" to remove its affiliation from this guest house.",
+      "Very bad service they don't provide bills and runs most of the times illegally. Even the employees behave very rudely and use slang when you ask for bills. Even after 6 days still they didn't provided the bill."
+    ]
+  },
+  "review_summary": "Based on 5 reviews.",
+  "positive_themes": {
+    "clean_rooms": 1,
+    "friendly_staff": 2
+  },
+  "negative_themes": {
+    "rude_staff": 1
+  }
+}

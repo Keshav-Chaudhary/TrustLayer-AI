@@ -1,0 +1,47 @@
+{
+  "hotel_id": "ChIJw8lJYrD5DDkRYxfhdw87qbM",
+  "hotel_name": "Oyo Dream Holiday Hotel",
+  "area": "Loni",
+  "budget_category": "Budget",
+  "rating": 4.0,
+  "trust_score": 0.7996707943762974,
+  "travel_purpose_tags": [
+    "Business"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "moderate",
+    "review_count": 5,
+    "positive_snippet_count": 3,
+    "negative_snippet_count": 1,
+    "positive_theme_count": 2,
+    "negative_theme_count": 0
+  },
+  "aspect_scores": {
+    "cleanliness": 0.9991399049758912,
+    "service": 0.9991399049758912,
+    "location": 0.5,
+    "value_for_money": 0.5,
+    "staff_behavior": 0.9989891350269318
+  },
+  "recommendation_features": {
+    "popularity_score": 0.4509444728626801,
+    "rating_score": 4.0,
+    "sentiment_score": 0.9992379665374757
+  },
+  "review_evidence": {
+    "positive_snippets": [
+      "Nice and cooperative staff\nRooms are luxurious this is an awsome place",
+      "Nice and cooperative staff\nRooms are luxurious",
+      "Okay okay type place"
+    ],
+    "negative_snippets": [
+      "Satisfied service and clean, hygiene complex."
+    ]
+  },
+  "review_summary": "Based on 5 reviews.",
+  "positive_themes": {
+    "friendly_staff": 2,
+    "clean_rooms": 1
+  },
+  "negative_themes": {}
+}

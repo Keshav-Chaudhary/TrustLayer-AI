@@ -1,0 +1,50 @@
+{
+  "hotel_id": "ChIJI-7G1TX9DDkR6Whnu2m6VrM",
+  "hotel_name": "Flexibay -Affordable Hostel In North Delhi",
+  "area": "New Delhi",
+  "budget_category": "Budget",
+  "rating": 4.6,
+  "trust_score": 0.7800290023793854,
+  "travel_purpose_tags": [
+    "Budget"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "moderate",
+    "review_count": 5,
+    "positive_snippet_count": 3,
+    "negative_snippet_count": 1,
+    "positive_theme_count": 3,
+    "negative_theme_count": 1
+  },
+  "aspect_scores": {
+    "cleanliness": 0.4994666390848578,
+    "service": 0.0004593358899001,
+    "location": 0.5,
+    "value_for_money": 0.5,
+    "staff_behavior": 0.4994666390848578
+  },
+  "recommendation_features": {
+    "popularity_score": 0.2834140261914359,
+    "rating_score": 4.6,
+    "sentiment_score": 0.7993601605587173
+  },
+  "review_evidence": {
+    "positive_snippets": [
+      "Flexibay is the perfect mix of hostel comfort and hotel luxury! Loved the flexible stay options \u2014 I booked just for 2 nights but ended up extending for a week. Super clean rooms and friendly staff",
+      "Amazing experience at Flexibay! It feels like a hotel but has the homely vibe of a hostel. The flexible check-in and check-out policy made my trip so much easier. Highly recommended for solo travellers",
+      "\u201cA perfect blend of comfort, affordability, and flexibility. The vibe here is great \u2014 peaceful yet social. Flexibay really stands out from regular hostels!\u201d"
+    ],
+    "negative_snippets": [
+      "I had a very bad experience at this hotel. The service was extremely poor, and the staff behaved very rudely. The service boy misbehaved and spoke in a very unprofessional and disrespectful manner.\n\nThere was no washroom in the room, which was very inconvenient. Overall, the behavior of the staff was unacceptable.\n\nI personally do not recommend this hotel. Please avoid it."
+    ]
+  },
+  "review_summary": "Based on 5 reviews.",
+  "positive_themes": {
+    "clean_rooms": 1,
+    "friendly_staff": 2,
+    "good_location": 1
+  },
+  "negative_themes": {
+    "rude_staff": 1
+  }
+}

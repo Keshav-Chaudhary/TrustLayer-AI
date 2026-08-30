@@ -1,0 +1,48 @@
+{
+  "hotel_id": "ChIJb75Ao-79DDkRsIlRbmeNhYw",
+  "hotel_name": "Hotel O Vishesh Villas",
+  "area": "Model Town",
+  "budget_category": "Mid-Range",
+  "rating": 3.3,
+  "trust_score": 0.4833521041323591,
+  "travel_purpose_tags": [
+    "Budget"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "moderate",
+    "review_count": 5,
+    "positive_snippet_count": 2,
+    "negative_snippet_count": 3,
+    "positive_theme_count": 2,
+    "negative_theme_count": 0
+  },
+  "aspect_scores": {
+    "cleanliness": 0.999815970659256,
+    "service": 0.5,
+    "location": 0.5,
+    "value_for_money": 0.0004374707932583,
+    "staff_behavior": 0.5
+  },
+  "recommendation_features": {
+    "popularity_score": 0.2996445504991384,
+    "rating_score": 3.3,
+    "sentiment_score": 0.4003093922161497
+  },
+  "review_evidence": {
+    "positive_snippets": [
+      "All staffs were good and well educated and know how to talk. Neat/ Clean rooms.",
+      "I had an excellent experience at this hotel, the check in process was smooth and efficient, the room was comfortable and clean. Highly recommended."
+    ],
+    "negative_snippets": [
+      "They denied your booking upfront and refused to provide you a room, stating they do not accept online bookings. If that's the case, why do they list their property on websites? They should take responsibility for coordinating their listings with these sites. They should either not list their property or provide the services advertised, so customers don't have to suffer mentally and physically, especially in the summer with their luggage. Not recommended at all.",
+      "I was asked to pay extra money for check in.. They said they have no relationship with Oyo.. They also refused to speak with Oyo customer care executive.. Since I was tired and have more luggage I had no option to give money and take rest. I almost waited for 45 mins to get clarification from Oyo side.. but no one replied back.. They deliberately took my phone and asked me to give 5 star rating in their review at a time of checkout. It was a horrible experience. I want my money back or pls avoid franchise with these types of hotels.. Don't ever go to this hectic place... They are fraud..",
+      "They only give rooms to hourly couples .\nThis is not for family or frndz only couple for hourly they even decide themselves n pressure to guest for check out .\nDont go there worst experience ."
+    ]
+  },
+  "review_summary": "Based on 5 reviews.",
+  "positive_themes": {
+    "clean_rooms": 2,
+    "friendly_staff": 1
+  },
+  "negative_themes": {}
+}

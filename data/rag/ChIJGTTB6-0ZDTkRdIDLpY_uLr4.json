@@ -1,0 +1,52 @@
+{
+  "hotel_id": "ChIJGTTB6-0ZDTkRdIDLpY_uLr4",
+  "hotel_name": "Hotel 91 Huda City Centre Gurgaon",
+  "area": "Sector 45",
+  "budget_category": "Mid-Range",
+  "rating": 4.3,
+  "trust_score": 0.7560752190720085,
+  "travel_purpose_tags": [
+    "Leisure"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "rich",
+    "review_count": 5,
+    "positive_snippet_count": 3,
+    "negative_snippet_count": 2,
+    "positive_theme_count": 4,
+    "negative_theme_count": 1
+  },
+  "aspect_scores": {
+    "cleanliness": 0.9982963999112447,
+    "service": 0.4980769682733807,
+    "location": 0.995194971561432,
+    "value_for_money": 0.0009589649853296,
+    "staff_behavior": 0.6654231639113277
+  },
+  "recommendation_features": {
+    "popularity_score": 0.6582123890753627,
+    "rating_score": 4.3,
+    "sentiment_score": 0.5994144108262844
+  },
+  "review_evidence": {
+    "positive_snippets": [
+      "I appreciate n want to thanks Hari Pandey for helping n guiding for my daughter\u2019s first birthday celebration. He provided all the facilities as discussed while booking the banquet. The place was also good n clean. We enjoyed so much",
+      "Hotel is 40 minutes away from Airport. 1.4km away from Huda City centre Metro station, good connectivity.\nFood is good and staff is also polite.All facility are very good, Hair dryer needs to be provided in Bathroom.Room service is good. TV are not having cable connection and wifi connection, this needs to be improved.",
+      "The hotel stay was overall pleasant. The room was clean and well maintained, and the staff was cooperative"
+    ],
+    "negative_snippets": [
+      "Except for the food, everything else was good. However, the food quality has been the biggest drawback. Even after raising complaints, nothing was rectified.\n\nThere were offers mentioned on the starters, but the terms were unclear. After placing the order, the staff called some time later to inform us that the items were not included in the offer.\n\nWe ordered butter roti but were served plain roti. On Day 1, the butter chicken was boneless, but on Day 2, the same dish was served with bone. Quite disappointed with the food.",
+      "had an unfortunate experience with Hotel 91, mainly due to the extremely poor consideration for surrounding residents. The hotel is located right on the main road, and during weddings or parties, the music is played at such an excessive volume that it becomes impossible for nearby residents to rest \u2014 often continuing late into the night.\nWhile celebrations are understandable, basic civic sense and respect for the neighbourhood seem to be completely ignored. Loud music echoing on a busy road is not just inconvenient but genuinely distressing for families, elderly people, and anyone needing rest.\nI sincerely hope the management reflects on this and takes responsibility by controlling noise levels and adhering to local noise regulations. Hospitality should not come at the cost of public peace."
+    ]
+  },
+  "review_summary": "Based on 5 reviews.",
+  "positive_themes": {
+    "clean_rooms": 2,
+    "friendly_staff": 3,
+    "good_food": 2,
+    "good_location": 1
+  },
+  "negative_themes": {
+    "noise": 1
+  }
+}

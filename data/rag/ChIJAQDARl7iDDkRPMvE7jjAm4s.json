@@ -1,0 +1,52 @@
+{
+  "hotel_id": "ChIJAQDARl7iDDkRPMvE7jjAm4s",
+  "hotel_name": "Red Maple Bed & Breakfast",
+  "area": "Amrit Nagar",
+  "budget_category": "Mid-Range",
+  "rating": 4.1,
+  "trust_score": 0.768463136873375,
+  "travel_purpose_tags": [
+    "Leisure"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "moderate",
+    "review_count": 5,
+    "positive_snippet_count": 3,
+    "negative_snippet_count": 1,
+    "positive_theme_count": 4,
+    "negative_theme_count": 2
+  },
+  "aspect_scores": {
+    "cleanliness": 0.7476534438901581,
+    "service": 0.9998607635498046,
+    "location": 0.9998574256896972,
+    "value_for_money": 0.5,
+    "staff_behavior": 0.6653186139495423
+  },
+  "recommendation_features": {
+    "popularity_score": 0.543433239102287,
+    "rating_score": 4.1,
+    "sentiment_score": 0.7980955753941089
+  },
+  "review_evidence": {
+    "positive_snippets": [
+      "Red Maple Bed and Breakfast in Amrit Nagar is close to All India Institute of Medical Science as well as to Safdarjung Hospital. Any one who would like to have a visit to these hospital can chose out Red Maple as a good option. The Rooms are clean and heater is the room also functions properly. It located inside a residential area and not much issue regarding safety and security for women also. 24*7 hot water access and restaurant facility available here. Please note that elevator or lift is not there in the property. For us it was not a concern and our room was on the first floor, the staffs provide assistance in carrying the luggage. Hospitality is also an appreciable factor in this facility.",
+      "We lodged our family members and friends at Red Maple during our wedding. Mr. Rawat coordinated the bookings and helped us choose the rooms.\n\nThe rooms were clean, decently maintained (and matches the photos online), and the staff were courteous. A simple breakfast was included in the booking package. A few of our guests reached really late due to flight delays, but were checked in without hassles. The only minor con is that the property is located in the midst of a residential area and could be a bit difficult to locate for people coming from outside Delhi.\n\nI'll definitely recommend Red Maple for a comfortable stay in South Delhi.",
+      "Service is a top-notch.\nStaffs are very humble and down to earth.\nExcellent hospitality."
+    ],
+    "negative_snippets": [
+      "My family stayed here for 1 week as our original booking in Green Park was unfortunately cancelled. We were predominantly in Dehli to shop so only really needed a comfortable place to stay during the night to sleep which was not the case here\n\nThe rooms are dated, have a stale lingering smell and not at all sound proofed. You are woken up daily by people on the streets, people shouting and music playing. The bathroom has no ventilation and the handle to turn the water on / off for the shower broke so whilst showering, this was a daily fix. There is only max 7 or 8 mins of hot water so with 2 people needing to shower , it is really annoying. The rooms are also quite cold but a heater is provided and the blinds didn\u2019t work so there was no natural light.The electrics in our room were so dodgy and my sister whilst trying to plug her phone charger in one of the main sockets in our room, got zapped and left a small burn on her finger.\n\nFor three days, I had to repeatedly ask for water bottles and fresh towels in our room. After the first day, I would have expected this to be checked and replenished during housekeeping, but unfortunately this was not done. This was disappointing.\n\nWe had the breakfast option included but didn\u2019t eat so can\u2019t comment on that but the choice was fairly limited (paratha, macaroni, veg sandwich).\n\nI am giving 2 stars for the quality of sleep I got, I actually slept very well and the staff were kind and fulfilled our requests once asked, however, we will not be staying here again."
+    ]
+  },
+  "review_summary": "Based on 5 reviews.",
+  "positive_themes": {
+    "clean_rooms": 3,
+    "friendly_staff": 5,
+    "good_location": 2,
+    "good_food": 4
+  },
+  "negative_themes": {
+    "dirty_rooms": 1,
+    "bad_food": 1
+  }
+}

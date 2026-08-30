@@ -1,0 +1,50 @@
+{
+  "hotel_id": "ChIJX4jrIjbjDDkRXXZoolO_JAw",
+  "hotel_name": "Fabhotel La Paz Stay - Hotel In Malviya Nagar, New Delhi",
+  "area": "Malviya Nagar",
+  "budget_category": "Budget",
+  "rating": 4.4,
+  "trust_score": 0.887737100727166,
+  "travel_purpose_tags": [
+    "Leisure",
+    "Business",
+    "Family"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "moderate",
+    "review_count": 5,
+    "positive_snippet_count": 3,
+    "negative_snippet_count": 0,
+    "positive_theme_count": 5,
+    "negative_theme_count": 0
+  },
+  "aspect_scores": {
+    "cleanliness": 0.9997637867927552,
+    "service": 0.9974878430366516,
+    "location": 0.9974878430366516,
+    "value_for_money": 0.9997601211071014,
+    "staff_behavior": 0.9997836550076804
+  },
+  "recommendation_features": {
+    "popularity_score": 0.6155136673672537,
+    "rating_score": 4.4,
+    "sentiment_score": 0.9988914608955384
+  },
+  "review_evidence": {
+    "positive_snippets": [
+      "I really enjoyed my stay at your hotel .The room is very neat and clean. The hotel is well maintained. All staff behaviour is very good. This hotel is completely save and Pujan Bishwakarma is very helpful person",
+      "The place itself felt cozy, and warm in the eerie cold of Delhi. As a Gujarati I wanted a bit change in the taste of food and they did it with no hesitation. The room service was upto time and also the location itself was a but to find",
+      "We much enjoyed our stay in this hotel for 3 nights in Delhi. The staff was friendly and helpful, location is great (few steps from Malvya Nagar with its market and shops, caf\u00e9s, restaurants), rooms are clean and well equipped with attached bathroom, AC, fridge, and TV. Early checkin is available for some extra money which comes very comfortable sometimes. Clean water is available in the lobby. Room service available. The rooftop terrace is beautiful. Hotel security is very good. We would choose this place again."
+    ],
+    "negative_snippets": []
+  },
+  "review_summary": "Based on 5 reviews.",
+  "positive_themes": {
+    "clean_rooms": 2,
+    "friendly_staff": 3,
+    "good_location": 2,
+    "good_food": 1,
+    "great_value": 1
+  },
+  "negative_themes": {}
+}

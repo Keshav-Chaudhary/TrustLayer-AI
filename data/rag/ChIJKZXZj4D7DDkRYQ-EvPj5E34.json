@@ -1,0 +1,45 @@
+{
+  "hotel_id": "ChIJKZXZj4D7DDkRYQ-EvPj5E34",
+  "hotel_name": "Hotel Family Inn",
+  "area": "Shahdara",
+  "budget_category": "Budget",
+  "rating": 4.9,
+  "trust_score": 0.8708048971455435,
+  "travel_purpose_tags": [
+    "Business"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "moderate",
+    "review_count": 5,
+    "positive_snippet_count": 3,
+    "negative_snippet_count": 0,
+    "positive_theme_count": 2,
+    "negative_theme_count": 0
+  },
+  "aspect_scores": {
+    "cleanliness": 0.9973004460334778,
+    "service": 0.9985857903957368,
+    "location": 0.5,
+    "value_for_money": 0.5,
+    "staff_behavior": 0.9973004460334778
+  },
+  "recommendation_features": {
+    "popularity_score": 0.223219623947779,
+    "rating_score": 4.9,
+    "sentiment_score": 0.9990155895551046
+  },
+  "review_evidence": {
+    "positive_snippets": [
+      "This hotel property is located at metro 200 m.. hotel staff behaviour is very good room & accomodation neat and clean 24 hours room service with free wi fi and ro water \u261d\ufe0f",
+      "Very nice Hotel and service",
+      "\ud83d\udc4d\ud83d\udc4d\ud83d\udc4d\ud83e\udef6\ud83e\udef6\ud83e\udef6\ud83e\udef6"
+    ],
+    "negative_snippets": []
+  },
+  "review_summary": "Based on 5 reviews.",
+  "positive_themes": {
+    "clean_rooms": 1,
+    "friendly_staff": 1
+  },
+  "negative_themes": {}
+}

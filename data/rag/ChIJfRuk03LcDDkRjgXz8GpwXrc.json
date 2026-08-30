@@ -1,0 +1,52 @@
+{
+  "hotel_id": "ChIJfRuk03LcDDkRjgXz8GpwXrc",
+  "hotel_name": "Hotel Rajmahal Regency",
+  "area": "New Industrial Township",
+  "budget_category": "Mid-Range",
+  "rating": 4.3,
+  "trust_score": 0.7955587042630985,
+  "travel_purpose_tags": [
+    "Leisure",
+    "Family"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "moderate",
+    "review_count": 5,
+    "positive_snippet_count": 3,
+    "negative_snippet_count": 1,
+    "positive_theme_count": 4,
+    "negative_theme_count": 1
+  },
+  "aspect_scores": {
+    "cleanliness": 0.999634563922882,
+    "service": 0.6552398111574197,
+    "location": 0.9826352894306184,
+    "value_for_money": 0.9998193383216858,
+    "staff_behavior": 0.6665726608189289
+  },
+  "recommendation_features": {
+    "popularity_score": 0.5534580961560319,
+    "rating_score": 4.3,
+    "sentiment_score": 0.7930067125649657
+  },
+  "review_evidence": {
+    "positive_snippets": [
+      "Hotel Rajmahal offers a comfortable stay with clean rooms and courteous staff. The ambience is pleasant and suitable for families as well as business travelers. Food quality is good, with a decent variety available. Room service is prompt, and the hotel maintains good hygiene. The location is convenient, making it easy to reach nearby markets and attractions. Overall, it is a good choice for a peaceful and budget-friendly stay.",
+      "This very good restorent...\nLocation was good, Parking is open on your risk factor. Environment was good. Toilet needs more cleanliness, Lift looks good but work tooo slow and lift doors open with hammer like sound. Rest was good like food, decorations, service",
+      "GTC coffee shop is having excellent atmosphere and delicious coffee!\nI visited this coffee shop today and had a great experience.\nALSO, Hotel Rajmahal is having relaxed environment.From the lobby to the rooms, the whole place felt very calm and relaxing."
+    ],
+    "negative_snippets": [
+      "Pathetic service\n- Their staff cleans room cups and utensils in toilet. When asked to the staff. they said ye acha pani h. Then same issue raised with the hotel manager but said will take action against the staff.\n-Our 3 days stay was with full of pathetic experience. Never got any room order before 1.5 hours of continuous calls and follow ups.\n\n- Then finally when we left with our Gst bill. They did not filled up. Upon again enquiring about bill. They blocked our contact number. Totally pathetic service and hotel management."
+    ]
+  },
+  "review_summary": "Based on 5 reviews.",
+  "positive_themes": {
+    "clean_rooms": 4,
+    "friendly_staff": 3,
+    "good_location": 2,
+    "good_food": 4
+  },
+  "negative_themes": {
+    "parking_issues": 1
+  }
+}

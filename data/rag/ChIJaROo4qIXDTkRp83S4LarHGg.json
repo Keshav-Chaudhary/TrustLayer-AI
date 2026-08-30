@@ -1,0 +1,46 @@
+{
+  "hotel_id": "ChIJaROo4qIXDTkRp83S4LarHGg",
+  "hotel_name": "Fabhotel Sky I",
+  "area": "Harsaru",
+  "budget_category": "Mid-Range",
+  "rating": 3.6,
+  "trust_score": 0.7144872320447865,
+  "travel_purpose_tags": [
+    "Leisure"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "moderate",
+    "review_count": 5,
+    "positive_snippet_count": 3,
+    "negative_snippet_count": 0,
+    "positive_theme_count": 3,
+    "negative_theme_count": 0
+  },
+  "aspect_scores": {
+    "cleanliness": 0.999680995941162,
+    "service": 0.5,
+    "location": 0.999763011932373,
+    "value_for_money": 0.5,
+    "staff_behavior": 0.9998312294483184
+  },
+  "recommendation_features": {
+    "popularity_score": 0.2996445504991384,
+    "rating_score": 3.6,
+    "sentiment_score": 0.999773895740509
+  },
+  "review_evidence": {
+    "positive_snippets": [
+      "The rooms are warm, cozy and well maintained especially with regards to cleanliness. There is a handy area with a table and mirror that one can use for work or while getting ready. The location is also good with several quality restaurants nearby and an upscale mall coming up nearby.",
+      "Very nice hotel and comfortable rooms staff is very polite",
+      "Very nice place and comfortable stay in hotelsky thank you all staff. For confrontable and sweet nesss stay.."
+    ],
+    "negative_snippets": []
+  },
+  "review_summary": "Based on 5 reviews.",
+  "positive_themes": {
+    "clean_rooms": 2,
+    "good_location": 2,
+    "friendly_staff": 2
+  },
+  "negative_themes": {}
+}

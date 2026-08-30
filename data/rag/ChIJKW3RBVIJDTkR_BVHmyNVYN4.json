@@ -1,0 +1,45 @@
+{
+  "hotel_id": "ChIJKW3RBVIJDTkR_BVHmyNVYN4",
+  "hotel_name": "Hotel Lyf Suites - Bahadurgarh",
+  "area": "Basant Vihar",
+  "budget_category": "Mid-Range",
+  "rating": 3.3,
+  "trust_score": 0.6373222148365004,
+  "travel_purpose_tags": [
+    "Family"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "moderate",
+    "review_count": 2,
+    "positive_snippet_count": 1,
+    "negative_snippet_count": 1,
+    "positive_theme_count": 2,
+    "negative_theme_count": 0
+  },
+  "aspect_scores": {
+    "cleanliness": 0.9998583793640136,
+    "service": 0.5,
+    "location": 0.5,
+    "value_for_money": 0.9934205412864684,
+    "staff_behavior": 0.9998583793640136
+  },
+  "recommendation_features": {
+    "popularity_score": 0.1290498836544179,
+    "rating_score": 3.3,
+    "sentiment_score": 0.996639460325241
+  },
+  "review_evidence": {
+    "positive_snippets": [
+      "Rooms are reliable and clean & staff is also very loyal"
+    ],
+    "negative_snippets": [
+      "Just luxury spa with various girl option\nNo facility nothing waste of money"
+    ]
+  },
+  "review_summary": "Based on 2 reviews.",
+  "positive_themes": {
+    "clean_rooms": 1,
+    "friendly_staff": 1
+  },
+  "negative_themes": {}
+}

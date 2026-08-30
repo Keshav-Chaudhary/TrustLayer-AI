@@ -1,0 +1,53 @@
+{
+  "hotel_id": "ChIJcyPwClgJDTkRpkzRG7inG44",
+  "hotel_name": "Hotel Royal Choice",
+  "area": "Basant Vihar",
+  "budget_category": "Mid-Range",
+  "rating": 4.0,
+  "trust_score": 0.7304480045775946,
+  "travel_purpose_tags": [
+    "Leisure",
+    "Business"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "rich",
+    "review_count": 5,
+    "positive_snippet_count": 3,
+    "negative_snippet_count": 2,
+    "positive_theme_count": 4,
+    "negative_theme_count": 1
+  },
+  "aspect_scores": {
+    "cleanliness": 0.6889292001724243,
+    "service": 0.9998531341552734,
+    "location": 0.9998670816421508,
+    "value_for_money": 0.5,
+    "staff_behavior": 0.9998531341552734
+  },
+  "recommendation_features": {
+    "popularity_score": 0.6080937815559317,
+    "rating_score": 4.0,
+    "sentiment_score": 0.6775014780461788
+  },
+  "review_evidence": {
+    "positive_snippets": [
+      "Excellent Rooms and hotel. Best to stay. food is also good",
+      "My family and my friend visit many times for birthday party ..very good quality of foods ....very decent staff ...finest service s of hotel staff ...rooms very clean ..this is good place for any programs or family function.",
+      "Location of the hotel was awesome food was very tasty and service was really wonderful..alodely hotel set in a beautiful    location.the setting is very relaxing.all the hotel staff are very attractive and friendly.whole staff was polite"
+    ],
+    "negative_snippets": [
+      "Very bad experience stayed here for one night unable to sleep here because of lots of bed bugs \"khatmal\".\nFood was up to mark reasonable and tasty but bed bugs are the problem here",
+      "Room was spacious but smelly. AC works very slowly. There were clear signs of no maintenance or whatsoever in the room. Everything was dirty, sheets, pillow cover, topsheet etc. No phone connection no water bottle was provided, no drawers were maintained. One drawer had ash inside\ud83d\ude02. Overall it was good experience"
+    ]
+  },
+  "review_summary": "Based on 5 reviews.",
+  "positive_themes": {
+    "good_food": 4,
+    "clean_rooms": 1,
+    "friendly_staff": 2,
+    "good_location": 1
+  },
+  "negative_themes": {
+    "dirty_rooms": 1
+  }
+}

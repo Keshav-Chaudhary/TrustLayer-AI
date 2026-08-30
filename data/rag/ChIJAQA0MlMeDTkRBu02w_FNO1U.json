@@ -1,0 +1,44 @@
+{
+  "hotel_id": "ChIJAQA0MlMeDTkRBu02w_FNO1U",
+  "hotel_name": "Pernam Inn",
+  "area": "Mandi Estate",
+  "budget_category": "Budget",
+  "rating": 4.8,
+  "trust_score": 0.8538008594616983,
+  "travel_purpose_tags": [
+    "Budget"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "sparse",
+    "review_count": 4,
+    "positive_snippet_count": 3,
+    "negative_snippet_count": 0,
+    "positive_theme_count": 1,
+    "negative_theme_count": 0
+  },
+  "aspect_scores": {
+    "cleanliness": 0.5,
+    "service": 0.9998319943745932,
+    "location": 0.5,
+    "value_for_money": 0.9998252987861632,
+    "staff_behavior": 0.5
+  },
+  "recommendation_features": {
+    "popularity_score": 0.2045392263146805,
+    "rating_score": 4.8,
+    "sentiment_score": 0.999838799238205
+  },
+  "review_evidence": {
+    "positive_snippets": [
+      "Good food,  best service in the restaurant...keep it up...",
+      "Food quality is best, good service and best price of",
+      "Nice service and good staf"
+    ],
+    "negative_snippets": []
+  },
+  "review_summary": "Based on 4 reviews.",
+  "positive_themes": {
+    "good_food": 2
+  },
+  "negative_themes": {}
+}

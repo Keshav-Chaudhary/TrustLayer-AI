@@ -1,0 +1,48 @@
+{
+  "hotel_id": "ChIJJ7UzRjYYDTkRpXiNxgs1P6I",
+  "hotel_name": "Super Hotel O Samrat",
+  "area": "Roshan Pura",
+  "budget_category": "Mid-Range",
+  "rating": 4.0,
+  "trust_score": 0.5465272248507184,
+  "travel_purpose_tags": [
+    "Budget"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "moderate",
+    "review_count": 5,
+    "positive_snippet_count": 0,
+    "negative_snippet_count": 3,
+    "positive_theme_count": 3,
+    "negative_theme_count": 1
+  },
+  "aspect_scores": {
+    "cleanliness": 0.0004230722600671,
+    "service": 0.0004230722600671,
+    "location": 0.0002371947775827,
+    "value_for_money": 0.5,
+    "staff_behavior": 0.0002930890259449
+  },
+  "recommendation_features": {
+    "popularity_score": 0.7590205936698043,
+    "rating_score": 4.0,
+    "sentiment_score": 0.0004066412075189
+  },
+  "review_evidence": {
+    "positive_snippets": [],
+    "negative_snippets": [
+      "Horrible experience! Check-in took over an hour, and the room was in terrible condition. When I asked for a better option, I was told this was the only one available. At 11:30 PM, felt like I had no choice. To top it off, after check-out, they Whatsapp-ed asking me to rate 5 stars for \u20b9100. Would not recommend. 1/5 stars \ud83d\ude21",
+      "My stay at this hotel was extremely unsatisfactory due to serious hygiene and service issues. The room was not hygienic at all, which is unacceptable for any hotel. Most concerning was the presence of a rat inside the room, which made the stay extremely uncomfortable and unsafe.\n\nThe washroom was also poorly maintained and not cleaned properly. Basic cleanliness standards were clearly not met.\n\nAdditionally, the kitchen staff behaved unprofessionally and failed to serve food on time despite repeated follow-ups. The lack of coordination and delayed service further added to the inconvenience.\n\nOverall, this experience fell far below expectations. I would not recommend this hotel unless significant improvements are made in hygiene, pest control, and staff professionalism.",
+      "One of the Worst Hotel Experiences I Have Ever Had\n\nI booked this room after seeing the photos online, but the reality was shockingly different. The room was in an appalling condition \u2014 thick dust everywhere, hair on the floors, stained bedding, and a pillow and mattress that looked decades old. The level of neglect was unbelievable.\n\nI felt genuinely suffocated by how unhygienic the room was and had no choice but to check out within 30 minutes of arrival.\n\nThe pictures uploaded by the hotel are completely misleading and do not represent the actual condition of the rooms. This is extremely disappointing and feels like a serious breach of customer trust.\n\nI strongly urge the management to update the photos to reflect reality and to address the basic standards of cleanliness. Until then, I would not recommend this place to anyone."
+    ]
+  },
+  "review_summary": "Based on 5 reviews.",
+  "positive_themes": {
+    "clean_rooms": 2,
+    "friendly_staff": 2,
+    "good_food": 1
+  },
+  "negative_themes": {
+    "rude_staff": 1
+  }
+}

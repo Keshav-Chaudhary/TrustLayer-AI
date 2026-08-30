@@ -1,0 +1,50 @@
+{
+  "hotel_id": "ChIJs7GJ-NsFDTkRLD5mS5lSTCw",
+  "hotel_name": "Rama House",
+  "area": "New Delhi",
+  "budget_category": "Mid-Range",
+  "rating": 4.7,
+  "trust_score": 0.884454013148401,
+  "travel_purpose_tags": [
+    "Leisure",
+    "Business",
+    "Family"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "moderate",
+    "review_count": 5,
+    "positive_snippet_count": 3,
+    "negative_snippet_count": 0,
+    "positive_theme_count": 5,
+    "negative_theme_count": 0
+  },
+  "aspect_scores": {
+    "cleanliness": 0.9998655716578164,
+    "service": 0.9998758435249328,
+    "location": 0.9996727705001832,
+    "value_for_money": 0.9994864463806152,
+    "staff_behavior": 0.999710774421692
+  },
+  "recommendation_features": {
+    "popularity_score": 0.4113490484538237,
+    "rating_score": 4.7,
+    "sentiment_score": 0.999710774421692
+  },
+  "review_evidence": {
+    "positive_snippets": [
+      "\u2b50\u2b50\u2b50\u2b50\u2b50\nI had a wonderful stay at this guest house! The rooms were clean, comfortable, and well-maintained. The staff was incredibly friendly, polite, and always ready to help with a smile. The location is convenient, peaceful, and perfect for relaxing. The food was fresh and delicious, and the service was quick. Overall, a perfect experience that made me feel right at home. Highly recommended for anyone looking for comfort, cleanliness, and warm hospitality!",
+      "Describe the room's cleanliness, comfort, size, and any unique features. Mention if the room was quiet, had a good view, or lacked certain amenities.\n& Highlight the staff's friendliness, helpfulness, and professionalism. Were they responsive to your needs\nConsider whether the price of the hotel was reasonable for the experience you received.\nI love this place \u2764\ufe0f\u2764\ufe0f\u2764\ufe0f\u2764\ufe0f\u2764\ufe0f\ud83d\ude18\ud83d\ude18\ud83d\ude18\u270c\ufe0f",
+      "Wow, what an amazing stay! The guest house was clean, comfortable, and exceeded my expectations. The staff were friendly and helpful, and the location was perfect. I would highly recommend this guest house to anyone looking for a great place to stay. 5 stars isn't enough - I'd give it 10 stars if I could!\ud83d\ude0a"
+    ],
+    "negative_snippets": []
+  },
+  "review_summary": "Based on 5 reviews.",
+  "positive_themes": {
+    "clean_rooms": 5,
+    "friendly_staff": 5,
+    "good_location": 3,
+    "good_food": 1,
+    "great_value": 1
+  },
+  "negative_themes": {}
+}

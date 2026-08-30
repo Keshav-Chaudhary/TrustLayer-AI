@@ -1,0 +1,47 @@
+{
+  "hotel_id": "ChIJ3biBSov9DDkRTqlRipFxhOk",
+  "hotel_name": "Flagship Kashish Residency Hotel Delhi",
+  "area": "Vijay Nagar",
+  "budget_category": "Mid-Range",
+  "rating": 2.2,
+  "trust_score": 0.236596958137605,
+  "travel_purpose_tags": [
+    "Budget"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "moderate",
+    "review_count": 5,
+    "positive_snippet_count": 0,
+    "negative_snippet_count": 3,
+    "positive_theme_count": 1,
+    "negative_theme_count": 2
+  },
+  "aspect_scores": {
+    "cleanliness": 0.0006216635083546,
+    "service": 0.000183637428563,
+    "location": 0.0003917094727512,
+    "value_for_money": 0.000183637428563,
+    "staff_behavior": 0.0006042886379873
+  },
+  "recommendation_features": {
+    "popularity_score": 0.4268137678954004,
+    "rating_score": 2.2,
+    "sentiment_score": 0.0004397268116008
+  },
+  "review_evidence": {
+    "positive_snippets": [],
+    "negative_snippets": [
+      "\ud83e\udd2c\ud83e\udd2c\ud83e\udd2c\ud83e\udd2c mujhe to -5 rating deni h but option hi nhi h.Till date I have not seen such a bad hotel and what is more corrupt is the owner of this hotel. These people just cheat people. Their room is just as big as a 6x6 bed. They do not show the room first, before saying anything they show me the photo of some other room and say that..only after paying for that they give the room. Such a bad room, such a dirty smell. And when you say that you do not want this, they do not even refund. All the staff are corrupt\ud83d\ude21\ud83d\ude21\ud83d\ude21\ud83d\ude21glti se bhi nhi jana yaha \ud83d\ude4f\ud83e\udd2c\ud83d\ude21",
+      "Worst Experience.\nThey are thieves. I booked room from oyo and they provided me Worst room.\nI denied to stay in that room so they did not return my booking amount of 800 rupee.\nI just paid 800 for not staying..\nDon't go there. Its a blunder.",
+      "WORST, WORST, WORST!!\nAbsolutely terrible experience. No water available during our entire stay. The bed sheets and pillowcases were clearly not changed \u2014 stained and filthy. The room was disgustingly dirty, with grime all over. I wouldn\u2019t recommend this place to anyone. Stay far away!"
+    ]
+  },
+  "review_summary": "Based on 5 reviews.",
+  "positive_themes": {
+    "friendly_staff": 2
+  },
+  "negative_themes": {
+    "dirty_rooms": 2,
+    "rude_staff": 1
+  }
+}

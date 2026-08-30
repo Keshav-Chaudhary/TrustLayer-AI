@@ -1,0 +1,48 @@
+{
+  "hotel_id": "ChIJk8qoSVIDDTkRAEGQnmvB3wY",
+  "hotel_name": "Hotel Le Roi Express @ Karol Bagh",
+  "area": "New Delhi",
+  "budget_category": "Mid-Range",
+  "rating": 4.5,
+  "trust_score": 0.8849337948836903,
+  "travel_purpose_tags": [
+    "Leisure",
+    "Business"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "moderate",
+    "review_count": 5,
+    "positive_snippet_count": 3,
+    "negative_snippet_count": 0,
+    "positive_theme_count": 4,
+    "negative_theme_count": 0
+  },
+  "aspect_scores": {
+    "cleanliness": 0.9990617434183756,
+    "service": 0.9988547960917156,
+    "location": 0.9990725070238112,
+    "value_for_money": 0.5,
+    "staff_behavior": 0.9990779995918274
+  },
+  "recommendation_features": {
+    "popularity_score": 0.5395539355626587,
+    "rating_score": 4.5,
+    "sentiment_score": 0.9990779995918274
+  },
+  "review_evidence": {
+    "positive_snippets": [
+      "Nice hotel for business travelers. I would not recommend for family travelers as the rooms and bathrooms are small. Staff is co-operative. Please not that they do not allow early check in or late checkout if you have not booked them directly. Breakfast is okay. Buffet breakfast is available only if they have sufficient occupancy. But they will serve you well even if the buffet b'fast in not there.",
+      "I initially booked some other hotel but had to cancel it last moment due to unforeseen situations. I booked this hotel in last moment and I must say I was impressed by their service.\n1. They cooperated with me without complaints even though I did a late checkin around 8 PM.\n2. The rooms were spacious and the space management was done well unlike an another overpriced \"Yellow\" hotel.\n3. The locality was very good, Gaffar market, metro station and lots of good restaurants at walking distance.\n4. Foreigner friendly and local ID was acceptable which was great.\n5. The staff was very professional and cooperative. They helped book an early morning cab to the airport for me which saved me a lot of hassle in this foggy weather.\nOverall, one of my best hotel stays so far and I will consider this hotel for my foreign friends and me hereafter.",
+      "The hotel is in a good location. The rooms are clean. The breakfast is delicious and varied. Sumit, Katarya, and Umesh are polite and provide good service. They are very attentive."
+    ],
+    "negative_snippets": []
+  },
+  "review_summary": "Based on 5 reviews.",
+  "positive_themes": {
+    "friendly_staff": 5,
+    "good_food": 3,
+    "clean_rooms": 3,
+    "good_location": 3
+  },
+  "negative_themes": {}
+}

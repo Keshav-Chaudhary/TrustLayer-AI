@@ -1,0 +1,49 @@
+{
+  "hotel_id": "ChIJY6Gyi5UCDTkRmjXmCUzwY6w",
+  "hotel_name": "Jaypee Siddharth - 5 Star Luxury Hotels In Delhi",
+  "area": "Rajendra Place",
+  "budget_category": "Luxury",
+  "rating": 4.2,
+  "trust_score": 0.8530427739391863,
+  "travel_purpose_tags": [
+    "Budget"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "moderate",
+    "review_count": 5,
+    "positive_snippet_count": 3,
+    "negative_snippet_count": 1,
+    "positive_theme_count": 2,
+    "negative_theme_count": 1
+  },
+  "aspect_scores": {
+    "cleanliness": 0.5,
+    "service": 0.666861772382011,
+    "location": 0.5,
+    "value_for_money": 0.5,
+    "staff_behavior": 0.8000468133948744
+  },
+  "recommendation_features": {
+    "popularity_score": 0.8756630169574124,
+    "rating_score": 4.2,
+    "sentiment_score": 0.8000468133948744
+  },
+  "review_evidence": {
+    "positive_snippets": [
+      "Great hotel, friendly staff.  Enjoyed the pool and spa.  The attendant on the gents side was amazing.  Very attentive but not intrusive.  Restaurant was great with entertainment the night we ate there.  Front desk team helped us when we arrived.  They were always there to answer our questions.",
+      "I am very much happy to be in Hotel JP Siddharth every time, this is my third stay in hotel. The hotel personnel are so humble, cooperative and polite. The rooms are up to the standard. The breakfast includes wide variety and of course I can order the items which is not in the breakfast display. I am still looking forward to stay in the hotel. Happy Day!",
+      "I had a pleasant stay at Jaypee Siddharth Hotel. I would especially like to appreciate Naina from the staff\u2014she was extremely polite, helpful and professional in her behaviour. She made us feel comfortable and well taken care of, which really added to the overall experience.\nThe food was also very good\u2014fresh, tasty, and well served. Overall, it was a comfortable stay with courteous staff and good hospitality."
+    ],
+    "negative_snippets": [
+      "I stayed a week in India and from these days (the first and the last) in this hotel. (The reservation was made by the travel agency with a reference that it is 5 stars) My experience from my 2 separate stays is extremely negative. Where to start. From the fact that when you step foot in the hotel you feel that there are no smiles and a warm welcome. They don't even offer you a glass of water. As for the behavior of the girls at the reception (not all of them) one word characterizes it \"arrogant\". Especially the second time the lady who checked me in (February 4, 17:00) was rude, slow and in a bad mood. while I was the only one serving, she made me wait 20 minutes for her to give me the room key without any explanation. she gives me the key without telling me details such as breakfast and dinner hours or about the services offered by the hotel. the room was ok, from outside a worker was doing work and was banging with a hammer, there were no hand towels, no bath mat, no hairdryer, no slippers, no iron, not even a shower curtain. I called to bring them to me and the answer was that they have ... run out. The breakfast is aimed at domestic customers and unfortunately not at all for different preferences. Their prices are 5 stars with 2 star services. Compared to other hotels I stayed in India, it was definitely the worst and I would never stay there again"
+    ]
+  },
+  "review_summary": "Based on 5 reviews.",
+  "positive_themes": {
+    "friendly_staff": 4,
+    "good_food": 3
+  },
+  "negative_themes": {
+    "rude_staff": 1
+  }
+}

@@ -1,0 +1,53 @@
+{
+  "hotel_id": "ChIJVc-6iDLcDDkRYFx6THP4ASc",
+  "hotel_name": "Treebo Punjabi Nature Residency, Near Faridabad Railway Station",
+  "area": "New Industrial Township",
+  "budget_category": "Mid-Range",
+  "rating": 4.0,
+  "trust_score": 0.5600296937978464,
+  "travel_purpose_tags": [
+    "Budget"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "moderate",
+    "review_count": 5,
+    "positive_snippet_count": 2,
+    "negative_snippet_count": 3,
+    "positive_theme_count": 4,
+    "negative_theme_count": 2
+  },
+  "aspect_scores": {
+    "cleanliness": 0.1091890861668313,
+    "service": 0.1595995755051262,
+    "location": 0.4420802205180127,
+    "value_for_money": 0.1091890861668313,
+    "staff_behavior": 0.0083681074902415
+  },
+  "recommendation_features": {
+    "popularity_score": 0.4248943222933851,
+    "rating_score": 4.0,
+    "sentiment_score": 0.2654793095833155
+  },
+  "review_evidence": {
+    "positive_snippets": [
+      "I stayed in this hotel for 2 nights .\nThe rooms are small and congested and the bathroom is also small.\nThe rooms are not well maintained.\nFor the price we are paying it is ok , we cant expect more .\nThe corridor portion is clean and good.\nThere is no windows in the room and no rays of sunlight to come in , someone who likes to see nature or view these rooms are not for them .\n\nThe restaurant is good but its attached with bar.\nThe complimentary breakfast has limited options like Poha , sandwiches, Alo parota / Egg Omelette, Fruits and tea .\n\nBut i feel for the price of 2200 rs / night the rooms and complimentary Breakfast is justified.\nThey have to work on maintaining the rooms and keep it clean .\n\nThis hotel is good for 1-2 nights where you will not spend much time in rooms and just get into room for sleep or to take nap .Not good for someone who wants to work from room, it has limited space and No proper Working desk.",
+      "The hotel stay was good and comfortable. I would recommend this hotel mainly for gents. It is located near the market area, so you can easily find everything you need within walking distance. This hotel is especially suitable for non-vegetarian food lovers, as there are many good options nearby."
+    ],
+    "negative_snippets": [
+      "Worst experience as per conversation over call they agreed to their XYZ services and when we reach there  it's totally different as we call reception or room service there was no  immediate response you keep calling .. breakfast was hardly  something no extra milk pouch or tea pouch  was given  even on asking for hot water we had to shout  . Room wasn't clean we asked them to change the rugs  as well as floor was totally dusty  . On last day of my check out I was not allowed breakfast  . Do not waste your money here highly not not not recommended . Mid night also you cannot sleep peacefully as staffs there talk loud and giggle   had to literally make complaint at the desk . They turn off the boiler they even turn off the wifi at night ..\nBetter do not go  . Agoda must remove this from their listed hotels",
+      "It just served my purpose. I needed to stay in that area and this hotel happened to me there. I WILL NOT go there again willingly.\n\n1. The rooms were not cleaned properly.\n2. The washroom floor was kind of flawed. I took a shower in the night and there was water on the floor in the morning. The bodywash dispenser was not working either.\n3. No co-ordination among the employees. I agreed on a room price with them for a certain amount. I asked them if they have 2 more rooms for my parents and relatives. They said yes and we agreed on the same price. Later my parents and my relatives were giving a room at a higher price. I thought this was kind of unprofessional.\n\nThe good things now,\n1. It was warm. I was there for 2 days in late January, it was really warm.\n2. The staff was helpful but also rude when I confronted them about the room prices and their prior commitments.\n3. It was near where I needed to be. This is more my convenience irrelevant to the hotel. But good for me.\n4. Location was okay.\n\nIt was just okay being there. I have been to worse places. But well. This was my experience.",
+      "This is one of the worst option to stay. The rooms are like oyo hotels and there is no ventilation, all over it stinks and there is no natural light also. Never ever choose this hotel if you are on a bussiness trip. Also exactly infront of the hotel there is lot of chicken shops are there even outside of the hotel you dont get good air to breath."
+    ]
+  },
+  "review_summary": "Based on 5 reviews.",
+  "positive_themes": {
+    "clean_rooms": 3,
+    "good_food": 3,
+    "good_location": 2,
+    "friendly_staff": 2
+  },
+  "negative_themes": {
+    "noise": 1,
+    "rude_staff": 1
+  }
+}

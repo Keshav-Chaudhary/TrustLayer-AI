@@ -1,0 +1,48 @@
+{
+  "hotel_id": "ChIJG6OlprbnDDkRU-OAWAxCg60",
+  "hotel_name": "Hotel Regal Garden",
+  "area": "Sector 39",
+  "budget_category": "Mid-Range",
+  "rating": 4.9,
+  "trust_score": 0.8690225990670022,
+  "travel_purpose_tags": [
+    "Leisure",
+    "Business",
+    "Family"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "moderate",
+    "review_count": 5,
+    "positive_snippet_count": 3,
+    "negative_snippet_count": 0,
+    "positive_theme_count": 3,
+    "negative_theme_count": 0
+  },
+  "aspect_scores": {
+    "cleanliness": 0.999839037656784,
+    "service": 0.9998708367347716,
+    "location": 0.9998663663864136,
+    "value_for_money": 0.9976106882095336,
+    "staff_behavior": 0.999839037656784
+  },
+  "recommendation_features": {
+    "popularity_score": 0.2143472170767782,
+    "rating_score": 4.9,
+    "sentiment_score": 0.9993441343307496
+  },
+  "review_evidence": {
+    "positive_snippets": [
+      "My stay at Hotel Regal Garden was truly outstanding. The rooms were very clean, well-maintained, and extremely comfortable. The staff deserves special appreciation\u2014courteous, professional, and always ready to help with a smile. Service quality was excellent and prompt. The hotel\u2019s location is also very convenient, making travel easy. Overall, a perfect blend of comfort, service, and hospitality. One of the best hotels I\u2019ve stayed at\u2014highly recommended to everyone!",
+      "Hotel Regal Garden delivers a clean comfortable stay with courteous staff and a calm ambiance. Well located and reliable it\u2019s a great choice for a hassle free visit.",
+      "Very nice service and room quality very good"
+    ],
+    "negative_snippets": []
+  },
+  "review_summary": "Based on 5 reviews.",
+  "positive_themes": {
+    "clean_rooms": 2,
+    "friendly_staff": 2,
+    "good_location": 1
+  },
+  "negative_themes": {}
+}

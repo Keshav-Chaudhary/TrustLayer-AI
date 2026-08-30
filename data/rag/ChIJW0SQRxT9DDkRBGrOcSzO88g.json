@@ -1,0 +1,54 @@
+{
+  "hotel_id": "ChIJW0SQRxT9DDkRBGrOcSzO88g",
+  "hotel_name": "The Leena International- By Haveliya Hotels",
+  "area": "Paharganj",
+  "budget_category": "Mid-Range",
+  "rating": 4.1,
+  "trust_score": 0.7097094773023691,
+  "travel_purpose_tags": [
+    "Leisure"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "rich",
+    "review_count": 5,
+    "positive_snippet_count": 3,
+    "negative_snippet_count": 2,
+    "positive_theme_count": 4,
+    "negative_theme_count": 3
+  },
+  "aspect_scores": {
+    "cleanliness": 0.5002865982205549,
+    "service": 0.6001998815656406,
+    "location": 0.9998470544815063,
+    "value_for_money": 0.5,
+    "staff_behavior": 0.6666284297777262
+  },
+  "recommendation_features": {
+    "popularity_score": 0.5640426487820017,
+    "rating_score": 4.1,
+    "sentiment_score": 0.6001998815656406
+  },
+  "review_evidence": {
+    "positive_snippets": [
+      "We stayed at Leena International when we reached Delhi. Our train was delayed, so we arrived quite late, but despite that, the staff was extremely supportive and understanding as we already had a booking.\n\nThey kindly allowed us to freshen up, which was very helpful as we had to leave for Pushkar soon after. We also enjoyed a very tasty lunch there. The rooms were clean, comfortable, and well-maintained.\n\nOverall, the service and hospitality were excellent, and everything was smooth and pleasant. A good place to stay, especially when you need a supportive and convenient stopover.",
+      "Stayed multiple times in Leena Hotel mainly because of the hotel's location as it is in the main road. rooms are also good & comfortable. Food is consistently great, all of this makes me come back here.\n\nA special thanks to Gaurav in reception - for accommodating special requests every single time I have visited.\n\nHighly recommended, one of the best place to stay in Paharganj area.",
+      "This property is located on main road one of the delhi market. (Paharganj) which is very busy and crowded, good for family and solo travellers who come for shopping and exploring markets, hotel is nice, clean and well maintained offering hygienic rooms, The reception team and entire staff are warm and welcoming, always guiding us with the right information based on our needs. they have 24/7 restaurant and kitchen service, they ensure safety of travellers.\nAnd thanks to sevaz for your service."
+    ],
+    "negative_snippets": [
+      "Stayed here for two day business trip, it shows that hotel is 4 star but it is not. No clean towels, they dint even clean the room. When I went to reception to ask for water they told call kitchen and ask, when I mentioned you dint clean the room or gave new bottles he rudely told okay I will send upstairs. If your room is towards road side then there is so much noise throughout the night.\n\nBathroom doesn\u2019t have proper divider. Bedsheets are also dirty. During check out not even offering to help with bags or basic etiquette to open the door.\n\nWouldn\u2019t recommend",
+      "Absolutely terrible stay!\nThis hotel was a complete disaster from start to finish. The room was filthy \u2014 the toilet was brown, the towels were dirty, and the shower didn\u2019t even have a proper divider, so the entire bathroom got soaked every time we used it. The showerhead was broken with a big hole in it, and the door wouldn\u2019t even lock properly.\n\nWe gave our key for room service, but the room wasn\u2019t cleaned the entire day. Meanwhile, the staff were hanging out and laughing right outside our door. When we tried to speak to the manager, he was rude, dismissive, and completely unprofessional.\n\nTo make it worse, we booked and paid a rate that was three times higher than usual, yet when we went for breakfast with four people, they refused to serve us, saying it was only for two \u2014 even though we paid much more.\n\nWe\u2019re now also dealing with a payment dispute because the hotel refuses to take responsibility. Honestly, this was one of the worst hotel experiences we\u2019ve ever had. Avoid this place at all costs!"
+    ]
+  },
+  "review_summary": "Based on 5 reviews.",
+  "positive_themes": {
+    "clean_rooms": 4,
+    "friendly_staff": 3,
+    "good_location": 2,
+    "good_food": 3
+  },
+  "negative_themes": {
+    "dirty_rooms": 2,
+    "rude_staff": 2,
+    "noise": 1
+  }
+}

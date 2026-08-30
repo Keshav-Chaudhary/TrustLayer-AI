@@ -1,0 +1,53 @@
+{
+  "hotel_id": "ChIJo8imMzXjDDkR491FFKkskUk",
+  "hotel_name": "The Saga Hotel, Green Park | New Delhi",
+  "area": "Green Park",
+  "budget_category": "Mid-Range",
+  "rating": 4.1,
+  "trust_score": 0.6618303178796444,
+  "travel_purpose_tags": [
+    "Budget"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "moderate",
+    "review_count": 5,
+    "positive_snippet_count": 2,
+    "negative_snippet_count": 3,
+    "positive_theme_count": 3,
+    "negative_theme_count": 3
+  },
+  "aspect_scores": {
+    "cleanliness": 0.3345765966999655,
+    "service": 0.0007950438885018,
+    "location": 0.5,
+    "value_for_money": 0.0007950438885018,
+    "staff_behavior": 0.4007111858809367
+  },
+  "recommendation_features": {
+    "popularity_score": 0.6381687271305101,
+    "rating_score": 4.1,
+    "sentiment_score": 0.4007111858809367
+  },
+  "review_evidence": {
+    "positive_snippets": [
+      "The occasion was Pearl Marriage Anniversary of Dear Neeraj and his better half as well as Release of An Autobiography of Shri Ramesh Chand Jain in which he has shared his pieces of  vast experience spreading over Ninety Five years!!!!\nA fine rejiocing banquet at basement of Hotel with a lift facility.Space is short but has been maintained well.\nStaff is courteous and helpful\nValet parking is available.\nFood is of good Quality and served well with professional flavour staff.",
+      "Had a very pleasant stay at the hotel. The rooms were clean, comfortable, and the overall atmosphere was great. The staff was polite and supportive throughout the stay.\nSpecial thanks to Karan Chhetri from the Front Office for his excellent hospitality, professionalism, and helpful attitude. He made the check-in process smooth and ensured everything was well managed."
+    ],
+    "negative_snippets": [
+      "Worst maintenance\nHousekeeping staff are not working properly\nUnhygienic\nUncleaned rooms\nVery bad complementary breakfast\nDim lit rooms\nNo ventilation\nI Don't recommend this hotel at all\nI think management is least bothered to attend to these recurring issues. They seem to be ignoring the issues highlighted by the hotel guests constantly. Owners of this property are least bothered with these reviews putting safety & hygiene of guests at risk. Consistent poor reviews by others as well. Accomodation lodge type but price 3 star hotel type.",
+      "The room can definitely be better. The cleanliness is not up to the mark and it\u2019s very annoying that they have timings for putting on their boiler??? Especially when it\u2019s winter outside. And the staff is very rude. He had the audacity to tell me that they can\u2019t run the hot water for 24 hours?!",
+      "Our stay at Hotel Saga was quite disappointing. The property was advertised as having free parking, but there is actually no dedicated parking facility. Cars are parked on the road in front of the hotel, and when we arrived, even that space was unavailable. We had to hand over our car keys to the guard, who parked it later.\n\nThe check-in process was delayed due to a technical glitch in their system, which added to the inconvenience. The room condition was poor \u2014 shabby and ill-equipped. Only one glass, one towel, and minimal essentials were provided, even though the booking was for a couple. After multiple follow-ups, the missing items were finally arranged.\n\nThe bathroom lighting was very dim, the taps were in bad condition, and there was no hot water supply. We even spotted several cockroaches in the room, which made the stay quite uncomfortable.\n\nOn the positive side, the security guard (Ravi) was polite and helpful. The buffet breakfast was good, and the lunch ordered to the room was served quickly and tasted delicious. The staff handling the breakfast area were courteous and attentive.\n\nDespite a few positives, the poor room maintenance, lack of amenities, and misleading parking information made this a rather unpleasant experience. The hotel needs serious improvements in cleanliness, facilities, and overall upkeep."
+    ]
+  },
+  "review_summary": "Based on 5 reviews.",
+  "positive_themes": {
+    "friendly_staff": 5,
+    "good_food": 3,
+    "clean_rooms": 4
+  },
+  "negative_themes": {
+    "parking_issues": 2,
+    "dirty_rooms": 1,
+    "rude_staff": 1
+  }
+}

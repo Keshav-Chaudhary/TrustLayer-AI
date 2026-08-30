@@ -1,0 +1,52 @@
+{
+  "hotel_id": "ChIJuzFfhHP9DDkRoWxD6RIlgzY",
+  "hotel_name": "Oyo Happy Times",
+  "area": "Krishna Nagar",
+  "budget_category": "Budget",
+  "rating": 4.6,
+  "trust_score": 0.7198905091094022,
+  "travel_purpose_tags": [
+    "Leisure"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "rich",
+    "review_count": 5,
+    "positive_snippet_count": 3,
+    "negative_snippet_count": 2,
+    "positive_theme_count": 4,
+    "negative_theme_count": 1
+  },
+  "aspect_scores": {
+    "cleanliness": 0.0003673225728561,
+    "service": 0.5,
+    "location": 0.9997655749320984,
+    "value_for_money": 0.9998371601104736,
+    "staff_behavior": 0.9998577237129213
+  },
+  "recommendation_features": {
+    "popularity_score": 0.2996445504991384,
+    "rating_score": 4.6,
+    "sentiment_score": 0.6000431335007306
+  },
+  "review_evidence": {
+    "positive_snippets": [
+      "It's very nice room and good staff and property cleaning that's perfect",
+      "Amazing room' good staff value for money",
+      "Nice location good servicing excellent room"
+    ],
+    "negative_snippets": [
+      "Nothing is good here, dirty toilets, dirty rooms even no board for mobile charge",
+      "Room is not clean."
+    ]
+  },
+  "review_summary": "Based on 5 reviews.",
+  "positive_themes": {
+    "clean_rooms": 2,
+    "friendly_staff": 2,
+    "great_value": 1,
+    "good_location": 1
+  },
+  "negative_themes": {
+    "dirty_rooms": 1
+  }
+}

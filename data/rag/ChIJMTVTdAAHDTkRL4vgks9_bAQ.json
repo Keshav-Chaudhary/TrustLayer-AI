@@ -1,0 +1,48 @@
+{
+  "hotel_id": "ChIJMTVTdAAHDTkRL4vgks9_bAQ",
+  "hotel_name": "Hotel O Ms Hotel Lakra Residency",
+  "area": "Rohini",
+  "budget_category": "Mid-Range",
+  "rating": 2.2,
+  "trust_score": 0.2720475034034401,
+  "travel_purpose_tags": [
+    "Budget"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "moderate",
+    "review_count": 4,
+    "positive_snippet_count": 0,
+    "negative_snippet_count": 3,
+    "positive_theme_count": 2,
+    "negative_theme_count": 2
+  },
+  "aspect_scores": {
+    "cleanliness": 0.3372184118973866,
+    "service": 0.5,
+    "location": 0.5,
+    "value_for_money": 0.5,
+    "staff_behavior": 0.3374877853784709
+  },
+  "recommendation_features": {
+    "popularity_score": 0.2143472170767782,
+    "rating_score": 2.2,
+    "sentiment_score": 0.2531994485252652
+  },
+  "review_evidence": {
+    "positive_snippets": [],
+    "negative_snippets": [
+      "Good hotel staff ,but hygiene problem",
+      "The hotel is fine but please take out time and clean it immediately. There is a lot of difficulty in cleaning. The behavior of the staff was very good. The staff got full marks. Please friends, clean the hotel as soon as possible.",
+      "Wacko hotel, the staff also talks rudely, there is no cleanliness, no one should go to this hotel."
+    ]
+  },
+  "review_summary": "Based on 4 reviews.",
+  "positive_themes": {
+    "friendly_staff": 3,
+    "clean_rooms": 2
+  },
+  "negative_themes": {
+    "rude_staff": 1,
+    "dirty_rooms": 1
+  }
+}

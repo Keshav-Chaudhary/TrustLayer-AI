@@ -1,0 +1,47 @@
+{
+  "hotel_id": "ChIJr8v4rd0fDTkRYHHvdeASgxA",
+  "hotel_name": "Golden Tulip",
+  "area": "Asola",
+  "budget_category": "Mid-Range",
+  "rating": 4.6,
+  "trust_score": 0.8364599227427081,
+  "travel_purpose_tags": [
+    "Budget"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "moderate",
+    "review_count": 5,
+    "positive_snippet_count": 3,
+    "negative_snippet_count": 0,
+    "positive_theme_count": 2,
+    "negative_theme_count": 1
+  },
+  "aspect_scores": {
+    "cleanliness": 0.5,
+    "service": 0.5,
+    "location": 0.5,
+    "value_for_money": 0.9998676776885986,
+    "staff_behavior": 0.9998306035995485
+  },
+  "recommendation_features": {
+    "popularity_score": 0.2740972756911478,
+    "rating_score": 4.6,
+    "sentiment_score": 0.9824470758438112
+  },
+  "review_evidence": {
+    "positive_snippets": [
+      "Good place to stay.. Ambience good...staff friendly..",
+      "Lots of parking space for marriages n parties",
+      "The property is amazing and have all amenities. ideal for those people who wants to spend there weekends away from the city's hustle & bustle. affordable and great ambience"
+    ],
+    "negative_snippets": []
+  },
+  "review_summary": "Based on 5 reviews.",
+  "positive_themes": {
+    "friendly_staff": 1,
+    "great_value": 1
+  },
+  "negative_themes": {
+    "parking_issues": 1
+  }
+}

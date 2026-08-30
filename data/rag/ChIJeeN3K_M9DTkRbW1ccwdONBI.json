@@ -1,0 +1,47 @@
+{
+  "hotel_id": "ChIJeeN3K_M9DTkRbW1ccwdONBI",
+  "hotel_name": "Hotel O By Oyo Naveen Stay",
+  "area": "near Huda market",
+  "budget_category": "Budget",
+  "rating": 3.1,
+  "trust_score": 0.4005693098465839,
+  "travel_purpose_tags": [
+    "Budget"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "moderate",
+    "review_count": 5,
+    "positive_snippet_count": 0,
+    "negative_snippet_count": 3,
+    "positive_theme_count": 2,
+    "negative_theme_count": 1
+  },
+  "aspect_scores": {
+    "cleanliness": 0.0002214596461271,
+    "service": 0.2476495558621535,
+    "location": 0.5,
+    "value_for_money": 0.3296286444480452,
+    "staff_behavior": 0.2476761009311302
+  },
+  "recommendation_features": {
+    "popularity_score": 0.3386222175183568,
+    "rating_score": 3.1,
+    "sentiment_score": 0.1981851726741296
+  },
+  "review_evidence": {
+    "positive_snippets": [],
+    "negative_snippets": [
+      "The infrastructure of the building is really good but they don't maintain the cleanliness. Also the service provided is pathetic. In online platforms the price was showing low, when you booked through those platforms and going to check out then the hotel manager deny to give rooms at that price, demands extra charges.",
+      "Pathetic service. Will not at all recommend you such a hotel even if you are booking through any app. As per there old tradition they are booking the rooms on low budget and once you reach there, your room will be allotted to some other person and they will ask you to take higher budget room and ask you to pay more. There is no point of arguing with them as they have already deleted the word of \u201chospitality\u201d from their service.\nProperty owner\u2019s behaviour is like he himself want to fight with you even if you are tired.\nOYO staff gets aside and puts you in front for the fight and takes hotel people side.\nOnce again these are honest reviews so if you are booking this hotel you are totally on the mercy of God if you have done some good work in your life.",
+      "The blanket was not good, the blanket was all dirty, tea coffee not available this service. The checkout time was 11 am but they asked to vacate the room at 10 am and asked for extra money. The whole service was useless. My review is 0."
+    ]
+  },
+  "review_summary": "Based on 5 reviews.",
+  "positive_themes": {
+    "clean_rooms": 1,
+    "friendly_staff": 1
+  },
+  "negative_themes": {
+    "dirty_rooms": 1
+  }
+}

@@ -1,0 +1,49 @@
+{
+  "hotel_id": "ChIJcfBZzI0ZDTkRzkNr9l0ifhY",
+  "hotel_name": "Aliste Hotels, Millenium City Centre Gurugram",
+  "area": "Sector 43",
+  "budget_category": "Mid-Range",
+  "rating": 4.7,
+  "trust_score": 0.82715718116146,
+  "travel_purpose_tags": [
+    "Leisure"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "moderate",
+    "review_count": 5,
+    "positive_snippet_count": 3,
+    "negative_snippet_count": 1,
+    "positive_theme_count": 4,
+    "negative_theme_count": 0
+  },
+  "aspect_scores": {
+    "cleanliness": 0.9997269809246064,
+    "service": 0.6666351733923269,
+    "location": 0.9997013608614604,
+    "value_for_money": 0.5,
+    "staff_behavior": 0.9997478276491164
+  },
+  "recommendation_features": {
+    "popularity_score": 0.4417048473159236,
+    "rating_score": 4.7,
+    "sentiment_score": 0.7998837338876911
+  },
+  "review_evidence": {
+    "positive_snippets": [
+      "My stay at Aliste was truly a wonderful experience. The location is perfect, just a couple of minutes\u2019 walk from the metro station.\n\nThe room was spacious and thoughtfully designed. There was a separate sofa - table setup, along with a dedicated work desk and chair, which made it easy to relax as well as get some work done. What I appreciated the most was a mini bed-style platform where I could throw  my luggage and stuff - a small detail, but very useful. The room also had a locker, fridge and a smart TV which further enhanced the overall experience. The washroom was clean and efficient; the only small suggestion would be to add a glass partition in the shower area to prevent water from spreading. Other than that, everything was excellent.\n\nOne more thing I loved was the small open cafe-style seating area at the entrance. It has a very nice ambience - perfect for sitting and relaxing - and they even screened live cricket match there.\n\nThe service deserves special mention. The staff were polite, courteous, and always ready to help. They also provide complimentary on-demand utilities like a hair dryer, clothes iron, and other basic amenities.\n\nDining was another highlight. The in-house restaurant, Shatranj, serves delicious food. The complimentary breakfast had a good variety, including continental options, fruits & potatoes, some Indian dishes, and beverages. Lunch and dinner were equally tasty and were served in generous portions.\n\nOne of the biggest conveniences for me was the check-in and check-out timings, which were not very rigid, which made my stay completely stress-free.\n\nOverall, it was an excellent experience, and I would happily recommend staying at Aliste!",
+      "I had a wonderful stay at Aliste Hotel. The hospitality extended by Harmeet ji and his team was truly exceptional \u2014 warm, professional, and very welcoming. The rooms were comfortable and well-maintained, making my stay thoroughly enjoyable.\n\nA special word of appreciation for Harmeet ji, the owner, who personally ensures every guest feels at home. His attention to detail and genuine care reflect in the overall atmosphere of the hotel \u2014 something you rarely find elsewhere.\n\nAlso, a big thanks to Sanjay, the restaurant manager, for the delicious food and excellent service that made my stay even more pleasurable.\n\nI would highly recommend everyone to visit Aliste Hotel to truly experience their remarkable hospitality and great food!",
+      "The ambience of the hotel was top notch.\n\nWe had booked an Aliste Classic Room and were surprised to see such a big suite like room with multiple beds, ample space and tons of facilities (locker, AC, fridge, electric heater, smart TV etc).\n\nThe hotel staff were very friendly and welcoming.\n\nThe hotel is located in a prime location, with DLF Cyber City, Worldmark Gurgaon and restaurants like Begeterre located within 15-20 minutes of drive.\n\nA 10/10 experience and a must try for anyone looking to visit Gurgaon."
+    ],
+    "negative_snippets": [
+      "The room was totally good but very disappointed with their services. We as husband wife went to book room and 1st question they were asked do you wanna room for half day?. I was like what!!!.its really make me feel very bad. At the same time they were not treat us proper with their reaction it seems like we came for wrong intention. Even waiting area at reception full of stuff on sofa and they not bother to clear that even though they know we're looking for sitting place to do online booking. Just because of poor services we denied to book the hotel and we just walk off."
+    ]
+  },
+  "review_summary": "Based on 5 reviews.",
+  "positive_themes": {
+    "clean_rooms": 2,
+    "friendly_staff": 4,
+    "good_location": 3,
+    "good_food": 3
+  },
+  "negative_themes": {}
+}

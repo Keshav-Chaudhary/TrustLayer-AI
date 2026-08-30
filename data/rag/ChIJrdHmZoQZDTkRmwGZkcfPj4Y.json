@@ -1,0 +1,52 @@
+{
+  "hotel_id": "ChIJrdHmZoQZDTkRmwGZkcfPj4Y",
+  "hotel_name": "The Angel Hotel & Suites Near Medanta",
+  "area": "Sector 38",
+  "budget_category": "Mid-Range",
+  "rating": 4.7,
+  "trust_score": 0.9265655632979514,
+  "travel_purpose_tags": [
+    "Leisure",
+    "Business",
+    "Family"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "moderate",
+    "review_count": 5,
+    "positive_snippet_count": 3,
+    "negative_snippet_count": 0,
+    "positive_theme_count": 5,
+    "negative_theme_count": 1
+  },
+  "aspect_scores": {
+    "cleanliness": 0.9998336583375932,
+    "service": 0.9998225688934326,
+    "location": 0.9997647404670716,
+    "value_for_money": 0.9997714757919312,
+    "staff_behavior": 0.9998225688934326
+  },
+  "recommendation_features": {
+    "popularity_score": 0.6091715338383822,
+    "rating_score": 4.7,
+    "sentiment_score": 0.9998225688934326
+  },
+  "review_evidence": {
+    "positive_snippets": [
+      "During my recent trip to Gurugram, I stayed at Angel Hotel and Suites with my fianc\u00e9, and it turned out to be a great experience. The staff was polite, welcoming, and very professional from the moment we arrived.\n\nThe room was clean, well maintained, and had a calm, cozy feel that made our stay comfortable. Food service was good, and everything was handled smoothly.\n\nWhat I appreciated most was the respectful behavior of the staff \u2014 there were no privacy issues at all, which made us feel relaxed and safe. Overall, the hospitality was excellent, and we were treated very well. I would definitely recommend this hotel to anyone visiting Gurugram.",
+      "I recently stayed at Angel Hotel and Suites during my relocation from Uttar Pradesh due to a job change, and my experience was truly excellent. The pricing is very reasonable, especially for weekly stays, which made my transition much easier.\n\nThe food was great\u2014fresh, tasty, and well-prepared. What stood out the most was the staff: they are well-trained, polite, friendly, and always ready to help. Their professionalism made the stay comfortable and stress-free.\n\nThe hotel environment is calm, quiet, and disturbance-free. As I was working during my stay, I really appreciated the silent and noise-free atmosphere, which allowed me to focus properly without any interruptions.\n\nOverall, Angel Hotel and Suites offers great value for money, excellent service, and a peaceful stay. I would definitely recommend it to professionals, families, and anyone looking for a comfortable and hassle-free experience.",
+      "We stayed at Angel Hotel with a group of friends, and it turned out to be an absolutely wonderful experience. From the moment we arrived, the hospitality stood out \u2014 the staff was warm, welcoming, and always ready to help with a smile.\n\nThe rooms were clean, comfortable, and well-maintained, giving us the perfect space to relax and spend quality time together. The food was another highlight of our stay \u2014 fresh, delicious, and thoughtfully prepared, making every meal enjoyable.\n\nWhat truly made the stay special was the overall atmosphere of the hotel. It was calm yet lively enough for a group of friends, and everything was well managed, which made our time completely stress-free. From service to comfort, everything felt just right.\n\nOverall, our stay at Angel Hotel was memorable in every way. Great food, excellent hospitality, and a comfortable environment made it a perfect choice for a friends\u2019 getaway. Highly recommended \u2014 we\u2019d definitely love to visit again!"
+    ],
+    "negative_snippets": []
+  },
+  "review_summary": "Based on 5 reviews.",
+  "positive_themes": {
+    "clean_rooms": 4,
+    "friendly_staff": 5,
+    "good_food": 3,
+    "good_location": 2,
+    "great_value": 2
+  },
+  "negative_themes": {
+    "noise": 1
+  }
+}

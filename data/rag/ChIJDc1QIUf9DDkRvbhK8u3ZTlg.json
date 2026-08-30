@@ -1,0 +1,50 @@
+{
+  "hotel_id": "ChIJDc1QIUf9DDkRvbhK8u3ZTlg",
+  "hotel_name": "Hotel Bajrang",
+  "area": "Paharganj",
+  "budget_category": "Mid-Range",
+  "rating": 3.4,
+  "trust_score": 0.6827742017705422,
+  "travel_purpose_tags": [
+    "Leisure"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "rich",
+    "review_count": 5,
+    "positive_snippet_count": 3,
+    "negative_snippet_count": 2,
+    "positive_theme_count": 4,
+    "negative_theme_count": 0
+  },
+  "aspect_scores": {
+    "cleanliness": 0.9995185732841492,
+    "service": 0.5,
+    "location": 0.9991019666194916,
+    "value_for_money": 0.4995088896248489,
+    "staff_behavior": 0.9984546899795532
+  },
+  "recommendation_features": {
+    "popularity_score": 0.5758730076139102,
+    "rating_score": 3.4,
+    "sentiment_score": 0.7995543488301337
+  },
+  "review_evidence": {
+    "positive_snippets": [
+      "Nice hotel for family and friends near to railway station, clean and well maintained rooms they arrange our tour for delhi local sight seen and agra,",
+      "Very well maintained and clean rooms, All facilities such as AC, Geyser and drinking water has been provided\ud83d\udc4d\ud83d\udc4d",
+      "BEST ROOM\nAND ALL FACILITIES AVAILABLE"
+    ],
+    "negative_snippets": [
+      "Every rooms of this hotel is not really good with security and comfortability, nevertheless not value for money. Really had a worst experience in this hotel and also they are not refunding the money. After all they already mentioned about 100% refund in AGODA APPLICATION and many more, though they ain't giving back...\ud83d\udc4e",
+      "At the price the rooms are offered, the hotel is fine. The locality is not high class but okay in vicinity of New Delhi railway station. You may have trouble finding this hotel but the rooms are very affordable. If you are short on budget, this will offer you a descent deal. The rooms are small but you are also paying less. There are better and bigger rooms as well for which you should contact hotel staff."
+    ]
+  },
+  "review_summary": "Based on 5 reviews.",
+  "positive_themes": {
+    "clean_rooms": 2,
+    "good_location": 1,
+    "great_value": 2,
+    "friendly_staff": 1
+  },
+  "negative_themes": {}
+}

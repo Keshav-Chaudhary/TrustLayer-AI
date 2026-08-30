@@ -1,0 +1,52 @@
+{
+  "hotel_id": "ChIJS9nAr1DdDDkRYZcXozkGok0",
+  "hotel_name": "Lavit Hotel",
+  "area": "Old Faridabad",
+  "budget_category": "Mid-Range",
+  "rating": 4.2,
+  "trust_score": 0.8274617815302863,
+  "travel_purpose_tags": [
+    "Leisure",
+    "Business",
+    "Family"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "moderate",
+    "review_count": 5,
+    "positive_snippet_count": 3,
+    "negative_snippet_count": 1,
+    "positive_theme_count": 5,
+    "negative_theme_count": 0
+  },
+  "aspect_scores": {
+    "cleanliness": 0.999583383401235,
+    "service": 0.999288241068522,
+    "location": 0.9991995990276336,
+    "value_for_money": 0.999288241068522,
+    "staff_behavior": 0.999422291914622
+  },
+  "recommendation_features": {
+    "popularity_score": 0.5474177195007338,
+    "rating_score": 4.2,
+    "sentiment_score": 0.9386965513229372
+  },
+  "review_evidence": {
+    "positive_snippets": [
+      "I stayed here for 4 nights in Luxury Room. The rooms are spacious, Clean and well maintained. I would highly recommended their luxury rooms to anyone. The price is 4500 Rs / Night . It is newly built Property.\nOnly disadvantage is they dont have restaurant in the building but they provide room service.\nThe taste of food is Excellent and quantity is also good for the price..\n\nThe staffs are good and polite including the receptionist.  Overall satisfied with the stay.\n\nI have stayed in other 4 star hotels for 6k , 8k prices , but lavit restaurant rooms are more spacious, bathrooms are in good condition and they provide everything in the room including Slippers , Room Heater and dental kit..\n\nRooms: 5/5  |  Service: 5/5  |  Location:",
+      "I stayed here for 4 nights in Luxury Room. The rooms are spacious, Clean and well maintained.  I would highly recommended their luxury rooms to anyone.  The price is 4500 Rs / Night . It is newly but Property.\nOnly disadvantage is they dont have restaurant in the building but they provide room service.\nThe taste of food is Excellent and quantity is also good for the price..",
+      "Neat and clean rooms. Good food. Best part is the courtesy and behaviour of all staff of the hotel. Great feel"
+    ],
+    "negative_snippets": [
+      "Good hotel, good accomodation and food. However they mishandled my bag and never bothered to reply to my queries on the issue"
+    ]
+  },
+  "review_summary": "Based on 5 reviews.",
+  "positive_themes": {
+    "clean_rooms": 3,
+    "friendly_staff": 3,
+    "good_location": 2,
+    "good_food": 5,
+    "great_value": 1
+  },
+  "negative_themes": {}
+}

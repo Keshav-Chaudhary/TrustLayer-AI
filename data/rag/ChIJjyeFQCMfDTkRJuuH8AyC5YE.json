@@ -1,0 +1,53 @@
+{
+  "hotel_id": "ChIJjyeFQCMfDTkRJuuH8AyC5YE",
+  "hotel_name": "Posh Classic, Gurgaon",
+  "area": "Sector 45",
+  "budget_category": "Mid-Range",
+  "rating": 4.6,
+  "trust_score": 0.8214186034684565,
+  "travel_purpose_tags": [
+    "Budget"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "moderate",
+    "review_count": 5,
+    "positive_snippet_count": 3,
+    "negative_snippet_count": 1,
+    "positive_theme_count": 5,
+    "negative_theme_count": 2
+  },
+  "aspect_scores": {
+    "cleanliness": 0.6621215332173355,
+    "service": 0.7470850638019328,
+    "location": 0.4944678230021964,
+    "value_for_money": 0.4944678230021964,
+    "staff_behavior": 0.6665470390144037
+  },
+  "recommendation_features": {
+    "popularity_score": 0.4813193912566148,
+    "rating_score": 4.6,
+    "sentiment_score": 0.797153841771069
+  },
+  "review_evidence": {
+    "positive_snippets": [
+      "It was an amazing experience to stay at this place during our holiday in Gurgaon .Each and every member was polite with smile on their face from reception till Catering as well as check-in and out members. Cleanliness was at par, Well maintained rooms. Food was great quality with heaps of choice in buffet. Would highly recommended this place for stay in this hotel. Thanks for the great work you do team and keep it up like this in future.",
+      "Hotel Posh Classic is at very idle location, centrally located at DLF phase 3, it is good boutique Hotel surrounded by full of greenery and has small lawn attached where you can enjoy your morning tea with newspaper.\n\nIt is purely value for money\nRooms or pretty decent size, clean and hygienic, bed sheets were very clean bathrooms were maintained well.\n\nLittle scope of improvement in housekeeping service, food I did not try maybe next time. But tea was served delicious and presentation was nice \ud83d\udc4d\n\nSee you guys soon.",
+      "A decent place to stay with good service from the staff and decent food as well. Transportation is also easily available from the hotel. Bed was comfortable and adequate items such as towel and shampoo were provided. Rohit ji was also very helpful in making my stay comfortable."
+    ],
+    "negative_snippets": [
+      "Review for Posh Suites, Gurgaon \u2013 Extremely Disappointing Stay\n\nI recently stayed at Posh Suites in Gurgaon for 5 days, and my experience was far from pleasant. The property is nowhere close to what is shown in the photos on booking platforms. Those pictures are either very old or taken right after construction or renovation. The current condition of the property is extremely poor and does not justify the name \u201cPosh\u201d in any sense.\n\nRoom Condition:\nThe walls are stained and clearly need repainting or restructuring. The furniture is damaged, poorly maintained, and in dire need of repair. The chairs and bed were not clean, and I even found hair follicles on the bedsheet, which was unacceptable. Hygiene was severely lacking.\n\nBathroom Issues:\nThe washroom was a disaster \u2013 with leaking pipes, a constant foul smell, and a complete lack of upkeep. The geyser was not installed in the room, and I was told that the common geyser on the rooftop wasn't functional either due to leakage issues. So hot water was simply not available.\n\nReception and Service:\nThe receptionist was extremely unresponsive and full of excuses. Any issue reported was either brushed aside or blamed on construction delays. There is no intercom or room phone, so you're forced to call the receptionist on his personal number, which rarely connects in the first few attempts due to poor network. Even basic requests like drinking water took over 30\u201360 minutes, and only after repeated follow-ups.\n\nAny complaints were never followed through. When confronted later, the receptionist would conveniently blame someone else \u2013 a shift manager, a waiter, or a repair guy. It was clear that accountability and service are non-existent here.\n\nLift and Safety Concerns:\nThe lift has no light, and riding in it at night felt unsafe and eerie. For a place that advertises itself as a suite or luxury stay, this is completely unacceptable.\n\nLost Item Incident:\nTo make matters worse, I forgot my Google Pixel earphones (worth \u20b910,000) in the room. When I called to check, the staff outright denied finding them, which leads me to question the honesty and integrity of the staff.\n\n---\n\nFinal Verdict:\nMy overall experience was pathetic, and I would strongly advise against staying at Posh Suites unless they undergo a major overhaul in both infrastructure and service. The name and pictures are misleading, and the lack of hygiene, basic amenities, responsiveness, and safety make this place a big no."
+    ]
+  },
+  "review_summary": "Based on 5 reviews.",
+  "positive_themes": {
+    "clean_rooms": 4,
+    "friendly_staff": 4,
+    "good_food": 3,
+    "good_location": 2,
+    "great_value": 2
+  },
+  "negative_themes": {
+    "noise": 1,
+    "dirty_rooms": 1
+  }
+}

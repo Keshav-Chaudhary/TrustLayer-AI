@@ -1,0 +1,49 @@
+{
+  "hotel_id": "ChIJa4Td0z8jDTkRPG1sCr5IS5o",
+  "hotel_name": "Inde Hotel Golf Course Extention",
+  "area": "Golf Course Ext Rd",
+  "budget_category": "Mid-Range",
+  "rating": 4.2,
+  "trust_score": 0.5855183508562589,
+  "travel_purpose_tags": [
+    "Budget"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "moderate",
+    "review_count": 5,
+    "positive_snippet_count": 1,
+    "negative_snippet_count": 3,
+    "positive_theme_count": 4,
+    "negative_theme_count": 0
+  },
+  "aspect_scores": {
+    "cleanliness": 0.0005761937645729,
+    "service": 0.0006123409839346,
+    "location": 0.0004171255859546,
+    "value_for_money": 0.5,
+    "staff_behavior": 0.3345076333110531
+  },
+  "recommendation_features": {
+    "popularity_score": 0.516562458327211,
+    "rating_score": 4.2,
+    "sentiment_score": 0.2009249321883544
+  },
+  "review_evidence": {
+    "positive_snippets": [
+      "I stayed here for 15 days, and my experience was truly amazing. The staff, especially Mr. Sonu and Mr. Jayesh, made my stay extremely comfortable. They were always polite, helpful, and professional. The food served by Mr. Sonu was delicious and felt just like home \u2014 every meal was fresh and satisfying.\n\nMr. Jayesh and the entire team were always ready to help with a smile, making the place feel warm and welcoming."
+    ],
+    "negative_snippets": [
+      "I checked in at Inde Hotel, Golf Course Extension, on 3rd December 2025 for a 3-day stay. I chose this property based on my previous positive experience at Inde Hotel, Cyber City. Unfortunately, rooms were unavailable there, so I opted for this location. However, the experience at the Golf Course Extension property has been extremely disappointing and far below expected hospitality standards.\n\nThe room allotted to me (Room No. 101) was in unacceptable condition. The room was stinking, and there was a visible layer of dust in multiple areas. When I attempted to use the television, both the remote and the cable connection were non-functional, and OTT platforms were not working. The attendant connected the TV to the internet using my mobile device, as even the hotel Wi-Fi was not working on my device. A technician was called, but it took an unusually long time to resolve a basic Wi-Fi issue.\n\nWhen I entered the bathroom to take a bath, I found that there was no hot water, no light in bathroom,  washbasin was leakage and the dustbin was extremely unhygienic, to\nthe point of being nauseating. Considering it is winter, the absence of hot water is completely unacceptable. Despite multiple calls (a wait of almost 30 minutes), an attendant checked and informed me that there was a boiler issue, and they would arrange a bucket of hot water. It took another 30\u201340 minutes for the bucket to arrive, and even the bucket quality was extremely poor, giving the impression of a third-class lodge rather than a reputed hotel.\n\nGoogle review is not supporting the video upload so attaching the pictures for your reference.\n\nThis experience has been highly unsatisfactory and far below the standards expected from the Inde brand. I request you to review this matter seriously and take appropriate action to ensure such inconvenience is not repeated for any guest.",
+      "Shower floor is disgusting. I stayed 3 nights and I never had hot hater\u2026 I told this to reception staff every day and they never fixed the problem\u2026 they just kept saying \u201cOne minute, one minute\u201d but they never fixed it\u2026. Also I had to clean the floor of the bedroom and furniture tops with wet wipes. It was not very clean.",
+      "I recently stayed at this hotel, and unfortunately, my overall experience was disappointing. The Wi-Fi and television in my room were not working throughout my stay, which was quite inconvenient. Additionally, the breakfast service was below expectations, as sufficient food was not available and the options were very limited.\n\nConsidering these issues, I was not satisfied with the stay, and I believe there is significant room for improvement in both facilities and services."
+    ]
+  },
+  "review_summary": "Based on 5 reviews.",
+  "positive_themes": {
+    "friendly_staff": 3,
+    "good_food": 3,
+    "good_location": 2,
+    "clean_rooms": 1
+  },
+  "negative_themes": {}
+}

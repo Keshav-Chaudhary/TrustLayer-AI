@@ -1,0 +1,54 @@
+{
+  "hotel_id": "ChIJaWaDFCkdDTkR0-v3D-Mz6BA",
+  "hotel_name": "Hotel Vertu",
+  "area": "Mahipalpur",
+  "budget_category": "Mid-Range",
+  "rating": 4.1,
+  "trust_score": 0.6752393603650717,
+  "travel_purpose_tags": [
+    "Budget"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "moderate",
+    "review_count": 5,
+    "positive_snippet_count": 2,
+    "negative_snippet_count": 3,
+    "positive_theme_count": 4,
+    "negative_theme_count": 3
+  },
+  "aspect_scores": {
+    "cleanliness": 0.5001472328949603,
+    "service": 0.0005699229368473,
+    "location": 0.5001472328949603,
+    "value_for_money": 0.0002298374020028,
+    "staff_behavior": 0.400248922832543
+  },
+  "recommendation_features": {
+    "popularity_score": 0.7019056023372263,
+    "rating_score": 4.1,
+    "sentiment_score": 0.400248922832543
+  },
+  "review_evidence": {
+    "positive_snippets": [
+      "The staff were incredibly welcoming and helpful throughout our stay... it felt like a home away from home.Rooms were immaculate and very comfortable, with excellent sleep Spotlessly clean, comfortable beds, and the staff made our friends feel very special\".\nPerfect location for exploring... and the breakfast was delicious\".",
+      "The hotel vertu was highlighting exceptional staff, cleanliness, comfort (great beds/quiet), location, and food, while mentioning minor issues (like pillow firmness) for authenticity. They use vivid words like \"exceptional,\" \"spotless,\" \"attentive,\" and \"delicious,\" and clearly state what made the stay memorable, whether it's a surprising upgrade or convenient amenities like free Wi-fi"
+    ],
+    "negative_snippets": [
+      "We had the worst experience staying here for four nights. Poor service and hospitality with dirty rooms and malfunctioning lifts. I had to shift to a different room because the bedsheets and towels were clearly dirty. After I complained, I was shifted only after staying one night in the unclean room. The hotel is close to the airport but overall location doesn't seem to be very safe for women travellers. The photos of the rooms and hotel on the website are very misleading.\nThere was always resistannce from the staff whenever we asked for fresh water bottles and towels. During breakfast, they served tea and other stuff in plastic cups and bowls as they had \"ran out of crockery\"! Apart from the staff, even guests staying there created a lot of nuisance in the midnight by going around and knocking on random doors. The staff didn't do anything to stop this nuisance.\nOverall the worst experience ever and would not recommend anyone to stay here. Seemed quite unsafe.",
+      "The man on the reception is very rude and don\u2019t know how to talk to customers! I booked a family suit and amenities on their hotel website and mmt shows a room heater. The room was super chilled and when asked for a heater or blower he denied to provide one. He lied that police have banned heaters in Mahipalpur and after 5 minutes sent one. I\u2019m okay if he could have genuinely told that he doesn\u2019t have one and not try to fool the customer. Also, the geyser didn\u2019t work and was leaking. The toilet seat was broken.\nWorst experience ever! Please know customers are not fools!",
+      "I don't know how this hotel has an average of four stars. After 3 weeks of travel in India, staying at 6 hotels or havelis, this is the worst. It's even worse than a pseudo backpacking Haveli we stayed in that was only 40% of the cost. Reasons:\n\n1. Pictures are severely misleading on the website. The rooms are quite dingy, and dirty, and the bathrooms are tiny. Our coverlet has stains on it.\n\n2. Bathroom. The shower/bathing area is so close to the toilet that even if you only have the water go into the bucket and bathe yourself from the bucket, you will get it onto the toilet itself and then have to wipe the water off the toilet and floor with one of the only two towels.\n\n3. Elevator doors sticking. When we rode up to our room, the door only opened a half foot and the person showing us the way had to push them open the remainder of the way. Needless to say, we aren't using the elevators.\n\n4. There's a sign in the lobby which prominently states airport pickup and airport return. When I called from the airport to ask about pickup, they said 'call a cab'. When I asked about return at the front desk, they pointed to the front and said get a cab. So this sign is so thoroughly misleading.\n\n5. Being incapable of finding our reservation without our assistance.\n\nWe showed them our reservation confirmation, they couldn't seem to find it. The woman at the front desk then grabbed my phone, and started to dial numbers on my phone, which I then said no to loudly and took back my phone because it has private materials on it.\n\nThey didn't explain what the problem was with our reservation or what was going on. And it turned out, my wife reading the ledger upside down, saw our names listed there. And pointed it out to them. Problem solved if they had just looked at their own ledger.\n\n6. Rude. Not explaining the issue. Grabbing my phone. Using my phone to start trying to dial numbers, causing me to tell them no and grab it back.\n\nIf I had to describe this hotel in one word, it would be \"dismal\"."
+    ]
+  },
+  "review_summary": "Based on 5 reviews.",
+  "positive_themes": {
+    "clean_rooms": 3,
+    "friendly_staff": 3,
+    "good_location": 4,
+    "good_food": 3
+  },
+  "negative_themes": {
+    "dirty_rooms": 2,
+    "rude_staff": 2,
+    "noise": 1
+  }
+}

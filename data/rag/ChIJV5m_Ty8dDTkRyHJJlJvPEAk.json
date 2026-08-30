@@ -1,0 +1,50 @@
+{
+  "hotel_id": "ChIJV5m_Ty8dDTkRyHJJlJvPEAk",
+  "hotel_name": "Hotel D'Capitol - Delhi Airport",
+  "area": "Mahipalpur",
+  "budget_category": "Mid-Range",
+  "rating": 4.4,
+  "trust_score": 0.642267055565777,
+  "travel_purpose_tags": [
+    "Budget"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "moderate",
+    "review_count": 5,
+    "positive_snippet_count": 0,
+    "negative_snippet_count": 3,
+    "positive_theme_count": 4,
+    "negative_theme_count": 2
+  },
+  "aspect_scores": {
+    "cleanliness": 0.0001843581267166,
+    "service": 0.0002538991975598,
+    "location": 0.0005914535722695,
+    "value_for_money": 0.0004226763849146,
+    "staff_behavior": 0.0001843581267166
+  },
+  "recommendation_features": {
+    "popularity_score": 0.8071605751461279,
+    "rating_score": 4.4,
+    "sentiment_score": 0.101731325034052
+  },
+  "review_evidence": {
+    "positive_snippets": [],
+    "negative_snippets": [
+      "This is the worst hotel I stayed in my travelling of so many years. Very dirty rooms, no TV, no control on AC, no options for food. In short, whatever they promised nothing was there. Very rude staff. After you make payment their attitude changes. Don't believe these photos they put in website. I would love to rate as negative but since no option is available I am forcing to rate as 1. My humble request to everyone is not even think of staying here. Worst....",
+      "Very unsafe and uncomfortable stay.\nThe room had broken glass that was simply covered with cardboard see pictures attached \u2014completely unsafe and unacceptable. During winter, the room was freezing cold; we had to wear double layers just to stay warm. This shows a total lack of basic maintenance and concern for guest safety or comfort. Definitely not coming here again. Do not recommend.",
+      "This was hands down one of the most disgusting hotel stays I\u2019ve ever experienced. The room felt less like accommodation and more like a health hazard. There was visible mold, which already says enough about the level of cleanliness and maintenance. The bedsheets had lipstick stains, as if they weren\u2019t even bothered to be changed after the previous guest. To make it worse, the duvet covers were covered in black marks, leaving me questioning whether anything in this room had ever been washed at all.\nSleeping here felt unhygienic and unsafe. Basic standards of cleanliness were completely ignored, and the room was frankly revolting. If you value your health, comfort, or even basic human decency, stay far away from this place. I wouldn\u2019t recommend it to anyone \u2014 not even for a free stay."
+    ]
+  },
+  "review_summary": "Based on 5 reviews.",
+  "positive_themes": {
+    "friendly_staff": 1,
+    "good_food": 2,
+    "clean_rooms": 1,
+    "great_value": 1
+  },
+  "negative_themes": {
+    "dirty_rooms": 2,
+    "rude_staff": 1
+  }
+}

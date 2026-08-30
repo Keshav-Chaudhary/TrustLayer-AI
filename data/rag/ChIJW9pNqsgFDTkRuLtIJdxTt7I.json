@@ -1,0 +1,48 @@
+{
+  "hotel_id": "ChIJW9pNqsgFDTkRuLtIJdxTt7I",
+  "hotel_name": "Oyo 40798 All In One",
+  "area": "Kakrola",
+  "budget_category": "Budget",
+  "rating": 3.4,
+  "trust_score": 0.448151723890181,
+  "travel_purpose_tags": [
+    "Budget"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "moderate",
+    "review_count": 5,
+    "positive_snippet_count": 0,
+    "negative_snippet_count": 3,
+    "positive_theme_count": 3,
+    "negative_theme_count": 1
+  },
+  "aspect_scores": {
+    "cleanliness": 0.000309075898258,
+    "service": 0.0016070981121932,
+    "location": 0.0003547148953657,
+    "value_for_money": 0.5,
+    "staff_behavior": 0.0003547148953657
+  },
+  "recommendation_features": {
+    "popularity_score": 0.3779858829355023,
+    "rating_score": 3.4,
+    "sentiment_score": 0.1960839274514
+  },
+  "review_evidence": {
+    "positive_snippets": [],
+    "negative_snippets": [
+      "1. Food Services are not good.\n2.Tv and power service is not well.\n3.Disturbance through blank calls.\n4.Water bottle not provided yet we demand.\n5. Toilet kits are not provided in washroom.\n\nDear customers please don't book this OYO Room.\n\nFood ke 410\u20b9 Paytm kr dene ke baad, mere hotel ko received nhi hua to mere se dubara 410\u20b9 Payment krwaya gya I lost my 410\u20b9 exta.\n\nTotally bad service.",
+      "Pathetic staff,zero professional behaviour and unhygienic The only good thing about this hotel is its location .next to Dwarka Metro station both grey and blue line stations are just few steps of distance",
+      "I just went there to have some snacks bacause i was travelling but they started providing me escort service. I denied but they forced me to go room no 102. Anyhow I managed to escape . Please don't go there."
+    ]
+  },
+  "review_summary": "Based on 5 reviews.",
+  "positive_themes": {
+    "good_food": 3,
+    "friendly_staff": 1,
+    "good_location": 1
+  },
+  "negative_themes": {
+    "rude_staff": 1
+  }
+}

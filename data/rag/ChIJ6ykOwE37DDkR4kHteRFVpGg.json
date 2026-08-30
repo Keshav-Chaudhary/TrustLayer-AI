@@ -1,0 +1,48 @@
+{
+  "hotel_id": "ChIJ6ykOwE37DDkR4kHteRFVpGg",
+  "hotel_name": "Greysky Residency Karkardooma New Delhi",
+  "area": "New Delhi",
+  "budget_category": "Mid-Range",
+  "rating": 4.8,
+  "trust_score": 0.9026923800304668,
+  "travel_purpose_tags": [
+    "Leisure",
+    "Business"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "moderate",
+    "review_count": 5,
+    "positive_snippet_count": 3,
+    "negative_snippet_count": 0,
+    "positive_theme_count": 4,
+    "negative_theme_count": 0
+  },
+  "aspect_scores": {
+    "cleanliness": 0.9822808305422464,
+    "service": 0.9471677541732788,
+    "location": 0.9735270142555236,
+    "value_for_money": 0.5,
+    "staff_behavior": 0.9893036603927612
+  },
+  "recommendation_features": {
+    "popularity_score": 0.4502085811759851,
+    "rating_score": 4.8,
+    "sentiment_score": 0.9893036603927612
+  },
+  "review_evidence": {
+    "positive_snippets": [
+      "Good and spacious hotel near to Anand Vihar and Karkarduma Metro Station.  Staff was polite and cooperative. The room was very clean.  But most of the time reception staff was missing from his table. And no interconnection telephone was available in room to contact with front desk.  Except these, it was a good stay.",
+      "Nice hotel pleasent stay, good staff\nClean room",
+      "It's a very good hotel, the staff is excellent, and the location is also great. You can reach it very easily."
+    ],
+    "negative_snippets": []
+  },
+  "review_summary": "Based on 5 reviews.",
+  "positive_themes": {
+    "clean_rooms": 4,
+    "friendly_staff": 5,
+    "good_location": 2,
+    "good_food": 1
+  },
+  "negative_themes": {}
+}

@@ -1,0 +1,46 @@
+{
+  "hotel_id": "ChIJd0OgBToZDTkRhlQmthdje-Y",
+  "hotel_name": "Hotel Omega",
+  "area": "Sector 45",
+  "budget_category": "Mid-Range",
+  "rating": 4.5,
+  "trust_score": 0.9066577751876586,
+  "travel_purpose_tags": [
+    "Business"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "moderate",
+    "review_count": 5,
+    "positive_snippet_count": 3,
+    "negative_snippet_count": 0,
+    "positive_theme_count": 3,
+    "negative_theme_count": 0
+  },
+  "aspect_scores": {
+    "cleanliness": 0.9998801946640016,
+    "service": 0.9998701214790344,
+    "location": 0.5,
+    "value_for_money": 0.5,
+    "staff_behavior": 0.9998753468195596
+  },
+  "recommendation_features": {
+    "popularity_score": 0.6404936716229086,
+    "rating_score": 4.5,
+    "sentiment_score": 0.9998759746551512
+  },
+  "review_evidence": {
+    "positive_snippets": [
+      "We had a wonderful experience at The Omega Hotel where we celebrated our 25th wedding anniversary. The event was extremely well organized, and everything was managed perfectly from start to finish. It actually was FLAWLESS. The service was truly excellent \u2014 the staff was attentive, professional, and always ready to help.\n\nThe food was excellent, with great taste and quality. Every dish was well-prepared and enjoyed by everyone at the event.\n\n14 rooms were booked and the stay was also very comfortable, with clean rooms and great hospitality throughout. A special thanks to Chavi Ma\u2019am and Crystal Ma\u2019am for their outstanding support and coordination. They ensured everything went smoothly and made the experience even more memorable. Highly recommended for both events and comfortable stays!",
+      "We recently hosted our wedding event at Hotel Omega, and it was truly an unforgettable experience! From the very beginning, the entire team was incredibly professional, supportive, and attentive to every detail.\nThe event was managed flawlessly \u2014 the d\u00e9cor, food, service, and overall coordination were beyond our expectations. The staff made sure everything ran smoothly, allowing us and our families to fully enjoy the celebration without any stress.\nA special thanks to the managers and the entire team for their dedication, hospitality, and hard work. They went above and beyond to make our special day perfect.\nWe highly recommend Hotel Omega for wedding events or any special occasion. Thank you once again for making our big day so beautiful and memorable! \ud83d\udc8d\u2728",
+      "We had our son\u2019s Mundan ceremony with omega hotel. Amazing arrangements. Everything was perfectly managed, and all our guests had a wonderful time \u2014 especially appreciating the delicious food. The stay was comfortable, and the entire experience felt effortless for us. We truly appreciate all the effort that went into making it so special."
+    ],
+    "negative_snippets": []
+  },
+  "review_summary": "Based on 5 reviews.",
+  "positive_themes": {
+    "clean_rooms": 1,
+    "friendly_staff": 3,
+    "good_food": 3
+  },
+  "negative_themes": {}
+}

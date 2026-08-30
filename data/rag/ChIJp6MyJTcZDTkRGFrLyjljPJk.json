@@ -1,0 +1,48 @@
+{
+  "hotel_id": "ChIJp6MyJTcZDTkRGFrLyjljPJk",
+  "hotel_name": "U S Fortune Hotel",
+  "area": "Sector 6",
+  "budget_category": "Mid-Range",
+  "rating": 4.7,
+  "trust_score": 0.8344860067999208,
+  "travel_purpose_tags": [
+    "Budget"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "moderate",
+    "review_count": 5,
+    "positive_snippet_count": 3,
+    "negative_snippet_count": 1,
+    "positive_theme_count": 1,
+    "negative_theme_count": 1
+  },
+  "aspect_scores": {
+    "cleanliness": 0.0009395472006872,
+    "service": 0.5003862078883685,
+    "location": 0.5,
+    "value_for_money": 0.0009395472006872,
+    "staff_behavior": 0.9989348649978638
+  },
+  "recommendation_features": {
+    "popularity_score": 0.4764330899412014,
+    "rating_score": 4.7,
+    "sentiment_score": 0.7997028706828132
+  },
+  "review_evidence": {
+    "positive_snippets": [
+      "Good hotel and best staff and good parking",
+      "I stayed here for 2 days. Had good stay experience.  Also front office staff Mr.Abhishek behaved very politely.",
+      "Best hotel nice service"
+    ],
+    "negative_snippets": [
+      "This hotel is not on main road (challenging reaching in car or uber). No restaurant in hotel. Water logging issue in bathroom third floor 302. Reception won\u2019t pick your call you have to there and ask them for service. Not good experience in stay as per price I paid."
+    ]
+  },
+  "review_summary": "Based on 5 reviews.",
+  "positive_themes": {
+    "friendly_staff": 2
+  },
+  "negative_themes": {
+    "parking_issues": 1
+  }
+}

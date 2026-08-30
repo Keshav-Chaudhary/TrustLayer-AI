@@ -1,0 +1,50 @@
+{
+  "hotel_id": "ChIJI7P9KOMXDTkRmTNCIVrNgU0",
+  "hotel_name": "Holiday Inn Gurgaon Nh8, An Ihg Hotel",
+  "area": "Sector 36",
+  "budget_category": "Budget",
+  "rating": 4.5,
+  "trust_score": 0.8370588878994208,
+  "travel_purpose_tags": [
+    "Budget"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "moderate",
+    "review_count": 5,
+    "positive_snippet_count": 3,
+    "negative_snippet_count": 1,
+    "positive_theme_count": 3,
+    "negative_theme_count": 1
+  },
+  "aspect_scores": {
+    "cleanliness": 0.7513093850575387,
+    "service": 0.6684591639786959,
+    "location": 0.5,
+    "value_for_money": 0.5,
+    "staff_behavior": 0.7513093850575387
+  },
+  "recommendation_features": {
+    "popularity_score": 0.6116822700712014,
+    "rating_score": 4.5,
+    "sentiment_score": 0.80093446187675
+  },
+  "review_evidence": {
+    "positive_snippets": [
+      "I had the pleasure of staying at this hotel for four weeks and truly enjoyed my time there. From day one, the service was exceptionally friendly and professional. The reception team was always welcoming, the room was consistently clean and comfortable, and the food was excellent throughout my stay. I would especially like to highlight the reliability and friendliness of the transport service - it made my daily routine much easier.\n\nThe entire team made sure I always felt welcome and well taken care of. You can really tell that hospitality and quality are a priority here.\n\nAn all-around great experience - highly recommended!",
+      "During a recent visit to Delhi, we stayed at this hotel for two nights and had a wonderful experience. The property is relatively new, and the rooms were spacious, clean, and very comfortable. The bed and linens were excellent, which made for a restful stay.\n\nThe reception team was welcoming, and the overall staff was courteous and helpful. However, the highlight of our stay was truly the culinary team. My daughter has multiple food allergies and must be extremely careful with her meals. I contacted the hotel\u2019s Executive Chef, Deep, a few days before our arrival, and he thoughtfully connected me with Chef Vinay, who was on duty during our stay.\n\nChef Vinay went above and beyond to ensure my daughter\u2019s safety and comfort. He prepared her meals from scratch, took special care to prevent any cross-contamination, and made sure everything she ate was safe. Not only was the food safe, but it was also delicious\u2014my daughter was genuinely happy with both the taste and the kindness she received from Chef Vinay and his team.\n\nThey even arranged packaged breakfasts for us on the day of our early departure and prepared takeaway coffee, which was a thoughtful touch we truly appreciated.\n\nWe are extremely pleased with our experience and would gladly recommend this hotel to anyone. We look forward to staying here again on our next visit.",
+      "Holiday Inn @NH 8 ,Sector 36 Gurgaon is a rather new property in the millenium city on the main highway and has become popular for corporate stays and meetings.\nThe buffet breakfast like in all star hotels is a big spread where one gets mix of North Indian,South Indian,Continental options.\nThe breads,cold cuts particulary ham-salami, fresh fruits remain ever favourite.For main course sauted veggies,idly and sausages, eggs were very nicely done. The hearty breakfast was washed with juices!\nFully satisfied!!"
+    ],
+    "negative_snippets": [
+      "Me and my daughter was staying at Holiday Inn Gurugram Sector 36 , NH8, Delhi  from February 28, 2026 to 3 rd March, 2026 , room number 502 unfortunately had a very unpleasant experience. I found a live cockroach inside my room, which was extremely disturbing, especially while traveling with my daughter. Middle of the night we had to change our room.\n\nFor a hotel under the IHG brand,  and being a loyal member for more than 2 decades, I expected much higher hygiene and cleanliness standards. I immediately informed the management. They offered complimentary breakfast as compensation, which I declined, as I did not feel that a breakfast gesture appropriately addressed a serious hygiene concern. Mr Chetan Wali ( front office manager) and Navneet Singh ( Duty manager) both are very unprofessional.\n\nThe issue is not about compensation \u2014 it is about maintaining proper pest control and cleanliness standards. Finding a cockroach in a hotel room raises concerns about overall hygiene practices.\n\nI hope the management takes this feedback seriously and implements stronger pest control and quality checks to prevent such incidents in the future."
+    ]
+  },
+  "review_summary": "Based on 5 reviews.",
+  "positive_themes": {
+    "clean_rooms": 4,
+    "friendly_staff": 3,
+    "good_food": 5
+  },
+  "negative_themes": {
+    "rude_staff": 1
+  }
+}

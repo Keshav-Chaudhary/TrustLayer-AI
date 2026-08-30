@@ -1,0 +1,49 @@
+{
+  "hotel_id": "ChIJnWzx20U9DTkRPxUI9pMRna4",
+  "hotel_name": "Fabhotel Sky",
+  "area": "Sector 83",
+  "budget_category": "Mid-Range",
+  "rating": 3.5,
+  "trust_score": 0.4181412898759524,
+  "travel_purpose_tags": [
+    "Budget"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "moderate",
+    "review_count": 5,
+    "positive_snippet_count": 0,
+    "negative_snippet_count": 3,
+    "positive_theme_count": 3,
+    "negative_theme_count": 2
+  },
+  "aspect_scores": {
+    "cleanliness": 0.0004490875677826,
+    "service": 0.0005350134451873,
+    "location": 0.5,
+    "value_for_money": 0.5,
+    "staff_behavior": 0.0012784654390997
+  },
+  "recommendation_features": {
+    "popularity_score": 0.4670576447267444,
+    "rating_score": 3.5,
+    "sentiment_score": 0.0009720883914269
+  },
+  "review_evidence": {
+    "positive_snippets": [],
+    "negative_snippets": [
+      "On 31st December,  I booked my stay with 25% advance payment but hotel staff said they don't have any rooms.\nSo, i called customer care for refund they raised ticket for refund but till now i didn't received any mail regarding my refund.",
+      "Had a very unpleasant stay here. As soon as we entered the bedsheet were dirty and had hair on it. Blanket were dirty, there was no water in washroom, drinking water was not provided.  We kept on asking for water, they were least bothered to help us. Very poor service. I WOULD NOT recommend to anyone. Poor facilities, we had to spend the whole night without water in the washroom.",
+      "This would be Worst hotel in Gurgaon. It doesnt deserve 1 star. If there is - star rating they would standout a - 5 its so horrible. No cleaness. WORST PART IS WHEN I WAS IN TOILET THE WATER STOPPED IN ALL TAPS, HAD TO CALL MULTIPLE TIMES TO GET WATER - THIS IS THE HORRIBLE. ROOMS AND OUTSIDE THE ROOM IN CORRIDOR SMELLY. SEE THE PIC OUtSIDE THE ROOM, ITS A DUSTBIN. WI-FI DOESNT WORK. ASKED FOR WATER AND AFTER MULTIPLE CALLS THEY PROVIDED AFTER 2 HOURS. WATER LEAKAGE IN BATROOM WHICH THEY NEVER FIXED EVEN AFTER MAKING COMPLAINT. FLOOR MAT WAS DIRTY AND DIDN'T CHANGE FOR THE WHOLE STAY EVEN AFTER MAKING THE COMPLAINT. TOILETRIES WERE PROVIDED AND NEVER PROVIDED EVEN AFTER REPETEDALY ASKING - NOT EVEN AN HAND WASH."
+    ]
+  },
+  "review_summary": "Based on 5 reviews.",
+  "positive_themes": {
+    "friendly_staff": 2,
+    "clean_rooms": 2,
+    "good_food": 1
+  },
+  "negative_themes": {
+    "dirty_rooms": 3,
+    "rude_staff": 1
+  }
+}

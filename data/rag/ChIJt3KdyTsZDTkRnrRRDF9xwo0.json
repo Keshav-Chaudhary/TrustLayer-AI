@@ -1,0 +1,51 @@
+{
+  "hotel_id": "ChIJt3KdyTsZDTkRnrRRDF9xwo0",
+  "hotel_name": "Capital O Altus Residency Near Aravali Biodiversity Park",
+  "area": "Gurugram",
+  "budget_category": "Mid-Range",
+  "rating": 3.9,
+  "trust_score": 0.5554142656458856,
+  "travel_purpose_tags": [
+    "Budget"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "moderate",
+    "review_count": 5,
+    "positive_snippet_count": 1,
+    "negative_snippet_count": 3,
+    "positive_theme_count": 4,
+    "negative_theme_count": 1
+  },
+  "aspect_scores": {
+    "cleanliness": 0.9995960593223572,
+    "service": 0.0027914132127382,
+    "location": 0.5,
+    "value_for_money": 0.0039738170307827,
+    "staff_behavior": 0.500383261765819
+  },
+  "recommendation_features": {
+    "popularity_score": 0.5611713237033928,
+    "rating_score": 3.9,
+    "sentiment_score": 0.2018281526339705
+  },
+  "review_evidence": {
+    "positive_snippets": [
+      "Clean, hygienic and economic place to stay.\nStaff is efficient and very well mannered. Hotel has wifi, generator backup.\nRooms and washrooms are cleaned everyday when requested.\nVery well maintained place.\nFood is good but on costlier side."
+    ],
+    "negative_snippets": [
+      "Property Managers are fraud and they behaved very unethical and unprofessional.\nI made online prepaid booking for 2 days but when I went for check in that time property manager refused to give room.\nHe asked me cash payment at the time of check in and said you may take your refund from Oyo if you can.\nAnd he made my check in without giving the room to me, He is such a fraud property manager and they way of talking is not giving any safe feeling.\nAlso he told me that they will give room to those guest who make cash payment and not booking through Oyo or other online website.\n\nAfter that I booked another hotel room through other website and went there at 1 AM in the night and all this happened because of these altus property managers.\n\nBeware from such property managers and avoid to go such locations.",
+      "Extremely dissatisfied .\n\nIssue:\n\nConfirmed booking (via oyorooms) not honored by property and excuse of construction given and i was told no rooms available even at more price than the booking..and that oyo had been told in advance and still oyo was not taking inventory off the app.\n\nI was turned back at 8pm.\n\nOyo customer service said they will look for alternate property nearby but could not get me a room.\n\nLater same night, i could see that the said property available for double the price on other websites (see pic below) even after rejecting me, so rooms were actually available.\n\nI suspect demand was high that day so hotel chose to reject oyo booking and give out rooms to other \"outside\" clients dishonoring commitment to me and oyo.\n\nThis shows the dishonesty of the property. Not only should you not book via oyo but be careful going via other sites or directly as I believe they are cheats and will go to any lengths to not honor commitments, in order to make a quick buck.\n\nAvoid booking with them....there are plenty of other properties nearby oyo or otherwise.\n\nPs: just saw the standard response of the property below. I have already given feedback and escalation to you. No action.",
+      "U can visit the place is good . But before that if u r booking room with the help of OyO site or any third party... Please confirm it to hotel reception. They may deny ur booking and check in (even if u have paid online) as they denied us .\nAsked more  money for on spot to book a room on reception desk.\nAnd so i applied for refund at oyO .. after a huge struggle i got refunded.\n\nAlthough hotel was good from outside as i haven't checked in . (Confirm it witg reception before check in)"
+    ]
+  },
+  "review_summary": "Based on 5 reviews.",
+  "positive_themes": {
+    "clean_rooms": 1,
+    "friendly_staff": 1,
+    "good_food": 1,
+    "good_location": 2
+  },
+  "negative_themes": {
+    "rude_staff": 1
+  }
+}

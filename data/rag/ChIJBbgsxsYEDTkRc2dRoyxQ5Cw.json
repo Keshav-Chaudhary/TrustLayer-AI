@@ -1,0 +1,53 @@
+{
+  "hotel_id": "ChIJBbgsxsYEDTkRc2dRoyxQ5Cw",
+  "hotel_name": "Hotel Aura44",
+  "area": "New Delhi",
+  "budget_category": "Mid-Range",
+  "rating": 3.8,
+  "trust_score": 0.6030107179176238,
+  "travel_purpose_tags": [
+    "Budget"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "moderate",
+    "review_count": 5,
+    "positive_snippet_count": 1,
+    "negative_snippet_count": 3,
+    "positive_theme_count": 4,
+    "negative_theme_count": 3
+  },
+  "aspect_scores": {
+    "cleanliness": 0.000359077588655,
+    "service": 0.2263489945689797,
+    "location": 0.000359077588655,
+    "value_for_money": 0.9989474415779114,
+    "staff_behavior": 0.3016985793365165
+  },
+  "recommendation_features": {
+    "popularity_score": 0.5788883259189451,
+    "rating_score": 3.8,
+    "sentiment_score": 0.3808686839707661
+  },
+  "review_evidence": {
+    "positive_snippets": [
+      "The hotel is value for money with all facilities that you need when you stay out of your home . An i stay ther for 5 day and I don't feel like I am hotel.\nThe staf was very active and well behaving.\nI  highly recommended the hotel."
+    ],
+    "negative_snippets": [
+      "I stayed in Room No. 203 at Aura44, Janakpuri, and had a very disappointing experience. The service quality was extremely poor. Although my booking included breakfast, no one responded even after 10:40 AM.\n\nAdditionally, I had called room service around 7:40 AM requesting towels and tea, and was told it would be provided by 9:30 AM. Despite following up four times with the reception, there was no action or proper response.\n\nThis level of negligence and lack of customer service is unacceptable for any hospitality establishment. I request the hotel management and owner to look into this matter seriously, as it raises major concerns about both service standards and food quality.\n\nNot recommended based on my experience.",
+      "I recently stayed at Hotel Aura44, and it was one of the worst experiences I\u2019ve ever had. From the moment I checked in, the staff seemed completely uninterested and unhelpful. The room was far from clean \u2014 stained bedsheets, dusty surfaces, and a foul smell that never went away.\nBasic amenities were missing or not functioning properly. The air conditioner barely worked, the bathroom had leakage issues, and the Wi-Fi connection kept dropping every few minutes. When I tried to get help from the reception, the staff either ignored my calls or responded rudely.",
+      "The staff at this hotel is polite, ensuring quick check-in and attentive service. Rooms are organized, though some fixtures feel dated. The ambiance is bustling, but common areas can get noisy. Facilities like the lounge are okay but cluttered at times. Customer support answers queries but is slow to fix problems. It\u2019s a thik thak place for travelers, could improve with better maintenance. I\u2019ll think twice about staying again, as it\u2019s alright but needs work for a better experience"
+    ]
+  },
+  "review_summary": "Based on 5 reviews.",
+  "positive_themes": {
+    "great_value": 1,
+    "good_food": 1,
+    "clean_rooms": 1,
+    "friendly_staff": 3
+  },
+  "negative_themes": {
+    "dirty_rooms": 1,
+    "rude_staff": 1,
+    "noise": 1
+  }
+}

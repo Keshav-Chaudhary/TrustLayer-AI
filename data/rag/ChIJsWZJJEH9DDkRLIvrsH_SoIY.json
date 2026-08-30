@@ -1,0 +1,50 @@
+{
+  "hotel_id": "ChIJsWZJJEH9DDkRLIvrsH_SoIY",
+  "hotel_name": "Hotel Hari Piorko",
+  "area": "Paharganj",
+  "budget_category": "Mid-Range",
+  "rating": 4.1,
+  "trust_score": 0.8993413276628235,
+  "travel_purpose_tags": [
+    "Leisure",
+    "Business",
+    "Family"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "moderate",
+    "review_count": 5,
+    "positive_snippet_count": 3,
+    "negative_snippet_count": 0,
+    "positive_theme_count": 5,
+    "negative_theme_count": 0
+  },
+  "aspect_scores": {
+    "cleanliness": 0.9997117072343826,
+    "service": 0.9997939666112264,
+    "location": 0.9996965527534484,
+    "value_for_money": 0.9997304081916808,
+    "staff_behavior": 0.9997248888015748
+  },
+  "recommendation_features": {
+    "popularity_score": 0.8563215490872254,
+    "rating_score": 4.1,
+    "sentiment_score": 0.9997248888015748
+  },
+  "review_evidence": {
+    "positive_snippets": [
+      "I have been staying at Hotel Hari Piorko from 15th February 2026 and will be checking out on 21st February 2026. My experience here has been extremely pleasant.\n\nThe hotel maintains a very clean and comfortable ambience, and its location is prime and perfect, just a short walk from R.K. Ashram Metro Station, making travel very convenient.\n\nThe staff members are courteous, cooperative, and always ready to assist. A special mention must be made of Bablu at the reception, who consistently goes beyond his duty to ensure guests feel comfortable and well taken care of.\n\nThe food quality is good, and both the restaurant and room service are outstanding. Service is prompt, and the staff respond quickly whenever contacted. Importantly, the hotel respects guests\u2019 privacy and does not disturb unnecessarily.\n\nOverall, it has been a highly satisfying stay, and I would certainly recommend this hotel to others looking for comfort, convenience, and excellent service.",
+      "The best stay during our short visit in Delhi. It was a moment which we felt like we have been abundant in the streets of Paharganj and finally we found this magical hotel. Event though the hotel located near the dusty main bazaar street the atmosphere inside the hotel was amazing. Their staff was so friendly. Especially front office staff members Roshan and Bubloo were so helpfull. They have a wonderful restaurant which serves outstanding food 24x7. Mohan and Suraj were the most humble and nicest restaurant assistants we have ever seen and we felt them like friends and brothers. This place is a Gem and we are pplanning to visit again soon. Cheers from sri lanka.",
+      "\u2b50\u2b50\u2b50\u2b50\u2b50 Excellent Stay at Hotel Hari Piorko\nI had a very pleasant experience staying at Hotel Hari Piorko. The biggest advantage of this hotel is its prime location\u2014just a short walk from New Delhi Railway Station and close to the metro, which makes traveling around Delhi extremely easy.\nThe rooms were clean, comfortable, and well-maintained. The bed was cozy, the room size was decent, and all basic amenities were provided. Housekeeping did a good job, and the overall hygiene standards were satisfactory.\nThe staff was polite, cooperative, and helpful throughout the stay. From smooth check-in to assisting with queries, their behavior was professional and welcoming. Room service was prompt and reliable.\nAnother highlight is the 24-hour restaurant, which serves tasty food with good variety. The quality of meals was good, and it\u2019s very convenient for late-night or early-morning travelers.\nConsidering the location, service, and comfort, Hotel Hari Piorko offers excellent value for money. It\u2019s a great choice for tourists, business travelers, and anyone looking for a comfortable stay in central Delhi."
+    ],
+    "negative_snippets": []
+  },
+  "review_summary": "Based on 5 reviews.",
+  "positive_themes": {
+    "clean_rooms": 4,
+    "friendly_staff": 5,
+    "good_location": 4,
+    "good_food": 3,
+    "great_value": 1
+  },
+  "negative_themes": {}
+}

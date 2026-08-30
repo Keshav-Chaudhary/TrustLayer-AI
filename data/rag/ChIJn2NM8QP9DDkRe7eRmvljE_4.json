@@ -1,0 +1,53 @@
+{
+  "hotel_id": "ChIJn2NM8QP9DDkRe7eRmvljE_4",
+  "hotel_name": "Divine Inn Hotel Rajouri Garden",
+  "area": "New Delhi",
+  "budget_category": "Budget",
+  "rating": 4.4,
+  "trust_score": 0.8103077826198566,
+  "travel_purpose_tags": [
+    "Leisure",
+    "Business",
+    "Family"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "moderate",
+    "review_count": 5,
+    "positive_snippet_count": 3,
+    "negative_snippet_count": 1,
+    "positive_theme_count": 4,
+    "negative_theme_count": 1
+  },
+  "aspect_scores": {
+    "cleanliness": 0.9997361302375792,
+    "service": 0.7478277925692964,
+    "location": 0.9952479898929596,
+    "value_for_money": 0.9997361302375792,
+    "staff_behavior": 0.798222477757372
+  },
+  "recommendation_features": {
+    "popularity_score": 0.5524781943333255,
+    "rating_score": 4.4,
+    "sentiment_score": 0.798222477757372
+  },
+  "review_evidence": {
+    "positive_snippets": [
+      "I had a very comfortable and beautiful stay at this property. From the moment I arrived, the experience was smooth and welcoming. All the staff members were extremely helpful, attentive, and always ready to assist with a smile, which made me feel right at home.\n\nThe facilities are well-maintained with 24x7 hot water, ensuring comfort at any time of the day. The entire place is neat, clean, and organized, reflecting the management\u2019s attention to detail and commitment to guest satisfaction.\n\nThe rooms are spacious, featuring king-size, ultra-comfortable beds that guarantee a great night\u2019s sleep. The overall ambiance is peaceful and inviting, perfect for relaxation whether you\u2019re traveling for business or leisure.\n\nYou might find places offering a cheaper price, but they won\u2019t match the quality, comfort, and atmosphere provided here. This property truly delivers exceptional value for the money.\n\nI would highly recommend this place to anyone looking for a superior stay experience with great service, cleanliness, and comfort. It\u2019s an excellent choice for those who appreciate quality and a pleasant environment.",
+      "Stayed for 2 weeks with family and when I\u2019m back in Delhi, I\u2019ll happily stay here again. My room was ideal, hot water for showers, cleaned any time requested, clean towels provided. Nicest thing was the friendly, helpful staff. They even accommodated a family gathering here in their Reception Area! Nothing was too much trouble\u2026 Kitchen is self-service and the staff observed what we needed and provided anything we liked.\nRemember if you\u2019re coming to Delhi you are arriving at a busy, noisy, vibrant city. Me, I just loved it all. Hotel is located on a busy street surrounded mainly by Stone/Tile Shops & you\u2019d nearly miss it if you don\u2019t watch out carefully. But it\u2019s worth it & worked out to be great value (approx. \u20ac20-25 per night Double En-suite).\nMany thanks to Management & Staff. Will see you next time I\u2019m over visiting my family.\nBlessings \u2618\ufe0f",
+      "Location I will say everything closes down around 9pm.. but the staff are the highlights of the hotel they're amazing so helpful.  My phone wasn't working in India since it was my first time visit. Ramish works in the hotel took his own time to go with me to the store and activated my phone.  Other then that any help I needed they were always there a sweet girl named Tina works in the front desk she been so much help. I wanna specially think all of them they made my trip easy in a way.."
+    ],
+    "negative_snippets": [
+      "I stayed there from 6th to 8th Dec 2025 with 8 of my family members and kids. The owner and few staff  ( not all ) were highly arrogant and did not cooperate at all. For each and every small thing, my family  had to argue with this owner . They did not allow to meet my close relatives to enter in hotel room. Only after too much heated arguments and when my father threatened to complain to police, they allowed my close visitors to visit for some time.\nThey will ask ID proof of even small children of 2 years and force to us to pay addition Rs 900 for every single child.Also they will take full payment before check in so that we cannot escape.\nEven after paying them Rs 20000 for booking 4 rooms for 2 days, they were not allowing only one room to continue just till 1 pm. After too much arguments, they allowed one room to continue till 1 pm.\nThis owner talks only about terms and conditions. When you travel with kids and family, we need some cooperation but the hospitality and cooperation is absoultely zero. I think these previous reviews are fake or self  posted. Please avoid staying in this homestay ( though they write hotel,its a homestay) bcz you will face lot of service issues ,if travelling with family and kids.I am a frequent traveller but this stay was my most horrible experience in life. I will never in life book this homestay again even for free."
+    ]
+  },
+  "review_summary": "Based on 5 reviews.",
+  "positive_themes": {
+    "clean_rooms": 2,
+    "friendly_staff": 5,
+    "great_value": 2,
+    "good_location": 2
+  },
+  "negative_themes": {
+    "noise": 1
+  }
+}

@@ -1,0 +1,51 @@
+{
+  "hotel_id": "ChIJpTgCIZobDTkREstZmkWNvdE",
+  "hotel_name": "My Hotel - Near Yashobhoomi Dwarka",
+  "area": "New Delhi",
+  "budget_category": "Mid-Range",
+  "rating": 4.6,
+  "trust_score": 0.8282978990447388,
+  "travel_purpose_tags": [
+    "Leisure"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "rich",
+    "review_count": 5,
+    "positive_snippet_count": 3,
+    "negative_snippet_count": 2,
+    "positive_theme_count": 5,
+    "negative_theme_count": 0
+  },
+  "aspect_scores": {
+    "cleanliness": 0.9958924353122712,
+    "service": 0.6634637343619639,
+    "location": 0.9919662475585938,
+    "value_for_money": 0.5,
+    "staff_behavior": 0.6641591020161286
+  },
+  "recommendation_features": {
+    "popularity_score": 0.5124902864187779,
+    "rating_score": 4.6,
+    "sentiment_score": 0.7979355470975861
+  },
+  "review_evidence": {
+    "positive_snippets": [
+      "I stayed here for 2 days while attending an event at Yashobhoomi and had a really comfortable experience. The staff were very cooperative and went out of their way to help. They even cooked food for my 1 year old baby exactly as per my requirements, which meant a lot to me. The rooms were clean, well-maintained, and the overall hospitality was excellent. Highly recommended for anyone looking for a pleasant and supportive stay!",
+      "Very comfortable stay. The best perk of staying at this hotel is Yashobhoomi exhibition centre is just five minutes drive. No traffic,   rooms, satff,  food. Everything is very good and very comfortable.\n\nW",
+      "Just booked randomly on my visit to dwarka, delhi.\nBut i must tell rooms are good, it is a newly built property with all necessary amenities. Only thing that lags is there food quality and service a bit. Over all nice experience,"
+    ],
+    "negative_snippets": [
+      "Hotel is just average. Rooms are ok but not that clean. Location is poor and the near by areas are not that clean. Staff are good and the food is also good. The management team is well behaved. Overall it\u2019s good but could have been improved a lot",
+      "The pathetic management reserved staff made us speak to the owner about the rates.  When we mentioned we were finding cheaper online rates to check if the hotel could offer better deals he promptly adjusted all his rates just to secure that business."
+    ]
+  },
+  "review_summary": "Based on 5 reviews.",
+  "positive_themes": {
+    "clean_rooms": 2,
+    "friendly_staff": 3,
+    "good_food": 4,
+    "good_location": 1,
+    "great_value": 1
+  },
+  "negative_themes": {}
+}

@@ -1,0 +1,54 @@
+{
+  "hotel_id": "ChIJGSgZBUEcDTkRRd8_ULbNj6U",
+  "hotel_name": "De Pavilion Hotel, Delhi",
+  "area": "Mahipalpur",
+  "budget_category": "Mid-Range",
+  "rating": 4.4,
+  "trust_score": 0.8521978110305353,
+  "travel_purpose_tags": [
+    "Leisure",
+    "Business"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "rich",
+    "review_count": 5,
+    "positive_snippet_count": 3,
+    "negative_snippet_count": 2,
+    "positive_theme_count": 4,
+    "negative_theme_count": 2
+  },
+  "aspect_scores": {
+    "cleanliness": 0.7446127808507299,
+    "service": 0.9996964931488036,
+    "location": 0.9917197227478028,
+    "value_for_money": 0.5,
+    "staff_behavior": 0.9997888803482056
+  },
+  "recommendation_features": {
+    "popularity_score": 0.7542118760198633,
+    "rating_score": 4.4,
+    "sentiment_score": 0.7950324755045586
+  },
+  "review_evidence": {
+    "positive_snippets": [
+      "Wonderful stay from start to finish. The room was spotless, comfortable, and quiet. Staff were warm and attentive, always ready to help. Great location and amenities made everything easy. I\u2019d happily stay here again. Highly recommended for travelers.",
+      "Very nice hotel nearer to T1 Terminal of Delhi Airport. We missed our flight and chose to stay in this hotel due to the reasonable pricing and also the food was good in theme or in house restaurant.\n\nIf you are willing to stay for a day or for even couple of hours near airport or maybe need to catch a flight early or during odd hours for domestic routes from Delhi, you can choose this hotel.",
+      "I stepped into the lobby, I knew I was in for a treat. The staff at De Pavilion are genuinely exceptional\u2014attentive without being intrusive. My room was beautifully appointed, spacious, and spotlessly clean, offering a quiet respite from the Delhi bustle. The bed was incredibly comfortable, guaranteeing a restful night's sleep. The dining experience was also top-notch; the Indian fusion dinner I had at their in-house restaurant was divine. If you are looking for luxury, impeccable service, and a true oasis in the city, look no further than De Pavilion. I won't stay anywhere else on my next trip to Delhi."
+    ],
+    "negative_snippets": [
+      "Stayed here for one night as we had an early morning flight. The hotel is at a walkable distance from Aerocity (around 1.2 km) if you don\u2019t have much luggage. The nearest metro station is Aerocity, which is convenient.\n\nThe hotel is clean and provides basic amenities. Toiletries like a shaving kit, lotion, dental kit, etc. were provided. There was also a kettle with tea and coffee sachets in the room. Check-in was smooth, and the toilet was clean, which is important for a short stay.\n\nRooms are very basic and suitable only if you\u2019re looking for a place to rest for a few hours before a flight. Not a luxury stay, but okay for a quick overnight halt near the airport.",
+      "Had a really really bad experience with them. I was traveling with 10 foreigners group trip had a one night stay. The room were very dirty , some rooms with no towels and some with already dirty towels (makes me think the didn\u2019t even clean the room that day). Rather than that it was really noisy in the night. Showers were not working properly."
+    ]
+  },
+  "review_summary": "Based on 5 reviews.",
+  "positive_themes": {
+    "clean_rooms": 4,
+    "friendly_staff": 2,
+    "good_location": 3,
+    "good_food": 1
+  },
+  "negative_themes": {
+    "dirty_rooms": 1,
+    "noise": 1
+  }
+}

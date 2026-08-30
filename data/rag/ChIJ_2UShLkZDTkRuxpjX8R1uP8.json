@@ -1,0 +1,48 @@
+{
+  "hotel_id": "ChIJ_2UShLkZDTkRuxpjX8R1uP8",
+  "hotel_name": "Skylark Hotel By Gabrian Hotels",
+  "area": "Sector 14",
+  "budget_category": "Mid-Range",
+  "rating": 4.5,
+  "trust_score": 0.8796936745498882,
+  "travel_purpose_tags": [
+    "Leisure",
+    "Business"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "moderate",
+    "review_count": 5,
+    "positive_snippet_count": 3,
+    "negative_snippet_count": 0,
+    "positive_theme_count": 4,
+    "negative_theme_count": 0
+  },
+  "aspect_scores": {
+    "cleanliness": 0.9988839030265808,
+    "service": 0.999869465827942,
+    "location": 0.999869465827942,
+    "value_for_money": 0.5,
+    "staff_behavior": 0.999204913775126
+  },
+  "recommendation_features": {
+    "popularity_score": 0.5143633840917362,
+    "rating_score": 4.5,
+    "sentiment_score": 0.9994471907615662
+  },
+  "review_evidence": {
+    "positive_snippets": [
+      "Skylark is my Go-To hotel whenever I am in Gurgaon.I always had an excellent stay at this hotel! The staff were incredibly kind and helpful, the rooms were clean and comfortable, and the service was top-notch. The location was perfect and everything was well-organized. I would definitely come back and highly recommend it to others!\"",
+      "It was my first visit to gurugram So I was little worried about hotels because I didn't had much idea . I booked Hotel Skylark and trust me it was tremendous experience , completely hassle free check-in with well mannered staff. Room was spacious good enough for 2 people and most importantly washroom was neat and properly clean , infact complementary water bottle, tea , coffee was also provided. Only thing that bothered me was waterlogging, because in morning it completely impossible to walk out from hotel because of last night rain but can't complain much because waterlogging is main attraction of Gurugram .",
+      "Just had an amazing time! The people here are so welcoming, making my visit super enjoyable. Plus, great food quality adds to its charm\u2014truly one of the best hotels I've been to!"
+    ],
+    "negative_snippets": []
+  },
+  "review_summary": "Based on 5 reviews.",
+  "positive_themes": {
+    "clean_rooms": 3,
+    "friendly_staff": 4,
+    "good_location": 1,
+    "good_food": 3
+  },
+  "negative_themes": {}
+}

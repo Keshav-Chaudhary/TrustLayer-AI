@@ -1,0 +1,54 @@
+{
+  "hotel_id": "ChIJ3X0NsjECDTkRYoNaNClVwuE",
+  "hotel_name": "Hotel Lagoona And Banquet Hall",
+  "area": "New Delhi",
+  "budget_category": "Mid-Range",
+  "rating": 4.6,
+  "trust_score": 0.6108437740620717,
+  "travel_purpose_tags": [
+    "Budget"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "moderate",
+    "review_count": 5,
+    "positive_snippet_count": 1,
+    "negative_snippet_count": 3,
+    "positive_theme_count": 5,
+    "negative_theme_count": 3
+  },
+  "aspect_scores": {
+    "cleanliness": 0.0015366111329057,
+    "service": 0.0011422219322412,
+    "location": 0.5013551373267546,
+    "value_for_money": 0.0002451688342262,
+    "staff_behavior": 0.2008902217901777
+  },
+  "recommendation_features": {
+    "popularity_score": 0.3856836393487762,
+    "rating_score": 4.6,
+    "sentiment_score": 0.2008902217901777
+  },
+  "review_evidence": {
+    "positive_snippets": [
+      "The experience at Hotel Laguna was very good. Its rooms are spacious and benefit from amenities, and the staff here is also very helpful and courteous. The location of the hotel is also quiet and beautiful, from where you get good view and peace. The quality of the food is also good, covering both local and international cuisine. Overall, it is a good option for a peaceful and relaxing stay."
+    ],
+    "negative_snippets": [
+      "I stayed at Hotel Lagoona on 19th November, and the experience was extremely disappointing.\n\nThe rooms were very dirty, and the bathrooms were untidy and unhygienic. I even saw cockroaches roaming around. The electricity boards were broken, which is dangerous and could easily cause an electric shock if touched.\n\nThe receptionist\u2019s behaviour was very rude, and there was no proper service staff available. Only one kitchen guy was handling everything. On top of that, the staff kept asking for extra charges for every small service, which felt very unprofessional.\n\nOverall, this stay was unsafe, uncomfortable, and definitely not worth the money. Would not recommend this hotel to anyone.",
+      "I was booking this hotel on Goibibo it shows 1100 something, but when i visit hotel in person they ask me extra charge. Service is not good. I was very disappointed with the experience. Staff is not coperative and  very arrogant.",
+      "I recently stayed at Hotel Lagoona and Banquet Hall in Delhi, and unfortunately, my experience was far from satisfactory. After a long day, I ordered room service at night, only to find a cockroach in my food. This was extremely shocking and unacceptable, especially at a hotel of this standard in which they give good reviews to make matters worse, when I reported the issue, the staff did not even offer an apology or any form of reimbursement for the inconvenience. The lack of hygiene and the dismissive attitude towards such a serious problem is deeply concerning. I expected much better from a hotel of this caliber. !!! I would not recommend staying here unless they seriously address these issues!!!!\n\nThis should effectively communicate your dissatisfaction and hopefully prompt the hotel to take action."
+    ]
+  },
+  "review_summary": "Based on 5 reviews.",
+  "positive_themes": {
+    "friendly_staff": 4,
+    "good_location": 1,
+    "good_food": 2,
+    "clean_rooms": 1,
+    "great_value": 1
+  },
+  "negative_themes": {
+    "dirty_rooms": 1,
+    "rude_staff": 1,
+    "noise": 1
+  }
+}

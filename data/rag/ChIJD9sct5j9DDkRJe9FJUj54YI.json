@@ -1,0 +1,40 @@
+{
+  "hotel_id": "ChIJD9sct5j9DDkRJe9FJUj54YI",
+  "hotel_name": "Hotel O Royal Discovery",
+  "area": "Roop Nagar",
+  "budget_category": "Mid-Range",
+  "rating": 2.6,
+  "trust_score": 0.5523238551727936,
+  "travel_purpose_tags": [
+    "Budget"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "sparse",
+    "review_count": 1,
+    "positive_snippet_count": 1,
+    "negative_snippet_count": 0,
+    "positive_theme_count": 0,
+    "negative_theme_count": 0
+  },
+  "aspect_scores": {
+    "cleanliness": 0.5,
+    "service": 0.5,
+    "location": 0.5,
+    "value_for_money": 0.5,
+    "staff_behavior": 0.5
+  },
+  "recommendation_features": {
+    "popularity_score": 0.1667945549845492,
+    "rating_score": 2.6,
+    "sentiment_score": 0.9967261552810668
+  },
+  "review_evidence": {
+    "positive_snippets": [
+      "SilverKey Executive Stays 60498 Roop Nagar\n43845, 1/15, Block 1, Roop Nagar, Delhi, 110007\nHotel\n\nhigh quality standards thay maintain."
+    ],
+    "negative_snippets": []
+  },
+  "review_summary": "Based on 1 reviews.",
+  "positive_themes": {},
+  "negative_themes": {}
+}

@@ -1,0 +1,49 @@
+{
+  "hotel_id": "ChIJ87DHGs4ZDTkRx1Hiq-G3rsI",
+  "hotel_name": "Hotel O By Oyo Dream Plaza",
+  "area": "Sector 12",
+  "budget_category": "Budget",
+  "rating": 3.9,
+  "trust_score": 0.6605841191287529,
+  "travel_purpose_tags": [
+    "Budget"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "moderate",
+    "review_count": 5,
+    "positive_snippet_count": 2,
+    "negative_snippet_count": 3,
+    "positive_theme_count": 3,
+    "negative_theme_count": 0
+  },
+  "aspect_scores": {
+    "cleanliness": 0.0231399443000555,
+    "service": 0.4999703945359215,
+    "location": 0.0231399443000555,
+    "value_for_money": 0.9994305968284608,
+    "staff_behavior": 0.0002687338273972
+  },
+  "recommendation_features": {
+    "popularity_score": 0.4516745927904628,
+    "rating_score": 3.9,
+    "sentiment_score": 0.6044678860809654
+  },
+  "review_evidence": {
+    "positive_snippets": [
+      "Nice place to stay. Located at main road called MATA ROAD, gurgaon.",
+      "Nice easy to locate new property cost effective"
+    ],
+    "negative_snippets": [
+      "Such a poor hotel. rooms are so small and services are very bad. staffs used to abuse and fight with all guests. and they never use to provide AC in night an makes excuses and water supply is not good. This is very worst hotel with worst staff and worst services. There is no any complementary water for guest and when you ask for mineral water they use to provide unsealed bottles. If have any problem in room and for that problem you use to call reception they keep their excuse. I request to all never visit here for any stay. although everything is worst. And staffs even use to fight and abuse with guest at checkout time. Deepak Verma is a staff in this hotel is very bad behaviour in nature he don't know how to talk to any guest and very worst attitude person\nSabse ganda hotel hai ye pure gurgaon me....",
+      "It was ok\nCurtains was not there near the window because of which light was coming through whole night\nBed sheet bot clean",
+      "Not a big hotel but, have good service."
+    ]
+  },
+  "review_summary": "Based on 5 reviews.",
+  "positive_themes": {
+    "friendly_staff": 1,
+    "clean_rooms": 1,
+    "good_location": 1
+  },
+  "negative_themes": {}
+}

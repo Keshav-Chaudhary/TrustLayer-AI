@@ -1,0 +1,54 @@
+{
+  "hotel_id": "ChIJw5YvHgAfDTkRBy56MNY2nl0",
+  "hotel_name": "Udman Hotel Chhatarpur",
+  "area": "Chhatarpur",
+  "budget_category": "Mid-Range",
+  "rating": 4.9,
+  "trust_score": 0.9087141308983776,
+  "travel_purpose_tags": [
+    "Leisure",
+    "Business"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "rich",
+    "review_count": 5,
+    "positive_snippet_count": 3,
+    "negative_snippet_count": 2,
+    "positive_theme_count": 5,
+    "negative_theme_count": 1
+  },
+  "aspect_scores": {
+    "cleanliness": 0.9998008807500204,
+    "service": 0.7497195809555706,
+    "location": 0.9998658895492554,
+    "value_for_money": 0.000884318142198,
+    "staff_behavior": 0.7997106480179355
+  },
+  "recommendation_features": {
+    "popularity_score": 0.7004097509718766,
+    "rating_score": 4.9,
+    "sentiment_score": 0.7997106480179355
+  },
+  "review_evidence": {
+    "positive_snippets": [
+      "Excellent leadership by\u00a0Rakesh Ji. The hotel is professionally managed, clean, and has a very positive vibe. It\u2019s clear that the staff is motivated under his guidance to provide top-notch service. A 5-star experience in every sense.\"\n\n\"I had a wonderful stay at this hotel! The\u00a0location\u00a0is absolutely perfect\u2014it's right in the heart of the city and close to all the major attractions, making it very convenient to get around.\nThe\u00a0staff behavior\u00a0was exceptional; they were incredibly friendly, professional, and went out of their way to make me feel welcome from the moment I checked in. My room was spotless and very comfortable. I highly recommend this place to anyone looking for a great experience!\"",
+      "I had a really good experience at Udnam Hotel. The ambiance is pleasant and comfortable, perfect for family as well as friends. The staff is polite, cooperative, and quick to help, which makes the visit even better.\n\nThe food quality is excellent\u2014fresh, tasty, and well-presented. Hygiene and cleanliness are well maintained throughout the hotel. Service is fast and professional, and prices are reasonable for the quality they offer.\n\nOverall, Udnam Hotel is a great place for dining and staying. I would definitely recommend it and would love to visit again.",
+      "Based on the reviews, i had booked this hotel during my visit at delhi.  Execellent ambience, room is clean and provided non smoking room for me.  I booked the room with breakfast and dinner.  Restaurant is very neat equivalent to 5 star, delicious food is served.  Babu and Ashif have taken care during my 2 days stay here.  Very friendly and supportive.  Recommending corporate and family to stay here."
+    ],
+    "negative_snippets": [
+      "Terrible hospitality overall. The toilet in my room was already broken when I checked in \u2014 no prior use from my side. Basic maintenance is clearly ignored.\nThe receptionist had a pure money mindset. Even though my room was already ready, she still demanded extra payment for early check-in. Very unprofessional and greedy behavior instead of customer-friendly service.\nOn top of that, the hotel has extremely strict rules \u2014 it feels more like a hostel with wardens than a proper hotel. No sense of freedom, constant control, and zero warmth from staff.\nThis place looks decent online, but reality is completely different.\nHelpful tip for travelers: If you care about comfort, honesty, and enjoying your stay freely, avoid this hotel. Definitely not worth the price.",
+      "Overall, I had a really good experience staying here. The service was highly appreciable, and the rooms were average but comfortable, and ofcourse need more maintenance. Also note that hot water have specific timing which is kind of frustrating. The breakfast was good with multiple options to choose from. Special thanks to Umesh for his excellent service. All the housekeeping and service staff were very supportive and courteous throughout the stay."
+    ]
+  },
+  "review_summary": "Based on 5 reviews.",
+  "positive_themes": {
+    "clean_rooms": 3,
+    "friendly_staff": 5,
+    "good_location": 1,
+    "good_food": 3,
+    "great_value": 1
+  },
+  "negative_themes": {
+    "rude_staff": 1
+  }
+}

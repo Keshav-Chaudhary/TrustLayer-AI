@@ -1,0 +1,48 @@
+{
+  "hotel_id": "ChIJUXQfIkD9DDkRcVucp8aFAD8",
+  "hotel_name": "Hotel Woodland Deluxe",
+  "area": "Paharganj",
+  "budget_category": "Mid-Range",
+  "rating": 4.1,
+  "trust_score": 0.8650278135645748,
+  "travel_purpose_tags": [
+    "Leisure",
+    "Business",
+    "Family"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "moderate",
+    "review_count": 5,
+    "positive_snippet_count": 3,
+    "negative_snippet_count": 0,
+    "positive_theme_count": 3,
+    "negative_theme_count": 0
+  },
+  "aspect_scores": {
+    "cleanliness": 0.9996768236160278,
+    "service": 0.9995566755533218,
+    "location": 0.9993934631347656,
+    "value_for_money": 0.9996123313903807,
+    "staff_behavior": 0.9995240330696106
+  },
+  "recommendation_features": {
+    "popularity_score": 0.6952956265186842,
+    "rating_score": 4.1,
+    "sentiment_score": 0.9995240330696106
+  },
+  "review_evidence": {
+    "positive_snippets": [
+      "I had a wonderful experience at Hotel Woodland Delhi. The staff behaviour was absolutely outstanding \u2014 polite, professional, and always ready to help with a smile. They made the stay feel warm and comfortable. The service was quick, and the overall atmosphere of the hotel was very pleasant. Highly recommend this place for anyone visiting Delhi!",
+      "Service is very very Good . Mainly I have been coming Delhi since 2018 ,when  I'm coming I stay this Hotel....only because of the Main manager Udham Singh ji,he he too  much friendly and cooparative guy....beside that Pandu and other working persons are more energetic, helpful also......I prey to God bless you Mr. Udham Singh ji ......stay healthy and wealthy.     : Thanking you, Tanumuy Bera ,kolkata,west Bengal",
+      "Comfortable stay with budget friendly and good stay at the center of multan..\nAll the retaurents, hospitals and medical stores are near by with easy access of karol bagh metro station"
+    ],
+    "negative_snippets": []
+  },
+  "review_summary": "Based on 5 reviews.",
+  "positive_themes": {
+    "friendly_staff": 5,
+    "good_location": 1,
+    "clean_rooms": 1
+  },
+  "negative_themes": {}
+}

@@ -1,0 +1,51 @@
+{
+  "hotel_id": "ChIJZYZCov4ZDTkR0xTOhZJFEAI",
+  "hotel_name": "Limewood Stay Silver Studio",
+  "area": "Sector 57",
+  "budget_category": "Budget",
+  "rating": 4.9,
+  "trust_score": 0.8178128703509975,
+  "travel_purpose_tags": [
+    "Budget"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "rich",
+    "review_count": 5,
+    "positive_snippet_count": 3,
+    "negative_snippet_count": 2,
+    "positive_theme_count": 3,
+    "negative_theme_count": 1
+  },
+  "aspect_scores": {
+    "cleanliness": 0.6663949676876655,
+    "service": 0.500037668425648,
+    "location": 0.5,
+    "value_for_money": 0.5,
+    "staff_behavior": 0.9996152917544048
+  },
+  "recommendation_features": {
+    "popularity_score": 0.5725584651670446,
+    "rating_score": 4.9,
+    "sentiment_score": 0.6000260675005847
+  },
+  "review_evidence": {
+    "positive_snippets": [
+      "The room was clean and well-maintained, creating a comfortable and pleasant stay. The staff were very responsive, attending promptly to every request with professionalism and care. What stood out most was their honesty and genuine helpfulness, which made the experience even more trustworthy and enjoyable. Overall, it was a wonderful stay, and I would highly recommend this hotel for its cleanliness, attentive service, and integrity.",
+      "Good stay all staff very nice",
+      "Shahrukh night manager properly handled all the queries provided support , hotel room was clean and organized serive was fast.. will surely recommend"
+    ],
+    "negative_snippets": [
+      "It's not safe for women\n\nThere room attached with common balcony and room door glass doesn't lock so anyone can come to your room anytime. It's highly unsafe for men or women. Breaching of privacy.",
+      "One of the worst room, no service at all. Pillow dirty. For king size bed 2 4th class mattress... No welcome kit"
+    ]
+  },
+  "review_summary": "Based on 5 reviews.",
+  "positive_themes": {
+    "clean_rooms": 2,
+    "friendly_staff": 2,
+    "great_value": 1
+  },
+  "negative_themes": {
+    "dirty_rooms": 1
+  }
+}

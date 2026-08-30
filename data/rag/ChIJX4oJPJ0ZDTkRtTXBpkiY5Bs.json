@@ -1,0 +1,50 @@
+{
+  "hotel_id": "ChIJX4oJPJ0ZDTkRtTXBpkiY5Bs",
+  "hotel_name": "Hotel O By Oyo Elite",
+  "area": "Sector 15",
+  "budget_category": "Budget",
+  "rating": 3.7,
+  "trust_score": 0.5929081483587229,
+  "travel_purpose_tags": [
+    "Budget"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "moderate",
+    "review_count": 5,
+    "positive_snippet_count": 0,
+    "negative_snippet_count": 3,
+    "positive_theme_count": 4,
+    "negative_theme_count": 2
+  },
+  "aspect_scores": {
+    "cleanliness": 0.333394570746653,
+    "service": 0.000308591290377,
+    "location": 0.5,
+    "value_for_money": 0.999637484550476,
+    "staff_behavior": 0.4999730379204264
+  },
+  "recommendation_features": {
+    "popularity_score": 0.5756812674563431,
+    "rating_score": 3.7,
+    "sentiment_score": 0.3930081334226997
+  },
+  "review_evidence": {
+    "positive_snippets": [],
+    "negative_snippets": [
+      "Not at all a place to stay no hot water no proper locks and weird atmosphere.\nBroken dirty place.",
+      "Bad quality rooms and regular power outage was there. The owner was not even ready to use generator when requested.",
+      "It's got alot of parking space in front , even had a valet. The rooms were spacious and hygienic following modern interior decor.\nBathrooms were clean. It also sports a lift along with other amenities . The rates are pretty affordable as well .\nIt had a mini cafe / French press just as you entered .The staff was cooperative and friendly but their efficiency and speed could use a little boost though. My overall experience was pretty good & I'd surely recommend this hotel."
+    ]
+  },
+  "review_summary": "Based on 5 reviews.",
+  "positive_themes": {
+    "clean_rooms": 2,
+    "friendly_staff": 2,
+    "great_value": 1,
+    "good_food": 1
+  },
+  "negative_themes": {
+    "dirty_rooms": 2,
+    "parking_issues": 1
+  }
+}

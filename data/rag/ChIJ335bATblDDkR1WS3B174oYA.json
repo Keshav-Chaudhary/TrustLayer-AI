@@ -1,0 +1,52 @@
+{
+  "hotel_id": "ChIJ335bATblDDkR1WS3B174oYA",
+  "hotel_name": "Bellmont Hotel",
+  "area": "Sector 37",
+  "budget_category": "Mid-Range",
+  "rating": 4.5,
+  "trust_score": 0.8149748454345227,
+  "travel_purpose_tags": [
+    "Leisure"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "rich",
+    "review_count": 5,
+    "positive_snippet_count": 3,
+    "negative_snippet_count": 2,
+    "positive_theme_count": 4,
+    "negative_theme_count": 1
+  },
+  "aspect_scores": {
+    "cleanliness": 0.6671461421841135,
+    "service": 0.5883536754990928,
+    "location": 0.999874711036682,
+    "value_for_money": 0.5,
+    "staff_behavior": 0.7502770244027488
+  },
+  "recommendation_features": {
+    "popularity_score": 0.7033290967736792,
+    "rating_score": 4.5,
+    "sentiment_score": 0.6706168746110052
+  },
+  "review_evidence": {
+    "positive_snippets": [
+      "Bellmont Hotel \u2013 Highly Recommended! \u2b50\u2b50\u2b50\u2b50\u2b50\nI had a wonderful stay at the Bellmont Hotel and the lobby, hallways, and especially my room were impeccably neat and clean. It genuinely felt fresh and inviting.\nThe staff truly went above and beyond. Every team member I encountered \u2013 from the front desk to housekeeping and the breakfast servers \u2013 was friendly, attentive, and genuinely eager to help. They served all the guests perfectly, always with a smile and quick responses to any request. It made the whole experience feel warm and personalized.\nGreat location, comfortable beds, excellent cleanliness, and outstanding service .",
+      "Absolutely wonderful experience! The service was top-notch, and the amenities, including the spa were top-class. The room was spacious, quiet, and spotless. Special shoutout to the staff for their attentiveness. Definitely a 5-star experience, and I will be recommending this to everyone!\"",
+      "This hotel truly respects human dignity and guest rights. Staff treated everyone with equality, respect, and professionalism. Safe environment, privacy maintained, and services provided without any discrimination. A very responsible and ethical hospitality experience."
+    ],
+    "negative_snippets": [
+      "The rooms are very small especially the bathrooms. And they are not very hygenic. We changed 3 rooms and all of them had issues. They only provide 1 towel. We have to.ask for towels. Some do not even offer hand towel or bath mat. I found service good. The food is good as well. Decent. But the hotel itself needs a good makeover. Beds were also uncomfortable. I hope this review is taken seriously",
+      "Pathetic service, Pathetic rooms, the amount they charge is huge, but services are absolutely low class,\n1)They don't give you room towel, you have to ask for it,\n\n2) No water bottles you have to remind them,\n\n3) TV doesn't work,\n\n4) Every time you order food pay it then and there. No paying at the time of check out.\n\n5) You are having bath and in between you find there is no water in tap. Wait for 10 minutes\n\n6) Breakfast buffet, absolutely pathetic.\n\n7) Handed over the key and asked to clear the room, came back at 5 in the evening, nothing happened and room was dirty, had to again ask person in reception to get it cleared, they took another 30 minutes.\n\n8) Staff are not at all welcoming, nobody greets you, nobody assists you to carry your luggage to you rooms.\n\n9) Inexperienced staff at reception, billing time took long, another staff had to come to do it.\n\nPlz do not visit, I had a trip with business purpose , if you are visiting with family, plz do not .\n\nEven Oyo hotels are better than this."
+    ]
+  },
+  "review_summary": "Based on 5 reviews.",
+  "positive_themes": {
+    "clean_rooms": 2,
+    "friendly_staff": 4,
+    "good_location": 1,
+    "good_food": 3
+  },
+  "negative_themes": {
+    "dirty_rooms": 1
+  }
+}

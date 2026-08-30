@@ -1,0 +1,50 @@
+{
+  "hotel_id": "ChIJK8q9_lrhDDkR6E6lBzzBCxQ",
+  "hotel_name": "Anvaya",
+  "area": "Bhatti Kalan",
+  "budget_category": "Mid-Range",
+  "rating": 4.7,
+  "trust_score": 0.8917984960184141,
+  "travel_purpose_tags": [
+    "Leisure",
+    "Business"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "moderate",
+    "review_count": 5,
+    "positive_snippet_count": 3,
+    "negative_snippet_count": 0,
+    "positive_theme_count": 4,
+    "negative_theme_count": 1
+  },
+  "aspect_scores": {
+    "cleanliness": 0.5,
+    "service": 0.999829888343811,
+    "location": 0.999825656414032,
+    "value_for_money": 0.999885082244873,
+    "staff_behavior": 0.9998527050018312
+  },
+  "recommendation_features": {
+    "popularity_score": 0.4456667138885363,
+    "rating_score": 4.7,
+    "sentiment_score": 0.9998527050018312
+  },
+  "review_evidence": {
+    "positive_snippets": [
+      "A Hidden Gem in Delhi\n\nFrom the moment we arrived, this boutique hotel felt like a sanctuary tucked away from the city's vibrant chaos. We came to attend a wedding nearby and found the perfect place to relax between the wedding events. The staff were nothing short of exceptional\u2014warm, attentive, and genuinely invested in making our stay super comfortable.\n\nThe rooms were beautifully designed with thoughtful touches, great bedding, and view into the greenery. Both cocktails and cuisine are fantastic. The sister company provides the hotel with fantastic fresh French patisserie for breakfast which was so good that we were excited for each morning.\n\nWhat truly sets this place apart is its stunning exterior: A lush, tranquil haven where time seems to slow down. We spent hours simply lounging in the peaceful vibe, surrounded by greenery and serenity. It\u2019s the perfect retreat for anyone seeking calm, comfort, and a touch of luxury in Delhi.\n\nHighly recommended for travelers who crave a soulful escape with all the indulgences of a top-tier stay.",
+      "An absolutely amazing 4 days at this property. After 3+weeks travelling around rajasthan it was the perfect place to relax. It is a true oasis of calm and peace. The attention to detail, from the beautiful rooms to the dining was first class. The management and staff could not do enough to ensure our comfort at all times. I would not hesitate to recommend this boutique hotel.",
+      "We booked this property for our engagement ceremony. It\u2019s such a serene space with wonderful staff who go above and beyond to make sure that the event is taken care of in the most seamless way. It\u2019s beautiful to see people who genuinely value your traditions and try and curate a wonderful experience. The food was impeccable and the cocktails were super thoughtful and loved by all! Thank you for making us feel like family. Big ups to Ryan and Divesh for managing the space and our event so gracefully:)"
+    ],
+    "negative_snippets": []
+  },
+  "review_summary": "Based on 5 reviews.",
+  "positive_themes": {
+    "friendly_staff": 5,
+    "good_location": 1,
+    "good_food": 4,
+    "great_value": 1
+  },
+  "negative_themes": {
+    "dirty_rooms": 1
+  }
+}

@@ -1,0 +1,51 @@
+{
+  "hotel_id": "ChIJQTyWH_v9DDkRWIAPGAhMUz0",
+  "hotel_name": "Homestay Near Isbt Kashmiri Gate & Metro | Private Rooms & Dorms",
+  "area": "New Delhi",
+  "budget_category": "Budget",
+  "rating": 4.7,
+  "trust_score": 0.906542110035354,
+  "travel_purpose_tags": [
+    "Family"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "moderate",
+    "review_count": 5,
+    "positive_snippet_count": 3,
+    "negative_snippet_count": 1,
+    "positive_theme_count": 4,
+    "negative_theme_count": 1
+  },
+  "aspect_scores": {
+    "cleanliness": 0.7497927427029936,
+    "service": 0.5,
+    "location": 0.6666062712320127,
+    "value_for_money": 0.9993679225444794,
+    "staff_behavior": 0.9995834827423096
+  },
+  "recommendation_features": {
+    "popularity_score": 0.8150553074595581,
+    "rating_score": 4.7,
+    "sentiment_score": 0.7998056793003343
+  },
+  "review_evidence": {
+    "positive_snippets": [
+      "I recently stayed at this AC dormitory near ISBT Kashmere Gate, and honestly, it was exactly what I needed.\nLocation-wise, it\u2019s a big win. Being so close to the ISBT and Kashmere Gate Metro station makes travel super easy, especially if you\u2019re arriving late or catching an early bus. You can literally walk with your luggage without stressing.\nThe dormitory itself was clean and properly maintained. The AC worked well (which really matters in Delhi), and the bedding was fresh and comfortable. Washrooms were cleaned regularly, and there was no unpleasant smell \u2014 something that\u2019s rare in budget dorm setups.\nWhat stood out most was the staff. They were polite, cooperative, and didn\u2019t behave like you were \u201cjust another booking.\u201d Check-in was smooth, and they were helpful with basic local guidance.\nIf you\u2019re a solo traveler, student, or someone just passing through Delhi and need a safe, affordable place near ISBT Kashmere Gate, this AC dormitory is a solid choice. You get value for money without compromising on basic comfort.\nWould definitely stay again.",
+      "Less than a 5 minute walk from Kasmiri gate bus stand. Whole property was very clean. Dorms clean. Big washroom/showers clean. There's a communal space. The staff are so lovely and kind here. Felt very safe. Good price. They also let me keep my bags after check out. Dorm was quiet. Highly recommend. We're actually going back to stay again tomorrow. :)",
+      "Very satisfied with the stay. The staff are professional and friendly, and they provide support almost 24 hours a day, which is really impressive.\nTheir English is also good compared to the average. If you need anything, just ask - they\u2019re very helpful."
+    ],
+    "negative_snippets": [
+      "Rooms did not have ventilation or exhaust ... Whole room felt damp and even a little smell stayed for soo long over there\nThere was a common washroom fpr every single person which tbh I did not feel good about - all the dorms that I've been into have one washroom per room (regardless of the beds)\nWashrooms could have been more cleaned\nCurtains should be replaced often..\nMine had someone's snot and I saw curtains for person above mine had another kind of white spot\nMy bedsheets had some kind of spots that were not going away\nApart from location I didn't like anything\n\nI can't reply my details over here but my bed was A5\nCheck-in date was 20th feb"
+    ]
+  },
+  "review_summary": "Based on 5 reviews.",
+  "positive_themes": {
+    "clean_rooms": 4,
+    "friendly_staff": 4,
+    "good_location": 3,
+    "great_value": 1
+  },
+  "negative_themes": {
+    "dirty_rooms": 2
+  }
+}

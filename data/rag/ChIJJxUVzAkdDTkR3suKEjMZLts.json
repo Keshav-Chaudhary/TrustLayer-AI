@@ -1,0 +1,52 @@
+{
+  "hotel_id": "ChIJJxUVzAkdDTkR3suKEjMZLts",
+  "hotel_name": "Hotel View",
+  "area": "Mahipalpur",
+  "budget_category": "Mid-Range",
+  "rating": 4.3,
+  "trust_score": 0.7249405434876214,
+  "travel_purpose_tags": [
+    "Budget"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "rich",
+    "review_count": 5,
+    "positive_snippet_count": 3,
+    "negative_snippet_count": 2,
+    "positive_theme_count": 3,
+    "negative_theme_count": 2
+  },
+  "aspect_scores": {
+    "cleanliness": 0.4767779596877518,
+    "service": 0.5000211485457839,
+    "location": 0.0003028289938811,
+    "value_for_money": 0.9292675852775574,
+    "staff_behavior": 0.576562597474549
+  },
+  "recommendation_features": {
+    "popularity_score": 0.5461084178384882,
+    "rating_score": 4.3,
+    "sentiment_score": 0.576562597474549
+  },
+  "review_evidence": {
+    "positive_snippets": [
+      "Lovely stay here. My second time in Delhi and I stayed here. The price is reasonable.\n\nAlso I had an issue with Goibibo where I accidentally booked for a different date. The receptionist was very helpful, he helped me with the booking (I couldn't change the date). I cancelled on Goibibo and we booked offline for the SAME PRICE.\n\nWould recommend",
+      "OPO Hotels feels like your home away from home, the vibes are so nice and comfy. The staff knows how to lighten up your mood, and the food? Just order anything and you'll be in love! Cleanliness, service, ambiance - everything was on point! Definitely gonna come back again \ud83d\ude0a",
+      "Nice hotel\nFood testy\nStaff is sapoting\nGood clining washroom our room\nNeyer by air port"
+    ],
+    "negative_snippets": [
+      "A very bad experience. It was a corporate booking. Staffs are not at all helpful. Allotted room did not have any telephone, geyser was not working. Even after multiple reminders staffs are quite not bothered to address",
+      "DON'T TRUST THE GOOD REVIEWS AS MOST OF THEM ARE COMPLETELY FAKE AND MENTIONED BY THEIR OWN STAFFS .\n\nI am writing this to raise a serious complaint regarding my recent stay at The View Delhi hotel, which I had booked for [check-in date 30/08/2025 check-out date 1/09/2025] via the Goibibo app.\n\nUnfortunately, my experience was not only deeply disappointing but also completely unacceptable for any hotel, let alone one claiming to be a 3-star property. Please find below a detailed summary of the numerous issues I faced:\n\nKey Issues Faced:\nRoom Not Available Upon Arrival\nDespite having a confirmed booking, I was told no rooms were available at check-in. I was then arranged to stay in another property, which lacked basic amenities such as:\n\nNo Wi-Fi\n\nNo geyser\n\nNo towel or toiletries\n\nIt was a non-smoking room despite requesting smoking\nI still had to pay for this substandard arrangement.\n\nLaptop Damaged Due to Plumbing Issues\nDuring my stay, my laptop got damaged because of a plumbing leak in the room. This is completely the hotel\u2019s responsibility, and I demand compensation for this loss.\n\nUnsanitary & Unacceptable Room Conditions\nThe next evening, after multiple complaints, I was finally moved to the room I had originally booked. However, the condition of that room was shocking:\n\nPeriod stains all over the mattress\n\nNo cupboard\n\nNo towels or toiletries again\n\nAC not functioning\nThis level of hygiene is beyond unacceptable.\n\nRodent Infestation\nA rat was running around the room. I tried calling the front desk for help late at night, but no one answered. This posed serious health and safety concerns.\n\nFalse Information on the Goibibo App\nThe amenities listed during booking were misleading:\n\nNo cupboard as promised\n\nNon-functional air conditioning\n\nNo Wi-Fi or basic hygiene provisions\nThis is clearly misrepresentation and fraudulent advertising.\n\nUnprofessional & Rude Staff Behavior\nThe staff were extremely rude and dismissive. When I raised valid concerns, I was told:\n\n\"This is a 3-star hotel, not a 5-star, don\u2019t expect everything.\"\nThis tone and behavior are absolutely unprofessional.\n\nNo Customer Support from Goibibo\nI attempted to reach out to Goibibo customer support multiple times via the app, but it has been impossible to speak with a human representative or register my complaint properly."
+    ]
+  },
+  "review_summary": "Based on 5 reviews.",
+  "positive_themes": {
+    "friendly_staff": 5,
+    "clean_rooms": 1,
+    "good_food": 2
+  },
+  "negative_themes": {
+    "dirty_rooms": 1,
+    "rude_staff": 1
+  }
+}

@@ -1,0 +1,49 @@
+{
+  "hotel_id": "ChIJNSFmGzPiDDkRIiHvp6YOd1c",
+  "hotel_name": "Amara Hotel",
+  "area": "Greater Kailash",
+  "budget_category": "Mid-Range",
+  "rating": 4.1,
+  "trust_score": 0.8563499781075841,
+  "travel_purpose_tags": [
+    "Leisure",
+    "Business",
+    "Family"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "moderate",
+    "review_count": 5,
+    "positive_snippet_count": 3,
+    "negative_snippet_count": 0,
+    "positive_theme_count": 4,
+    "negative_theme_count": 0
+  },
+  "aspect_scores": {
+    "cleanliness": 0.999766488869985,
+    "service": 0.9998741149902344,
+    "location": 0.99900621175766,
+    "value_for_money": 0.9998451471328736,
+    "staff_behavior": 0.9994658589363098
+  },
+  "recommendation_features": {
+    "popularity_score": 0.6545834829756433,
+    "rating_score": 4.1,
+    "sentiment_score": 0.9994658589363098
+  },
+  "review_evidence": {
+    "positive_snippets": [
+      "We hosted our Engagement, Haldi, and Mehndi ceremonies, and the experience was excellent. The service was outstanding, and the staff was very cooperative and attentive during all the events.\n\nA special thank you to Muskan from the management team for her sincere, responsible, and active support. She ensured everything was well managed and stress-free.\n\nThe food was delicious and well appreciated by all our guests. Special compliments to Chef Pardeep for maintaining great taste and quality throughout the functions.\n\nOverall, the beautiful arrangements, great food, and exceptional service made all our celebrations truly memorable.",
+      "The stay was peaceful, the staff is very helpful in nature. I was new to the city, so they helped me with bags, and booking a cab and everything else. Didn't get the time to taste their food but the in-house cafe had a very cozy vibe. Overall amazing. The rooms were clean, the washrooms were a bit I'll maintained though, but they were hygienic.",
+      "This hotel is definitly the best price- quality for a hotel in delhi. The room and the beds were very comfortable, spacious, and clean and there is hot water. Last but not least, the staff is very nice and comprehensive. We had a great stay at this hotel. Thank you !! \ud83d\ude4c"
+    ],
+    "negative_snippets": []
+  },
+  "review_summary": "Based on 5 reviews.",
+  "positive_themes": {
+    "friendly_staff": 5,
+    "good_food": 2,
+    "clean_rooms": 3,
+    "good_location": 1
+  },
+  "negative_themes": {}
+}

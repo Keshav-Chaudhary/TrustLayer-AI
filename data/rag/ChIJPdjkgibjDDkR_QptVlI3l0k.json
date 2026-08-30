@@ -1,0 +1,51 @@
+{
+  "hotel_id": "ChIJPdjkgibjDDkR_QptVlI3l0k",
+  "hotel_name": "Fabhotel Le Grand - Hotel In Kalkaji, New Delhi",
+  "area": "Kalkaji",
+  "budget_category": "Mid-Range",
+  "rating": 3.2,
+  "trust_score": 0.4762549210077345,
+  "travel_purpose_tags": [
+    "Budget"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "moderate",
+    "review_count": 5,
+    "positive_snippet_count": 1,
+    "negative_snippet_count": 3,
+    "positive_theme_count": 3,
+    "negative_theme_count": 2
+  },
+  "aspect_scores": {
+    "cleanliness": 0.0216237407682152,
+    "service": 0.0003724242851603,
+    "location": 0.0635580122470855,
+    "value_for_money": 0.5,
+    "staff_behavior": 0.0003724242851603
+  },
+  "recommendation_features": {
+    "popularity_score": 0.6097057666595005,
+    "rating_score": 3.2,
+    "sentiment_score": 0.2130233377392869
+  },
+  "review_evidence": {
+    "positive_snippets": [
+      "Fab hotel like Fabulous....Exceeded all expectations. The facilities are modern and well-maintained, providing the perfect environment for both work and relaxation. Special thanks to the team for the seamless hospitality. Highly recommended for anyone visiting the"
+    ],
+    "negative_snippets": [
+      "The stay in this hotel reminds me of Binod Kambli. They have everything, excellent location, great interior with great area, best quality gadgets but 0 maintenance almost. Everywhere it is dust or dirt. The taps are rusty with uncertain water supply. It may work, it may not. If they focus on the maintenance properly, it can be one of the best property in the C R Park area.",
+      "Broken Bed, Broken Sofa everything is not maintained. We had a horrible stay. Bad water in washroom. I would never suggest. It was a nightmare .",
+      "The room I was given was a disgusting room and was not at all suitable for living in.The paint was peeling off in various places in the room, the walls were full of stains, and the bathroom was very unhygienic.If a healthy person is in this room, he will get sick. I booked a deluxe room for an office student but I have never seen such a disgusting room in my life.Breakfast was included in my booking but I was never offered breakfast nor was I even given a bottle of mineral water.Before booking any FAB Group hotel, you must see the actual pictures of the room and then book. There was a stark difference between the picture they shared with us when booking the room and the room I was physically given. This is how they are doing business by cheating people in places like New Delhi."
+    ]
+  },
+  "review_summary": "Based on 5 reviews.",
+  "positive_themes": {
+    "good_location": 1,
+    "good_food": 1,
+    "friendly_staff": 1
+  },
+  "negative_themes": {
+    "dirty_rooms": 1,
+    "rude_staff": 1
+  }
+}

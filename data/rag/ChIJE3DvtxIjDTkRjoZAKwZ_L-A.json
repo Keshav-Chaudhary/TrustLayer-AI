@@ -1,0 +1,51 @@
+{
+  "hotel_id": "ChIJE3DvtxIjDTkRjoZAKwZ_L-A",
+  "hotel_name": "Holiday Inn Express Gurugram Sector 50, An Ihg Hotel",
+  "area": "Gurugram",
+  "budget_category": "Budget",
+  "rating": 4.2,
+  "trust_score": 0.7760298221129697,
+  "travel_purpose_tags": [
+    "Budget"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "rich",
+    "review_count": 5,
+    "positive_snippet_count": 3,
+    "negative_snippet_count": 2,
+    "positive_theme_count": 3,
+    "negative_theme_count": 1
+  },
+  "aspect_scores": {
+    "cleanliness": 0.00032103167905,
+    "service": 0.5000116383380373,
+    "location": 0.3334994720547304,
+    "value_for_money": 0.0002503611613065,
+    "staff_behavior": 0.9997536142667136
+  },
+  "recommendation_features": {
+    "popularity_score": 0.813680990465061,
+    "rating_score": 4.2,
+    "sentiment_score": 0.5999805812316481
+  },
+  "review_evidence": {
+    "positive_snippets": [
+      "Hello Holiday Inn Express Team,\n\nI am writing in response to the recent invitation to provide feedback on my stay at your esteemed hotel from February 2nd to February 7th, 2026. I am delighted to convey that my experience was truly exceptional, significantly enhanced by the outstanding hospitality and service provided by your dedicated team.\n\nI would like to extend particular commendation to the morning shift front office team. Tarun, Gaurav, and Soni consistently demonstrated exemplary professionalism and a genuinely welcoming approach throughout my interactions. Furthermore, the Front Office Manager, whose name is Gaurav also provided consistently courteous and highly professional assistance, which greatly contributed to a seamless experience.\n\nAdditionally, the Food & Beverage team delivered an equally impressive level of service. Their commitment to ensuring my comfort and satisfaction during all my meals was consistently evident. I wish to specifically acknowledge Sapna and Ching Mack for their exceptional attentiveness and proactive efforts in catering to my needs.\n\nIn summary, my stay at the Holiday Inn Express Gurugram Sector 50 was nothing short of outstanding, a testament to the dedication, professionalism, and warmth of your entire staff. Please extend my sincere appreciation to all individuals mentioned for making my visit so memorable and enjoyable.\n\nSincerely,\n\nAdrita Khanna",
+      "Two months back we were staying for a week here. Again we choose this hotel for stay now.Both the trips we are having a comfortable, pleasant stay here. The breakfast is very good. Hospitality is excellent. In particular the hospitality we received from Shahiba is fantastic. Soft spoken, smiling face\u2026 we look forward to stay again.\nOnly problem is the lift. Management should look into this. The hotel maintenance and staff are using the lift. Only 2 lifts are there. We have to wait a long time.",
+      "I recently stayed at the Holiday Inn Express in sector 50, which has been by far a great experience. I would like to mention a few staff members personally for making my stay extra comfortable.\nBhavna, from the housekeeping department has been very attentive to my needs and has been kind enough to provide things without having to ask again and again.\n\nRajni, Deepak, Rajesh, from F&B has been attentive to my requirements, especially on the days that I was unwell. They have treated me with kindness and generosity throughout.\n\nTinku Bhaiya, guard at the hotel has been a welcoming face throughout my stay.\n\nOverall, my stay has been wonderful."
+    ],
+    "negative_snippets": [
+      "I recently stayed at Holiday Inn Express Gurgaon Sector 50, and it was one of the most disappointing hotel experiences I\u2019ve had in India.\n\nThe room was unbelievably small \u2014 I have traveled extensively across India and have never seen such a tiny room in any hotel at this price point. There was barely space to move around comfortably. The bathroom was even worse. It was so cramped that even a single person could hardly stand properly. The washroom space was extremely small and very uncomfortable to use.\n\nThere was no cupboard or proper storage space in the room, which made the stay even more inconvenient. Basic functionality seemed ignored.\n\nService was equally disappointing. There was no assistance at the lift lobby, no help offered with luggage, and no proper parking guidance or assignment provided. For a branded hotel, this level of service is unacceptable.\n\nOverall, the room was extremely pathetic and far below expectations. I would not recommend this property to anyone looking for comfort or decent hospitality.",
+      "The room was such that it felt like it ended before it even started. The hotel was booked by the client, and the room was far too small. There were no cupboards or almirahs to keep bags or clothes. The toilet and bathroom were also extremely small. Overall, the room was simply too small.\nThe breakfast options were very limited as well.\nI have no complaints regarding the service or any other aspects. This was the first time I\u2019ve had such an experience, regarding the size."
+    ]
+  },
+  "review_summary": "Based on 5 reviews.",
+  "positive_themes": {
+    "friendly_staff": 3,
+    "good_food": 3,
+    "good_location": 1
+  },
+  "negative_themes": {
+    "parking_issues": 1
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "hotel_id": "ChIJ9f5mdiv7DDkRq-mRrFelJAo",
+  "hotel_name": "Radisson Blu Hotel, Kaushambi Delhi Ncr",
+  "area": "Kaushambi",
+  "budget_category": "Luxury",
+  "rating": 4.4,
+  "trust_score": 0.9610696778182476,
+  "travel_purpose_tags": [
+    "Business"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "moderate",
+    "review_count": 5,
+    "positive_snippet_count": 3,
+    "negative_snippet_count": 0,
+    "positive_theme_count": 3,
+    "negative_theme_count": 0
+  },
+  "aspect_scores": {
+    "cleanliness": 0.9998830556869508,
+    "service": 0.9998258550961812,
+    "location": 0.5,
+    "value_for_money": 0.5,
+    "staff_behavior": 0.9998432517051696
+  },
+  "recommendation_features": {
+    "popularity_score": 0.958863836000865,
+    "rating_score": 4.4,
+    "sentiment_score": 0.9998432517051696
+  },
+  "review_evidence": {
+    "positive_snippets": [
+      "I had a wonderful stay at the hotel. The rooms were clean, comfortable, and well maintained, and the overall atmosphere was warm and welcoming. A special mention goes to Priya, who truly made our stay memorable with her exceptional hospitality. She was polite, attentive, and always ready to help with a smile. Her professionalism and care really stood out. I would definitely recommend this hotel and look forward to staying here again.",
+      "Radisson Blu Kaushambi Delhi NCR is a well-maintained hotel and a good venue for events. I visited the hotel to attend an event, and the overall experience was pleasant. The event space was spacious, well-organized, and professionally managed.\n\nThe staff was courteous and supportive, ensuring smooth arrangements throughout the event. The ambience was elegant, and the cleanliness standards were good. Food served during the event was tasty and well-presented.\n\nOverall, it was a comfortable and well-managed experience, making it a suitable choice for hosting events and gatherings.",
+      "This wasn't my first time at Radisson Blu but I have to say - the best thing about this trip wasn't just the beautiful property and facilities but the staff who were the most attentive I have ever experienced.\nThe attention to detail and response to any query was swift and over and above.\nI was staying alone in the hotel so wanted to ensure I had a safe way to get around the city. The front desk were so helpful arranging a reasonable taxi for me and spoke to the driver and ensured he knew where to take me and also explained the route the driver should take. Special thanks to Mr. Nikhil at front desk who was always very helpful. Who went above and beyond to make my stay even more enjoyable with his warm hospitality and helpful attitude. The attention to detail and genuine care truly made a difference. Highly recommend this hotel for anyone looking for a comfortable and seamless experience."
+    ],
+    "negative_snippets": []
+  },
+  "review_summary": "Based on 5 reviews.",
+  "positive_themes": {
+    "clean_rooms": 2,
+    "friendly_staff": 5,
+    "good_food": 2
+  },
+  "negative_themes": {}
+}

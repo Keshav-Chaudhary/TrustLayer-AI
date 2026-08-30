@@ -1,0 +1,53 @@
+{
+  "hotel_id": "ChIJczKllXuqDTkRLn-SdXvjeUs",
+  "hotel_name": "Mh One Resort Hotel",
+  "area": "Alipur",
+  "budget_category": "Luxury",
+  "rating": 4.2,
+  "trust_score": 0.7554671497153203,
+  "travel_purpose_tags": [
+    "Budget"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "rich",
+    "review_count": 5,
+    "positive_snippet_count": 3,
+    "negative_snippet_count": 2,
+    "positive_theme_count": 4,
+    "negative_theme_count": 2
+  },
+  "aspect_scores": {
+    "cleanliness": 0.9998095631599426,
+    "service": 0.50021089038637,
+    "location": 0.0007069207495078,
+    "value_for_money": 0.0007069207495078,
+    "staff_behavior": 0.500200742695597
+  },
+  "recommendation_features": {
+    "popularity_score": 0.7168611766774822,
+    "rating_score": 4.2,
+    "sentiment_score": 0.6000759674818255
+  },
+  "review_evidence": {
+    "positive_snippets": [
+      "Amazing place for a relaxing stopover!\nI visited MHOne Resort on the Delhi\u2013Karnal Bypass (GT Road), and it genuinely exceeded my expectations. The moment you walk in, the interior d\u00e9cor instantly grabs your attention. The ambience is modern, elegant, and surprisingly well-maintained \u2014 perfect for both family trips and long-route travellers looking for a comfortable break.\n\nThe food is another highlight. Freshly prepared, flavourful, and served with good portion sizes. Whether you\u2019re grabbing a quick bite or sitting down for a proper meal, the quality really stands out. Their service staff is polite and attentive, making the dining experience even better.\n\nThe overall property is clean, spacious, and well-organized. From parking convenience to washroom hygiene \u2014 everything feels thoughtfully managed. With such a peaceful environment right on the highway, it\u2019s a great spot to refresh before continuing your journey.\n\nHighly recommended for travellers who want comfort, good food, and a premium feel without any hassle.",
+      "I have visited many banquet halls across Delhi NCR, but MH One Resort Hotel in Alipur, Delhi stands out as one of the largest, offering multiple venue options. Its main banquet hall is particularly impressive-spacious and beautifully designed.\nHowever, the breakfast was quite ordinary and delayed by one to two hours, indicating that the staff on duty need better training and coordination.\nThe dinner in the main hall, on the other hand, was excellent, with a wide variety of starters, chat stalls, and numerous dessert options.\nOverall, it was a pleasant experience.",
+      "We had an excellent experience recently at MH-1 in the month of October 2025 related to Punjabi sytle destination wedding of my daughter.As parents we have a lot of worry related to the various functions to be held apart from wedding like Haldi,churra,garoli etc,everything went so perfect because of an extra care done by Team MH-1 specially by Mr.Jitender Bhatia ji & madam jyoti related to room service, food decor.It was an unbelievable experience & making the events memmorable.We got lot of appreciation from our family & friends for this extraordinary event.My personal instinct says that It there r some positive energies at that place.Specoal thanks to the owner Mr.Batla ji for High class mantaince of his venue & taking full care of us.We will cheish these memories forever."
+    ],
+    "negative_snippets": [
+      "We recently hosted a wedding function at MH1 Banquet near GT Karnal Road, and unfortunately, our experience was extremely disappointing and stressful.\n\nFrom the beginning, there was a clear lack of professionalism and transparency. Even after finalizing the package and signing the contract, we were repeatedly pressured for additional payments during the event for services that were already agreed upon. This constant demand for extra money created unnecessary tension and embarrassment in front of our guests.\n\nThe rooms promised for the bride and close family members were not handed over on time, causing chaos during the preparation hours. Despite repeated follow-ups, the management showed no urgency or accountability.\n\nOne of the most serious issues we faced was regarding the liquor arrangements. Several bottles that we had arranged were stolen during the event. The stock kept reducing without explanation, and when we questioned the staff, there was no proper response or investigation. This resulted in financial loss and extreme frustration for us as hosts.\n\nThe behavior of some waiters was highly unprofessional. They kept interrupting guests repeatedly and, in some instances, directly demanding and even snatching money in the name of tips. This created a very uncomfortable environment and left many of our guests shocked.\n\nWe had coordinated with the person handling the jaimallaplannerz, named Gaurav, who had promised certain decorations and commitments at the time of booking. However, he completely backed out of what was promised once the event began. The arrangements were not as discussed, and several agreed points were ignored. Even after the contract was signed, he demanded additional money at the last moment, putting us under pressure during the function.\n\nWe also relied on the event vendors and panel services recommended by the banquet management, but we felt misled. There were hidden charges, poor coordination, lack of commitment, and a clear difference between what was promised and what was delivered. Once payments were secured, service standards dropped significantly.\n\nOther major issues included:\n\u2022\tRude and dismissive responses when complaints were raised\n\u2022\tDelays in food service and inconsistent food quality\n\u2022\tLack of cleanliness in certain areas\n\u2022\tPoor coordination between management and ground staff\n\u2022\tRepeated last-minute financial demands\n\u2022\tNo accountability for missing items\n\nOverall, this was an extremely stressful and upsetting experience for our family. A wedding is meant to be a joyful and memorable occasion, but due to the mismanagement, broken promises, and constant financial pressure, it became a source of regret. We strongly advise future clients to be extremely cautious, document every commitment clearly, and monitor arrangements closely before trusting this venue.",
+      "It is with profound disappointment that I pen this review regarding the resort that was entrusted with hosting my brother-in-law\u2019s wedding ceremoney\u2014 an occasion meant to embody joy, elegance, and seamless hospitality.\n\nRegrettably, the experience was an egregious departure from all reasonable expectations. The culinary arrangements were distressingly substandard; the food lacked freshness, flavour, and basic quality, rendering much of it inedible and ultimately wasted. Such negligence in catering is inexcusable for an event of this magnitude.\n\nEqually disconcerting was the resort\u2019s hospitality, which reflected a palpable absence of professionalism and attentiveness. The staff appeared indifferent, inadequately coordinated, and, at critical moments, conspicuously unresponsive to repeated requests for assistance. More troubling was their reluctance to acknowledge concerns or engage in constructive dialogue, leaving guests feeling disregarded and inconvenienced.\n\nA wedding is not merely an event but a cherished memory in the making. Unfortunately, the resort\u2019s mismanagement, lack of accountability, and deficient service overshadowed what should have been a celebratory and graceful affair.\n\nI would strongly urge prospective patrons to exercise caution and seek assurances of service quality before committing to this venue for any significant occasion."
+    ]
+  },
+  "review_summary": "Based on 5 reviews.",
+  "positive_themes": {
+    "clean_rooms": 2,
+    "friendly_staff": 4,
+    "good_food": 5,
+    "good_location": 1
+  },
+  "negative_themes": {
+    "parking_issues": 1,
+    "rude_staff": 1
+  }
+}

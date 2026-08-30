@@ -1,0 +1,54 @@
+{
+  "hotel_id": "ChIJpwfcnIsdDTkRozATce4XjIU",
+  "hotel_name": "Hotel Kian By Jmd Group",
+  "area": "Mahipalpur",
+  "budget_category": "Mid-Range",
+  "rating": 4.7,
+  "trust_score": 0.8249116126248314,
+  "travel_purpose_tags": [
+    "Budget"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "rich",
+    "review_count": 5,
+    "positive_snippet_count": 3,
+    "negative_snippet_count": 2,
+    "positive_theme_count": 5,
+    "negative_theme_count": 2
+  },
+  "aspect_scores": {
+    "cleanliness": 0.5001292005908908,
+    "service": 0.6006243285082746,
+    "location": 0.0017718813178362,
+    "value_for_money": 0.0031305085867643,
+    "staff_behavior": 0.6676161133994659
+  },
+  "recommendation_features": {
+    "popularity_score": 0.7300362696513057,
+    "rating_score": 4.7,
+    "sentiment_score": 0.6006243285082746
+  },
+  "review_evidence": {
+    "positive_snippets": [
+      "I recently stayed at Kian Hotel and had a very pleasant experience. The rooms were clean, comfortable, and well-maintained, which made the stay relaxing. The staff were polite and always ready to help with anything needed. A special thanks to Sanjay Kumar, whose service and friendly attitude made the experience even better. He was very professional and ensured that everything during our stay went smoothly.\n\nOverall, the hospitality, cleanliness, and supportive staff made this stay memorable. I would definitely recommend Kian Hotel to anyone looking for a comfortable and welcoming place to stay. \ud83d\udc4d\ud83d\ude0a",
+      "My experience at kian hotel mahipalpur was absolutely outstanding, especially in the food and dining area. The service was impeccable \u2014 every meal felt thoughtfully prepared and served with genuine care. The buffet spread was diverse and flavorful, and the staff ensured each guest was comfortable and satisfied throughout.\nA special appreciation goes to Rohan sir , whose warmth and professionalism truly stood out. They anticipated every need before I could even ask, constantly checking in with a smile and making sure each dish was served to perfection. Their attention to detail and personal touch elevated the entire dining experience and reflected the high standards kian is known for.\nThe combination of delicious food, efficient service, and heartfelt hospitality made my stay truly memorable. I would highly recommend kian hotel Mahipalpur to anyone who values great taste paired with exceptional service.",
+      "My husband and I had a pleasant stay at this hotel. We would like to sincerely appreciate \u201cMs. Geeta Sharma\u201d from the housekeeping team for her service. She maintained our room impeccably, ensured timely change of linens, and paid great attention to detail throughout our stay. Her professionalism and dedication truly enhanced our experience."
+    ],
+    "negative_snippets": [
+      "The reviews are clearly bot inflated, don't trust the 4.7 rating. It's definitely not.\n\nPro: Sanjay provided excellent service during our stay, providing recommendations and meeting our requests. Water was hot. Close to the airport.\n\nCons: the place is very dirty and run down with a vermin infestation problem. The walls are dirty and stained, the mirror and bathroom and tables surfaces all had a layer of grime, the sheets had stains (including blood) and worst of all there were vermin droppings in our room. At night you could literally hear rats running around in the ceiling. They dont use fitted sheets and the mattress is extremely old and dirty, sometimes the flat sheet would shift to reveal how stained they are.\n\nAlso, the other men there are creepy. They stared a lot and I felt I couldn't go anywhere in the hotel alone.\n\nI dont care for new facilities, but at least take the time to clean the space and get rid of the vermin infestation.",
+      "Unsatisfied this time with Kian Hotel. Have stayed here before, and liked it but this time, have to leave a critical review.\n\nWe booked rooms here, well in advance. But when we arrived on our respective date, they said that there are no rooms available.\n(Also at the time of booking, they increased the price of the room saying that their rooms are upgraded, but rooms are not upgraded at all. I understand that prices fluctuate based on season and demand, so a simple true reason for increasing the price would have been much appreciated than telling a white lie straight on face. Highly unprofessional behaviour.)\n\nThen they insisted us on shifting to their sister hotel: Hotel Palm View, saying that rooms there are even better than Kian.\n\nBut to my surprise, after going to Hotel Palm View, I have to say, very low maintenance rooms compared to the price: \u20b92500.\n\nHad to change hotel in last minute. Highly disappointed with the plot played.\n\nAlso the workers of house keeping department do not have basic manners. They stare at women guests, smirk at them and give a very disgusting feeling. This happened to me, last time when I visited this hotel, didn't bring it up since overall service was fine, but I guess pointing it out this time is a good idea.\n\nHotel rooms are really good, but staff professionalism is a value to work upon."
+    ]
+  },
+  "review_summary": "Based on 5 reviews.",
+  "positive_themes": {
+    "clean_rooms": 2,
+    "friendly_staff": 3,
+    "great_value": 2,
+    "good_food": 1,
+    "good_location": 1
+  },
+  "negative_themes": {
+    "dirty_rooms": 1,
+    "rude_staff": 1
+  }
+}

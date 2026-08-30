@@ -1,0 +1,51 @@
+{
+  "hotel_id": "ChIJDYSnz5QBDTkRX_zVDWiJhWI",
+  "hotel_name": "Hotel Spaark Residency",
+  "area": "Rithala",
+  "budget_category": "Mid-Range",
+  "rating": 4.5,
+  "trust_score": 0.6983692591432622,
+  "travel_purpose_tags": [
+    "Budget"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "moderate",
+    "review_count": 5,
+    "positive_snippet_count": 2,
+    "negative_snippet_count": 3,
+    "positive_theme_count": 3,
+    "negative_theme_count": 1
+  },
+  "aspect_scores": {
+    "cleanliness": 0.6665468600306971,
+    "service": 0.0489194393157959,
+    "location": 0.5,
+    "value_for_money": 0.5001521389058325,
+    "staff_behavior": 0.9997583031654358
+  },
+  "recommendation_features": {
+    "popularity_score": 0.5463717555348572,
+    "rating_score": 4.5,
+    "sentiment_score": 0.4097692975716199
+  },
+  "review_evidence": {
+    "positive_snippets": [
+      "Neat and clean rooms and bathrooms. budget friendly, good services, helpfull owner and staff",
+      "We used to stay here for the purpose of treatment of my mother at RGCI.\nWe always prefer this hotel because of its close proximity with hospital.\nThis time in jun we experienced some issues with amenities in washroom, which I hope shall be fixed soon.\n\nRest all facilities are good ..\nWe always had a pleasant stay\nThanks"
+    ],
+    "negative_snippets": [
+      "We were visiting Delhi for my mother\u2019s treatment at Rajiv Gandhi institute.  A clean environment is essential to her well being, given her immunity is compromised.\n\nWe had an absolutely horrible experience! From the time of booking, the owner had a very defensive attitude to even the basic questions asked. Upon arrival, there was no one available for check in. The rooms were in filthy condition and despite the advance notice of our arrival, the room wasn\u2019t set up. We checked out within an hour of checking in. Upon request for a refund or some other consideration, Aashita, the owner, very conveniently blocked me on WhatsApp instead of trying to address any grievances.\n\nVery quick to take money from desperate and vulnerable people, very very poor in providing even the basic services. Absolutely shameful!",
+      "Not a clear prise there is two owner and both are not confirm what is prise for customer one of person give rooms in less prise but 2nd owner want extra commission for book rooms  I am visit\nAt hotel for book for 4 hours in 1000rs but she say your booking time only 1.30 hours I am enter in room 12 pm and she said please get it out 1.30pm it's a totally wrost service, sunita goel she is actual business women she is know how to convince customer, guys if you one visit at hotel  contact with only sunita goel she is the  best",
+      "Worst hotel ever no hospitality no talking manners to an outsider no extra key for hotel rooms worst experience ever never visit this hotel only the mother of the owner were a little kind, very bad experience if you want to make your journey happy in Delhi then don\u2019t visit here"
+    ]
+  },
+  "review_summary": "Based on 5 reviews.",
+  "positive_themes": {
+    "clean_rooms": 2,
+    "friendly_staff": 1,
+    "good_location": 1
+  },
+  "negative_themes": {
+    "dirty_rooms": 1
+  }
+}

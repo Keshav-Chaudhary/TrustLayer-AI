@@ -1,0 +1,53 @@
+{
+  "hotel_id": "ChIJB3eNuar9DDkRdLXjKjlGuaE",
+  "hotel_name": "Oyo Hotel Shivam In Farash Khana",
+  "area": "New Delhi",
+  "budget_category": "Budget",
+  "rating": 2.7,
+  "trust_score": 0.423186032290585,
+  "travel_purpose_tags": [
+    "Budget"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "moderate",
+    "review_count": 5,
+    "positive_snippet_count": 2,
+    "negative_snippet_count": 3,
+    "positive_theme_count": 4,
+    "negative_theme_count": 2
+  },
+  "aspect_scores": {
+    "cleanliness": 0.3335872879833914,
+    "service": 0.5,
+    "location": 0.0005781250656582,
+    "value_for_money": 0.0011488711267399,
+    "staff_behavior": 0.500490634891321
+  },
+  "recommendation_features": {
+    "popularity_score": 0.3914140521329489,
+    "rating_score": 2.7,
+    "sentiment_score": 0.4005466053145937
+  },
+  "review_evidence": {
+    "positive_snippets": [
+      "After renovation Hotel is fabulous. Nice behaviour of staff and clean and safe for guests. Major thingis is this hotel is fully licensed loaded.",
+      "Wonderful experience in this hotel. Antique design and smooth facility. Staff behaviour was excellent."
+    ],
+    "negative_snippets": [
+      "No water, no heater, dirty outside, not even cheap.. families should avoid.",
+      "There are better and cleaner streets to sleep than this hotel. Unprofessional owners and staff. Rooms were last cleaned when the place was built. Non functional toilets, broken faucets, electric boards. Charge extra for giving you a room if you paid online. Even while leaving the lady taunted about not being able to give the room to two couples as it was occupied. If this is the last option for you, prefer to sleep on the streets and use the public facilities rather than wasting time and money here.",
+      "I booked this hotel thru OYO and agast to see a huge variation from what photos they have put up in OYO and what it actually was.\nThe owner 'bade bhai' as he is referred to by 2 other male staff spoke to me from within a dark room under a blanket. His voice was coming from within a mound of a blanket and I to strain my eyes to catch a glimpse of this \"Bade Bhai\". I thought he probably wasn't well, but he was perfectly roaming around 5 minutes later. This 'Bade Bhai' was the rudest guy among the 3.\n\nTo start with, when I informed that I had already paid through OYO, we were almost banished to the 3rd flr of the building saying \"advance paid guys get only the 3rd flr\". So paying OYO in advance was a crime. Then I was told ,,I have to pay GST. So I opened the app and showed him that the price paid included tax and fee. Why should I again pay GST, So the demand for GST ended there.\n\nThe hotel is unhealthy,  dirty and poorly maintained. 3 young chaps run this hotel and have completely tangent view points which puts a tired customer in a fix.\n\nWe went from floor floor carrying our suitcases and backpacks trying to get a room fixed, since each of these fellows were telling us a different room.\n\nWe requested for the bathroom to be cleaned which they never did. The ceiling fans had cobwebs dangling from them. When we asked them to clean it, they said, since it is winter, you will not need it.\n\nThe bedding in the room are worn out, storage shelves have food particles from the previous stay still there uncleaned.\n\nWe lost our money and checked out within 2 hours of checking in in the fear of contracting some medical problems. You will see why we did that when you see the pics.\n\nI try not to give negative feedback since it impacts poor workers who depend on it for thier livelihood. But this was a class apart experience. The room tariff was 1300 rupees plus.\n\nOYO your inspection and vigilance team needs to be rejigged. I have lost faith on OYO. I booked another hotel after I privately corresponded with a known resource and got a first hand feedback on the property."
+    ]
+  },
+  "review_summary": "Based on 5 reviews.",
+  "positive_themes": {
+    "clean_rooms": 3,
+    "friendly_staff": 4,
+    "great_value": 1,
+    "good_food": 1
+  },
+  "negative_themes": {
+    "dirty_rooms": 2,
+    "rude_staff": 2
+  }
+}

@@ -1,0 +1,53 @@
+{
+  "hotel_id": "ChIJZcuFGLkZDTkRsbttoM1gL2w",
+  "hotel_name": "The Galgotias Hotel",
+  "area": "Sector 23A",
+  "budget_category": "Mid-Range",
+  "rating": 4.1,
+  "trust_score": 0.5185580669589145,
+  "travel_purpose_tags": [
+    "Budget"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "moderate",
+    "review_count": 5,
+    "positive_snippet_count": 1,
+    "negative_snippet_count": 3,
+    "positive_theme_count": 5,
+    "negative_theme_count": 2
+  },
+  "aspect_scores": {
+    "cleanliness": 0.0012119139719288,
+    "service": 0.0012117996884625,
+    "location": 0.0017550555057823,
+    "value_for_money": 0.0012116854049963,
+    "staff_behavior": 0.001478614033355
+  },
+  "recommendation_features": {
+    "popularity_score": 0.545313905360443,
+    "rating_score": 4.1,
+    "sentiment_score": 0.0135452300368341
+  },
+  "review_evidence": {
+    "positive_snippets": [
+      "Roads leading to the hotel are very bad. Otherwise the hotel is located in a nice shopping area. Went to book rooms."
+    ],
+    "negative_snippets": [
+      "Located in a very invisible place. Very Dark at right. Roads leading to.it are full of potholes. Not worth repeating the stay.\nService not good. They give you drinking water like misers. Return 2 empty bottles and take fresh bottles. Absurd.",
+      "Sometimes you do mistakes and you get stuck in places like Galgotias hotel. Firstly location is fairly shady. The road makes it like riding on horse smooth.\nThe check in was smooth but the person at reception can compete with your scariest school teacher with his/her attitude.\nThe rooms were stuffy but ok.\nNext morning there was no water, when water came it was dirty, the towels were stained, no soap in soap container and the hotel staff didn't have the common sense to take off the shoes before entering the bathroom making a mess everywhere.\n\nHave to call multiple times but they couldn't resolve quickly.\n\nAfter this incident I didn't want to try breakfast as I was unsure how hygienic it was.",
+      "Disappointing Stay \u2013 Poor Service and Cleanliness Issues\n\nI had a very disappointing experience during my stay at this hotel. I checked in late, and despite that, I received a call at 10 AM the next morning informing me that I had to check out by 11 AM because I had only paid \u20b93,000. This felt abrupt and inconsiderate.\n\nThe air conditioning in the room was not working the entire night. A technician was sent, but they were unable to fix the issue. While I was willing to tolerate that, the problems didn\u2019t end there.\n\nThe new receptionist was extremely rude and unhelpful. There were no basic amenities in the bathroom \u2014 not even soap or shampoo. I didn\u2019t complain about that, but then something truly disturbing happened. While I was using the washroom, a lizard fell on my shoulder and there was also a spider. I reported this to the receptionist, and her response was, \u201cWe can\u2019t do anything about that.\u201d\n\nWhen I mentioned these issues at checkout and asked to speak to a manager, I was told no one was available and that nothing could be done. I even offered to share my experience with incoming guests just to make them aware, but was dismissed again.\n\nOverall, this stay was extremely unpleasant, and I would not recommend this hotel to anyone. The lack of basic hospitality, poor cleanliness, and indifferent attitude of the staff made it a very negative experience."
+    ]
+  },
+  "review_summary": "Based on 5 reviews.",
+  "positive_themes": {
+    "great_value": 1,
+    "friendly_staff": 3,
+    "good_location": 1,
+    "good_food": 1,
+    "clean_rooms": 2
+  },
+  "negative_themes": {
+    "dirty_rooms": 1,
+    "rude_staff": 2
+  }
+}

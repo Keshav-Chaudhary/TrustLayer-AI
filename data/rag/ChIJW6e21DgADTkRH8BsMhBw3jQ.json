@@ -1,0 +1,55 @@
+{
+  "hotel_id": "ChIJW6e21DgADTkRH8BsMhBw3jQ",
+  "hotel_name": "Royale Avenue Bnb",
+  "area": "Ibrahimpur",
+  "budget_category": "Mid-Range",
+  "rating": 4.3,
+  "trust_score": 0.6709087833987644,
+  "travel_purpose_tags": [
+    "Budget"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "moderate",
+    "review_count": 5,
+    "positive_snippet_count": 2,
+    "negative_snippet_count": 3,
+    "positive_theme_count": 5,
+    "negative_theme_count": 3
+  },
+  "aspect_scores": {
+    "cleanliness": 0.4998098128271522,
+    "service": 0.0002768634003587,
+    "location": 0.0003440352156758,
+    "value_for_money": 0.4996295201126486,
+    "staff_behavior": 0.665936092477447
+  },
+  "recommendation_features": {
+    "popularity_score": 0.5570435128902238,
+    "rating_score": 4.3,
+    "sentiment_score": 0.3999166573048569
+  },
+  "review_evidence": {
+    "positive_snippets": [
+      "fully recommended\nnice parking space\nclean room ..\nbest staff",
+      "Jabardast experience. Trained Staff. Neat & Clean Rooms. Nicely Managed Property. Supporting Staff. Well Connected From Main Road.\n\nIn Short - Value 4 Money."
+    ],
+    "negative_snippets": [
+      "Ambience are not good incomplete hotel room . Light board panel open . Furniture is too much dirty . Toilet have no hager gyser broken . Shower tab broken . Door not locking properly. Please request to all don't waste your money and time . To booking this hotel",
+      "Sabse ghatiya location pr h. No cleanliness in the surroundings.  Avoid it.",
+      "I recently stayed at this Hotel and unfortunately, it was a disappointing experience. The hygiene standards were subpar, with noticeable cleanliness issues throughout the premises. Moreover, the owner and staff were uncooperative and did not address my concerns adequately. The hotel even not providing the breakfast on time and they were not even giving the water bottle, saying they don't have. Not even able to provide warm water to drink in the morning and giving excuse that they don't have gas and the gas will come after 10 am.\nThe bathroom ceiling had dripping water issue.\n\nOverall, I would not recommend this hotel to others due to its lack of hygiene and unhelpful staff and the way they were providing the worst service.\n\nI even don't want to give this hotel a single star \u2b50 rating but Google don't have that option available.  Check photos yourself."
+    ]
+  },
+  "review_summary": "Based on 5 reviews.",
+  "positive_themes": {
+    "clean_rooms": 4,
+    "friendly_staff": 3,
+    "great_value": 1,
+    "good_location": 1,
+    "good_food": 1
+  },
+  "negative_themes": {
+    "parking_issues": 1,
+    "dirty_rooms": 1,
+    "rude_staff": 1
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "hotel_id": "ChIJS49M_lcZDTkRKyK8H7uO5Gc",
+  "hotel_name": "Flora Residency",
+  "area": "Sector 45",
+  "budget_category": "Mid-Range",
+  "rating": 4.8,
+  "trust_score": 0.9618528047238616,
+  "travel_purpose_tags": [
+    "Leisure",
+    "Business",
+    "Family"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "moderate",
+    "review_count": 5,
+    "positive_snippet_count": 3,
+    "negative_snippet_count": 0,
+    "positive_theme_count": 5,
+    "negative_theme_count": 0
+  },
+  "aspect_scores": {
+    "cleanliness": 0.9998511473337808,
+    "service": 0.9998338520526886,
+    "location": 0.9998305837313334,
+    "value_for_money": 0.9998338520526886,
+    "staff_behavior": 0.9998492002487184
+  },
+  "recommendation_features": {
+    "popularity_score": 0.7125506930702198,
+    "rating_score": 4.8,
+    "sentiment_score": 0.999839961528778
+  },
+  "review_evidence": {
+    "positive_snippets": [
+      "We stayed at Flora Residency in Gurugram and our experience was truly memorable. From the moment we arrived we felt welcome and at ease. The staff were always polite and accomodating especially with checkout timing, they were flexible and did not rush us at all\nThe room was very clean, spacious and well-maintained, exactly what we needed for a relaxing stay. Breakfast was delightful: the spread was delicious, fresh and had a good variety.\nWhat stood out most was how comfortable the entire stay felt no stress, no \u2018check-out hurry\u2019, just true hospitality. Location is convenient, the vibe is calm and perfect for time together.\nI wholeheartedly recommend Flora Residency to anyone looking for a weekend getaway or a peaceful stay in Gurugram. We will surely return!",
+      "Overall experience was great. Staff is very polite, service is very good, food taste is great. Worth the price and especially the hotel is clean and hygienic.",
+      "The overall stay here in Flora residency is amazing. Located very near to metro station and well maintained property. Amazing food and courteous staff. Loved the food variety and hygiene. Stay here is much better than many other 4 star hotels. Recommended hotel to everyone planning to stay in Gurgaon."
+    ],
+    "negative_snippets": []
+  },
+  "review_summary": "Based on 5 reviews.",
+  "positive_themes": {
+    "clean_rooms": 2,
+    "friendly_staff": 4,
+    "good_location": 3,
+    "good_food": 5,
+    "great_value": 1
+  },
+  "negative_themes": {}
+}

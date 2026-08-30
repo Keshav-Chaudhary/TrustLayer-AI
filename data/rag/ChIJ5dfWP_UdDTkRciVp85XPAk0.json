@@ -1,0 +1,55 @@
+{
+  "hotel_id": "ChIJ5dfWP_UdDTkRciVp85XPAk0",
+  "hotel_name": "Airport Hotel Chanakya, Delhi",
+  "area": "Mahipalpur",
+  "budget_category": "Mid-Range",
+  "rating": 4.4,
+  "trust_score": 0.8730065761130055,
+  "travel_purpose_tags": [
+    "Leisure",
+    "Family"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "moderate",
+    "review_count": 5,
+    "positive_snippet_count": 3,
+    "negative_snippet_count": 1,
+    "positive_theme_count": 5,
+    "negative_theme_count": 3
+  },
+  "aspect_scores": {
+    "cleanliness": 0.7499444221248268,
+    "service": 0.6666710621502716,
+    "location": 0.999788761138916,
+    "value_for_money": 0.7499444221248268,
+    "staff_behavior": 0.7499444221248268
+  },
+  "recommendation_features": {
+    "popularity_score": 0.8447027729881422,
+    "rating_score": 4.4,
+    "sentiment_score": 0.7999277142516803
+  },
+  "review_evidence": {
+    "positive_snippets": [
+      "An airport hotel by its nature has to be located close to the airport but hopefully quiet enough for a pleasant stay. The Chanakya certainly fulfills that brief. International in style but with sufficient touches to remind you that you are in India. Excellent warm reception leading to spacious , well equipped rooms . The bathroom was also spacious and a pleasure to use.\n\nWe only had breakfast but can say again excellent choices of Indian, Chinese and international foods. Just about anything one could think of. Although it's buffet style, there are so many staff to aid the process. I'd like to call out Dheeraj who made our breakfast really special with his warm friendly attention.\n\nI can't recall enjoying an airport hotel as much and worth taking the time to review. Well done hotel chankaya!!!",
+      "We were blown away by the breakfast buffet, which featured everything from local delicacies to international favorites, all prepared with the freshest ingredients. The dining area is bright and airy, providing a wonderful start to each morning of our trip. You can tell the culinary team takes great pride in their work",
+      "As a frequent traveler to Delhi for both business and leisure, I recently had the pleasure of staying at the Hotel Chanakya Delhi, and I must say, it consistently delivers an exceptional experience.\nFrom the moment you step into the grand lobby, you're greeted with an ambiance of sophistication and warmth. Check-in was incredibly smooth and efficient, with the staff being remarkably welcoming and professional. Their hospitality truly sets the tone for the entire stay.\nMy room was spacious, impeccably clean, and offered all the comforts one could wish for. The bed was incredibly comfortable, ensuring a restful night's sleep, and the modern amenities, including a well-appointed bathroom, made my stay very convenient.\nEvery interaction, from the front desk to housekeeping to the restaurant teams, was marked by genuine politeness, attentiveness, and a willingness to assist. They really go the extra mile to make guests feel valued.\nWhile it is a premium hotel, the overall experience, the quality of service, and the luxurious setting make it well worth the price. I would highly recommend the Hotel Chanakya  Delhi to anyone looking for a top-tier stay in the capital. I'm already looking forward to my next visit!"
+    ],
+    "negative_snippets": [
+      "Very disappointing experience.\nI visited this hotel yesterday morning with my family and booked a room. Unfortunately, there was a continuous bad smell in the room. I immediately informed the receptionist and requested a room change. Although they changed the room, the second room had the same issue with a very unpleasant smell.\nSince we had not even stayed for half an hour, I requested a refund and decided to move to another hotel. However, the staff refused to return my money. Their behavior was extremely rude and unprofessional, which made the situation even more frustrating.\nThe condition of the rooms is very poor, and the smell makes it uncomfortable to stay. I strongly do not recommend this hotel to anyone. I would also request the management or higher authority to contact me so I can explain the issues I faced yesterday in detail.\nVery poor service and a highly disappointing experience."
+    ]
+  },
+  "review_summary": "Based on 5 reviews.",
+  "positive_themes": {
+    "friendly_staff": 4,
+    "good_location": 3,
+    "great_value": 3,
+    "good_food": 3,
+    "clean_rooms": 2
+  },
+  "negative_themes": {
+    "parking_issues": 1,
+    "dirty_rooms": 1,
+    "rude_staff": 1
+  }
+}

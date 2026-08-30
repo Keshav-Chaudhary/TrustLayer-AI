@@ -1,0 +1,53 @@
+{
+  "hotel_id": "ChIJ9Xii03PiDDkRFaoIddnxtns",
+  "hotel_name": "Hotel Park Residency",
+  "area": "Green Park",
+  "budget_category": "Mid-Range",
+  "rating": 3.6,
+  "trust_score": 0.6533515271861837,
+  "travel_purpose_tags": [
+    "Leisure"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "moderate",
+    "review_count": 5,
+    "positive_snippet_count": 2,
+    "negative_snippet_count": 3,
+    "positive_theme_count": 5,
+    "negative_theme_count": 1
+  },
+  "aspect_scores": {
+    "cleanliness": 0.9997114837169646,
+    "service": 0.6683902254638571,
+    "location": 0.9991718530654908,
+    "value_for_money": 0.3352775890040598,
+    "staff_behavior": 0.6009136747365119
+  },
+  "recommendation_features": {
+    "popularity_score": 0.6105014109354725,
+    "rating_score": 3.6,
+    "sentiment_score": 0.6009136747365119
+  },
+  "review_evidence": {
+    "positive_snippets": [
+      "We had come for an official event at AIIMS Delhi, and we chose this because of its proximity to the institute. It was actually mentioned as a 3-star hotel. But after our stay, I would say the hotel did not disappoint us even in a single aspect. Rooms were clean and food was very nice. The staff were very friendly and kind. We were really happy that we could get south indian food like idly in the morning. And other things like linen, toiletry, room service and what not - everything was perfect. I will definitely stay here if I come again to Delhi and would also highly recommend it for anyone who has an event at AIIMS delhi. The institute is just 5 minutes away from this hotel. The Clay Oven restuarant attached to the hotel is by itself a very good one serving north indian, south indian, and chinese cuisine.",
+      "In the heart of the city in a residential area. Market was near by. . With elderly parents it felt safer. Food was very tasty. Staff was very helpful. There was a minor issue with the shower in the room they fixed . Its a little old property but rooms are nice. Overall a great experience will visit again."
+    ],
+    "negative_snippets": [
+      "Price is five star\nService is zero star\nThink twice before you go,\nNight reception is rude as hell.\nOmlet takes an hour to come\nEverything is charged to bill.\nFirst time in life asked for a match box\nBut only got match sticks got to know match stick\nAre put safely without the box",
+      "The room was terrible, shared with cockroaches.\nThe staff was uncooperative and displayed unnecessary rude and arrogant behavior.\nThe food prices were excessively high and not worth the money.",
+      "The restaurant offers a peaceful and elegant atmosphere. The seating is comfortable, and the decor is tasteful. Whether dining alone, with family, or friends, the environment feels warm and welcoming.\n\nService:\nThe staff is polite, attentive, and professional. Orders are taken promptly, and special requests are handled with care. The hospitality feels genuine and consistent throughout the experience.\n\nFood Quality:\nThe food is delicious and beautifully presented. Starters are fresh, main courses are rich in flavor and well-portioned, and desserts are satisfying. Everything tastes fresh and made with quality ingredients.\n\nVariety:\nThe menu features a good mix of Indian, Continental, and Asian cuisines. There are plenty of options for both vegetarian and non-vegetarian guests, including some creative fusion dishes.\n\nCleanliness & Hygiene:\nThe restaurant is well-maintained with clean tables and sanitized utensils. Hygiene standards appear high, and even the kitchen (if visible) looks neat and organized.\n\nPricing:\nPrices are slightly premium but fair, considering the quality of food, service, and overall experience.\n\nFinal Verdict:\nAn ideal place for a relaxed meal, business lunch, or special dinner. Highly recommended for those who value taste, service, and a calm dining experience."
+    ]
+  },
+  "review_summary": "Based on 5 reviews.",
+  "positive_themes": {
+    "clean_rooms": 2,
+    "friendly_staff": 4,
+    "good_food": 4,
+    "good_location": 1,
+    "great_value": 2
+  },
+  "negative_themes": {
+    "rude_staff": 2
+  }
+}

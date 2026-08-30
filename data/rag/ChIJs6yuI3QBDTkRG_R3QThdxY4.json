@@ -1,0 +1,49 @@
+{
+  "hotel_id": "ChIJs6yuI3QBDTkRG_R3QThdxY4",
+  "hotel_name": "Deventure Hotel",
+  "area": "New Delhi",
+  "budget_category": "Mid-Range",
+  "rating": 4.5,
+  "trust_score": 0.7373893443587352,
+  "travel_purpose_tags": [
+    "Leisure"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "rich",
+    "review_count": 5,
+    "positive_snippet_count": 3,
+    "negative_snippet_count": 2,
+    "positive_theme_count": 3,
+    "negative_theme_count": 0
+  },
+  "aspect_scores": {
+    "cleanliness": 0.5,
+    "service": 0.3338994982380729,
+    "location": 0.9998321533203124,
+    "value_for_money": 0.0008487088489346,
+    "staff_behavior": 0.6667874449825225
+  },
+  "recommendation_features": {
+    "popularity_score": 0.444102142377517,
+    "rating_score": 4.5,
+    "sentiment_score": 0.6002526761614717
+  },
+  "review_evidence": {
+    "positive_snippets": [
+      "The Hotel Is Amazing, We Enjoy Our Stay in This Hotel, Specially Reception Person Pawan Is Good He is very Helpful  And He is doing Good Job. He have  Better Guest Understanding And Pleasent Behaviour.\nHotel Location Is good it's nearby from metro station.\nFood Quality Is Also Good.\nOverall Stay Is Good.",
+      "I had a wonderful dining experience.\nChef Shriom is extremely talented and passionate about his work. The food quality, taste, and presentation were outstanding. You can truly feel the dedication in every dish. Keep up the great work!",
+      "Very nice hotel specially Mr.Rakesh from housekeeping is very helpful."
+    ],
+    "negative_snippets": [
+      "Room service was not good staff also not good don\u2019t waste your money here at hotel deventure rohini night duty reception manager is not helpful to room service 05/02/2026 mid morning i want extra blanket they told me we are send blanket in your room but no one is coming in my room for extra blanket & water bottle. I will call the reception manager i will told him. I will give the 0 Rating of your service they told me okay sir. Plz don\u2019t go there for rooms & room service is also not good search for better place & good hotel \ud83d\ude21\ud83d\ude21\ud83d\ude21\ud83d\ude21\ud83d\ude21\ud83d\ude21 its not better than 2 star \u2b50\ufe0f also. Plz compare this hotel for someone better hotel \ud83c\udfe8",
+      "Horrible service! Room keys don\u2019t work. Room service had dal roti at night period! Pay then and there not during checkout. They have a used razor. They dont serve buffet for breakfast if there are less guests. Partha and poha Or few cut fruits\u2026 period."
+    ]
+  },
+  "review_summary": "Based on 5 reviews.",
+  "positive_themes": {
+    "friendly_staff": 3,
+    "good_location": 1,
+    "good_food": 3
+  },
+  "negative_themes": {}
+}

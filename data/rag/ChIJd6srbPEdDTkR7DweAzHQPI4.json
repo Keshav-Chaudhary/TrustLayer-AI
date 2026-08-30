@@ -1,0 +1,50 @@
+{
+  "hotel_id": "ChIJd6srbPEdDTkR7DweAzHQPI4",
+  "hotel_name": "Hotel Sun Plaza",
+  "area": "Mahipalpur",
+  "budget_category": "Mid-Range",
+  "rating": 3.4,
+  "trust_score": 0.4073826950840079,
+  "travel_purpose_tags": [
+    "Budget"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "moderate",
+    "review_count": 5,
+    "positive_snippet_count": 0,
+    "negative_snippet_count": 3,
+    "positive_theme_count": 4,
+    "negative_theme_count": 2
+  },
+  "aspect_scores": {
+    "cleanliness": 0.0006710365560138,
+    "service": 0.0003086220531258,
+    "location": 0.5,
+    "value_for_money": 0.0006184154675186,
+    "staff_behavior": 0.0005762066963749
+  },
+  "recommendation_features": {
+    "popularity_score": 0.4797189538951854,
+    "rating_score": 3.4,
+    "sentiment_score": 0.0004763960430863
+  },
+  "review_evidence": {
+    "positive_snippets": [],
+    "negative_snippets": [
+      "Worst and horrible hotel. Cheaters n liars!! Do not trust them. We booked a hotel for a day through cleartrip bt we reached late in night. Meanwhile the hotel gave our room to somebody assuming that we will not come. When we arrived they were giving stupid and fake reasons and were not at all supportive. Even no senior official was there to solve the matter. At 10pm we were searching another hotel with small kids with us. The idiots who were at reception were very rude. Pathetic experience. Ghatiya hotel",
+      "I booked a room through Agoda at a confirmed price of \u20b91,565. However, when I arrived at the hotel in Delhi for check-in, the receptionist informed me that the room would cost \u20b94,000. When I questioned this, she stated that the amount shown on Agoda was only for the \u201cbooking\u201d and that I would need to pay extra directly to the hotel.\nThis was never mentioned during the booking process, and there was no transparency about any additional charges. It felt misleading and unfair. I ended up wasting my time and energy traveling to the property, only to face this situation.\nI would strongly recommend future guests to be cautious before booking here. It may be better to choose a more reputable and transparent hotel to avoid unnecessary inconvenience.",
+      "I highly discourage staying here. I booked through Booking.com for 13 nights at 6000 Indian Rupees, but upon arrival, they demanded double the price. After I complained about this unprofessional behavior, they sent me to a different building. Very dishonest and unprofessional management. Avoid this place!"
+    ]
+  },
+  "review_summary": "Based on 5 reviews.",
+  "positive_themes": {
+    "clean_rooms": 2,
+    "friendly_staff": 1,
+    "great_value": 1,
+    "good_food": 2
+  },
+  "negative_themes": {
+    "rude_staff": 3,
+    "dirty_rooms": 2
+  }
+}

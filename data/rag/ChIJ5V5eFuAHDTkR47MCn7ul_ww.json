@@ -1,0 +1,53 @@
+{
+  "hotel_id": "ChIJ5V5eFuAHDTkR47MCn7ul_ww",
+  "hotel_name": "Fabexpress The Maharaja Grand",
+  "area": "Rohini",
+  "budget_category": "Mid-Range",
+  "rating": 4.2,
+  "trust_score": 0.6323271194609608,
+  "travel_purpose_tags": [
+    "Budget"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "rich",
+    "review_count": 5,
+    "positive_snippet_count": 3,
+    "negative_snippet_count": 2,
+    "positive_theme_count": 4,
+    "negative_theme_count": 2
+  },
+  "aspect_scores": {
+    "cleanliness": 0.0017286234651691,
+    "service": 0.5012328035663813,
+    "location": 0.5,
+    "value_for_money": 0.0017286234651691,
+    "staff_behavior": 0.0008484694408252
+  },
+  "recommendation_features": {
+    "popularity_score": 0.3068088394720208,
+    "rating_score": 4.2,
+    "sentiment_score": 0.487476980430074
+  },
+  "review_evidence": {
+    "positive_snippets": [
+      "Best place to visit have a nice experience\nService are good and timely.\nUttam kumar",
+      "Room are too big and convenient and luxury\nAll facilities are available",
+      "Hotel is great \ud83d\ude0d\ud83c\udf39\ud83d\udc4d"
+    ],
+    "negative_snippets": [
+      "This is a below-average hotel, and rooms are easily available on a walk-in basis at very low prices. However, some online platforms list it at highly inflated rates (above \u20b91500), which is not justified. I would strongly advise against booking through such platforms. Despite being associated with the Fab group, the property does not meet FabHotel standards and appears to be priced at a much higher level than the quality offered.\nAmenities are basic and below average. Rooms are not very clean, and there is no in-house restaurant for dining, although room service is available. Service quality is average at best.\nOverall, the value depends entirely on how much you pay and the purpose of your stay. If you only need a place to sleep overnight\u2014for example, during exams\u2014it is acceptable, provided you do not overpay. A reasonable price would be in the \u20b9500\u2013\u20b91000 range, and on some online platforms it is even available for \u20b9300\u2013\u20b9400, which feels more appropriate for this property.\nI don't know how they are able to maintain such a good rating on Google Maps.",
+      "I booked for 2 nights and despite asking to get the room cleaned in advance no cleaning was done. The rooms they have are dirty, full of wooden damages and spider web. Plus the local staff needs a lot of convincing to prove the room and linens are dirty.\n\nThe bedsheets literally have holes and the laundry, pillow covers, blanket cover are usually given to you without even washing before stay. Check for stains from previous guest.\n\nIn short, avoid this place at all cost else you will regret it. The owner is an arrogant and unprofessional typical rich delhi guy. Instead, book a professional company run hotel instead of this loss making dirty marriage banquet hall."
+    ]
+  },
+  "review_summary": "Based on 5 reviews.",
+  "positive_themes": {
+    "good_location": 1,
+    "clean_rooms": 2,
+    "great_value": 1,
+    "friendly_staff": 1
+  },
+  "negative_themes": {
+    "dirty_rooms": 1,
+    "rude_staff": 1
+  }
+}

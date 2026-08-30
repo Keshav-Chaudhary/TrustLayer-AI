@@ -1,0 +1,51 @@
+{
+  "hotel_id": "ChIJtQK8YgDlDDkR2GhqfmSyzwE",
+  "hotel_name": "Comfort Plaza Hotel",
+  "area": "Jasola Vihar",
+  "budget_category": "Mid-Range",
+  "rating": 4.7,
+  "trust_score": 0.647101862794335,
+  "travel_purpose_tags": [
+    "Budget"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "moderate",
+    "review_count": 5,
+    "positive_snippet_count": 1,
+    "negative_snippet_count": 3,
+    "positive_theme_count": 2,
+    "negative_theme_count": 3
+  },
+  "aspect_scores": {
+    "cleanliness": 0.5,
+    "service": 0.0002694511786103,
+    "location": 0.5,
+    "value_for_money": 0.5,
+    "staff_behavior": 0.3335796630902526
+  },
+  "recommendation_features": {
+    "popularity_score": 0.494605354142389,
+    "rating_score": 4.7,
+    "sentiment_score": 0.2002555783255957
+  },
+  "review_evidence": {
+    "positive_snippets": [
+      "I lived some good moments of my life in this hotel. It is a very good hotel and the facilities here are also good. The people working here are very good and they work hard. The manager is also very good."
+    ],
+    "negative_snippets": [
+      "Worst ever experience at this hotel. Washrooms defunct and we flushed them manually with buckets. No heating arrangement despite repeated requests by us. All locks on the doors defunct. Cleanliness in washrooms below standards. Very non cooperative staff and managers.\nZero/Lull , they should close their business. If you are not competent enough to run the show you should stop wasting precious resources of the tourists.\nWorst worst worst ever experience",
+      "Worst experience ever. There was no hot water, the room smelled bad, and even after asking for service, no one showed up. The worst part was an exhaust fan from another room\u2019s toilet opening into our room, which was extremely uncomfortable and unhygienic. Constant noise from neighboring rooms made it impossible to rest. Very disappointing stay and absolutely not recommended.",
+      "The rooms are not cleaned, and towels and toiletries are not provided. On the 5th floor, the caf\u00e9 staff are rude and unhelpful."
+    ]
+  },
+  "review_summary": "Based on 5 reviews.",
+  "positive_themes": {
+    "clean_rooms": 2,
+    "friendly_staff": 2
+  },
+  "negative_themes": {
+    "dirty_rooms": 1,
+    "noise": 1,
+    "rude_staff": 2
+  }
+}

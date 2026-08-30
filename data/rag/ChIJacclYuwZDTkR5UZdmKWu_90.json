@@ -1,0 +1,48 @@
+{
+  "hotel_id": "ChIJacclYuwZDTkR5UZdmKWu_90",
+  "hotel_name": "Plum Tree Hotels",
+  "area": "Sector 53",
+  "budget_category": "Mid-Range",
+  "rating": 4.8,
+  "trust_score": 0.9116482820246063,
+  "travel_purpose_tags": [
+    "Leisure",
+    "Business"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "moderate",
+    "review_count": 5,
+    "positive_snippet_count": 3,
+    "negative_snippet_count": 0,
+    "positive_theme_count": 4,
+    "negative_theme_count": 0
+  },
+  "aspect_scores": {
+    "cleanliness": 0.999566286802292,
+    "service": 0.9998217225074768,
+    "location": 0.9994659423828124,
+    "value_for_money": 0.5,
+    "staff_behavior": 0.9995213150978088
+  },
+  "recommendation_features": {
+    "popularity_score": 0.4769888516730629,
+    "rating_score": 4.8,
+    "sentiment_score": 0.9995213150978088
+  },
+  "review_evidence": {
+    "positive_snippets": [
+      "Stay was really good. The staff were welcoming. Linens/pillows were clean and restrooms were well maintained. Nicer balcony with views. Only the location was slightly inside the road but if we have own vehicles it's easy to reach. Food was decent but little pricy. Will surely recommend this stay to my fellow travellers",
+      "The room was not that great. There were small issues that kept coming up, like sometimes the socket wasn\u2019t working or the jet spray wasn\u2019t functioning. But the staff was really good. They paid attention to every little detail and were very helpful throughout.",
+      "The stay was excellent, and the rooms were neat and clean. I had booked three 1 BHK rooms, and it was an amazing experience. The staff, especially Mr. Akash, were friendly and helpful. The best part was that the property is located in a quiet corner, offering a peaceful balcony view. I would love to book the same hotel again!"
+    ],
+    "negative_snippets": []
+  },
+  "review_summary": "Based on 5 reviews.",
+  "positive_themes": {
+    "clean_rooms": 4,
+    "friendly_staff": 5,
+    "good_location": 2,
+    "good_food": 2
+  },
+  "negative_themes": {}
+}

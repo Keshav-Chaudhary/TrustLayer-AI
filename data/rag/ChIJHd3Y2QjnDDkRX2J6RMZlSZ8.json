@@ -1,0 +1,45 @@
+{
+  "hotel_id": "ChIJHd3Y2QjnDDkRX2J6RMZlSZ8",
+  "hotel_name": "Hotel O Silver Coin Residency",
+  "area": "Surajkund",
+  "budget_category": "Mid-Range",
+  "rating": 3.4,
+  "trust_score": 0.4528638539793377,
+  "travel_purpose_tags": [
+    "Budget"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "sparse",
+    "review_count": 3,
+    "positive_snippet_count": 1,
+    "negative_snippet_count": 2,
+    "positive_theme_count": 0,
+    "negative_theme_count": 1
+  },
+  "aspect_scores": {
+    "cleanliness": 0.0011046248255297,
+    "service": 0.0011046248255297,
+    "location": 0.5,
+    "value_for_money": 0.5,
+    "staff_behavior": 0.5
+  },
+  "recommendation_features": {
+    "popularity_score": 0.1935748254816269,
+    "rating_score": 3.4,
+    "sentiment_score": 0.3337942220387048
+  },
+  "review_evidence": {
+    "positive_snippets": [
+      "Very good \ud83d\ude0a\ud83d\ude0a"
+    ],
+    "negative_snippets": [
+      "One of the worst experience with oyo flagship82749. I hv paid in advance full payment for my booking. I reached there late night. I called so many times nobody came at main gate. Gate was locked from inside. Also call them at given mobile number around 25 to 30 times but \ud83d\udc4e. I must request to oyo and other websites to discontinue there agreements with this hotel. If hotel and other websites need full details then must reply for my worst experience with oyo flagship82749 hotel.",
+      "Very Bad service, no call pick up, bathroom damaged, no water, I have stay 1 night with family, Water tank empty all night and water supply 11 AM, I have used community complex toilet."
+    ]
+  },
+  "review_summary": "Based on 3 reviews.",
+  "positive_themes": {},
+  "negative_themes": {
+    "rude_staff": 1
+  }
+}

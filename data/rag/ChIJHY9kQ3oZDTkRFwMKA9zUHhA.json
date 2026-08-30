@@ -1,0 +1,54 @@
+{
+  "hotel_id": "ChIJHY9kQ3oZDTkRFwMKA9zUHhA",
+  "hotel_name": "Hotel Shree Kanta",
+  "area": "Sector 10A",
+  "budget_category": "Mid-Range",
+  "rating": 4.2,
+  "trust_score": 0.7359366002018192,
+  "travel_purpose_tags": [
+    "Budget"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "rich",
+    "review_count": 5,
+    "positive_snippet_count": 3,
+    "negative_snippet_count": 2,
+    "positive_theme_count": 3,
+    "negative_theme_count": 4
+  },
+  "aspect_scores": {
+    "cleanliness": 0.0004122223035664,
+    "service": 0.999874234199524,
+    "location": 0.5,
+    "value_for_money": 0.0004122223035664,
+    "staff_behavior": 0.3335617360523126
+  },
+  "recommendation_features": {
+    "popularity_score": 0.6250208830257262,
+    "rating_score": 4.2,
+    "sentiment_score": 0.6000867353111972
+  },
+  "review_evidence": {
+    "positive_snippets": [
+      "I am very happy with hotel service provided for my daughter ring ceremony party.\nExcellent food and good service",
+      "Hospitality is good, Rooms are good, timely breakfast,\n\nBehavior of staff is very good.\n\nOver all good experience.",
+      "I organise a ring ceremony party at hotel Shree Kanta, and I am very happy from hotel service . Their food quality and service is very good"
+    ],
+    "negative_snippets": [
+      "I booked Hotel Shree Kanta after seeing nice photos on Google, but the reality was completely different. The rooms looked decent online, but when I arrived, everything was dirty and poorly\n\nI rarely leave reviews, but my stay at Hotel Shree Kanta was so terrible, I had to warn others.\n\nDirty Rooms: The room was filthy \u2014 stained bedsheets, dust everywhere, and the bathroom smelled like it hadn\u2019t been cleaned in weeks.\n\nRude Staff: The staff were extremely unprofessional and unhelpful. Every request felt like a burden to them. No courtesy, no manners.\n\nNo Basic Facilities: No hot water, broken AC, and the Wi-Fi didn\u2019t work at all. They advertise all these amenities, but nothing was functional.\n\nNoisy & Unsafe: It was noisy all night due to street traffic and loud guests. Security felt non-existent \u2014 the doors barely locked properly.\n\nTerrible Food: The food was stale and tasteless. I got an upset stomach after eating their so-called \"fresh\" meal.\n\nHonestly, this place doesn\u2019t even deserve 1 star. Total waste of money. I regret booking it and would NEVER recommend it to anyone. Stay away from this hotel!",
+      "I chose Hotel Shree Kanta based on the beautiful pictures shown on Google, but the moment I stepped into the room, I realized I had made a big mistake.\n\nThe room was nothing like the photos \u2014 dirty floors, stained sheets, and a bathroom that smelled like it hadn\u2019t been cleaned in days.\n\nWalls were damp, paint was peeling, and everything looked old and uncared for.\n\nIt\u2019s clear they only cleaned the room for the photo shoot \u2014 not for real guests.\n\nThe staff didn\u2019t seem bothered when I complained. No apology, no solution.\n\nIf you care about hygiene and honesty, do not stay here. This was a waste of money and time. Totally disappointing."
+    ]
+  },
+  "review_summary": "Based on 5 reviews.",
+  "positive_themes": {
+    "good_food": 4,
+    "friendly_staff": 3,
+    "clean_rooms": 2
+  },
+  "negative_themes": {
+    "dirty_rooms": 2,
+    "rude_staff": 1,
+    "noise": 1,
+    "bad_food": 1
+  }
+}

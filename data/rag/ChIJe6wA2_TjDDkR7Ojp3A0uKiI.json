@@ -1,0 +1,49 @@
+{
+  "hotel_id": "ChIJe6wA2_TjDDkR7Ojp3A0uKiI",
+  "hotel_name": "Fabhotel Grand Boutique - Hotel In Kailash Colony, New Delhi",
+  "area": "Greater Kailash",
+  "budget_category": "Mid-Range",
+  "rating": 3.2,
+  "trust_score": 0.3879318874690891,
+  "travel_purpose_tags": [
+    "Budget"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "moderate",
+    "review_count": 5,
+    "positive_snippet_count": 0,
+    "negative_snippet_count": 3,
+    "positive_theme_count": 4,
+    "negative_theme_count": 1
+  },
+  "aspect_scores": {
+    "cleanliness": 0.0003065807977691,
+    "service": 0.0002919448306784,
+    "location": 0.5,
+    "value_for_money": 0.0026226905174553,
+    "staff_behavior": 0.0014646356576122
+  },
+  "recommendation_features": {
+    "popularity_score": 0.5121111013177606,
+    "rating_score": 3.2,
+    "sentiment_score": 0.0012488109525292
+  },
+  "review_evidence": {
+    "positive_snippets": [],
+    "negative_snippets": [
+      "Harrowing experience. The staff and the property manager, Mr. Bhupinder Singh, harrased me throughout the duration of the stay due to which I had to check out earlier than planned. The manager asked me to cancel the booking online and book with him separately and when I denied, he started shouting and throwing my stuff around. The Manager asked me for extra payment and threatened me to increase the price if I didn't pay as per his wishes. This prompted me to leave but when I tried, the manager and his staff started physically harassing me and stopped me from leaving. What's more is that they started shouting and snachted all my belongings, with the intention keeping it with them. Quite literally man-handling me and preventing me from leaving. This made me worried for my safety and I was prompted to call the cops. I was finally let go when the cops showed up and I threatened with legal action.\n\nThe FabHotel response team was also useless throughout this time. They were completely unreasonable and refused to help me properly. I had a terrible time and no one should go through the torture I went through with. This was much beyond a minor inconvenience and warrants immediate and strict criminal action against the property manager and his staff.\n\nI wish I could rate this experience as negative but can't help that. For anyone who is looking to book this place in the future, please go through this review and take my experience into serious consideration. Thanks!",
+      "Room not as per their name and hype.\nThird class room quailty\nBisleri water bottle were refilled by them. Not a pre packed mineral water\nDamaged tv hanged in the room\nNo proper soap or anything arranged",
+      "I was shifted here by Fabhotels after my original booking at The Hideaway was denied. Unfortunately, this property was also disappointing. The rooms had torn bedsheets and towels, no toiletries and while the bathroom was clean and the staff courteous, the basics were missing. Breakfast, which I had pre-paid for, was initially refused. Only after escalating with Fabhotels did I receive a minimal and inconvenient option (01 sandwich/toast with 01 tea that too after 9 AM). This is not the standard expected from a branded chain. I would not book this property again."
+    ]
+  },
+  "review_summary": "Based on 5 reviews.",
+  "positive_themes": {
+    "friendly_staff": 2,
+    "clean_rooms": 2,
+    "good_location": 1,
+    "good_food": 1
+  },
+  "negative_themes": {
+    "dirty_rooms": 1
+  }
+}

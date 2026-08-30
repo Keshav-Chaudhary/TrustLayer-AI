@@ -1,0 +1,49 @@
+{
+  "hotel_id": "ChIJVzbidAD_DDkRv-MDCrl-Ka0",
+  "hotel_name": "Oyo Flagship Hotel Black Inn",
+  "area": "Burari",
+  "budget_category": "Budget",
+  "rating": 3.1,
+  "trust_score": 0.4453019173506142,
+  "travel_purpose_tags": [
+    "Budget"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "moderate",
+    "review_count": 5,
+    "positive_snippet_count": 1,
+    "negative_snippet_count": 3,
+    "positive_theme_count": 2,
+    "negative_theme_count": 1
+  },
+  "aspect_scores": {
+    "cleanliness": 0.0002379892248427,
+    "service": 0.0002379892248427,
+    "location": 0.0002379892248427,
+    "value_for_money": 0.5,
+    "staff_behavior": 0.4999732314536231
+  },
+  "recommendation_features": {
+    "popularity_score": 0.2637433020525564,
+    "rating_score": 3.1,
+    "sentiment_score": 0.3883132815128192
+  },
+  "review_evidence": {
+    "positive_snippets": [
+      "Your staff is very intelligent \ud83d\udc4c\nBharat is a good boy \ud83d\udc66"
+    ],
+    "negative_snippets": [
+      "I recently stayed at Black inn and unfortunately, my experience was far from satisfactory. From the moment I checked in, there were several issues that left me feeling frustrated and disappointed.\n\nFirstly, the cleanliness of the room was subpar. There were stains on the carpet, dust on the furniture, and even hair in the bathroom. It was evident that the room had not been properly cleaned before my arrival.\n\nFurthermore, the amenities promised on the hotel's website were either nonexistent or in poor condition. The Wi-Fi was slow and unreliable, the gym equipment was outdated and malfunctioning, and the pool area was unkempt and uninviting.\n\nIn addition to the physical aspects of the hotel, the customer service was lacking as well. The staff members seemed indifferent to my concerns and were not proactive in addressing them. Requests for assistance were met with apathy, and it felt as though my comfort and satisfaction were not a priority.\n\nOverall, my stay at black inn was a disappointment. I expected much more from a hotel of its caliber, and unfortunately, it fell short in every aspect. I would not recommend this hotel to anyone looking for a pleasant and comfortable stay.",
+      "THEY CHARGED ME EXTRA THAN WHAT MY BOOKING SAID.\n\nI wasn't allowed to leave my room during the day.\n\nThe hotel also closes at night time so you cannot leave or enter.",
+      "the rooms were untidy, unhygienic and the staffs were not active."
+    ]
+  },
+  "review_summary": "Based on 5 reviews.",
+  "positive_themes": {
+    "friendly_staff": 3,
+    "clean_rooms": 2
+  },
+  "negative_themes": {
+    "dirty_rooms": 1
+  }
+}

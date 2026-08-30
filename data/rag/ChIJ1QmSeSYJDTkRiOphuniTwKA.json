@@ -1,0 +1,48 @@
+{
+  "hotel_id": "ChIJ1QmSeSYJDTkRiOphuniTwKA",
+  "hotel_name": "Hotel Raaz A Mystery",
+  "area": "Mahavir Park",
+  "budget_category": "Mid-Range",
+  "rating": 4.4,
+  "trust_score": 0.7627738521403757,
+  "travel_purpose_tags": [
+    "Business"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "moderate",
+    "review_count": 5,
+    "positive_snippet_count": 3,
+    "negative_snippet_count": 1,
+    "positive_theme_count": 3,
+    "negative_theme_count": 0
+  },
+  "aspect_scores": {
+    "cleanliness": 0.999525785446167,
+    "service": 0.9998713731765748,
+    "location": 0.5,
+    "value_for_money": 0.4995407213282306,
+    "staff_behavior": 0.9967512488365172
+  },
+  "recommendation_features": {
+    "popularity_score": 0.3282682438797654,
+    "rating_score": 4.4,
+    "sentiment_score": 0.7987065454130061
+  },
+  "review_evidence": {
+    "positive_snippets": [
+      "It's a very luxurious and it looked very clean hotel.",
+      "very amazing hotel, loved the atmosphere and the cleanliness of the hotel itself. service was great too.",
+      "everything is so nyc . nice rooms nice staff nice experience must try."
+    ],
+    "negative_snippets": [
+      "That was not worth it if next i have two  options 1.stay in raaz hotel 2.stay on road\nI will choose second one"
+    ]
+  },
+  "review_summary": "Based on 5 reviews.",
+  "positive_themes": {
+    "clean_rooms": 2,
+    "friendly_staff": 2,
+    "great_value": 1
+  },
+  "negative_themes": {}
+}

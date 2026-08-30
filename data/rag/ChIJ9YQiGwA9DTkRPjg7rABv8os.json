@@ -1,0 +1,47 @@
+{
+  "hotel_id": "ChIJ9YQiGwA9DTkRPjg7rABv8os",
+  "hotel_name": "Lemon Tree Suites, Gurugram",
+  "area": "Sector 82A",
+  "budget_category": "Mid-Range",
+  "rating": 4.5,
+  "trust_score": 0.8583568468930229,
+  "travel_purpose_tags": [
+    "Leisure"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "moderate",
+    "review_count": 5,
+    "positive_snippet_count": 3,
+    "negative_snippet_count": 0,
+    "positive_theme_count": 4,
+    "negative_theme_count": 0
+  },
+  "aspect_scores": {
+    "cleanliness": 0.9997909863789876,
+    "service": 0.5,
+    "location": 0.9996991157531738,
+    "value_for_money": 0.5,
+    "staff_behavior": 0.999741718173027
+  },
+  "recommendation_features": {
+    "popularity_score": 0.4135655773021257,
+    "rating_score": 4.5,
+    "sentiment_score": 0.999768078327179
+  },
+  "review_evidence": {
+    "positive_snippets": [
+      "I stayed here for nearly two weeks and had a genuinely wonderful experience. Since this is a brand-new hotel, I was a little apprehensive at the time of booking and wasn\u2019t quite sure what to expect. Those concerns disappeared very quickly \u2014 from the moment I arrived, everything felt smooth, welcoming, and thoughtfully done.\n\nThe room was serviced daily and always kept fresh and clean, and the overall experience was completely seamless.\n\nWhile the property itself is excellent, what truly made the stay was the staff.\nYou can really feel the effort of everyone working quietly behind the scenes \u2014 from housekeeping to food services, from laundry to the many other support teams \u2014 all working together to make guests comfortable.\nIt\u2019s that collective effort that truly defines a stay, and I genuinely felt at home here.\n\nI also really appreciated that an air purifier was provided in the room at my request. I\u2019ve stayed at several other hotels across Delhi, and it\u2019s not something I\u2019ve really seen being offered on request. I think this is a thoughtful and progressive initiative, and I genuinely hope more hotels take note and do the same.\n\nThere are many people who deserve thanks, but a special mention to Aman, who was particularly helpful and made the stay even more pleasant.\n\nOverall, an excellent experience at Lemon Tree Suites. I would happily return whenever needed and highly recommend it, especially for longer stays.",
+      "We had an absolutely wonderful stay at Lemon Tree Suites, Gurugram, despite arriving under unexpected circumstances due to a flight cancellation. What was meant to be a short, inconvenient stopover turned into a genuinely pleasant and memorable experience.\n\nUnfortunately, we fell ill for two days during our stay, but the kindness and care shown by the staff made all the difference. The team was incredibly helpful, attentive, and compassionate throughout. A special mention to Aman and Zain, who went above and beyond to ensure we were comfortable and well taken care of, along with all the accompanying staff who were consistently warm and supportive.\n\nThe head chef also deserves special appreciation for being so considerate\u2014personally offering to prepare any food or drinks that might help us recover. That level of thoughtfulness truly sets this hotel apart.\n\nThank you to the entire Lemon Tree Suites team for turning a stressful situation into such a positive experience. We would not hesitate to stay here again and highly recommend it to anyone visiting Gurugram.\n\nP.S. would recommend their masala porridge and the special sweetcorn soup the Chef kindly made for us",
+      "I missed my connecting flight and stayed here for a night. The whole staff is super cordial, helpful and sweet. From the moment we checked in to the breakfast and checkout, everything went very smoothly. It was a good experience overall. The hotel is a little far from the airport, but other than that the rooms and services are immaculate. I had asked for a cab to be arranged in the morning at a certain time, it was there without me reminding them again.\n\nKudos to the staff. Great job!"
+    ],
+    "negative_snippets": []
+  },
+  "review_summary": "Based on 5 reviews.",
+  "positive_themes": {
+    "clean_rooms": 3,
+    "friendly_staff": 4,
+    "good_location": 2,
+    "good_food": 4
+  },
+  "negative_themes": {}
+}

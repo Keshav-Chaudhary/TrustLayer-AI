@@ -1,0 +1,51 @@
+{
+  "hotel_id": "ChIJAxoZFF0-DTkRrQYeGhnCS1c",
+  "hotel_name": "Oyo 14100 Hotel D Meridien",
+  "area": "Manesar",
+  "budget_category": "Budget",
+  "rating": 3.9,
+  "trust_score": 0.6355382586552187,
+  "travel_purpose_tags": [
+    "Budget"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "moderate",
+    "review_count": 5,
+    "positive_snippet_count": 2,
+    "negative_snippet_count": 3,
+    "positive_theme_count": 3,
+    "negative_theme_count": 1
+  },
+  "aspect_scores": {
+    "cleanliness": 0.5,
+    "service": 0.0150911384262144,
+    "location": 0.3545043213913838,
+    "value_for_money": 0.001329212449491,
+    "staff_behavior": 0.035272798500955
+  },
+  "recommendation_features": {
+    "popularity_score": 0.6212160638350902,
+    "rating_score": 3.9,
+    "sentiment_score": 0.4129370832815766
+  },
+  "review_evidence": {
+    "positive_snippets": [
+      "My experience was very good",
+      "1. Great food (veg + non-veg).\n2. Limited parking due to confined space.\n3. The location is not that good but when you get in the hotel it's good.\n4. Situated in IMT Manesar, Sector 3A.\nAll you need is to have patience as food takes time after ordering as they serve fresh meal \u270c\ufe0f"
+    ],
+    "negative_snippets": [
+      "During my recent business trip to Manesar, I stayed at the only hotel available in Sector 8 nearby location, as there were no other options nearby. My overall experience at this hotel was just average, and there were several aspects that left me wanting more.\n\nFirstly, the D' Meridien hotel's location on a main road seemed convenient, but it became a challenge due to Google Maps directing me through a crowded market via side streets. Navigating through the crowded streets was not only time-consuming but also frustrating, as only a single vehicle could pass through at a time. The hotel management should consider providing clear directions to avoid such inconveniences for guests.\n\nUpon arriving at the hotel, I found the front desk assistant to be a bit harsh in their communication. A warm and welcoming approach from the staff can make a significant difference in a guest's perception of the hotel.\n\nThe food served at the hotel's restaurant was average in taste and lacked variety. It would be beneficial for the hotel to elevate the quality of their menu and offer a more diverse selection of dishes to cater to different preferences.\n\nOne major issue I encountered was the limited parking space for four-wheelers. Furthermore, I was taken aback to discover that the hotel gates closed at 10:00 ~ 11:00 PM, and after that, there was no one available to open the gate for late-arriving guests. This lack of 24-hour accessibility can be problematic, especially for guests arriving late in the night.\n\nLastly, Even though this Hotel ties with several corporate houses but they need to improving their standards, amenities, and services, they can position themselves as a preferred choice for corporate guests visiting the area.\n\nIn conclusion, my stay at the hotel in Manesar Sector 8 was average, with several areas that require improvement. I hope the hotel management takes these feedback points into consideration to enhance the overall guest experience. With some improvements, the hotel has the potential to become a more attractive and guest-friendly accommodation option for future travelers.",
+      "Delay service. Food quality is also not remarkable as per the price. Quality of \"Roti\" should improve.\nQuantity is also less. Its good for only local company colleagues.\nNon-veggies can go. I have no idea about taste of non veg, as i am completely veggie.",
+      "Rooms are spacious. Restaurant is good. But Rooms are not properly maintained. Seapage on walls common. Electricity switch board screws are loose etc. Hotel provides discount for certain company visitors. Hotel is near to Maruti Suzuki entry gate which is helpful to MSIL visitor, that is the only best thing."
+    ]
+  },
+  "review_summary": "Based on 5 reviews.",
+  "positive_themes": {
+    "good_location": 3,
+    "good_food": 3,
+    "friendly_staff": 2
+  },
+  "negative_themes": {
+    "parking_issues": 2
+  }
+}

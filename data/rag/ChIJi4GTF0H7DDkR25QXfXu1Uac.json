@@ -1,0 +1,52 @@
+{
+  "hotel_id": "ChIJi4GTF0H7DDkR25QXfXu1Uac",
+  "hotel_name": "Hotel Aura Ip Grand Karkardooma",
+  "area": "New Delhi",
+  "budget_category": "Mid-Range",
+  "rating": 4.3,
+  "trust_score": 0.7457575730498227,
+  "travel_purpose_tags": [
+    "Budget"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "moderate",
+    "review_count": 5,
+    "positive_snippet_count": 2,
+    "negative_snippet_count": 3,
+    "positive_theme_count": 4,
+    "negative_theme_count": 1
+  },
+  "aspect_scores": {
+    "cleanliness": 0.2957574436829114,
+    "service": 0.4420078331022523,
+    "location": 0.5011888375738635,
+    "value_for_money": 0.5,
+    "staff_behavior": 0.6289245639151583
+  },
+  "recommendation_features": {
+    "popularity_score": 0.6429485148407869,
+    "rating_score": 4.3,
+    "sentiment_score": 0.5772509401896968
+  },
+  "review_evidence": {
+    "positive_snippets": [
+      "Just stayed  for a night. Around 13kms from Hazrat Nizamuddin Rly stn. Rs200/- auto fare.\nThey provide food to guests on request. Quality good.\nPremises opens to busy public road .so location wise good",
+      "Good behavior all staff specialy receptionist Mr pankaj and vivek and wonderful stay.."
+    ],
+    "negative_snippets": [
+      "Stayed at Hotel IP Grand near Anand Vihar. The location is excellent - right beside Karkarduma Metro Station with both Blue and Pink Line connectivity, and the hotel is on the main road, so travel is very convenient.\n\nBut the hotel itself is quite average. Cleanliness is poor, rooms are small, and the bathroom had stains, which shows lack of maintenance. The property also feels like a converted setup. Staff are available on call, but no daily cleaning is done unless you request it, and even towels have to be asked for.\n\nAlso, the room had a strong cigarette smell, which was uncomfortable for a non-smoker like me.\n\nGood only for a 1\u20132 day stay if you just need quick metro access. Cleanliness and comfort definitely need improvement.",
+      "This hotel is essentially a converted property, I guess taken over recently. So my experience was some what mixed.\nOne of the rooms Air conditioner sterted leaking after checking in the room. All other 6 were working fine however this one I had so much trouble with. There was a foul smell too.\nAfter talking to staff which were friendly and eager to help but were limited due to availability of staff at the moment. So they hired help in the evening ( might be urbanclap ) which came in and checked the ac. Serviced it there and night was peacefull though. So 2 stars for rooms are dropped off due to this experience. But service was great.",
+      "Extremely disappointed\nI checked in at I P Grand Hotel on the 19th oct  at 12:00 PM check in and checked out on the 20th at 8:30 AM. The room had a bad smell, the bed sheet was torn, and the lift was not working, which caused a lot of inconvenience while going up and down. I had booked the room online with food included, but when I went to the reception in the morning for breakfast, they refused, saying that the cook was not available. When I told them that food was included in my booking, they said they could only arrange tea from outside."
+    ]
+  },
+  "review_summary": "Based on 5 reviews.",
+  "positive_themes": {
+    "good_location": 2,
+    "good_food": 2,
+    "friendly_staff": 3,
+    "clean_rooms": 1
+  },
+  "negative_themes": {
+    "dirty_rooms": 3
+  }
+}

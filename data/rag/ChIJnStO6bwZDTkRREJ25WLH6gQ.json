@@ -1,0 +1,53 @@
+{
+  "hotel_id": "ChIJnStO6bwZDTkRREJ25WLH6gQ",
+  "hotel_name": "My One Hotel",
+  "area": "Sector 27",
+  "budget_category": "Mid-Range",
+  "rating": 4.7,
+  "trust_score": 0.7210408598492339,
+  "travel_purpose_tags": [
+    "Budget"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "moderate",
+    "review_count": 5,
+    "positive_snippet_count": 1,
+    "negative_snippet_count": 3,
+    "positive_theme_count": 5,
+    "negative_theme_count": 2
+  },
+  "aspect_scores": {
+    "cleanliness": 0.4022314281668514,
+    "service": 0.3334721869323402,
+    "location": 0.3371160793079373,
+    "value_for_money": 0.2529043519753031,
+    "staff_behavior": 0.3371961703718019
+  },
+  "recommendation_features": {
+    "popularity_score": 0.5392705569158556,
+    "rating_score": 4.7,
+    "sentiment_score": 0.4022314281668514
+  },
+  "review_evidence": {
+    "positive_snippets": [
+      "Amazing experience at my one hotel\nRooms are spacious and clean\nBreakfast was tasty\nThe staff was polite and room service was fast\nHad a great stay from start to finish"
+    ],
+    "negative_snippets": [
+      "I booked a suite, expecting at least basic standards, but what I got was outright disgusting. The room was filthy, the hygiene was nonexistent, and to make it worse, the bed itself was broken. The mattress was completely de-shaped, making it impossible to sleep comfortably.\n\nThe services were the worst I\u2019ve ever experienced \u2014 slow, careless, and completely unprofessional. Even after raising complaints, there was zero urgency or responsibility shown by the staff.\n\nOverall, this was a terrible and frustrating stay, and I regret choosing this hotel. Total waste of money. I would strongly advise others to avoid this place.",
+      "The only positive aspect of this property is its location. The place does not feel safe for women at all. Late at night, someone tried to open my gate\u2014thankfully, my room was locked from the inside. When I shouted, no one responded. I tried calling reception, but the call wouldn\u2019t connect, so I contacted the hotel directly. I was told it was probably a delivery person, which didn\u2019t make me feel any safer.\n\nThe price definitely does not match the quality of the property. I needed to extend my stay by one day due to an emergency, but they quoted a much higher rate than what was shown on Expedia. I also found small cockroaches in both the room and the bathroom.\n\nI wish I could give this property zero stars. I will never recommend this hotel.",
+      "Affordable Stay: Paid \u20b91400 for a one-night stay, making it a very budget-friendly option in Gurugram.\n\n\u200bExcellent Location: The hotel is conveniently located just 300-400 meters from a metro station, offering easy and quick access to public transportation.\n\n\u200bSpacious Rooms with Balcony Potential: The room was spacious, and I was fortunate to get a big balcony at the same price, though the view wasn't particularly impressive.\n\n\u200bComfortable Bed, But AC Issues: The bed was comfortable, which was a plus. However, the air conditioner in my room was not working and seemed to be in bad condition.\n\n\u200bMixed Cleanliness and Missing Amenities: Cleanliness was just okay, and a key amenity\u2014an exhaust fan in the bathroom\u2014was missing."
+    ]
+  },
+  "review_summary": "Based on 5 reviews.",
+  "positive_themes": {
+    "clean_rooms": 3,
+    "friendly_staff": 3,
+    "good_food": 2,
+    "good_location": 3,
+    "great_value": 1
+  },
+  "negative_themes": {
+    "dirty_rooms": 1,
+    "rude_staff": 1
+  }
+}

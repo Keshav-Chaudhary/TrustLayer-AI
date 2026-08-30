@@ -1,0 +1,51 @@
+{
+  "hotel_id": "ChIJKYKSWQAZDTkRGfvUj75CLA0",
+  "hotel_name": "Golf Luxury",
+  "area": "Sector 43",
+  "budget_category": "Luxury",
+  "rating": 4.9,
+  "trust_score": 0.9100503231357212,
+  "travel_purpose_tags": [
+    "Leisure",
+    "Business",
+    "Family"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "moderate",
+    "review_count": 5,
+    "positive_snippet_count": 3,
+    "negative_snippet_count": 0,
+    "positive_theme_count": 4,
+    "negative_theme_count": 1
+  },
+  "aspect_scores": {
+    "cleanliness": 0.9998357892036438,
+    "service": 0.998980700969696,
+    "location": 0.999870538711548,
+    "value_for_money": 0.9998680353164672,
+    "staff_behavior": 0.9998438507318496
+  },
+  "recommendation_features": {
+    "popularity_score": 0.4067510860676074,
+    "rating_score": 4.9,
+    "sentiment_score": 0.999671220779419
+  },
+  "review_evidence": {
+    "positive_snippets": [
+      "Amazing food, amazing location, it\u2019s in a residential area infront of a park, so the environment is also very pleasant, good home like food, and the staff is amazing, very co-operative. I\u2019ve found such a great and budget friendly option 1st time in Gurgaon.\n\ud83c\udf3a",
+      "The Guy in reception are welcoming also the chief in the kitchen extraordinary he knows how to presentation of the food the biryani was too good with presentation he is creative and humble may he get more success in life Very good rooms and people I love it \u2764\ufe0f",
+      "The room was clean and the food was good, the staff was friendly and was available whenever we needed any help. Highly recommended from our side\ud83d\udc4d."
+    ],
+    "negative_snippets": []
+  },
+  "review_summary": "Based on 5 reviews.",
+  "positive_themes": {
+    "friendly_staff": 5,
+    "good_location": 3,
+    "good_food": 4,
+    "clean_rooms": 3
+  },
+  "negative_themes": {
+    "parking_issues": 1
+  }
+}

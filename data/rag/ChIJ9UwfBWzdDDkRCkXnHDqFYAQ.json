@@ -1,0 +1,46 @@
+{
+  "hotel_id": "ChIJ9UwfBWzdDDkRCkXnHDqFYAQ",
+  "hotel_name": "Hotel O Flagship",
+  "area": "New Industrial Twp 5",
+  "budget_category": "Mid-Range",
+  "rating": 2.4,
+  "trust_score": 0.2464783784136235,
+  "travel_purpose_tags": [
+    "Budget"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "moderate",
+    "review_count": 5,
+    "positive_snippet_count": 0,
+    "negative_snippet_count": 3,
+    "positive_theme_count": 1,
+    "negative_theme_count": 1
+  },
+  "aspect_scores": {
+    "cleanliness": 0.0103268329548881,
+    "service": 0.0003551349509507,
+    "location": 0.5,
+    "value_for_money": 0.0304273087531328,
+    "staff_behavior": 0.5
+  },
+  "recommendation_features": {
+    "popularity_score": 0.3386222175183568,
+    "rating_score": 2.4,
+    "sentiment_score": 0.0068728514801477
+  },
+  "review_evidence": {
+    "positive_snippets": [],
+    "negative_snippets": [
+      "Toilet condition is very much bad also not need renovation in rooms every furniture is damage",
+      "Washrooms were in a very bad condition , blankets were torned and no good water supply, no towels were there and WiFi facility is only for seeing it doesn't even work, drainage system was bad too\nSome rooms are good some are bad",
+      "Very dirty rooms when I reached there they asked me for more money and said as per Oyo price money we will not provide ac and other facilities bad was broken even they didn't provide water no tv toilets to much dirty they donot have room keys"
+    ]
+  },
+  "review_summary": "Based on 5 reviews.",
+  "positive_themes": {
+    "clean_rooms": 1
+  },
+  "negative_themes": {
+    "dirty_rooms": 3
+  }
+}

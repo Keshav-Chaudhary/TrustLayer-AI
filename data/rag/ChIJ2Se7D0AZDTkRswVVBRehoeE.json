@@ -1,0 +1,53 @@
+{
+  "hotel_id": "ChIJ2Se7D0AZDTkRswVVBRehoeE",
+  "hotel_name": "Fabhotel Altus - Hotel In Dlf Phase 2, Gurgaon",
+  "area": "Gurugram",
+  "budget_category": "Mid-Range",
+  "rating": 4.0,
+  "trust_score": 0.6440399103699485,
+  "travel_purpose_tags": [
+    "Family"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "moderate",
+    "review_count": 5,
+    "positive_snippet_count": 2,
+    "negative_snippet_count": 3,
+    "positive_theme_count": 5,
+    "negative_theme_count": 1
+  },
+  "aspect_scores": {
+    "cleanliness": 0.9964200258255004,
+    "service": 0.5016904237175671,
+    "location": 0.4983431342698167,
+    "value_for_money": 0.7541225254535675,
+    "staff_behavior": 0.6656203057306508
+  },
+  "recommendation_features": {
+    "popularity_score": 0.4664391054836876,
+    "rating_score": 4.0,
+    "sentiment_score": 0.5011024325038307
+  },
+  "review_evidence": {
+    "positive_snippets": [
+      "Location and service of property is perfect\nStaff behavior is 10/10.\nFood is 8.5/10\nRoom is 7/10 (old built , could be more clean and perfect . However, the room size and amenities are good enough).",
+      "Very good hotel to stay. Affordable. Polite staff"
+    ],
+    "negative_snippets": [
+      "What you\u2019ll like:\n+ Located in DLF Phase 2\n+ Prices are dirt cheap. I paid 1400 per night for single occupancy and 1500 per night for double occupancy\n+ Room service is decent. They provide you with food, snack and it\u2019s reasonably priced\n\nWhat you won\u2019t like:\n- Rooms are extremely old\n- You get what you pay for. Don\u2019t expect premium service",
+      "I recently stayed at Fab hotel altus ,and my experience was very disappointing. From the beginning, the bedsheets provided in our room already had small burn/fire marks. We didn\u2019t complain initially as we assumed it was a minor issue. However, during checkout, the hotel staff suddenly claimed that we had caused those marks and demanded \u20b9700 as a charge for the bedsheet. When we tried to explain that the marks were already there, they used rude and abusive language instead of listening to us. This kind of behavior is completely unprofessional and unacceptable.",
+      "Dispite the prime location the service and rooms are pathetic. Too old, beyond hope.\nEven 500Rs rooms are better than these."
+    ]
+  },
+  "review_summary": "Based on 5 reviews.",
+  "positive_themes": {
+    "clean_rooms": 1,
+    "friendly_staff": 3,
+    "good_location": 2,
+    "good_food": 2,
+    "great_value": 2
+  },
+  "negative_themes": {
+    "rude_staff": 1
+  }
+}

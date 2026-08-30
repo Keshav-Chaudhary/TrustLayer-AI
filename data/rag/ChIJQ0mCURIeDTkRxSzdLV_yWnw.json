@@ -1,0 +1,51 @@
+{
+  "hotel_id": "ChIJQ0mCURIeDTkRxSzdLV_yWnw",
+  "hotel_name": "Fortune Select Global, Gurgaon - Member Itc Hotels' Group",
+  "area": "Sector 26",
+  "budget_category": "Luxury",
+  "rating": 4.2,
+  "trust_score": 0.8361843069728752,
+  "travel_purpose_tags": [
+    "Leisure",
+    "Business"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "moderate",
+    "review_count": 5,
+    "positive_snippet_count": 3,
+    "negative_snippet_count": 1,
+    "positive_theme_count": 5,
+    "negative_theme_count": 0
+  },
+  "aspect_scores": {
+    "cleanliness": 0.9998736381530762,
+    "service": 0.9998809099197388,
+    "location": 0.9998832941055298,
+    "value_for_money": 0.0744661018252372,
+    "staff_behavior": 0.9998857975006104
+  },
+  "recommendation_features": {
+    "popularity_score": 0.7742765721464929,
+    "rating_score": 4.2,
+    "sentiment_score": 0.8147969946265221
+  },
+  "review_evidence": {
+    "positive_snippets": [
+      "The food quality is exceptional, and the rooms are impeccably clean. The overall environment of the hotel is warm, comfortable, and welcoming. This is truly a must-visit property. One thing I can confidently say is that the food they serve is unlike anything you\u2019ve tasted before absolutely outstanding.",
+      "This is a very good hotel. The staff here are extremely nice, especially the Indian cuisine chefs, Chef Narendra and Chef Sachin. Both of them are excellent at Indian cuisine and truly amazing at what they do. The hotel is located just near Guru Dronacharya Metro Station.",
+      "My stay at Fortune Select Global Hotel was an outstanding experience, thanks to their remarkable hospitality and amazing food. From the moment I arrived, the staff welcomed me with warmth, professionalism, and genuine care. Every interaction\u2014whether at the reception, restaurant, or housekeeping\u2014felt thoughtful and sincere."
+    ],
+    "negative_snippets": [
+      "It's a very basic hotel, essential items were also missing like shaving kit, toothbrush and paste was provided for only 1 person when we were 2 of us.\nBreakfast spead was good and tasty.\nNot value for money."
+    ]
+  },
+  "review_summary": "Based on 5 reviews.",
+  "positive_themes": {
+    "clean_rooms": 2,
+    "friendly_staff": 3,
+    "good_food": 3,
+    "good_location": 1,
+    "great_value": 1
+  },
+  "negative_themes": {}
+}

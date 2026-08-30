@@ -1,0 +1,47 @@
+{
+  "hotel_id": "ChIJfYdgbx37DDkRNqrP_TGtdC0",
+  "hotel_name": "Hotel O By Oyo Kanha Palace",
+  "area": "Shahdara",
+  "budget_category": "Budget",
+  "rating": 4.5,
+  "trust_score": 0.7709075182455822,
+  "travel_purpose_tags": [
+    "Budget"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "moderate",
+    "review_count": 5,
+    "positive_snippet_count": 3,
+    "negative_snippet_count": 1,
+    "positive_theme_count": 2,
+    "negative_theme_count": 0
+  },
+  "aspect_scores": {
+    "cleanliness": 0.0002605719782877,
+    "service": 0.5,
+    "location": 0.5,
+    "value_for_money": 0.5,
+    "staff_behavior": 0.999213933944702
+  },
+  "recommendation_features": {
+    "popularity_score": 0.3032955993753565,
+    "rating_score": 4.5,
+    "sentiment_score": 0.7991822799725924
+  },
+  "review_evidence": {
+    "positive_snippets": [
+      "All Sarvesh best love u all staff",
+      "There is only an internet issue ..I was not able to run Netflix ..otherwise everything is good and comfortable, cleaned",
+      "All facilities are good and nice resting hotel and very nicely hourly room are  so good \ud83d\ude0a\ud83d\ude0a\ud83d\ude0a\ud83d\udc4d\ud83d\udc4d just try now"
+    ],
+    "negative_snippets": [
+      "Not OYO hotel. No cleaning, No furniture. No door lock. Broken stool in bathroom. Not giving a bill. This is not the hotel which you think of. Kuch to galat ho raha hai yaha pe. Avoid this."
+    ]
+  },
+  "review_summary": "Based on 5 reviews.",
+  "positive_themes": {
+    "friendly_staff": 1,
+    "clean_rooms": 2
+  },
+  "negative_themes": {}
+}

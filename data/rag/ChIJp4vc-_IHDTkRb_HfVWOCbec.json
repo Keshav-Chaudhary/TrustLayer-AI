@@ -1,0 +1,50 @@
+{
+  "hotel_id": "ChIJp4vc-_IHDTkRb_HfVWOCbec",
+  "hotel_name": "Super Hotel O By Oyo Iskcon Temple Rohini Formerly Golden Key",
+  "area": "Rohini",
+  "budget_category": "Budget",
+  "rating": 4.0,
+  "trust_score": 0.6679633511856969,
+  "travel_purpose_tags": [
+    "Business"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "moderate",
+    "review_count": 5,
+    "positive_snippet_count": 3,
+    "negative_snippet_count": 1,
+    "positive_theme_count": 2,
+    "negative_theme_count": 2
+  },
+  "aspect_scores": {
+    "cleanliness": 0.0003144376387353,
+    "service": 0.9994025230407716,
+    "location": 0.5,
+    "value_for_money": 0.5,
+    "staff_behavior": 0.9994903802871704
+  },
+  "recommendation_features": {
+    "popularity_score": 0.3309666882836649,
+    "rating_score": 4.0,
+    "sentiment_score": 0.6664024469888924
+  },
+  "review_evidence": {
+    "positive_snippets": [
+      "I arrived at the hotel without prior booking in the early morning (about 03:00 am). Soft spoken, Mr Vishal (Goni) was on duty.\n\nI was pleased by the service provided in such odd hours and his skill of maintaining a smile , softness and politeness despite of being disturbed in Sleep \ud83d\udca4 and having disagreements on few points.",
+      "It was a good experience, opposite of iskcon temple and a huge park in front of the hotel with no parking issue. The staff was well behaved and served well. Rooms could have been better.",
+      "Super stay"
+    ],
+    "negative_snippets": [
+      "Smoking smell and not clean. Not recommended for family."
+    ]
+  },
+  "review_summary": "Based on 5 reviews.",
+  "positive_themes": {
+    "friendly_staff": 2,
+    "clean_rooms": 1
+  },
+  "negative_themes": {
+    "parking_issues": 1,
+    "dirty_rooms": 1
+  }
+}

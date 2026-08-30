@@ -1,0 +1,53 @@
+{
+  "hotel_id": "ChIJOTFgFrkZDTkRtGNiP_WDHVE",
+  "hotel_name": "Saltstayz Select - Huda City Center",
+  "area": "Sector 43",
+  "budget_category": "Budget",
+  "rating": 4.7,
+  "trust_score": 0.8205581001224627,
+  "travel_purpose_tags": [
+    "Leisure"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "moderate",
+    "review_count": 5,
+    "positive_snippet_count": 2,
+    "negative_snippet_count": 3,
+    "positive_theme_count": 4,
+    "negative_theme_count": 2
+  },
+  "aspect_scores": {
+    "cleanliness": 0.9694222807884216,
+    "service": 0.6555232640530448,
+    "location": 0.9831008911132812,
+    "value_for_money": 0.5,
+    "staff_behavior": 0.0003649638383649
+  },
+  "recommendation_features": {
+    "popularity_score": 0.7204960233408689,
+    "rating_score": 4.7,
+    "sentiment_score": 0.5933389456185978
+  },
+  "review_evidence": {
+    "positive_snippets": [
+      "Read the reviews before going, some people complaint about the rooms and such as the rooms, Were ok it had stains and cockroaches. It had running hot water. Good view. The service was very good. It's only the rooms. They do not allow outside food.",
+      "Good experience, just some cleanliness needed in some areas, apart from very small things all good.\nPunita has been a great host here. Thanks"
+    ],
+    "negative_snippets": [
+      "Rude staff- they don\u2019t talk to you in a good way at all. And they don\u2019t deliver what they promise. We were told dinner will be available in the restaurant from 8.00 pm to 10.00 pm.\nWhen we went to have dinner at 8.45 pm, we were very rudely told that the dinner will be served in the rooms and that too Thalis will be served which will take another 20 mins.\nWhat nonsense are these people upto?????\nPlease don\u2019t book here as they are the rudest people. Already we were in stress due to medical emergency and these people just made it worse.",
+      "I stayed on this property twice. Both the times I found cockroaches, on first stay i saw cockroach on bed and while on second stay I saw cockroach in almirah. In my second stay there is no exhaust in washroom, the area is covered with tissue. Location is great. Service is ok. I stayed for 4 nights and everyday they forget to put towels. The water bottle is never refilled in my 4 nights stay. If you opt for dinner they will give you veg/nonveg thali which is very boring. I dont eat spicy food instead of requesting for non spicy dal they gave spicy dal everytime. Breakfast is good with many food options.on my second stay i hot torn bedsheet and it was same for all 4 nights. They dont have hair dryer available with them instead of mentioned on their page. Overall i will give 3 rating.",
+      "1. Electricity was constantly going. No stable power supply.\n2. Room service is extremely slow. I ordered a cold coffee which never arrived. I had to checkout.\n3. There was no supply of hot water and the maintenance was clueless as to why is there no hot water supply.\n4. They are charging \u20b9500 per hour for a late checkout which is absurd. This is a 5 star checkout fee and this isnt even a 3 star chain.\n5. This is not the Saltstayz standard at all."
+    ]
+  },
+  "review_summary": "Based on 5 reviews.",
+  "positive_themes": {
+    "good_food": 2,
+    "clean_rooms": 1,
+    "friendly_staff": 1,
+    "good_location": 1
+  },
+  "negative_themes": {
+    "dirty_rooms": 1,
+    "rude_staff": 1
+  }
+}

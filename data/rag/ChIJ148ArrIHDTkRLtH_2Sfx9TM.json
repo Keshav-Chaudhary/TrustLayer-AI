@@ -1,0 +1,44 @@
+{
+  "hotel_id": "ChIJ148ArrIHDTkRLtH_2Sfx9TM",
+  "hotel_name": "Super Oyo Flagship Sk Residency Rohini Near Rithala Metro Station",
+  "area": "Rohini",
+  "budget_category": "Budget",
+  "rating": 3.1,
+  "trust_score": 0.3640651564496833,
+  "travel_purpose_tags": [
+    "Budget"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "sparse",
+    "review_count": 5,
+    "positive_snippet_count": 0,
+    "negative_snippet_count": 3,
+    "positive_theme_count": 0,
+    "negative_theme_count": 1
+  },
+  "aspect_scores": {
+    "cleanliness": 0.0007979925139807,
+    "service": 0.5,
+    "location": 0.5,
+    "value_for_money": 0.0009550142567604,
+    "staff_behavior": 0.5
+  },
+  "recommendation_features": {
+    "popularity_score": 0.4632832163578625,
+    "rating_score": 3.1,
+    "sentiment_score": 0.0006600810913368
+  },
+  "review_evidence": {
+    "positive_snippets": [],
+    "negative_snippets": [
+      "The worst hotel I have ever seen. I booked the hotel for Rs 760, but during check in the owner demanded 1400 for the room. Then he gave a non-Ac room after taking Rs 200 extra. The room was pathetic. The bedsheets dirty and torn, no mosquito repellent, no soap or towel. The bathroom was dirty no hygiene. Please avoid this hotel and look for better options.",
+      "Very bad hotel. Only for unmarried couples, not for decent family. They allow bachelor's for drinking and party in night which disturbes the sleep of the customers. No action even after complaints. Dirty and filthy rooms having a lot of mosquitoes. Also charged Rs. 400 extra and harasses the customer who has no option other than giving extra money. I booked classic room for 3 beds but even after charging extra money, they gave me double bed with no extra linen. They don't provide even mosquitoes repellants. Linen, buckets are very dirty. TVs and Wifi not working. They are cheaters and fraud. Never visit them.",
+      "I booked an AC room in this hotel and paid all the money in advance, but at the time of check in they demanded more money. I had no other option, so I had pay extra money. They cheated me. The room was also very unhygienic. Don't book room in this hotel."
+    ]
+  },
+  "review_summary": "Based on 5 reviews.",
+  "positive_themes": {},
+  "negative_themes": {
+    "dirty_rooms": 3
+  }
+}

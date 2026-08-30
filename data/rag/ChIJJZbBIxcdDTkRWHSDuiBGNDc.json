@@ -1,0 +1,53 @@
+{
+  "hotel_id": "ChIJJZbBIxcdDTkRWHSDuiBGNDc",
+  "hotel_name": "Hotel Delhi 37",
+  "area": "Mahipalpur",
+  "budget_category": "Mid-Range",
+  "rating": 4.4,
+  "trust_score": 0.7652992748508186,
+  "travel_purpose_tags": [
+    "Leisure"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "rich",
+    "review_count": 5,
+    "positive_snippet_count": 3,
+    "negative_snippet_count": 2,
+    "positive_theme_count": 4,
+    "negative_theme_count": 2
+  },
+  "aspect_scores": {
+    "cleanliness": 0.0003393812075955,
+    "service": 0.996049463748932,
+    "location": 0.996049463748932,
+    "value_for_money": 0.0002892532502301,
+    "staff_behavior": 0.498169358499581
+  },
+  "recommendation_features": {
+    "popularity_score": 0.6393384574565729,
+    "rating_score": 4.4,
+    "sentiment_score": 0.5992420285183471
+  },
+  "review_evidence": {
+    "positive_snippets": [
+      "I stayed at your property with my family from 20th September to 23rd September and booked three rooms. Overall, we were very satisfied with the food, rooms, service, and location. All the staff members were very helpful and courteous, especially Mr. Baljeet Singh, who was extremely polite and always ready to assist us.\n\nHowever, I would like to share my concern regarding the behavior of one staff member, Mr. Khushi Singh (Operation Manager). During dinner, I politely requested two extra empty plates. Instead of assisting, He responded rudely, asking me why I needed them and whether I had ordered food from the restaurant. Although plates were available right in front of him, he refused to provide them and waited for another staff member to handle it.\n\nThe next day, I approached the restaurant again to request hot water, and unfortunately, I was insulted in front of other hotel staff. He asked inappropriate questions like, \u201cWhat are you doing here? Are you working here? Why are you standing here like this?\u201d Such behavior was unprofessional and disrespectful, especially towards a guest.\n\nI believe Mr. Khushi Singh would greatly benefit from training in guest relations and professional behavior. Apart from this issue, our overall stay was pleasant, and we truly appreciate the efforts of the rest of the staff.",
+      "We ate at there restaurant there chef make excellent food we never get tired of the food anything that we ordered was amazingly good \ud83d\udc4d",
+      "Hotel is really good. They took care of me well. Breakfast is good too"
+    ],
+    "negative_snippets": [
+      "Bedsheets were very dirty.  Also filthy room with damp smell all around hotel. Food quality was bad. On top of that hotel mansger was forcing us to give 4 star rating. Never go to this hotel. Its really really dirty and bad.",
+      "We booked a premium suite at this hotel. The room was quite big, but the bathroom was terrible. Water used to accumulate all over the bathroom floor, and it became very dirty. I was not expecting such a poor room after paying a good amount of money. When I gave this feedback to the manager, he just ignored it. No value for money."
+    ]
+  },
+  "review_summary": "Based on 5 reviews.",
+  "positive_themes": {
+    "friendly_staff": 1,
+    "good_location": 1,
+    "good_food": 4,
+    "great_value": 1
+  },
+  "negative_themes": {
+    "rude_staff": 1,
+    "dirty_rooms": 2
+  }
+}

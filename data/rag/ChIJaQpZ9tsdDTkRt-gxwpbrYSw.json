@@ -1,0 +1,49 @@
+{
+  "hotel_id": "ChIJaQpZ9tsdDTkRt-gxwpbrYSw",
+  "hotel_name": "Oyo Hotel Star",
+  "area": "Jahangirpuri",
+  "budget_category": "Budget",
+  "rating": 3.6,
+  "trust_score": 0.4526813922856752,
+  "travel_purpose_tags": [
+    "Budget"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "moderate",
+    "review_count": 4,
+    "positive_snippet_count": 1,
+    "negative_snippet_count": 3,
+    "positive_theme_count": 2,
+    "negative_theme_count": 1
+  },
+  "aspect_scores": {
+    "cleanliness": 0.9406039714813232,
+    "service": 0.5,
+    "location": 0.5,
+    "value_for_money": 0.5,
+    "staff_behavior": 0.0005095612141303
+  },
+  "recommendation_features": {
+    "popularity_score": 0.2143472170767782,
+    "rating_score": 3.6,
+    "sentiment_score": 0.2360407240048516
+  },
+  "review_evidence": {
+    "positive_snippets": [
+      "Every things is ok but  rooms was not so clean"
+    ],
+    "negative_snippets": [
+      "It is a bad hotel and the staff is also useless, they trouble me. I stayed there a few days ago, it is so irritating, they switch off the lights knowingly, never stay in this hotel, it is a very bad experience for me.",
+      "Stuff behaviour in no good vary loudly voice\nRoom is no clear properly",
+      "The luggage was kept in the room, but I did not wash it... the owner was saying it was not in the room, please reply."
+    ]
+  },
+  "review_summary": "Based on 4 reviews.",
+  "positive_themes": {
+    "clean_rooms": 1,
+    "friendly_staff": 1
+  },
+  "negative_themes": {
+    "noise": 1
+  }
+}

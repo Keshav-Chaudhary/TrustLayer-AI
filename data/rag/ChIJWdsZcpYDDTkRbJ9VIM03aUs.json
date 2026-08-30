@@ -1,0 +1,51 @@
+{
+  "hotel_id": "ChIJWdsZcpYDDTkRbJ9VIM03aUs",
+  "hotel_name": "Hotel Seventh Heaven I Britannia Chowk",
+  "area": "Tri Nagar",
+  "budget_category": "Mid-Range",
+  "rating": 4.4,
+  "trust_score": 0.7879311081764863,
+  "travel_purpose_tags": [
+    "Budget"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "moderate",
+    "review_count": 5,
+    "positive_snippet_count": 3,
+    "negative_snippet_count": 1,
+    "positive_theme_count": 3,
+    "negative_theme_count": 2
+  },
+  "aspect_scores": {
+    "cleanliness": 0.4979325207532383,
+    "service": 0.7987781871343032,
+    "location": 0.5,
+    "value_for_money": 0.9952867031097412,
+    "staff_behavior": 0.5002268227399327
+  },
+  "recommendation_features": {
+    "popularity_score": 0.446439247895558,
+    "rating_score": 4.4,
+    "sentiment_score": 0.7987781871343032
+  },
+  "review_evidence": {
+    "positive_snippets": [
+      "Guys all reviews are true i have been there ,rooms are as per price dont expect more,hot water was there room with wiffy,youtube,good service,accepts online booking,i booked via brevistay  for 12 hrs .. rooms size small but worth price ,area around is filthy so be aware of that but overall best",
+      "Best room all service vrygood\nMr manjeet mr durgesh",
+      "Very nice staff is also very sweet and good service provide"
+    ],
+    "negative_snippets": [
+      "My family stayed at this hotel for one day, but the experience was very disappointing. The bathroom condition was not good and was not properly maintained.\n\nThe hotel management promised to provide breakfast for my whole family the next morning (aloo paratha and tea). However, the next day they did not provide any breakfast.\n\nMy family waited for almost 1\u20132 hours but nothing was served. After that, I tried calling them twice, but they did not answer the phone.\n\nVery unprofessional behavior. If the hotel promises something to guests, they should fulfill it. I would not recommend this hotel based on my experience."
+    ]
+  },
+  "review_summary": "Based on 5 reviews.",
+  "positive_themes": {
+    "great_value": 1,
+    "friendly_staff": 1,
+    "good_food": 1
+  },
+  "negative_themes": {
+    "dirty_rooms": 1,
+    "rude_staff": 1
+  }
+}

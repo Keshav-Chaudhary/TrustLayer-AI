@@ -1,0 +1,51 @@
+{
+  "hotel_id": "ChIJSdUxIfqpDTkRb6Y2Nt719Gs",
+  "hotel_name": "Oyo 60952 Shree Ji Guest House",
+  "area": "Narela",
+  "budget_category": "Budget",
+  "rating": 3.6,
+  "trust_score": 0.5551182866827953,
+  "travel_purpose_tags": [
+    "Budget"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "rich",
+    "review_count": 5,
+    "positive_snippet_count": 3,
+    "negative_snippet_count": 2,
+    "positive_theme_count": 3,
+    "negative_theme_count": 1
+  },
+  "aspect_scores": {
+    "cleanliness": 0.0517478601104812,
+    "service": 0.5515491664409637,
+    "location": 0.0519088157161604,
+    "value_for_money": 0.0005878107040189,
+    "staff_behavior": 0.3335622723971027
+  },
+  "recommendation_features": {
+    "popularity_score": 0.4188864433914587,
+    "rating_score": 3.6,
+    "sentiment_score": 0.4207570300146471
+  },
+  "review_evidence": {
+    "positive_snippets": [
+      "Staff behaviour very bad and the way of talking also very bad pls avoid this hotel\nMy booking 04/04/2024 name Lokesh back 5 year experience last 6 to 8 months staff very bad behave pls I suggest you guys don't waste your money and time pls see near any other hotel",
+      "our employee stays in this hotel and Quick service with pleasant Happy stay .",
+      "Nice Housekeeping and staff. Good place to stay in Delhi."
+    ],
+    "negative_snippets": [
+      "If you planning to stay for official purpose this hotel is not so good. Don't expect any service without cleaning. Few Stuff are good otherwise they will neglecting you if you asked for something. Water quality is poor in bathroom, Sometimes it looks like muddy water.\nThis located at Narela ICICI Bank. Location is good.\nI write this review after staying 20 days. It's ok for couples for one night stand but not good for professional.",
+      "worst experience, room was dirty and staff was drunk"
+    ]
+  },
+  "review_summary": "Based on 5 reviews.",
+  "positive_themes": {
+    "friendly_staff": 3,
+    "good_location": 2,
+    "clean_rooms": 1
+  },
+  "negative_themes": {
+    "dirty_rooms": 1
+  }
+}

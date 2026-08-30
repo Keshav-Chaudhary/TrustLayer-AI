@@ -1,0 +1,46 @@
+{
+  "hotel_id": "ChIJbd9OQUMZDTkRVnrtcXUQNAA",
+  "hotel_name": "Radisson Hotel Gurugram Udyog Vihar",
+  "area": "Sector 20",
+  "budget_category": "Luxury",
+  "rating": 4.6,
+  "trust_score": 0.9812325078253484,
+  "travel_purpose_tags": [
+    "Business"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "moderate",
+    "review_count": 5,
+    "positive_snippet_count": 3,
+    "negative_snippet_count": 0,
+    "positive_theme_count": 3,
+    "negative_theme_count": 0
+  },
+  "aspect_scores": {
+    "cleanliness": 0.999862790107727,
+    "service": 0.999870459238688,
+    "location": 0.5,
+    "value_for_money": 0.5,
+    "staff_behavior": 0.9998700320720671
+  },
+  "recommendation_features": {
+    "popularity_score": 0.9286244757277632,
+    "rating_score": 4.6,
+    "sentiment_score": 0.9998673915863036
+  },
+  "review_evidence": {
+    "positive_snippets": [
+      "We had a comfortable stay at the Radisson, and first of all, thanks to Digambar Housekeeping for the clean, nice rooms and helpful nature. We had a wonderful stay. Very clean and sanitized rooms. The staff is very cooperative. The entire staff at the front office, F&B, housekeeping, and restaurant were very polite and courteous. I don't know all the staff's names, but they were all very polite and courteous.\nWe are completely satisfied with our stay.",
+      "We recently stayed at Radisson Gurugram Udyog Vihar, and our experience was truly exceptional. The hotel provided a very comfortable and seamless stay for our group, with all services and facilities maintained at the highest standards.\n\nA special thanks goes to the front desk team, whose professionalism and hospitality made a huge difference. We would like to specifically acknowledge Pankaj, Amen, Harsh, Vaishnavi, and Priyanshu for their outstanding support. From the moment we arrived, they ensured that everything was smooth\u2014from check-in to answering queries and assisting with our requirements. Their friendly demeanor, attentiveness, and dedication went above and beyond, making our stay very pleasant and memorable.\n\nWe highly appreciate the team\u2019s efforts and would definitely recommend Radisson Gurugram Udyog Vihar to anyone looking for comfort, excellent service, and a welcoming environment.",
+      "I had a wonderful experience during breakfast thanks to the exceptional service from Rinchui and Akansha. They were both incredibly attentive, friendly, and welcoming each morning \u2014 always serving with genuine smiles and making sure everything was perfect. Their hospitality truly stood out and made the start of each day feel special. Great teamwork and a lovely personal touch that added to my stay. Thank you both for making the experience so memorable!"
+    ],
+    "negative_snippets": []
+  },
+  "review_summary": "Based on 5 reviews.",
+  "positive_themes": {
+    "clean_rooms": 2,
+    "friendly_staff": 4,
+    "good_food": 1
+  },
+  "negative_themes": {}
+}

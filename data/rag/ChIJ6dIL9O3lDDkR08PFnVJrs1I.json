@@ -1,0 +1,50 @@
+{
+  "hotel_id": "ChIJ6dIL9O3lDDkR08PFnVJrs1I",
+  "hotel_name": "Comfort Inn Hotel",
+  "area": "New Delhi",
+  "budget_category": "Budget",
+  "rating": 3.2,
+  "trust_score": 0.4355422944423827,
+  "travel_purpose_tags": [
+    "Budget"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "moderate",
+    "review_count": 5,
+    "positive_snippet_count": 1,
+    "negative_snippet_count": 3,
+    "positive_theme_count": 2,
+    "negative_theme_count": 2
+  },
+  "aspect_scores": {
+    "cleanliness": 0.0009772696066647,
+    "service": 0.0005272879061521,
+    "location": 0.0006997785530984,
+    "value_for_money": 0.0006997785530984,
+    "staff_behavior": 0.0005272879061521
+  },
+  "recommendation_features": {
+    "popularity_score": 0.4384092885261062,
+    "rating_score": 3.2,
+    "sentiment_score": 0.1996122915821615
+  },
+  "review_evidence": {
+    "positive_snippets": [
+      "Although the area and atmosphere was Great\nThe rooms not that good as we expected. The TV, The drawers and etc. Were not that good but I enjoyed staying \ud83d\ude00"
+    ],
+    "negative_snippets": [
+      "Would give ZERO stars if I could.\nThis place is rodent infested, unkept and stinky bathrooms with on and off hot water supply and unhygienic room with stained and torn bedsheets. The worst accommodation for someone staying at Acharya Niketan. When asked for a fresh bottle of water, they provided one with a broken seal and without a label so it was clearly a used bottle. Do not go there if you can afford staying at IIDM or Holiday Inn or even an Airbnb.",
+      "\u201cTheir hotel was my worst stay ever. The staff were completely unprofessional, had no basic manners and spoke very rudely whenever we asked for help. Service was extremely slow, careless and no one took responsibility for any issue. I would never recommend this place to anyone and strongly suggest avoiding this hotel.\u201d",
+      "Not for anyone who is concerned about hygiene. Initially I had issues only with the disgusting toilets. Then when I woke up in the morning, a frigging rat was running around."
+    ]
+  },
+  "review_summary": "Based on 5 reviews.",
+  "positive_themes": {
+    "friendly_staff": 1,
+    "good_location": 1
+  },
+  "negative_themes": {
+    "rude_staff": 2,
+    "dirty_rooms": 1
+  }
+}

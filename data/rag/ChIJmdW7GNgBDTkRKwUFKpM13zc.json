@@ -1,0 +1,42 @@
+{
+  "hotel_id": "ChIJmdW7GNgBDTkRKwUFKpM13zc",
+  "hotel_name": "Oyo Home Hotel Red Heart 2.0",
+  "area": "Burari",
+  "budget_category": "Budget",
+  "rating": 4.3,
+  "trust_score": 0.6228877306534336,
+  "travel_purpose_tags": [
+    "Budget"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "sparse",
+    "review_count": 2,
+    "positive_snippet_count": 1,
+    "negative_snippet_count": 1,
+    "positive_theme_count": 0,
+    "negative_theme_count": 0
+  },
+  "aspect_scores": {
+    "cleanliness": NaN,
+    "service": NaN,
+    "location": NaN,
+    "value_for_money": NaN,
+    "staff_behavior": NaN
+  },
+  "recommendation_features": {
+    "popularity_score": 0.1811444130340956,
+    "rating_score": 4.3,
+    "sentiment_score": 0.5
+  },
+  "review_evidence": {
+    "positive_snippets": [
+      "Good"
+    ],
+    "negative_snippets": [
+      "No hygiene"
+    ]
+  },
+  "review_summary": "Based on 2 reviews.",
+  "positive_themes": {},
+  "negative_themes": {}
+}

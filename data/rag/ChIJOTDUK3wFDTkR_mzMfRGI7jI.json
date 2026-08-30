@@ -1,0 +1,51 @@
+{
+  "hotel_id": "ChIJOTDUK3wFDTkR_mzMfRGI7jI",
+  "hotel_name": "Hotel O Peak Inn",
+  "area": "Vipin Garden Extension Rd",
+  "budget_category": "Budget",
+  "rating": 3.7,
+  "trust_score": 0.510354267082481,
+  "travel_purpose_tags": [
+    "Budget"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "moderate",
+    "review_count": 5,
+    "positive_snippet_count": 1,
+    "negative_snippet_count": 3,
+    "positive_theme_count": 3,
+    "negative_theme_count": 2
+  },
+  "aspect_scores": {
+    "cleanliness": 0.0023798111360519,
+    "service": 0.0027093568351119,
+    "location": 0.05873404443264,
+    "value_for_money": 0.0027093568351119,
+    "staff_behavior": 0.3535387018540253
+  },
+  "recommendation_features": {
+    "popularity_score": 0.4580001072406909,
+    "rating_score": 3.7,
+    "sentiment_score": 0.2127072982519166
+  },
+  "review_evidence": {
+    "positive_snippets": [
+      "Sure! Here\u2019s a professional yet friendly brand approach message you can use to reach out to a travel-related brand on Instagram or via email:\n\n---\n\nHi [vlog0080/Team],\n\nI\u2019m [Rahul sharma], a travel content news passionate about exploring new destinations and sharing unique experiences with my audience. I\u2019ve been following your brand for a while and truly admire your work in the travel space.\n\nI\u2019d love to explore a potential collaboration that aligns with both our audiences and values. Let me know if you\u2019re open to discussing ideas\u2014I\u2019d be happy to share more details and insights into how we could create something impactful together.\n\nLooking forward to hearing from you!\n\nBest,\n[Rahul sharma]\n[Rahul sharma ]"
+    ],
+    "negative_snippets": [
+      "Worst Experience. Hotel denied stay for the amount booked from Oyo and asking double amount. What the hell? Neither oyo supported. You should be more responsible. You can't do anything in the name of business. We should get the room in the amount booked for. It's not business It's farud. Wasted my valuable time. Pathetic.",
+      "Very dirty rooms, washrooms are so Dirty and unhygienic, I said to change my room but every room is in so bad condition, pillows and blanketvs was very dirty, they don't have shops nd towel in washroom,and when I complain to staff they said me to manage with that dirty and unhygienic rooms, I don't know ye itne achhe reviews kon de rha h ki hotel achha hai, but I recommend not to book this hotel, this hotel is very dirty and unhygienic",
+      "All type person are frd and rudely behave and extra money charge no safey this hotel this is not a hotel this is a red light are reception person are very bad room and bed, washroom any type all room are so dirty smell.\nThis is not a hotel this is a wrong place don't go this place is not safe\nAll are cheater I am dispointed"
+    ]
+  },
+  "review_summary": "Based on 5 reviews.",
+  "positive_themes": {
+    "friendly_staff": 2,
+    "great_value": 1,
+    "good_location": 1
+  },
+  "negative_themes": {
+    "dirty_rooms": 2,
+    "rude_staff": 2
+  }
+}

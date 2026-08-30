@@ -1,0 +1,51 @@
+{
+  "hotel_id": "ChIJ6UcYhSEeDTkR6E7j3U9cv-0",
+  "hotel_name": "Amigosindia",
+  "area": "Chhatarpur",
+  "budget_category": "Mid-Range",
+  "rating": 4.5,
+  "trust_score": 0.8598070298195958,
+  "travel_purpose_tags": [
+    "Business"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "moderate",
+    "review_count": 5,
+    "positive_snippet_count": 3,
+    "negative_snippet_count": 1,
+    "positive_theme_count": 4,
+    "negative_theme_count": 1
+  },
+  "aspect_scores": {
+    "cleanliness": 0.999803364276886,
+    "service": 0.9984450936317444,
+    "location": 0.5,
+    "value_for_money": 0.5000535510771442,
+    "staff_behavior": 0.7495888900157297
+  },
+  "recommendation_features": {
+    "popularity_score": 0.7205770062199108,
+    "rating_score": 4.5,
+    "sentiment_score": 0.7996392116066999
+  },
+  "review_evidence": {
+    "positive_snippets": [
+      "I recently stayed here when I had to visit Delhi and it honestly felt like a home away from home. If you are looking for a place with cool vibes where you can easily meet new people, this is it.\n\nFirstly, the rooms here are super aesthetic, comfy, and clean. It\u2019s rare to find a hostel that looks this good and still feels this cozy.\nThey have a common room as well, where you can just work or have some fun (playing cards, foosball and more)\n\nThe atmosphere is super chill. We had one amazing bonfire night that was the highlight of my trip - just sitting around, sharing stories, and experiences with other travellers, playing fun games (our team won in Pictionary xD).\n\nA huge bonus for me was the dogs! \ud83d\udc36 Caramel and Karma (and the rest of the furry gang) makes the place feel so warm and welcoming.\n\nSpecial shoutout to the community manager, Aditi. She really goes above and beyond to bring everyone together and ensure the vibe stays lively and inclusive. Thanks to her and the whole team for such a memorable stay",
+      "Had a great stay, wish I could have stayed for some more time. The 3 golden retrievers at the reception are very friendly, the bathrooms and dorm beds are comfortable, and the food is great too. Urvashi at the reception counter is super helpful. Only thing I wish for is exercise equipment at the rooftop, otherwise everything else was very nice.",
+      "The place is not in the best position of Delhi, little bit tricky to reach. The rooms are very cheap, not super confortable but good for one night of rest. I give five stars because the staff is super nice and helpful, the athmosphere is great and I\u2019ve felt so welcomed. I\u2019ll come back for sure. Thank you Amigos India! \ud83e\udef6\ud83c\udffb"
+    ],
+    "negative_snippets": [
+      "I absolutely would NOT recommend this place for long stays. I feel completely ripped off and cheated. Before booking, I clearly asked over a phone call if I could get a better rate for a one-week stay. Based on that conversation, I initially booked online just to check the vibe of the property.\nHowever, when I decided to extend my stay and tried to book again at the same rate I was promised over the call, they flatly refused. The manager, Sahil, suddenly increased the price dramatically simply because I was already staying at the property. It honestly felt like he thought it would be easy to manipulate me since I was already there.\nThis kind of dishonest behavior is extremely unprofessional and unethical. I feel completely cheated and taken advantage of. Very disappointing experience."
+    ]
+  },
+  "review_summary": "Based on 5 reviews.",
+  "positive_themes": {
+    "clean_rooms": 1,
+    "friendly_staff": 3,
+    "good_food": 1,
+    "great_value": 1
+  },
+  "negative_themes": {
+    "rude_staff": 1
+  }
+}

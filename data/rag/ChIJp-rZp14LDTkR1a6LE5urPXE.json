@@ -1,0 +1,51 @@
+{
+  "hotel_id": "ChIJp-rZp14LDTkR1a6LE5urPXE",
+  "hotel_name": "Hotel Emmkay Residency",
+  "area": "Sankhol",
+  "budget_category": "Mid-Range",
+  "rating": 3.9,
+  "trust_score": 0.6274746118539923,
+  "travel_purpose_tags": [
+    "Budget"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "moderate",
+    "review_count": 5,
+    "positive_snippet_count": 2,
+    "negative_snippet_count": 3,
+    "positive_theme_count": 3,
+    "negative_theme_count": 1
+  },
+  "aspect_scores": {
+    "cleanliness": 0.0022567948326468,
+    "service": 0.3337002683838364,
+    "location": 0.0022567948326468,
+    "value_for_money": 0.5,
+    "staff_behavior": 0.0006544424832099
+  },
+  "recommendation_features": {
+    "popularity_score": 0.601787320112133,
+    "rating_score": 3.9,
+    "sentiment_score": 0.4006150743982289
+  },
+  "review_evidence": {
+    "positive_snippets": [
+      "Very spacious and good air conditioning system.\nGood food of restaurant\ud83d\ude03\nMust visit.",
+      "Hotel emmkay residency one of best hotel in bahadurgarh. Rooms have also good and room service is so fantastic.\nHere also available banquets hall restaurant or swimming pool services."
+    ],
+    "negative_snippets": [
+      "Rooms are good, but Bathroom is not up to the mark. In breakfast they have less variety, it may due to location or the people who are coming...\nHere lots party and functions are going on, so Corporate point of view it is medium range hotel. Road in front of hotel is very bad...",
+      "Very Rude manager and staff.\nWorst service.\nDon't book for your family functions. They charge you 500 extra if you lost the key.\nThey are lootere",
+      "Gwar staff, broken road, poor service, Mera room book Karke cancel Kar diva,  openly abusive words with other residents, misbehaved with me when I confronted for cancelling my room even when I had booked one week before n had given advance too."
+    ]
+  },
+  "review_summary": "Based on 5 reviews.",
+  "positive_themes": {
+    "good_food": 2,
+    "good_location": 1,
+    "friendly_staff": 2
+  },
+  "negative_themes": {
+    "rude_staff": 1
+  }
+}

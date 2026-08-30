@@ -1,0 +1,52 @@
+{
+  "hotel_id": "ChIJjYjbl0gbDTkRCrRAMjT45Yg",
+  "hotel_name": "Hotel O By Oyo Karan Stay",
+  "area": "Dwarka",
+  "budget_category": "Budget",
+  "rating": 3.3,
+  "trust_score": 0.461874685946595,
+  "travel_purpose_tags": [
+    "Budget"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "moderate",
+    "review_count": 5,
+    "positive_snippet_count": 2,
+    "negative_snippet_count": 3,
+    "positive_theme_count": 3,
+    "negative_theme_count": 2
+  },
+  "aspect_scores": {
+    "cleanliness": 0.0002738182374741,
+    "service": 0.3925140928768086,
+    "location": 0.5,
+    "value_for_money": 0.0016346154006896,
+    "staff_behavior": 0.5000934786366996
+  },
+  "recommendation_features": {
+    "popularity_score": 0.4448877150866521,
+    "rating_score": 3.3,
+    "sentiment_score": 0.236162301886361
+  },
+  "review_evidence": {
+    "positive_snippets": [
+      "This was just a ok ok hotel stay .. which also provide PG facility. I stayed there for one night and they've nothing to serve .they don't even having a glass so that I've to walk away to buy one for myself.. it's a very cheap in prize that's why I've went there .. if you don't have to worry for your budget then you must try somewhere else .",
+      "Very nice staff and good service"
+    ],
+    "negative_snippets": [
+      "Worst experience ever with OYO! \ud83d\udc4e I booked a room, paid in advance, and cancelled within a few hours \u2014 still they refused to refund even a single rupee. Their so-called \u201cpolicy\u201d is just an excuse to loot customers. Staff doesn\u2019t care, customer support repeats the same line like a robot.\n\nIt\u2019s funny how big companies talk about \u201ccustomer satisfaction\u201d but can\u2019t even handle a small genuine refund. Such unprofessional behavior \u2014 shame on OYO for fooling loyal customers. I\u2019ll never book from OYO again, and I\u2019d suggest others to stay away unless you want to waste your time and money.",
+      "The room was completely dirty and smelling very bad at reception they said your room is ready but when we reached there found we came to hell. Not maintained properly and room wall was also dirty. Covered almirah was already filled not cleaned and baathroom was completely dirty. Please check the photos.",
+      "We regret to inform you that the guy who was sitting on the reception of Dwarka international hotel(Oyo29429) was trying to misbehave with my wife.  He was communicating with rough words.  Please take action against that guy otherwise I am going to take action against him.  He doesn't know to how to behave with customer and lady.  Please take action against him immediately.\n\nThanks and regards"
+    ]
+  },
+  "review_summary": "Based on 5 reviews.",
+  "positive_themes": {
+    "great_value": 1,
+    "friendly_staff": 2,
+    "clean_rooms": 1
+  },
+  "negative_themes": {
+    "rude_staff": 1,
+    "dirty_rooms": 1
+  }
+}

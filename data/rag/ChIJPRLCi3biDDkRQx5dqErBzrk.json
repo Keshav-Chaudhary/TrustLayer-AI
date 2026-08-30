@@ -1,0 +1,53 @@
+{
+  "hotel_id": "ChIJPRLCi3biDDkRQx5dqErBzrk",
+  "hotel_name": "The Orion - Greater Kailash - 3 Star Hotel In Delhi",
+  "area": "Greater Kailash",
+  "budget_category": "Mid-Range",
+  "rating": 4.0,
+  "trust_score": 0.6556956777307562,
+  "travel_purpose_tags": [
+    "Budget"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "moderate",
+    "review_count": 5,
+    "positive_snippet_count": 2,
+    "negative_snippet_count": 3,
+    "positive_theme_count": 5,
+    "negative_theme_count": 1
+  },
+  "aspect_scores": {
+    "cleanliness": 0.6667054655166188,
+    "service": 0.2502666438595042,
+    "location": 0.5001341941970167,
+    "value_for_money": 0.0003224013053113,
+    "staff_behavior": 0.3336045142787042
+  },
+  "recommendation_features": {
+    "popularity_score": 0.6726187233831408,
+    "rating_score": 4.0,
+    "sentiment_score": 0.4001829167187679
+  },
+  "review_evidence": {
+    "positive_snippets": [
+      "Rooms are generally clean, well-maintained, and equipped with all the essentials. Housekeeping keeps standards high, so most guests find their rooms fresh and welcoming. Some reviews mention occasional issues with bathroom amenities, but overall, maintenance is solid.",
+      "I had a nice stay at this hotel. The room was clean and comfortable.specially The front desk Mr Neeraj and staff was friendly and helpful.  The food was tasty, and the service was good. The location is also very nice. I enjoyed my stay and would like to come again."
+    ],
+    "negative_snippets": [
+      "Misleading photos and disappointing stay\n\nAs an American traveler who has stayed in hotels across both Africa and India\u2014including some at much lower rates\u2014I can honestly say this was one of my most disappointing hotel experiences.\n\nMisleading presentation:\nThe photos online were deceiving\u2014either very old or heavily edited. The room we were given smelled terrible. The furniture, especially the chairs and cabinets, had a strong urine odor, and the overall space smelled damp and moldy. The bedding felt moist and unclean, and there was visible water warping on the floor and bathroom door, which made it difficult to open and close.\n\nRoom and maintenance issues:\nWe initially tried to overlook these problems since we were happy to have a Western toilet and overhead shower, but on the first day, our shower caused the entire bathroom to flood. I had to unplug the hair dryer out of fear of electrocution. When we called for help, the staff discovered the drain was clogged with a thick buildup of hair\u2014clearly not cleaned between guests. On top of that, the drain wasn\u2019t even installed at the low point, so water couldn\u2019t flow out properly.\n\nAlthough staff came promptly, they used a bath towel to mop up the dirty water\u2014without any disinfectant\u2014dragging it across the floor. Later, we realized our refrigerator had not been running while we were out, since power shuts off when you remove the keycard. We had food stored inside, and my husband later became ill. We strongly suspect it was due to the fridge not staying on, which feels like a cost-cutting measure on the hotel\u2019s part.\n\nFrom that point on, we wore our shoes inside because the floor no longer felt clean.\n\nSanitation and plumbing problems:\nTwo days later, dirty toilet water began seeping from around the base of the toilet. The staff initially dismissed it, took a long coffee break, and only later came to address the issue. Again, the floor was \u201ccleaned\u201d with a bath towel and no disinfectant. Every time we requested clean towels, we only received part of what we asked for.\n\nThe soap provided was from a push-style dispenser attached to the wall, filled with low-quality liquid soap that felt diluted and had an unpleasant scent.\n\nRoom change:\nAfter repeated complaints, we were finally moved to a much nicer room\u2014but by then, the frustration had overshadowed the gesture.\n\nOther observations:\nThe elevator (lift) was also malfunctioning during our stay. I understand that the building is older, but proper upkeep and small improvements could easily maintain its quality and justify its rating.\n\nWe didn\u2019t try the hotel restaurant due to multiple reviews mentioning food poisoning. Another couple in our group did eat there; while they didn\u2019t get sick, they said the menu was limited.\n\nPositives:\nThe Blue Tokai coffee shop downstairs was excellent\u2014great service and quality coffee. The security guards were also very kind and professional. The neighborhood felt safe, though the hotel\u2019s location is quite far from most Delhi attractions.\n\nOverall:\nFor the price, the value did not align at all. The hotel\u2019s appearance online does not match reality, and the lack of basic cleanliness, maintenance, and hygiene standards makes it impossible for me to recommend\u2014especially at its current rate.",
+      "My issue in this hotel is with the terrible service. Really bad experience. We stayed here for 4 days. The wifi was not working for 3 out of the 4 days. We asked and pleaded with the staff every day and it took them 3 days to fix it. Also, this hotel shuts off the hot water at night. If you want to shower at night at this hotel good luck. Garam pani nahi mile ga raat ko. Can someone please tell me, is hot water in a hotel a luxury? Sirf garam pani manga hai heera moti nahi. This was a huge issue with this hotel and when we begged the staff to leave the hot water on at night they just didn't listen. We got so frustrated with this hotel that we asked for a partial refund. Mr. Pankaj the manager at the front desk said complaint kardo koyi baat nahi (you can complaint i dont care). So I am not sure if this hotel cares about their service and customers.  Will not be staying here ever again. Hot water and Wifi is basic needs for a hotel. Not asking for luxury.",
+      "\u200bI am extremely disappointed with my stay. For a room costing over 5,000, I expected basic security and comfort, neither of which were provided.\n\u200bSecurity: The door did not have a proper, functioning lock, which is completely unacceptable at this price point.\n\u200bDisturbance: A door alarm went off repeatedly throughout the night, making it impossible to get any rest.\n\u200bManagement needs to address these maintenance failures immediately."
+    ]
+  },
+  "review_summary": "Based on 5 reviews.",
+  "positive_themes": {
+    "clean_rooms": 3,
+    "friendly_staff": 4,
+    "good_location": 2,
+    "good_food": 2,
+    "great_value": 1
+  },
+  "negative_themes": {
+    "dirty_rooms": 1
+  }
+}

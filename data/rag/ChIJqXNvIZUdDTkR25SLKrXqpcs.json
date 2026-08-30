@@ -1,0 +1,50 @@
+{
+  "hotel_id": "ChIJqXNvIZUdDTkR25SLKrXqpcs",
+  "hotel_name": "Hotel Hsp Suites",
+  "area": "Mahipalpur",
+  "budget_category": "Mid-Range",
+  "rating": 4.5,
+  "trust_score": 0.9235631448397658,
+  "travel_purpose_tags": [
+    "Leisure",
+    "Business",
+    "Family"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "moderate",
+    "review_count": 5,
+    "positive_snippet_count": 3,
+    "negative_snippet_count": 0,
+    "positive_theme_count": 5,
+    "negative_theme_count": 0
+  },
+  "aspect_scores": {
+    "cleanliness": 0.9998266498247782,
+    "service": 0.9998318403959274,
+    "location": 0.9998093446095784,
+    "value_for_money": 0.9997950792312622,
+    "staff_behavior": 0.9998266458511352
+  },
+  "recommendation_features": {
+    "popularity_score": 0.7200493538036388,
+    "rating_score": 4.5,
+    "sentiment_score": 0.9998266458511352
+  },
+  "review_evidence": {
+    "positive_snippets": [
+      "We had a wonderful day stay at hotel HSP suits. The hotel is located in a great locality, with with easy access to nearby attractions and essentials. The overall atmosphere was clean comfortable, and welcoming. A special shout out to prabhat and sunil at the reception who went above and beyond to make our stay pleasant. We were traveling with 5-year old daughter and truly appreciate and early check in  which prabhat graciously arranged understanding our situation. Throughout our stay, the staff was incredibley helpful and responsive especially when needed milk for our daughter, even during late night hours. Their 24/7 assistance made a big difference and added to our peace of mind as a parents. Highly recommend this hotel, especially for families traveling with young children. Thank you hotel hsp suites for sach warm hospitality.",
+      "Stayed at Hotel Hsp suites , Mahipalpur \u2014 great experience overall! Rooms were clean, location perfect near the airport.\n\nSpecial mention to Prabhat (receptionist) \u2014 super polite, helpful, and professional. He made the check-in smooth and was always ready to help with a smile.\n\nHighly recommend because of the service and staff!",
+      "Me and my wife booked this hotel to attending for my VISA interview. The location is very close to all embassies and to the main airport.The staff is very friendly and they are very supportive for everything you need specially for finding a taxi, change the money and the preparing the meals also. The dinner and the bf are super.\nI can recommend this hotel for all Sri Lankans who are coming to Delhi for Eurpoean VISA interviews, also the prices are affordable.\nThank you."
+    ],
+    "negative_snippets": []
+  },
+  "review_summary": "Based on 5 reviews.",
+  "positive_themes": {
+    "clean_rooms": 3,
+    "friendly_staff": 5,
+    "good_location": 4,
+    "great_value": 2,
+    "good_food": 2
+  },
+  "negative_themes": {}
+}

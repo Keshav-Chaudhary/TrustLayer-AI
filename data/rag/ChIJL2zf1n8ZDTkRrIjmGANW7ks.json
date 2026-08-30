@@ -1,0 +1,48 @@
+{
+  "hotel_id": "ChIJL2zf1n8ZDTkRrIjmGANW7ks",
+  "hotel_name": "Fabhotel Raahi Retreat Hotel In Sector 31",
+  "area": "Sector 31",
+  "budget_category": "Mid-Range",
+  "rating": 4.7,
+  "trust_score": 0.9004714686776183,
+  "travel_purpose_tags": [
+    "Business",
+    "Family"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "moderate",
+    "review_count": 5,
+    "positive_snippet_count": 3,
+    "negative_snippet_count": 0,
+    "positive_theme_count": 4,
+    "negative_theme_count": 0
+  },
+  "aspect_scores": {
+    "cleanliness": 0.9998299181461334,
+    "service": 0.9998390078544616,
+    "location": 0.5,
+    "value_for_money": 0.9998708963394164,
+    "staff_behavior": 0.9998329679171244
+  },
+  "recommendation_features": {
+    "popularity_score": 0.4864637837128357,
+    "rating_score": 4.7,
+    "sentiment_score": 0.9998390197753906
+  },
+  "review_evidence": {
+    "positive_snippets": [
+      "My stay at this hotel was absolutely wonderful! The room was spotless, beautifully maintained, and had all the amenities I could possibly need. The staff were incredibly polite, attentive, and always ready to help with a smile. Room service was prompt, and the food quality exceeded expectations. The ambiance was peaceful and relaxing \u2014 perfect for a comfortable getaway. Overall, a truly delightful experience that I\u2019d highly recommend to anyone looking for great hospitality and value for money.",
+      "I had a wonderful stay at your hotel with our family! Everything was perfect, and we truly appreciated the warm and welcoming atmosphere. My family and I really enjoyed every moment \u2014 from the comfortable rooms to the excellent service.\n\nThank you for making our stay so memorable! Your amazing hospitality made us feel right at home. We were very comfortable, relaxed, and well taken care of throughout our stay.\n\nWe look forward to coming back again!",
+      "The hotel is amazing and the service Oh!! WOW \u2764\ufe0f.\nIt was top-notch.\nWould love to visit again \ud83e\udef6."
+    ],
+    "negative_snippets": []
+  },
+  "review_summary": "Based on 5 reviews.",
+  "positive_themes": {
+    "clean_rooms": 2,
+    "friendly_staff": 3,
+    "great_value": 1,
+    "good_food": 1
+  },
+  "negative_themes": {}
+}

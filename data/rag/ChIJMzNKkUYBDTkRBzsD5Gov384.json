@@ -1,0 +1,50 @@
+{
+  "hotel_id": "ChIJMzNKkUYBDTkRBzsD5Gov384",
+  "hotel_name": "Oyo Shalimar Residency Near Adarsh Nagar Metro Station",
+  "area": "Shalimar Bagh",
+  "budget_category": "Budget",
+  "rating": 3.7,
+  "trust_score": 0.5541770774881593,
+  "travel_purpose_tags": [
+    "Leisure"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "moderate",
+    "review_count": 5,
+    "positive_snippet_count": 2,
+    "negative_snippet_count": 3,
+    "positive_theme_count": 2,
+    "negative_theme_count": 1
+  },
+  "aspect_scores": {
+    "cleanliness": 0.9996789693832396,
+    "service": 0.0017251576064154,
+    "location": 0.9998730421066284,
+    "value_for_money": 0.0018025271128863,
+    "staff_behavior": 0.2516609565063845
+  },
+  "recommendation_features": {
+    "popularity_score": 0.3811417720613274,
+    "rating_score": 3.7,
+    "sentiment_score": 0.4013033736264333
+  },
+  "review_evidence": {
+    "positive_snippets": [
+      "The hotel was clean and good..And the room have fantastic view , the bathrooms were clean and clear",
+      "Nice room and bed was good n clean staff very friendly\ud83d\udc4d\ud83c\udffb"
+    ],
+    "negative_snippets": [
+      "you cheaters u donot deserve even 1 star. Never ever book this hotel in life instead book a dharmasala or gurudwara room, this hotel uses fraud practices to dupe customer specially with those customers who book this hotel with advance payment. and when traveller reaches this hotel,property manager will deny you check in stating that we have not received your booking.",
+      "Pathetic room service, staff lying in beds meant for guests, huge rat problem, unclean and just a big NO. Oyo doesn't take any accountability for poor functioning of hotel properties, have faced it across all over Delhi. Third party vendors managing the property and doing a poor job. 0 stars",
+      "you cheaters u donot deserve even 1 star. Never ever book this hotel in life instead book a dharmasala or gurudwara room, this hotel uses fraud practices to dupe customer specially with those customers who book this hotel with advance payment. and when traveller reaches this hotel,property manager will deny you check in stating that we have not received your booking. furustatedly you have to cancel your booking and NO REFUND WILL BE provided to you moreover OYO will also not help u in refunding your money."
+    ]
+  },
+  "review_summary": "Based on 5 reviews.",
+  "positive_themes": {
+    "clean_rooms": 3,
+    "friendly_staff": 2
+  },
+  "negative_themes": {
+    "dirty_rooms": 1
+  }
+}

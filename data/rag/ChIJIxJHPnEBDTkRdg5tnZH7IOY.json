@@ -1,0 +1,52 @@
+{
+  "hotel_id": "ChIJIxJHPnEBDTkRdg5tnZH7IOY",
+  "hotel_name": "Qotel Express Sandberry - Prashant Vihar",
+  "area": "Rohini",
+  "budget_category": "Mid-Range",
+  "rating": 4.5,
+  "trust_score": 0.7588658167214993,
+  "travel_purpose_tags": [
+    "Leisure"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "rich",
+    "review_count": 5,
+    "positive_snippet_count": 3,
+    "negative_snippet_count": 2,
+    "positive_theme_count": 3,
+    "negative_theme_count": 2
+  },
+  "aspect_scores": {
+    "cleanliness": 0.4999348193741753,
+    "service": 0.5003030941297766,
+    "location": 0.9989803433418274,
+    "value_for_money": 0.5,
+    "staff_behavior": 0.5002587184717413
+  },
+  "recommendation_features": {
+    "popularity_score": 0.5455794970201683,
+    "rating_score": 4.5,
+    "sentiment_score": 0.5999164557724725
+  },
+  "review_evidence": {
+    "positive_snippets": [
+      "Reception Bharat verma talk is very sweet room number 201 nice I am very happy in this hotel and bharat verma thank you for my help",
+      "Nice location nice guy bharat verma room are very clean",
+      "Nice hotel good stay\nRoom is very neat and clean \ud83e\udee7\nStaff behaviour is also good \ud83d\ude0a"
+    ],
+    "negative_snippets": [
+      "Worst hotel I have stayed in till now.\nThey are charging way too much for the kind of service they provide. The room condition was poor and unhygienic \u2014 torn and smelly bedsheets, furniture in bad shape, the TV was just for show, and the bathroom latch didn\u2019t even work.\nThe room has a shared window with the neighboring room, and although it\u2019s closed, everything from the other room is clearly audible. On top of that, the reception staff create noise right outside the rooms, showing no consideration for guests.\nI would never recommend this hotel to anyone, it's not safe or decent especially for a couple.",
+      "Booked this premises on line via Booking. Com. Worst experience from online booking and worsted hotel. It's not even third grade. Smelly rooms, improper bathroom, no amenities and paid as good as 5 star hotel."
+    ]
+  },
+  "review_summary": "Based on 5 reviews.",
+  "positive_themes": {
+    "clean_rooms": 2,
+    "good_location": 1,
+    "friendly_staff": 2
+  },
+  "negative_themes": {
+    "dirty_rooms": 2,
+    "noise": 1
+  }
+}

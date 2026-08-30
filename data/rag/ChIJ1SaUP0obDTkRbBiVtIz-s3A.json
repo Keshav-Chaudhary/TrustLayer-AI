@@ -1,0 +1,55 @@
+{
+  "hotel_id": "ChIJ1SaUP0obDTkRbBiVtIz-s3A",
+  "hotel_name": "Treebo Elegant Palace",
+  "area": "New Delhi",
+  "budget_category": "Luxury",
+  "rating": 3.7,
+  "trust_score": 0.6208117255356207,
+  "travel_purpose_tags": [
+    "Leisure"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "moderate",
+    "review_count": 5,
+    "positive_snippet_count": 2,
+    "negative_snippet_count": 3,
+    "positive_theme_count": 5,
+    "negative_theme_count": 3
+  },
+  "aspect_scores": {
+    "cleanliness": 0.5001247453910763,
+    "service": 0.500133002831717,
+    "location": 0.9998612403869628,
+    "value_for_money": 0.5001412602723576,
+    "staff_behavior": 0.6666423829544025
+  },
+  "recommendation_features": {
+    "popularity_score": 0.4043640369818747,
+    "rating_score": 3.7,
+    "sentiment_score": 0.5946799358003773
+  },
+  "review_evidence": {
+    "positive_snippets": [
+      "Holiday |\n\nFamily\n\nWe had a good experience at this hotel. Our family stayed for 5 days and everything went smoothly. The complimentary breakfast was nice, drinking water was provided free of cost throughout our stay. Hot showers were available 24/7. Special thanks to Mr. Sachin and the staff for being so attentive and prompt in fulfilling our requests. Initially, the bedsheets provided were not up to the mark, but when we asked for a change, they immediately replaced them without any hesitation.\n\nOverall, the service was good, and the staff were courteous and helpful. We truly would recommend this hotel to others.\n\nRooms: 5/5 |\n\nService: 5/5 |\n\nLocatio\n\n5/5",
+      "Wonderful Experience at Hotel Elegant Palace  delhi\nI recently had the pleasure of staying at your hotel, and I wanted to express my appreciation for the exceptional service and hospitality provided during my visit.\nFrom the moment I arrived, the staff was welcoming, courteous, and attentive to all my needs. The rooms were impeccably clean, well-maintained, and offered great comfort. I was particularly impressed by [staff behaviour, service, the quality of breakfast, room amenities, or the location's convenience].\nThe overall experience exceeded my expectations, and I truly felt valued as a guest. Thank you for making my stay memorable. I will definitely recommend Hotel Elegant Palace to friends and family and look forward to visiting again in the future."
+    ],
+    "negative_snippets": [
+      "I stayed at Treebo Elegant Palace and my experience was extremely disappointing.\n\nThe room condition was very poor. There was no water supply, and the TV was not working despite complaining 3\u20134 times to the staff. No action was taken. The bed sheets were used and unclean, clearly not changed before allotting the room.\n\nThe food quality was third class and highly unhygienic. Food was served in dirty and used plates, which is unacceptable for any hotel. I have photographic evidence of this. There is no parking facility, which caused further inconvenience.\n\nThe staff was unprofessional, careless, and unresponsive throughout my stay. This hotel does not meet even basic hospitality standards and seriously damages the Treebo brand image.\n\nOverall, this is a third-class hotel with third-class service. I strongly do not recommend this property to anyone.",
+      "Their service here is so cheap regarding timing, they lie to the customer while providing hotel room that check in is at 12 pm and checkout is at 11 am the next day!! Which is the same timing for all the hotels! But these people first ask the customer about the timing, when will your checkout be available, if the customer says that it is late night then they even increase the price, and if the customer is told a lesser price and given a room, then they provide him a servants' room, which is not working till then, then these people get the checkout done at 2-3 pm and call at 8 pm saying that your timing is written that your checkout is at 8 o'clock on the same day, whereas the customer never says such a thing. Their services are very cheap! Even the jetsprays of their washrooms are not working, they are broken, water leakage keeps happening since then!! I would recommend that no one should visit here, they take money by making people crazy.",
+      "Good hotel by the name of Elegance Palace operating under the banner of Treebo. Total 16 rooms on offer on 2nd and 3rd floor. 3 Double bed rooms are of bigger size called Mapple rooms, rest 13 DB rooms are  Oak rooms. Tariff of both different. 3rd floor is half open/covered where buffet breakfast, lunch are served. They provide food on demand. Parking on the road in front."
+    ]
+  },
+  "review_summary": "Based on 5 reviews.",
+  "positive_themes": {
+    "friendly_staff": 3,
+    "good_food": 4,
+    "clean_rooms": 2,
+    "good_location": 1,
+    "great_value": 2
+  },
+  "negative_themes": {
+    "dirty_rooms": 1,
+    "rude_staff": 1,
+    "parking_issues": 2
+  }
+}

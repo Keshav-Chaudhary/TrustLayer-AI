@@ -1,0 +1,51 @@
+{
+  "hotel_id": "ChIJdwQosSwhDTkRemMOwhgmgNM",
+  "hotel_name": "Stayvista At Brookvale Manor | Villa With Private Pool",
+  "area": "opposite Mangar",
+  "budget_category": "Budget",
+  "rating": 4.6,
+  "trust_score": 0.7415569065961495,
+  "travel_purpose_tags": [
+    "Leisure"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "moderate",
+    "review_count": 5,
+    "positive_snippet_count": 3,
+    "negative_snippet_count": 1,
+    "positive_theme_count": 4,
+    "negative_theme_count": 1
+  },
+  "aspect_scores": {
+    "cleanliness": 0.5590759254992008,
+    "service": 0.5002543064474593,
+    "location": 0.9995277225971222,
+    "value_for_money": 0.5,
+    "staff_behavior": 0.9994342029094696
+  },
+  "recommendation_features": {
+    "popularity_score": 0.3660129152098967,
+    "rating_score": 4.6,
+    "sentiment_score": 0.6237082032370381
+  },
+  "review_evidence": {
+    "positive_snippets": [
+      "I recently stayed at Asante Farms and had a generally pleasant experience. The location is decently accessible and just 1.5 hours from West Delhi. The staff were friendly and accommodating, always ready to assist with any needs or inquiries. The room was comfortable, with all the basic amenities provided, making for a cozy and relaxing stay.\n\nHowever, the overall maintenance of the property left something to be desired. While the room itself was clean, some areas of the property showed signs of wear and tear, which detracted from the overall appeal. The common areas could benefit from more regular upkeep, and a few minor repairs here and there would go a long way in enhancing the overall guest experience.\n\nDespite these maintenance issues, I still enjoyed my stay and has the potential to offer a truly outstanding experience.",
+      "So my friend decided to throw a birthday bash at this farmhouse, and let me tell you \u2014 the moment we entered, my brain just went WOW. The greenery? 10/10. The space? Enough to start a small country. Rooms? So clean and cozy, I almost ditched the party to nap like a baby.\n\nNow let\u2019s talk about the lawn \u2014 MASSIVE. We played cricket like maniacs, and guess what? Cricket balls just kept appearing. It was like a never-ending supply from the universe. Either that or someone planned REALLY well.\n\nEvening rolled in, and we all ended up in the pool, looking like a bunch of soaked happy potatoes. Total vibe.\n\nOh and food? Obviously made us the happiest. So yeah, I could go on and on, but honestly \u2014 this is one of those places you gotta experience to get the full magic. 10/10 would recommend (and crash again).",
+      "We celebrated birthday here with friends. Location is spacious and beautifully maintained. Sandeep was a very kind host, he was very cooperative and helped us have the wonderful stay at this place."
+    ],
+    "negative_snippets": [
+      "Fake photos they have put of the property.\nBig massive property.. but badly managed. When we entered the property at 4.. which is 2 hrs after the check in time it was so untidy.\nCan\u2019t put words to my disappointment. It was so unclean. There is no premium, no art, no class.\n\nOnly saving grace was Sandeep the caretaker who helped us with our stay with good service."
+    ]
+  },
+  "review_summary": "Based on 5 reviews.",
+  "positive_themes": {
+    "clean_rooms": 3,
+    "friendly_staff": 2,
+    "good_location": 3,
+    "good_food": 2
+  },
+  "negative_themes": {
+    "dirty_rooms": 1
+  }
+}

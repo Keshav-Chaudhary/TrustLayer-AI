@@ -1,0 +1,48 @@
+{
+  "hotel_id": "ChIJwV3SeBABDTkRQtfVG9zEhOY",
+  "hotel_name": "Travellers Hotel",
+  "area": "New Delhi",
+  "budget_category": "Mid-Range",
+  "rating": 4.7,
+  "trust_score": 0.8949896218253706,
+  "travel_purpose_tags": [
+    "Leisure",
+    "Business"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "moderate",
+    "review_count": 5,
+    "positive_snippet_count": 3,
+    "negative_snippet_count": 0,
+    "positive_theme_count": 4,
+    "negative_theme_count": 0
+  },
+  "aspect_scores": {
+    "cleanliness": 0.9998698234558104,
+    "service": 0.9998470942179362,
+    "location": 0.999833345413208,
+    "value_for_money": 0.5,
+    "staff_behavior": 0.9998487383127213
+  },
+  "recommendation_features": {
+    "popularity_score": 0.4606791356859033,
+    "rating_score": 4.7,
+    "sentiment_score": 0.999846613407135
+  },
+  "review_evidence": {
+    "positive_snippets": [
+      "The staff here has been very kind and welcoming. I felt very comfortable and relaxed during my stay. Lastly, the food was tasty and it was easy to try different Indian dishes. I would recommend this boutique hotel for a comfortable stay.",
+      "Excellent service. Felt at home. People are cordial. Nice ambience. Tasty food.....I had a pleasant stay... Being a lady, stayed alone....had a secured feel.",
+      "Had a wonderful stay at Travellers Hotel. The rooms are clean and comfortable with nice mattresses and clean linen. The staff is friendly and helpful. The food in the restaurant is great and the service quick."
+    ],
+    "negative_snippets": []
+  },
+  "review_summary": "Based on 5 reviews.",
+  "positive_themes": {
+    "friendly_staff": 4,
+    "good_food": 5,
+    "clean_rooms": 1,
+    "good_location": 1
+  },
+  "negative_themes": {}
+}

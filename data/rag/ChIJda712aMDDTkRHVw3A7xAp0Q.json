@@ -1,0 +1,50 @@
+{
+  "hotel_id": "ChIJda712aMDDTkRHVw3A7xAp0Q",
+  "hotel_name": "Seven Seas Hotel",
+  "area": "New Delhi",
+  "budget_category": "Mid-Range",
+  "rating": 4.3,
+  "trust_score": 0.8652181500467532,
+  "travel_purpose_tags": [
+    "Leisure"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "moderate",
+    "review_count": 5,
+    "positive_snippet_count": 3,
+    "negative_snippet_count": 1,
+    "positive_theme_count": 5,
+    "negative_theme_count": 0
+  },
+  "aspect_scores": {
+    "cleanliness": 0.9998012036085128,
+    "service": 0.5000590500421821,
+    "location": 0.999853104352951,
+    "value_for_money": 0.5000310060568153,
+    "staff_behavior": 0.9998599886894226
+  },
+  "recommendation_features": {
+    "popularity_score": 0.8706418082595164,
+    "rating_score": 4.3,
+    "sentiment_score": 0.7998898314312101
+  },
+  "review_evidence": {
+    "positive_snippets": [
+      "Attended a wedding at Seven Seas Hotel in Rohini and checked out the rooms and overall location\u2014it's super convenient and calm, with a prime spot that's easy to reach from everywhere in Delhi. The rooms are clean and comfy, the ambiance is peaceful even during events, and the staff was friendly and efficient. Great value for a hassle-free stay!",
+      "An absolutely amazing hotel experience. Everything was perfect\u2014from the clean, beautifully designed rooms to the calm and welcoming atmosphere. The staff were incredibly kind and helpful, always making sure we were comfortable. The location was great, and every detail felt well thought out. It truly felt relaxing and luxurious, and I would definitely love to stay here again.",
+      "Beautiful halls. Good sound system.  Clean toilets. Good catering. Being a south Indian, i didn't like the sambhar but they served fantastic tea ( very hard to make it good fir a large gathering is what my experience tells me). So the tea won't me over! Coffee was good too. Had vegetarian sandwiches,  cutlets, paneer tikka and veg puffs as a part of high tea. All were good. The place had a good upmarket vibe."
+    ],
+    "negative_snippets": [
+      "Definitely Not a 5-Star \u2013 Extremely Disappointing Experience\nThis property is absolutely not a 5-star hotel not even close to basic 5-star standards. It was a horrible experience from start to finish.\n\nThe hotel is severely understaffed, and the service is shockingly poor. No one responds to requests, even after repeatedly calling. I\u2019m not exaggerating \u2014 I had to call nearly 50 times and still received no proper response. That level of negligence is unacceptable for any hotel, especially one claiming to be luxury.\n\nStaying here felt like a complete waste of time and money. If you\u2019re planning a trip, I strongly suggest spending a little more and choosing a better property where service and hospitality actually matter.\nWould definitely not recommend.\nCheck In Date 18th Feb\nCheck Out Date 19th Feb"
+    ]
+  },
+  "review_summary": "Based on 5 reviews.",
+  "positive_themes": {
+    "clean_rooms": 4,
+    "friendly_staff": 4,
+    "good_location": 3,
+    "great_value": 1,
+    "good_food": 1
+  },
+  "negative_themes": {}
+}

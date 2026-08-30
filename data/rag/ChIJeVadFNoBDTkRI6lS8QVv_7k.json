@@ -1,0 +1,47 @@
+{
+  "hotel_id": "ChIJeVadFNoBDTkRI6lS8QVv_7k",
+  "hotel_name": "Hotel Aananda",
+  "area": "Adarsh Nagar",
+  "budget_category": "Mid-Range",
+  "rating": 3.9,
+  "trust_score": 0.4225827548478744,
+  "travel_purpose_tags": [
+    "Budget"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "moderate",
+    "review_count": 3,
+    "positive_snippet_count": 2,
+    "negative_snippet_count": 1,
+    "positive_theme_count": 3,
+    "negative_theme_count": 0
+  },
+  "aspect_scores": {
+    "cleanliness": 0.0004179697571089,
+    "service": 0.0003878198040183,
+    "location": 0.0003878198040183,
+    "value_for_money": 0.0004481197101995,
+    "staff_behavior": 0.5
+  },
+  "recommendation_features": {
+    "popularity_score": 0.2387706575481475,
+    "rating_score": 3.9,
+    "sentiment_score": 0.0004179697571089
+  },
+  "review_evidence": {
+    "positive_snippets": [
+      "Not good room not clean\n\nService not good\n\nLocation aera not clean.",
+      "Afssr khan"
+    ],
+    "negative_snippets": [
+      "Very bad hotel at the cost given. Bathroom didn't have lock, it's broken. There are lot of empty rooms but they have that one. No bucket for bath either, we had to go to next room to take it. The rooms are not maintained in cleanliness. Previous visitor hair is on the blanket. Bathrooms are not maintained well, they are old plus not cleaned well. Not worthy at the price. It should be 700 Rs hotel, not 1500."
+    ]
+  },
+  "review_summary": "Based on 3 reviews.",
+  "positive_themes": {
+    "clean_rooms": 2,
+    "good_location": 1,
+    "great_value": 1
+  },
+  "negative_themes": {}
+}

@@ -1,0 +1,52 @@
+{
+  "hotel_id": "ChIJkfHo0wEbDTkRUlBuTJv40mE",
+  "hotel_name": "Townhouse Aerosky Grand Near Dwarka Sector 21 Metro Station",
+  "area": "Dwarka",
+  "budget_category": "Mid-Range",
+  "rating": 3.8,
+  "trust_score": 0.4606839751925674,
+  "travel_purpose_tags": [
+    "Budget"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "moderate",
+    "review_count": 5,
+    "positive_snippet_count": 1,
+    "negative_snippet_count": 3,
+    "positive_theme_count": 4,
+    "negative_theme_count": 2
+  },
+  "aspect_scores": {
+    "cleanliness": 0.0274935931083745,
+    "service": 0.0206172900725504,
+    "location": 0.0810578912496566,
+    "value_for_money": 0.0008592640515416,
+    "staff_behavior": 0.0810578912496566
+  },
+  "recommendation_features": {
+    "popularity_score": 0.4559389939601579,
+    "rating_score": 3.8,
+    "sentiment_score": 0.0167293135484214
+  },
+  "review_evidence": {
+    "positive_snippets": [
+      "Overall this hotel is a decent option to stay with following pros and cons :\nCons:\n1. Room Food Delivery services are slow\n2. Room Cleaning services are slow and not regular\n3. Blankets and pillows are not properly cleaned. You may need to ask to change them when you check in and but then again there is a possibility that they may again not be cleaned properly and have faded strains.\n4. Bed sheets, blanket covers and towels have little burn kind of holes in them.\n5. You have to ask for toilet papers rolls, tissues and hand wash liquid for bathroom, you may not get them in your room on check in.\n6. Bed makes little noise so need repair\n\nPros:\n1. Food delivery is slow but you get what you order for sure (properly with instructions)\n2. Hot and cold water facilities in bathroom are very accurate.\n3. Washrooms including toilet seats are cleaned.\n3. Market is very near.\n4. Extremely easy access to Public transport options like Tuk tuks, autos, buses or cabs.\n5. Food is good\n6. Hotel staff is polite and courtesies."
+    ],
+    "negative_snippets": [
+      "The room size was big but it was not thoroughly cleaned. The bathroom and all. Even the bedsheet and the comforter was visibly stained and dirty and to add the cherry on the cake, those were not changed even after telling them 3-4 times. Negligible and extremely negligent service. No toiletries given. No towels. The property was okay-very basic but doable\nNothing fancy but works for a night or two. The worst part was their service and maintenance. Enormously lacking in both aspects.",
+      "The rooms are not but not as per the price charged.\nThe whole hotel lacks proper ventilation.\nThere are no windows or exhausts in a room neither they are available in bathrooms.\nThe service and cleanliness is \"okay\".\nThe rooms, at times, do not have proper keys.\nThe air conditioner do not work.\nMirrors are not properly placed.\nThe food is not upto standard. If you want to want to dine out, you will have to commute at least, 6kms.",
+      "The only good thing about this place is that the AC works fine....\nThey give bedsheets that are torn (Palm size) in between.... The 1st room given had a stain right in between the bedsheet ( u can guess what I mean).\nThat was supposedly the biggest room they had which wasn't even cleant and sanitized before giving it to me...\nI requested for an early check in but they charged me for it so clean room is what I shud have got..\nLeaking wash basins and the list cud go on.. Pillows are stained and dirty beyond imagination.. See the pic\nThe only thing right was the Ac working right..."
+    ]
+  },
+  "review_summary": "Based on 5 reviews.",
+  "positive_themes": {
+    "clean_rooms": 5,
+    "friendly_staff": 1,
+    "good_location": 1,
+    "good_food": 2
+  },
+  "negative_themes": {
+    "noise": 1,
+    "dirty_rooms": 2
+  }
+}

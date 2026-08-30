@@ -1,0 +1,50 @@
+{
+  "hotel_id": "ChIJBzhabYMFDTkRwDDnvz1r_Ms",
+  "hotel_name": "Hotel Primeland",
+  "area": "New Delhi",
+  "budget_category": "Mid-Range",
+  "rating": 3.9,
+  "trust_score": 0.5421931385940656,
+  "travel_purpose_tags": [
+    "Budget"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "moderate",
+    "review_count": 5,
+    "positive_snippet_count": 1,
+    "negative_snippet_count": 3,
+    "positive_theme_count": 3,
+    "negative_theme_count": 1
+  },
+  "aspect_scores": {
+    "cleanliness": 0.0006008581840433,
+    "service": 0.0007186499424278,
+    "location": 0.5,
+    "value_for_money": 0.9995102882385254,
+    "staff_behavior": 0.0004924949704824
+  },
+  "recommendation_features": {
+    "popularity_score": 0.5012416416592678,
+    "rating_score": 3.9,
+    "sentiment_score": 0.2003412846184801
+  },
+  "review_evidence": {
+    "positive_snippets": [
+      "Overall a good experience. Rooms were neat and maintained with decent space. The hotel had parking space for vehicles. A slightly higher on cost part, but it's a good hotel for stay. Matrices were also of good quality and are not spring matrices which are normally used in regular hotels. Recommended."
+    ],
+    "negative_snippets": [
+      "Hotel rooms are shabby and full of mosquitos..Bathroom is full of ants.Staff is lathargic.Room not getting cleaned if you do not tell.Bad experience.",
+      "I had very bad experience in hotel. The whole staff take marijuana . I saw that they take marijuana in hotel kitchen . No good clening in room . They use mope in toilet and then same mope in room also . Dont go there , very unhygienic rooms are there .",
+      "Poor service and cleaning. I got dinner after 1 hr. In the night after taking 2-3 follow up. I called kitchen 8am in the morning for breakfast but till 9am it was not given so i went out without breakfast. I specifically included the breakfast in my room tariff\u2019s which was not provided. Also the are cheating the customer by not providing the breakfast. Poor service. Don\u2019t visit this property"
+    ]
+  },
+  "review_summary": "Based on 5 reviews.",
+  "positive_themes": {
+    "clean_rooms": 3,
+    "friendly_staff": 3,
+    "good_food": 1
+  },
+  "negative_themes": {
+    "parking_issues": 1
+  }
+}

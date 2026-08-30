@@ -1,0 +1,51 @@
+{
+  "hotel_id": "ChIJnQozcn8_DTkR60f2nzOlM_M",
+  "hotel_name": "Hotel Rbs Inn",
+  "area": "Imt Manesar",
+  "budget_category": "Budget",
+  "rating": 3.9,
+  "trust_score": 0.7440122789090647,
+  "travel_purpose_tags": [
+    "Business"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "moderate",
+    "review_count": 5,
+    "positive_snippet_count": 2,
+    "negative_snippet_count": 3,
+    "positive_theme_count": 3,
+    "negative_theme_count": 1
+  },
+  "aspect_scores": {
+    "cleanliness": 0.5,
+    "service": 0.7498461140348809,
+    "location": 0.5,
+    "value_for_money": 0.5,
+    "staff_behavior": 0.999596913655599
+  },
+  "recommendation_features": {
+    "popularity_score": 0.5509887255400446,
+    "rating_score": 3.9,
+    "sentiment_score": 0.7997537241899408
+  },
+  "review_evidence": {
+    "positive_snippets": [
+      "Stayed here for 2 days the services were really good and the front office team was really helpful regarding everything they even helped us for our cabs and transportation,ms Jyoti from the front desk was very obedient and well mannered she even helped us for medical assistance,even Mr Abhishek from the front desk was available through our the night and was very keen about the services and even brought us food.",
+      "Very big and spacious rooms with all facilities   Staff is really very good and helpful.  Tasty and delicious food,  you can ask for whatever you want to eat. Good for family and official stays.\nOwner Mr. Vikas is very helpful. Thanks for your great service Mr. Vikas."
+    ],
+    "negative_snippets": [
+      "I had booked the room for two days, but the very first hour of the first day was terrible. The TV in the room wasn't working, and the room service was absolutely awful... They didn't even provide me with drinking water, and when I finally got some after calling an hour later, it wasn't fit to drink. The water bottle was full of dirt. When I complained, I was told, \"We drink it, so you can drink it too.\"",
+      "Rooms are not so good, the staff is well behaved and I like the food of this hotel.",
+      "Hotel Rbs Inn is a pleasant and modern property with nice rooms. It is located in Sector 8, Manesar. The property is close to tourist attractions like Jain Mandir, Hanuman Mandir, and Karma Lakelands. The property has pleasant rooms with tasteful wooden furniture and neutrally-toned walls. The corridor is bright and well-lit. The reception is charming and pretty. It boasts of an in-house restaurant. There is a conference room too. The rooms here have AC, TV, king-sized beds. Other facilities provided by the property include CCTV security, parking, card payment, and power backup. There is a kitchen too"
+    ]
+  },
+  "review_summary": "Based on 5 reviews.",
+  "positive_themes": {
+    "friendly_staff": 3,
+    "good_food": 3,
+    "good_location": 1
+  },
+  "negative_themes": {
+    "parking_issues": 1
+  }
+}

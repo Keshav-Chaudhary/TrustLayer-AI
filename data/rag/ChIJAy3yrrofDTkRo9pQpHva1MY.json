@@ -1,0 +1,50 @@
+{
+  "hotel_id": "ChIJAy3yrrofDTkRo9pQpHva1MY",
+  "hotel_name": "Aroma Hotel",
+  "area": "Sultanpur",
+  "budget_category": "Mid-Range",
+  "rating": 4.5,
+  "trust_score": 0.729565522490104,
+  "travel_purpose_tags": [
+    "Leisure"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "moderate",
+    "review_count": 5,
+    "positive_snippet_count": 3,
+    "negative_snippet_count": 1,
+    "positive_theme_count": 5,
+    "negative_theme_count": 0
+  },
+  "aspect_scores": {
+    "cleanliness": 0.9998186528682708,
+    "service": 0.5013998503563925,
+    "location": 0.9997817873954772,
+    "value_for_money": 0.5013998503563925,
+    "staff_behavior": 0.6398386559914797
+  },
+  "recommendation_features": {
+    "popularity_score": 0.3479389680186449,
+    "rating_score": 4.5,
+    "sentiment_score": 0.6398386559914797
+  },
+  "review_evidence": {
+    "positive_snippets": [
+      "Great!\nhave very good and genuine experience hotel staff was too cooperative things was on time the best part was I have lost my second mobile was there they called me to take away ...... amazing\nHave try once to traveller's \u2764\ufe0f",
+      "\"My stay at Hotel Aroma in Sultanpur was truly fantastic and exceeded expectations for its price point.\n\u200bThe location is unmatched; being right next to the Sultanpur Metro Station made navigating Delhi effortless, whether for business or sightseeing.\n\u200bThe room was immaculate\u2014clean, comfortable, and surprisingly quiet despite the proximity to the main road. The soundproofing was excellent, ensuring a perfect night\u2019s sleep.\n\u200bWhat truly set this hotel apart was the staff. They were attentive, professional, and genuinely warm. The check-in process was smooth, and room service was fast and delicious (highly recommend the breakfast!).\n\u200bIf you are looking for unbeatable value for money, a safe, clean environment, and hospitality that goes the extra mile, Hotel Aroma is the place to book. Highly, highly recommended!\"",
+      "Had a really great experience at this hotel \u2728\nThe rooms were clean and comfortable, and the staff was friendly and very helpful.\nA perfect place to stay with family or friends \ud83d\udc4d\nWould definitely love to visit again!"
+    ],
+    "negative_snippets": [
+      "CHOOSE THIS HOTEL IF YOU REALLY WANT TO TROUBLE YOURSELF. Had a worst experience not once but twice at this hotel. My Family booked this hotel for my brother's wedding and the staff assured us of great service. From the first day when our guests checked in till their last day, there were electricity issues and water issues in the rooms. When they complained about it then the hotel staff had no answers. The manager assured that this was a one-time mistake and won't be repeated. But when our guests came back to the hotel they had to again face the same issues. Not water in the washrooms, no electricity in room, no water bottles in the room. When all of this fiasco ended we went back to the manager and he in return started abusing my family members only and refused to settle our money. WORST HOTEL TO STAY IN"
+    ]
+  },
+  "review_summary": "Based on 5 reviews.",
+  "positive_themes": {
+    "friendly_staff": 5,
+    "clean_rooms": 3,
+    "good_location": 1,
+    "great_value": 1,
+    "good_food": 1
+  },
+  "negative_themes": {}
+}

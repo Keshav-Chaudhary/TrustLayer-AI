@@ -1,0 +1,50 @@
+{
+  "hotel_id": "ChIJ7Q6BTxMFDTkRFnrFY18zdcU",
+  "hotel_name": "Oyo Hotel Manali",
+  "area": "Dwarka",
+  "budget_category": "Budget",
+  "rating": 3.1,
+  "trust_score": 0.3580114261142984,
+  "travel_purpose_tags": [
+    "Budget"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "moderate",
+    "review_count": 5,
+    "positive_snippet_count": 0,
+    "negative_snippet_count": 3,
+    "positive_theme_count": 4,
+    "negative_theme_count": 2
+  },
+  "aspect_scores": {
+    "cleanliness": 0.0013578425496234,
+    "service": 0.0005008971929782,
+    "location": 0.5,
+    "value_for_money": 0.0007909736596047,
+    "staff_behavior": 0.0006175034068291
+  },
+  "recommendation_features": {
+    "popularity_score": 0.4341186759487797,
+    "rating_score": 3.1,
+    "sentiment_score": 0.0011284381849691
+  },
+  "review_evidence": {
+    "positive_snippets": [],
+    "negative_snippets": [
+      "I booked online this hotel , with no refund they denied to accept my booking. They charged me extra 1200. Room was dirty , wet bed sheets. Dirty washroom. Even you are not secure with privacy. Don't go with nearones. They are thugs. I request to everyone.",
+      "worst hotel i ever seen do not go. there staff behavior is not good dirty mind people . there behavior is not healthy. if you paid full amount from oyo app they again need 300 rupees extra for you.\nroom is so dirty. not hygienic and i already register compliment against them in oyo head quarter. & spaciously when you leave from hotel they snatch your phone & give rating by self to there hotel.each every worker who work in this hotel is from Bihar . Worst hotel .please do not book this hotel.",
+      "The worst Oyo hotel I ever saw. I booked a  classic double room but the hotel gave me a standard double room. when I ask for the same the person told me that, the room will be hotter in the afternoon because the AC was not working. I told him that's not my concern AC not working. Then he offered me the standard room. I take that but after some time I found there was no running water in the tap I complain to the reception personal. He told me that \"yesterday we forgot to switch on the water pump so you had to adjust\" but I tell him \"I am not going to take that room\". After some time he gave me another room and told me the last room I have.\nI take the room and found that the bathroom was smelling very bad. The linen of the bed was filthy and dirty.\nSomehow I manage and  check out in the evening to find another good hotel.\n\nThis hotel was a waste of money and time.\nI felt cheated about what they give me the room of lower grade.\nThe staff was very rude and not polite.\nThe room and bed were dirty.\nFriends Never book this hotel you will regret as I do. So think before booking."
+    ]
+  },
+  "review_summary": "Based on 5 reviews.",
+  "positive_themes": {
+    "good_location": 1,
+    "friendly_staff": 2,
+    "good_food": 1,
+    "clean_rooms": 1
+  },
+  "negative_themes": {
+    "dirty_rooms": 4,
+    "rude_staff": 1
+  }
+}

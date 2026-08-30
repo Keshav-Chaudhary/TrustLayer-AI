@@ -1,0 +1,48 @@
+{
+  "hotel_id": "ChIJlSDVKPIbDTkRFxNNJseitTI",
+  "hotel_name": "Hotel O Downtown",
+  "area": "New Delhi",
+  "budget_category": "Mid-Range",
+  "rating": 3.6,
+  "trust_score": 0.5343892235552328,
+  "travel_purpose_tags": [
+    "Budget"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "moderate",
+    "review_count": 5,
+    "positive_snippet_count": 2,
+    "negative_snippet_count": 3,
+    "positive_theme_count": 2,
+    "negative_theme_count": 0
+  },
+  "aspect_scores": {
+    "cleanliness": 0.5,
+    "service": 0.5000562567583984,
+    "location": 0.0002017107035499,
+    "value_for_money": 0.5497399680316448,
+    "staff_behavior": 0.6997869883974394
+  },
+  "recommendation_features": {
+    "popularity_score": 0.3226247091360448,
+    "rating_score": 3.6,
+    "sentiment_score": 0.4199588320567272
+  },
+  "review_evidence": {
+    "positive_snippets": [
+      "After conducting research I selection hotel downtown. Best hotel for couples, staff is good and safe place. Price is very low according to other..",
+      "I had a wonderful stay at this hotel! The staff were incredibly friendly, attentive, and always ready to help with anything I needed. Excellent service that truly made a difference!\""
+    ],
+    "negative_snippets": [
+      "One of the worst experience I have ever had in Delhi...Even after multiple phone calls for confirmation on booking the guy at the counter declined and asked me to pay extra saying that the hotel only accomodates couple and that too for 2-3 hours stay...is this a pleasure centre or a hotel...I booked for 2 days accomodation from booking.com... Also the customer service at booking.com was worse...they asked me to wait for 45 mins as the person at the counter is not picking up the call...and the guy at the counter was laughing saying he will not pick the call...after 45 mins they send a mail saying that the booking is cancelled and I can book at an alternative venue...this is after 45 mins of waiting",
+      "This is the worst hotel in the history of hotels. Very unhygienic, not just the hotel and the rooms, even the location of the hotel is unhygienic and unsafe. Not to mention their prices, which is unbelievably high for the services they provided.\n\nEven if you have to sleep on the streets, DO NOT GO THERE!!!",
+      "This Hotel Is Totally Fraud Please Do Go There\n\nOnce you Reach They Will Ask You Extra GST and Very High Early Check In and Check Out Charges Charges\n\nThis Room Is Actually 699 Price But They Will Charge You 1000+ Gst + Early Check In + Early Check Out Charges Which Cost You Very High\n\nI Recommend To Book Nearby Hotels Where You Will Get Better Room\n\nIn 700-750 Rs And No Other Charges And Very Coperative Staff and Very Nice Looking Hotel Room"
+    ]
+  },
+  "review_summary": "Based on 5 reviews.",
+  "positive_themes": {
+    "friendly_staff": 3,
+    "good_location": 2
+  },
+  "negative_themes": {}
+}

@@ -1,0 +1,49 @@
+{
+  "hotel_id": "ChIJkf5hPkEcDTkRkw-x73G9OyM",
+  "hotel_name": "Hotel Smart Plaza Delhi Airport",
+  "area": "Mahipalpur",
+  "budget_category": "Mid-Range",
+  "rating": 4.2,
+  "trust_score": 0.5746742167498865,
+  "travel_purpose_tags": [
+    "Budget"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "moderate",
+    "review_count": 5,
+    "positive_snippet_count": 0,
+    "negative_snippet_count": 3,
+    "positive_theme_count": 3,
+    "negative_theme_count": 2
+  },
+  "aspect_scores": {
+    "cleanliness": 0.0003300358512205,
+    "service": 0.5,
+    "location": 0.0003531211405061,
+    "value_for_money": 0.5,
+    "staff_behavior": 0.0003196456236764
+  },
+  "recommendation_features": {
+    "popularity_score": 0.7655858483067426,
+    "rating_score": 4.2,
+    "sentiment_score": 0.0009197402192512
+  },
+  "review_evidence": {
+    "positive_snippets": [],
+    "negative_snippets": [
+      "I'm extremely disappointed with my recent stay at this hotel. The room and overall hotel hygiene were appalling. Walls had stains, bedsheets had cigarette burns, and the bathroom was smelly. The washbasin tap was too high, and the sink was too small, causing water to splash everywhere. Only the breakfast was decent. \ud83d\ude14\n\nRating: 1/5 stars\n\nWouldn't recommend due to poor maintenance and cleanliness. \ud83d\udeab",
+      "Dear all,\n\nI booked this hotel for 5 days through the Goibibo app. Unfortunately, my experience was very bad.\n\nThe hotel is showing fake photos of rooms online. The actual rooms are completely different from what is shown in the app. I strongly advise not to trust online photos and not to make full payment online. If anyone still plans to stay here, please pay only at check-in after physically verifying the room.\n\nThe hotel staff behavior is also not good and unprofessional.\n\nAdditionally, Goibibo\u2019s reviews seem to be fake and paid reviews. It looks like they are only focused on business, not customer trust. Because I trusted both the hotel and Goibibo, I lost \u20b911,500.\n\nImportant Note:\nThis hotel is not a safe and secure place, especially for families.\n\nBoth the hotel and Goibibo are misleading customers. Please be careful.\n\nThey goibio please stoped or lock my review block also kindly became full",
+      "We have sent clients to Smart Plaza last week. They complaint about following\n1. No wash basin / sink in dining room. Hotrl has had allocated a toilet to wash hands. This is totally unacceptable and againt hotel standards in any place. Hope you would correct this immediately by fixing a sink in dining area.\n\n2. They stayed 3 nights. 1st night, children has been provided. Good food. But 2-3 rd days,  dinners were mostly veg. Even though the kicken provided, it has taken 20 min to fill the plates again\n\n3. Dining area is very small. Only 6-7 tables. Most people have eaten standing. This I alsp have experienced in your hotel in Feb."
+    ]
+  },
+  "review_summary": "Based on 5 reviews.",
+  "positive_themes": {
+    "clean_rooms": 2,
+    "good_food": 2,
+    "friendly_staff": 1
+  },
+  "negative_themes": {
+    "dirty_rooms": 3,
+    "rude_staff": 2
+  }
+}

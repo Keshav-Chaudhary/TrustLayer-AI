@@ -1,0 +1,46 @@
+{
+  "hotel_id": "ChIJUQXBdgXdDDkRanjpvTLK7f0",
+  "hotel_name": "Hotel O Aroma Inn",
+  "area": "New Industrial Township",
+  "budget_category": "Budget",
+  "rating": 4.6,
+  "trust_score": 0.749163981780562,
+  "travel_purpose_tags": [
+    "Budget"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "sparse",
+    "review_count": 5,
+    "positive_snippet_count": 3,
+    "negative_snippet_count": 1,
+    "positive_theme_count": 1,
+    "negative_theme_count": 0
+  },
+  "aspect_scores": {
+    "cleanliness": 0.5,
+    "service": 0.0002720031479839,
+    "location": 0.5,
+    "value_for_money": 0.5,
+    "staff_behavior": 0.9993959665298462
+  },
+  "recommendation_features": {
+    "popularity_score": 0.2143472170767782,
+    "rating_score": 4.6,
+    "sentiment_score": 0.7486621060306788
+  },
+  "review_evidence": {
+    "positive_snippets": [
+      "Best place to stay in Faridabad\nStaff is very good",
+      "Nice  stay with Family nd All,s Good",
+      "Very good"
+    ],
+    "negative_snippets": [
+      "After reaching they asked cancel full paid booking and payment again. Poor service. Don't go for suprise"
+    ]
+  },
+  "review_summary": "Based on 5 reviews.",
+  "positive_themes": {
+    "friendly_staff": 1
+  },
+  "negative_themes": {}
+}

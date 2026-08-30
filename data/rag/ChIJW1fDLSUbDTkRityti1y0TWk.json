@@ -1,0 +1,53 @@
+{
+  "hotel_id": "ChIJW1fDLSUbDTkRityti1y0TWk",
+  "hotel_name": "Hotel Arch Plaza - Near Iicc Yashobhoomi",
+  "area": "Kapas Hera",
+  "budget_category": "Mid-Range",
+  "rating": 4.5,
+  "trust_score": 0.7799735434142607,
+  "travel_purpose_tags": [
+    "Budget"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "rich",
+    "review_count": 5,
+    "positive_snippet_count": 3,
+    "negative_snippet_count": 2,
+    "positive_theme_count": 5,
+    "negative_theme_count": 1
+  },
+  "aspect_scores": {
+    "cleanliness": 0.5000671053858241,
+    "service": 0.9986470341682434,
+    "location": 0.6658030486723873,
+    "value_for_money": 0.0002541353169362,
+    "staff_behavior": 0.6659496613816979
+  },
+  "recommendation_features": {
+    "popularity_score": 0.6453402819333671,
+    "rating_score": 4.5,
+    "sentiment_score": 0.5995688274560962
+  },
+  "review_evidence": {
+    "positive_snippets": [
+      "I had a very pleasant stay at Hotel Arch Plaza, Delhi. The rooms were neat, clean, and well-maintained, which made the stay comfortable and relaxing. The food quality was excellent\u2014fresh, tasty, and hygienic.\n\nA special thanks to Manager Trilok Ji for his warm hospitality and helpful nature. He was very supportive and ensured everything was well arranged throughout our stay.\n\nOverall, a great experience with good service, clean rooms, and delicious food. Highly recommended for anyone visiting Delhi.",
+      "We stayed in suite for 2 nights. Rooms were comfortable with all basic amenities.\nStaff was cooperative and service was prompt.\nLocation is near the main road. Best place if you want to stay near airport/Yashobhoomi conventioncentre.  Hotel is 10-15 min away from Yashobhoomi convention centre.\nRestaurant has a limited menu. We tried mushroom tikka, dal khichdi, veg fried rice, veg manchurian, cream of mushroom and veg manchow soup. All items were delicious.\nBuffet breakfast is not very elaborate, but tasty and sufficient. Bread/toast, sandwich, cut fruits, tea/coffee, corn flakes, chocos, north indian item(chole bhature/chana paratha), south indian dish(medu vada/idli), pasta/poha, egg (boiled, omlette) were available.\nOverall a nice experience, a must stay in Dwarka area.",
+      "Very comfortable room, got hot water. Breakfast are great. Services are truly tip top. Pleasant stay \ud83d\ude0a Location wise suitable near to airport"
+    ],
+    "negative_snippets": [
+      "This hotel is not worth your time or money, especially if you\u2019re coming from Europe and have basic expectations around transparency and cleanliness.\n\nThe most frustrating part was the constant price switching. For example, we asked about ironing before handing over our clothes and were told it would cost 25 rupees for steam ironing. When the clothes were returned-over an hour late-the price suddenly became 60 rupees per item. The same thing happened with airport transport: the evening before, we were told the taxi would cost 600 rupees total. In the morning, that turned into 600 rupees per person. To make it worse, they simply ordered an Uber, which we later saw would have cost around 300 rupees if booked directly.\n\nThe rooms were another major issue. There were no windows, a strong unpleasant smell, and visible mold. The shower head wasn\u2019t working, and the carpets, decorative pillows, and blankets were clearly dirty.\n\nThe only positive was the breakfast, which was tasty- but even that was poorly managed. Thats the only reason for 2 starts vs 1. Breakfast is supposedly served until 10:30, yet when we came at 10:00 on our second day, they were not serving anything.\n\nOverall, the experience felt misleading and poorly maintained. I would not recommend staying here.",
+      "3rd class hotel and more worst the staff.\nToday only my guest reached at hotel and they said sir hotel is fully booked though I have confirmation in advance from reservation team.\n\nThen again game changed that other person from reservation team said me that there is pipeline related issue whereas my guests told me that the staff said hotel is fully booked.\n\nBogus and worst staff and mismanagement at next level they are making fool and big lier.\n\nBetter anyone should book guest house rather than this hotel."
+    ]
+  },
+  "review_summary": "Based on 5 reviews.",
+  "positive_themes": {
+    "clean_rooms": 2,
+    "friendly_staff": 3,
+    "good_food": 4,
+    "good_location": 2,
+    "great_value": 1
+  },
+  "negative_themes": {
+    "dirty_rooms": 1
+  }
+}

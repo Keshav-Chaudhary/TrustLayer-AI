@@ -1,0 +1,49 @@
+{
+  "hotel_id": "ChIJ77cDh5H9DDkRw4eomzQsdh4",
+  "hotel_name": "Hotel O The Signature Stay",
+  "area": "GTB Nagar",
+  "budget_category": "Budget",
+  "rating": 3.3,
+  "trust_score": 0.3809521881921165,
+  "travel_purpose_tags": [
+    "Budget"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "moderate",
+    "review_count": 5,
+    "positive_snippet_count": 0,
+    "negative_snippet_count": 3,
+    "positive_theme_count": 3,
+    "negative_theme_count": 2
+  },
+  "aspect_scores": {
+    "cleanliness": 0.0005895441863685,
+    "service": 0.0112354820594191,
+    "location": 0.0057931612245737,
+    "value_for_money": 0.0058876460825558,
+    "staff_behavior": 0.0040674712508916
+  },
+  "recommendation_features": {
+    "popularity_score": 0.4146543594633962,
+    "rating_score": 3.3,
+    "sentiment_score": 0.0026763004250823
+  },
+  "review_evidence": {
+    "positive_snippets": [],
+    "negative_snippets": [
+      "I had a very bad experience at this property. I booked the room through OYO at a confirmed price, but when I reached the hotel, the receptionist denied my check-in saying the booking amount was too low. He demanded three times the booked price and behaved very rudely. The staff was completely mannerless and unprofessional. OYO should take strict action against such properties. Highly disappointed \u2014 not recommended at all.",
+      "This one the ghatiya hotel froads  inke review pe trust na kare . If you will come through online booking app like oyo then they will denied your booking And they will ask you extra amount like 1500 for 2 , 3 hours if you will not agree to pay then they will waste your time . And more then that if you will go directly to them then below 1500 they will not allow you in their hotel and 1500 cost is too much compare other hotel just I want to say in 1000 or 1200 you will get best hotel near by gtb nagar and best hotel and service from them. But not need to go in there hotel signature stay ghatiya staff ghatiya hotel.",
+      "I had booked a hotel online, but when I arrived, they refused to give me a room. I told them I had already paid 25%, but they simply said, \u201cysha room nahi hai.\u201d They didn\u2019t even refund my 25% payment. Instead, they shifted me to another hotel, which was absolutely terrible, it was in a deserted location, the rooms were dirty and there were things that definitely shouldn\u2019t have been there \ud83d\ude05. The bedsheets had filthy stains and they didn\u2019t even bother to change them. Since it was already late at night, I had no choice but to stay and I had to pay extra charges for that hotel as well. In the end, I lost my advance payment and had to book another unsafe and awful hotel. Honestly, it was a horrible experience and I would strongly advise against booking hotels like this, whether online or offline"
+    ]
+  },
+  "review_summary": "Based on 5 reviews.",
+  "positive_themes": {
+    "friendly_staff": 2,
+    "good_location": 2,
+    "clean_rooms": 1
+  },
+  "negative_themes": {
+    "rude_staff": 3,
+    "dirty_rooms": 2
+  }
+}

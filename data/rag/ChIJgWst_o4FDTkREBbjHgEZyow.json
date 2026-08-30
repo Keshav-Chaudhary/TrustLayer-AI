@@ -1,0 +1,47 @@
+{
+  "hotel_id": "ChIJgWst_o4FDTkREBbjHgEZyow",
+  "hotel_name": "Garvik Stay",
+  "area": "New delhi",
+  "budget_category": "Budget",
+  "rating": 4.7,
+  "trust_score": 0.8793493367463772,
+  "travel_purpose_tags": [
+    "Leisure",
+    "Business"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "moderate",
+    "review_count": 5,
+    "positive_snippet_count": 3,
+    "negative_snippet_count": 0,
+    "positive_theme_count": 3,
+    "negative_theme_count": 0
+  },
+  "aspect_scores": {
+    "cleanliness": 0.999838188290596,
+    "service": 0.9998664855957032,
+    "location": 0.9997860789299012,
+    "value_for_money": 0.5,
+    "staff_behavior": 0.9998394697904588
+  },
+  "recommendation_features": {
+    "popularity_score": 0.3871496509632538,
+    "rating_score": 4.7,
+    "sentiment_score": 0.9998437285423278
+  },
+  "review_evidence": {
+    "positive_snippets": [
+      "I had a very pleasant experience at Garvik Stay. The room was clean, comfortable, and well-maintained, which made the stay very relaxing. The location was also convenient and the overall environment felt peaceful.\n\nThe check-in process was smooth, and the agent Rajender was very polite and helpful during check-in. He guided me properly and made the whole process easy.\n\nOverall, it was a great stay and I would definitely consider staying here again in the future.",
+      "Had a wonderful stay at Garvik Stay, Dwarka. The place is clean, comfortable, and very peaceful\u2014perfect for a relaxing stay.\n\nSpecial thanks to Gopal, who made the experience even better. He is extremely polite, helpful, and always ready to assist with a smile. His hospitality really stands out and makes you feel at home.\n\nHighly recommend Garvik Stay to anyone visiting Dwarka. Great service and warm staff!..",
+      "We had a wonderful stay at this property! The atmosphere was cozy and felt just like a home away from home. A huge shoutout to the Shubhojit, who were incredibly welcoming and went out of their way to ensure we were comfortable throughout our visit. Clean rooms, great service, and a lovely vibe. Highly recommended!"
+    ],
+    "negative_snippets": []
+  },
+  "review_summary": "Based on 5 reviews.",
+  "positive_themes": {
+    "clean_rooms": 5,
+    "friendly_staff": 5,
+    "good_location": 1
+  },
+  "negative_themes": {}
+}

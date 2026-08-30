@@ -1,0 +1,48 @@
+{
+  "hotel_id": "ChIJtaHuZ1AZDTkRyrznyfcQis8",
+  "hotel_name": "Hotel Singh Residency Medanta-Best Hotel Near Medanta Hospital Gurgaon",
+  "area": "Sector 39",
+  "budget_category": "Mid-Range",
+  "rating": 4.8,
+  "trust_score": 0.9109511683307564,
+  "travel_purpose_tags": [
+    "Leisure",
+    "Business"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "moderate",
+    "review_count": 5,
+    "positive_snippet_count": 3,
+    "negative_snippet_count": 0,
+    "positive_theme_count": 4,
+    "negative_theme_count": 0
+  },
+  "aspect_scores": {
+    "cleanliness": 0.999875545501709,
+    "service": 0.9998718500137328,
+    "location": 0.9995005428791046,
+    "value_for_money": 0.5,
+    "staff_behavior": 0.999675452709198
+  },
+  "recommendation_features": {
+    "popularity_score": 0.4736033944565699,
+    "rating_score": 4.8,
+    "sentiment_score": 0.9995932698249816
+  },
+  "review_evidence": {
+    "positive_snippets": [
+      "had a wonderful experience at Hotel Singh Residency. The rooms were clean, comfortable, and well-maintained. The location near Medanta Hospital is very convenient. The staff is polite, helpful, and always ready to assist. Food from Urban Eats was delicious with good variety and quality.\n\nSpecial thanks to Mr. Shailendra Singh for his excellent management and hospitality. Truly a great stay and highly recommended for anyone visiting Gurgaon!",
+      "I had an amazing stay at Hotel Singh Residency. The rooms are spacious, clean, and very comfortable. The staff is polite and always ready to help. The food from Urban Eats was freshly prepared and very tasty.\nSpecial thanks to Mr. Shailendra Singh for personally ensuring guests have a smooth and pleasant experience. Highly recommended!",
+      "One of the best hotel niye bai medanta hospital is very close to hotel and tha hotel is much better than other aap bhi aso kbhi"
+    ],
+    "negative_snippets": []
+  },
+  "review_summary": "Based on 5 reviews.",
+  "positive_themes": {
+    "clean_rooms": 2,
+    "friendly_staff": 4,
+    "good_location": 4,
+    "good_food": 3
+  },
+  "negative_themes": {}
+}

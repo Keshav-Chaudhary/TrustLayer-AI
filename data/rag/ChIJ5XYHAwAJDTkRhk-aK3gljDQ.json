@@ -1,0 +1,45 @@
+{
+  "hotel_id": "ChIJ5XYHAwAJDTkRhk-aK3gljDQ",
+  "hotel_name": "The Empire State",
+  "area": "Basant Vihar",
+  "budget_category": "Mid-Range",
+  "rating": 5.0,
+  "trust_score": 0.8832034482586605,
+  "travel_purpose_tags": [
+    "Business"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "moderate",
+    "review_count": 4,
+    "positive_snippet_count": 3,
+    "negative_snippet_count": 0,
+    "positive_theme_count": 2,
+    "negative_theme_count": 0
+  },
+  "aspect_scores": {
+    "cleanliness": 0.999859094619751,
+    "service": 0.9998373985290528,
+    "location": 0.5,
+    "value_for_money": 0.5,
+    "staff_behavior": 0.999859094619751
+  },
+  "recommendation_features": {
+    "popularity_score": 0.223219623947779,
+    "rating_score": 5.0,
+    "sentiment_score": 0.9962106496095656
+  },
+  "review_evidence": {
+    "positive_snippets": [
+      "I just loved the Hotel \ud83e\udd70\ud83e\udd70\nIf you searching a good hotel spacious room then this is best for you.\nReception person is very supportive.\nThank you for your services.",
+      "The hotel room was clean and tidy. All the essentials were provided. The staff was polite and cooperative. Overall my stay was great! Highly recommended!",
+      "I happened to have stayed here, amazing experience in the city. This hotel is located in the heart of Bahadurgarh City."
+    ],
+    "negative_snippets": []
+  },
+  "review_summary": "Based on 4 reviews.",
+  "positive_themes": {
+    "clean_rooms": 1,
+    "friendly_staff": 1
+  },
+  "negative_themes": {}
+}

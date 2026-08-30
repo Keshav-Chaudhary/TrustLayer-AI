@@ -1,0 +1,48 @@
+{
+  "hotel_id": "ChIJG8xOITwZDTkRA5LpEQ9_5hA",
+  "hotel_name": "Hotel O By Oyo Le Regent",
+  "area": "Sector 26",
+  "budget_category": "Budget",
+  "rating": 3.8,
+  "trust_score": 0.5653339392499969,
+  "travel_purpose_tags": [
+    "Leisure"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "moderate",
+    "review_count": 5,
+    "positive_snippet_count": 0,
+    "negative_snippet_count": 3,
+    "positive_theme_count": 2,
+    "negative_theme_count": 2
+  },
+  "aspect_scores": {
+    "cleanliness": 0.0002201292736572,
+    "service": 0.7158511281013489,
+    "location": 0.997940957546234,
+    "value_for_money": 0.5,
+    "staff_behavior": 0.5
+  },
+  "recommendation_features": {
+    "popularity_score": 0.4586771270509036,
+    "rating_score": 3.8,
+    "sentiment_score": 0.3429162751504918
+  },
+  "review_evidence": {
+    "positive_snippets": [],
+    "negative_snippets": [
+      "Worst experience\nReceptionist took Rs.270 cash from me even though i paid all the amount through UPI in advance. The room was smelling like garbage dump because it was their inventory room they shifted us there. I paid Rs.1200 for a room which was smelling like sewer. Very dissapointed.",
+      "Very bad experience, room is not like it shown in photo  . Washroom also very bad.",
+      "The bathroom has cockroaches and the AC was not working properly."
+    ]
+  },
+  "review_summary": "Based on 5 reviews.",
+  "positive_themes": {
+    "good_location": 1,
+    "good_food": 1
+  },
+  "negative_themes": {
+    "dirty_rooms": 1,
+    "parking_issues": 1
+  }
+}

@@ -1,0 +1,55 @@
+{
+  "hotel_id": "ChIJ5-z-Hc_jDDkRZyU2Wz8Mae4",
+  "hotel_name": "Eros Hotel New Delhi Nehru Place",
+  "area": "Nehru Place",
+  "budget_category": "Mid-Range",
+  "rating": 4.3,
+  "trust_score": 0.8531607147249551,
+  "travel_purpose_tags": [
+    "Budget"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "rich",
+    "review_count": 5,
+    "positive_snippet_count": 3,
+    "negative_snippet_count": 2,
+    "positive_theme_count": 5,
+    "negative_theme_count": 3
+  },
+  "aspect_scores": {
+    "cleanliness": 0.5005328877596185,
+    "service": 0.6632914890069515,
+    "location": 0.5694721688050777,
+    "value_for_money": 0.0013959852512925,
+    "staff_behavior": 0.5731505899845312
+  },
+  "recommendation_features": {
+    "popularity_score": 0.9014086677662888,
+    "rating_score": 4.3,
+    "sentiment_score": 0.7415860503446311
+  },
+  "review_evidence": {
+    "positive_snippets": [
+      "I stayed at this hotel as a solo traveler with the Gate 1 tour group, and from the moment I walked in until the moment I left, I was treated like gold! My room was beautiful, spacious, and spotless, with a clean bathroom stocked with plenty of amenities in case you forget anything.\n\nI loved that the TV had access to Netflix, Hulu, and Disney+, which made it easy to unwind after a long day of touring. The breakfast buffet offered a great variety of options, and while I\u2019m a picky eater, I appreciated the made-to-order eggs \u2014 they were perfect.\n\nOverall, I was extremely pleased with my stay and would absolutely recommend this hotel to anyone looking for comfort, great service, and a welcoming atmosphere.",
+      "The hotel staff is wonderful. The breakfast buffet has something for everyone. The location is near shops and an ATM. The rooms are a bit worn, but comfortable. If you are a light sleeper, bring ear plugs the doors are very heavy and because of the stone floors when someone leaves their room the doors slam very loudly.",
+      "Very beautifully decorated currently for Christmas. Love the Pan-Asian, all time favourite and indian (Singh Sahab). Delicious food. Very helpful staff, and polite. Love the golden fried prawns, kung-pao chicken, the chicken Biryani, galauti kebabs, the dry fruit naan (peshawari naan), and so much more."
+    ],
+    "negative_snippets": [
+      "I'm writing this from Room #702, on the last of what has been an incredibly disappointing three-night stay (7th\u201310th October 2025). And honestly, I couldn\u2019t be more relieved to be checking out.\n\nAt first glance, the hotel tries to impress with an old-world charm \u2014 but don't be fooled. Beneath the vintage veneer lies a crumbling, outdated property that seems stuck in a time warp. Everything feels aged beyond comfort, and not in a charming, nostalgic way \u2014 in a neglected, worn-out, why-is-this-still-operating sort of way.\n\nThe location? Smack in the middle of Nehru Place, one of the busiest electronics markets in Delhi. That means relentless honking, chaotic traffic, and a soundtrack of city noise that follows you right into your room, day and night. If sleep is what you're after, prepare for a battle.\n\nBut the real horror show began when I was first given a room on the 4th floor. The moment I stepped out of the elevator, I was hit by the overpowering stench of stale cigarette smoke \u2014 the entire floor reeked like an old ashtray. This, after I\u2019d clearly requested a non-smoking room and was told I had one. I informed the front desk I would cancel my entire stay if not shifted immediately. Only then was I grudgingly moved to the 7th floor.\n\nBut the worst \u2014 and I mean truly revolting \u2014 moment came during breakfast. I asked for a simple black coffee. What I received was served in a mug so filthy, it could have been pulled out of a dumpster. Sticky residue coated the inside and outside, and mysterious debris floated in the coffee itself. I showed it to the staff, expecting outrage, urgency \u2014 anything. Their response? A casual, \"Sorry, let me get you another coffee.\" No concern, no apology worth the name. Honestly, it was a health hazard in plain sight.\n\nFor the price they\u2019re charging, this place is a joke. The service is apathetic, the hygiene appalling, and the ambiance far from what a five-star experience should be. There are far better hotels in Delhi \u2014 cleaner, quieter, and infinitely more professional.\n\nToday, as I pack my bags, I leave not just disappointed, but genuinely baffled that this hotel dares to call itself a luxury property.",
+      "It is a pretty average hotel- aspires to be world class but not so.\nGreat location\nThe current management must work with Hyatt Taj ITC etc to get best in class processes"
+    ]
+  },
+  "review_summary": "Based on 5 reviews.",
+  "positive_themes": {
+    "clean_rooms": 2,
+    "friendly_staff": 4,
+    "good_food": 4,
+    "good_location": 3,
+    "great_value": 1
+  },
+  "negative_themes": {
+    "noise": 2,
+    "dirty_rooms": 1,
+    "bad_food": 1
+  }
+}

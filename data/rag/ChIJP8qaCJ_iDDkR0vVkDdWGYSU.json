@@ -1,0 +1,54 @@
+{
+  "hotel_id": "ChIJP8qaCJ_iDDkR0vVkDdWGYSU",
+  "hotel_name": "Samrat Hotel",
+  "area": "Chanakyapuri",
+  "budget_category": "Mid-Range",
+  "rating": 4.0,
+  "trust_score": 0.688232170151661,
+  "travel_purpose_tags": [
+    "Budget"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "moderate",
+    "review_count": 5,
+    "positive_snippet_count": 2,
+    "negative_snippet_count": 3,
+    "positive_theme_count": 5,
+    "negative_theme_count": 2
+  },
+  "aspect_scores": {
+    "cleanliness": 0.9995661079883577,
+    "service": 0.3334916494301675,
+    "location": 0.3334916494301675,
+    "value_for_money": 0.5001085372059606,
+    "staff_behavior": 0.3336291338976783
+  },
+  "recommendation_features": {
+    "popularity_score": 0.8256244357374625,
+    "rating_score": 4.0,
+    "sentiment_score": 0.4001607243495527
+  },
+  "review_evidence": {
+    "positive_snippets": [
+      "Excellent location . Close to multiple consulates. Rooms are huge, clean and looks up market with a lot of wood. A bit old though.\nDon't have a fully functioning restaurant but room service is quite good. Breakfast also was very good. They have security screening which is very good.  At this price , this is the place to be in",
+      "There are sections of this Hotel undergoing renovation, rooms were clean. Toiletries were premium and other amenities there were functioning well. House keeping staff was swift with their work. Breakfast was very good."
+    ],
+    "negative_snippets": [
+      "This was by far the most disappointing five-star hotel experience I\u2019ve had. The only saving grace was the breakfast, although the options were limited, the items available were quite good.\n\nThe room itself was extremely outdated and poorly maintained. We were given what felt like the worst room possible. I\u2019ve attached images of the broken cupboard, and unfortunately, the rest of the furniture was in a similar condition.\n\nThe extra bed was also of very poor quality, making loud creaking noises every time someone sat, got up, or even turned while sleeping.\n\nThe receptionist (the lady at the front desk) was surprisingly rude and completely inflexible. Thankfully, the male reception staff were much more polite, accommodating, and helpful.\n\nOverall, this hotel is not worth considering if you\u2019re expecting a true five-star experience, especially for the price. There are plenty of much better options around Connaught Place that offer superior quality at a lower cost.",
+      "The only advantage for this is the location closer to various embassies. Not at all a 5 star hotel. Pricing does not justify the experience. Old and poorly maintained. Terrible Wifi, even network reception in hotel was horrible.",
+      "Unprofessionalism at peak. The hotel and it's staff are not client oriented. I booked hotel through trivago upon reaching there they said there is no booking under my name and they didn't have any kind of tie-up with these apps/agency."
+    ]
+  },
+  "review_summary": "Based on 5 reviews.",
+  "positive_themes": {
+    "clean_rooms": 2,
+    "good_location": 2,
+    "good_food": 3,
+    "friendly_staff": 3,
+    "great_value": 1
+  },
+  "negative_themes": {
+    "rude_staff": 2,
+    "noise": 1
+  }
+}

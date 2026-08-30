@@ -1,0 +1,55 @@
+{
+  "hotel_id": "ChIJ5X1AVYMCDTkRuXIfnpUxxSE",
+  "hotel_name": "Hotel Orchid Garden",
+  "area": "Karol Bagh",
+  "budget_category": "Mid-Range",
+  "rating": 3.8,
+  "trust_score": 0.7557254388666739,
+  "travel_purpose_tags": [
+    "Leisure",
+    "Business",
+    "Family"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "rich",
+    "review_count": 5,
+    "positive_snippet_count": 3,
+    "negative_snippet_count": 2,
+    "positive_theme_count": 5,
+    "negative_theme_count": 1
+  },
+  "aspect_scores": {
+    "cleanliness": 0.9996768832206726,
+    "service": 0.9995855987071992,
+    "location": 0.9995835721492768,
+    "value_for_money": 0.9995835721492768,
+    "staff_behavior": 0.8381951957941055
+  },
+  "recommendation_features": {
+    "popularity_score": 0.6108966973620662,
+    "rating_score": 3.8,
+    "sentiment_score": 0.8381951957941055
+  },
+  "review_evidence": {
+    "positive_snippets": [
+      "\u201cHotel Orchid Garden exceeded my expectations. Beautiful property, comfortable rooms, and outstanding service. The staff takes great care of guests and ensures a memorable stay. Perfect place for both family and couples. Highly recommended!\u201d",
+      "\u201cHotel Orchid Garden is a wonderful place to stay. The rooms are clean, spacious, and well maintained. Staff is very polite and helpful. Food quality is excellent and the location is peaceful. Great value for money. Highly recommended!\u201d",
+      "I had a great experience staying at Hotel Orchid Garden. The rooms were clean, spacious, and well-maintained, making the stay very comfortable. The staff was polite, friendly, and always ready to help."
+    ],
+    "negative_snippets": [
+      "I recently stayed at Hotel Orchid Garden, New Delhi, and my \u0905\u0928\u0941\u092d\u0935 (experience) was quite \u0905\u091a\u094d\u091b\u093e (good). The hotel is located in a convenient \u091c\u0917\u0939 (location), making it easy to access nearby markets and metro stations.\n\nThe rooms were \u0938\u093e\u092b-\u0938\u0941\u0925\u0930\u0947 (clean and tidy) and well-maintained. The staff was \u092c\u0939\u0941\u0924 \u0938\u0939\u092f\u094b\u0917\u0940 (very cooperative) and always ready to help. The \u0938\u0947\u0935\u093e (service) was quick, and the front desk handled check-in and check-out smoothly.\n\nFood quality was also \u0905\u091a\u094d\u091b\u093e (good), with both Indian and continental options available. I especially liked their breakfast buffet\u2014it had fresh and \u0938\u094d\u0935\u093e\u0926\u093f\u0937\u094d\u091f (tasty) choices.\n\nOverall, Hotel Orchid Garden is a \u092c\u0922\u093c\u093f\u092f\u093e (great) choice for both business and family stays in Delhi. It offers \u0906\u0930\u093e\u092e (comfort), \u0938\u0941\u0935\u093f\u0927\u093e (convenience), and \u0905\u091a\u094d\u091b\u0940 \u092e\u0947\u0939\u092e\u093e\u0928\u0928\u0935\u093e\u091c\u093c\u0940 (good hospitality) at a reasonable price.",
+      "The rooms have very nice but we have the trip of our school in Delhi we want 20 rooms for children's, teacher,principle. we have total 160 member each each room have eight members but they doesn't give our 20 rooms and rudely staff."
+    ]
+  },
+  "review_summary": "Based on 5 reviews.",
+  "positive_themes": {
+    "friendly_staff": 5,
+    "clean_rooms": 3,
+    "good_location": 2,
+    "great_value": 1,
+    "good_food": 2
+  },
+  "negative_themes": {
+    "rude_staff": 1
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "hotel_id": "ChIJd4yhs0LjDDkRl-UgerNidgU",
+  "hotel_name": "Bloom Hotel - M Block Gk2",
+  "area": "Greater Kailash",
+  "budget_category": "Mid-Range",
+  "rating": 4.7,
+  "trust_score": 0.9039143630904116,
+  "travel_purpose_tags": [
+    "Leisure",
+    "Business"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "moderate",
+    "review_count": 5,
+    "positive_snippet_count": 3,
+    "negative_snippet_count": 0,
+    "positive_theme_count": 4,
+    "negative_theme_count": 0
+  },
+  "aspect_scores": {
+    "cleanliness": 0.9998247027397156,
+    "service": 0.9995176990826924,
+    "location": 0.9998724460601808,
+    "value_for_money": 0.5,
+    "staff_behavior": 0.999598115682602
+  },
+  "recommendation_features": {
+    "popularity_score": 0.5029342303533152,
+    "rating_score": 4.7,
+    "sentiment_score": 0.9996500492095948
+  },
+  "review_evidence": {
+    "positive_snippets": [
+      "Excellent stay! Great location. Very friendly staff thank you to Mohit",
+      "I was impressed by the overall cleanliness of the place. The staff at the front desk was courteous and helpful. Special thanks to Pankaj, Asish and Tejasvini for their help in extending our stay due to the ongoing war in the Middle East.\nBreakfast has room for improvement.",
+      "It's a no-frills hotel chain that offers all the essentials. The rooms were spotless and the staff was incredibly welcoming. It\u2019s the perfect choice for those looking to avoid luxury prices without compromising on quality standards"
+    ],
+    "negative_snippets": []
+  },
+  "review_summary": "Based on 5 reviews.",
+  "positive_themes": {
+    "friendly_staff": 4,
+    "good_location": 1,
+    "clean_rooms": 2,
+    "good_food": 2
+  },
+  "negative_themes": {}
+}

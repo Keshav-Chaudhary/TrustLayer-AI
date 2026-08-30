@@ -1,0 +1,52 @@
+{
+  "hotel_id": "ChIJ2YQPmRgFDTkRpjzhL5Eas-U",
+  "hotel_name": "Hotel Malbork Inn",
+  "area": "New Delhi",
+  "budget_category": "Budget",
+  "rating": 3.6,
+  "trust_score": 0.5703296018608108,
+  "travel_purpose_tags": [
+    "Budget"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "moderate",
+    "review_count": 5,
+    "positive_snippet_count": 2,
+    "negative_snippet_count": 3,
+    "positive_theme_count": 4,
+    "negative_theme_count": 1
+  },
+  "aspect_scores": {
+    "cleanliness": 0.3356016820762306,
+    "service": 0.4009486897441093,
+    "location": 0.0027693344745785,
+    "value_for_money": 0.0015220599161693,
+    "staff_behavior": 0.3347701657039578
+  },
+  "recommendation_features": {
+    "popularity_score": 0.5201159360789595,
+    "rating_score": 3.6,
+    "sentiment_score": 0.4009486897441093
+  },
+  "review_evidence": {
+    "positive_snippets": [
+      "I had a wonderful stay at the hotel. The rooms were clean, comfortable, and very well-maintained. The overall atmosphere was pleasant, and the service quality was impressive.\nA special thanks to Mr. Shaan Mohammed and Ms. Priyanka for their exceptional hospitality. Both were extremely polite, professional, and always ready to assist with a smile. Their support and warm behavior truly made our stay comfortable and memorable.\nHighly recommended for anyone looking for a great stay experience. I would definitely love to visit again!\nRegards,\nJitender Hooda",
+      "It expensive for the facilities. Location is 20 mins drive from the airport though. May have to insist twice on room service, clean linen etc. Visitors to guest rooms are surprisingly NOT allowed. Your overall experience may depend on whose at the front desk."
+    ],
+    "negative_snippets": [
+      "Change reception guy and lady\u2026 not soft spoken.. otherwise property and rooms are good. GM sardar ji very nice person, even security guard deserve good feed back rather than that both receptionist\u2026",
+      "I stayed at this property in 2025 for a month and a half. It was an excellent stay\u203c\ufe0f\nThis year I made a reservation 2 months in advance for 26 day\u2019s stay. Front desk staff/ management totally changed and very incompetent. None of the managers even look at you. Nobody even says hullo or greet GM\u2019ning/ evening etc as they are all busy on their cell phones. Zero hospitality\u203c\ufe0f\nI was told someone will call me daily morning to inform where is B\u2019fast served- at rooftop or at lobby level. I didn\u2019t receive any call at all. The phone in room 304 doesn\u2019t even work. For hot water one has to call daily to FDesk to turn on the hot water. Why should a guest have to call on daily basis? Is that service? Even then it takes 45 minutes to get it. I stayed for 4 days- no B\u2019fast or hot water!! Soap dishes are like small miniature tablets, one can\u2019t even hold in palm! Managers suck in here. There is NO basic training at this place. Last year it was a great team. Junior staff- doorman- Sanjay, housekeeping staff - Vinay and others are excellent. They are very courteous and hard working guys. It\u2019s a shame that such a nice property and there is no hospitality.\nI checked out after 4 days\u203c\ufe0f\nYour financial loss. Mr. Mukul Yadav, owner- I met you last year and complimented you about your service, but you need to change your FDesk managers as they are incompetent and don\u2019t belong to hospitality. I paid 14,000 for 4 days last month with no B\u2019fast and no hot water and no hospitality! How would you feel if you were in my shoes and staying for a month on vacation? Hope you get my message and straighten up the act or all the negative reviews will kill your business! Please see and learn how \u201cSalt Stayz\u201d hotel chain runs their operation! Basics\u203c\ufe0f\u203c\ufe0f They define hospitality and care. Their every bathroom has liquid soaps/ shampoos which is replenished periodically. If you want your guests back- show real hospitality and someone should be held accountable. Thank you!",
+      "Extremely Disappointing Stay \u2014 Not Worth the Price!\n\nOur experience at this property was highly disappointing. The service was extremely slow and poor \u2014 we had to request three times just to get our dinner plates cleared, yet no one attended to it.\n\nThere was too much movement and disturbance at night. As two females staying alone, we were terrified when someone rang our doorbell at 12:30 AM. We did not open the door and felt very unsafe.\n\nThe rooms are quite small, and the hotel is overpriced for a 3-star property. At the same rate, you can easily find a much better 4-star hotel with superior service and facilities.\n\nGetting hot water was a constant struggle \u2014 you need to call the reception every time you want it, as it comes from a central boiler. We had to call five times in the morning before receiving hot water. Even for drinking water, we had to ask four times before it was finally sent to the room.\n\nTo make matters worse, the staff incorrectly accused us of consuming a Kit Kat from the fridge, which was never there in the first place. Clearly, their inventory management is poor, and guests are made to justify themselves for staff errors.\n\nAfter we checked out and cleared all bills, we were contacted again after three hours and asked to settle payment that had already been made. We had to share Paytm screenshots as proof, which was a complete waste of time and energy.\n\nThe front desk staff, especially the man in charge, was extremely rude and full of attitude. People working in hospitality should be courteous and polite, but that basic professionalism was completely missing.\nOverall, this was a horrible experience \u2014 poor service, unprofessional staff, safety concerns, and zero value for money. Would never recommend or stay here again."
+    ]
+  },
+  "review_summary": "Based on 5 reviews.",
+  "positive_themes": {
+    "clean_rooms": 2,
+    "friendly_staff": 3,
+    "good_location": 1,
+    "great_value": 1
+  },
+  "negative_themes": {
+    "rude_staff": 1
+  }
+}

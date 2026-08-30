@@ -1,0 +1,51 @@
+{
+  "hotel_id": "ChIJcWZoJ0rnDDkR7ya1Tpcw6-k",
+  "hotel_name": "Royal Imperio",
+  "area": "Sector 39",
+  "budget_category": "Mid-Range",
+  "rating": 4.2,
+  "trust_score": 0.682406528318998,
+  "travel_purpose_tags": [
+    "Budget"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "moderate",
+    "review_count": 5,
+    "positive_snippet_count": 2,
+    "negative_snippet_count": 3,
+    "positive_theme_count": 3,
+    "negative_theme_count": 1
+  },
+  "aspect_scores": {
+    "cleanliness": 0.5,
+    "service": 0.6666619929795464,
+    "location": 0.000334964133799,
+    "value_for_money": 0.0006930251256562,
+    "staff_behavior": 0.5001541725505376
+  },
+  "recommendation_features": {
+    "popularity_score": 0.6729568632884907,
+    "rating_score": 4.2,
+    "sentiment_score": 0.4003460180363618
+  },
+  "review_evidence": {
+    "positive_snippets": [
+      "We recently hosted my sister\u2019s wedding at this venue, and the experience was truly excellent. The food was outstanding, and the decor was beautifully done \u2014 everything was managed with great taste and attention to detail.\n\nThe stay and rooms were very comfortable and well maintained. The entire staff, including housekeeping and support teams, were extremely helpful, polite, and always available whenever needed.\n\nSpecial mention to the running tea and coffee counters, snacks, and the Maggi counter \u2014 hot food was served consistently, which was greatly appreciated by guests.\n\nChanderbhushan ji was always present and ready to help at every step, making things very smooth for us. Excellent overall management by Dinesh Gupta ji across all areas \u2014 his coordination and leadership truly stood out.\n\nOverall, a wonderful experience and a perfect venue for a memorable wedding. Highly recommended!",
+      "Attended a wedding here 4 weeks ago. Stayed for 4 days in the hotel. Staff is very courteous and goes out if the way to help you and they try to make the stay as comfortable as possible. It is not a regular hotel but an event venue with rooms for the attendees to stay.\nAll the events were very well managed and the food preparations were excellent.\nThe events for marriage were arranged both indoors and outdoors. The decor and service was wonderful. Everything was always ready on time."
+    ],
+    "negative_snippets": [
+      "I had my engagement ceremony at this hotel, and it turned out to be one of the worst experiences I have ever had. I would strongly not recommend this venue to anyone planning an important event.\n\nThey took all the payment in advance and talk nicely but once they get all payment they don\u2019t even listen your complaints.\n\nFrom the beginning, the manager was extremely rude and unprofessional. Instead of helping us during such an important occasion, the management showed no sense of responsibility or hospitality. Whenever we tried to discuss arrangements or ask for assistance, the response was dismissive and disrespectful.\n\nThe staff was also very uncooperative. Basic requests during the function were either ignored or handled very poorly. There was a clear lack of coordination and professionalism, which created unnecessary stress for us and our guests on what was supposed to be a joyful day.\n\nAn engagement ceremony is a once-in-a-lifetime moment, and we trusted this hotel to manage it properly. Unfortunately, their poor management, rude behavior, and unhelpful staff completely ruined the experience.\n\nI would strongly advise others to avoid booking this venue for any event, especially important celebrations like engagements, weddings, or family functions. There are many other places that value their customers and provide far better service.",
+      "AVOID THIS HALL.  Really bad experience.   The foods is not good at all, and Booked it for 28th Feb my 25th anniversary and had terrible experience with them.  There focus is only on money.  They will act very sweetly till booking amount is given.  After that they will try to pressure you to give extra money.  They will call you unnecessary for payment by making excuses that they need early payment.\nFor any query or work they will not discuss but will call for payment again and again. At booking time the food will be very good but the food is not good at all.",
+      "They are very unprofessional and shameless people. They take money and make many false promises with sweet words, saying they will do this and that. But when your special event actually happens, they treat you very badly.\n\nTheir staff is useless and doesn\u2019t follow any instructions. The manager is the worst \u2014 he just keeps talking but does nothing. He is completely irresponsible.\n\nPlease do not book any event here. They will only waste your hard-earned money and ruin your special occasion.\n\nFood they will replace what you selected they will not served and quality is cheap."
+    ]
+  },
+  "review_summary": "Based on 5 reviews.",
+  "positive_themes": {
+    "friendly_staff": 4,
+    "good_food": 4,
+    "great_value": 2
+  },
+  "negative_themes": {
+    "rude_staff": 2
+  }
+}

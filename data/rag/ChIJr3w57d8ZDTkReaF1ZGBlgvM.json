@@ -1,0 +1,50 @@
+{
+  "hotel_id": "ChIJr3w57d8ZDTkReaF1ZGBlgvM",
+  "hotel_name": "Masaga By Qcent",
+  "area": "Gurgaon Rural",
+  "budget_category": "Mid-Range",
+  "rating": 4.6,
+  "trust_score": 0.8947130269481304,
+  "travel_purpose_tags": [
+    "Leisure",
+    "Business"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "moderate",
+    "review_count": 5,
+    "positive_snippet_count": 3,
+    "negative_snippet_count": 0,
+    "positive_theme_count": 4,
+    "negative_theme_count": 1
+  },
+  "aspect_scores": {
+    "cleanliness": 0.9998608231544496,
+    "service": 0.999868094921112,
+    "location": 0.999869704246521,
+    "value_for_money": 0.5,
+    "staff_behavior": 0.9998688399791718
+  },
+  "recommendation_features": {
+    "popularity_score": 0.5218430693613924,
+    "rating_score": 4.6,
+    "sentiment_score": 0.9998703718185424
+  },
+  "review_evidence": {
+    "positive_snippets": [
+      "I had a pleasant stay at Masaga Hotel. I would especially like to appreciate Reception Manager Praveen Kaur\u2014she was extremely polite, helpful and professional in her behaviour. She made us feel comfortable and well taken care of, which really added to the overall experience.\nThe food was also very good\u2014fresh, tasty, and well served. Overall, it was a comfortable stay with courteous staff and good hospitality",
+      "\"We just returned from a 3-night stay at Masaga Hotel and it was truly exceptional. From the moment we checked in, the staff made us feel incredibly welcomed. Our room was spotless, spacious,  The bed was like sleeping on a cloud!  A huge thank you to Hotel staff at the front desk,\nWe will definitely be back!\"",
+      "I recently attended a banquet of MASAGA, on 08th Dec 2025 Dinner Wedding function and everything was exceptional from start to finish. The venue was beautifully decorated, creating a warm and elegant atmosphere. The staff were incredibly attentive, professional, and friendly\u2014they made sure every detail was perfect and every guest felt well taken care of.\n\nThe food was absolutely delicious, with generous portions and a great variety of dishes. Every course was fresh, flavorful, and beautifully presented. The event ran smoothly, thanks to excellent organization and seamless coordination behind the scenes.\n\nOverall, it was a truly memorable experience. I highly recommend this Masaga banquet for anyone looking to host a flawless, high-quality event. I would gladly return for future celebrations!"
+    ],
+    "negative_snippets": []
+  },
+  "review_summary": "Based on 5 reviews.",
+  "positive_themes": {
+    "friendly_staff": 4,
+    "good_food": 4,
+    "clean_rooms": 2,
+    "good_location": 1
+  },
+  "negative_themes": {
+    "noise": 1
+  }
+}

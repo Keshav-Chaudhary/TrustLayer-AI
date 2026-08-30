@@ -1,0 +1,52 @@
+{
+  "hotel_id": "ChIJgfLBXRgeDTkRlsDBRnel4Ws",
+  "hotel_name": "Mauryan Elite Hotel Qutab Minar Metro Station",
+  "area": "Chhatarpur",
+  "budget_category": "Mid-Range",
+  "rating": 4.7,
+  "trust_score": 0.730368336949204,
+  "travel_purpose_tags": [
+    "Budget"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "moderate",
+    "review_count": 5,
+    "positive_snippet_count": 1,
+    "negative_snippet_count": 3,
+    "positive_theme_count": 4,
+    "negative_theme_count": 2
+  },
+  "aspect_scores": {
+    "cleanliness": 0.4998881136780255,
+    "service": 0.0002920742554124,
+    "location": 0.0002269258693559,
+    "value_for_money": 0.3333561005371545,
+    "staff_behavior": 0.0002405265016325
+  },
+  "recommendation_features": {
+    "popularity_score": 0.5880636830925053,
+    "rating_score": 4.7,
+    "sentiment_score": 0.3989385020162445
+  },
+  "review_evidence": {
+    "positive_snippets": [
+      "Good room excellent staffs behaviour verry good price nieet and clean room"
+    ],
+    "negative_snippets": [
+      "This is a discrete love hotel it also book hourly and it say it has link with fab but all lies fab hotel never have such a bad quality room",
+      "Worst service and behaviour of staff, light was not working properly. I don\u2019t recommend booking this hotel you will get better options in chattarpur at Sam price",
+      "Very worst hotel\u2026.We regret booking this hotel. Within just hours of checking in, the reality turned out to be completely different from what we were shown. The room looked fine at first glance, but soon we noticed dirty bedsheets, poor hygiene, and a foul smell. The bathroom was not properly cleaned, and the facilities promised were either missing or non-functional. The staff seemed careless and unhelpful when we raised concerns. Honestly, this was one of the worst stays we\u2019ve ever had \u2013 definitely not worth the money or the trouble"
+    ]
+  },
+  "review_summary": "Based on 5 reviews.",
+  "positive_themes": {
+    "clean_rooms": 2,
+    "friendly_staff": 4,
+    "great_value": 1,
+    "good_location": 1
+  },
+  "negative_themes": {
+    "dirty_rooms": 1,
+    "rude_staff": 2
+  }
+}

@@ -1,0 +1,53 @@
+{
+  "hotel_id": "ChIJx6qqOlDkDDkROn5jLYb6oo4",
+  "hotel_name": "Hotel Fortune Inn By Aspl",
+  "area": "Sector 19",
+  "budget_category": "Budget",
+  "rating": 4.0,
+  "trust_score": 0.5734543354714108,
+  "travel_purpose_tags": [
+    "Budget"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "moderate",
+    "review_count": 5,
+    "positive_snippet_count": 1,
+    "negative_snippet_count": 3,
+    "positive_theme_count": 4,
+    "negative_theme_count": 3
+  },
+  "aspect_scores": {
+    "cleanliness": 0.0005904632271267,
+    "service": 0.2505041132390033,
+    "location": 0.0010385995265096,
+    "value_for_money": 0.0005904632271267,
+    "staff_behavior": 0.2503417316838749
+  },
+  "recommendation_features": {
+    "popularity_score": 0.5855084500159704,
+    "rating_score": 4.0,
+    "sentiment_score": 0.2004811052524019
+  },
+  "review_evidence": {
+    "positive_snippets": [
+      "A very well run hotel with efficient staff . Breakfast served by Ravi , Aditya and Saurav. Service with a smile and so heartening .\nThe concierge and guard , all so helpful. Housekeeping staff , also very prompt and helpful.\n\ud83d\udc4f\ud83d\udc4f"
+    ],
+    "negative_snippets": [
+      "Extremely Disappointing Experience \u2013 Not Recommended\n\nI had a deeply unpleasant stay at this hotel. Despite confirming the availability of an in-house kitchen, they served us stale, roadside-quality food after we placed our dinner order. When I raised concerns about the food, the staff responded rudely, questioning why we ate it if it wasn\u2019t good. To make matters worse, they charged \u20b91000 for the meal, despite its compromised quality and hygiene. We had to leave some of the food untouched.\n\nThe dinner took nearly two hours to arrive, and the overall service was shockingly poor. I decided to check out immediately after this incident due to the unacceptable treatment and lack of professionalism. The staff was not only untrained but also disrespectful, unethical, and completely lacking basic courtesy.\n\nNo refund was offered, and the entire experience felt like a deliberate act of negligence. I strongly advise others to avoid this hotel if they value decent service, hygiene, and respectful treatment. No guest deserves such a distressing and unethical experience.",
+      "The location is good and accessible but the AC was not running. I called the receptionist who was responding when required but the service boys were useless and had attitude. They had done nothing during the day to check whether things are working or not and the new room that I was offered, there again the AC did not work. Room was very warm and had to sleep in that.\n\nVery bad and wouldn't suggest",
+      "I had a very disappointing experience at Hotel Fortune Inn by ASPL. I visited the hotel personally to book a room, but the manager\u2019s behavior was extremely rude. He acted as if I was asking for a free room and not willing to pay.\n\nI requested several times to see the room, and only after repeatedly asking did he finally show it. Even then, he was very arrogant, not ready to listen, and kept trying to end the conversation by saying, \u201cKahi aur dekh lo, yaha mehnga hi milta hai.\u201d\n\nI was fully ready to pay, but the attitude and disrespectful behavior were completely unacceptable.\nOverall, a third-class experience. Definitely not recommended."
+    ]
+  },
+  "review_summary": "Based on 5 reviews.",
+  "positive_themes": {
+    "friendly_staff": 3,
+    "good_food": 2,
+    "good_location": 2,
+    "great_value": 1
+  },
+  "negative_themes": {
+    "rude_staff": 2,
+    "bad_food": 1,
+    "dirty_rooms": 1
+  }
+}

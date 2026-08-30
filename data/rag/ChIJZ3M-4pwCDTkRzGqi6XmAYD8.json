@@ -1,0 +1,53 @@
+{
+  "hotel_id": "ChIJZ3M-4pwCDTkRzGqi6XmAYD8",
+  "hotel_name": "Hotel O By Oyo Ashoka International",
+  "area": "Karol Bagh",
+  "budget_category": "Budget",
+  "rating": 3.0,
+  "trust_score": 0.5141101777448193,
+  "travel_purpose_tags": [
+    "Leisure"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "moderate",
+    "review_count": 5,
+    "positive_snippet_count": 1,
+    "negative_snippet_count": 3,
+    "positive_theme_count": 5,
+    "negative_theme_count": 2
+  },
+  "aspect_scores": {
+    "cleanliness": 0.3312212531842912,
+    "service": 0.5,
+    "location": 0.9954772293567656,
+    "value_for_money": 0.3311763496797842,
+    "staff_behavior": 0.6637314785815155
+  },
+  "recommendation_features": {
+    "popularity_score": 0.63467057696962,
+    "rating_score": 3.0,
+    "sentiment_score": 0.3983660897240043
+  },
+  "review_evidence": {
+    "positive_snippets": [
+      "Good place for a short stay. Room was clean, basics were sorted, and nothing felt messy or shady. Staff handled things quickly and without drama. Location is easy to find and convenient. Overall, worth the money and zero hassles."
+    ],
+    "negative_snippets": [
+      "I stayed at the hotel for two days, and while it was okay overall, there were several issues. There was no hot water for bathing, and both the toilet and lift were dirty. The lift had a strong smell of urine. Additionally, there was no breakfast or lunch provided, and the TV sometimes didn't work.",
+      "This place deserves an overall three star rating, considering mostly on the prize, the rooms are of good size, but can be well maintained.\n\nThe staff is really friendly and helpful and takes an additional step to help its clients .\n\nThe place needs some sort of renovation and also the cleanliness standards can be increased, which will elevate the overall view look and feel of the hotel .\n\nThe availability of hot water is a question and needs to be sorted and also certain other room facilities and items can be provided for a pleasant stay .",
+      "I had a terrible experience at Hotel Ashoka International. Despite its name, there is nothing \"international\" about this property. The hotel is very old, and most amenities do not function properly. They do not provide basic essentials like a dental or shaving kit. When I asked for these, the staff rudely informed me that these items are not included in the cost and that this is not a 5-star property. Additionally, they demanded extra money for these basic necessities.\n\nThe staff\u2019s attitude was equally disappointing\u2014rude and unhelpful. Breakfast was not included, which added to the overall negative experience. I would not recommend this hotel to anyone. Save yourself the trouble and find a better place to stay."
+    ]
+  },
+  "review_summary": "Based on 5 reviews.",
+  "positive_themes": {
+    "clean_rooms": 2,
+    "friendly_staff": 3,
+    "good_location": 1,
+    "great_value": 1,
+    "good_food": 2
+  },
+  "negative_themes": {
+    "dirty_rooms": 1,
+    "rude_staff": 1
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "hotel_id": "ChIJHZqb6wsZDTkR3n303iVwJq0",
+  "hotel_name": "Saltstayz Select Sector 27 - Golf Course Road",
+  "area": "Sector 27",
+  "budget_category": "Budget",
+  "rating": 4.7,
+  "trust_score": 0.8106177002972942,
+  "travel_purpose_tags": [
+    "Budget"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "rich",
+    "review_count": 5,
+    "positive_snippet_count": 3,
+    "negative_snippet_count": 2,
+    "positive_theme_count": 5,
+    "negative_theme_count": 2
+  },
+  "aspect_scores": {
+    "cleanliness": 0.5277972426265478,
+    "service": 0.5143362392263952,
+    "location": 0.528616627678275,
+    "value_for_money": 0.5,
+    "staff_behavior": 0.7494815296086017
+  },
+  "recommendation_features": {
+    "popularity_score": 0.647139174888496,
+    "rating_score": 4.7,
+    "sentiment_score": 0.6110865560593083
+  },
+  "review_evidence": {
+    "positive_snippets": [
+      "My stay was highly satisfactory. The rooms were impeccably maintained, and the service provided by the staff was exceptional. \ud83d\udcaf The location offered convenient access to local attractions. \ud83d\udccd I would readily recommend this establishment. \u2728\ud83d\ude0a",
+      "One of the most comfortable stay. Mr. Rohit and Padam are an asset for the property with utmost courteous behavior. Food was delectable and service good. I shall definitely patronize it again. Thanks Saltstayz team.",
+      "Room was very clean and well presented. The hotel itself is still being finished so expect building noises and some loud bangs that may disturb lighter sleepers.\n\nBreakfast can be added at a charge but the staff are very helpful and friendly"
+    ],
+    "negative_snippets": [
+      "I recently stayed at Saltstayz and, unfortunately, the experience was far below acceptable hospitality standards. As someone who frequently travels and works closely with real estate and hospitality properties, I truly did not expect this level of negligence from a brand that positions itself as a comfortable and service-oriented stay option.\n\nFrom the moment I checked in, the issues were hard to ignore.\n\u2022 Torn bed sheets that clearly should have been replaced long ago.\n\u2022 Mosquitoes inside the washroom, making it extremely uncomfortable to use.\n\u2022 A TV that wasn\u2019t working, which shows poor room maintenance and lack of basic checks before giving the room to a guest.\n\u2022 Overall, the room felt poorly maintained, lacking the cleanliness and readiness one expects from a hotel.\n\nThese problems are not minor; they reflect deeper concerns about housekeeping standards, quality control, and management oversight. Guests choose a hotel for comfort, hygiene, and reliability \u2014 none of which I experienced during this stay.\n\nI sincerely hope the ownership and management look into this seriously. Saltstayz has potential, but without immediate improvement in maintenance, cleanliness, and guest service, the brand risks losing trust and credibility.\n\nThis review is not to criticise for the sake of criticism, but to highlight real issues that need urgent attention. I hope the team takes this feedback constructively and ensures that no guest faces this kind of experience again.",
+      "One of the worst and most unsafe hotel experiences of my life.\nI stayed at SaltStayz Sector 27 and the moment I entered, I could sense the poor service quality. The room telephone wasn\u2019t working, and for even a basic request I had to call 5\u20136 times.\n\nThe worst part \u2014 my Zomato order mysteriously \u201cwent missing\u201d after it reached the hotel. When I complained, the staff didn\u2019t just argue; they surrounded me as a group, tried to intimidate me, spoke rudely, and behaved aggressively.\n\nTheir behaviour was so threatening that I felt unsafe inside the property, and I had to check out early just to protect myself.\n\nNo guest deserves to be treated like this \u2014\nUnprofessional staff, zero safety, irresponsible management, and absolutely no control over their behaviour.\n\nI will never recommend this property to anyone who values safety, respect, or basic hospitality."
+    ]
+  },
+  "review_summary": "Based on 5 reviews.",
+  "positive_themes": {
+    "friendly_staff": 3,
+    "good_location": 1,
+    "good_food": 2,
+    "clean_rooms": 2,
+    "great_value": 1
+  },
+  "negative_themes": {
+    "noise": 1,
+    "rude_staff": 1
+  }
+}

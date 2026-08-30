@@ -1,0 +1,51 @@
+{
+  "hotel_id": "ChIJ0cKCfqgXDTkRtG8R8lMZzME",
+  "hotel_name": "The Grand Heritage Hotel",
+  "area": "Khandsha",
+  "budget_category": "Mid-Range",
+  "rating": 4.7,
+  "trust_score": 0.7045484077565276,
+  "travel_purpose_tags": [
+    "Budget"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "moderate",
+    "review_count": 5,
+    "positive_snippet_count": 2,
+    "negative_snippet_count": 3,
+    "positive_theme_count": 3,
+    "negative_theme_count": 1
+  },
+  "aspect_scores": {
+    "cleanliness": 0.5094028953462838,
+    "service": 0.5094028953462838,
+    "location": 0.5,
+    "value_for_money": 0.5,
+    "staff_behavior": 0.9998539090156554
+  },
+  "recommendation_features": {
+    "popularity_score": 0.4593492585888129,
+    "rating_score": 4.7,
+    "sentiment_score": 0.4038187401456524
+  },
+  "review_evidence": {
+    "positive_snippets": [
+      "I'have good experience with this property\nI'm staying here here is so good mr. Akshay is so polite and kindful man I appreciate with this guys",
+      "Here\u2019s a well-written, positive hotel review you can use or adapt for rating **Grand Heritage Hotel**:\n\n---\n\n\ud83c\udf1f\ud83c\udf1f\ud83c\udf1f\ud83c\udf1f\ud83c\udf1f (5/5)\n\n**Wonderful Long-Term Stay at Grand Heritage Hotel**\n\nI stayed at **The Grand Heritage Hotel** for over 8 months, and it truly felt like a home away from home. The service was consistently excellent \u2014 the staff was always courteous, attentive, and ready to help with anything I needed.\n\nThe food deserves a special mention \u2014 it was delicious, hygienic, and offered good variety throughout my stay. Rooms were well-maintained, clean, and comfortable, with all necessary amenities.\n\nWhether for a short visit or a long-term stay, I highly recommend Grand Heritage Hotel for its outstanding hospitality, quality, and comfort.\n\nThank you to the entire team for making my stay so smooth and enjoyable!"
+    ],
+    "negative_snippets": [
+      "Very very worst..\nNo cleanliness.. room floor/bed spreads/pillows...\nNo geyser..\nReally sorry to say.. not \ud83d\udeab suitable to stay",
+      "Initially room without heater, bad ordered smell room allotted. But, Mr Rahul shifted the room in a couple of hours. Again in this room, heater is not working.\nMy suggestion is to pick up service motto, attend customer and try to resolve issues like Rahul in the reception.\nAnyways all the best.",
+      "I had the worst experience at this hotel. I strongly advise anyone considering a booking to avoid it. The security is inadequate, and if you make a reservation, they may deny you a room by claiming that the booking amount is too low. MakeMyTrip should block hotels like this; otherwise, they risk losing customers."
+    ]
+  },
+  "review_summary": "Based on 5 reviews.",
+  "positive_themes": {
+    "friendly_staff": 2,
+    "clean_rooms": 2,
+    "good_food": 1
+  },
+  "negative_themes": {
+    "dirty_rooms": 1
+  }
+}

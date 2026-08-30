@@ -1,0 +1,50 @@
+{
+  "hotel_id": "ChIJeQIQJdXgDDkRfhn0uyMOrxQ",
+  "hotel_name": "Panoramic - The Atrium",
+  "area": "Lal Kuan",
+  "budget_category": "Mid-Range",
+  "rating": 3.8,
+  "trust_score": 0.5543014104611356,
+  "travel_purpose_tags": [
+    "Budget"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "moderate",
+    "review_count": 5,
+    "positive_snippet_count": 1,
+    "negative_snippet_count": 3,
+    "positive_theme_count": 2,
+    "negative_theme_count": 2
+  },
+  "aspect_scores": {
+    "cleanliness": 0.9998447895050048,
+    "service": 0.3533840700838482,
+    "location": 0.4119664132595062,
+    "value_for_money": 0.5,
+    "staff_behavior": 0.5041143177077173
+  },
+  "recommendation_features": {
+    "popularity_score": 0.494605354142389,
+    "rating_score": 3.8,
+    "sentiment_score": 0.2843840252491645
+  },
+  "review_evidence": {
+    "positive_snippets": [
+      "It's now called the Sarovar Portico. The flowers in the pots bring cheer. The staff is welcoming and friendly and helpful. The front desk is well managed. The restaurant has that welcoming smell"
+    ],
+    "negative_snippets": [
+      "They will make you wait to even take your order let alone serve it. Extremely poor service. Food is passable.",
+      "This hotel is like a lucrative food platter without salt...!!! Rooms are spacious. Toiletries are fine. Food tastes good.\n\nWorst part of this hotel is management. Departments are working like separate islands. Staffs need lot of training. At the time of check-in, I was allotted a basement room which was colder. At first attempt to change the room, it was said that , I can be allotted this specific room only. Later, when I visited the reception personally, I was given a better room on 5th floor, which was good.\n\nI ordered food and at the time of serving the same, waiter asks for payment. On requesting for a payment at the time of check out, I was told, it's not possible and I have to pay at that moment only, as there are instances when people have left without paying. It took me 15 mins on intercom, to convince the guy that I am not a potential fraud and I shall pay all dues at the time of checkout.\n\nAt the time of checkout, I have given a non-chip credit card for payment. Receptionist kept trying to punch the card , the way it's done for chip card. I had to ask her to swap it instead to get a valid receipt...!!!\n\nOnly silver lining is the Breakfast buffet which was good. But there also, the attendant didn't know, if omelette can be provided since it was not the buffet table. He later served it though.\n\nThis is a very good property. A little attention from management can it a far better destination.",
+      "Worst behavior of hotel employees made us disgusting as an Indian oil employee faced such bitter experience then what will happen for common people. We were checked in on 20th June 19 , our check out date was on 26 but one day earlier on 25th they allotted that rooms for some other group. We were in training at India oil R&D from morning to evening when we returned to the hotel asking for room keys with a team of 18 members they said \"aap logon ka check out ho gaya\" your things were taken from your rooms for all of you check out is done. Our valuable things were kept in a store  room including laptop. Then finally after a long fight they allotted a worst sharing room for a night. Then in billing also they have done so much error but everything was positive to their side like extra tax , extra day payment , food etc., One of the worst and unpleasant day that was  better don't think about stay at The Atrium."
+    ]
+  },
+  "review_summary": "Based on 5 reviews.",
+  "positive_themes": {
+    "friendly_staff": 2,
+    "good_food": 4
+  },
+  "negative_themes": {
+    "dirty_rooms": 1,
+    "parking_issues": 1
+  }
+}

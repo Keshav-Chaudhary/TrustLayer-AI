@@ -1,0 +1,51 @@
+{
+  "hotel_id": "ChIJMefpUh8FDTkRTvRW7W_PuCw",
+  "hotel_name": "Hotel 19 West",
+  "area": "New Delhi",
+  "budget_category": "Mid-Range",
+  "rating": 3.2,
+  "trust_score": 0.565149766698094,
+  "travel_purpose_tags": [
+    "Leisure"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "moderate",
+    "review_count": 5,
+    "positive_snippet_count": 1,
+    "negative_snippet_count": 3,
+    "positive_theme_count": 4,
+    "negative_theme_count": 1
+  },
+  "aspect_scores": {
+    "cleanliness": 0.0003583369543775,
+    "service": 0.4992176388477674,
+    "location": 0.9989633560180664,
+    "value_for_money": 0.9989633560180664,
+    "staff_behavior": 0.6659982068522368
+  },
+  "recommendation_features": {
+    "popularity_score": 0.4479653445915689,
+    "rating_score": 3.2,
+    "sentiment_score": 0.5994801973458379
+  },
+  "review_evidence": {
+    "positive_snippets": [
+      "9k for low budget trip.\nDecent room. Location is prime."
+    ],
+    "negative_snippets": [
+      "worst place 1 hours tak koi order nai receive hota , khana ho ya water bottle ya towel, raat 3 baje tak full sound dj vhalte he nerby rooms pe, bathroom broken not clean, jug broken, biggest rat found in room.",
+      "Veery Bad service and very bad staff even the room are not clean I\u2019m not satisfied pls don\u2019t go",
+      "The hotel staff is not at all cooperative. We have been requesting to speak to the owner @Vishal Garg but have been just told owner ne Hume yaha rakha h na to hum se baat kro. I feel hospitality industry doesn't work in without service.\nHoping after this we will get support from you @owner\n\nI request you to please call us. Number has been shared with your staff who sits at reception. I really look forward to your support sir"
+    ]
+  },
+  "review_summary": "Based on 5 reviews.",
+  "positive_themes": {
+    "good_location": 1,
+    "clean_rooms": 3,
+    "friendly_staff": 3,
+    "good_food": 1
+  },
+  "negative_themes": {
+    "rude_staff": 1
+  }
+}

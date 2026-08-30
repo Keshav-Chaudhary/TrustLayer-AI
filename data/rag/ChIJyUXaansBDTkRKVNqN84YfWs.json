@@ -1,0 +1,52 @@
+{
+  "hotel_id": "ChIJyUXaansBDTkRKVNqN84YfWs",
+  "hotel_name": "Karan Holidays",
+  "area": "New Delhi",
+  "budget_category": "Mid-Range",
+  "rating": 3.8,
+  "trust_score": 0.7206100698467288,
+  "travel_purpose_tags": [
+    "Business"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "moderate",
+    "review_count": 5,
+    "positive_snippet_count": 3,
+    "negative_snippet_count": 1,
+    "positive_theme_count": 5,
+    "negative_theme_count": 1
+  },
+  "aspect_scores": {
+    "cleanliness": 0.9996269345283508,
+    "service": 0.7692479781806469,
+    "location": 0.5112168025225401,
+    "value_for_money": 0.0230265520513057,
+    "staff_behavior": 0.7115982687100768
+  },
+  "recommendation_features": {
+    "popularity_score": 0.5492203448319317,
+    "rating_score": 3.8,
+    "sentiment_score": 0.7692479781806469
+  },
+  "review_evidence": {
+    "positive_snippets": [
+      "Rooms near & clean, staff very good specially reception staff so co operative.\nLocation is very good & nearest metro station & mall.",
+      "I stayed there for 3 days. Room are clean and spacious. Management is good. Their service is okay and i found some workers very generous and kind.",
+      "It's  a privately owned mid scale   property ..\n\nsuggested this hotel to one of my friend but he says that the staff is not good and professional,as well as they are egoist ...The way of handling a guest is not like a professional and many more complaints...\n\nNeeds improvement in management behaviour | Food quality again needs to be improved.\n\nBut when I visited there the FO staff was well educated and looks professional (especially the Nitesh Kumar and Rahul).\nThis guy was brilliant and awesome,he tackles the guest queries very politely .\n\nAt last the thing I want to say is ...\nJust go with the old staff ...( don't know why you people can't catch up with the old staff..)\n\nThe property is good and the Owner is also a good person.."
+    ],
+    "negative_snippets": [
+      "Okay I will write this review in detail:\n\n1. Decor/party hall: It's a nice hall without any pillars in between which can certainly interrupt the view of the people sitting there. Nice decoration with mirrors on every side. It gives a nice feeling. Hall is enough for small parties, kid's birthday party, anniversary functions, and so on. DJ lights and floor is pretty good and quite big.\n2. ample parking space is provided.\n3. service of the staff is good.\n4. Let's come to the main part, catering, I was expecting that it's in posh area of Rohini so, catering must be good. But here they lost all of their scores. Let's start with drinks! They offered me Lemonade, their was no spice in it, nothing for the sake of taste, it was too bland in taste. I had ask the manager their to add few spices in it to make it good. He did the change and came back with another version which was good. After that I tried few starters, french fries was all tangled up with each other they were not fine crispy potato fingers we eat at other cafes, let's not talk about McDonald's here.  They were not even close to our homemade fries.  Next thing was chilly paneer. It was like they just fried the paneer and toasted in some capsicum and onion. They were not at all chilly, and I don't think they even coated the paneer cubes with corn flour or maida at all. Which gives them some texture before the tossing part comes in.  After that I was saving my remaining taste buds for the main deal. I tried chole, they were nice, kadhi it was again too plain, no spices, just enough sour to hide away all other things. No chilly tempering, no kadhi pata, nothing. I tried mix veg which was okay. Zeera rice was too oily u can feel the oil in the serving dish, breads was fine soft and fresh. In salad there was no cucumber, beetroot as if they are cutting budget in everything. Malai kofta was nice with some sweet texture, dal makhni was not even close to any  place u can say. It was just plain black dal cooked.\n\nSo overall, you can book the place but please give them detailed instructions about the food, or better you can ask for some tasting.  I missed this.\n\nSuggestion to the banquet: Change your chef,  he is not worth keeping! Change him may be you will get more business. Because you really have nice place, you just need nice food. He really don't have any idea about party caterings. I gave three stars all based on location and decor."
+    ]
+  },
+  "review_summary": "Based on 5 reviews.",
+  "positive_themes": {
+    "clean_rooms": 2,
+    "friendly_staff": 4,
+    "good_location": 2,
+    "good_food": 3,
+    "great_value": 1
+  },
+  "negative_themes": {
+    "parking_issues": 1
+  }
+}

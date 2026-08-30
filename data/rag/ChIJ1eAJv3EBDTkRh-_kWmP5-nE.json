@@ -1,0 +1,51 @@
+{
+  "hotel_id": "ChIJ1eAJv3EBDTkRh-_kWmP5-nE",
+  "hotel_name": "Sun Moon Residency And Apartments",
+  "area": "Rohini",
+  "budget_category": "Mid-Range",
+  "rating": 4.4,
+  "trust_score": 0.7987541425181607,
+  "travel_purpose_tags": [
+    "Leisure",
+    "Business",
+    "Family"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "moderate",
+    "review_count": 5,
+    "positive_snippet_count": 3,
+    "negative_snippet_count": 1,
+    "positive_theme_count": 4,
+    "negative_theme_count": 0
+  },
+  "aspect_scores": {
+    "cleanliness": 0.9998612403869628,
+    "service": 0.9998612403869628,
+    "location": 0.997804601987203,
+    "value_for_money": 0.9991827607154846,
+    "staff_behavior": 0.7498049142304808
+  },
+  "recommendation_features": {
+    "popularity_score": 0.4959709993713083,
+    "rating_score": 4.4,
+    "sentiment_score": 0.7996804835274816
+  },
+  "review_evidence": {
+    "positive_snippets": [
+      "Very good guest house I m already stay 1 day but like staff behaviour so I extend kore 5 days in apartment near metro station very good behaviour by staff",
+      "Very good guest house near rajiv gandhi hospital and metro station excellent behavior by receptionist I like this hotel I recommend all to visited atleat 1st time",
+      "This facility is very near to Rajiv Gandhi Hospital. The rooms are quite spacious with AC, fridge and cooking favility. We were overall very satisfied with the value for money."
+    ],
+    "negative_snippets": [
+      "Right close to Rajiv gandhi cancer institute.  Staff is helpful but rooms are too cramped and need  upkeep. Stayed 2 nights. No lift for wheelchair guests."
+    ]
+  },
+  "review_summary": "Based on 5 reviews.",
+  "positive_themes": {
+    "friendly_staff": 3,
+    "good_location": 4,
+    "great_value": 1,
+    "clean_rooms": 1
+  },
+  "negative_themes": {}
+}

@@ -1,0 +1,53 @@
+{
+  "hotel_id": "ChIJx62cgXHiDDkRpfnRkuY4q2I",
+  "hotel_name": "Hotel Exotica - Hotel In Green Park, New Delhi",
+  "area": "Green Park",
+  "budget_category": "Mid-Range",
+  "rating": 4.0,
+  "trust_score": 0.7630942419509879,
+  "travel_purpose_tags": [
+    "Leisure"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "moderate",
+    "review_count": 5,
+    "positive_snippet_count": 3,
+    "negative_snippet_count": 1,
+    "positive_theme_count": 5,
+    "negative_theme_count": 2
+  },
+  "aspect_scores": {
+    "cleanliness": 0.7270106142677832,
+    "service": 0.6360621539643034,
+    "location": 0.9768102318048476,
+    "value_for_money": 0.500226570351515,
+    "staff_behavior": 0.9692702293395996
+  },
+  "recommendation_features": {
+    "popularity_score": 0.6054829735956193,
+    "rating_score": 4.0,
+    "sentiment_score": 0.7815676145488396
+  },
+  "review_evidence": {
+    "positive_snippets": [
+      "\u201cI recently stayed at this hotel and my overall experience was quite good. The rooms were clean, the bed was comfortable, and all the basic amenities like AC and lighting worked perfectly. The staff was polite, friendly, and always ready to help whenever needed.\n\nThe location of the hotel is also convenient\u2014markets and transport facilities are easily accessible. The food quality was impressive as well; the breakfast was fresh and tasted great.\n\nOverall, this hotel is value for money. If you are looking for a clean, comfortable, and peaceful place to stay, I would definitely recommend this hotel.\u201d",
+      "Tiny space, tiny rooms, thin walls so every conversation at the reception comes through to the room.\n\nThis is a small 7 or 8 room property - the location is the best part.\n\nThe room was clean and functional, but really compact.\n\nThe biggest issue I had was the constant noise coming in from the reception area. A whole day of the manager taking his staff and vendors to task (justifiable I'm sure), but I don't want to hear every single thing.\n\nMy room was just past the reception, there was no way to skip the reception and it's noise levels.",
+      "It was pleasant stay amid posh locality. Easy and quick access to market and metro. Polite staff. Good food."
+    ],
+    "negative_snippets": [
+      "Guys, if anyone is planning to book this property, please save your money and choose another place \u2014 even if it\u2019s cheaper.\n\nThe service is extremely poor. The bed sheets were not changed from the previous guest, and we were given used towels. The hygiene standards are unacceptable. The bathrooms were dirty, and overall cleanliness was very disappointing.\n\nThis is based on my personal experience. I genuinely suggest looking for better options instead of wasting your money here."
+    ]
+  },
+  "review_summary": "Based on 5 reviews.",
+  "positive_themes": {
+    "clean_rooms": 4,
+    "friendly_staff": 3,
+    "good_location": 3,
+    "great_value": 2,
+    "good_food": 2
+  },
+  "negative_themes": {
+    "noise": 1,
+    "dirty_rooms": 1
+  }
+}

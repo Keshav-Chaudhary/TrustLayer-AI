@@ -1,0 +1,44 @@
+{
+  "hotel_id": "ChIJtQyatR79DDkR7JSqzaRjKzM",
+  "hotel_name": "Hotel O The Crown Guest House",
+  "area": "Khazoori Khas",
+  "budget_category": "Mid-Range",
+  "rating": 2.3,
+  "trust_score": 0.2032341718360858,
+  "travel_purpose_tags": [
+    "Budget"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "sparse",
+    "review_count": 4,
+    "positive_snippet_count": 0,
+    "negative_snippet_count": 3,
+    "positive_theme_count": 1,
+    "negative_theme_count": 0
+  },
+  "aspect_scores": {
+    "cleanliness": 0.0003911827516276,
+    "service": 0.0004038750339532,
+    "location": 0.5,
+    "value_for_money": 0.0004038750339532,
+    "staff_behavior": 0.0003911827516276
+  },
+  "recommendation_features": {
+    "popularity_score": 0.2045392263146805,
+    "rating_score": 2.3,
+    "sentiment_score": 0.0023845559117034
+  },
+  "review_evidence": {
+    "positive_snippets": [],
+    "negative_snippets": [
+      "Worst room,worst service with worst behaviour of staff & manager, unfortunately this so called hotel which even don't have water in tap and have dancing commode n washroom provides worst experience that I ever had in my life till now, no idea why Oyo gve them flagship when they are not following their rules(only ofline booking accept with asking price, if uh booked it online then they will refused to accept it and said on the moment do whatever u want to do it's our hotel & our rules will be fulfilled.",
+      "Low walkings here",
+      "Worst of worst experience"
+    ]
+  },
+  "review_summary": "Based on 4 reviews.",
+  "positive_themes": {
+    "friendly_staff": 1
+  },
+  "negative_themes": {}
+}

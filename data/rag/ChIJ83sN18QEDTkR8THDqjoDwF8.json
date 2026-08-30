@@ -1,0 +1,53 @@
+{
+  "hotel_id": "ChIJ83sN18QEDTkR8THDqjoDwF8",
+  "hotel_name": "Qotel Signature Coleman Janakpuri",
+  "area": "New Delhi",
+  "budget_category": "Mid-Range",
+  "rating": 4.4,
+  "trust_score": 0.638871181934341,
+  "travel_purpose_tags": [
+    "Budget"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "moderate",
+    "review_count": 5,
+    "positive_snippet_count": 1,
+    "negative_snippet_count": 3,
+    "positive_theme_count": 4,
+    "negative_theme_count": 3
+  },
+  "aspect_scores": {
+    "cleanliness": 0.2503232352755731,
+    "service": 0.2503232352755731,
+    "location": 0.0006039435684214,
+    "value_for_money": 0.0002188346697948,
+    "staff_behavior": 0.3036844567250227
+  },
+  "recommendation_features": {
+    "popularity_score": 0.5790735793404571,
+    "rating_score": 4.4,
+    "sentiment_score": 0.2431453758734278
+  },
+  "review_evidence": {
+    "positive_snippets": [
+      "Amazing experience at Hotel Coleman, Janak Puri! The rooms were spotless, the service was top-notch, and the amenities gave a real 5-star feel. The staff was incredibly helpful and made the stay very comfortable. Would definitely stay here again."
+    ],
+    "negative_snippets": [
+      "This is going to be a long one so read carefully. When I arrived they gave me a smaller room than I booked stating they don't have bigger one I was like cool I just need to sleep and leave for work in the morning. Then the nightmare begun. I stayed from 13th to 15th February 2026. The room was not cleaned there were after intercourse liquids and so many hair that I felt nausea but still I slept the night thinking they might clean it up. I was wrong, even after telling them about this whole thing when I returned from Railway Foundation Conference near CP I went into the exact same untidy STI breeding ground room (yes blood stains bhi the you know what I mean here), I went downstairs and the whole conundrum lasted at least 30 mins after which I got a different (not clean, just different room, a little cleaner but that was my mistake yet again) it smelled funky yet I tried to sleep, no sleep, AC too wasn't working properly nor bathroom exhaust to get that smell out. Could fall asleep very late, then woke up late, (already informed in the night for an hour's extension on checkout) yet the receptionist had the audacity to bs me in my room first then when I called the reception and explained the lady receptionist she was fine. Got everything ready, and tried to go down , yet while wearing shoes saw so many hair I started puking. Very severely. Asked for lemonade on front desk they said to call kitchen (it's literally behind a glass door from reception but no!) then the bell boy came, he saw my health and he called someone from kitchen to get me the lemonade, guess what I got? Water, salt, lemon, no sugar. Sugar arrived after I said I won't drink it you take it away. Then they had the audacity to charge me 140 rupees for the lemonade and when I asked for the receipt (hotel was booked via mmt so no invoice from hotel) they gave me one for 131, what's with those 9 rupees we'll never know. Absolutely pathetic behaviour and pathetic state of affairs and most untidy hotel I ever saw in my life.",
+      "Very Bad experience.\nHighly not recommended.\nHave booked this hotel multiple times earlier but their behaviour remains rude.\nJust because this time i had to avail a date modified booking so they gave me room which was very much uncomfortable.\nI had to checkout within 2 hrs, and the staff didnot had the audacity to change my room instead.\nThey were really ok with my checking out as if this was what they always wanted.",
+      "Extremely Disappointing Stay \u2013 Would Not Recommend\n\nMy experience at this hotel was pathetic. The information shown on the app was completely misleading \u2014 there was no seating area, no ironing board, and no bubble bath as mentioned. The room was basic, unhygienic, and poorly maintained.\n\nThe washroom was in terrible condition, with water spread all over the floor and very poor cleanliness. The kettle for hot water and tea wasn\u2019t working either. On top of that, there was constant noise from outside the room the entire night, making it impossible to rest.\n\nThe staff were rude and unhelpful. Even after several complaints, they did nothing to resolve the issues and instead asked me to contact MakeMyTrip since the booking was made through them.\n\nOverall, the service, cleanliness, and facilities were far below expectations. Definitely not worth the money. Would strongly advise others to avoid this property."
+    ]
+  },
+  "review_summary": "Based on 5 reviews.",
+  "positive_themes": {
+    "clean_rooms": 3,
+    "friendly_staff": 4,
+    "good_location": 1,
+    "great_value": 1
+  },
+  "negative_themes": {
+    "dirty_rooms": 2,
+    "rude_staff": 3,
+    "noise": 1
+  }
+}

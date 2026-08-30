@@ -1,0 +1,52 @@
+{
+  "hotel_id": "ChIJYfWy3MIYDTkReIo6KYRj6yw",
+  "hotel_name": "The Hotel Am Bliss Sector 43 Gurgaon",
+  "area": "Sector 43",
+  "budget_category": "Mid-Range",
+  "rating": 4.0,
+  "trust_score": 0.7391311269653125,
+  "travel_purpose_tags": [
+    "Leisure",
+    "Business"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "moderate",
+    "review_count": 5,
+    "positive_snippet_count": 3,
+    "negative_snippet_count": 1,
+    "positive_theme_count": 4,
+    "negative_theme_count": 1
+  },
+  "aspect_scores": {
+    "cleanliness": 0.6667485581322884,
+    "service": 0.9998076558113098,
+    "location": 0.9998449981212616,
+    "value_for_money": 0.9998076558113098,
+    "staff_behavior": 0.7999871341278777
+  },
+  "recommendation_features": {
+    "popularity_score": 0.4651895590231839,
+    "rating_score": 4.0,
+    "sentiment_score": 0.7999871341278777
+  },
+  "review_evidence": {
+    "positive_snippets": [
+      "This is one of the best budget hotels I have ever come across that offers absolute premium experience in every aspect.     You get the maximum bang for your bucks that makes you yearn to visit again.\nThe entire property is well-maintained.   And tastefully done.\nThe rooms are lavish and spacious and offer great view from the balcony.   You get your own quiet and peaceful space far away from the outside noise.\nThe food here is though a tad expensive, it's always fresh and hygienic.    The staff is very prompt and is always ready to heed to your requests.\n\nAs the name suggests, this hotel offers absolute , pure Bliss that you would look for after you return from your day's work.\n\nI hope to visit here soon.",
+      "A wonderful stay\nin AM Bliss Downtown is my go to for a little staycation! It\u2019s built near a lot of great markets and restaurants however the food at the hotel is amazing as well! The hotel staff is always very welcoming and always greet you with a warm smile.",
+      "\"My stay at this hotel was excellent. The room was clean, comfortable, and well-maintained. The staff and faculty were very polite, helpful, and always ready to assist with a smile. Overall, a wonderful experience \u2013 highly recommended!\""
+    ],
+    "negative_snippets": [
+      "Please dont chose this hotel completely horrible and they don\u2019t maintain hygin no proper washroom flush doesnt work lift doesn\u2019t work. Although Receiption manager is good and helpful but room condition is very bad"
+    ]
+  },
+  "review_summary": "Based on 5 reviews.",
+  "positive_themes": {
+    "friendly_staff": 4,
+    "good_food": 2,
+    "good_location": 1,
+    "clean_rooms": 2
+  },
+  "negative_themes": {
+    "noise": 1
+  }
+}

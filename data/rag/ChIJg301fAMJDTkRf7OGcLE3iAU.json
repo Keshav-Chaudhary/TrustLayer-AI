@@ -1,0 +1,51 @@
+{
+  "hotel_id": "ChIJg301fAMJDTkRf7OGcLE3iAU",
+  "hotel_name": "Hotel Bluebird Bahadurgarh",
+  "area": "MIE Part-A",
+  "budget_category": "Mid-Range",
+  "rating": 3.3,
+  "trust_score": 0.5643533239091947,
+  "travel_purpose_tags": [
+    "Leisure"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "moderate",
+    "review_count": 5,
+    "positive_snippet_count": 2,
+    "negative_snippet_count": 3,
+    "positive_theme_count": 3,
+    "negative_theme_count": 1
+  },
+  "aspect_scores": {
+    "cleanliness": 0.0005617905335384,
+    "service": 0.0008820534567348,
+    "location": 0.8591632843017578,
+    "value_for_money": 0.5,
+    "staff_behavior": 0.000241527610342
+  },
+  "recommendation_features": {
+    "popularity_score": 0.423919550940717,
+    "rating_score": 3.3,
+    "sentiment_score": 0.5713477082521422
+  },
+  "review_evidence": {
+    "positive_snippets": [
+      "Excellent hotel\nRoom Quality too Royal",
+      "Very very nice hotel"
+    ],
+    "negative_snippets": [
+      "Decent room at bahadurgarh location. But they ask payment offline there even if I had book on their website and paid . I had to pay twice .\nThey don't consider payment on their website.\nRoom was nt well cleaned and ready .",
+      "Very very bad experience room are not clean and staff behaviour is very bad please don't visit this hotel 3rd class room ac did not work",
+      "Quality is very poor, a lot of smell is there like vomit area. Dampness smell, uncleaned toilet, non working service, uncleaned bedsheets , TV is not working. Full night I couldn't sleep due to a lot of mosquitoes were there as pic attached. Don't choose if u want comfortable stay."
+    ]
+  },
+  "review_summary": "Based on 5 reviews.",
+  "positive_themes": {
+    "clean_rooms": 3,
+    "good_location": 1,
+    "friendly_staff": 1
+  },
+  "negative_themes": {
+    "dirty_rooms": 1
+  }
+}

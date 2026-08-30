@@ -1,0 +1,51 @@
+{
+  "hotel_id": "ChIJXaRnw_8BDTkREb1cB8_n2Xs",
+  "hotel_name": "Super Townhouse Mannat Rohini 16",
+  "area": "Al\u012bpur",
+  "budget_category": "Mid-Range",
+  "rating": 3.3,
+  "trust_score": 0.4730602022664187,
+  "travel_purpose_tags": [
+    "Budget"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "moderate",
+    "review_count": 5,
+    "positive_snippet_count": 1,
+    "negative_snippet_count": 3,
+    "positive_theme_count": 3,
+    "negative_theme_count": 2
+  },
+  "aspect_scores": {
+    "cleanliness": 0.3349509508892273,
+    "service": 0.0002481399278622,
+    "location": 0.5,
+    "value_for_money": 0.0014997628532,
+    "staff_behavior": 0.2505090084523544
+  },
+  "recommendation_features": {
+    "popularity_score": 0.5499823393751904,
+    "rating_score": 3.3,
+    "sentiment_score": 0.2011588380497414
+  },
+  "review_evidence": {
+    "positive_snippets": [
+      "Hospitality & Staff Many guests highlight the friendly, helpful, and well-mannered staff who contribute to a welcoming atmosphere.\nCleanliness Reviewers frequently mention that the rooms and washrooms are clean and well-maintained. The property has a commendable cleanliness score on some booking sites."
+    ],
+    "negative_snippets": [
+      "It seems like a combined effort to rob the customer. I had my mother with me; she has cancer, and we asked everything about hotel room and lift services to Oyo customer care. They said everything was working, but that was not true. Without a lift, they asked us to go to the 3rd floor or take a subpar room. That room looked like it had been used by employees for resting. He charged 1100 and refused to talk to customer care because he knew that they couldn't do anything. He asked for 1100 in cash while I had booked for 900, for which I had a screenshot, but he raised the price on the booked room as well. I don't know why he had such an option. I tried to convince customer care about a refund, but she only asked if I was comfortable with this price or if I could look for other properties.\nAfter checking out, I tried to complain again, but after keeping me on hold for 30 minutes, he asked me if I had a receipt for 1100. Like really? The hotel staff asked for 18% on 1100 if I paid online or wanted a receipt. Otherwise, I was told to go and search for another hotel.",
+      "Extremely Poor and Misleading Service \u2013 Do Not Trust OYO\n\nI had a terrible and stressful experience with OYO. I booked this hotel because my mother recently had surgery and cannot walk properly. The OYO website clearly said the hotel has an\u00a0elevator, which was the main reason I booked.\n\nHowever, before visiting the hotel, I contacted the hotel manager directly and was informed that the hotel has never had an elevator. This is false information and very misleading, especially for elderly or disabled guests.\n\nI called OYO customer service\u00a0multiple times to cancel the booking, but they kept transferring my call and then disconnecting. No proper help, no solution, no empathy. Because of this, I had to book another hotel urgently, which caused extra stress and extra money loss.\n\nThis is false advertising and very irresponsible. I want my\u00a0full refund immediately.\n\nI strongly advise people\u00a0not to book through OYO\u00a0if you care about accurate information and customer support. This was my worst hotel booking experience ever.",
+      "Worst of the worst hotel, charged 200 rupees extra by property manager. Room, washroom, walls, bed was dirty. Asked to change room due to super uncomfortable bed but all were same. No parking space, if you ready to park on your own risk then go ahead.\nIf this feedback is reaching to someone don't go there just because prices are bit low then others, even room worth wasn't 900 rupees."
+    ]
+  },
+  "review_summary": "Based on 5 reviews.",
+  "positive_themes": {
+    "clean_rooms": 1,
+    "friendly_staff": 2,
+    "great_value": 1
+  },
+  "negative_themes": {
+    "dirty_rooms": 2,
+    "parking_issues": 1
+  }
+}

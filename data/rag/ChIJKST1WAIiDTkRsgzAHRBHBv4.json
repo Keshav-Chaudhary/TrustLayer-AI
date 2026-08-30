@@ -1,0 +1,50 @@
+{
+  "hotel_id": "ChIJKST1WAIiDTkRsgzAHRBHBv4",
+  "hotel_name": "Redbrick Villa",
+  "area": "Sector 56",
+  "budget_category": "Mid-Range",
+  "rating": 4.3,
+  "trust_score": 0.8661399611625126,
+  "travel_purpose_tags": [
+    "Business",
+    "Family"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "moderate",
+    "review_count": 5,
+    "positive_snippet_count": 3,
+    "negative_snippet_count": 1,
+    "positive_theme_count": 4,
+    "negative_theme_count": 0
+  },
+  "aspect_scores": {
+    "cleanliness": 0.9717918336391448,
+    "service": 0.9998722871144612,
+    "location": 0.5,
+    "value_for_money": 0.944011092185974,
+    "staff_behavior": 0.9998722871144612
+  },
+  "recommendation_features": {
+    "popularity_score": 0.5918503514096412,
+    "rating_score": 4.3,
+    "sentiment_score": 0.9886401057243348
+  },
+  "review_evidence": {
+    "positive_snippets": [
+      "\u2b50\ufe0f\u2b50\ufe0f\u2b50\ufe0f\u2b50\ufe0f\u2b50\ufe0f Excellent Service and Hospitality\n\nIt was a great experience staying at the Redbrick Hotel. The service and food were both exceptional. A special thanks to Upendra ji, the receptionist, for his warm welcome, professionalism, and helpful nature. He ensured our stay was comfortable and pleasant from check-in to check-out. His courteous behavior and attention to detail truly enhanced our experience. Highly recommended for anyone visiting this hotel!",
+      "We came for skating competition .\nStayed  here  for  five  days.\nThe  room,s are neat and clean.\nThe food  also homemade  good to eat and healthy for  children.\nSafe place for  family to stay.",
+      "Fantastic spot, the rooms are really well maintained, good food, service was excellent, people are really amazing. Loved my stay here.  Mr. Upender was so helpful, best service I\u2019ve ever received."
+    ],
+    "negative_snippets": [
+      "The rooms are quite small and in need of some serious maintenance. Food is good, not oily or unhealthy. Bathrooms are clean. Good value if you're looking for a decent place in a safe area in Gurgaon."
+    ]
+  },
+  "review_summary": "Based on 5 reviews.",
+  "positive_themes": {
+    "friendly_staff": 3,
+    "good_food": 4,
+    "clean_rooms": 2,
+    "great_value": 1
+  },
+  "negative_themes": {}
+}

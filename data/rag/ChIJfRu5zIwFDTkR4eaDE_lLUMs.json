@@ -1,0 +1,48 @@
+{
+  "hotel_id": "ChIJfRu5zIwFDTkR4eaDE_lLUMs",
+  "hotel_name": "Hotel O Devika Inn",
+  "area": "Nawada",
+  "budget_category": "Budget",
+  "rating": 4.0,
+  "trust_score": 0.5305013623527342,
+  "travel_purpose_tags": [
+    "Budget"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "moderate",
+    "review_count": 5,
+    "positive_snippet_count": 1,
+    "negative_snippet_count": 3,
+    "positive_theme_count": 1,
+    "negative_theme_count": 1
+  },
+  "aspect_scores": {
+    "cleanliness": 0.5,
+    "service": 0.2000598371523664,
+    "location": 0.5,
+    "value_for_money": 0.0005636633140966,
+    "staff_behavior": 0.0017293145647272
+  },
+  "recommendation_features": {
+    "popularity_score": 0.3841941705554954,
+    "rating_score": 4.0,
+    "sentiment_score": 0.2000598371523664
+  },
+  "review_evidence": {
+    "positive_snippets": [
+      "Rooms are ok but washrooms are not maintained rooms are comfortable with the bed television table and chair however the service was very good"
+    ],
+    "negative_snippets": [
+      "Your receptionist behaviour is too rude and non professional. He tried to fight with us even we are too polite. Reception area don\u2019t have even fan . If  you want to do good buisness change your Staff as soon as possible and hire professionals one.",
+      "Service not good . They are very lazy ( I don't have option to give - ratting ) . Online price they said server issue. They ask more money to pay . Safety purpose I don't like this place. I am feel it's not safety for girls .",
+      "The worst service that you can ever expect out of a hotel & if you book it through oyo, whenever you try to check in, they will ask you to cancel that booking & will try to overcharge you. I booked it for 829/ day & when I reached the boy  canceled the booking my room. Charged 2600 2 room for 1 days. Worst experience.  Never visit again. Not recommended \ud83d\ude15"
+    ]
+  },
+  "review_summary": "Based on 5 reviews.",
+  "positive_themes": {
+    "friendly_staff": 1
+  },
+  "negative_themes": {
+    "rude_staff": 1
+  }
+}

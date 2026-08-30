@@ -1,0 +1,47 @@
+{
+  "hotel_id": "ChIJc9nUFqgYDTkRLusxIdi-tzQ",
+  "hotel_name": "Oyo Hotel Sands Inn Near Bestech Central Square Mall",
+  "area": "Sector 56",
+  "budget_category": "Budget",
+  "rating": 3.4,
+  "trust_score": 0.7352194002881651,
+  "travel_purpose_tags": [
+    "Leisure"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "moderate",
+    "review_count": 5,
+    "positive_snippet_count": 3,
+    "negative_snippet_count": 0,
+    "positive_theme_count": 4,
+    "negative_theme_count": 0
+  },
+  "aspect_scores": {
+    "cleanliness": 0.9989370505015056,
+    "service": 0.5,
+    "location": 0.9985322654247284,
+    "value_for_money": 0.5,
+    "staff_behavior": 0.9992765665054322
+  },
+  "recommendation_features": {
+    "popularity_score": 0.5228641744469175,
+    "rating_score": 3.4,
+    "sentiment_score": 0.9992765665054322
+  },
+  "review_evidence": {
+    "positive_snippets": [
+      "We spent two nights at the Hotel Sands Inn and Conference Center. We had a very pleasant experience. The property was well maintained. The staff was accommodating and the amenities were what we were looking for. We used the pool a couple of times and the whirlpool. We had a very adequate continental breakfast. The rooms were spacious and very clean and the property was centrally located allowing us to do a fair amount of walking.",
+      "Took my sister and her husband with us this time. We all four decided it was a very nice trip. Rooms were clean and nice place to stay in middle of everything. The help very friendly and professional. Easy access to ice machine. Nice to just sit outside",
+      "The hotel is magnificent. The rooms are amazing and so very comfortable. Everything about the hotel and the employees is 5 stars. Everyone is friendly and they all have smiles on their faces; they make you feel so welcome. I would consider it to be the only place to stay in Gurugram."
+    ],
+    "negative_snippets": []
+  },
+  "review_summary": "Based on 5 reviews.",
+  "positive_themes": {
+    "clean_rooms": 3,
+    "friendly_staff": 5,
+    "good_food": 2,
+    "good_location": 1
+  },
+  "negative_themes": {}
+}

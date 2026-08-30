@@ -1,0 +1,49 @@
+{
+  "hotel_id": "ChIJ8X5p4sGpDTkRAn5CHmb8CgM",
+  "hotel_name": "Flagship Bawana Guest House",
+  "area": "Bawana",
+  "budget_category": "Mid-Range",
+  "rating": 3.8,
+  "trust_score": 0.5982948276299578,
+  "travel_purpose_tags": [
+    "Budget"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "rich",
+    "review_count": 5,
+    "positive_snippet_count": 3,
+    "negative_snippet_count": 2,
+    "positive_theme_count": 3,
+    "negative_theme_count": 0
+  },
+  "aspect_scores": {
+    "cleanliness": 0.9837215542793274,
+    "service": 0.5,
+    "location": 0.5001533477479824,
+    "value_for_money": 0.0004764495242852,
+    "staff_behavior": 0.2803640961647033
+  },
+  "recommendation_features": {
+    "popularity_score": 0.2788721589039871,
+    "rating_score": 3.8,
+    "sentiment_score": 0.5660980864849989
+  },
+  "review_evidence": {
+    "positive_snippets": [
+      "Great experience,safe and secure , best location, best cleaning",
+      "Full secure ,mast gadda,mast room clean rooms",
+      "Goods"
+    ],
+    "negative_snippets": [
+      "In 2 staff available one is male and secondary is female both r clever and raffly behaviors",
+      "Wrong information on Net they ask more money when you reach at location"
+    ]
+  },
+  "review_summary": "Based on 5 reviews.",
+  "positive_themes": {
+    "clean_rooms": 2,
+    "good_location": 2,
+    "friendly_staff": 1
+  },
+  "negative_themes": {}
+}

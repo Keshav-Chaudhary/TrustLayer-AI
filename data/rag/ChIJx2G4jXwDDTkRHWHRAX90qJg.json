@@ -1,0 +1,52 @@
+{
+  "hotel_id": "ChIJx2G4jXwDDTkRHWHRAX90qJg",
+  "hotel_name": "Malbork Inn",
+  "area": "Rajouri Garden",
+  "budget_category": "Budget",
+  "rating": 4.1,
+  "trust_score": 0.7887031736256878,
+  "travel_purpose_tags": [
+    "Leisure",
+    "Business"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "rich",
+    "review_count": 5,
+    "positive_snippet_count": 3,
+    "negative_snippet_count": 2,
+    "positive_theme_count": 5,
+    "negative_theme_count": 0
+  },
+  "aspect_scores": {
+    "cleanliness": 0.6985730230808258,
+    "service": 0.8792083144187928,
+    "location": 0.9997579455375672,
+    "value_for_money": 0.9998408555984496,
+    "staff_behavior": 0.8490501791238785
+  },
+  "recommendation_features": {
+    "popularity_score": 0.5169239726207364,
+    "rating_score": 4.1,
+    "sentiment_score": 0.8792083144187928
+  },
+  "review_evidence": {
+    "positive_snippets": [
+      "Best thing about this hotel is the sevice, best people at the reception, very polite, helpful, Aman, Bharat, they take care of your requirement in the room related, other queries, very nice lady in housekeeping always greet you, take care of your queries, requirement, in the room etc. Very likeable people. There is a guy in the  restaurant who efficiently takes care of your breakfast needs. Good quality fresh food. Altogether always had a very good stay. Whenever i am in Delhi i stay here. Please keep this up like this.",
+      "Decent and quiet rooms, fast service, delicious and reasonably priced food. Definitely worth the 3 nights stay. Can recommend anyone looking for accommodation here.",
+      "I recently stayed at this hotel for a day and had a wonderful experience. It is one of the best options near Tagore Garden.\nThe staff are exceptionally humble, professional, and genuinely passionate about their work.\nThe service was outstanding, and the rooms were clean, well-maintained, and had a welcoming atmosphere.\nI highly recommend this hotel to anyone visiting the Tagore Garden area."
+    ],
+    "negative_snippets": [
+      "The hotel is right in the central hub of Rajouri garden and the rooms in the hotel feels overly packed. The beds are not friendly if you are even 5.10 one will end up having their gets in the air. The rooms needs to better offered with minimums and yet elegant. The bathrooms should have cloth hooks. Overall it's a ok place for 1 - 2 night stay. The management staff is cooperative and polite. They need to revamp the room designs and based on room size a little work on t room tariff should also be taken in for consideration. Please work on your kitchen it's very unhygienic, and please put more staff in the F&B to help serve and clean the kitchen. The property",
+      "The service was delayed and felt too late, which affected the overall experience. The reception staff were okay, but the rest of the staff could be more welcoming and hospitable. Despite this, the place itself is nice and offers a comfortable stay. Its location is really convenient, especially if you're traveling by your own vehicle, making it a good option for those seeking ease of access and mobility."
+    ]
+  },
+  "review_summary": "Based on 5 reviews.",
+  "positive_themes": {
+    "friendly_staff": 4,
+    "good_food": 2,
+    "great_value": 1,
+    "clean_rooms": 2,
+    "good_location": 2
+  },
+  "negative_themes": {}
+}

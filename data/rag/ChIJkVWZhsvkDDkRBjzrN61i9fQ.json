@@ -1,0 +1,51 @@
+{
+  "hotel_id": "ChIJkVWZhsvkDDkRBjzrN61i9fQ",
+  "hotel_name": "The Golden Palms Hotel & Spa",
+  "area": "New Delhi",
+  "budget_category": "Mid-Range",
+  "rating": 3.7,
+  "trust_score": 0.6259621945087597,
+  "travel_purpose_tags": [
+    "Budget"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "moderate",
+    "review_count": 5,
+    "positive_snippet_count": 1,
+    "negative_snippet_count": 3,
+    "positive_theme_count": 4,
+    "negative_theme_count": 1
+  },
+  "aspect_scores": {
+    "cleanliness": 0.999168872833252,
+    "service": 0.2503951042526751,
+    "location": 0.4997020391892874,
+    "value_for_money": 0.5,
+    "staff_behavior": 0.0006578365476646
+  },
+  "recommendation_features": {
+    "popularity_score": 0.7203744167741465,
+    "rating_score": 3.7,
+    "sentiment_score": 0.4001498579687904
+  },
+  "review_evidence": {
+    "positive_snippets": [
+      "I stayed here for 5 days for a conference in November,2025\u2026\nThe best part was food , it was amazing and consistent in all 3 meals and for all 5 days, I called the chef personally and applauded him.\nRoom service was also good.\nLift is bit slow than usual.\nFor recreation, something can be done and added.\nBest wishes \ud83d\udc90"
+    ],
+    "negative_snippets": [
+      "The hotel offers a decent stay overall. Rooms are reasonably comfortable and clean, though slightly dated in some areas. The location is convenient depending on your purpose of visit, I stayed here for easy daily commute to Bharat Madapam/Pragati Maidan.\n\nOverall, it\u2019s a fair option for a short stay if you\u2019re looking for something moderately priced.",
+      "I am extremely disappointed with my recent stay at this hotel. The service was unprofessional from the start, and things only got worse. During my stay, one of my pieces of jewelry went missing from my room. I reported it immediately, but the hotel staff showed little concern and have been completely uncooperative in helping resolve the issue.\n\nInstead of assisting me, they kept giving vague answers and showed no urgency or responsibility. Losing something valuable is stressful enough, but the lack of support and accountability from the hotel made the situation even more frustrating.\n\nI expected a much higher standard of security and customer care. Unfortunately, I cannot recommend this hotel to anyone. I will not be returning, and I strongly advise others to think twice before booking.",
+      "My experience at this hotel was extremely disappointing. From the moment I arrived, the staff seemed uninterested and unhelpful. Simple requests took far too long, and often I had to repeat myself just to get basic assistance.\n\nThe overall attitude of the team was unprofessional, and it felt like customer service was simply not a priority. Even small issues were handled poorly, and no one seemed willing to take responsibility or offer solutions."
+    ]
+  },
+  "review_summary": "Based on 5 reviews.",
+  "positive_themes": {
+    "good_food": 1,
+    "clean_rooms": 1,
+    "good_location": 1,
+    "friendly_staff": 3
+  },
+  "negative_themes": {
+    "rude_staff": 2
+  }
+}

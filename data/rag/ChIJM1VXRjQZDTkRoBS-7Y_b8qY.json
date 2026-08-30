@@ -1,0 +1,50 @@
+{
+  "hotel_id": "ChIJM1VXRjQZDTkRoBS-7Y_b8qY",
+  "hotel_name": "Ibis Gurgaon Golf Course Road",
+  "area": "Sector 53",
+  "budget_category": "Mid-Range",
+  "rating": 4.4,
+  "trust_score": 0.9407952676772852,
+  "travel_purpose_tags": [
+    "Leisure",
+    "Business",
+    "Family"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "moderate",
+    "review_count": 5,
+    "positive_snippet_count": 3,
+    "negative_snippet_count": 0,
+    "positive_theme_count": 5,
+    "negative_theme_count": 0
+  },
+  "aspect_scores": {
+    "cleanliness": 0.9996774593989054,
+    "service": 0.9997178614139556,
+    "location": 0.9995704889297484,
+    "value_for_money": 0.9993019104003906,
+    "staff_behavior": 0.9996724724769592
+  },
+  "recommendation_features": {
+    "popularity_score": 0.8637393845465942,
+    "rating_score": 4.4,
+    "sentiment_score": 0.9997119188308716
+  },
+  "review_evidence": {
+    "positive_snippets": [
+      "The location on Golf Course Road was extremely convenient for my needs.\n\nCheck-in was quick and the staff at the front desk was courteous.\n\nThe room was clean and the Sweet Bed\u2122 was comfortable as always.\n\nHousekeeping is also too wonderful.\n\nOverall, it was a [good/satisfactory/comfortable] stay for the value, and I appreciate the efforts of the team in maintaining the property.\n\nThank you for the hospitality. I look forward to possibly staying again in the future.\nBest regards,",
+      "Recently I have been staying in Ibis hotel till now I had a great experience. The best part of this hotel is the outside Seating area where my friends and me can chill and talk whole night instead of seating in one closed room .\nAnd the best part was the staff was always there help and assist so first thanks for them and second one is to the Cleaning guys Mr. Shaibaz and Mr.Rahul thank you so......... Much for your good hospitality and cleaning our room everyday . Everyday coming from work entering in the room must feel refreshing and this made possible because of you guys .\nReally thanks to Shaibaz and Rahul for doing your work very well \ud83d\ude0a",
+      "I had a wonderful stay at ibis Hotel, and I especially want to appreciate the excellent housekeeping service. The room was always spotless, well-organized, and very comfortable.\nA special thanks to Niranjan for doing such an outstanding job. He was professional, attentive, and made sure everything was perfectly clean and arranged. His dedication and positive attitude truly made my stay more pleasant."
+    ],
+    "negative_snippets": []
+  },
+  "review_summary": "Based on 5 reviews.",
+  "positive_themes": {
+    "clean_rooms": 4,
+    "friendly_staff": 3,
+    "good_location": 1,
+    "great_value": 1,
+    "good_food": 1
+  },
+  "negative_themes": {}
+}

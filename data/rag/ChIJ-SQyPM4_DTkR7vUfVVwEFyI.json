@@ -1,0 +1,49 @@
+{
+  "hotel_id": "ChIJ-SQyPM4_DTkR7vUfVVwEFyI",
+  "hotel_name": "Pg Jmr Homes",
+  "area": "Imt Manesar",
+  "budget_category": "Budget",
+  "rating": 4.3,
+  "trust_score": 0.792068887605216,
+  "travel_purpose_tags": [
+    "Budget"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "moderate",
+    "review_count": 5,
+    "positive_snippet_count": 3,
+    "negative_snippet_count": 1,
+    "positive_theme_count": 4,
+    "negative_theme_count": 0
+  },
+  "aspect_scores": {
+    "cleanliness": 0.6668741257938867,
+    "service": 0.5003802108694799,
+    "location": 0.0008932208875194,
+    "value_for_money": 0.0008932208875194,
+    "staff_behavior": 0.999764621257782
+  },
+  "recommendation_features": {
+    "popularity_score": 0.5265152233231355,
+    "rating_score": 4.3,
+    "sentiment_score": 0.8000302286120131
+  },
+  "review_evidence": {
+    "positive_snippets": [
+      "Good Service by Bharat Ji . Very Nice PG . Cleanliness and Hygiene is very good . Overall Very Excellent Experience . Thank You .",
+      "Very very nice and very all food room ek dm badiya  h",
+      "Hi everyone one of the best. Pg in sec 8 Manesar. The staff member is also very cooperative and the food is very best like home food I would definitely recommend staying here,\n\nPrateek Singh"
+    ],
+    "negative_snippets": [
+      "I visited last week to urgently look for a room. The service was good, but the room condition and hygiene were really disappointing. The room was not properly maintained, and the washroom was not clean at all. Considering all this, the price of 13k feels too high for the current condition. Lastly, I would suggest that anyone coming to IMT Manesar should book a hotel for at least 2 days first. Stay there comfortably and use that time to find a room in a good location and in proper condition."
+    ]
+  },
+  "review_summary": "Based on 5 reviews.",
+  "positive_themes": {
+    "clean_rooms": 3,
+    "good_food": 2,
+    "friendly_staff": 1,
+    "good_location": 1
+  },
+  "negative_themes": {}
+}

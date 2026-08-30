@@ -1,0 +1,53 @@
+{
+  "hotel_id": "ChIJo0kq50oDDTkRW31gcMJK4TY",
+  "hotel_name": "Capital O Stellar Inn Near M2K Cinemas Rohini",
+  "area": "Rohini",
+  "budget_category": "Budget",
+  "rating": 4.1,
+  "trust_score": 0.749587757862692,
+  "travel_purpose_tags": [
+    "Leisure"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "rich",
+    "review_count": 5,
+    "positive_snippet_count": 3,
+    "negative_snippet_count": 2,
+    "positive_theme_count": 5,
+    "negative_theme_count": 1
+  },
+  "aspect_scores": {
+    "cleanliness": 0.0003102571354247,
+    "service": 0.6623326589857849,
+    "location": 0.9993038475513458,
+    "value_for_money": 0.9876498579978944,
+    "staff_behavior": 0.9876498579978944
+  },
+  "recommendation_features": {
+    "popularity_score": 0.4559389939601579,
+    "rating_score": 4.1,
+    "sentiment_score": 0.7972625285503454
+  },
+  "review_evidence": {
+    "positive_snippets": [
+      "I was very afraid of rooms when i booked, but when I checked in and saw the rooms I was amazed by the cleanliness and services provided by them I have stayed 5 nights. I would recommend this everyone. And a bonus, there is Friday market happens in the street if you are a shopping person you will love it.",
+      "Small but great rooms , very much impressed with the interior designs.\n\nNot much options in breakfast but manageable",
+      "In the place like rohini it's a very safe and affordable stay at the price. Rooms are cozy but sizes are little bit small but it's obvious in that costly place they are giving a good service and as of all other reviews smoky smells are comi.ng from the rooms bt don't know why or from where . Otherwise va good experience in the stay, staffs are also humble and very helpful. Happy with treebo service as always"
+    ],
+    "negative_snippets": [
+      "The service was very good... but the rooms were quite small... but everything is compensated by a very good service...very hardworking people and a good location.",
+      "Was very disappointed especially compared to what was shown in the images and written in amenities. The place is very tiny and most of the rooms stink of piss or cigarettes. Had to change the first room I got cos the cigarette smell was unbearable. Linens, mattresses and furniture were all stained and dated. Whole night I lied down on the bed with an uneasy feeling. The place seems to cater primarily to couples looking for a place to hookup. It\u2019s okay to do that but that can\u2019t be your only clientele you base your service on. Felt ripped off paying 2500/night for this. Bathrooms were also not very clean although they were a tad bit better than the room."
+    ]
+  },
+  "review_summary": "Based on 5 reviews.",
+  "positive_themes": {
+    "clean_rooms": 2,
+    "good_food": 1,
+    "friendly_staff": 1,
+    "great_value": 1,
+    "good_location": 1
+  },
+  "negative_themes": {
+    "dirty_rooms": 2
+  }
+}

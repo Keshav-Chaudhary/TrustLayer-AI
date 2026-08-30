@@ -1,0 +1,50 @@
+{
+  "hotel_id": "ChIJ5ywskdUBDTkReNdCgxAYPJI",
+  "hotel_name": "Hotal Capital Valley",
+  "area": "Adarsh Nagar",
+  "budget_category": "Mid-Range",
+  "rating": 3.1,
+  "trust_score": 0.4492372768225334,
+  "travel_purpose_tags": [
+    "Budget"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "moderate",
+    "review_count": 5,
+    "positive_snippet_count": 1,
+    "negative_snippet_count": 3,
+    "positive_theme_count": 2,
+    "negative_theme_count": 2
+  },
+  "aspect_scores": {
+    "cleanliness": 0.0008990634596556,
+    "service": 0.0002341536601306,
+    "location": 0.5,
+    "value_for_money": 0.5,
+    "staff_behavior": 0.6666365354564429
+  },
+  "recommendation_features": {
+    "popularity_score": 0.2637433020525564,
+    "rating_score": 3.1,
+    "sentiment_score": 0.4006481795950094
+  },
+  "review_evidence": {
+    "positive_snippets": [
+      "Good Rooms, Good Maintenance, Good behavior of staff"
+    ],
+    "negative_snippets": [
+      "I stayed here and am expressing my thoughts as follows:-\n1. The rooms are not clean and hygienic.\n2. AC are also not working properly.\n3. Room service is also not well.\n4. Washroom waste water spread over the floor, not well slopes given for quick drainage.\n5. Area is also too much dirty, garbage spread outside of the hotel and it smelling too much awkward.\n6. Not family friendly rooms.\n\nAlso, checkout the attached photos.",
+      "I stayed here out of emergency. Not for family. Dirty bathrooms and rooms. Broken celing. Do not recommend. The area is very noisy and dirty as well.",
+      "Rooms are awesome and staff is also helpful and friendly"
+    ]
+  },
+  "review_summary": "Based on 5 reviews.",
+  "positive_themes": {
+    "friendly_staff": 3,
+    "clean_rooms": 1
+  },
+  "negative_themes": {
+    "dirty_rooms": 2,
+    "noise": 1
+  }
+}

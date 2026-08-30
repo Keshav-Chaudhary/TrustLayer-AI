@@ -1,0 +1,52 @@
+{
+  "hotel_id": "ChIJXcsvGhodDTkR2RGRqqx66ro",
+  "hotel_name": "Moon Residency Hotel",
+  "area": "Mahipalpur",
+  "budget_category": "Mid-Range",
+  "rating": 4.5,
+  "trust_score": 0.7640488238841622,
+  "travel_purpose_tags": [
+    "Leisure"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "rich",
+    "review_count": 5,
+    "positive_snippet_count": 3,
+    "negative_snippet_count": 2,
+    "positive_theme_count": 4,
+    "negative_theme_count": 1
+  },
+  "aspect_scores": {
+    "cleanliness": 0.5006630399730057,
+    "service": 0.9998725652694702,
+    "location": 0.998893678188324,
+    "value_for_money": 0.998893678188324,
+    "staff_behavior": 0.0002171989326598
+  },
+  "recommendation_features": {
+    "popularity_score": 0.5697373458318125,
+    "rating_score": 4.5,
+    "sentiment_score": 0.6000567188631976
+  },
+  "review_evidence": {
+    "positive_snippets": [
+      "It was Great Experience You Should Travel Here It's for Valueable Money ! The Rooms Are Spacious Clean And Wonderful. The Tv Are Also Working Properly . The location is in the small street . you Should Travel here if you what best room at low price . Bestttt in low prize in delhi",
+      "Enjoyed the stay with great room service. Hotel environment felt safe and warm",
+      "Room felt fresh and properly cleaned.Basic amenities were available."
+    ],
+    "negative_snippets": [
+      "Worst hotel ever, very rude staff, did not respect booking, gave USED TOWELS, phone not working, cockroaches in washrooms.\nAnd the atmosphere was also not suitable for family. Very Unsafe behaviour\nHad to check out in one day only even though had booking for two",
+      "Bathroom doors has no locks. T.V was not working. Plug and light are connected so you want to charge mobile you want lights on."
+    ]
+  },
+  "review_summary": "Based on 5 reviews.",
+  "positive_themes": {
+    "clean_rooms": 2,
+    "good_location": 1,
+    "great_value": 1,
+    "friendly_staff": 1
+  },
+  "negative_themes": {
+    "rude_staff": 1
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "hotel_id": "ChIJp0gsI8YVDTkRta54FAmE9x4",
+  "hotel_name": "Oyo Bhardwaj Guest House",
+  "area": "old",
+  "budget_category": "Budget",
+  "rating": 3.4,
+  "trust_score": 0.4447166111894139,
+  "travel_purpose_tags": [
+    "Budget"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "moderate",
+    "review_count": 5,
+    "positive_snippet_count": 1,
+    "negative_snippet_count": 3,
+    "positive_theme_count": 1,
+    "negative_theme_count": 1
+  },
+  "aspect_scores": {
+    "cleanliness": 0.5,
+    "service": 0.0003406403993722,
+    "location": 0.5,
+    "value_for_money": 0.000705850077793,
+    "staff_behavior": 0.0004538735229289
+  },
+  "recommendation_features": {
+    "popularity_score": 0.3564075138935633,
+    "rating_score": 3.4,
+    "sentiment_score": 0.1997025704331463
+  },
+  "review_evidence": {
+    "positive_snippets": [
+      "One of the best hotel experience in india really deserve 5 rating"
+    ],
+    "negative_snippets": [
+      "Everything about this hotel in photos are fake , Rude behaviour of staff and greedy for money, during checkout time he was not at the hotel and I was ready to checkout and I tried calling him but didn't picked call and after 45 minutes he came and say to me about extra charge the I shouted at him about absence in the hotel and I was ready to checkout then he got shut , lack of electricity , damage television , unhygienic..",
+      "really bad quality.. super bad quality even at 100 rupee.",
+      "Rude behaviour. unable to check in"
+    ]
+  },
+  "review_summary": "Based on 5 reviews.",
+  "positive_themes": {
+    "friendly_staff": 1
+  },
+  "negative_themes": {
+    "rude_staff": 2
+  }
+}

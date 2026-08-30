@@ -1,0 +1,49 @@
+{
+  "hotel_id": "ChIJP9_r8jEBDTkRXzwQK51rT14",
+  "hotel_name": "Hotel O By Oyo White Diamond",
+  "area": "Alipur Village",
+  "budget_category": "Budget",
+  "rating": 3.3,
+  "trust_score": 0.3492741492963887,
+  "travel_purpose_tags": [
+    "Budget"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "moderate",
+    "review_count": 5,
+    "positive_snippet_count": 0,
+    "negative_snippet_count": 3,
+    "positive_theme_count": 3,
+    "negative_theme_count": 2
+  },
+  "aspect_scores": {
+    "cleanliness": 0.0003892607346642,
+    "service": 0.0003145840455544,
+    "location": 0.5,
+    "value_for_money": 0.0002518371329642,
+    "staff_behavior": 0.000395225622924
+  },
+  "recommendation_features": {
+    "popularity_score": 0.2690641681418895,
+    "rating_score": 3.3,
+    "sentiment_score": 0.0004455286252777
+  },
+  "review_evidence": {
+    "positive_snippets": [],
+    "negative_snippets": [
+      "1.Not worth tha money ! Ac didn't work properly .\n\n2.Terrible experience! Hotel was dirty ,some staff was rude and unfriendly,\nFound cigarette packs and condom pack everywhere\nFound alcohol bottles in the room  cupboard , Hotels cleaning standards are clearly very low,\nHere i highlight some  incident -\n\n\"In my 2 nd day of staying in this hotel i feel some bad  experience ..\nAnd than i reported  tha incident to tha  reception staff ,instead of taking my complaint seriously he tried to turn it around on me and told that we saw cctv nothing is happening\nTha lack of security and support from the staff .i would not recommend this hotel to anyone, especially female travelling alone\n.......zero stars and a big thumb down",
+      "The hotel is not located at a great place.\n\nThe room was not clean, and looked old.\n\nThe staff did not even provide the key for the room. Throughout my stay, the door was kept unlocked.\n\nThere were a lot of mosquitoes, and the geyser was not plugged in.\n\nI had booked for 3 days, and on the 2nd day, when I came back to the room at night, there was another couple staying there, and I had to shift to another room.\n\nOn contacting the hotel before arrival, I was told not to pay online, and to pay at the hotel. So, I paid only at the hotel.\n\nBut after a day, I got a message from Oyo that as I had not arrived, my booking had been cancelled!\n\nOverall, not recommended.",
+      "Worst Hotel ever I have seen. I recommend please don't stay at this hotel. Full of mosquitoes , The bathroom is not working properly , T.V is smart but wi-fi is not working , Infrastructure is good but maintainance is very poor. The service is also not so good they keep on delaying your complains\ud83d\udc4e\ud83d\udc4e"
+    ]
+  },
+  "review_summary": "Based on 5 reviews.",
+  "positive_themes": {
+    "clean_rooms": 2,
+    "friendly_staff": 2,
+    "great_value": 1
+  },
+  "negative_themes": {
+    "dirty_rooms": 1,
+    "rude_staff": 1
+  }
+}

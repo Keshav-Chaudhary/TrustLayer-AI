@@ -1,0 +1,48 @@
+{
+  "hotel_id": "ChIJKREHk7IbDTkRqiqzifn1WX8",
+  "hotel_name": "Msk Residency",
+  "area": "New Delhi",
+  "budget_category": "Mid-Range",
+  "rating": 4.2,
+  "trust_score": 0.8140605217036042,
+  "travel_purpose_tags": [
+    "Leisure"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "moderate",
+    "review_count": 5,
+    "positive_snippet_count": 3,
+    "negative_snippet_count": 0,
+    "positive_theme_count": 5,
+    "negative_theme_count": 0
+  },
+  "aspect_scores": {
+    "cleanliness": 0.9997346699237823,
+    "service": 0.5,
+    "location": 0.9997346699237823,
+    "value_for_money": 0.5,
+    "staff_behavior": 0.999774980545044
+  },
+  "recommendation_features": {
+    "popularity_score": 0.3927931857069744,
+    "rating_score": 4.2,
+    "sentiment_score": 0.999774980545044
+  },
+  "review_evidence": {
+    "positive_snippets": [
+      "Dear MSK Team / Mr Nipun.\nwe would like to share our very honest and true stay experience at your hotel very recently.\nwe booked all 10 rooms for 4 nights at your hotel for ourself and conference colleagues through our company Vause Global LLP.\n\n1. Rooms are very spacious and very clean.\n2. Hotel is located at a very nice location, close to market area and good restaurants.\n3. Staff is very helpful, through out check in process. staff is very helpful and housekeeping staff is really good interms of daily cleaning of your room.\n4. Breakfast is very good and fresh. Overall food is really good in regards to taste and freshness chef / team listen for any personal suggestions and requests.\neven one night they closed the kitchen and we ordered food, inspite to refusing they actually make the entire food amazingly.\n\nOwner - Mr Nipun is also very helpful all the time, he himself make sure is no issues during our stay.\ni would like to congratulate him for wonderful hotel and his further hotel projects.\n\nthanks and regards\nUday Kant Saxena\nManaging Partner\nVause Global LLP (Noida)",
+      "I had a small function related to the wedding and this was the perfect location to hold it.\nThe connectivity with metro makes guests come very easily and the grocery store near it makes it accessible.\nThe rooms were clean and all the rooms had a bathroom.\nThe staff was very polite and helpful , they provided the assistance not just with the hotel chores but with my functions as well.\nI'd recommend this place if you plan to host a celebration and for staying.\nThe caretaker Nipun is very helpful and flexible in terms of booking and making changes.",
+      "It was a pleasure staying at msk residency sector 12, Dwarka. The hospitality and the staff behaviour was top notch. I would like to express my heartfelt gratitude to Mr. Nipun Sharma who's father owns this property. He is a gentleman who would make sure that you have an amazing stay at their property. The breakfast came complementary that too with plenty of options and great flavours to choose from. The rooms were neat and well maintained. I will definitely recommend this anyone who would like to make their stay a worthwhile experience. The bonus is the spacious landscape with lavish lawn to sit and sip your tea during morning hours. A go to place to host your haldi or any celebration events."
+    ],
+    "negative_snippets": []
+  },
+  "review_summary": "Based on 5 reviews.",
+  "positive_themes": {
+    "clean_rooms": 3,
+    "friendly_staff": 5,
+    "good_location": 2,
+    "good_food": 3,
+    "great_value": 1
+  },
+  "negative_themes": {}
+}

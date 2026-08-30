@@ -1,0 +1,49 @@
+{
+  "hotel_id": "ChIJu8LlD5oGDTkRwBIgoNVPNuU",
+  "hotel_name": "Collection O Hotel Yellow Saffron",
+  "area": "Rohini",
+  "budget_category": "Mid-Range",
+  "rating": 3.6,
+  "trust_score": 0.4952766968134054,
+  "travel_purpose_tags": [
+    "Budget"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "moderate",
+    "review_count": 5,
+    "positive_snippet_count": 1,
+    "negative_snippet_count": 3,
+    "positive_theme_count": 1,
+    "negative_theme_count": 2
+  },
+  "aspect_scores": {
+    "cleanliness": 0.0003365409211255,
+    "service": 0.5018372058402747,
+    "location": 0.5,
+    "value_for_money": 0.5,
+    "staff_behavior": 0.0006865869509055
+  },
+  "recommendation_features": {
+    "popularity_score": 0.4670576447267444,
+    "rating_score": 3.6,
+    "sentiment_score": 0.2010768253006972
+  },
+  "review_evidence": {
+    "positive_snippets": [
+      "Thank you very much to Vishu ji for your great help, everything was managed very well, service is excellent"
+    ],
+    "negative_snippets": [
+      "Very bad service and receptionist use abusive language they don't have manners how to talk with guests and the housekeeper boy should also use abusive language i request owner please responsible and well maintained logo ko rkho",
+      "Worst experience ever, why there is no minus star rating. Very bad rooms , staff is very rudly.",
+      "Room are different not actually shown in the pic\nBaki hotel staff thik h but security wala interfere kr rha tha bar bar check out k liye puch rha tha jitni bar me bhr jau tha\nVery bad behaviour of security guard of the hotel\nPlz change the security guard or teach him how to talking with the guest ."
+    ]
+  },
+  "review_summary": "Based on 5 reviews.",
+  "positive_themes": {
+    "friendly_staff": 2
+  },
+  "negative_themes": {
+    "rude_staff": 1,
+    "dirty_rooms": 1
+  }
+}

@@ -1,0 +1,53 @@
+{
+  "hotel_id": "ChIJEZfQ9zQbDTkRxsEoCNGPATA",
+  "hotel_name": "Mira International",
+  "area": "New Delhi",
+  "budget_category": "Mid-Range",
+  "rating": 3.8,
+  "trust_score": 0.6984307344673369,
+  "travel_purpose_tags": [
+    "Leisure",
+    "Business",
+    "Family"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "moderate",
+    "review_count": 5,
+    "positive_snippet_count": 3,
+    "negative_snippet_count": 1,
+    "positive_theme_count": 4,
+    "negative_theme_count": 1
+  },
+  "aspect_scores": {
+    "cleanliness": 0.9994784593582152,
+    "service": 0.9997164607048036,
+    "location": 0.9995577931404114,
+    "value_for_money": 0.6664169113597987,
+    "staff_behavior": 0.7495753229231923
+  },
+  "recommendation_features": {
+    "popularity_score": 0.3993980695823625,
+    "rating_score": 3.8,
+    "sentiment_score": 0.799611108348472
+  },
+  "review_evidence": {
+    "positive_snippets": [
+      "I recently had an occasion to stay at this hotel and it was a good experience. It has courteous Staff, food reasonably good and the accommodation well\nmaintained. Efforts appreciable under the supervisory skills of Ms Smita James, the Manager, and I would like to stay at this hotel when I visit Dwarka next time.\n\nI would also appreciate if the promoters could pay little attention to the tariff and also could provide decent toiletries in the rooms.",
+      "I would like to thanks the entire team.of Hotel Mira. The staffs, cleanliness of hotel, hygiene food and the immediate support and their efforts to make comfortable to the guest is really amazing. It was a great experience over here. The level of hygiene they maintain is really highly appreciated. The most importantly location. Just infront of Dwarka sector 13 Metro station reliance is just 30Mtr away .can avail evening easily.",
+      "This is really very nice Hotel in this budget , surrounded by Radisson Blu Five Star Hotel , Reliance Mall , Iskcon Temple , many restaurants , very close from Metro Station, IGI Airport etc. All Rooms are very ventilated , staffs are very polite and supportive, foods are cool just like home. Reception area very wide with good sitting capacity for walking guest or for meeting etc.\n\nI recommend for this hotel if you coming Delhi Dwarka you must stay here.\n\nThanks\n\nMukesh Singh ,\nFounder , M/s Hindustan Tea Company\nIndia."
+    ],
+    "negative_snippets": [
+      "ery bad experience. I had confirmed the room rate before arrival, but when I reached the hotel, the staff refused to honor the agreed price. This caused unnecessary inconvenience and shows lack of professionalism. Would not recommend based on this experience."
+    ]
+  },
+  "review_summary": "Based on 5 reviews.",
+  "positive_themes": {
+    "friendly_staff": 5,
+    "good_food": 3,
+    "clean_rooms": 2,
+    "good_location": 1
+  },
+  "negative_themes": {
+    "parking_issues": 1
+  }
+}

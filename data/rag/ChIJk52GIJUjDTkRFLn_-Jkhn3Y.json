@@ -1,0 +1,52 @@
+{
+  "hotel_id": "ChIJk52GIJUjDTkRFLn_-Jkhn3Y",
+  "hotel_name": "Super Townhouse Sector 57 Gurgaon Near Hong Kong Bazaar",
+  "area": "Sushant Lok 2",
+  "budget_category": "Mid-Range",
+  "rating": 3.9,
+  "trust_score": 0.5662412809524443,
+  "travel_purpose_tags": [
+    "Leisure"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "moderate",
+    "review_count": 5,
+    "positive_snippet_count": 2,
+    "negative_snippet_count": 3,
+    "positive_theme_count": 4,
+    "negative_theme_count": 1
+  },
+  "aspect_scores": {
+    "cleanliness": 0.0013427780019506,
+    "service": 0.0033067851327359,
+    "location": 0.9998784065246582,
+    "value_for_money": 0.0033067851327359,
+    "staff_behavior": 0.994986891746521
+  },
+  "recommendation_features": {
+    "popularity_score": 0.3166168302341184,
+    "rating_score": 3.9,
+    "sentiment_score": 0.3988004234997788
+  },
+  "review_evidence": {
+    "positive_snippets": [
+      "The location and the breakfast were great. The staff were very friendly and helpful. The housekeeping was excellent. My room was cleaned really well everyday.  and the entertainment at the Hotel was a wonderful addition.",
+      "Overall our experience was good for this property. Staff behavior is good and rooms conditions are average."
+    ],
+    "negative_snippets": [
+      "Absolutely pathetic place. Could not stay for more than 30 mins. Thr pictures they have posted are not from this townhouse for the rooms. Lobby filled with garbage and smell. Room totally dirty with so many kinds of dirty smells was not even cleaned. Yhe bedsheet pillow cases bathroom were unhygienic level dirty. Dont ever go there. I wasted my 1500 and had to checkout within 20 minutes.\nPs- is being used for only one purpose yhr oldest prifession in the world. If you know what that means.",
+      "This is the worst hotel in entire Gurgaon. The rooms are absolutely dirty, there is no cleanliness, the paint of the walls has peeled off and people have spit everywhere,\nLook like a indian railway ka general dabba.",
+      "Dont go here. First of all they will show lesser price and when you will reach their they will say that the price is updated and will loot you higher money. And never let the reception guy touch your phone, he will modify your booking to double or triple occupancy in his phone and will refresh your phone to show price increase and booking modify. Moreover this, the place seemed more for couples, the rooms will be stinking, bedsheet not changed and will have dirty patches. A normal person cant stay within the room for minute. Better avoid the low cost Oyos concept"
+    ]
+  },
+  "review_summary": "Based on 5 reviews.",
+  "positive_themes": {
+    "clean_rooms": 3,
+    "friendly_staff": 2,
+    "good_location": 1,
+    "good_food": 1
+  },
+  "negative_themes": {
+    "dirty_rooms": 3
+  }
+}

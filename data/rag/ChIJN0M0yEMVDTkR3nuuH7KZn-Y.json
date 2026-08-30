@@ -1,0 +1,46 @@
+{
+  "hotel_id": "ChIJN0M0yEMVDTkR3nuuH7KZn-Y",
+  "hotel_name": "Hotel O The Red Cap Inn",
+  "area": "Budhera",
+  "budget_category": "Budget",
+  "rating": 4.7,
+  "trust_score": 0.7362763683350801,
+  "travel_purpose_tags": [
+    "Budget"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "moderate",
+    "review_count": 3,
+    "positive_snippet_count": 2,
+    "negative_snippet_count": 1,
+    "positive_theme_count": 2,
+    "negative_theme_count": 0
+  },
+  "aspect_scores": {
+    "cleanliness": 0.9991621971130372,
+    "service": 0.5,
+    "location": 0.5,
+    "value_for_money": 0.5,
+    "staff_behavior": 0.9984540939331056
+  },
+  "recommendation_features": {
+    "popularity_score": 0.2143472170767782,
+    "rating_score": 4.7,
+    "sentiment_score": 0.66660080718187
+  },
+  "review_evidence": {
+    "positive_snippets": [
+      "Great rooms,high speed wifi,owners are so polite,clean rooms",
+      "Nice hotel and clean rooms."
+    ],
+    "negative_snippets": [
+      "The pictures posted are of very good quality but rooms are very dull and basic , don't trust the pictures assume half of what there is posted"
+    ]
+  },
+  "review_summary": "Based on 3 reviews.",
+  "positive_themes": {
+    "clean_rooms": 2,
+    "friendly_staff": 1
+  },
+  "negative_themes": {}
+}

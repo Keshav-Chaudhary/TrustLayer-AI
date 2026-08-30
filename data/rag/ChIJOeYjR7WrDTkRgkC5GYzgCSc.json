@@ -1,0 +1,52 @@
+{
+  "hotel_id": "ChIJOeYjR7WrDTkRgkC5GYzgCSc",
+  "hotel_name": "Sydney Grand Hotel And Resort",
+  "area": "Singhola",
+  "budget_category": "Luxury",
+  "rating": 3.9,
+  "trust_score": 0.566903323097422,
+  "travel_purpose_tags": [
+    "Budget"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "moderate",
+    "review_count": 5,
+    "positive_snippet_count": 1,
+    "negative_snippet_count": 3,
+    "positive_theme_count": 3,
+    "negative_theme_count": 3
+  },
+  "aspect_scores": {
+    "cleanliness": 0.0003094964195042,
+    "service": 0.0071894821012392,
+    "location": 0.5,
+    "value_for_money": 0.0071773482632124,
+    "staff_behavior": 0.0048880643153097
+  },
+  "recommendation_features": {
+    "popularity_score": 0.6119426613279428,
+    "rating_score": 3.9,
+    "sentiment_score": 0.2039916254172566
+  },
+  "review_evidence": {
+    "positive_snippets": [
+      "A perfect place for a memorable, stress-free wedding. Highly recommended!\n\nArranged wedding ceremony at Sydney Grand in December 2025, everything was perfect, as per our expectations."
+    ],
+    "negative_snippets": [
+      "Rooms are very dirty. The mattress is dirty. The blanket they provide have also had a hole on it. Bathrooms are really icky, dirty and whatnot. The staff is very slow they don't even listen to us. Cleaning staff is also not good.",
+      "Worst property ever seen in my history\nStaff is rude\nAlso the manager name kunal is so polite at the time of booking and after booking so rude and insulting person.\nIf you are booking it for marriage or anything\nPlease minus this property in your list\nWorst worst worst\n\nFood is also ok ok and price is too expensive\n\nPathetic service overall",
+      "Plate scam  shortage of food is very common in resorts.  Please avoid to book this for your children special moment"
+    ]
+  },
+  "review_summary": "Based on 5 reviews.",
+  "positive_themes": {
+    "clean_rooms": 1,
+    "friendly_staff": 2,
+    "good_food": 2
+  },
+  "negative_themes": {
+    "dirty_rooms": 1,
+    "rude_staff": 1,
+    "parking_issues": 1
+  }
+}

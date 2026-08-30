@@ -1,0 +1,49 @@
+{
+  "hotel_id": "ChIJd5cZPc8aDTkRE1xpc6mQ0Sg",
+  "hotel_name": "Oyo Hotel Golden Tree Near Dwarka Sector 12 Metro Station",
+  "area": "Dwarka",
+  "budget_category": "Budget",
+  "rating": 2.9,
+  "trust_score": 0.354527875862257,
+  "travel_purpose_tags": [
+    "Budget"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "moderate",
+    "review_count": 5,
+    "positive_snippet_count": 0,
+    "negative_snippet_count": 3,
+    "positive_theme_count": 4,
+    "negative_theme_count": 1
+  },
+  "aspect_scores": {
+    "cleanliness": 0.0005089058201216,
+    "service": 0.000203332529054,
+    "location": 0.0007747159106656,
+    "value_for_money": 0.000203332529054,
+    "staff_behavior": 0.0110596920518825
+  },
+  "recommendation_features": {
+    "popularity_score": 0.5343162522271295,
+    "rating_score": 2.9,
+    "sentiment_score": 0.0067446294327964
+  },
+  "review_evidence": {
+    "positive_snippets": [],
+    "negative_snippets": [
+      "I checked in hotel green on 9.11.2019. First thing that I observed was that it was nothing like a hotel very bad infrastructure. The staff was inexperienced and they were confused which room they will give though I have informed them about my check in time. Then the room no. 303 they have provided us was pathetic in every way with old bed sheets no fresh towel and they want us to use the old towel. The AC and TV was not working the bathroom tap was broken and flush was dirty, gyeser was also not working. At night cause of the staff miscommunication they were continuously banging on the door late night around 1am which shows how professional the staff was. I have paid the whole amount in advance and I get a bad experience. finally I will not recommend anyone to visit that place ever.",
+      "Pahadganj hotel in Dwarka.\n1. Wrong location shown on Google maps. Took 20 mins to search the hotel.\n2. Rooms were smelling cz of moisture n chipping paint.\n3. No towel in the room had to ask. No glasses in room, no mug in washroom either, dint bother to ask.\n4. The quilt was almost gone n was as thin as a bedsheet. Had to ask for a blanket next day.\n5. Poor mobile network in their hotel.\n6. 4 electric plugs but not one is working to charge the phone, had to charge on TV socket.\n7. Stuffy room with no window for ventilation.\n8. In breakfast they offered a cup of tea & slices of raw bread.\n9. All these problems in the best room of their hotel which they show for booking. Some rooms dont even have a decent almira.\n10. One star is for their hotel staff which is descent in their behaviour.\nBook it at your own risk.",
+      "I don't know what the map has done but couldn't find the way firstly and then after some jugaad found the way to the hotel and guess what there was no sign board of a hotel. We entered one building by looking at the the images provided in maps and guess what found that it was an apartment. Asked there on that we're looking for a hotel and they just refused that there's no hotel here. Hugely disappointed."
+    ]
+  },
+  "review_summary": "Based on 5 reviews.",
+  "positive_themes": {
+    "friendly_staff": 3,
+    "good_location": 1,
+    "good_food": 1,
+    "clean_rooms": 1
+  },
+  "negative_themes": {
+    "dirty_rooms": 2
+  }
+}

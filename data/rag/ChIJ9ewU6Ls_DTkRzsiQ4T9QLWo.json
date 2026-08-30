@@ -1,0 +1,50 @@
+{
+  "hotel_id": "ChIJ9ewU6Ls_DTkRzsiQ4T9QLWo",
+  "hotel_name": "The Grand Royal Pg&Hotel",
+  "area": "Puranmal Mandir Road",
+  "budget_category": "Budget",
+  "rating": 4.3,
+  "trust_score": 0.7551459569373492,
+  "travel_purpose_tags": [
+    "Business"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "rich",
+    "review_count": 5,
+    "positive_snippet_count": 3,
+    "negative_snippet_count": 2,
+    "positive_theme_count": 4,
+    "negative_theme_count": 0
+  },
+  "aspect_scores": {
+    "cleanliness": 0.9997217059135436,
+    "service": 0.99980828166008,
+    "location": 0.5,
+    "value_for_money": 0.501454139710404,
+    "staff_behavior": 0.9997217059135436
+  },
+  "recommendation_features": {
+    "popularity_score": 0.3522695076021969,
+    "rating_score": 4.3,
+    "sentiment_score": 0.8004636744502932
+  },
+  "review_evidence": {
+    "positive_snippets": [
+      "My name is Ghanshyam Roy.I was feal neat and clean properly  food quality batter than other pg.your all staff behaviour are good.",
+      "It was a good experience staying in The grand royal Pg, kasan . It was affordable and the management family has very good manners and very homely.",
+      "Awesome Service \u2665\ufe0f"
+    ],
+    "negative_snippets": [
+      "This PG not good for the return payment of security money.  Here don't send back it due to evaccine of one month. This procedure create it self and don't depose it at first when customer come for rent for room. It is very badly.",
+      "Very nice place to stay and the pg Honor behaviour is very well..."
+    ]
+  },
+  "review_summary": "Based on 5 reviews.",
+  "positive_themes": {
+    "clean_rooms": 1,
+    "friendly_staff": 1,
+    "good_food": 1,
+    "great_value": 1
+  },
+  "negative_themes": {}
+}

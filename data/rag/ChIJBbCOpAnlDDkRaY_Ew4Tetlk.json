@@ -1,0 +1,49 @@
+{
+  "hotel_id": "ChIJBbCOpAnlDDkRaY_Ew4Tetlk",
+  "hotel_name": "Zen Inn Luxury Hotel",
+  "area": "Jasola Vihar",
+  "budget_category": "Budget",
+  "rating": 4.3,
+  "trust_score": 0.7688983250415239,
+  "travel_purpose_tags": [
+    "Leisure",
+    "Business",
+    "Family"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "moderate",
+    "review_count": 5,
+    "positive_snippet_count": 3,
+    "negative_snippet_count": 0,
+    "positive_theme_count": 4,
+    "negative_theme_count": 0
+  },
+  "aspect_scores": {
+    "cleanliness": 0.999803900718689,
+    "service": 0.9996792376041412,
+    "location": 0.999720851580302,
+    "value_for_money": 0.999720851580302,
+    "staff_behavior": 0.9997578263282776
+  },
+  "recommendation_features": {
+    "popularity_score": 0.4167944494294059,
+    "rating_score": 4.3,
+    "sentiment_score": 0.8005521453917026
+  },
+  "review_evidence": {
+    "positive_snippets": [
+      "I had a pleasant experience at ZEN Inn Luxury Hotel. The rooms were quite nice, offering a comfortable stay. The service was generally good, and the staff were helpful. \ud83c\udfe8 The hotel's location was convenient for my needs. \u2728 I'd consider staying here again for its overall value. \ud83d\ude0a\ud83d\udc4d",
+      "I had a wonderful experience at this hotel. From the moment I arrived, the staff was incredibly warm, professional, and attentive. The room was spotless, stylish, and very comfortable \u2014 exactly what I needed after a long day. The amenities were top-notch. The overall atmosphere was peaceful and luxurious. Highly recommended for anyone looking for a high-quality, relaxing stay!",
+      "It was Worth staying . Rooms were clean and nice. Staff were also kind and helpful. Just they need is restaurant of their own otherwise location and service was awesome. No complaints"
+    ],
+    "negative_snippets": []
+  },
+  "review_summary": "Based on 5 reviews.",
+  "positive_themes": {
+    "friendly_staff": 4,
+    "good_location": 3,
+    "great_value": 3,
+    "clean_rooms": 3
+  },
+  "negative_themes": {}
+}

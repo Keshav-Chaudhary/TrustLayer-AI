@@ -1,0 +1,44 @@
+{
+  "hotel_id": "ChIJJbQZ8ej5DDkRgU3unSid7-U",
+  "hotel_name": "Oyo 81535 Hotel Gold",
+  "area": "Loni",
+  "budget_category": "Budget",
+  "rating": 3.8,
+  "trust_score": 0.5523199707503841,
+  "travel_purpose_tags": [
+    "Budget"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "sparse",
+    "review_count": 2,
+    "positive_snippet_count": 1,
+    "negative_snippet_count": 1,
+    "positive_theme_count": 1,
+    "negative_theme_count": 0
+  },
+  "aspect_scores": {
+    "cleanliness": 0.5,
+    "service": 0.5,
+    "location": 0.5,
+    "value_for_money": 0.0161785446107387,
+    "staff_behavior": 0.9998791217803956
+  },
+  "recommendation_features": {
+    "popularity_score": 0.1498222752495692,
+    "rating_score": 3.8,
+    "sentiment_score": 0.5080288331955671
+  },
+  "review_evidence": {
+    "positive_snippets": [
+      "It's a wonderful hotel, with nice rooms and AC facilities.\nAnd most importantly, the staff is very cooperative and helpful.\nThe best OYO hotel in the Loni area."
+    ],
+    "negative_snippets": [
+      "He takes extra money to book from Oyo."
+    ]
+  },
+  "review_summary": "Based on 2 reviews.",
+  "positive_themes": {
+    "friendly_staff": 1
+  },
+  "negative_themes": {}
+}

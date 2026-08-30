@@ -1,0 +1,49 @@
+{
+  "hotel_id": "ChIJA5noYTHdDDkRzwENbOht5eU",
+  "hotel_name": "Via City Walk",
+  "area": "New Industrial Township",
+  "budget_category": "Mid-Range",
+  "rating": 4.0,
+  "trust_score": 0.5214038276627145,
+  "travel_purpose_tags": [
+    "Budget"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "moderate",
+    "review_count": 5,
+    "positive_snippet_count": 1,
+    "negative_snippet_count": 3,
+    "positive_theme_count": 1,
+    "negative_theme_count": 2
+  },
+  "aspect_scores": {
+    "cleanliness": 0.0004676001844927,
+    "service": 0.5002409740700386,
+    "location": 0.5,
+    "value_for_money": 0.5,
+    "staff_behavior": 0.0006315557984635
+  },
+  "recommendation_features": {
+    "popularity_score": 0.3410402707054878,
+    "rating_score": 4.0,
+    "sentiment_score": 0.2003140051616355
+  },
+  "review_evidence": {
+    "positive_snippets": [
+      "Very nice room .Service is very good .\nThanks alot rohtas jii and thanks alot Sandeep jii for good behaviour with us."
+    ],
+    "negative_snippets": [
+      "The person in the reception is very rude and unhygienic when i ask for water bottle they don\u2019t even have a sealed bottle all the water bottle were opened and refilled by them. When i ask for a packed new bottle they are saying \u2018to buy it from outside\u2019. No cleanliness in washroom as well. Also when i ask for a glass they gave me dirty glasses, and when i said i need clean glasses or make them clean they are saying \u2018sir yah to aap isko apne kamre mai saaf krdoge ya to mai baat to ek hi hai\u2019. They don\u2019t even have a dish washing soap. This was my last time, don\u2019t visit.",
+      "We have a very bad experience today as there is no water in washrooms after several reminders from 2 hours, horrible experience",
+      "Worst hotel. Don't stay there. During booking they claim there property is 3 star but actually it's not even 1 star.\nAll there big claims are false."
+    ]
+  },
+  "review_summary": "Based on 5 reviews.",
+  "positive_themes": {
+    "clean_rooms": 1
+  },
+  "negative_themes": {
+    "dirty_rooms": 1,
+    "rude_staff": 1
+  }
+}

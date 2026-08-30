@@ -1,0 +1,53 @@
+{
+  "hotel_id": "ChIJ-XvcAPgdDTkRFvBaEfggBoE",
+  "hotel_name": "Hotel Clayton",
+  "area": "Mahipalpur",
+  "budget_category": "Mid-Range",
+  "rating": 3.7,
+  "trust_score": 0.4557881173172824,
+  "travel_purpose_tags": [
+    "Budget"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "moderate",
+    "review_count": 5,
+    "positive_snippet_count": 1,
+    "negative_snippet_count": 3,
+    "positive_theme_count": 5,
+    "negative_theme_count": 2
+  },
+  "aspect_scores": {
+    "cleanliness": 0.0006615587578077,
+    "service": 0.0002175717818317,
+    "location": 0.5,
+    "value_for_money": 0.0005765765235991,
+    "staff_behavior": 0.0005842140235472
+  },
+  "recommendation_features": {
+    "popularity_score": 0.51941600937114,
+    "rating_score": 3.7,
+    "sentiment_score": 0.0007325082755414
+  },
+  "review_evidence": {
+    "positive_snippets": [
+      "I did almost waited all day for bath towel and haven\u2019t got it until i left.Receptionist was answering call every time and was getting new time for delivery.\nI know this is how they work so i had no much expectation. Also when i reserved room online on booking.com price was more expensive at counter and told that was only booking price seriously.\nyou can see the condition of phone \ud83d\udcde how dirty it is also not functional have no idea why is it there though."
+    ],
+    "negative_snippets": [
+      "I was extremely dissatisfied with my stay due to poor service, including not being provided breakfast, and an unprofessional, unresponsive management team. The hygiene and cleanliness standards were unacceptable, with rooms and common areas poorly maintained. Overall, the property failed to meet even basic expectations, and the reality was completely different from the misleading pictures shown on Google. Unfortunately, I did not like anything about this hotel. The overall experience was below standard and not worth recommending.",
+      "I had booked a room in this hotel through booking.com. When I arrived at the hotel, they said that they didn't have my reservation even though I had booked the room many days in advance. On showing the booking proof, they said they don't have any available rooms and took me to another hotel nearby (Hotel King's plaza). This other hotel (King's plaza), seeing my booking, asked me to pay more than 3x the amount shown on the booking confirmation if I wanted to stay there. On refusing, they took my phone and cancelled the booking from my end so as to not face issues on their end. Would absolutely not recommend anyone stay with them.",
+      "I had a very disappointing stay at this hotel. The room was dirty, the sheets had stains, and the bathroom smelled bad. The staff was unhelpful and unfriendly when we reported the issues. I would not stay here again. Breakfast was very very bad\ud83e\udd2f"
+    ]
+  },
+  "review_summary": "Based on 5 reviews.",
+  "positive_themes": {
+    "clean_rooms": 1,
+    "great_value": 1,
+    "good_food": 2,
+    "good_location": 1,
+    "friendly_staff": 2
+  },
+  "negative_themes": {
+    "dirty_rooms": 2,
+    "rude_staff": 3
+  }
+}

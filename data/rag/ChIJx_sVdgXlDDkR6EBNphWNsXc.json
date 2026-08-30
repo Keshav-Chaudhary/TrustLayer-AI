@@ -1,0 +1,51 @@
+{
+  "hotel_id": "ChIJx_sVdgXlDDkR6EBNphWNsXc",
+  "hotel_name": "Raj Hotel Vip",
+  "area": "Sector 27",
+  "budget_category": "Mid-Range",
+  "rating": 2.7,
+  "trust_score": 0.4548746486463615,
+  "travel_purpose_tags": [
+    "Family"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "rich",
+    "review_count": 5,
+    "positive_snippet_count": 3,
+    "negative_snippet_count": 2,
+    "positive_theme_count": 3,
+    "negative_theme_count": 1
+  },
+  "aspect_scores": {
+    "cleanliness": 0.999658703804016,
+    "service": 0.5074120886347373,
+    "location": 0.500033898410038,
+    "value_for_money": 0.9992134273052216,
+    "staff_behavior": 0.515235555358231
+  },
+  "recommendation_features": {
+    "popularity_score": 0.5293994757998772,
+    "rating_score": 2.7,
+    "sentiment_score": 0.4078803759592119
+  },
+  "review_evidence": {
+    "positive_snippets": [
+      "Raj Hotel VIP is a nice and budget-friendly place to stay in Atta Market, Sector 27, Noida. The rooms are clean, comfortable, and well maintained, making it suitable for both business and family stays. The location is very convenient with easy access to markets, metro, and nearby offices. Staff is polite and service is quick, which makes the overall stay pleasant.\nI also recommend Raj Hotel VIP to add a Google 360\u00b0 Virtual Tour so guests can explore the rooms, reception, and ambience before booking. As a Google Local Guide and Google-trusted 360\u00b0 Virtual Tour photographer, I\u2019ve seen how virtual tours help hotels attract more bookings and stand out on Google Maps.",
+      "Not that costly, so I won't complaint. But there were too much restrictions and issues wrt the service and that guy was a bit rude. If that service get better, it's a good hotel only",
+      "I want to give 5 star rating of this hotel according to price and management team are very humble i am visit there 2 times your receptionist very humble and genuine person thanks for the providing service."
+    ],
+    "negative_snippets": [
+      "Not giving rooms when you booked from Oyo rates they charge their self rates.",
+      "Can\u2019t even begin to describe how pissed off I am with this hotel and its shameless owner. Total fraud going on here. I show up after booking a room, and suddenly I'm told it\u2019s \u201cunavailable.\u201d Instead, they try to force me into a different room and demand an extra 200 for it. What kind of scam is that? I was already drained from the brutal heat outside, and this just pushed me over the edge. Filed a complaint with OYO immediately\u2014this place seriously needs to be blacklisted. Absolutely pathetic service, zero professionalism. Do yourself a favor and stay far, far away from this hellhole."
+    ]
+  },
+  "review_summary": "Based on 5 reviews.",
+  "positive_themes": {
+    "clean_rooms": 1,
+    "friendly_staff": 1,
+    "good_location": 1
+  },
+  "negative_themes": {
+    "rude_staff": 1
+  }
+}

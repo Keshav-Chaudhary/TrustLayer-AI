@@ -1,0 +1,54 @@
+{
+  "hotel_id": "ChIJK7IvNhUcDTkRJuiQWy3VMfE",
+  "hotel_name": "Hotel Viva Palace",
+  "area": "Mahipalpur",
+  "budget_category": "Luxury",
+  "rating": 4.1,
+  "trust_score": 0.7573553250953637,
+  "travel_purpose_tags": [
+    "Leisure"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "rich",
+    "review_count": 5,
+    "positive_snippet_count": 3,
+    "negative_snippet_count": 2,
+    "positive_theme_count": 5,
+    "negative_theme_count": 2
+  },
+  "aspect_scores": {
+    "cleanliness": 0.6669411245190228,
+    "service": 0.999616950750351,
+    "location": 0.9996259212493896,
+    "value_for_money": 0.6666255997455058,
+    "staff_behavior": 0.5001344094926026
+  },
+  "recommendation_features": {
+    "popularity_score": 0.7880302311263774,
+    "rating_score": 4.1,
+    "sentiment_score": 0.6002148503088393
+  },
+  "review_evidence": {
+    "positive_snippets": [
+      "It was a wonderful stay at hotel viva palace. Very clean rooms & hygienic dining space.\nHospitality was quite good & quality of food was great.\nEnjoyed my stay here",
+      "I recently stayed at Vertu Hotel in Mahipalpur, and my experience was genuinely pleasant. The hotel is located very close to the airport, which makes it extremely convenient for early flights or transit stays.\n\nRooms:\nThe rooms were clean, comfortable, and better maintained compared to many nearby properties. The interiors felt modern, tidy, and well-organised. The bed was comfortable, and overall room quality was impressive for the price.\n\nCleanliness:\nThis was one of the biggest positives. The room, washroom, and linens were all neat and fresh. The hotel clearly pays attention to cleanliness, which made the stay comfortable.\n\nService:\nThe staff were polite, quick to assist, and always helpful \u2014 from check-in to room service. They responded promptly when needed and made the stay smooth.\n\nFood:\nThe in-room dining was decent and served on time. Breakfast options were simple but good enough for a short stay.\n\nLocation:\nExcellent connectivity \u2014 the hotel is in the same premises as several other hotels like Viva Palace, but Vertu stands out with better upkeep and overall experience.",
+      "provide specific, honest, and balanced feedback that details your personal experience with both pros and cons. Focus on actionable details\u2014such as service, quality, and value\u2014to help others make informed decisions. Keep it concise, professional, and proofread for clarity, typically within one or two paragraphs."
+    ],
+    "negative_snippets": [
+      "The room was spacious, but unfortunately our experience was not comfortable. The fan was making a lot of noise, so we decided to switch on the AC, but it was not working. Because of this, we couldn\u2019t sleep the whole night. There were also many mosquitoes in the room. We informed the staff, and they provided us with mosquito repellent, which we appreciate.\n\nAdditionally, the breakfast buffet was just for the name. There were very limited options and not much variety. Overall, the stay was disappointing and not worth the experience.",
+      "The hotel Viva Palace, my brother has booked for me. I went to see the room at first because it looks not a clean hotel , to be sure about the hotel room it was dirty and they offer me an another building and another hotel, the hotel in other building is clean and new but the noise is like Delhi is Horning in your ear \ud83d\udc42 it was cold the room so I have asked for a room heater afternoon they said they will give me in the evening and then in the evening they said they don\u2019t have any.\nIt was not good experience I personally not recommend this OPO Hotels \ud83c\udfe8\nRooms are small or maybe they have given me the smallest room.\nBecause they don\u2019t like my face."
+    ]
+  },
+  "review_summary": "Based on 5 reviews.",
+  "positive_themes": {
+    "clean_rooms": 3,
+    "good_food": 3,
+    "friendly_staff": 2,
+    "good_location": 1,
+    "great_value": 2
+  },
+  "negative_themes": {
+    "noise": 2,
+    "dirty_rooms": 1
+  }
+}

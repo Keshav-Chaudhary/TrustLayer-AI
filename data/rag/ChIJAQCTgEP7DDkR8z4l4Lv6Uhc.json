@@ -1,0 +1,53 @@
+{
+  "hotel_id": "ChIJAQCTgEP7DDkR8z4l4Lv6Uhc",
+  "hotel_name": "Ip Royal Hotel",
+  "area": "New Delhi",
+  "budget_category": "Mid-Range",
+  "rating": 4.3,
+  "trust_score": 0.6194292654107755,
+  "travel_purpose_tags": [
+    "Budget"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "moderate",
+    "review_count": 5,
+    "positive_snippet_count": 1,
+    "negative_snippet_count": 3,
+    "positive_theme_count": 3,
+    "negative_theme_count": 4
+  },
+  "aspect_scores": {
+    "cleanliness": 0.2000828769349027,
+    "service": 0.0003256664786021,
+    "location": 0.0004088902496732,
+    "value_for_money": 0.0003666124684968,
+    "staff_behavior": 0.2500522334958077
+  },
+  "recommendation_features": {
+    "popularity_score": 0.6147598995761182,
+    "rating_score": 4.3,
+    "sentiment_score": 0.2000828769349027
+  },
+  "review_evidence": {
+    "positive_snippets": [
+      "The staff were courteous , attentive and always ready to help.. check in and check out were hassle Free , house keeping did a great job everyday..the room was spotless nd well maintained impressive"
+    ],
+    "negative_snippets": [
+      "It was such a pathetic experience staying at IP Royal. Have never experienced something like this before. The staff is so unprofessional and the pictures they have put is nowhere near how the hotel looks.\n\nThere were multiple instances in our 18 hours stay. We checked in around 4pm and our room was not ready until then. Post check in we found that our room size is so small even a kid won\u2019t fit in.\n\nWashroom didn\u2019t have a tap and geyser was not functional. We had to call room service multiple times to get warm water. There were no amenities at all. Called for a bed cover and they asked for the blanket back - told us you cant use both things.\n\nWe had to leave at 7 in the morning and wanted warm milk, we confirmed the previous night and was ready to pay extra. When we called the room service in the morning, they did not answer. After 4th try they told they\u2019re getting it. 7:40 we called again and told us sorry we forgot to get your milk - can we bring now.\n\nThere is no parking space - our car was parked on the moving road. I swear if it weren\u2019t the circumstances we had - would\u2019ve left the hotel no matter what amount we had paid.\n\nDon\u2019t waste your money in this place.",
+      "This was one of the worst hotel experiences I\u2019ve had. The bathroom and toilet were filthy, the bed and clothes felt dirty, and the entire room smelled heavily of cigarette smoke from previous guests.\n\nIt was clear that the room had not been properly cleaned. The lack of hygiene made it impossible to relax or feel comfortable. I strongly do not recommend this hotel.",
+      "Absolutely disappointing stay \u2013 would give zero stars if possible.\nThe lift is pathetic, filthy, sticky floors and walls that haven\u2019t been cleaned in weeks. The housekeeping is practically non-existent: no room cleaning service at all during my 2-night stay, rooms were very untidy on arrival and only got worse. Dustbins in the room were overflowing and never emptied \u2013 disgusting.\n\nOn top of that, the place is extremely noisy because the staff shout and slam doors even late at night (2-3 AM); impossible to sleep. Overall cleanliness is shocking \u2013 dust everywhere, stained linen, dirty bathroom.\n\nThere seems to be no proper management; no one cares or responds to complaints. Save your money and avoid this hotel completely. One of the worst places I\u2019ve ever stayed in."
+    ]
+  },
+  "review_summary": "Based on 5 reviews.",
+  "positive_themes": {
+    "clean_rooms": 3,
+    "friendly_staff": 4,
+    "good_location": 1
+  },
+  "negative_themes": {
+    "rude_staff": 1,
+    "parking_issues": 2,
+    "dirty_rooms": 3,
+    "noise": 2
+  }
+}

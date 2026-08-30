@@ -1,0 +1,53 @@
+{
+  "hotel_id": "ChIJRdQiFUo8DTkRlKBQhTQKzPo",
+  "hotel_name": "Komal Residency",
+  "area": "Imt Manesar",
+  "budget_category": "Mid-Range",
+  "rating": 3.8,
+  "trust_score": 0.6614761552156786,
+  "travel_purpose_tags": [
+    "Budget"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "rich",
+    "review_count": 5,
+    "positive_snippet_count": 3,
+    "negative_snippet_count": 2,
+    "positive_theme_count": 4,
+    "negative_theme_count": 2
+  },
+  "aspect_scores": {
+    "cleanliness": 0.6639400886682173,
+    "service": 0.9901172518730164,
+    "location": 0.6286632982082665,
+    "value_for_money": 0.8842868804931641,
+    "staff_behavior": 0.0984568621497601
+  },
+  "recommendation_features": {
+    "popularity_score": 0.5037691221701405,
+    "rating_score": 3.8,
+    "sentiment_score": 0.6142008434049785
+  },
+  "review_evidence": {
+    "positive_snippets": [
+      "rooms are very neat and clean , pg maneger and owner are very nice .  but other staff is little rude .  parking space is available .  about food quality  \ud83d\ude00\ud83d\ude01\ud83d\ude00 food quality is very bad .. ...  although best place to live under 5500 in triple sharing room .. ..  1 min. walking distance from imt chowck ...",
+      "Had a great experience staying here. The room were clean and with all the amenities you would need. Room service was prompt too. Would really stay another time if I visit there again.",
+      "This place is neat and clean. Food tast is good and hygeine. Easy accessibility very near to Jaipur highway (200m). And near to imt Chowk."
+    ],
+    "negative_snippets": [
+      "Good hotel to stay. You will get simple foods also but it wouldn't be like restaurant style. Better for single guest stay. As far as couple is concern, a big thumbs down. Price is bit on higher side. You can find other hotels with same features and ambience spending 100-200lesser than this1.",
+      "Hotel manager do discrimination if ur muslim if someone did wrong that mean whole Muslim community is  fault i am chief engineer in my company never face this kind of discrimination in my life"
+    ]
+  },
+  "review_summary": "Based on 5 reviews.",
+  "positive_themes": {
+    "clean_rooms": 3,
+    "friendly_staff": 1,
+    "good_food": 3,
+    "good_location": 1
+  },
+  "negative_themes": {
+    "rude_staff": 1,
+    "parking_issues": 1
+  }
+}

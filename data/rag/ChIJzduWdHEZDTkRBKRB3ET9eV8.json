@@ -1,0 +1,55 @@
+{
+  "hotel_id": "ChIJzduWdHEZDTkRBKRB3ET9eV8",
+  "hotel_name": "Hotel Levante",
+  "area": "Sector 24",
+  "budget_category": "Mid-Range",
+  "rating": 3.7,
+  "trust_score": 0.6200081393666473,
+  "travel_purpose_tags": [
+    "Budget"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "moderate",
+    "review_count": 5,
+    "positive_snippet_count": 2,
+    "negative_snippet_count": 3,
+    "positive_theme_count": 5,
+    "negative_theme_count": 3
+  },
+  "aspect_scores": {
+    "cleanliness": 0.3339768868754617,
+    "service": 0.0016629241872578,
+    "location": 0.666557627361423,
+    "value_for_money": 0.5001338682195637,
+    "staff_behavior": 0.500586785026826
+  },
+  "recommendation_features": {
+    "popularity_score": 0.6918885321730733,
+    "rating_score": 3.7,
+    "sentiment_score": 0.4004781974363141
+  },
+  "review_evidence": {
+    "positive_snippets": [
+      "Nice place to stay either on day basis or monthly basis if you visiting or working near DLF Cyber City in Gurugram.",
+      "Property is located in U-Block at a walking distance of dlf cyber hub. Rooms are good, clean and budget friendly. Although there is lack of maintenance seen for couple of things in the room and around. It is good place for people having hybrid office and have to visit office for few days.  Plenty of parking and a lot of eating options available around"
+    ],
+    "negative_snippets": [
+      "Guys trust me, Rooms were dirty, the cutlery and water jug looked unwashed for a year, and the food was poor\u2026..even menu shows different prices, but when they bring food to the room, they charge extra. I even saw big mice in the kitchen. receptionist behave unwelcoming, especially the night-duty boy who was always busy on his phone. no TV recharge and no proper maintenance rooms and bathrooms. guard also asked for a tip every time when we took our car out. Very disappointing experience\nwe stay 4-5 time bcoz of convinent location but hotel completely worthless\u2026..lot of options there in same price...suggestion- look property in sec 29 or sec 44 and in delhi many places",
+      "I came from Bangalore and found this room on Google. The photos uploaded looked fine. I visited the hotel on Tuesday, February 4, 2025, and stayed in Room 202 on the second floor. However, I found that the walls of the room were peeling, and the bedsheets and blankets were damaged. I requested a room change in the morning. Later that evening, February 5, 2025, I moved to Room 205 on the second floor.\n\nWhen I saw the new room, I immediately requested the reception to change the blanket cover and bedsheets because they were torn and had hair on them. Additionally, the bathroom was not properly cleaned. Unfortunately, the staff\u2019s behavior was very rude and unprofessional. They spoke to me with a lot of attitude and responded rudely when I asked for assistance.\n\nI had originally booked the hotel for Friday and was planning to extend my stay for an additional six days, but now I am unsure. This is why I am writing this feedback, hoping you will consider it. If you need any further details or clarification, please feel free to contact me. I am available to answer any questions.\n\nAdditionally, the staff informed me that they only have torn blankets and bedsheets and have not been supportive in replacing them.\n\nThank you.\n\nUnable to upload the pictures which i have captured let me see how to upload.",
+      "Tooo narrow road to reach there and the mattress quality is too bad I can't able to sleep there"
+    ]
+  },
+  "review_summary": "Based on 5 reviews.",
+  "positive_themes": {
+    "good_location": 2,
+    "clean_rooms": 2,
+    "friendly_staff": 3,
+    "great_value": 1,
+    "good_food": 1
+  },
+  "negative_themes": {
+    "parking_issues": 1,
+    "dirty_rooms": 1,
+    "rude_staff": 1
+  }
+}

@@ -1,0 +1,52 @@
+{
+  "hotel_id": "ChIJx6m1uo7dDDkR12u8JLX6V1I",
+  "hotel_name": "Destiny House",
+  "area": "Sector 31",
+  "budget_category": "Mid-Range",
+  "rating": 4.2,
+  "trust_score": 0.8202353621853554,
+  "travel_purpose_tags": [
+    "Leisure",
+    "Business",
+    "Family"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "moderate",
+    "review_count": 5,
+    "positive_snippet_count": 3,
+    "negative_snippet_count": 0,
+    "positive_theme_count": 5,
+    "negative_theme_count": 1
+  },
+  "aspect_scores": {
+    "cleanliness": 0.99976780017217,
+    "service": 0.99963116645813,
+    "location": 0.9997766613960266,
+    "value_for_money": 0.9995089769363404,
+    "staff_behavior": 0.9998096227645874
+  },
+  "recommendation_features": {
+    "popularity_score": 0.4219388418856267,
+    "rating_score": 4.2,
+    "sentiment_score": 0.99969881772995
+  },
+  "review_evidence": {
+    "positive_snippets": [
+      "My stay at Destiny House was very pleasant. The location is excellent and the community was very nice to live in. The staff was quite helpful, although I would give them three out of five stars. The best part was our host, Shilpa ji, who was a very good host and helped me even when I called her late at night. Overall, it was a very good experience.",
+      "It's a best and economical place to stay. The housekeeper is a good guy. It's a safe place with no noise and It's clean too. Look at the photos I have taken.",
+      "I had a wonderful stay here. The room was spacious, spotless, and very comfortable. The staff was incredibly warm and attentive, ensuring a hassle-free experience. Service was prompt, and the food was delicious. Highly recommended for a relaxing and pleasant stay!"
+    ],
+    "negative_snippets": []
+  },
+  "review_summary": "Based on 5 reviews.",
+  "positive_themes": {
+    "friendly_staff": 2,
+    "good_location": 2,
+    "clean_rooms": 3,
+    "good_food": 1,
+    "great_value": 2
+  },
+  "negative_themes": {
+    "noise": 1
+  }
+}

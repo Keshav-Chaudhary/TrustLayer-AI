@@ -1,0 +1,49 @@
+{
+  "hotel_id": "ChIJJ9wSfkKqDTkRzfuvNoR76ds",
+  "hotel_name": "Mantram By Royal Pepper Hotel & Resort",
+  "area": "Delhi India",
+  "budget_category": "Luxury",
+  "rating": 4.1,
+  "trust_score": 0.7283164000870259,
+  "travel_purpose_tags": [
+    "Budget"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "rich",
+    "review_count": 5,
+    "positive_snippet_count": 3,
+    "negative_snippet_count": 2,
+    "positive_theme_count": 3,
+    "negative_theme_count": 0
+  },
+  "aspect_scores": {
+    "cleanliness": 0.0357190929353237,
+    "service": 0.5,
+    "location": 0.5,
+    "value_for_money": 0.0135283172130584,
+    "staff_behavior": 0.999799907207489
+  },
+  "recommendation_features": {
+    "popularity_score": 0.6371825970021334,
+    "rating_score": 4.1,
+    "sentiment_score": 0.6097610168159008
+  },
+  "review_evidence": {
+    "positive_snippets": [
+      "Mantram truly stands out among the venues I\u2019ve visited. Everything \u2014 from the decor and lighting to the hospitality \u2014 was excellent. The arrangements were top-notch, and I had an amazing experience overall. Highly recommended for any special occasion.",
+      "Two days destination wedding. Comfortable stay, delicious food and good services.\nHighly recommended for destination wedding. Staffs are also very supportive",
+      "Thank you for all of the hard work team has Putin to provide us five star hospitality. Special thanks to Asif (Sr Manager ) for his extra ordinary support."
+    ],
+    "negative_snippets": [
+      "Rating: 0/5 (If that were possible)\n\nIf you value honesty, transparency, or basic ethics, do NOT book Mantram for any important function\u2014especially something as meaningful as an engagement.\n\nI was crystal clear about my budget from DAY ONE. Not once. Not twice. EIGHT separate times I explicitly asked them to confirm that the costs would not exceed my budget only then I will come and discuss anything. Every single time, I was reassured with sweet words, fake confidence, and vague promises like \u201cdon\u2019t worry, we\u2019ll manage within this.\u201d\n\nAnd what did I get in return?\n\nA final quotation that exceeded my agreed budget by a shocking 8 LAKHS when my grandmother was in hospital - they made me drive 4 hours just to tell me how I cant afford them because they lied to me in the first place.\n\nYes. \u20b98,00,000.\nThat\u2019s not a \u201csmall mismatch.\u201d\nThat\u2019s not a \u201cmiscommunication.\u201d\nThat\u2019s called dishonesty, plain and simple.\n\nIf you know you cannot deliver within a budget, have the decency to say so upfront. Instead, Mantram chose the classic trap:\n\u2022\tLure you in with false assurances\n\u2022\tLet you emotionally commit to the venue\n\nThis is not professionalism. This is manipulation.",
+      "In washroom there was no water in flush.\n\nIn gents urinal there is no partition between two pots, I have seen it ist time in my life. It was giving the feeling that you are not in a urinal you are in ground."
+    ]
+  },
+  "review_summary": "Based on 5 reviews.",
+  "positive_themes": {
+    "friendly_staff": 1,
+    "good_food": 1,
+    "great_value": 1
+  },
+  "negative_themes": {}
+}

@@ -1,0 +1,50 @@
+{
+  "hotel_id": "ChIJh-mR3oYFDTkRrvwH-wGgU5I",
+  "hotel_name": "Hotel O Pp Residency",
+  "area": "Tilak Nagar",
+  "budget_category": "Mid-Range",
+  "rating": 2.9,
+  "trust_score": 0.4231099917208383,
+  "travel_purpose_tags": [
+    "Budget"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "moderate",
+    "review_count": 5,
+    "positive_snippet_count": 1,
+    "negative_snippet_count": 3,
+    "positive_theme_count": 2,
+    "negative_theme_count": 2
+  },
+  "aspect_scores": {
+    "cleanliness": 0.9948742985725404,
+    "service": 0.2503152906283503,
+    "location": 0.5,
+    "value_for_money": 0.0003106185176875,
+    "staff_behavior": 0.000519509325386
+  },
+  "recommendation_features": {
+    "popularity_score": 0.5664049161380226,
+    "rating_score": 2.9,
+    "sentiment_score": 0.2003143562062178
+  },
+  "review_evidence": {
+    "positive_snippets": [
+      "Great experience. The room was Clean and there service was great. They provide soap, shampoo and lotion as per oyo guidelines (also labelled as oyo). It was not hard to find the hotel as it had a board outside. I booked a hotel previously which had no board and wasted 30-40 min to search hotel but nothing like that happened in this case. It was a great experience."
+    ],
+    "negative_snippets": [
+      "Very bad service and bad staff. If we are not satisfied with manager and we are asking for owner number they are not giving us owner number and they are decide their own rates and they are not giving room in that amount which are there on Oyo app. They don\u2019t have manners how to behave with women . Ghatiya se ghatiya staff and owner Jinhone esa staff rkha hai . Please don\u2019t go there. sab fake hai",
+      "Not recommended. Very poor service not cleaning not available basic facilities like soup ,towel, water and water glass also.Ac is not working properly and lots of mosquitoes there \ud83e\udd9f also and etc...",
+      "Horrible experience this kind of service did not expected from oyo"
+    ]
+  },
+  "review_summary": "Based on 5 reviews.",
+  "positive_themes": {
+    "clean_rooms": 2,
+    "friendly_staff": 2
+  },
+  "negative_themes": {
+    "rude_staff": 2,
+    "dirty_rooms": 1
+  }
+}

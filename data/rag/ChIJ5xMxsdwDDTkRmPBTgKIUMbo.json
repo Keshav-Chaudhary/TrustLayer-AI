@@ -1,0 +1,51 @@
+{
+  "hotel_id": "ChIJ5xMxsdwDDTkRmPBTgKIUMbo",
+  "hotel_name": "Hotel The Gold Inn Karol Bagh",
+  "area": "New Delhi",
+  "budget_category": "Budget",
+  "rating": 4.5,
+  "trust_score": 0.884616059130611,
+  "travel_purpose_tags": [
+    "Leisure",
+    "Business",
+    "Family"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "moderate",
+    "review_count": 5,
+    "positive_snippet_count": 3,
+    "negative_snippet_count": 0,
+    "positive_theme_count": 4,
+    "negative_theme_count": 1
+  },
+  "aspect_scores": {
+    "cleanliness": 0.999146302541097,
+    "service": 0.9991185863812764,
+    "location": 0.9998644590377808,
+    "value_for_money": 0.9998644590377808,
+    "staff_behavior": 0.9994167685508728
+  },
+  "recommendation_features": {
+    "popularity_score": 0.5375519269276591,
+    "rating_score": 4.5,
+    "sentiment_score": 0.9994167685508728
+  },
+  "review_evidence": {
+    "positive_snippets": [
+      "The service was truly superb and the staff were incredibly warm, attentive, and made us feel very well taken care of throughout our stay. The location is a big plus , just a short walk from the market, with easy access to food options and money exchangers facilities nearby. The family room was quite ok , though it may feel a bit snug for a family of four if you\u2019re used to more spacious accommodations. Overall, a pleasant stay with excellent hospitality and a very convenient location.",
+      "Title: A Wonderful Stay at Gold Inn, Karol Bagh \ud83c\udf1f\nOur stay at Gold Inn was such a wonderful experience!\nA big thank you to Shyamal and Rajan for always being there whenever we needed anything ... you both truly made our stay smooth and comfortable.\nSpecial thanks to Shivam, who took great care of us during breakfast and dinner every day ... the food was always fresh, tasty, and served with a smile. We especially enjoyed the homely touch in every meal...our non spicy less oil fried rice.\nAnd to Chacha shamim, thank you for keeping our room spotless and handling our laundry so well.\nThanks to roshan who always  here to carry our  shopping bags \ud83d\udecd  to our room.\n\nGold Inn is definitely the place to be if you\u2019re in Karol Bagh!\nWe spent 10 peaceful days there ...no noise, no rush, just comfort, cleanliness, and good food all around. The rooms were well maintained, and the staff went above and beyond to make us feel at home.\nHighly recommended! \ud83d\udcaf\ud83d\udc4f",
+      "The hotel, staff and snacks everything was good but the size of room and washroom is small and a bit conjusted. The breakfast was good but 2-3 items more need to be included in the menu. Cleanliness is well maintained and service is quick. A pleasant stay in karol baug."
+    ],
+    "negative_snippets": []
+  },
+  "review_summary": "Based on 5 reviews.",
+  "positive_themes": {
+    "friendly_staff": 5,
+    "good_location": 2,
+    "good_food": 4,
+    "clean_rooms": 4
+  },
+  "negative_themes": {
+    "noise": 1
+  }
+}

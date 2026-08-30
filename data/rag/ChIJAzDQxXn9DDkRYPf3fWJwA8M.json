@@ -1,0 +1,43 @@
+{
+  "hotel_id": "ChIJAzDQxXn9DDkRYPf3fWJwA8M",
+  "hotel_name": "Hotel O Ocean Guest House",
+  "area": "New Mustafabad",
+  "budget_category": "Mid-Range",
+  "rating": 4.3,
+  "trust_score": 0.782366799611087,
+  "travel_purpose_tags": [
+    "Budget"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "sparse",
+    "review_count": 2,
+    "positive_snippet_count": 2,
+    "negative_snippet_count": 0,
+    "positive_theme_count": 1,
+    "negative_theme_count": 0
+  },
+  "aspect_scores": {
+    "cleanliness": 0.9998674392700196,
+    "service": 0.5,
+    "location": 0.5,
+    "value_for_money": 0.5,
+    "staff_behavior": 0.5
+  },
+  "recommendation_features": {
+    "popularity_score": 0.1811444130340956,
+    "rating_score": 4.3,
+    "sentiment_score": 0.9998674392700196
+  },
+  "review_evidence": {
+    "positive_snippets": [
+      "Very nice , room and washroom is neat and clean. Bed is awesome. Having ac and all facilities.",
+      "Anas Saifi"
+    ],
+    "negative_snippets": []
+  },
+  "review_summary": "Based on 2 reviews.",
+  "positive_themes": {
+    "clean_rooms": 1
+  },
+  "negative_themes": {}
+}

@@ -1,0 +1,52 @@
+{
+  "hotel_id": "ChIJvfkKM1ICDTkRARQ_hfTtLF0",
+  "hotel_name": "Super Hotel O By Oyo East Punjabi Bagh Near Metro Station",
+  "area": "Punjabi Bagh",
+  "budget_category": "Budget",
+  "rating": 4.2,
+  "trust_score": 0.6575715410230181,
+  "travel_purpose_tags": [
+    "Budget"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "moderate",
+    "review_count": 5,
+    "positive_snippet_count": 2,
+    "negative_snippet_count": 3,
+    "positive_theme_count": 4,
+    "negative_theme_count": 1
+  },
+  "aspect_scores": {
+    "cleanliness": 0.4999624212214257,
+    "service": 0.5,
+    "location": 0.0010003101488109,
+    "value_for_money": 0.0005996418767608,
+    "staff_behavior": 0.9993574321269988
+  },
+  "recommendation_features": {
+    "popularity_score": 0.5563373920816039,
+    "rating_score": 4.2,
+    "sentiment_score": 0.4002501326613128
+  },
+  "review_evidence": {
+    "positive_snippets": [
+      "Very nice hotel staff is very cooperative need and clean hotel ..i.like.it.",
+      "The allotted room was well maintained, clean and hygienic. Washroom were also hygienic. Overall the room was well maintained. Staff behaviour were also nice with us."
+    ],
+    "negative_snippets": [
+      "Pathetic experience at this hotel yesterday. We dropped a female friend here. After all the payment done, everthing was done offline. He gave the room to our friend. N were going back. Just after this i got a call from my friend that door is not closing. So we went back again to hotel n shift her to some other room. N that receptionist started telling us that we booked the room online also so we ll have to pay him that amount too but we never booked the room online. Oyo is tje worst app altogether. We just called on the number to ask them if the hotel is open. N we cut the call. We have no idea why did they book the room. N that too not on our name. N refused to give us any solution. The receptionist gave us dhamki telling us that he will not regund the amount which wr gave him after booking will throw the girl out of hotel at night. It was very terrifying experience. N rooms were so back. Different from pictures shown online n also not clean at all. Washrooms were bad like public toilets. Bed sheets were dirty. Receptionist was drunk.",
+      "Pay \u20b9200 extra, but don't come here. Go to a decent location like Karol Bagh or something similar.\n\nThe room size  is very small.\nMosquitoes bothered me all night.\nPin-drop silence was missing in this hotel.\n\nNo, there was a light on somewhere else, and its light was reaching my room.  So, it wasn't completely dark room\n\nThere wasn't even a doormat outside the toilet.\nI wouldn't recommend anyone to come here!",
+      "We two couples chose this hotel based on its reviews and proximity to the Ashok Park Main Metro station. However, upon arrival, we regretted our decision, as it turned down our expectations. The condition of the rooms was disappointing, with a lack of hygiene in the bathrooms, rooms, and the bedsheets and blankets were dirty. While the price was low, it certainly wasn't worth the negative impact on our experience. I advise don\u2019t rely on Google and OYO ratings, as it may lead to a disappointing stay."
+    ]
+  },
+  "review_summary": "Based on 5 reviews.",
+  "positive_themes": {
+    "clean_rooms": 3,
+    "friendly_staff": 2,
+    "good_location": 1,
+    "great_value": 1
+  },
+  "negative_themes": {
+    "dirty_rooms": 2
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "hotel_id": "ChIJg6CUT7IDDTkRVgUaYRZF5Ks",
+  "hotel_name": "Hotel Sanca International",
+  "area": "Patel Nagar",
+  "budget_category": "Mid-Range",
+  "rating": 3.9,
+  "trust_score": 0.763191975331743,
+  "travel_purpose_tags": [
+    "Leisure",
+    "Business"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "moderate",
+    "review_count": 5,
+    "positive_snippet_count": 3,
+    "negative_snippet_count": 1,
+    "positive_theme_count": 4,
+    "negative_theme_count": 0
+  },
+  "aspect_scores": {
+    "cleanliness": 0.9998343586921692,
+    "service": 0.9998754262924194,
+    "location": 0.9998157918453217,
+    "value_for_money": 0.5,
+    "staff_behavior": 0.8058033395558596
+  },
+  "recommendation_features": {
+    "popularity_score": 0.6320888858967758,
+    "rating_score": 3.9,
+    "sentiment_score": 0.8058033395558596
+  },
+  "review_evidence": {
+    "positive_snippets": [
+      "\u2b50\ufe0f\u2b50\ufe0f\u2b50\ufe0f\u2b50\ufe0f\u2b50\ufe0f Excellent Stay \u2014 Truly Feels Like Home!\nWe stayed here with our family in November\u2013December last year, and it truly felt like home. From the moment we arrived, the staff made us feel so welcome \u2014 always smiling, polite, and ready to help with anything.\n\nThe food deserves a special mention \u2014 simple, tasty, and just like home-cooked meals. We could happily eat here every day! The rooms were clean, comfortable, and spacious, with daily housekeeping done perfectly.\n\nThe location is excellent \u2014 right on the main road, easy for guests or visitors to reach, and just a short walk from Karol Bagh market where you can find everything from shopping to great eateries.\n\nWe had such a pleasant experience that we\u2019ve already recommended this hotel to many friends and relatives. Truly a wonderful place for families \u2014 safe, friendly, and full of warmth. \ud83d\udcab",
+      "Excellent Stay at Sanca International Hotel.\nI had a great experience at Sanca International Hotel. The room was clean, neat, and well-maintained, with spotless bathrooms and all the basic amenities provided. I really appreciated their flexibility with both late check-in and late check-out, which made my travel schedule much easier.\n\nDaily room cleaning was available and done promptly, keeping everything fresh throughout the stay. The staff were polite, helpful, and always had a pleasant attitude.\n\nOne of the highlights was the location \u2013 it\u2019s situated in a quiet and decent area, which felt much more peaceful and safer compared to many other hotels in the city. Overall, it was a comfortable and pleasant experience, and I\u2019d definitely recommend this hotel to anyone looking for a hassle-free stay.",
+      "Kundan took complete ownership of every request. His helpful attitude and professionalism made the entire experience smooth and enjoyable. Truly appreciate his exceptional service!"
+    ],
+    "negative_snippets": [
+      "Very big property on the main road opposite to hotel Sidhartha.\n\nLuxury & big rooms\n\nNice interior\n\nBut Charges are very high\n\nArrogant staff"
+    ]
+  },
+  "review_summary": "Based on 5 reviews.",
+  "positive_themes": {
+    "clean_rooms": 3,
+    "friendly_staff": 5,
+    "good_location": 2,
+    "good_food": 1
+  },
+  "negative_themes": {}
+}

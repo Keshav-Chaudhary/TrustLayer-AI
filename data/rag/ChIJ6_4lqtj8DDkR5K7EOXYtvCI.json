@@ -1,0 +1,49 @@
+{
+  "hotel_id": "ChIJ6_4lqtj8DDkR5K7EOXYtvCI",
+  "hotel_name": "Hotel Arina Inn",
+  "area": "Daryaganj",
+  "budget_category": "Budget",
+  "rating": 3.5,
+  "trust_score": 0.452791627810539,
+  "travel_purpose_tags": [
+    "Budget"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "moderate",
+    "review_count": 5,
+    "positive_snippet_count": 0,
+    "negative_snippet_count": 3,
+    "positive_theme_count": 4,
+    "negative_theme_count": 1
+  },
+  "aspect_scores": {
+    "cleanliness": 0.00051977505791,
+    "service": 0.0004317307648306,
+    "location": 0.0003762479755096,
+    "value_for_money": 0.000329345522914,
+    "staff_behavior": 0.0004242820432409
+  },
+  "recommendation_features": {
+    "popularity_score": 0.6308237726961006,
+    "rating_score": 3.5,
+    "sentiment_score": 0.0004018732259282
+  },
+  "review_evidence": {
+    "positive_snippets": [],
+    "negative_snippets": [
+      "We had booked a room at the hotel Royal afghan, arrived there tired after 15 hours of travel tell us that we had to go to this Hotel Arina. After minutes of walking, they make us wait 30 minutes before giving us the room. A very dirty room. Bed with dirty and perforated sheets....dust everywhere. Dead animals....Given the horrendous service we decided to pay for one night and go somewhere else.\n\nI strongly advise against this place,I'm sorry but if you want to work in hospitality you have to do it well otherwise do something else!",
+      "Had avery bad experience with their booking after having confirmation  of room booking on what app & agreed on price at time of check out they said it was their mistake about pricing & charged me 2000 rs more . saying they have sent me whats app for which i have not received . they could have called and confirmed on that but didnt do so. also images shown in on website & actual room are shabby.",
+      "Bad reception bad hospitality and they cancelled the room without any prior 24h information"
+    ]
+  },
+  "review_summary": "Based on 5 reviews.",
+  "positive_themes": {
+    "clean_rooms": 1,
+    "friendly_staff": 2,
+    "good_location": 1,
+    "great_value": 1
+  },
+  "negative_themes": {
+    "dirty_rooms": 2
+  }
+}

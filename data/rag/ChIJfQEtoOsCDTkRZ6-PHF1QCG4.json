@@ -1,0 +1,49 @@
+{
+  "hotel_id": "ChIJfQEtoOsCDTkRZ6-PHF1QCG4",
+  "hotel_name": "Hotel Golden Grand",
+  "area": "New Delhi",
+  "budget_category": "Mid-Range",
+  "rating": 4.1,
+  "trust_score": 0.8010528276595024,
+  "travel_purpose_tags": [
+    "Leisure"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "moderate",
+    "review_count": 5,
+    "positive_snippet_count": 3,
+    "negative_snippet_count": 1,
+    "positive_theme_count": 4,
+    "negative_theme_count": 0
+  },
+  "aspect_scores": {
+    "cleanliness": 0.999815046787262,
+    "service": 0.6666516588593367,
+    "location": 0.9995774626731871,
+    "value_for_money": 0.5,
+    "staff_behavior": 0.799821980384877
+  },
+  "recommendation_features": {
+    "popularity_score": 0.6940661709719635,
+    "rating_score": 4.1,
+    "sentiment_score": 0.799821980384877
+  },
+  "review_evidence": {
+    "positive_snippets": [
+      "We had an absolutely wonderful stay here!\nOur agency booked the hotel room for us and we are more then happy with their choice.\nThe room had a comfortable size for two people and included a little couch and a desk. The bathroom was super pretty and the cleanliness absolutely impeccable.\nThe staff treated us with a lot of respect and friendliness. They were very accommodating and happy to help us with anything. We felt very safe and well taken care of the whole time.\nWe are looking forward to staying with them again at the end of our little round-trip through Rajasthan.\n\nFor transparency: we didn't try the breakfast because we had to leave early.",
+      "Great location and the staff was amazing!  Very much enjoying our stay here. A little tip goes a long way to have any detail looked after.  The boys were craving some home cooking after 3 weeks in India and this is what they put together for them delivered to room.  \u2764\ufe0f",
+      "We stayed here for 3 nights and had a great stay. Breakfast could have been tastier. The staff were friendly and accommodating. The area around the hotel was great,  accessibility to lots of different shops,  tailors, dry cleaners,  the station was close by."
+    ],
+    "negative_snippets": [
+      "I stayed at Hotel Golden Grand for 2 days during a family vacation, and unfortunately, it was a very disappointing experience.\n\nTo begin with, the hotel does not have a proper keycard system. They asked us to leave the keycard at the reception every time we went out, which felt highly insecure and inconvenient. Due to this poor management, our room was not cleaned, and instead, the staff cleaned someone else\u2019s room by mistake. When I raised the issue, all I received was a casual apology \u2014 not something you\u2019d expect from a 4-star rated hotel.\n\nThe food experience was equally bad. On the first day, we had dinner which was supposed to be a buffet, but most of the trays were empty, and the staff asked us to take \u201cwhatever was left.\u201d They only refilled items after everything was completely finished, which made it a very unpleasant dining experience.\n\nThe next morning\u2019s breakfast was no better \u2014 again, empty trays, and the food was being prepared only upon request. I saw around 25 guests waiting for food despite it being a buffet setup.\n\nThat evening, the hotel cancelled the buffet dinner entirely, claiming low occupancy, and asked guests to order from the menu. However, most items were unavailable, and we ended up getting only naan, dal, and a small portion of rice. For dessert, they only offered gulab jamun and ice cream. When I asked for tea, I was told it wasn\u2019t included and I\u2019d have to pay extra, which felt unreasonable for a hotel of this standard.\n\nOverall, the service is extremely poor, and the restaurant staff seem disorganized. The hotel appears overstaffed but poorly managed, and the reception staff were rarely available and not very pleasant or approachable.\n\nIf the management truly wants to improve, I would suggest better restaurant supervision, training the staff on hospitality, and ensuring the reception is always attended by helpful and polite personnel.\n\nDefinitely not recommended for family stays."
+    ]
+  },
+  "review_summary": "Based on 5 reviews.",
+  "positive_themes": {
+    "clean_rooms": 3,
+    "friendly_staff": 5,
+    "good_food": 4,
+    "good_location": 2
+  },
+  "negative_themes": {}
+}

@@ -1,0 +1,47 @@
+{
+  "hotel_id": "ChIJk1V_b6MdDTkREBke9zUcepg",
+  "hotel_name": "Hotel O Kd Homes",
+  "area": "Wazirabad",
+  "budget_category": "Mid-Range",
+  "rating": 3.5,
+  "trust_score": 0.3694868717048139,
+  "travel_purpose_tags": [
+    "Budget"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "moderate",
+    "review_count": 4,
+    "positive_snippet_count": 1,
+    "negative_snippet_count": 3,
+    "positive_theme_count": 2,
+    "negative_theme_count": 0
+  },
+  "aspect_scores": {
+    "cleanliness": 0.5,
+    "service": 0.5,
+    "location": 0.5,
+    "value_for_money": 0.0003543875063769,
+    "staff_behavior": 0.5
+  },
+  "recommendation_features": {
+    "popularity_score": 0.2387706575481475,
+    "rating_score": 3.5,
+    "sentiment_score": 0.0006621502883111
+  },
+  "review_evidence": {
+    "positive_snippets": [
+      "Good"
+    ],
+    "negative_snippets": [
+      "The room I was assigned was in a substandard condition. It was not adequately cleaned, which was quite disappointing. This not only tarnished my overall impression but also led me to feel that the value for money and time invested in the stay was not justified.",
+      "There was no negative rating available in google to give for this hotel other wise , i will give a 5 star in negative rating for this hotel. it contains bed bugs , acid marks no proper facility in bath room too.If anyone wants to get sick please stay for 10 mins in this hotel.",
+      "This is a useless hotel, there was a raid here on 16 December 2024"
+    ]
+  },
+  "review_summary": "Based on 4 reviews.",
+  "positive_themes": {
+    "clean_rooms": 1,
+    "great_value": 1
+  },
+  "negative_themes": {}
+}

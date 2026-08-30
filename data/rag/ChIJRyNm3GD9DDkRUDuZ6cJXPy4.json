@@ -1,0 +1,51 @@
+{
+  "hotel_id": "ChIJRyNm3GD9DDkRUDuZ6cJXPy4",
+  "hotel_name": "Hotel Prince Palace (The Green)",
+  "area": "Paharganj",
+  "budget_category": "Luxury",
+  "rating": 3.5,
+  "trust_score": 0.5778995181701724,
+  "travel_purpose_tags": [
+    "Business"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "moderate",
+    "review_count": 5,
+    "positive_snippet_count": 2,
+    "negative_snippet_count": 3,
+    "positive_theme_count": 3,
+    "negative_theme_count": 1
+  },
+  "aspect_scores": {
+    "cleanliness": 0.0009976312285288,
+    "service": 0.999736487865448,
+    "location": 0.5,
+    "value_for_money": 0.9998546838760376,
+    "staff_behavior": 0.999736487865448
+  },
+  "recommendation_features": {
+    "popularity_score": 0.6189527323097243,
+    "rating_score": 3.5,
+    "sentiment_score": 0.4004511263919994
+  },
+  "review_evidence": {
+    "positive_snippets": [
+      "Really nice hotel nice service asthetic interior awesome experience best place to stay central delhi (Paharganj) .The staff is also professional",
+      "The managers Lokesh and Naveen are so kind and professional. If any problems they will solve it quickly. This is an affordable hotel with good price and good people. I really enjoyed my stay. Everyone has good energy and very respectful. They will accommodate you the best they can. I stay here while recovering from an accident and I felt safe. Everyone here truly cares about your well being."
+    ],
+    "negative_snippets": [
+      "Terrible stay for even a single night. The actual rooms do NOT look like in the pictures, First room was dirty and unkept, trash on the floor and bathroom. Second room had no hot water, the toilet was extremely dirty. The door had no lock, even when the guest house owner tried to prove that it can be locked from the outside.",
+      "The worst room i saw ever. The room is not cleaned and the bathroom is full of dirt and not usable. It looks like not cleaned for years. And water availability is not stable. The bathroom door are fully brocken.the way to hotel is urinated by others and it smells bad.i honestly says it not suilable for family ever.,, \ud83e\udd2e\ud83e\udd2e\ud83e\udd2e\ud83e\udd2e\ud83e\udd2e\ud83e\udd2e\ud83e\udd2e\ud83e\udd2e",
+      "\u201cSorry sold out\u201d scam:\n\nWe booked the room the same day and when we arrived late at night, they pretended that they already put everything on \u201csold out\u201d early in the morning and that they do not have rooms left. I already know that scam so i just waited till he could finish his theatre performance and accepted the \u201coh we found one room\u201d offer. The room was 10times worst than on the pictures, hot water not working, wifi is a rare seen guest.\nBut we did not really had an other choice because it was late at night and we already payed online.\n\nI don\u2019t think they do it with everybody but just be aware this may happen when you arrive late."
+    ]
+  },
+  "review_summary": "Based on 5 reviews.",
+  "positive_themes": {
+    "friendly_staff": 1,
+    "great_value": 1,
+    "clean_rooms": 1
+  },
+  "negative_themes": {
+    "dirty_rooms": 2
+  }
+}

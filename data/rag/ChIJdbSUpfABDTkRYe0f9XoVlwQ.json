@@ -1,0 +1,40 @@
+{
+  "hotel_id": "ChIJdbSUpfABDTkRYe0f9XoVlwQ",
+  "hotel_name": "Hotel O By Oyo Apna",
+  "area": "DELHI LANDMARK- OPP. SAHAB SINGH VERMA SAMUDAYEK BHAWAN",
+  "budget_category": "Budget",
+  "rating": 5.0,
+  "trust_score": 0.691137462426717,
+  "travel_purpose_tags": [
+    "Budget"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "sparse",
+    "review_count": 1,
+    "positive_snippet_count": 1,
+    "negative_snippet_count": 0,
+    "positive_theme_count": 0,
+    "negative_theme_count": 0
+  },
+  "aspect_scores": {
+    "cleanliness": NaN,
+    "service": NaN,
+    "location": NaN,
+    "value_for_money": NaN,
+    "staff_behavior": NaN
+  },
+  "recommendation_features": {
+    "popularity_score": 0.0645249418272089,
+    "rating_score": 5.0,
+    "sentiment_score": 0.5
+  },
+  "review_evidence": {
+    "positive_snippets": [
+      "Amazing \ud83d\ude0d"
+    ],
+    "negative_snippets": []
+  },
+  "review_summary": "Based on 1 reviews.",
+  "positive_themes": {},
+  "negative_themes": {}
+}

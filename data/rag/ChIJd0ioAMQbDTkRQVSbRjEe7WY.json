@@ -1,0 +1,52 @@
+{
+  "hotel_id": "ChIJd0ioAMQbDTkRQVSbRjEe7WY",
+  "hotel_name": "Satvik By Chhabra Farm",
+  "area": "New Delhi",
+  "budget_category": "Mid-Range",
+  "rating": 4.2,
+  "trust_score": 0.8296682848351211,
+  "travel_purpose_tags": [
+    "Leisure"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "moderate",
+    "review_count": 5,
+    "positive_snippet_count": 3,
+    "negative_snippet_count": 1,
+    "positive_theme_count": 3,
+    "negative_theme_count": 3
+  },
+  "aspect_scores": {
+    "cleanliness": 0.0064652021974325,
+    "service": 0.0064652021974325,
+    "location": 0.9991416931152344,
+    "value_for_money": 0.5,
+    "staff_behavior": 0.751512588467449
+  },
+  "recommendation_features": {
+    "popularity_score": 0.7642789504090871,
+    "rating_score": 4.2,
+    "sentiment_score": 0.801038409397006
+  },
+  "review_evidence": {
+    "positive_snippets": [
+      "Owner Mr Prabh meher Chhabra and Manager Mr Rajendra Prasad are very cooperative all staff very professional and ready to help. Food quality and presentation \u00eds excellent. We have done almost 5/6 functions is same resort but they never disappoint us every time the entire team did their best.",
+      "We chose Satvik by Chhabra Farms as our wedding venue and they truly made our dream come true. From the moment we arrived, everything felt absolutely dreamy. The setting was elegant and beautifully maintained, creating the perfect atmosphere for such a special day. The staff were professional, attentive, and ensured that every detail was handled seamlessly. We could not have asked for a more perfect venue to celebrate our wedding, and we will cherish the memories made there forever.",
+      "It's great for wedding celebration. Ample space with parking and staff is well trained.\nRooms are fine. Food is good"
+    ],
+    "negative_snippets": [
+      "We recently attended a wedding at the venue, unfortunately rooms were extremely dirty, leakage in bathrooms, floors inside the bedrooms were dirty. Good food and excellent service provided by the staff at the hall and outside garden set up. However reception staff was unhelpful and had no smile on their faces. Will I recommend this venue if they fix the issues at the property then yes."
+    ]
+  },
+  "review_summary": "Based on 5 reviews.",
+  "positive_themes": {
+    "friendly_staff": 4,
+    "good_food": 3,
+    "good_location": 1
+  },
+  "negative_themes": {
+    "parking_issues": 2,
+    "dirty_rooms": 1,
+    "rude_staff": 1
+  }
+}

@@ -1,0 +1,49 @@
+{
+  "hotel_id": "ChIJTUvWM5MYDTkR3hEIs_noaC8",
+  "hotel_name": "Comfort Inn Dhaliwals Gurgaon",
+  "area": "Sector 45",
+  "budget_category": "Budget",
+  "rating": 4.4,
+  "trust_score": 0.8751937946052245,
+  "travel_purpose_tags": [
+    "Leisure",
+    "Business",
+    "Family"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "moderate",
+    "review_count": 5,
+    "positive_snippet_count": 3,
+    "negative_snippet_count": 0,
+    "positive_theme_count": 4,
+    "negative_theme_count": 0
+  },
+  "aspect_scores": {
+    "cleanliness": 0.999868392944336,
+    "service": 0.999838968118032,
+    "location": 0.9997091889381408,
+    "value_for_money": 0.9997091889381408,
+    "staff_behavior": 0.999838968118032
+  },
+  "recommendation_features": {
+    "popularity_score": 0.5551484894132765,
+    "rating_score": 4.4,
+    "sentiment_score": 0.9998194694519044
+  },
+  "review_evidence": {
+    "positive_snippets": [
+      "The reception managers were polite and helpful, making check-in and communication smooth throughout my stay. The entrance of the hotel was beautifully decorated, creating a cozy and stylish atmosphere that gave the feel of a caf\u00e9.\nOverall, the hotel offers a great combination of comfort, cleanliness, and personalized service. I would highly recommend it to anyone looking for a pleasant and hassle-free hotel came to Comfort inn , as in name i found all comfortable. Thanks to all who behind make a Comfort inn\n\nFrom jaipur",
+      "I recently stayed at Comfort Inn Dhaliwal for six days and had a truly wonderful experience. The service was excellent, with daily cleaning and prompt responses to every request. One thing that stood out was the staff's attention to personal preferences. Since I avoid garlic and onion, Ms. Babita personally ensured that my meals were prepared separately to meet my dietary needs\u2014her care and coordination with the kitchen staff were exceptional.\n\nThe hotel restaurant being open 24/7 was very convenient, and the food was always served on time. The reception managers were polite and helpful, making check-in and communication smooth throughout my stay. The entrance of the hotel was beautifully decorated, creating a cozy and stylish atmosphere that gave the feel of a caf\u00e9.\n\nOverall, the hotel offers a great combination of comfort, cleanliness, and personalized service. I would highly recommend it to anyone looking for a pleasant and hassle-free stay.",
+      "I had a fantastic stay at Comfort Inn, where everything from the food to the service and cleanliness was exceptional. The restaurant offered a variety of delicious dishes, with fresh ingredients and well-prepared meals that catered to different tastes. The staff was professional, friendly, and always willing to assist, making the experience even more enjoyable. The rooms were spotless, with housekeeping ensuring fresh towels, neatly made beds, and a well-maintained environment every day. Overall, the combination of great food, excellent service, and high cleanliness standards made my stay truly enjoyable, and I would highly recommend this hotel to anyone looking for a comfortable and pleasant experience."
+    ],
+    "negative_snippets": []
+  },
+  "review_summary": "Based on 5 reviews.",
+  "positive_themes": {
+    "clean_rooms": 4,
+    "friendly_staff": 3,
+    "good_location": 2,
+    "good_food": 3
+  },
+  "negative_themes": {}
+}

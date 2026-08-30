@@ -1,0 +1,49 @@
+{
+  "hotel_id": "ChIJoZy0FF3dDDkRDl0o6XjtTAQ",
+  "hotel_name": "Hotel O By Oyo Platinum Inn",
+  "area": "Old Faridabad",
+  "budget_category": "Budget",
+  "rating": 3.9,
+  "trust_score": 0.594592444579248,
+  "travel_purpose_tags": [
+    "Budget"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "moderate",
+    "review_count": 5,
+    "positive_snippet_count": 2,
+    "negative_snippet_count": 3,
+    "positive_theme_count": 1,
+    "negative_theme_count": 1
+  },
+  "aspect_scores": {
+    "cleanliness": 0.0002176593552576,
+    "service": 0.3334750405338127,
+    "location": 0.5,
+    "value_for_money": 0.5,
+    "staff_behavior": 0.9997880756855012
+  },
+  "recommendation_features": {
+    "popularity_score": 0.4479653445915689,
+    "rating_score": 3.9,
+    "sentiment_score": 0.4000979670876404
+  },
+  "review_evidence": {
+    "positive_snippets": [
+      "Get this hotel on Goibibo on PhonePe, Its a very good Hotel in Faridabad. I liked there service, Staff are very friendly. I get 2 rooms here and we reached there after 12, They booked dinner for us and arranged other stuff. Enjoyed the hotel. Will be back soooooon. :)",
+      "Great hotel with spacious and comfortable rooms, the services were great and the staff was helpful in every way. Must stay hotel in my list."
+    ],
+    "negative_snippets": [
+      "Worst experience, No hot water available in winters. Dirtty rooms and pathetic service",
+      "They deleted my review, they wanna fool coustomer with their fake reviews.\nOne of the worst hotel I have been in my life.\nFilled with rats and unpleasant smell.\nDisgusting rooms tbh\nCan't use the bathrooms and they charge extra.",
+      "Very bad experience with this hotel's room, service & other activities,only drinking water cold served."
+    ]
+  },
+  "review_summary": "Based on 5 reviews.",
+  "positive_themes": {
+    "friendly_staff": 2
+  },
+  "negative_themes": {
+    "dirty_rooms": 1
+  }
+}

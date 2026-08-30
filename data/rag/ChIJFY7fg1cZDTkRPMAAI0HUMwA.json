@@ -1,0 +1,53 @@
+{
+  "hotel_id": "ChIJFY7fg1cZDTkRPMAAI0HUMwA",
+  "hotel_name": "Orsom Stays",
+  "area": "Sector 53",
+  "budget_category": "Budget",
+  "rating": 4.6,
+  "trust_score": 0.7929117375649216,
+  "travel_purpose_tags": [
+    "Budget"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "moderate",
+    "review_count": 5,
+    "positive_snippet_count": 2,
+    "negative_snippet_count": 3,
+    "positive_theme_count": 5,
+    "negative_theme_count": 1
+  },
+  "aspect_scores": {
+    "cleanliness": 0.0002392567912465,
+    "service": 0.5000123153076856,
+    "location": 0.4973512361393659,
+    "value_for_money": 0.3316625580337131,
+    "staff_behavior": 0.5000123153076856
+  },
+  "recommendation_features": {
+    "popularity_score": 0.644610877115675,
+    "rating_score": 4.6,
+    "sentiment_score": 0.5989416018215706
+  },
+  "review_evidence": {
+    "positive_snippets": [
+      "Hi everyone,\n\nI would like to share our wonderful experience at Orsom Stays during my daughter\u2019s 1st birthday celebration. A heartfelt thanks to Rahul and his entire team for their exceptional arrangements and warm hospitality. They truly made the occasion special for us and ensured that every guest felt comfortable and happy.\n\nThe atmosphere was beautiful, the food was delicious, the cleanliness was excellent, and their attention to detail made the celebration even more memorable.\n\nHighly recommended for family events and special occasions!",
+      "Orsom Stays, Sector 53 Gurgaon: A Top-Tier Choice\n\nOrsom Stays in Sector 53, Gurgaon, provides a truly excellent experience for both accommodation and events. The management and staff are noteworthy, consistently delivering good service that is both professional and attentive, ensuring guests feel valued and well taken care of throughout their stay or event.\n\nA standout feature is the immensely spacious banquet hall. This venue is perfect for handling large gatherings\u2014from corporate functions to elaborate weddings\u2014offering ample capacity and a sophisticated ambiance. If you are looking for a venue that combines generous space with reliable, high-quality hospitality, Orsom Stays is highly recommended."
+    ],
+    "negative_snippets": [
+      "My stay at this hotel was a complete disappointment. The rooms were poorly maintained, not clean, and nothing like the pictures shown online. The staff was rude, unhelpful, and showed no sense of responsibility or hospitality. Basic requests were ignored, and their attitude made the entire experience worse. I would never recommend this place to anyone \u2014 there are far better options nearby.\n\nvery very very bad experience \u2014 especially for parties or marriage functions. they are not capable of handling even 25 people properly. our check-in was delayed by almost 2\u20133 hours (around 4 pm)because of their complete mismanagement. Some staff may look decent and sweet at first whose name Rahul but their attitude completely changes after check-in or once you make the full payment \u2014 they become irresponsible and careless. The rooms were not clean, the service was poor, and their coordination was a total mess. They completely spoiled our marriage function and made the entire experience stressful and unpleasant. I would strongly advise avoiding this place at any cost.",
+      "I booked a theme room Amstel for one night to surprise my BF the stay was a total shit . The jacuzzi was not working, the room was very very veryy small and congested. It was not clean, i hope the owner is reading this just wanna say it\u2019s a total waste of money i would have booked a five star hotel in this budget range. I need the compensation, not recommended at all. Don\u2019t waste your money please",
+      "Location is good and rooms are nicely made, but maintenance needs improvement. I stayed in the Chocolate Themed Room\u2014knobs and handles were loose, and cleaning could be better. Jacuzzi was great and food was tasty and worth the price. Overall, a good place for a weekend getaway with some room for improvement.\nNo dental kit or comb were there so just need to work on that."
+    ]
+  },
+  "review_summary": "Based on 5 reviews.",
+  "positive_themes": {
+    "clean_rooms": 4,
+    "good_food": 2,
+    "friendly_staff": 2,
+    "great_value": 2,
+    "good_location": 2
+  },
+  "negative_themes": {
+    "rude_staff": 1
+  }
+}

@@ -1,0 +1,51 @@
+{
+  "hotel_id": "ChIJIx-vIgAHDTkRbubTc7FHDgU",
+  "hotel_name": "Oyo Lord King Hotel",
+  "area": "Rohini",
+  "budget_category": "Budget",
+  "rating": 4.6,
+  "trust_score": 0.7919355088894103,
+  "travel_purpose_tags": [
+    "Leisure",
+    "Family"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "moderate",
+    "review_count": 5,
+    "positive_snippet_count": 3,
+    "negative_snippet_count": 1,
+    "positive_theme_count": 5,
+    "negative_theme_count": 0
+  },
+  "aspect_scores": {
+    "cleanliness": 0.9996381998062134,
+    "service": 0.6675582940224558,
+    "location": 0.999858021736145,
+    "value_for_money": 0.9813613295555116,
+    "staff_behavior": 0.7458991419407539
+  },
+  "recommendation_features": {
+    "popularity_score": 0.3433971007311961,
+    "rating_score": 4.6,
+    "sentiment_score": 0.7966909178998322
+  },
+  "review_evidence": {
+    "positive_snippets": [
+      "The overall experience was good.\n1.Rooms were clean and hygienic included toiletries.\n2.staff behaviour was professional and humble.\n3. Check in and checkout process was simple.\n4.Food was genuinely tasty.\n5. Couple friendly.",
+      "\"Lord King Hotel offers a regal experience with its luxurious accommodations and impeccable service. From the elegant decor to the attentive staff, every detail exudes sophistication. The rooms are spacious and well-appointed, ensuring a comfortable stay for guests. The hotel's amenities, including a fine dining restaurant and spa facilities, further elevate the experience. Overall, Lord King Hotel is a top choice for those seeking a lavish retreat in the heart of the city.\"",
+      "Awesome hotel near nangloi metro station, rooms were spacious, clean with all amenities. I had a memorable / peaceful stay here and recommend this hotel to everyone.Reception was up and awake even in the dead of night. A very fine hotel indeed, not far from rohtak road /outer ring road"
+    ],
+    "negative_snippets": [
+      "No room service , staff are very inconvenient to talk"
+    ]
+  },
+  "review_summary": "Based on 5 reviews.",
+  "positive_themes": {
+    "clean_rooms": 2,
+    "friendly_staff": 4,
+    "good_food": 1,
+    "good_location": 2,
+    "great_value": 1
+  },
+  "negative_themes": {}
+}

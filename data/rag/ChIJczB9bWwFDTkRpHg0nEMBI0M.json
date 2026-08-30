@@ -1,0 +1,48 @@
+{
+  "hotel_id": "ChIJczB9bWwFDTkRpHg0nEMBI0M",
+  "hotel_name": "Hotel Dwarka Inn",
+  "area": "New Delhi",
+  "budget_category": "Budget",
+  "rating": 4.1,
+  "trust_score": 0.6740985803115862,
+  "travel_purpose_tags": [
+    "Budget"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "moderate",
+    "review_count": 5,
+    "positive_snippet_count": 3,
+    "negative_snippet_count": 2,
+    "positive_theme_count": 2,
+    "negative_theme_count": 0
+  },
+  "aspect_scores": {
+    "cleanliness": 0.5,
+    "service": 0.9939735531806946,
+    "location": 0.5,
+    "value_for_money": 0.0020648499485105,
+    "staff_behavior": 0.5003773173666559
+  },
+  "recommendation_features": {
+    "popularity_score": 0.3981140517963074,
+    "rating_score": 4.1,
+    "sentiment_score": 0.5992009890498593
+  },
+  "review_evidence": {
+    "positive_snippets": [
+      "Good condition of room's.Staff behaviour is good",
+      "Good room Condition .must visit",
+      "Better Room service and food quality"
+    ],
+    "negative_snippets": [
+      "Asked for an extra blanked for the freezing room. Hotel shamefully asked Rs. 300 rental for one blanket. Avoid coming to this property at all cost.",
+      "i went there thinking to stay two days but i couldn't stay more than one day because of room and staff,there was no facility that you can take shower and even their water was like toxic,you can't even brush there and staff is so suspicious like you did something wrong,,"
+    ]
+  },
+  "review_summary": "Based on 5 reviews.",
+  "positive_themes": {
+    "friendly_staff": 2,
+    "good_food": 1
+  },
+  "negative_themes": {}
+}

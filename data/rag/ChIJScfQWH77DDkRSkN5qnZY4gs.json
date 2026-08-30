@@ -1,0 +1,51 @@
+{
+  "hotel_id": "ChIJScfQWH77DDkRSkN5qnZY4gs",
+  "hotel_name": "Super Townhouse By Oyo Shahdara Near Yamuna Sports Complex Formerly Hotel Ipotel",
+  "area": "Shahdara",
+  "budget_category": "Budget",
+  "rating": 4.2,
+  "trust_score": 0.6388498854509438,
+  "travel_purpose_tags": [
+    "Budget"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "moderate",
+    "review_count": 5,
+    "positive_snippet_count": 2,
+    "negative_snippet_count": 3,
+    "positive_theme_count": 3,
+    "negative_theme_count": 1
+  },
+  "aspect_scores": {
+    "cleanliness": 0.250417504699726,
+    "service": 0.3335836713764971,
+    "location": 0.5,
+    "value_for_money": 0.0001870379492174,
+    "staff_behavior": 0.6668032397865318
+  },
+  "recommendation_features": {
+    "popularity_score": 0.4682825283672369,
+    "rating_score": 4.2,
+    "sentiment_score": 0.400272658659378
+  },
+  "review_evidence": {
+    "positive_snippets": [
+      "One of the best stay , I've ever had.service was quick and staff were very polite.",
+      "Good hotel with clean room and decent staff"
+    ],
+    "negative_snippets": [
+      "SCAM!! The room quality was different from pictures available on OYO.\n1. Dirty room and walls\n2. Dirty, stained, burnt Bedsheet\n3. Hairstrands on bed\n4. Spring poor bed\n5. Broken mirror in bathroom supported with Tape only\n6. Bathroom exhaust missing and broken glass was there instead.\n7. NO Lock in room door (it is central lock system where everytime receptionist open and lock the door. No Lock or Key for us for our Room).",
+      "Don't book this hotel\nPathetic experience.\nStaff is very roude\nThey don't have lock or card system to unlock or lock the rooms, they open the rooms with 'Jugad'. You can't lock your room after leaving it. It's very surprising and pathetic. They don't have room service call facility, the phone in the room doesn't work.\nBedsheets are in very dirty condition\nWorst experience ever.\nNever never go this hotel.",
+      "Rooms not clean..... My experience at the hotel was quite disappointing. The room and washroom were not clean, and basic hygiene standards were not maintained. Even after booking in advance, we were told to take whatever rooms were available, which were not properly cleaned. The overall service quality was very poor compared to the price charged. Definitely not worth the money.\u201d"
+    ]
+  },
+  "review_summary": "Based on 5 reviews.",
+  "positive_themes": {
+    "friendly_staff": 3,
+    "clean_rooms": 2,
+    "great_value": 1
+  },
+  "negative_themes": {
+    "dirty_rooms": 2
+  }
+}

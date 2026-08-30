@@ -1,0 +1,47 @@
+{
+  "hotel_id": "ChIJ7VIOTVseDTkRdnOMsxb5ftI",
+  "hotel_name": "Avalon Courtyard Residences And Suites",
+  "area": "Sultanpur",
+  "budget_category": "Mid-Range",
+  "rating": 4.1,
+  "trust_score": 0.8408796776527563,
+  "travel_purpose_tags": [
+    "Leisure"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "moderate",
+    "review_count": 5,
+    "positive_snippet_count": 3,
+    "negative_snippet_count": 0,
+    "positive_theme_count": 4,
+    "negative_theme_count": 0
+  },
+  "aspect_scores": {
+    "cleanliness": 0.997848649819692,
+    "service": 0.5,
+    "location": 0.993842363357544,
+    "value_for_money": 0.5,
+    "staff_behavior": 0.9986593842506408
+  },
+  "recommendation_features": {
+    "popularity_score": 0.5830585766905744,
+    "rating_score": 4.1,
+    "sentiment_score": 0.9986593842506408
+  },
+  "review_evidence": {
+    "positive_snippets": [
+      "This establishment was clean and neat. Also, the breakfast is very delicious! Above all, the manager Jantis Kumar was very helpful especially with reservation and administration. Even though I had many requests, he was more than willing to help our team. He was informative, kind, and his mannerism was on the point. Strongly recommended!",
+      "Going to the hotel, from New Delhi airport Terminal 3 was easy. Took about 15 minutes by taxi, at 22:30 hrs  Thankfully no traffic jams in the Mahipalpur main road. Location not very good, away from the main road, in a not so clean street.\nRooms are very spacious, clean and well maintained. The signages are in Japanese.\nIt is better not to open the window, as the view outside is not exactly pleasing.\nThe staff is courteius and eager to serve.\nOur plan included breakfast. They serve mainly Japanese food.  We were served toast, jam, butter, tea (regular fresh made chai) and aloo parantha on request.\nWe had stayed overnight and were well satisfied. Overall experience very good.",
+      "Had an amazing stay! The hotel was spotless, well-managed, and extremely comfortable. A special mention to Manager Jatin, who went above and beyond to make our experience perfect. His professionalism, warm hospitality, and attention to detail truly stood out. Highly recommend this place!"
+    ],
+    "negative_snippets": []
+  },
+  "review_summary": "Based on 5 reviews.",
+  "positive_themes": {
+    "clean_rooms": 3,
+    "friendly_staff": 3,
+    "good_food": 3,
+    "good_location": 1
+  },
+  "negative_themes": {}
+}

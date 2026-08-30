@@ -1,0 +1,49 @@
+{
+  "hotel_id": "ChIJcfXKPeH5DDkRNcE1fMUKtKY",
+  "hotel_name": "Oyo Flagship Hotel Royal Paradise",
+  "area": "Tila More",
+  "budget_category": "Budget",
+  "rating": 2.9,
+  "trust_score": 0.615776707094127,
+  "travel_purpose_tags": [
+    "Leisure",
+    "Family"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "moderate",
+    "review_count": 5,
+    "positive_snippet_count": 3,
+    "negative_snippet_count": 2,
+    "positive_theme_count": 2,
+    "negative_theme_count": 0
+  },
+  "aspect_scores": {
+    "cleanliness": 0.999733567237854,
+    "service": 0.5,
+    "location": 0.9859963655471802,
+    "value_for_money": 0.972167432308197,
+    "staff_behavior": 0.5
+  },
+  "recommendation_features": {
+    "popularity_score": 0.2834140261914359,
+    "rating_score": 2.9,
+    "sentiment_score": 0.9928649663925172
+  },
+  "review_evidence": {
+    "positive_snippets": [
+      "they was treating like family mamber\nmy family stay in this hotel and they was very clean rooms and facilities are very excellent \u2764\ufe0f",
+      "Overall experience was good... location is excellent \ud83d\udc4d",
+      "rooms are very clean and"
+    ],
+    "negative_snippets": [
+      "I live near this hotel and booked for my guests online (Booking Id DG479239) but when the guest reached for check in, they demand extra money and when I denied they start misbehaving with the guest. I have to find another hotel for them in mid night. I have raised this with oyo as well.",
+      "Where is"
+    ]
+  },
+  "review_summary": "Based on 5 reviews.",
+  "positive_themes": {
+    "clean_rooms": 2,
+    "good_location": 2
+  },
+  "negative_themes": {}
+}

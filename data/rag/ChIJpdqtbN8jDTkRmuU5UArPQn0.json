@@ -1,0 +1,53 @@
+{
+  "hotel_id": "ChIJpdqtbN8jDTkRmuU5UArPQn0",
+  "hotel_name": "Perch Casa Feliz- Golf Course Road",
+  "area": "Sector 56",
+  "budget_category": "Mid-Range",
+  "rating": 4.7,
+  "trust_score": 0.7408656275657723,
+  "travel_purpose_tags": [
+    "Budget"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "moderate",
+    "review_count": 5,
+    "positive_snippet_count": 2,
+    "negative_snippet_count": 3,
+    "positive_theme_count": 5,
+    "negative_theme_count": 1
+  },
+  "aspect_scores": {
+    "cleanliness": 0.8322877287864685,
+    "service": 0.3378966740953424,
+    "location": 0.2261866820044815,
+    "value_for_money": 0.3332641904707997,
+    "staff_behavior": 0.6671775702076653
+  },
+  "recommendation_features": {
+    "popularity_score": 0.4323454830297744,
+    "rating_score": 4.7,
+    "sentiment_score": 0.5356530959717929
+  },
+  "review_evidence": {
+    "positive_snippets": [
+      "We kept our wedding guests at this place for 3 nights and the each one of them said they had a wonderful experience. The rooms are specious, and the common areas are nice and we're used wedding events such as Mehendi. The food was very nice with a festive yet homely touch. The best part was the service where the staff was accommodating. Overall a lovely place to have small events and have guest stay over.",
+      "The staff here are amazing! So kind and attentive, made me feel very welcome. The room has everything and is super clean."
+    ],
+    "negative_snippets": [
+      "We opted for private luxury room but it was too small and didn't look like the one in the pictures. There was no FnB service and we had to order from outside. No kitchenette, though we were provided option but the location of the other premises was far from our office. Staff was good, cleaned room everyday. Overall not worth the price better book a hotel. Location is near 56 Huda Market but there is construction going on around the building.",
+      "Really good rooms but cleaning and maintenance needs a lot of improvement. I had booked a 2 week stay.\n\nPros:\nWell furnished spacious rooms with parking.\n\nCons:\n1. Room cleaning only happens when requested.\nSometimes you have to request multiple times. They did not replace towels and sheets for a week till I asked them to.\n\n2. The wifi doesn't work. My alloted room was apparently far from the router.... but I would not have booked if I knew I was not getting wifi.\n\n3. Breakfast is on call room service basis.... sometimes they don't pick up and never once called back. This happened on 2 days, though I had breakfast booked for the stay.",
+      "Room and bathroom was clean. Bed was not enough size for 2 adults and 1 child (10yrs). Additional mattress made movement inconvenient in the room. Though the room inside was clean but regular cleaning is not done. Outside the room, used plates with leftover food lying for 2-3 days, no one cleaning. These things to be cleaned regularly for hygiene purpose. Balcony is common, guests from other room is smoking there and throwing ashes. Those ashes were not cleaned throughout my stay. So cleanliness and hygiene of the surrounding made my stay quite unhappy. However, staffs were very responsive and always ready to help out!\nThe location is good. Huda market and metro station close by.\nThe price of rooms per night is very very high. At 20% lesser price, nearby very good stays are there inclusive of breakfast. For me this was rather a poorly served 3star hotel. Overall I am ok with my stay not happy neither sad! However since my requirement was to stay in sector 56, so I continued!"
+    ]
+  },
+  "review_summary": "Based on 5 reviews.",
+  "positive_themes": {
+    "friendly_staff": 4,
+    "good_food": 3,
+    "clean_rooms": 4,
+    "good_location": 2,
+    "great_value": 1
+  },
+  "negative_themes": {
+    "parking_issues": 1
+  }
+}

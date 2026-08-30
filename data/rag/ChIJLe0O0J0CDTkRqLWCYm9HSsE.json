@@ -1,0 +1,54 @@
+{
+  "hotel_id": "ChIJLe0O0J0CDTkRqLWCYm9HSsE",
+  "hotel_name": "Hotel Paradise Inn",
+  "area": "Karol Bagh",
+  "budget_category": "Budget",
+  "rating": 4.4,
+  "trust_score": 0.8399776055017532,
+  "travel_purpose_tags": [
+    "Leisure",
+    "Family"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "rich",
+    "review_count": 5,
+    "positive_snippet_count": 3,
+    "negative_snippet_count": 2,
+    "positive_theme_count": 5,
+    "negative_theme_count": 1
+  },
+  "aspect_scores": {
+    "cleanliness": 0.7495584906137083,
+    "service": 0.9986982345581056,
+    "location": 0.9986982345581056,
+    "value_for_money": 0.6661277374951169,
+    "staff_behavior": 0.6664689343500262
+  },
+  "recommendation_features": {
+    "popularity_score": 0.689884128605965,
+    "rating_score": 4.4,
+    "sentiment_score": 0.7996149159269408
+  },
+  "review_evidence": {
+    "positive_snippets": [
+      "A Solid Value-for-Money Stay in the Heart of Karol Bagh\n\nRating: \u2605\u2605\u2605\u2605\u2606 (4/5)\n\nI recently stayed at the Paradise Inn in Karol Bagh, and it was a pleasant experience that offered great value for the price. Here is a breakdown of my stay:\nThe Highlights\nSpacious & Comfortable: The rooms are surprisingly big, providing plenty of space to move around. The beds are very comfortable, and I was pleased to find the linen crisp and clean.\nStorage: The room features a nice wardrobe equipped with enough hangers, which is a small but much-appreciated detail for keeping clothes organized.\nExceptional Service: The staff was very accommodative. They went out of their way to help me, even agreeing to provide my next-day breakfast on the first day of my arrival to suit my schedule.\nLocation & Accessibility\nThe hotel is located deep inside a crowded market.\nThe Downside: Cab navigation can be quite difficult due to the narrow, busy lanes.\nThe Upside: If you are a shopping enthusiast, the location is perfect! You are right in the middle of one of Delhi\u2019s most famous shopping hubs, with everything you need just steps away.\nRoom for Improvement\nThe only real drawback was the washroom. While functional, it could definitely be cleaner. The commode and basin felt a bit dated and could use an upgrade to match the quality of the bedroom.\nSummary: Despite the tricky navigation and the average washroom, the Paradise Inn is a great pick if you want a large, comfortable room and excellent service without breaking the bank.",
+      "Hotel is nice. Staff is very cooperative and helpful especially front office managers Mr. Rahul is very helpful and polite.For rooms it's clean and spacious. Food is tasty and hygienic.",
+      "We had a stay in Hotel Paradise inn for the last 5 days and I must say it had met above all my expectations. It's very spacious rooms and the staffs are very coperative. We had a blissful and peaceful stay in Delhi. Will be considering  staying here for future purposes as well. Thank you to every staffs for making it memorable :)"
+    ],
+    "negative_snippets": [
+      "The hotel staff was very nice and extremely friendly, which is the only positive part of our stay. Unfortunately, the rooms are in serious need of renovation. The blankets were dusty and had visible stains, and the bedsheets were also not clean.\n\nThe room was extremely cold, and despite requesting, heaters could not be arranged. There was a large gap between the window and the wall, allowing cold air to enter even when everything was closed. Because of this, along with mosquitoes in the room, my family and I fell sick during our stay.\n\nAlthough the staff tried their best and were very polite, the overall condition of the rooms and facilities was not worth the price we paid.",
+      "The best part about this place is its accessibility. I stayed here for one and a half days in a single room. They arranged two extra beds for us, which was nice  though the extra mattresses were a bit hard, it was still okay. The only drawback was the old blanket that had some stains, probably due to long use. Other than that, everything was good! The bathroom was clean, and they even took care of our luggage after checkout, which showed great hospitality. Overall, it\u2019s a good stay for the price range."
+    ]
+  },
+  "review_summary": "Based on 5 reviews.",
+  "positive_themes": {
+    "clean_rooms": 4,
+    "friendly_staff": 4,
+    "good_location": 1,
+    "great_value": 2,
+    "good_food": 2
+  },
+  "negative_themes": {
+    "dirty_rooms": 2
+  }
+}

@@ -1,0 +1,53 @@
+{
+  "hotel_id": "ChIJPwpn3iIZDTkRtUmKOOXCCSw",
+  "hotel_name": "Hotel Vipul Grand",
+  "area": "Shahpur",
+  "budget_category": "Mid-Range",
+  "rating": 4.3,
+  "trust_score": 0.6446607686892596,
+  "travel_purpose_tags": [
+    "Budget"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "rich",
+    "review_count": 5,
+    "positive_snippet_count": 3,
+    "negative_snippet_count": 2,
+    "positive_theme_count": 5,
+    "negative_theme_count": 1
+  },
+  "aspect_scores": {
+    "cleanliness": 0.0123745622113347,
+    "service": 0.3438291695589821,
+    "location": 0.506065180990845,
+    "value_for_money": 0.0099834053544327,
+    "staff_behavior": 0.2580545574310235
+  },
+  "recommendation_features": {
+    "popularity_score": 0.423919550940717,
+    "rating_score": 4.3,
+    "sentiment_score": 0.4063948058988899
+  },
+  "review_evidence": {
+    "positive_snippets": [
+      "Ambience is clean & quiet.\nThe staff is caring.\nBut, there is no food service in hotel and eatables markets are little far. So, you would need to manage yourself with zomato kind of online orders only.",
+      "I rarely write reviews, but the experience I had at Vipul Grand was truly exceptional. My sister and I stayed there for two days and felt safe and comfortable throughout. The rooms are spacious, the service is prompt, and the location is unbeatable\u2014especially if you have work in Cyber City.\n\nWhat truly stood out was the owner\u2019s hospitality. He not only guided us around the area but personally went out of his way to help us in every possible manner. It\u2019s a gesture we\u2019ll never forget.\n\nFrom now on, whenever my family or I are in the area, Vipul Grand will be our go-to place to stay..",
+      "I rarely write reviews, but my 15-day stay at this hotel was so good that I had to share my experience. The owner and staff were incredibly supportive, and I never felt anything negative during my entire stay. As someone new to the city, the owner personally shared his number with me and helped in every way possible. I would definitely recommend this hotel to everyone, including my close ones. In every aspect, it's simply the best!. Hotel vipul grand is going to stay with me life long."
+    ],
+    "negative_snippets": [
+      "After staying at this hotel for nearly three months, I can say with confidence that this has been one of the worst experiences of my life, not because of the property, but solely due to the appalling behavior of the owner. He is a dominating, greedy individual who has absolutely no regard for his customers.\nHis greed knows no bounds. To give a perfect example: after being a guest here for almost three months, I needed to check out at 3:00 PM due to a late flight, just four hours past the standard 11:00 AM checkout. Instead of showing a shred of humanity or politeness for a long-term guest, the owner flatly refused and demanded extra payment for these few hours. This perfectly illustrates his money-obsessed and uncaring nature.\nFurthermore, the owner\u2019s language is consistently foul, unprofessional, and degrading. It was shocking to witness him speak this way not only to guests but also to his own staff. He preaches that the \u201ccustomer is god,\u201d but his actions show this is a hollow and meaningless phrase. He is not a man of his word, and the prices are exploitative; charging 30 INR for a water bottle and 60 INR for a simple cup of tea is outrageous.\nThe only saving grace of this establishment is the staff. They are incredibly supportive, professional, and kind, and they are the only reason this hotel is still in business. Guests are entirely dependent on their excellent service. It is clear that without them, this place would have closed down a long time ago. I feel terrible for the staff who have to endure the owner\u2019s constant abuse.\nBased on my extended stay and this final, infuriating incident, I strongly urge everyone to avoid this hotel. The owner\u2019s toxic personality and greed create an awful atmosphere that even the wonderful staff cannot overcome.",
+      "WARNING FOR WOMEN AND FAMILIES: DO NOT STAY HERE.\nThe owner of this hotel is a creep, and his behavior made our stay feel genuinely unsafe. His predatory gaze on female guests is relentless, creating a disgusting atmosphere where you feel constantly watched and your privacy is violated. His inappropriate comments and vulgar language confirm his intentions are not harmless.\nThis disturbing behavior is part of a larger pattern of disregard for guest safety and comfort. He\u2019ll leave you in the dark during frequent power cuts, refusing to run the generator just to save money, while verbally abusing his staff.\nThe staff are kind and professional, but they cannot protect guests from the owner\u2019s predatory nature. This is not about a bad hotel experience; it is a serious safety concern. For your own peace of mind, book anywhere else. It is not worth the risk."
+    ]
+  },
+  "review_summary": "Based on 5 reviews.",
+  "positive_themes": {
+    "clean_rooms": 1,
+    "friendly_staff": 4,
+    "good_food": 1,
+    "good_location": 2,
+    "great_value": 1
+  },
+  "negative_themes": {
+    "rude_staff": 1
+  }
+}

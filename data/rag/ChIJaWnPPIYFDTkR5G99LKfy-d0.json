@@ -1,0 +1,40 @@
+{
+  "hotel_id": "ChIJaWnPPIYFDTkR5G99LKfy-d0",
+  "hotel_name": "Hotel O Hotel Tj",
+  "area": "Rohini",
+  "budget_category": "Mid-Range",
+  "rating": 4.8,
+  "trust_score": 0.8487180333550335,
+  "travel_purpose_tags": [
+    "Budget"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "sparse",
+    "review_count": 1,
+    "positive_snippet_count": 1,
+    "negative_snippet_count": 0,
+    "positive_theme_count": 0,
+    "negative_theme_count": 0
+  },
+  "aspect_scores": {
+    "cleanliness": 0.5,
+    "service": 0.9995038509368896,
+    "location": 0.5,
+    "value_for_money": 0.5,
+    "staff_behavior": 0.5
+  },
+  "recommendation_features": {
+    "popularity_score": 0.1811444130340956,
+    "rating_score": 4.8,
+    "sentiment_score": 0.9995038509368896
+  },
+  "review_evidence": {
+    "positive_snippets": [
+      "This hotel is good for staying alone and with family. It have good and fast service. Rooms are also best, you can't find any dirt in the room."
+    ],
+    "negative_snippets": []
+  },
+  "review_summary": "Based on 1 reviews.",
+  "positive_themes": {},
+  "negative_themes": {}
+}

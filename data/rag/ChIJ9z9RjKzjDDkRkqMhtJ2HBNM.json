@@ -1,0 +1,50 @@
+{
+  "hotel_id": "ChIJ9z9RjKzjDDkRkqMhtJ2HBNM",
+  "hotel_name": "Hotel Amby Inn",
+  "area": "Lajpat Nagar",
+  "budget_category": "Budget",
+  "rating": 3.9,
+  "trust_score": 0.8163186212234959,
+  "travel_purpose_tags": [
+    "Leisure",
+    "Business",
+    "Family"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "moderate",
+    "review_count": 5,
+    "positive_snippet_count": 3,
+    "negative_snippet_count": 0,
+    "positive_theme_count": 5,
+    "negative_theme_count": 0
+  },
+  "aspect_scores": {
+    "cleanliness": 0.9995821118354796,
+    "service": 0.9997966527938844,
+    "location": 0.9997051060199738,
+    "value_for_money": 0.9995821118354796,
+    "staff_behavior": 0.9998764991760254
+  },
+  "recommendation_features": {
+    "popularity_score": 0.5908772782958578,
+    "rating_score": 3.9,
+    "sentiment_score": 0.9997966527938844
+  },
+  "review_evidence": {
+    "positive_snippets": [
+      "have stayed amby inn hotels in New Delhi however this is a very different experience and very personalised due to the smaller size of property. In international Service is amazing, the rooms (ask for an refurbished room!!) are fabulous in size with all the right amenities you will need for a comfortable staty. It's fast becoming the \"place to be\" in terms of Delhi's elite and this is due to the",
+      "I had an absolutely wonderful experience at Hotel Amby inn Lajpat Nagar. From the moment I arrived, the hospitality stood out.  and \u2014 were incredibly friendly, professional, and welcoming. They set the perfect tone for my stay with their courteous greetings and helpful attitude.\nAt the front desk, gaurav and sonu the rest of the team like Shikwere truly exceptional. Every request was handled instantly and with a genuine smile. Whether it was check-in assistance, information about the area, or any other need, they went above and beyond to make sure everything was perfect.\nIt\u2019s rare to find a team that combines efficiency, warmth, and attentiveness so effortlessly. A big thank you to everyone",
+      "Great accomodation to stay at, very near to the Lajpat Nagr Metro ! It\u2019s right off a near main road so you will hear honking, but that\u2019s as expected in India!\n\nThe rooms are very nice, comfortable bedding and good pressure showers.\n\nThe service is great, always happy to help, especially at breakfast.  provided exceptional service, attending to requests with a smile and were very kind. The breakfast food selection is great.\nWould recommend!"
+    ],
+    "negative_snippets": []
+  },
+  "review_summary": "Based on 5 reviews.",
+  "positive_themes": {
+    "friendly_staff": 2,
+    "good_location": 2,
+    "good_food": 2,
+    "clean_rooms": 1,
+    "great_value": 1
+  },
+  "negative_themes": {}
+}

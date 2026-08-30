@@ -1,0 +1,53 @@
+{
+  "hotel_id": "ChIJNZsccdYBDTkRmA2oyKRyE9A",
+  "hotel_name": "Hotel City Grand",
+  "area": "Bhalswa",
+  "budget_category": "Mid-Range",
+  "rating": 4.2,
+  "trust_score": 0.6145494923228976,
+  "travel_purpose_tags": [
+    "Budget"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "moderate",
+    "review_count": 5,
+    "positive_snippet_count": 2,
+    "negative_snippet_count": 3,
+    "positive_theme_count": 3,
+    "negative_theme_count": 3
+  },
+  "aspect_scores": {
+    "cleanliness": 0.2501001955570245,
+    "service": 0.6665182217936186,
+    "location": 0.5,
+    "value_for_money": 0.9993067979812622,
+    "staff_behavior": 0.2502400876583123
+  },
+  "recommendation_features": {
+    "popularity_score": 0.3543615015642497,
+    "rating_score": 4.2,
+    "sentiment_score": 0.4000534297229023
+  },
+  "review_evidence": {
+    "positive_snippets": [
+      "Hotel City Grand has very good service and the rooms are very nice, I am a regular customer here, the staff is very nice. \u2728\u2764\ufe0f",
+      "Excellent stay in the outer Delhi area.. We stayed for a refreshment after reaching delhi after a long journey and it was quite smooth experience in the City Grand.. The room service and amenities provided is worth of a high class hotel.. Only problem is that shower doesn't had hot water.. The water was little salted smell also.. They have parking space also available.."
+    ],
+    "negative_snippets": [
+      "I had a very disappointing and unprofessional experience at City Grand Hotel. Their service staff was extremely careless \u2014 I called them multiple times but no one came, and they were literally busy sleeping.\n\nA small stain accidentally fell on their chair. I clearly told them that I would pay whatever reasonable cleaning charges were needed. Instead, they demanded \u20b913,500 just for a chair, which makes absolutely no sense. When I wiped it with a cloth, the stain came off immediately. Then they claimed the chair was \u201cwet\u201d and again insisted I must pay for a new one costing \u20b913,500.\n\nThey wasted 2 hours of my time arguing unnecessarily. Only after I firmly said I would take legal action/complain, the owner suddenly changed tone and told me I could leave without any charges. This shows how unprofessional their behavior was.\n\nOverall, very bad experience \u2014 poor service, rude attitude, and unfair charges. I would not recommend this hotel to anyone.",
+      "Very bad experience at City Grand Hotel. Staff was unprofessional and didn\u2019t respond even after calling multiple times. They tried to charge \u20b913,500 for a small stain on a chair which I wiped clean myself. They wasted 2 hours arguing and only let me go after I confronted them. Owner was also rude. Not recommended at all.",
+      "Very bad experience. The owner tried to force us to pay \u20b913,000 for a chair even after we cleaned the small stain completely. Extremely unprofessional and rude behaviour. Not recommended at all.."
+    ]
+  },
+  "review_summary": "Based on 5 reviews.",
+  "positive_themes": {
+    "friendly_staff": 3,
+    "great_value": 1,
+    "clean_rooms": 3
+  },
+  "negative_themes": {
+    "dirty_rooms": 1,
+    "parking_issues": 1,
+    "rude_staff": 3
+  }
+}

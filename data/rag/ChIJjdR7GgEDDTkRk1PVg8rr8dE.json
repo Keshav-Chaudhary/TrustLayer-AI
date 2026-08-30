@@ -1,0 +1,50 @@
+{
+  "hotel_id": "ChIJjdR7GgEDDTkRk1PVg8rr8dE",
+  "hotel_name": "Hotel Palm Grand - Naraina New Delhi",
+  "area": "Naraina",
+  "budget_category": "Mid-Range",
+  "rating": 3.9,
+  "trust_score": 0.6761421050226366,
+  "travel_purpose_tags": [
+    "Budget"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "moderate",
+    "review_count": 5,
+    "positive_snippet_count": 2,
+    "negative_snippet_count": 3,
+    "positive_theme_count": 2,
+    "negative_theme_count": 1
+  },
+  "aspect_scores": {
+    "cleanliness": 0.5,
+    "service": 0.6689001298509538,
+    "location": 0.5,
+    "value_for_money": 0.5,
+    "staff_behavior": 0.6666847478869992
+  },
+  "recommendation_features": {
+    "popularity_score": 0.5733490415839662,
+    "rating_score": 3.9,
+    "sentiment_score": 0.5721161716035568
+  },
+  "review_evidence": {
+    "positive_snippets": [
+      "I recently got married on 27th October 2025, and we booked Hotel PALM Grand, Naraina, New Delhi for three days \u2014 25th for our Engagement, 26th for Haldi & Mehendi, and 27th for the Wedding, with checkout on the 28th.\n\nWe had booked 20 rooms, and I must say the overall experience was exceptional. The breakfast, lunch, and event food were all fresh, delicious, and beautifully managed throughout our stay.\n\nA special mention to Mr. Rajeev, the manager of PALM Grand Hotel, for his outstanding coordination and support. The reception team \u2014 Manisha and Abhishek \u2014 were extremely polite, professional, and helpful at every step.\n\nAmazing service, great room service, very cooperative staff, and absolutely tasty food made our most important days even more memorable. Highly recommended for weddings and events!",
+      "Booked this property for three days for my sister's wedding. I am amazed by the service and hospitality.  I really felt like we were at home. All the staff took good care of our family. All the functions held at this hotel were very well organized. Special thanks to Mr. Rajiv for providing hospitality like a family member. I would also like to comment on the food; the quality is top-notch\u2014so delicious. Thank you to all the staff. I will definitely book this property again."
+    ],
+    "negative_snippets": [
+      "Our car window was broken and things were stolen while we were attending a family event there. Since it was vallet parking and we were not aware where our car was parked as they don't have designated parking, it should have been the accountability of staff.\nThey didn't take any accountability and told us such crimes happens and vallet parking is always at owner's risk. It ruined the mood of our entire family. What should be a happy and memorable day turned into a horrible memory. All because of negligence and unaccountable behaviour of their staff.",
+      "Hotel Palm Grand did a decent job for my friend's wedding. The hotel ambiance was nice. I only had the starters, so can't comment on the full menu. Seems suitable for small functions; might not scale up for bigger events.\"",
+      "I stayed for  3 days wef 4-6 oct25. There was very less water comming from all taps.no hot water, no bucket to bath, water was not reaching to shower point. No restaurant facility in hotel.\nHotel management shifted in other room. There also similar problems to take bath whereas cold water flow was good.\nA person who wants to stay with compromise everything can go ahead."
+    ]
+  },
+  "review_summary": "Based on 5 reviews.",
+  "positive_themes": {
+    "friendly_staff": 3,
+    "good_food": 2
+  },
+  "negative_themes": {
+    "parking_issues": 1
+  }
+}

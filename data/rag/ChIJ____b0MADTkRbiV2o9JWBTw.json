@@ -1,0 +1,52 @@
+{
+  "hotel_id": "ChIJ____b0MADTkRbiV2o9JWBTw",
+  "hotel_name": "Lavanya Motel, North Delhi",
+  "area": "Alipur",
+  "budget_category": "Mid-Range",
+  "rating": 4.2,
+  "trust_score": 0.6368179494051196,
+  "travel_purpose_tags": [
+    "Budget"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "moderate",
+    "review_count": 5,
+    "positive_snippet_count": 1,
+    "negative_snippet_count": 3,
+    "positive_theme_count": 4,
+    "negative_theme_count": 2
+  },
+  "aspect_scores": {
+    "cleanliness": 0.0026533482887316,
+    "service": 0.2911808579374337,
+    "location": 0.5,
+    "value_for_money": 0.5,
+    "staff_behavior": 0.0026533482887316
+  },
+  "recommendation_features": {
+    "popularity_score": 0.7082621615260032,
+    "rating_score": 4.2,
+    "sentiment_score": 0.2339173840475268
+  },
+  "review_evidence": {
+    "positive_snippets": [
+      "Mr Ravinder poojri\nManagement is very comparative,\nFood is good"
+    ],
+    "negative_snippets": [
+      "Don't rely on google map. This place is good for function. Service and other features including dishes very nice. I came from Dhaulakua side but google map is totally confused so be careful. Don't rely on google map.",
+      "Conveniently located on GT Road  Palla Bakhtawar Pur road.Parking not well managed.Steps leading to function venue are risky, despite ample space. Indoor and outdoor lighting are blindingly Gaudy.Personal Hygiene of the service staff is very poor.Music is very odd and deafening.",
+      "Property is nice and spacious, also rooms are big and clean but the staff sitting at the reception who attends the clients and with whom you discuss the pricing and all are not well versed and with lot of attitude. They need to understand the way of dealing with different types of clients, as every client has their own requirements and rather than cooperating and understanding other person point behaving with ego is not good way."
+    ]
+  },
+  "review_summary": "Based on 5 reviews.",
+  "positive_themes": {
+    "good_food": 1,
+    "friendly_staff": 2,
+    "good_location": 1,
+    "clean_rooms": 1
+  },
+  "negative_themes": {
+    "parking_issues": 1,
+    "rude_staff": 1
+  }
+}

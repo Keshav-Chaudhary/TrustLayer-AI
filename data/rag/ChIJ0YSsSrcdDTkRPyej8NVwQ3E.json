@@ -1,0 +1,51 @@
+{
+  "hotel_id": "ChIJ0YSsSrcdDTkRPyej8NVwQ3E",
+  "hotel_name": "Fabhotel Veetara - Hotel In Safdarjung Enclave, New Delhi",
+  "area": "Safdarjung Enclave",
+  "budget_category": "Mid-Range",
+  "rating": 3.2,
+  "trust_score": 0.4103864655410612,
+  "travel_purpose_tags": [
+    "Budget"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "moderate",
+    "review_count": 5,
+    "positive_snippet_count": 1,
+    "negative_snippet_count": 3,
+    "positive_theme_count": 4,
+    "negative_theme_count": 1
+  },
+  "aspect_scores": {
+    "cleanliness": 0.0023216355621115,
+    "service": 0.3554820418357849,
+    "location": 0.5,
+    "value_for_money": 0.0002838489890563,
+    "staff_behavior": 0.5
+  },
+  "recommendation_features": {
+    "popularity_score": 0.5113480657867013,
+    "rating_score": 3.2,
+    "sentiment_score": 0.0721386021876241
+  },
+  "review_evidence": {
+    "positive_snippets": [
+      "Staffs are very good. Service is good. Rooms need a bit of maintenance. Lift was not working. Hotel in the 2nd floor, lift should be repaired immediately."
+    ],
+    "negative_snippets": [
+      "This hotel is absolutely not worth \u20b93000 for a single night. The overall maintenance is extremely poor. Most of the electric sockets don\u2019t even work, which is very inconvenient. There is no lift, so we had to climb two floors using the stairs, which is uncomfortable, especially with luggage.\nThe worst part is the cleanliness\u2014I even saw cockroaches roaming on the bed, which is completely unacceptable for any hotel.\nI definitely do not recommend this place. It needs proper cleaning, maintenance, and basic facilities before charging such high prices.",
+      "Very bad hotel in my life.dirty rooms with odour,lift not working,it feel like a BABA ADAM KE JAMANE KA GUEST HOUSE.I never recommend this to anyone.I paid already but don't stay in this ghatiya guest house.Rooms picture not matched with what they shown on fab hotel. I recommend all to stay in Hotel Elvilla only 20 meter away from this hotel.Nice rooms with updated facilities and top level cleaning hotel.",
+      "Very poor quality hotel. The rooms and facilities were in bad condition, with extremely poor maintenance. Cleanliness was not up to the mark at all, making the stay very uncomfortable. Definitely not worth the money."
+    ]
+  },
+  "review_summary": "Based on 5 reviews.",
+  "positive_themes": {
+    "friendly_staff": 1,
+    "clean_rooms": 4,
+    "good_location": 1,
+    "great_value": 2
+  },
+  "negative_themes": {
+    "dirty_rooms": 1
+  }
+}

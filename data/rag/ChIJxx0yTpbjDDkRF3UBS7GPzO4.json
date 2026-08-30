@@ -1,0 +1,52 @@
+{
+  "hotel_id": "ChIJxx0yTpbjDDkRF3UBS7GPzO4",
+  "hotel_name": "The Lime Stays Greater Kailash Metro Nearby Saket Select City Delhi -Hotels& 4Bhk Serviced Apartments In South Delhi",
+  "area": "Greater Kailash II",
+  "budget_category": "Budget",
+  "rating": 4.1,
+  "trust_score": 0.5785760687822176,
+  "travel_purpose_tags": [
+    "Budget"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "moderate",
+    "review_count": 5,
+    "positive_snippet_count": 1,
+    "negative_snippet_count": 3,
+    "positive_theme_count": 4,
+    "negative_theme_count": 2
+  },
+  "aspect_scores": {
+    "cleanliness": 0.0005516243400052,
+    "service": 0.0006044146139174,
+    "location": 0.3337466705900926,
+    "value_for_money": 0.0006044146139174,
+    "staff_behavior": 0.5000942563492571
+  },
+  "recommendation_features": {
+    "popularity_score": 0.5471573282439923,
+    "rating_score": 4.1,
+    "sentiment_score": 0.2004352934134658
+  },
+  "review_evidence": {
+    "positive_snippets": [
+      "Great hotel with a fantastic location. Mr. Pravesh, the Manager, was particularly helpful and polite throughout our visit. His proactive attitude made a huge difference in our experience. I will definitely be returning\ud83e\udd1e\ud83e\udd1e"
+    ],
+    "negative_snippets": [
+      "Centrally located but the hotel is not in a good shape . It\u2019s under maintained and not work the price you pay. Nothing like what you see on booking.com or Agoda. Doesn\u2019t have a place for reception or dining both are in one dingy corner . Rooms entrance through a small tiny living space where people can smoke with NO ventilation. Rolled up mattress and blankets kept on the floor where I believe the helped rest at night . So not a very GK2 experience in Delhi .",
+      "This is one of the worst stays i have ever been too i reached late at night around 1 AM. Even after multiple calls no one was answering for the location. Once i finally managed to find it. I went into the room. I have never been to a room like this ever in my travelling. The room was smelling mold and it was in mid feb so the climate out side was cold. The room had so much moisture the floor was wet and when i asked for a room change they said no room was available at the moment and can only shift in the morning. i told them the room was smelling mold and since nothing could be done . i said let it be and tried to sleep after half and hour or so i started coughing badly and went to the washroom. That was a another horrible scenario. It literally had black mold in the walls and dirty toilet broken toilet. door Since the booking was done through booking.com i had to pay an advance. I had to leave at 2.30 to a different hotel for scared for my health. I told the owner this was the condition int the morning there was not even an acknowledgement. Pls do check the photos toow",
+      "In one word over priced. Only benifit you are at the center of Delhi. Near by metro station. That's all, rest no perks to book this property. I would suggest if you get a room around 1000-1500 per night. Go for it or else look for another property."
+    ]
+  },
+  "review_summary": "Based on 5 reviews.",
+  "positive_themes": {
+    "friendly_staff": 2,
+    "good_location": 3,
+    "clean_rooms": 1,
+    "good_food": 1
+  },
+  "negative_themes": {
+    "dirty_rooms": 1,
+    "rude_staff": 1
+  }
+}

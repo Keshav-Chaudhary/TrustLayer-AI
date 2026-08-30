@@ -1,0 +1,48 @@
+{
+  "hotel_id": "ChIJdx3KI4vhDDkRjBieM5ZC8sI",
+  "hotel_name": "Svelte Delhi, A Member Of Radisson Individuals",
+  "area": "Pushp Vihar",
+  "budget_category": "Luxury",
+  "rating": 4.2,
+  "trust_score": 0.8811239448737461,
+  "travel_purpose_tags": [
+    "Leisure",
+    "Business"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "moderate",
+    "review_count": 5,
+    "positive_snippet_count": 3,
+    "negative_snippet_count": 0,
+    "positive_theme_count": 4,
+    "negative_theme_count": 0
+  },
+  "aspect_scores": {
+    "cleanliness": 0.99987131357193,
+    "service": 0.9922145962715148,
+    "location": 0.9807300269603728,
+    "value_for_money": 0.5,
+    "staff_behavior": 0.9903013557195663
+  },
+  "recommendation_features": {
+    "popularity_score": 0.7194367842741304,
+    "rating_score": 4.2,
+    "sentiment_score": 0.9922145962715148
+  },
+  "review_evidence": {
+    "positive_snippets": [
+      "I am currently staying at Svelte Hotel and I would like to sincerely appreciate two wonderful housekeeping staff members, Nandini and Anil.\n\nThey have been taking care of our room and their service has been absolutely excellent. The room is always spotless, well arranged, and very comfortable because of their attention to detail. They are professional, efficient, and take great pride in their work.\n\nBeyond that, they are incredibly warm, friendly, and respectful, which has made our stay even more pleasant. Their positive attitude truly stands out and they are a real asset to the hotel.\n\nThank you, Nandini and Anil, for your exceptional service!",
+      "During my stay at Svelte Hotel, I had the pleasure of being served by Prem Shankar, and his service was truly exceptional.\nPrem Shankar was warm, attentive, and consistently professional. He has a natural way of making guests feel genuinely welcome and cared for. He was always prompt, polite, and extremely knowledgeable, anticipating needs before they were even expressed. His positive attitude and calm efficiency elevated every dining experience and reflected the highest standards of hospitality.\nHe is a real asset to the hotel, and his dedication does not go unnoticed. Thank you, Prem Shankar, for making the stay so comfortable and memorable. Excellent service in every sense!",
+      "I would like to express my sincere appreciation for the outstanding breakfast experience at the Radisson in Delhi.\n\nThe selection was truly exceptional \u2014 a remarkable variety of fresh fruits, high-quality bakery items, international dishes, and local specialties. Every detail reflected excellence and careful attention to quality. The presentation, freshness, and diversity of the buffet made the breakfast a genuine highlight of my stay.\n\nI would especially like to commend Pram Shankar for the particularly attentive and professional service. Prime\u2019s warm hospitality, genuine friendliness, and constant attentiveness created a welcoming and memorable atmosphere. The service went above and beyond expectations and significantly enhanced the overall experience."
+    ],
+    "negative_snippets": []
+  },
+  "review_summary": "Based on 5 reviews.",
+  "positive_themes": {
+    "clean_rooms": 2,
+    "friendly_staff": 5,
+    "good_food": 3,
+    "good_location": 2
+  },
+  "negative_themes": {}
+}

@@ -1,0 +1,49 @@
+{
+  "hotel_id": "ChIJUdP3Rpb7DDkRtlGlfq_41wA",
+  "hotel_name": "Sk Klyde Grand",
+  "area": "Sahibabad",
+  "budget_category": "Mid-Range",
+  "rating": 4.6,
+  "trust_score": 0.9419740953307504,
+  "travel_purpose_tags": [
+    "Leisure",
+    "Business"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "moderate",
+    "review_count": 5,
+    "positive_snippet_count": 3,
+    "negative_snippet_count": 0,
+    "positive_theme_count": 3,
+    "negative_theme_count": 1
+  },
+  "aspect_scores": {
+    "cleanliness": 0.5,
+    "service": 0.999825100104014,
+    "location": 0.99983012676239,
+    "value_for_money": 0.5,
+    "staff_behavior": 0.9998161792755128
+  },
+  "recommendation_features": {
+    "popularity_score": 0.7441245952099317,
+    "rating_score": 4.6,
+    "sentiment_score": 0.9998166680335998
+  },
+  "review_evidence": {
+    "positive_snippets": [
+      "I sincerely appreciate Mr Yuvraj Bisht for managing my corporate  inquiries with so much great confidence and professionalism. He had demonstrated strong product knowledge, negotiation skills, and timely follow-ups. His ability to build rapport with corporate clients and provide customized solutions has positively impacted his sales performance. Keep up the outstanding work!\nWe had a amazing event at SK Klyde Grand & would recommend anyone to conduct any event here through Mr Yuvraj Bisht",
+      "We booked S.K. Klyde Grand Hotel & Banquet for my sister\u2019s marriage and honestly, it turned out to be a great decision. The location is very convenient and parking was hassle-free, which made things easy for all our guests.\n\nThe food was absolutely awesome \u2014 great taste and an impressive variety in the menu. The decoration was beautiful and exactly as promised. Hospitality was top-notch; many of our guests personally appreciated the arrangements and overall management.\n\nSpecial thanks to Mr. Bane Singh for his constant support, coordination, and smooth handling of everything. He made sure all details were taken care of without any stress.\n\nHighly recommended for weddings, parties, and especially for food lovers. Will definitely suggest this place for your next celebration",
+      "This was an extremely charming , elegant hotel with beautiful rooms . The receptionist Ms. Pallavi was extremely helpful and welcoming. She went out of her way to be extremely kind to a very weary traveller. Would highly recommend a stay. On top of all first class hotel receptionist, Ms. Pallavi. She made me feel that my experience at the hotel was personally important to her. I think she deserves most of the credit over all the other staff. The breakfast was good as well and the public areas are relaxing and serviced by an attentive team of staff."
+    ],
+    "negative_snippets": []
+  },
+  "review_summary": "Based on 5 reviews.",
+  "positive_themes": {
+    "good_location": 1,
+    "good_food": 4,
+    "friendly_staff": 3
+  },
+  "negative_themes": {
+    "parking_issues": 3
+  }
+}

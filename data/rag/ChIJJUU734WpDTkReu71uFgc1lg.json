@@ -1,0 +1,49 @@
+{
+  "hotel_id": "ChIJJUU734WpDTkReu71uFgc1lg",
+  "hotel_name": "Super Townhouse By Oyo Dsidc Bawana Formerly Kanhaiya Residency",
+  "area": "extension",
+  "budget_category": "Budget",
+  "rating": 4.7,
+  "trust_score": 0.868947989716052,
+  "travel_purpose_tags": [
+    "Budget"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "moderate",
+    "review_count": 5,
+    "positive_snippet_count": 3,
+    "negative_snippet_count": 1,
+    "positive_theme_count": 2,
+    "negative_theme_count": 1
+  },
+  "aspect_scores": {
+    "cleanliness": 0.9522017041842142,
+    "service": 0.5,
+    "location": 0.5,
+    "value_for_money": 0.5,
+    "staff_behavior": 0.9995183050632476
+  },
+  "recommendation_features": {
+    "popularity_score": 0.3811417720613274,
+    "rating_score": 4.7,
+    "sentiment_score": 0.9712472438812256
+  },
+  "review_evidence": {
+    "positive_snippets": [
+      "Well warming behaviour of staff asking for comp tea also rooms clean smoothly checked in",
+      "Amazing stay and room was very clean, staff very polite mr Vishal",
+      "Good one good looks in rooms luxry"
+    ],
+    "negative_snippets": [
+      "Dirty rooms doesn\u2019t look as in pics worstest expirence don\u2019t get fooled by pics"
+    ]
+  },
+  "review_summary": "Based on 5 reviews.",
+  "positive_themes": {
+    "clean_rooms": 2,
+    "friendly_staff": 2
+  },
+  "negative_themes": {
+    "dirty_rooms": 1
+  }
+}

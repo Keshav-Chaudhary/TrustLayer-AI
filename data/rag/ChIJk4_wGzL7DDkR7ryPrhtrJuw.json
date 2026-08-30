@@ -1,0 +1,53 @@
+{
+  "hotel_id": "ChIJk4_wGzL7DDkR7ryPrhtrJuw",
+  "hotel_name": "Qotel Comfort At Residency Kaushambi",
+  "area": "Sahibabad",
+  "budget_category": "Mid-Range",
+  "rating": 3.9,
+  "trust_score": 0.7158746349133084,
+  "travel_purpose_tags": [
+    "Budget"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "rich",
+    "review_count": 5,
+    "positive_snippet_count": 3,
+    "negative_snippet_count": 2,
+    "positive_theme_count": 4,
+    "negative_theme_count": 2
+  },
+  "aspect_scores": {
+    "cleanliness": 0.000741346986615,
+    "service": 0.5,
+    "location": 0.6665829652241276,
+    "value_for_money": 0.5,
+    "staff_behavior": 0.9993337988853456
+  },
+  "recommendation_features": {
+    "popularity_score": 0.7183238974456992,
+    "rating_score": 3.9,
+    "sentiment_score": 0.6000029739981982
+  },
+  "review_evidence": {
+    "positive_snippets": [
+      "A restaurant is only as good as its staff and the guys on duty were excellent taking time to chat and make us feel welcome. The food choice was amazing and catered for all tastes. If it wasn\u2019t so far from the UK we\u2019d definitely return. Definitely recommend.",
+      "Excellent hospitality by all staffs . Excellent location , just behind the he Kusambi metro and well maintained rooms... Will come again. Great experience. Thanks.",
+      "Had a great stay! Very comfortable room, and very quiet. Almost no street noise. Staff was very friendly!"
+    ],
+    "negative_snippets": [
+      "Worst hotel experience ever. The only thing this hotel has going for it is its location near Kaushambi Metro. Apart from that, everything is terrible. The rooms are extremely unhygienic and dirty. The bed sheets looked used and were clearly not cleaned or changed. The bathroom was the worst part\u2014very dirty, badly maintained, and filled with a horrible smell that made it uncomfortable to even step inside. Overall cleanliness is zero, and basic hygiene standards are completely ignored. I would strongly advise everyone to avoid this place unless you want to ruin your stay.",
+      "Unhygienic and filthy rooms. Bathrooms are even worse. There is a very strong smell in the entire room. I just left even though I had reserved the place. Thankfully had booked for just a day. Doesnt even deserve a 1 star rating."
+    ]
+  },
+  "review_summary": "Based on 5 reviews.",
+  "positive_themes": {
+    "friendly_staff": 3,
+    "good_food": 1,
+    "good_location": 2,
+    "clean_rooms": 1
+  },
+  "negative_themes": {
+    "noise": 1,
+    "dirty_rooms": 2
+  }
+}

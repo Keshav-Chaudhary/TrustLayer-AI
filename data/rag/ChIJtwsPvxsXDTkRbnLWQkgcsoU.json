@@ -1,0 +1,48 @@
+{
+  "hotel_id": "ChIJtwsPvxsXDTkRbnLWQkgcsoU",
+  "hotel_name": "Awadh Bagh By Under My Roof In Gurgaon | 5Bhk Farm For Weddings & Private Events",
+  "area": "Sector 89A",
+  "budget_category": "Mid-Range",
+  "rating": 4.8,
+  "trust_score": 0.847626342741657,
+  "travel_purpose_tags": [
+    "Business"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "moderate",
+    "review_count": 5,
+    "positive_snippet_count": 3,
+    "negative_snippet_count": 1,
+    "positive_theme_count": 3,
+    "negative_theme_count": 0
+  },
+  "aspect_scores": {
+    "cleanliness": 0.6654625230197174,
+    "service": 0.9989517629146576,
+    "location": 0.5,
+    "value_for_money": 0.5,
+    "staff_behavior": 0.9998879432678224
+  },
+  "recommendation_features": {
+    "popularity_score": 0.4764330899412014,
+    "rating_score": 4.8,
+    "sentiment_score": 0.799222963640932
+  },
+  "review_evidence": {
+    "positive_snippets": [
+      "We recently had the pleasure of staying at Awadh Bagh, a luxurious 5BHK pool farmhouse that exceeded our expectations in every way. From the moment we arrived, the caretakers welcomed us with warm smiles and ensured our stay was comfortable and hassle-free.\n\nThe pool area was a highlight, with crystal-clear waters that sparkled in the sunlight. The caretakers took great care to maintain the pool's cleanliness, and we appreciated the attention to detail. The surrounding garden was equally impressive, with lush greenery and vibrant flowers that added to the serene ambiance.\n\nThe farmhouse itself was beautifully designed, with elegant decor and spacious rooms that offered ample comfort. We enjoyed relaxing in the tranquil surroundings, taking breaks from our busy schedules to unwind and rejuvenate.\n\nWhat truly stood out, however, was the exceptional service provided by the caretakers. They were attentive, responsive, and went above and beyond to ensure our needs were met. Their warm hospitality made us feel at home, and we're grateful for their care.\n\nAwadh Bagh is an ideal destination for those seeking a peaceful retreat from the city's chaos. Whether you're looking to host an event, spend quality time with family and friends, or simply relax in nature, this boutique farmhouse has something for everyone.\n\nWe highly recommend Awadh Bagh for its:\n\n- Luxurious 5BHK accommodations\n- Sparkling clean pool\n- Beautifully maintained garden\n- Exceptional service from the caretakers\n- Peaceful and serene ambiance\n\nWould definitely recommend!",
+      "The place and the people, just perfect!\nThe staff is amazing and always at your service. We had an amazing stay and late-night party there.",
+      "Great property for 10-15 people. They have everything in place - sports equipments, speaker, television, microwave, refrigerator, crockery etc. The pool is pretty amazing too. Special thanks to Deepak, Mahadev and Naresh for their service."
+    ],
+    "negative_snippets": [
+      "Everything was perfect, but the stray dogs came into the house and ruined the evening party and the night. Couldn't sit outside the house. They were licking all the plates and glasses. Hygiene was the main thing that was missing."
+    ]
+  },
+  "review_summary": "Based on 5 reviews.",
+  "positive_themes": {
+    "clean_rooms": 2,
+    "friendly_staff": 1,
+    "good_food": 1
+  },
+  "negative_themes": {}
+}

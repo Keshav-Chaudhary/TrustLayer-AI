@@ -1,0 +1,46 @@
+{
+  "hotel_id": "ChIJ5ybFfAsXDTkR5slZzBjfm8o",
+  "hotel_name": "Spot On Hotel Dezire Dhankot Chowk",
+  "area": "Dhankot",
+  "budget_category": "Mid-Range",
+  "rating": 3.8,
+  "trust_score": 0.5565301508021404,
+  "travel_purpose_tags": [
+    "Budget"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "sparse",
+    "review_count": 5,
+    "positive_snippet_count": 1,
+    "negative_snippet_count": 3,
+    "positive_theme_count": 0,
+    "negative_theme_count": 1
+  },
+  "aspect_scores": {
+    "cleanliness": 0.5,
+    "service": 0.998311161994934,
+    "location": 0.5,
+    "value_for_money": 0.0003550876426743,
+    "staff_behavior": 0.5
+  },
+  "recommendation_features": {
+    "popularity_score": 0.3282682438797654,
+    "rating_score": 3.8,
+    "sentiment_score": 0.4022611433465498
+  },
+  "review_evidence": {
+    "positive_snippets": [
+      "nice hotel of dhankot sector 102 Gurgaon, WiFi free, CCTV camera, security guard, fine room, room service, intercom, parking & park......"
+    ],
+    "negative_snippets": [
+      "They don't even have water bottles, you have to go out and one for yourself and rooms are total sick, don't mistake from the photos",
+      "Totally waste of money . Don't rent room",
+      "Most pathetic experience one could expect from this hotel and from Oyo. They should be banned. Oyo took my money for booking and when guess reached at hotel at 10 pm, the hotel refused to provide room as it required only cash payment,,not via Oyo. The guest had to go back to AIIMS and spent night in waiting area. I am certainly going to sue them in consumer court."
+    ]
+  },
+  "review_summary": "Based on 5 reviews.",
+  "positive_themes": {},
+  "negative_themes": {
+    "parking_issues": 1
+  }
+}

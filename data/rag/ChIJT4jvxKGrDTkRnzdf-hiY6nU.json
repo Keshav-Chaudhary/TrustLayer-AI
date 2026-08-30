@@ -1,0 +1,51 @@
+{
+  "hotel_id": "ChIJT4jvxKGrDTkRnzdf-hiY6nU",
+  "hotel_name": "Oyo 69507 Royal King Inn",
+  "area": "Marmurpur",
+  "budget_category": "Budget",
+  "rating": 3.4,
+  "trust_score": 0.4883597181979361,
+  "travel_purpose_tags": [
+    "Budget"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "moderate",
+    "review_count": 5,
+    "positive_snippet_count": 2,
+    "negative_snippet_count": 3,
+    "positive_theme_count": 2,
+    "negative_theme_count": 2
+  },
+  "aspect_scores": {
+    "cleanliness": 0.0007180277025327,
+    "service": 0.0034863374166888,
+    "location": 0.5,
+    "value_for_money": 0.5,
+    "staff_behavior": 0.5000067621440393
+  },
+  "recommendation_features": {
+    "popularity_score": 0.4375668410245572,
+    "rating_score": 3.4,
+    "sentiment_score": 0.2823902795033063
+  },
+  "review_evidence": {
+    "positive_snippets": [
+      "Nice service but I didn't use it.",
+      "Nice place, big room with WiFi and professional staff.."
+    ],
+    "negative_snippets": [
+      "My experience is not good in this hotel, because of when's i was checked in hotel , my room is very dirty and full with mosquito, toilet is also very dirty, bed sheets pillows are all dirty , whole night I feel very bad for how I  come to the hotel. Running water \ud83d\udca6 not in proper way\nI called to customer support executive assistant and they'll sorted my issue of bathroom running water.",
+      "Very very bad service\nI suggest to all that\nIf you book hotel Never take this hotel.  The staff here is also not perfect and not suitable for living at all.",
+      "Place is good but not very much cleaned and all"
+    ]
+  },
+  "review_summary": "Based on 5 reviews.",
+  "positive_themes": {
+    "friendly_staff": 2,
+    "clean_rooms": 1
+  },
+  "negative_themes": {
+    "dirty_rooms": 1,
+    "rude_staff": 1
+  }
+}

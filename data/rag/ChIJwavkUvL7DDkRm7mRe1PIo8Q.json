@@ -1,0 +1,51 @@
+{
+  "hotel_id": "ChIJwavkUvL7DDkRm7mRe1PIo8Q",
+  "hotel_name": "Flagship Royal Inn Near Shahdara Metro Station",
+  "area": "Shahdara",
+  "budget_category": "Budget",
+  "rating": 3.3,
+  "trust_score": 0.4321378920261651,
+  "travel_purpose_tags": [
+    "Budget"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "moderate",
+    "review_count": 5,
+    "positive_snippet_count": 1,
+    "negative_snippet_count": 3,
+    "positive_theme_count": 3,
+    "negative_theme_count": 2
+  },
+  "aspect_scores": {
+    "cleanliness": 0.0007483201819315,
+    "service": 0.0007530362927354,
+    "location": 0.000418293144321,
+    "value_for_money": 0.3336810200804999,
+    "staff_behavior": 0.0006711095484206
+  },
+  "recommendation_features": {
+    "popularity_score": 0.358409522528563,
+    "rating_score": 3.3,
+    "sentiment_score": 0.2006081234605516
+  },
+  "review_evidence": {
+    "positive_snippets": [
+      "Excellent place to stay. Spacious rooms and good ambience. Value for money. My family liked this place a lot. Has all facilities."
+    ],
+    "negative_snippets": [
+      "Warning! Book room at your own risk..\nAfter booking confirm with hotel too. Hotel Manager will ask extra amount to provide or simply cancel the room.\nIn my turn OYO booked room in 1006 and after final invoice@ 1538 and hotel manager has taken 2600..\nAfter multiple calls and tweets no action taken from oyo. They are behaving like Sorry Sir.\nAt night I talked to hotel manager paid extra amount or can say double the amount.\nIt was my First experince with OYO.",
+      "Hotel is asking for extra money by saying that they are not accepting online bookings and if you already paid online through Oyo app we will not provide rooms. You have to pay offline to them only.\nService is too poor. Unhygienic bathroom, dirty mattresses. Please look into this issue Oyo.",
+      "Hotel location fine but price too much according to room because room not hygiene and very dirty. Receptionist behavior also not good and very rude. Below the sleeping bed very dirty and not cleaned properly."
+    ]
+  },
+  "review_summary": "Based on 5 reviews.",
+  "positive_themes": {
+    "great_value": 1,
+    "clean_rooms": 1,
+    "good_location": 1
+  },
+  "negative_themes": {
+    "dirty_rooms": 3,
+    "rude_staff": 1
+  }
+}

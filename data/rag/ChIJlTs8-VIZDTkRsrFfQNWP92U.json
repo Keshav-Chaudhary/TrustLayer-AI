@@ -1,0 +1,51 @@
+{
+  "hotel_id": "ChIJlTs8-VIZDTkRsrFfQNWP92U",
+  "hotel_name": "Green Bacchus Stays",
+  "area": "Palam Vihar Extension",
+  "budget_category": "Budget",
+  "rating": 4.5,
+  "trust_score": 0.7987793350038163,
+  "travel_purpose_tags": [
+    "Budget"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "moderate",
+    "review_count": 5,
+    "positive_snippet_count": 3,
+    "negative_snippet_count": 1,
+    "positive_theme_count": 4,
+    "negative_theme_count": 1
+  },
+  "aspect_scores": {
+    "cleanliness": 0.5,
+    "service": 0.5,
+    "location": 0.0003981083282269,
+    "value_for_money": 0.0003981083282269,
+    "staff_behavior": 0.7499442569824168
+  },
+  "recommendation_features": {
+    "popularity_score": 0.4332363014410051,
+    "rating_score": 4.5,
+    "sentiment_score": 0.7999159115483053
+  },
+  "review_evidence": {
+    "positive_snippets": [
+      "Was a pleasant stay being from hospitality industry its i felt i like i have choosen a best stay ever it was well cleaned , the owner was extreamly helpful , coordinating and understanding....\nAll thanks to Ms. Jyotsna for hosting us...\nWe have our best new year party ever ...\n\nCheers and all the best .",
+      "Self check in apartments with common terrace garden, table tennis table and washing machine. Hosts are very kind, humble and helpful.",
+      "Had a 2 day stay here and this place is so comfortable as it has everything one needs. The host Jyotsana is very responsive and helpful.. I highly recommend everyone to must experience what this place has to offer."
+    ],
+    "negative_snippets": [
+      "PLEASE I REQUEST YOU ALL STAY AWAY FROM THIS PROPERTY, it is cheap for a reason. .\nWorse place, booked the Airbnb recently. We arrived with my family early morning along with a 14 month baby in the night cold weather. Place is in a middle of slums and totally shady, low class community. It was so awful, the place stinks. Super hard to find the location, host didn\u2019t bother.\nI called her several times to help find the location she was so rude and unprofessional says she sent me the location on maps already, look for this house number, I need to go back to sleep and all, this is not the right time to call, gave me her maids number instead.\nImagine you are in new in the city, don\u2019t know anybody there,, looking for a place in the slums with a small baby crying in the cold weather.\nIf she is only available for a certain period of time during the day then don\u2019t book people from overseas knowing their flights arrive at midnight or late midnight. I am sorry are you hosting the place or your maid? That I should contact her instead.\nThere were no amenities avaibke at the place like tea or milk a little but to make some tea, all these positive reviews are paid reviews. Cause a normal person cannot survive in that disaster..\nwe left the place with in half an hour after arriving.\nAnd when I contacted the host miss jyotsna she never replied or picked up my calls for the refund.\nI had to reach out to Airbnb support to report her and get my refund back. She denied the refund and change of days request as well."
+    ]
+  },
+  "review_summary": "Based on 5 reviews.",
+  "positive_themes": {
+    "clean_rooms": 1,
+    "friendly_staff": 3,
+    "good_location": 1,
+    "great_value": 1
+  },
+  "negative_themes": {
+    "rude_staff": 1
+  }
+}

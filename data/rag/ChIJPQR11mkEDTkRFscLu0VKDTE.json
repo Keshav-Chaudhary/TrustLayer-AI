@@ -1,0 +1,48 @@
+{
+  "hotel_id": "ChIJPQR11mkEDTkRFscLu0VKDTE",
+  "hotel_name": "Twamev Residency",
+  "area": "Paschim Vihar",
+  "budget_category": "Mid-Range",
+  "rating": 4.5,
+  "trust_score": 0.8072379791544182,
+  "travel_purpose_tags": [
+    "Business"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "moderate",
+    "review_count": 5,
+    "positive_snippet_count": 3,
+    "negative_snippet_count": 1,
+    "positive_theme_count": 1,
+    "negative_theme_count": 1
+  },
+  "aspect_scores": {
+    "cleanliness": 0.0022223484702408,
+    "service": 0.9998245537281036,
+    "location": 0.5,
+    "value_for_money": 0.0022223484702408,
+    "staff_behavior": 0.999841034412384
+  },
+  "recommendation_features": {
+    "popularity_score": 0.472446984385614,
+    "rating_score": 4.5,
+    "sentiment_score": 0.8002880313433707
+  },
+  "review_evidence": {
+    "positive_snippets": [
+      "The hotel is very nice and the staff is very calm and nice. I really enjoyed being here. I would recommend this hotel to others.",
+      "Very nice place for stay specially receptionist stop behaviour is so good",
+      "I love this place Very good service and staff behaviour was very good specially the receptionist was very experienced and behaviour was very good it was a very good facility"
+    ],
+    "negative_snippets": [
+      "Very bad hotel , smell always , unhygienic, demands more money than listed on oyo, mostly couple are enjoying there"
+    ]
+  },
+  "review_summary": "Based on 5 reviews.",
+  "positive_themes": {
+    "friendly_staff": 2
+  },
+  "negative_themes": {
+    "dirty_rooms": 1
+  }
+}

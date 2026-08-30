@@ -1,0 +1,48 @@
+{
+  "hotel_id": "ChIJUW2yCxEZDTkRJV_Mf597aw8",
+  "hotel_name": "Hotel Windsor Heights",
+  "area": "Sector 14",
+  "budget_category": "Mid-Range",
+  "rating": 4.3,
+  "trust_score": 0.8515506930685991,
+  "travel_purpose_tags": [
+    "Leisure",
+    "Business"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "moderate",
+    "review_count": 5,
+    "positive_snippet_count": 3,
+    "negative_snippet_count": 0,
+    "positive_theme_count": 4,
+    "negative_theme_count": 0
+  },
+  "aspect_scores": {
+    "cleanliness": 0.9996002912521362,
+    "service": 0.9997453093528748,
+    "location": 0.9998026192188264,
+    "value_for_money": 0.5,
+    "staff_behavior": 0.9997137635946274
+  },
+  "recommendation_features": {
+    "popularity_score": 0.5066336501392149,
+    "rating_score": 4.3,
+    "sentiment_score": 0.999722981452942
+  },
+  "review_evidence": {
+    "positive_snippets": [
+      "Hotel Staff is very cute and cooperative. Ms Pooja (Sales), Mr. Rakesh(Sales),  Mr. Neeraj (Food) and other staff embers are very kind to customers.\nIt is best hotel for Family stay overall.\n\nWe would like to visit again",
+      "All the hotel  management, staffs are well behaved  and the meal they delivered  were also nutritious and  taste good.",
+      "Had a 10-day stay here due to company trip. Hotel has nice connectivity across different sectors. Hotel looks old from outside and views are of adjacent buildings only but the premises inside is very well maintained. Rooms are exceptionally big with added bathtub in the washroom area. Cleanliness is maintained. Food options in the buffet were limited but mostly tasted good. Staff was courteous and attentive.\nHad a pleasant stay here."
+    ],
+    "negative_snippets": []
+  },
+  "review_summary": "Based on 5 reviews.",
+  "positive_themes": {
+    "friendly_staff": 5,
+    "good_food": 3,
+    "clean_rooms": 1,
+    "good_location": 2
+  },
+  "negative_themes": {}
+}

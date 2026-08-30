@@ -1,0 +1,54 @@
+{
+  "hotel_id": "ChIJ0SRAJy7jDDkRFajeIphw03w",
+  "hotel_name": "Midtown Hotel Delhi",
+  "area": "opposite Hira Sweets",
+  "budget_category": "Mid-Range",
+  "rating": 4.7,
+  "trust_score": 0.732022824024501,
+  "travel_purpose_tags": [
+    "Budget"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "moderate",
+    "review_count": 5,
+    "positive_snippet_count": 2,
+    "negative_snippet_count": 3,
+    "positive_theme_count": 4,
+    "negative_theme_count": 3
+  },
+  "aspect_scores": {
+    "cleanliness": 0.0063927993469405,
+    "service": 0.5,
+    "location": 0.5001182498672279,
+    "value_for_money": 0.0123640708625316,
+    "staff_behavior": 0.5031221620884025
+  },
+  "recommendation_features": {
+    "popularity_score": 0.5903869006197126,
+    "rating_score": 4.7,
+    "sentiment_score": 0.4025754756701644
+  },
+  "review_evidence": {
+    "positive_snippets": [
+      "This hotel was very peaceful and welcoming. If you prefer quiet luxury, this is the place. Everything well-designed and quiet atmosphere.\nPraises for friendly staff, cleanliness, comfortable beds, great locations.",
+      "The services provided by the staffs are truly awesome. Located near to the Laxminagar Nagar metro station. The staffs are really helpful and available to serve you whatever you need at any moment \ud83d\udc96"
+    ],
+    "negative_snippets": [
+      "I am very dissatisfied with my experience. Although the staff was polite and tried to be helpful, the overall cleanliness was extremely poor. The room was not properly cleaned, and the washroom was unhygienic and uncomfortable to use. Basic maintenance and hygiene standards were not met, which made the stay unpleasant. Cleanliness is a fundamental requirement, and unfortunately, it was completely lacking. Overall, it was a disappointing experience, and significant improvements are required to meet customer expectations.",
+      "Very dirty rooms owner was very rude guy, it's won't worth rooms cost 500 he charged me 2200 per room . I have seen in google pics and booked the room but after getting there rooms was not same as google pic . He will give tap water to drink No parking avaliable washroom was very ugly my family didn't stay an hour also . Owner will speak very sweet on phone call but after payment was done he will be very rude to u .\nImportant: the room worth will be 500 don't pay more on that and don't go with family member water of ur money , and he will take the your Laguage in auto to room and he will charge for that also .\nIn 2200 u will get 2star hotel including excellent brak fast",
+      "street R-3 Block R Shakarpur, New Delhi, DL, 110092 India, Booked a hotel room for three days, took a taxi from a airport and called the hotel to request for the 1 hr.early checkin, as well as to confirm the easy route to my driver, but they ignored to give the location insteed they said we dont have any room left, if we dont have any room why should we give you the location? I asked them to recheck the booking of me via expedia.com as i had a confirmed booking with me, they answer in this high tourist time we are not taking any booking from expedia. My first day in Delhi is being horrible due to this experience. for me it should zero star especially in hospitality business."
+    ]
+  },
+  "review_summary": "Based on 5 reviews.",
+  "positive_themes": {
+    "clean_rooms": 2,
+    "friendly_staff": 3,
+    "good_location": 3,
+    "great_value": 1
+  },
+  "negative_themes": {
+    "dirty_rooms": 1,
+    "rude_staff": 1,
+    "parking_issues": 1
+  }
+}

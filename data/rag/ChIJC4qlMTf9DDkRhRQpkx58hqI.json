@@ -1,0 +1,51 @@
+{
+  "hotel_id": "ChIJC4qlMTf9DDkRhRQpkx58hqI",
+  "hotel_name": "Hotel Bright",
+  "area": "Opp. Super Bazar",
+  "budget_category": "Mid-Range",
+  "rating": 4.0,
+  "trust_score": 0.7670456865093624,
+  "travel_purpose_tags": [
+    "Family"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "moderate",
+    "review_count": 5,
+    "positive_snippet_count": 3,
+    "negative_snippet_count": 1,
+    "positive_theme_count": 4,
+    "negative_theme_count": 1
+  },
+  "aspect_scores": {
+    "cleanliness": 0.9960543513298036,
+    "service": 0.6674465107886741,
+    "location": 0.6649039951929202,
+    "value_for_money": 0.9998377561569214,
+    "staff_behavior": 0.7486474043107592
+  },
+  "recommendation_features": {
+    "popularity_score": 0.5980898597611469,
+    "rating_score": 4.0,
+    "sentiment_score": 0.7988816719036549
+  },
+  "review_evidence": {
+    "positive_snippets": [
+      "The hotel had a very pleasant atmosphere and was extremely comfortable. The travel manager, Anil, was a very nice person and treated us kindly. He provided the service at a very reasonable price.",
+      "\u200bThe hotel was close to some really delicious restaurants and in a very convenient location. Anilo was so kind and even showed me around Delhi. It was a wonderful stay and very reasonably priced!\nHe was very kind,",
+      "Very neat and clean hotel Staff is good, and plus point is prime location.There is no resturant inside the hotel but they allow zomato Swiggy and all good restaurants available near the hotel like Nazeer and all."
+    ],
+    "negative_snippets": [
+      "Great location and service staff were good. Hotel is situated near multiple foodie hotspots.\n\nHowever, the cleanliness of the rooms were appalling. The floor and bedsheet/blankets was sticky. Even sighted some blood stains on the bed sheet."
+    ]
+  },
+  "review_summary": "Based on 5 reviews.",
+  "positive_themes": {
+    "good_location": 3,
+    "good_food": 2,
+    "clean_rooms": 3,
+    "friendly_staff": 3
+  },
+  "negative_themes": {
+    "dirty_rooms": 1
+  }
+}

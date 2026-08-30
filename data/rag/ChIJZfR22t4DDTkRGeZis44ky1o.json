@@ -1,0 +1,51 @@
+{
+  "hotel_id": "ChIJZfR22t4DDTkRGeZis44ky1o",
+  "hotel_name": "Caspia Hotel - New Delhi",
+  "area": "New Delhi",
+  "budget_category": "Mid-Range",
+  "rating": 3.8,
+  "trust_score": 0.7796430908102912,
+  "travel_purpose_tags": [
+    "Leisure"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "rich",
+    "review_count": 5,
+    "positive_snippet_count": 3,
+    "negative_snippet_count": 2,
+    "positive_theme_count": 3,
+    "negative_theme_count": 1
+  },
+  "aspect_scores": {
+    "cleanliness": 0.9919983446598052,
+    "service": 0.6613946025657544,
+    "location": 0.9991562366485596,
+    "value_for_money": 0.4996716775131062,
+    "staff_behavior": 0.6622685258674512
+  },
+  "recommendation_features": {
+    "popularity_score": 0.7857070843942369,
+    "rating_score": 3.8,
+    "sentiment_score": 0.7966218629531795
+  },
+  "review_evidence": {
+    "positive_snippets": [
+      "Best place to stay\nPawan Gupta great person\nNice hospitality\nRoom are clean\nService is best",
+      "I stayed in Caspia hotel this week as I was in Delhi to attend a marriage.\nThe hotel is mid sized and has pretty good rooms for the price. There were all amenities in the room as any higher star rated hotel except iron.\nA large window was providing ample light in the room as well as nice view of national highway.\nSleep quality was truly good with good quality mattress of approx 12 inch,  and providing comfortable sleeping position in any way,  pose.\nFood quality was truly good at this price range.\nMorning was great for the price range. There was good variety of breakfast items suitabke for Indians as well as Europeans.\nInternet speed was a bit below than average,  but acceptable\nRecommended by me.",
+      "Good hotel for 3-star level.\n\nPros: Rooms are nice, comfortable, and clean. Service is good and friendly. No roaches or bugs in the rooms and hallways. Restaurant is clean and food is good.\n\nCons: Hallways and Lobby seem a bit dirty/dusty. Mosquitos are present in the lobby."
+    ],
+    "negative_snippets": [
+      "It's worst hotel as per price\n\nThe cleaning staff steals the earphone and mouse from my guests bag\n\nDon't recommend to stay here\n\nWorst food worst rooms and 0 star service",
+      "I recently stayed at Caspia Hotel in Haiderpur Village for two nights while attending a friend\u2019s daughter\u2019s wedding. It\u2019s a mid-sized hotel with small rooms and compact bathrooms, along with a basic lobby area. While the spaces are modest, the hotel does provide all the essential amenities, making it a functional choice for short stays.\n\nThe food quality was slightly above average; it wasn\u2019t extraordinary but was satisfactory for the occasion. The highlight of my experience was the hospitality \u2013 the staff were genuinely nice and accommodating, which added a positive touch to the stay."
+    ]
+  },
+  "review_summary": "Based on 5 reviews.",
+  "positive_themes": {
+    "clean_rooms": 3,
+    "good_food": 4,
+    "friendly_staff": 3
+  },
+  "negative_themes": {
+    "dirty_rooms": 1
+  }
+}

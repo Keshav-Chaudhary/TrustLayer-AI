@@ -1,0 +1,52 @@
+{
+  "hotel_id": "ChIJC0pNFKb_DDkR6f4LYdcCE3w",
+  "hotel_name": "Oyo 6207 Hotel Residency",
+  "area": "Plot No.42",
+  "budget_category": "Budget",
+  "rating": 3.5,
+  "trust_score": 0.5054436787260804,
+  "travel_purpose_tags": [
+    "Leisure"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "moderate",
+    "review_count": 5,
+    "positive_snippet_count": 1,
+    "negative_snippet_count": 3,
+    "positive_theme_count": 5,
+    "negative_theme_count": 1
+  },
+  "aspect_scores": {
+    "cleanliness": 0.6134406849741936,
+    "service": 0.3325683671961694,
+    "location": 0.7276316285133362,
+    "value_for_money": 0.0004998741642338,
+    "staff_behavior": 0.1531858840316999
+  },
+  "recommendation_features": {
+    "popularity_score": 0.3730418991973482,
+    "rating_score": 3.5,
+    "sentiment_score": 0.3372878044086974
+  },
+  "review_evidence": {
+    "positive_snippets": [
+      "Location: it's in a narrow road from main road, cabs won't come inside majority of time. But you can see the hotel sign board from main road. Rooms : They are small but very clean. So it size is no issue, this is good. Area is calm and quiet. The lightings are little dull. Kettle is provided. TV, cupboard and toilet kits are also provided. Service : Good staffs, good WiFi speed(~25mbps), free breakfast (from Oyo )."
+    ],
+    "negative_snippets": [
+      "Pathetic and rude service, bed and rooms are full of cockroaches. The moment you just turn off the lights,cockroaches will start coming and running all over the bed and room. Ac is turned off during day time, geyser didn't work properly, had to call multiple times to reception to get it fixed. When I pointed out the cockroaches, the hotel management response was \"it happens\". Not worth for 1,100 rupees for 12 noon check out and Oyo was helpless when I pointed out the bad experience. Better stay away from this horrible place, there r much more better places in Pahargunj.",
+      "Very bad experience of this hotel, as well as oyo service. Manager and staff don't know how to treat the guest. They always think and ask about money, and customer service gayi  bhaar mein. Meal of three times in a day was included when I booked the hotel. The moment I entered in the hotel, manager immediately  called to oyo and said that he will only provide me breakfast. Very disgustingly he said.... \"\"mujhe appne vaise ka bhi toh dekhna hai...\" teen time tujhe free mein Khanna de ke mujhe ka bachega.... such a cheap wording......\n\nI strongly recommend to not book this hotel ever..... \ud83d\ude21\ud83d\ude21\ud83d\ude21",
+      "Hotel is good, but not maintained properly, location is good, it is near to new delhi station. staff is good. room no 204 contains dampness. bed sheet not cleaned."
+    ]
+  },
+  "review_summary": "Based on 5 reviews.",
+  "positive_themes": {
+    "clean_rooms": 3,
+    "friendly_staff": 3,
+    "good_location": 2,
+    "good_food": 2,
+    "great_value": 2
+  },
+  "negative_themes": {
+    "rude_staff": 1
+  }
+}

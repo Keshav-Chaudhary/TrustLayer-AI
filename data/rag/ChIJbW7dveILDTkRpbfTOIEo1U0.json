@@ -1,0 +1,50 @@
+{
+  "hotel_id": "ChIJbW7dveILDTkRpbfTOIEo1U0",
+  "hotel_name": "Haryana Tourism- Gauriyya Hotel And Restaurant",
+  "area": "Opp: Devilal Park",
+  "budget_category": "Mid-Range",
+  "rating": 4.0,
+  "trust_score": 0.7226148417740655,
+  "travel_purpose_tags": [
+    "Leisure"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "rich",
+    "review_count": 5,
+    "positive_snippet_count": 3,
+    "negative_snippet_count": 2,
+    "positive_theme_count": 4,
+    "negative_theme_count": 0
+  },
+  "aspect_scores": {
+    "cleanliness": 0.3335091046756133,
+    "service": 0.5000737466034479,
+    "location": 0.9998084902763368,
+    "value_for_money": 0.5,
+    "staff_behavior": 0.0003341097035444
+  },
+  "recommendation_features": {
+    "popularity_score": 0.6874897699308519,
+    "rating_score": 4.0,
+    "sentiment_score": 0.6000187380472198
+  },
+  "review_evidence": {
+    "positive_snippets": [
+      "Got a chance to attend a marriage party of one family member ( Beaurocrats ) and found this venue quite beautiful \u2764\ufe0f and well connected to Delhi Metro , Dwarka Expressway and Western peripheral expressway.. this Haryana tourism department owned venue situated hardly at a 100-150 meter distance from Brigadier Hoshiyar singh metro station is a perfect destination weddings/ functions venue having huge garden and very beautiful \u2764\ufe0f hall for 500-600 gathering available at quite nominal charges on booking basis..\ud83d\udc4d.\n\nThe decorator and the caterer was on of the finest destination wedding professionals of Delhi NCR with top class decoration and the QUALITY CATERERS ( ROYAL CELEBRATION TEAM) was just outstanding..... Amazing finger liking food \u2764\ufe0f\u2705 with unlimited vegetarian options and deserts served by the team of highly qualified professional from one Hotel Management institute was the perfect blend of royality and top class Hospitality for guests...\ud83d\udc4f\ud83d\udc4f\ud83d\udc4f\u2705\ud83d\udc4d\n\nThe overall experience was just outstanding \ud83d\udc4f\ud83d\udc4f\u2763\ufe0f\ud83d\udc4d\u270c\ufe0f\ud83d\udcaf\n\nHighly recommended venue and Caterers/ Decorators of Bahadurgarh.",
+      "Went for a marriage and the overall place is very decent. The location is prime just near to metro and the decoration, the food and ambience is good.",
+      "The location is prime just near to metro and the decoration, the food and ambience is good.clean and secure"
+    ],
+    "negative_snippets": [
+      "Went for a function. Below average. When we checked in, there was visible dust in complete room including furniture. It was so dusty that we couldn't sit or place anything on furniture. There was no key provided for the room neither there was a key with the staff. Room/washroom was missing dustbin. Mirror in the room was distorted and unfit for use. There was significant cotton type pollution from the adjoining industrial unit making it even unpleasant.",
+      "We booked the conference hall and charged Rs 8700 but its Rs 7000 with GST. So this is the first fraud.\n\nSecond they made my sister's marriage a worst experience. The service was so bad the bride table food was cold nothing is served in a decent way, no hygiene, no management. The manager is smoking in front of our hall.\n\nPoop floating in ladies wasroom and no washroom and sitting area allocated for bride. I suggest to boycott GAURAIYYA TOURISM.\n\n#harayantourism - shame on you."
+    ]
+  },
+  "review_summary": "Based on 5 reviews.",
+  "positive_themes": {
+    "good_food": 4,
+    "good_location": 2,
+    "clean_rooms": 1,
+    "friendly_staff": 1
+  },
+  "negative_themes": {}
+}

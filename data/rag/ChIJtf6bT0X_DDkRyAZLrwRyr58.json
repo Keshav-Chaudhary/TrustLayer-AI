@@ -1,0 +1,50 @@
+{
+  "hotel_id": "ChIJtf6bT0X_DDkRyAZLrwRyr58",
+  "hotel_name": "Flexibay-Girls Hostel North Delhi",
+  "area": "New Delhi",
+  "budget_category": "Budget",
+  "rating": 4.8,
+  "trust_score": 0.8594195704252001,
+  "travel_purpose_tags": [
+    "Leisure",
+    "Business",
+    "Family"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "moderate",
+    "review_count": 5,
+    "positive_snippet_count": 3,
+    "negative_snippet_count": 0,
+    "positive_theme_count": 5,
+    "negative_theme_count": 0
+  },
+  "aspect_scores": {
+    "cleanliness": 0.9991306662559508,
+    "service": 0.9996387958526612,
+    "location": 0.9998841285705566,
+    "value_for_money": 0.8743883371353149,
+    "staff_behavior": 0.9997614622116088
+  },
+  "recommendation_features": {
+    "popularity_score": 0.2690641681418895,
+    "rating_score": 4.8,
+    "sentiment_score": 0.9744333267211914
+  },
+  "review_evidence": {
+    "positive_snippets": [
+      "\u201cHad a wonderful experience at this hotel. The rooms were clean and spacious, staff was extremely friendly, and the food quality was excellent. The location is also perfect. Highly recommended for families as well as couples",
+      "\u201cExceptional hospitality! From the moment we checked in, everything was smooth. The room ambience was beautiful, housekeeping was perfect, and the breakfast buffet had great variety. Truly a 5-star experience.\u201d",
+      "My sister stayed at the property. Everything was too good . Best stay at affordable prices ."
+    ],
+    "negative_snippets": []
+  },
+  "review_summary": "Based on 5 reviews.",
+  "positive_themes": {
+    "clean_rooms": 1,
+    "friendly_staff": 2,
+    "good_location": 1,
+    "good_food": 2,
+    "great_value": 1
+  },
+  "negative_themes": {}
+}

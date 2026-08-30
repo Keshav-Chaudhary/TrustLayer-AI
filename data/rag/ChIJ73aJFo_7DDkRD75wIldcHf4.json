@@ -1,0 +1,48 @@
+{
+  "hotel_id": "ChIJ73aJFo_7DDkRD75wIldcHf4",
+  "hotel_name": "Hotel Green Palace Near Jagatpuri",
+  "area": "Krishna Nagar",
+  "budget_category": "Luxury",
+  "rating": 2.7,
+  "trust_score": 0.314721857000281,
+  "travel_purpose_tags": [
+    "Budget"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "moderate",
+    "review_count": 5,
+    "positive_snippet_count": 0,
+    "negative_snippet_count": 3,
+    "positive_theme_count": 2,
+    "negative_theme_count": 2
+  },
+  "aspect_scores": {
+    "cleanliness": 0.0100654053676407,
+    "service": 0.0005128140910528,
+    "location": 0.5,
+    "value_for_money": 0.0002906933077611,
+    "staff_behavior": 0.0003944835431563
+  },
+  "recommendation_features": {
+    "popularity_score": 0.4700901543599057,
+    "rating_score": 2.7,
+    "sentiment_score": 0.0081283129402435
+  },
+  "review_evidence": {
+    "positive_snippets": [],
+    "negative_snippets": [
+      "This hotal is very Bed experience...  No,clean,staf is not careful\nMery life ka sb se gattya hotal..",
+      "Dirtiest place I have seen in my life. I shall not recommend this place to my enemy also. Worst staff, geyser is there but not working, TV is there but not function ing,  used blankets kept on bed, dirty bucket in bathroom,  un hygiene room and washroom, if you ask something to staff they give rude answer. If owner wants to improve his business,   I request owner to display his number at reception,  so that customer can complain him. Oye please delete this hotel from your list, otherwise you will be loosing your customer.",
+      "In starting they said we don\u2019t charge any amount for early check in but they charged extra for early check in at the time of check in and trust me there room was so small and unhygienic and so bad smell present in the room there bed sheets were so dirty and pillow covers are full of dust and stains even they don\u2019t have blankets and there toilet is so dirty even a public toilet was better and there was no connectivity in room no network and no wifi believe me its a total waste of money and oyo staff support was so useless they don\u2019t do anything."
+    ]
+  },
+  "review_summary": "Based on 5 reviews.",
+  "positive_themes": {
+    "clean_rooms": 1,
+    "friendly_staff": 3
+  },
+  "negative_themes": {
+    "dirty_rooms": 3,
+    "rude_staff": 1
+  }
+}

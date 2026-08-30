@@ -1,0 +1,51 @@
+{
+  "hotel_id": "ChIJNVRyWcgaDTkRj3BVa6ccnAo",
+  "hotel_name": "Radisson Blu Hotel, New Delhi Dwarka",
+  "area": "New Delhi",
+  "budget_category": "Luxury",
+  "rating": 4.5,
+  "trust_score": 0.8360801491084073,
+  "travel_purpose_tags": [
+    "Budget"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "rich",
+    "review_count": 5,
+    "positive_snippet_count": 3,
+    "negative_snippet_count": 2,
+    "positive_theme_count": 5,
+    "negative_theme_count": 0
+  },
+  "aspect_scores": {
+    "cleanliness": 0.6666623838730933,
+    "service": 0.4420465966177289,
+    "location": 0.3840308932703919,
+    "value_for_money": 0.3338307129160967,
+    "staff_behavior": 0.3840308932703919
+  },
+  "recommendation_features": {
+    "popularity_score": 0.9780676777008164,
+    "rating_score": 4.5,
+    "sentiment_score": 0.5536097876320127
+  },
+  "review_evidence": {
+    "positive_snippets": [
+      "It's nowhere near as bad as the many 1* reviews. The hotel is nice looking, the atrium is impressive as are the rooms in the restaurants. Staff were all helpful and friendly but asking for something to be sorted out in the room was slow. The room itself is decent but as some reviews say they need some refreshing. The kitchens are okay but definitely not something you would make a special trip. Solid internet.  So it's fine for a business visit. If you pay top rates and come for a holiday you may be less satisfied.",
+      "I and my sister went for a short staycation and we had a wonderful stay at Radisson Blu Hotel New Delhi Dwarka. The property is spacious, well-maintained, and perfect for a relaxing staycation as well as business travel.\nThe rooms were clean, comfortable, and thoughtfully designed, with all the amenities you\u2019d expect from a luxury hotel.\n\nThe food was delicious with a good variety, and the lunch and dinner spread was impressive.\nI also loved the calm ambiance around the cafe Atrium areas\u2014it really helps you unwind and feel refreshed.\nOverall, a great experience with excellent service, comfort, and value. Would definitely recommend and would love to stay here again!",
+      "Had a pleasant time there with my old friends. Atrium has a nice and relaxing ambience.  Some renovation work is underway at the moment. Rooms were spacious, bathroom was clean and spacious too.\nFood was really nice. Breakfast spread was decent."
+    ],
+    "negative_snippets": [
+      "The only good about this Radisson is its proximity to metro and near to aerocity. This hotel does not meet the Radisson standards. 14 yr old property, probably was maintained ages back. Old furniture, doors, sofas, furnishings, glitchy Aircon, switches dont work properly. Lift is old, carpet was never changed probably in 14 yrs.  Only one out of 2 lifts work to take us to 9th floor.\n\nUpon complaing, staff was kind enough to upgrade us to suite, which I appreciate. The suite room is slightly better but still needs major overhaul.\n\nGood thig is you have some shopping chain shops in thr. Breakfast was good, service was also excellent, but definitely does not meet the Radisson standards. Have seen twice better hotels of Radisson than this.\n\nDefinitely not worthy of money paid for this hotel\n\nNot sure if Radisson is more focused on its aerocity hotel, but if you see this please take care of this.",
+      "I recently stayed at Radisson Blu Dwarka, and unfortunately, it did not live up to the brand\u2019s reputation or the premium price point. While the property looks grand, the experience was marred by poor maintenance and sub-par dining.\nThe Issues:\nDining Disappointment: As someone from South India, I found the breakfast spread quite a letdown. The chutneys were poorly prepared and lacked any authentic taste. Even the basics were off\u2014the omelette served to me was completely bland and lacked salt.\nRoom Maintenance: The room felt neglected. The bathroom taps were loose and practically coming out of the wall.\nLack of Instructions: There were no clear instructions on how to operate the bathtub/hand shower, which led to unnecessary frustration during what should have been a relaxing stay.\nThe Silver Lining:\nThe only highlight of the stay was the quality of the toiletries, which were excellent.\nVerdict:\nOverall, the service and maintenance are not up to the standards one expects from a Radisson property. For the price paid, guests deserve better attention to detail in both the kitchen and room upkeep. I hope the management looks into these basic snags."
+    ]
+  },
+  "review_summary": "Based on 5 reviews.",
+  "positive_themes": {
+    "friendly_staff": 2,
+    "good_location": 2,
+    "clean_rooms": 2,
+    "great_value": 2,
+    "good_food": 4
+  },
+  "negative_themes": {}
+}

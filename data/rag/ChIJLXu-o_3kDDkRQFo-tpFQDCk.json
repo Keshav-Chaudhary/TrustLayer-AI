@@ -1,0 +1,52 @@
+{
+  "hotel_id": "ChIJLXu-o_3kDDkRQFo-tpFQDCk",
+  "hotel_name": "Hotel Noida International",
+  "area": "Sector 11",
+  "budget_category": "Mid-Range",
+  "rating": 3.6,
+  "trust_score": 0.5561758254828528,
+  "travel_purpose_tags": [
+    "Budget"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "moderate",
+    "review_count": 5,
+    "positive_snippet_count": 1,
+    "negative_snippet_count": 3,
+    "positive_theme_count": 4,
+    "negative_theme_count": 2
+  },
+  "aspect_scores": {
+    "cleanliness": 0.0002517110697226,
+    "service": 0.0003002680605277,
+    "location": 0.5,
+    "value_for_money": 0.0002243327326141,
+    "staff_behavior": 0.2501315382396569
+  },
+  "recommendation_features": {
+    "popularity_score": 0.7547461491850198,
+    "rating_score": 3.6,
+    "sentiment_score": 0.200165284203831
+  },
+  "review_evidence": {
+    "positive_snippets": [
+      "This hotel is having luxurious facilities and having good respect with its clients. Good behaviour, nice food, rooms are very cleaned with obedient staff. Washrooms, rooms, ambiance are very beautiful. It is my personal experience being shared to everyone on this site. It\u2019s approached on the main road and no problem of parking."
+    ],
+    "negative_snippets": [
+      "Very bad experience at this hotel. The room was dirty, had a foul smell, and there were damp patches on the walls. The toilet and bathroom were unclean and seemed previously used \u2014 the bucket, taps, and floor were filthy and slippery. There were also too many mosquitoes in the room, making it very uncomfortable to stay. The mattress and bed were dirty and unhygienic.\n\nOverall, the hygiene and maintenance were extremely poor, and the service was disappointing. The room rate was very high compared to the condition provided. I booked for one day but will never stay here again or recommend this hotel to anyone.",
+      "Worst hotel I've ever visited\nStaff members have no sense how to communicate with visitors\nRooms were not clean at all",
+      "Please boycott this place . This is one of the filthiest properties i have been to. No hygeine no cleanliness. Rats in room . Bugs in bed . Washroom is having fungus and moss all around. Staff looks like they are some government officials. If asked to help with something they give you some suggestion to do it yourself. A big no on booking this."
+    ]
+  },
+  "review_summary": "Based on 5 reviews.",
+  "positive_themes": {
+    "clean_rooms": 5,
+    "friendly_staff": 4,
+    "good_food": 1,
+    "great_value": 1
+  },
+  "negative_themes": {
+    "parking_issues": 1,
+    "dirty_rooms": 2
+  }
+}

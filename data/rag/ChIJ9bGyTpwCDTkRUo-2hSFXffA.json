@@ -1,0 +1,51 @@
+{
+  "hotel_id": "ChIJ9bGyTpwCDTkRUo-2hSFXffA",
+  "hotel_name": "Hotel Krishna Palace",
+  "area": "Karol Bagh",
+  "budget_category": "Luxury",
+  "rating": 3.7,
+  "trust_score": 0.5815833979328164,
+  "travel_purpose_tags": [
+    "Leisure"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "moderate",
+    "review_count": 5,
+    "positive_snippet_count": 2,
+    "negative_snippet_count": 3,
+    "positive_theme_count": 3,
+    "negative_theme_count": 1
+  },
+  "aspect_scores": {
+    "cleanliness": 0.6663332000074055,
+    "service": 0.3726498126682903,
+    "location": 0.9995648264884948,
+    "value_for_money": 0.3728604339218388,
+    "staff_behavior": 0.4999032340492703
+  },
+  "recommendation_features": {
+    "popularity_score": 0.4764330899412014,
+    "rating_score": 3.7,
+    "sentiment_score": 0.4236775539728114
+  },
+  "review_evidence": {
+    "positive_snippets": [
+      "Affordable price, neat and clean place. The place was under renovation but the service was Nice \ud83d\udc4d\ud83d\udc4d",
+      "Very nice staff, they are really humble and caring. Small issues with ac and all but no significant issues with the rooms. Area is karol bagh market so not like a very scenic or clean place but ok fine"
+    ],
+    "negative_snippets": [
+      "Fraud hotel\nThe staffs don't make the correct bill. They try to cheat by putting different numbers. False bill just for extra money from their guests. Don't visit this hotel ever. Receptionist also doesn't know anything and tries to cheat you . If you want a good stay then don't visit Hotel krishna palace in Paharganj",
+      "Hotel was affordable and service was decent. I booked the hotel with booking.com for 2 nights. BUt this hotel marked my stay on booking.com as I did not show up. Fake and lied",
+      "Worst staff behavior\nWorst service\nWorst place to stay\nCharged my father 1000 for gst bill because he is 65+ and don't know anything about gat billing so they took advantage of that..\nThere was no network in the entire hotel..very bad with the clean..and if you ask for a GST bill they charge extra 1000 rs ....I suggest never visit this place...and I hope the hotel should shut down permanently ...They charge for every single thing ...the hotel was too dirty...and they were tie up with the Oyo too but no help from there side"
+    ]
+  },
+  "review_summary": "Based on 5 reviews.",
+  "positive_themes": {
+    "clean_rooms": 3,
+    "great_value": 2,
+    "friendly_staff": 3
+  },
+  "negative_themes": {
+    "dirty_rooms": 1
+  }
+}

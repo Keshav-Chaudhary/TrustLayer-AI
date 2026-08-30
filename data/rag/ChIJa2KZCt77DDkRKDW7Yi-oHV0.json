@@ -1,0 +1,48 @@
+{
+  "hotel_id": "ChIJa2KZCt77DDkRKDW7Yi-oHV0",
+  "hotel_name": "Grand Address Hotel & Banquet",
+  "area": "Vaishali",
+  "budget_category": "Mid-Range",
+  "rating": 4.4,
+  "trust_score": 0.5518900044019729,
+  "travel_purpose_tags": [
+    "Budget"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "moderate",
+    "review_count": 5,
+    "positive_snippet_count": 0,
+    "negative_snippet_count": 3,
+    "positive_theme_count": 2,
+    "negative_theme_count": 2
+  },
+  "aspect_scores": {
+    "cleanliness": 0.0037560338387265,
+    "service": 0.0002821502275764,
+    "location": 0.5,
+    "value_for_money": 0.001083787336635,
+    "staff_behavior": 0.0020027900269875
+  },
+  "recommendation_features": {
+    "popularity_score": 0.5321970429999837,
+    "rating_score": 4.4,
+    "sentiment_score": 0.001764644961804
+  },
+  "review_evidence": {
+    "positive_snippets": [],
+    "negative_snippets": [
+      "Very dirty & unhygienic rooms. The lift was non functional all the time. We had to lift our own luggage all the way to the 2nd Floor. The staff is unprofessional. Never ever book a room here if you don\u2019t wish to get harassed.",
+      "Scam! Scam! Scam!\nThey will charge you extra Rs 500-600 in the guise of not having the classic room and are pretty shameless when confronted about the matter. All in all the rooms are subpar but the staff, mainly the receptionist is rude and unbearable.",
+      "If you are planning to book a room then don't do this if you book and pay through oyo app when you reach at the property they will say room are not available then you have to spend couple of hours to get your money back.. never go to this property.\n\nProperty manager is pathetic and misbehaved"
+    ]
+  },
+  "review_summary": "Based on 5 reviews.",
+  "positive_themes": {
+    "friendly_staff": 2,
+    "clean_rooms": 1
+  },
+  "negative_themes": {
+    "dirty_rooms": 1,
+    "rude_staff": 2
+  }
+}

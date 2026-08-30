@@ -1,0 +1,51 @@
+{
+  "hotel_id": "ChIJx6BZam8ZDTkRL_TARoK8i_w",
+  "hotel_name": "The Rejoice Venture",
+  "area": "Sector 45",
+  "budget_category": "Mid-Range",
+  "rating": 4.8,
+  "trust_score": 0.791235429726894,
+  "travel_purpose_tags": [
+    "Leisure"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "moderate",
+    "review_count": 5,
+    "positive_snippet_count": 3,
+    "negative_snippet_count": 1,
+    "positive_theme_count": 3,
+    "negative_theme_count": 2
+  },
+  "aspect_scores": {
+    "cleanliness": 0.5,
+    "service": 0.999861478805542,
+    "location": 0.9997588992118835,
+    "value_for_money": 0.0187813863158226,
+    "staff_behavior": 0.6666139532753732
+  },
+  "recommendation_features": {
+    "popularity_score": 0.5045965926282034,
+    "rating_score": 4.8,
+    "sentiment_score": 0.6036969449894969
+  },
+  "review_evidence": {
+    "positive_snippets": [
+      "Very good room service, Mr. Naidu was taking care of every thing on time, it's excellent service experience.",
+      "Decent hotel. Location is on road and easily accessible. Ample parking nearby. Rooms are decent. Staff is helpful",
+      "Rejoice Venture in Gurgaon is my go to stay, and I must say it was a delightful experience. The staff were incredibly friendly, and the owner of the property was exceptionally helpful throughout my stay. The ambiance was inviting, and the facilities were well-maintained. It truly felt like a home away from home. I highly recommend Rejoice Venture for anyone visiting Gurgaon. Thank you for making my stay memorable! See you soon \u2615"
+    ],
+    "negative_snippets": [
+      "I had spoken to the hotel one week before my stay to confirm a room. I also called again one day before arriving, and they assured me that a room was reserved for me. When I offered to pay in advance, they said it was not needed and that I could pay upon arrival.However, when I reached the hotel early in the morning as planned, the manager told me there was no room available. On top of that, he spoke very rudely, which made the situation even worse. We were really stressed out early in the morning because of this unprofessional behavior. It was a very bad and disappointing experience overall."
+    ]
+  },
+  "review_summary": "Based on 5 reviews.",
+  "positive_themes": {
+    "friendly_staff": 2,
+    "good_location": 1,
+    "good_food": 1
+  },
+  "negative_themes": {
+    "parking_issues": 1,
+    "rude_staff": 1
+  }
+}

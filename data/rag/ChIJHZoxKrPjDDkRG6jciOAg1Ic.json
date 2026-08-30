@@ -1,0 +1,52 @@
+{
+  "hotel_id": "ChIJHZoxKrPjDDkRG6jciOAg1Ic",
+  "hotel_name": "Hotel Diplomat Residency",
+  "area": "Lajpat Nagar",
+  "budget_category": "Mid-Range",
+  "rating": 4.1,
+  "trust_score": 0.8468528863466674,
+  "travel_purpose_tags": [
+    "Leisure",
+    "Business"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "moderate",
+    "review_count": 5,
+    "positive_snippet_count": 3,
+    "negative_snippet_count": 1,
+    "positive_theme_count": 4,
+    "negative_theme_count": 1
+  },
+  "aspect_scores": {
+    "cleanliness": 0.9998204310735068,
+    "service": 0.9998251497745514,
+    "location": 0.9998336136341096,
+    "value_for_money": 0.5,
+    "staff_behavior": 0.999798576037089
+  },
+  "recommendation_features": {
+    "popularity_score": 0.6094390334867852,
+    "rating_score": 4.1,
+    "sentiment_score": 0.9997946977615356
+  },
+  "review_evidence": {
+    "positive_snippets": [
+      "This hotel is situated just on walking distance from lajpat nagar market. I stayed with my wife and i really liked this property.\nThis hotel is couple friendly . Room is very neat and clean . Washroom is also very spacious and clean .\nI highly recommend this hotel.\nHave good parking space.\nStaff is very polite.",
+      "Very good hotel. It was nice stay. Very well maintained. Service was good. Only drawback room has no window else everything was perfect.",
+      "Had a wonderful stay at Hotel Residency! The rooms were clean, spacious, and well-maintained, providing a comfortable and relaxing experience.\n\nThe staff was incredibly hospitable and always ready to assist with any requests.\n\nThe hotel\u2019s location is convenient, making it easy to explore the city.\n\nThe food at the in-house restaurant was delicious, with a great variety of options.\n\nOverall, a fantastic stay with excellent service\u2014I would highly recommend Hotel Residency for both business and leisure."
+    ],
+    "negative_snippets": [
+      "Old world charm within this hotel tucked in Lajpat Nagar.\nAmenities are basic and the staff is courteous. Ideal for a short stay during transit."
+    ]
+  },
+  "review_summary": "Based on 5 reviews.",
+  "positive_themes": {
+    "clean_rooms": 3,
+    "friendly_staff": 3,
+    "good_location": 1,
+    "good_food": 2
+  },
+  "negative_themes": {
+    "parking_issues": 1
+  }
+}

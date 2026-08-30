@@ -1,0 +1,50 @@
+{
+  "hotel_id": "ChIJL7Vg9KHiDDkRSwZ_W8H-sIY",
+  "hotel_name": "The Estate Villa",
+  "area": "Sultanpur",
+  "budget_category": "Mid-Range",
+  "rating": 4.2,
+  "trust_score": 0.8447835913956309,
+  "travel_purpose_tags": [
+    "Leisure",
+    "Business"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "moderate",
+    "review_count": 5,
+    "positive_snippet_count": 3,
+    "negative_snippet_count": 0,
+    "positive_theme_count": 4,
+    "negative_theme_count": 1
+  },
+  "aspect_scores": {
+    "cleanliness": 0.9973028898239136,
+    "service": 0.9995587468147278,
+    "location": 0.9984748760859172,
+    "value_for_money": 0.5,
+    "staff_behavior": 0.999413400888443
+  },
+  "recommendation_features": {
+    "popularity_score": 0.5384152080472859,
+    "rating_score": 4.2,
+    "sentiment_score": 0.9989912986755372
+  },
+  "review_evidence": {
+    "positive_snippets": [
+      "The staff were incredible, the best service I have received at a bed and breakfast. The breakfast was super tasty, loved the cake and fruit. The location was great it was like a little sheltered area in the middle of Delhi. It was easy to access the train and the village, but it felt private while we were there! 10/10!",
+      "I love staying at the Estate Villa! It is the perfect place to explore the lively city of Delhi while having a relaxing home to recharge. The yard has wonderful plants, charming patio furniture, and many beautiful birds. My partner and I enjoyed our delicious breakfasts outside while listening to the birds and soaking in the sun. The rooms were always cleaned very well, and the staff was extremely friendly. I highly recommend staying at the Estate Villa, I always do when I travel to India.",
+      "Services were so good. Rooms are kinda old ..but well mantained with neat washroom. The only thing i felt was ..there is no bedside plug but i think they will make the necessary arrangements soon .I was here for 5 nights and the experience was just wow.Walkable distance to metro station. The entry is through a market road ...was kinda ok for me , but just 500m away from the main highway. U wont expect such a peaceful place in that rush.\nIf u are looking for a peaceful stay to be relaxed ..but not that away from the main roads/metros ... this is the place. GO FOR IT.\nAll the staffs were so nice , special thanks to Amy who helped me with the things there ."
+    ],
+    "negative_snippets": []
+  },
+  "review_summary": "Based on 5 reviews.",
+  "positive_themes": {
+    "friendly_staff": 4,
+    "good_location": 2,
+    "good_food": 4,
+    "clean_rooms": 2
+  },
+  "negative_themes": {
+    "noise": 1
+  }
+}

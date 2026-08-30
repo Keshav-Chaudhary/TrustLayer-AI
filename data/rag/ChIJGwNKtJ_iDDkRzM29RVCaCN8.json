@@ -1,0 +1,53 @@
+{
+  "hotel_id": "ChIJGwNKtJ_iDDkRzM29RVCaCN8",
+  "hotel_name": "The Ashok",
+  "area": "Chanakyapuri",
+  "budget_category": "Mid-Range",
+  "rating": 4.3,
+  "trust_score": 0.8074491361394431,
+  "travel_purpose_tags": [
+    "Budget"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "rich",
+    "review_count": 5,
+    "positive_snippet_count": 3,
+    "negative_snippet_count": 2,
+    "positive_theme_count": 5,
+    "negative_theme_count": 1
+  },
+  "aspect_scores": {
+    "cleanliness": 0.0011320518096908,
+    "service": 0.0010569264995865,
+    "location": 0.5004740857402794,
+    "value_for_money": 0.9998759031295776,
+    "staff_behavior": 0.4830204631143715
+  },
+  "recommendation_features": {
+    "popularity_score": 0.9192844729487284,
+    "rating_score": 4.3,
+    "sentiment_score": 0.5863915511174127
+  },
+  "review_evidence": {
+    "positive_snippets": [
+      "The Ashok \u2013 A Grand Hotel That Hasn\u2019t Kept Up With Time\n\nThe Ashok certainly makes a strong first impression. The building is grand, the architecture has real character, and the staff are genuinely warm and attentive. Unfortunately, that initial excitement fades quickly once you look past the fa\u00e7ade.\n\nThe hotel feels trapped in a bygone era. Many details reveal how urgently it needs a full renovation. While the rooms are spacious and generally comfortable, the age is impossible to ignore\u2014worn furniture, outdated fixtures, and a general lack of upkeep. The Wi\u2011Fi was especially disappointing; the connection dropped constantly, and even though the staff tried to help, it never became reliable.\n\nBreakfast was acceptable, but the lack of Wi\u2011Fi in the coffee shop meant I had to work from my room instead of enjoying the hotel\u2019s common areas. It\u2019s a small thing, but it adds up and makes the stay feel less convenient than it should be.\n\nWhat truly stands out, though, is the staff. They were consistently kind, helpful, and professional, and that does make a difference. Still, despite their efforts, the overall experience didn\u2019t match the expectations set by the hotel\u2019s impressive exterior.\n\nIn the end, while I appreciated the hospitality, I would likely choose a more modern and better\u2011maintained hotel on my next visit.",
+      "We went there for a shoot, it was a wedding shoot for a party. That's when we saw I saw it from down under. It was very nice and the staff is also very good. We really enjoyed the time we were at that location, although we were there only for 2 hours and then we left for the wedding.",
+      "I recently visited The Ashok, and overall it was a pleasant experience. The food was quite good, with a decent variety and satisfying taste. The ambience of the property is impressive spacious, calm, and reflective of its legacy.\n\nWhile the infrastructure shows its age in parts, the overall atmosphere and dining experience make it worth visiting. A good place for formal meetings, events, or a relaxed meal in a classic Delhi setting."
+    ],
+    "negative_snippets": [
+      "The Ashok is a visually impressive hotel with beautiful, old colonial-style architecture and a real sense of grandeur. The building itself has character, the public spaces feel historic, and the room sizes are excellent \u2014 very large, comfortable, and generous by modern standards.\n\nHowever, the experience falls well short of what you\u2019d expect from a five-star hotel.\nWhile the rooms appear clean, they are noticeably dated. Details like mould in the silicone around the shower undermine the overall presentation and suggest maintenance hasn\u2019t kept pace with the hotel\u2019s positioning.\n\nThe biggest disappointment was service. Every interaction at the front desk felt rushed and disengaged. On more than one occasion, staff walked away mid-conversation, including while I was speaking about my room key. A sense of welcome or warmth \u2014 something fundamental at this level \u2014 was completely absent.\n\nMy room key (5th floor) failed four separate times, requiring repeated trips back to reception just to access my room.\n\nUsing the gym or pool was also surprisingly inconvenient. The pool is not integrated into the hotel experience, requiring a separate registration process with ID, taking around 15 minutes simply to \"register\" to go for a swim or workout. That kind of friction is the opposite of the seamless experience expected at a five-star property.\n\nIn summary:\nBeautiful architecture and generous rooms, but dated facilities, poor service engagement, and fragmented amenities make the overall experience feel far below five-star standards. With investment in staff training, maintenance, and guest experience, this could be a truly outstanding hotel \u2014 but right now, it isn\u2019t there.",
+      "Calling this place a 5-star hotel is an insult to actual 5-star properties. Honestly, I wouldn\u2019t even give it -1 star if that were possible.\n\nThe service here is absolutely third-class\u2014exactly what you\u2019d expect from a poorly run government setup. The staff behaves as if the hotel belongs to them personally: rude, arrogant, and completely unprofessional. They have zero sense of how to speak to guests.\n\nI Asked for a luggage weight machine to check my luggage weight\u2014one person says, \u201cCall in the morning, it will be available.\u201d Morning comes, and suddenly there is no machine at all. Then they casually say, \u201cTalk to the person who told you that.\u201d This kind of shameless attitude is standard here.\n\nRoom access is another joke. Your key card stops working constantly, and you\u2019re forced to recharge it every single day just to enter your own room. For a so-called luxury hotel, this is beyond ridiculous.\n\nThey charge premium prices but deliver beggar-level service. If you\u2019re actually looking for comfort, respect, or professionalism\u2014DO NOT COME HERE.\n\nHonestly, even a basic OYO hotel offers better service than this place. If bad service, rude staff, and daily frustration are what you want, then congratulations\u2014this hotel is perfect for you.\n\nI could write about this disaster for two more days, but this much should be enough to warn people.\nWorst hotel experience. Period."
+    ]
+  },
+  "review_summary": "Based on 5 reviews.",
+  "positive_themes": {
+    "friendly_staff": 4,
+    "good_location": 3,
+    "good_food": 2,
+    "great_value": 1,
+    "clean_rooms": 1
+  },
+  "negative_themes": {
+    "rude_staff": 1
+  }
+}

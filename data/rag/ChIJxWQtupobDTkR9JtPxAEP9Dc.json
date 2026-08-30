@@ -1,0 +1,50 @@
+{
+  "hotel_id": "ChIJxWQtupobDTkR9JtPxAEP9Dc",
+  "hotel_name": "Via Dwarka Suites",
+  "area": "New Delhi",
+  "budget_category": "Mid-Range",
+  "rating": 3.3,
+  "trust_score": 0.4426828036505856,
+  "travel_purpose_tags": [
+    "Budget"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "moderate",
+    "review_count": 5,
+    "positive_snippet_count": 0,
+    "negative_snippet_count": 3,
+    "positive_theme_count": 5,
+    "negative_theme_count": 1
+  },
+  "aspect_scores": {
+    "cleanliness": 0.2608094416864333,
+    "service": 0.0215754898381419,
+    "location": 0.0012299973750486,
+    "value_for_money": 0.0008171193912857,
+    "staff_behavior": 0.5208017639815807
+  },
+  "recommendation_features": {
+    "popularity_score": 0.3954916301108739,
+    "rating_score": 3.3,
+    "sentiment_score": 0.2089384411519858
+  },
+  "review_evidence": {
+    "positive_snippets": [],
+    "negative_snippets": [
+      "There is no Hotel by the name FabHotel Dwarka Suites, it is called \"The Royal Galaxy\". The rooms are really horrible at the cost. As mentioned in earlier reviews the AC are fixed at one particular temperature. Wifi speed is so low that you cannot watch live TV. Water is salty & leaking from various joints. You have to repeatedly remind about the room cleanliness & hygiene. Maintenance of the rooms are extremely poor. We have to change three rooms to get a slightly better room. FabHotels have no responsibility except booking online by showing some old pictures & sending some messages. It is very difficult for a couple to stay there. After lot of follow up we could make our stay little comfortable. No room have all the facilities as mentioned. Room service requires lot of follow up. Only good thing about the hotel it is located near a metro station &  a city centre with fairly good food. One should check rates directly charged by The Royal Galaxy.",
+      "I had a very bad experience at this hotel. The first room given was not clean and the flush wasn\u2019t working. After changing rooms, the water supply was poor, and I couldn\u2019t even take a bath before going out. Even after complaining, no proper action was taken, and I had to wait over an hour. The staff didn\u2019t give any clear or responsible answers, and since I speak English, communication was very difficult as most of them spoke only Hindi. The only good thing was the food \u2013 it was really tasty.",
+      "Extremely disappointing stay. The rooms were very dirty, and shockingly, the wash basin in the bathroom wasn\u2019t even fixed in place. Breakfast was below average and not worth mentioning. Overall, this place is highly overrated for the price. I strongly recommend avoiding it \u2014 not worth the money at all.\n\nAttached photos for your reference and necessary actions please!"
+    ]
+  },
+  "review_summary": "Based on 5 reviews.",
+  "positive_themes": {
+    "clean_rooms": 2,
+    "good_location": 1,
+    "good_food": 3,
+    "friendly_staff": 2,
+    "great_value": 1
+  },
+  "negative_themes": {
+    "dirty_rooms": 2
+  }
+}

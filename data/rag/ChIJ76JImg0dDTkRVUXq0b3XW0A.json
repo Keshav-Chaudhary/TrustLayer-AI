@@ -1,0 +1,51 @@
+{
+  "hotel_id": "ChIJ76JImg0dDTkRVUXq0b3XW0A",
+  "hotel_name": "Embassy Suites Chankya Puri",
+  "area": "Chanakyapuri",
+  "budget_category": "Mid-Range",
+  "rating": 3.4,
+  "trust_score": 0.4825268553616643,
+  "travel_purpose_tags": [
+    "Budget"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "moderate",
+    "review_count": 5,
+    "positive_snippet_count": 2,
+    "negative_snippet_count": 3,
+    "positive_theme_count": 3,
+    "negative_theme_count": 1
+  },
+  "aspect_scores": {
+    "cleanliness": 0.0061464607715606,
+    "service": 0.0031219965312629,
+    "location": 0.3542743697762489,
+    "value_for_money": 0.5,
+    "staff_behavior": 0.004286389487485
+  },
+  "recommendation_features": {
+    "popularity_score": 0.5128679332392954,
+    "rating_score": 3.4,
+    "sentiment_score": 0.2139071634039283
+  },
+  "review_evidence": {
+    "positive_snippets": [
+      "The room was clean enough for a single night stay with basic facilities like Good Bed, wardrobe, Bathroom, Hot water etc. Ideal for the US Visa applicants as its just 1KM from the Embassy. Staff Chottu was kind & polite to address my concerns.\nGot my shirt & Pant ironed, in a few mins (Available within the building). Also helped me with the cab facility in his circle, the driver was ready next morning for Pick up and drop (100Rs +100Rs) for the Visa interview with reasonable pricing & then the same person dropped me to the airport after the interview. I was also able to order online through swiggy for the eatables during lunch and dinner. I was also able to order few things like vaseline & deodorant through Zepto.\nGood wifi connectivity is there in the room.\n\nThe only issue is this building's weather is very very cold that they've kept the heater in the room, which is of not much helpful. So its important for you to carry a socks , cotton in the ears, sweater to wear during the sleep as its not easy to stay in such a cold environment.",
+      "Excellent place to stay\nVery near to USA embassy ( visa interview).\nIdeal place"
+    ],
+    "negative_snippets": [
+      "Firstly, it's not a hotel. Rather an official building of some social entity.\nIts a good option for stay to get your visa work. You can walk to us embassy in 15min.\nProvides a decent room to stay.\nNot ideal for a lone lady.\n4 star fot location as near to us embassy. And nearby good hotels for meals.",
+      "I booked this hotel due to the proximity to the embassy. The staff here were very friendly and accommodating for sure but the rooms were not at all hygienic.\n\nWe found a rat under the bed and requested for a new room. Turns out there was a rat even in the new room.",
+      "EVERYONE STAY AWAY ESPECIALLY WOMEN. This place has no name board, absolutely ill kept exterior and dumb staff. Once you step inside, actually your gut tells that move out. I paid entirely for my booking and after having stepped inside, having to wait for someone to attend me at shanty type reception I was shown two rooms - both creepy and hallway thru which I passed thru smelled heavily of smoking. I simply walked out to find another hotel for stay.\n\nSimple enough to understand what that place would be like."
+    ]
+  },
+  "review_summary": "Based on 5 reviews.",
+  "positive_themes": {
+    "clean_rooms": 1,
+    "friendly_staff": 3,
+    "good_location": 2
+  },
+  "negative_themes": {
+    "dirty_rooms": 1
+  }
+}

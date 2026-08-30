@@ -1,0 +1,47 @@
+{
+  "hotel_id": "ChIJi147UAAVDTkRWcXTa5zs4h4",
+  "hotel_name": "Jmd Hotel",
+  "area": "Sultanpur road",
+  "budget_category": "Mid-Range",
+  "rating": 4.8,
+  "trust_score": 0.8910398051346459,
+  "travel_purpose_tags": [
+    "Leisure",
+    "Business"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "moderate",
+    "review_count": 5,
+    "positive_snippet_count": 3,
+    "negative_snippet_count": 0,
+    "positive_theme_count": 3,
+    "negative_theme_count": 0
+  },
+  "aspect_scores": {
+    "cleanliness": 0.9998655319213866,
+    "service": 0.9996965130170188,
+    "location": 0.999847650527954,
+    "value_for_money": 0.5,
+    "staff_behavior": 0.9998655319213866
+  },
+  "recommendation_features": {
+    "popularity_score": 0.3871496509632538,
+    "rating_score": 4.8,
+    "sentiment_score": 0.9948193907737732
+  },
+  "review_evidence": {
+    "positive_snippets": [
+      "The rooms are really good for both family and business stays and are highly recommended. However, the payment structure could be improved, as payment is required in advance and guests who are unsure of their length of stay must pay on a daily basis.",
+      "The hospitality at this hotel is excellent. Clean rooms, peaceful environment, great service, and supportive staff. The stay was very relaxing and enjoyable. One of the best hotel experiences I\u2019ve had. Strongly recommended!",
+      "I had a wonderful stay at JMD The rooms were clean and comfortable, the staff was very polite and helpful, and the overall atmosphere was relaxing. The location was also convenient. Highly recommended!"
+    ],
+    "negative_snippets": []
+  },
+  "review_summary": "Based on 5 reviews.",
+  "positive_themes": {
+    "clean_rooms": 2,
+    "friendly_staff": 2,
+    "good_location": 1
+  },
+  "negative_themes": {}
+}

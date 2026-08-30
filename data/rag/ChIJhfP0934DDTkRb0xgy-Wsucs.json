@@ -1,0 +1,55 @@
+{
+  "hotel_id": "ChIJhfP0934DDTkRb0xgy-Wsucs",
+  "hotel_name": "Itsy Hotels Prime Stay",
+  "area": "New Delhi",
+  "budget_category": "Budget",
+  "rating": 3.9,
+  "trust_score": 0.6731358309954356,
+  "travel_purpose_tags": [
+    "Leisure",
+    "Business"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "rich",
+    "review_count": 5,
+    "positive_snippet_count": 3,
+    "negative_snippet_count": 2,
+    "positive_theme_count": 5,
+    "negative_theme_count": 2
+  },
+  "aspect_scores": {
+    "cleanliness": 0.7499578101778752,
+    "service": 0.9998507499694824,
+    "location": 0.9998507499694824,
+    "value_for_money": 0.5000639167119516,
+    "staff_behavior": 0.999838968118032
+  },
+  "recommendation_features": {
+    "popularity_score": 0.5158351904594659,
+    "rating_score": 3.9,
+    "sentiment_score": 0.6010359444830101
+  },
+  "review_evidence": {
+    "positive_snippets": [
+      "I recently had the pleasure of staying at Itsy Hotel Prime Stay, and it was truly a wonderful experience from beginning to end. Right from the moment I arrived, I was welcomed with warm smiles and a smooth check-in process. The staff were incredibly attentive and went out of their way to make sure my stay was both comfortable and memorable.\n\nThe room was spotlessly clean, well-furnished, and had all the amenities I needed. The ambiance of the hotel was calm and inviting, making it a perfect place to relax after a long day. I also appreciated the delicious breakfast spread every morning\u2014it was a great way to start the day. Overall, Itsy Hotel Prime Stay exceeded my expectations, and I wouldn\u2019t hesitate to stay here again.",
+      "Itsy very good hotel. Very good staff behaviour and neat and clean rooms good service.nice location good views inside hotel",
+      "It's totally wonderful experience neat and clean rooms staff was cooperative nice property big spacious rooms in this budget ."
+    ],
+    "negative_snippets": [
+      "Strictly not safe for women at all. I will never want to recommend this hotel to anyone ever no male no female. They make businesses inside the hotel, loud music at night disturbing decent people, someone who was booked for an interview in a top notch Company. Do have evidences to carry the case further.\nDate of Incident : 02.09.2025\nTime of incident : Starting from late evening till early morning.\nThought things changed in India after Modi Sarkar unfortunately got worse.. And no woman safe.\nI would definitely act as a whistle blower to as many as I can. And go up to social media, make sure no woman lands in their not even as a couple..They are still not safe to be logically correct.",
+      "Rooms are highly and unevenly priced. Not worthy of money we are paying to them. Dirty and unhygienic condition of furniture and surroundings in room. Never would recommend this to anyone even if it's a last option or a budget option."
+    ]
+  },
+  "review_summary": "Based on 5 reviews.",
+  "positive_themes": {
+    "clean_rooms": 3,
+    "friendly_staff": 3,
+    "good_food": 1,
+    "good_location": 1,
+    "great_value": 1
+  },
+  "negative_themes": {
+    "noise": 1,
+    "dirty_rooms": 1
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "hotel_id": "ChIJHUReadH6DDkRo5MiseFGFZQ",
+  "hotel_name": "Hotel Grand In Vaishali",
+  "area": "Vaishali",
+  "budget_category": "Mid-Range",
+  "rating": 3.9,
+  "trust_score": 0.6149399542465006,
+  "travel_purpose_tags": [
+    "Budget"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "moderate",
+    "review_count": 5,
+    "positive_snippet_count": 2,
+    "negative_snippet_count": 3,
+    "positive_theme_count": 4,
+    "negative_theme_count": 0
+  },
+  "aspect_scores": {
+    "cleanliness": 0.3360646949149667,
+    "service": 0.9998592138290404,
+    "location": 0.5027310212608426,
+    "value_for_money": 0.0056028286926448,
+    "staff_behavior": 0.5012956280261277
+  },
+  "recommendation_features": {
+    "popularity_score": 0.5412363273825181,
+    "rating_score": 3.9,
+    "sentiment_score": 0.4016940671717747
+  },
+  "review_evidence": {
+    "positive_snippets": [
+      "I had a very pleasant stay at this hotel. The staff was courteous and helpful throughout. Rooms were clean, well-maintained, and had all the basic amenities. The location is convenient with easy access to nearby markets and transport. Highly recommended for business or short stays.\nExcellent service and beautiful ambiance! The hotel exceeded my expectations in terms of cleanliness, hospitality, and comfort. The breakfast spread was delightful and the front desk team was always responsive. Definitely coming back!",
+      "Today i have my best experinced of Hotel Grand in vasihali sector 4, best ambience & superb room quality so its my opinion for everyone to visit once"
+    ],
+    "negative_snippets": [
+      "We were asked for 600 rs through online platform ,\" oyo booking\". but when we reached at the hotel , the staff asked for 1500rs and said that online prices are not real. We have no option because of our exam the next day so we booked the room.\nNow honestly talking about the room conditions. The room was not clean. Cigarette ashes were on the floor. In this weather of winter there was no geyser and the TV was not working also the most important thing i.e. privacy was also hampered because the door lock was not working.\nThen we asked the manager to change the room.He directly didn't refuse but was giving unwanted reasons to not change the room.\nAt the time of checkout the manager asked to give 5 star rating.",
+      "Pros - location good ,in vaishali main market and metro station is also near\nRoom also looking clean\n\nCONS- I have book room from booking.com in 2800 for four nights on friday but when I have reached on Monday they have asking 6000 rs and also on booking.com price is showing 6000, I feel cheated because price updated on Monday\n\n2. Room was cleans but insects are there and after a day so many red spots in my hand\n\n3. I have ask for water but no one coming\nAnd for wifi also not sharing password",
+      "They are misleading us regarding the hotel tariff. We had booked three rooms through OYO, but at the time of check-in, the hotel demanded an additional 50% charge without providing any valid reason."
+    ]
+  },
+  "review_summary": "Based on 5 reviews.",
+  "positive_themes": {
+    "clean_rooms": 3,
+    "friendly_staff": 2,
+    "good_location": 2,
+    "good_food": 1
+  },
+  "negative_themes": {}
+}

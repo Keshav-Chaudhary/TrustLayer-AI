@@ -1,0 +1,51 @@
+{
+  "hotel_id": "ChIJP-z7CgAdDTkR7pLATQ2ZZwQ",
+  "hotel_name": "Hotel West End @ Delhi Airport",
+  "area": "Delhi",
+  "budget_category": "Mid-Range",
+  "rating": 4.4,
+  "trust_score": 0.5722821025724109,
+  "travel_purpose_tags": [
+    "Budget"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "moderate",
+    "review_count": 5,
+    "positive_snippet_count": 0,
+    "negative_snippet_count": 3,
+    "positive_theme_count": 5,
+    "negative_theme_count": 2
+  },
+  "aspect_scores": {
+    "cleanliness": 0.0010821671457961,
+    "service": 0.0819457518324876,
+    "location": 0.0816561777270786,
+    "value_for_money": 0.0030318550489027,
+    "staff_behavior": 0.0023819590812005
+  },
+  "recommendation_features": {
+    "popularity_score": 0.5551484894132765,
+    "rating_score": 4.4,
+    "sentiment_score": 0.0503801931190536
+  },
+  "review_evidence": {
+    "positive_snippets": [],
+    "negative_snippets": [
+      "The only good thing about this hotel is that it is only 20 min away from Delhi Airport. Otherwise everything else was disappointing. Their staffs lack courtesy and they lack sense of how to behave responsibly in a hospitality industry. They never said sorry inspite of committing mistakes. Few disappointing experience that we came across -- We had booked 2 rooms and when we reached hotel around 1 PM only 1 room was ready and they offered 2nd room at 04:30 PM only because the rooms were yet to be cleaned. Their elevator was not working so we had to climb up the stairs. They served evening hi-tea snacks without dippings i.e. pakodes were served without green chutney and when we asked the reason they simply said \"Aaj chutney banana nahi hai\" And later said \"ye hotel ka grinder baju wale hotel ko diya hai so chutney nahi bana paye\" Amazing reasons.. isn't it. Once room service order for dinner didn't came even after waiting for 45 mins so I called back and got to know that their gas cylinder got emptied so the person on the call again took the order details. How come they did not have the courtesy to convey the reason for delay upfront or how come they have not written down my food order that the 2nd person had to ask me again?? Weird. So many instances and nobody said sorry ever. Their food lacks taste. I had the most sweetest tea in my life there.  Also there are now window in the room except the suit rooms and the road outside is in poor condition for which I will blame the local corporation.",
+      "This is a below 2-star hotel situated in the inside lane of Mahipalpur. Please do not get fooled by the hotel and room pics they have posted, those are fake. Room conditions a below average.\n\nService is good. They tried giving me all I asked. However, they didn't keep the promise of the free drop-off at the airport.\n\nIn my honest opinion, if you are looking to stay at Mahipalpur, do not stay in any inside lane hotels. Always book one on the main road if you can afford it.",
+      "They have idea of hospitality business, they denied me a room even after booking on Goibibo and put me up on a cheap hotel, I checked out and they refused me refund. Don't go by the photos the hotel is cheap just the name is fancy. Staff are all rouges."
+    ]
+  },
+  "review_summary": "Based on 5 reviews.",
+  "positive_themes": {
+    "clean_rooms": 1,
+    "friendly_staff": 4,
+    "good_food": 1,
+    "great_value": 1,
+    "good_location": 1
+  },
+  "negative_themes": {
+    "dirty_rooms": 1,
+    "rude_staff": 2
+  }
+}

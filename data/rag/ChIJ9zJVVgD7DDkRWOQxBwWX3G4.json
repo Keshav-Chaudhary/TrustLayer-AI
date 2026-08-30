@@ -1,0 +1,50 @@
+{
+  "hotel_id": "ChIJ9zJVVgD7DDkRWOQxBwWX3G4",
+  "hotel_name": "The Aura Hotel & Banquet",
+  "area": "Shahdara",
+  "budget_category": "Mid-Range",
+  "rating": 4.0,
+  "trust_score": 0.6019611265923062,
+  "travel_purpose_tags": [
+    "Leisure"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "moderate",
+    "review_count": 5,
+    "positive_snippet_count": 2,
+    "negative_snippet_count": 3,
+    "positive_theme_count": 4,
+    "negative_theme_count": 0
+  },
+  "aspect_scores": {
+    "cleanliness": 0.5003836951800622,
+    "service": 0.999880075454712,
+    "location": 0.999880075454712,
+    "value_for_money": 0.5,
+    "staff_behavior": 0.666671018426617
+  },
+  "recommendation_features": {
+    "popularity_score": 0.4199150705822432,
+    "rating_score": 4.0,
+    "sentiment_score": 0.4002277065214003
+  },
+  "review_evidence": {
+    "positive_snippets": [
+      "My stay at The Aura was exceptional! The location is perfect \u2014 easily accessible  The staff truly set this hotel apart; they were friendly, professional, and always eager to help. Their warm hospitality made me feel right at home.\n\nThe rooms were comfortable, clean, and well-maintained, adding to a relaxing experience. Overall, The Aura is one of the best hotels and banquet. Highly recommended for anyone looking for great service and a fantastic location!",
+      "The best decision to choose this banquet for my engagement, they made my day more special. cooperative staff tasty food and beautiful interiors.. i would like to recommend this banquet to all my people..\n\nSpecial thanks to - Inderjeet Ma'am she's a very supportive and understanding..."
+    ],
+    "negative_snippets": [
+      "If I had a chance, I would give zero stars. We were attending a friend\u2019s wedding and were not given proper rooms. Instead, we were made to stay in a hall with extra beds, where men, women and kids were accommodated together. Not enough towels, only 1 was given, No proper blankets were provided, and we had to move to a friend\u2019s room to sleep.\n\nDuring lunch on the rooftop, the staff did not help with arranging tables and chairs and were just standing and watching. Overall, a very disappointing experience. Not recommended for wedding guest accommodation.",
+      "My experience here was 3rd grade\nI was there to attend my friends wedding i was with my family we had two babies and when we asked for mattress and bedsheet they refused to give and the room space is not good!! Their behaviour was very cold !! Phone in the room was not working\nWhen we asked for water they were saying water will be charged and we were like we will pay for extra!!\n\nNot happy with this hotel and all the people working there I\u2019m giving 1 star because there is no option for. Zero i would not even rate one star \ud83d\ude4f",
+      "Booked suite with Jacuzzi, room was decent and big, but it was not clean enough found multiple hairs, there's no food option so you have to order online, room lacks basic amenities like kettle."
+    ]
+  },
+  "review_summary": "Based on 5 reviews.",
+  "positive_themes": {
+    "clean_rooms": 2,
+    "friendly_staff": 3,
+    "good_location": 1,
+    "good_food": 2
+  },
+  "negative_themes": {}
+}

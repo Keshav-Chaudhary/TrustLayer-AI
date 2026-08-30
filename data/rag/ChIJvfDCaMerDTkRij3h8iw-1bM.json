@@ -1,0 +1,45 @@
+{
+  "hotel_id": "ChIJvfDCaMerDTkRij3h8iw-1bM",
+  "hotel_name": "Tivoli Garden Resort",
+  "area": "New Delhi",
+  "budget_category": "Luxury",
+  "rating": 4.0,
+  "trust_score": 0.8817673518015163,
+  "travel_purpose_tags": [
+    "Business"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "moderate",
+    "review_count": 5,
+    "positive_snippet_count": 3,
+    "negative_snippet_count": 0,
+    "positive_theme_count": 2,
+    "negative_theme_count": 0
+  },
+  "aspect_scores": {
+    "cleanliness": 0.5,
+    "service": 0.999822199344635,
+    "location": 0.5,
+    "value_for_money": 0.5,
+    "staff_behavior": 0.9998758733272552
+  },
+  "recommendation_features": {
+    "popularity_score": 0.8359859901761932,
+    "rating_score": 4.0,
+    "sentiment_score": 0.9998651385307312
+  },
+  "review_evidence": {
+    "positive_snippets": [
+      "Highly recommended! I attended my friend\u2019s wedding here, and the experience was truly memorable. The property is beautifully maintained with lush greenery and elegant d\u00e9cor that creates a perfect setting for celebrations.\n\nThe ambience was grand yet very welcoming, and the arrangements for the wedding functions were seamless. The staff was courteous, attentive, and managed everything very professionally. The food was delicious with a great variety, and every dish was well presented. Wonderful experience \ud83d\udc4d\ud83d\udc4d",
+      "We recently hosted our daughter\u2019s wedding at Tivoli Garden Resort, and it was truly a magical experience from start to finish. The venue is absolutely beautiful, perfectly maintained, and provided a stunning backdrop for such a special occasion.\n\nThe staff was exceptionally professional, attentive, and cooperative. Every detail was handled with care, and they went above and beyond to make sure everything ran smoothly. Our guests were extremely impressed with the hospitality, ambience, and overall arrangements.\n\nThanks to the entire Tivoli Garden Resort team for making my daughter\u2019s wedding unforgettable. I highly recommend this resort for weddings and special events\u2014it truly deserves a 5-star rating!",
+      "I hosted my wedding at Tivoli Garden Resort, GT Karnal Road very recently in a destination set up from 1st to 3rd Feb 2026. I must say the property is absolutely fabulous, especially the food! The lead chef Prakash ji is very humble, kind and thorough. Not only did he accommodate to our choice of food but he also ensured the food was available on time for each and every event throughout the 3 day ceremony. Kudos to great operations team at Tivoli! We had 80 rooms where about 200+ guests had stayed and everyone had a positive experience. The team was also flexible in allowing sufficient time in advance to get the wedding decor ready. Lastly, Tivoli\u2019s grand venue  \u2018Rosewood\u2019 is the perfect luxury destination to host our full day wedding cum reception and everybody enjoyed its grandness."
+    ],
+    "negative_snippets": []
+  },
+  "review_summary": "Based on 5 reviews.",
+  "positive_themes": {
+    "friendly_staff": 3,
+    "good_food": 3
+  },
+  "negative_themes": {}
+}

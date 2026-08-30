@@ -1,0 +1,49 @@
+{
+  "hotel_id": "ChIJj1OudT0CDTkRtj84wg-cCE8",
+  "hotel_name": "Mystique Melange",
+  "area": "Ashok Vihar",
+  "budget_category": "Mid-Range",
+  "rating": 3.9,
+  "trust_score": 0.5646386187259402,
+  "travel_purpose_tags": [
+    "Budget"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "moderate",
+    "review_count": 5,
+    "positive_snippet_count": 0,
+    "negative_snippet_count": 3,
+    "positive_theme_count": 3,
+    "negative_theme_count": 2
+  },
+  "aspect_scores": {
+    "cleanliness": 0.0011236378923058,
+    "service": 0.222126104713728,
+    "location": 0.5,
+    "value_for_money": 0.5,
+    "staff_behavior": 0.0021637319587171
+  },
+  "recommendation_features": {
+    "popularity_score": 0.7069126729625357,
+    "rating_score": 3.9,
+    "sentiment_score": 0.1335798482614336
+  },
+  "review_evidence": {
+    "positive_snippets": [],
+    "negative_snippets": [
+      "Let's talk about this place .. if you want world class service and commitment, don't come. But if u want amazing food , do visit ... Let's say you booked a hall for party and few rooms for a day with it. What they will do is that , they will change the room , which is right next to the party hall and it's a big big inconvenience. Toilets are not upto the mark but bedroom ambience is basic but it gives positive vibes. Also , make sure to have everything in written. Else they will not keep any verbal commitment, whatso ever. Not taking the names but Santosh Ji is the man you want to have as your floor captain. As he runs towards you everytime u need help . But ofcourse, a single captain can't carry the burden of whole team... That is it from my side. 2.5 out of 5 for service and commitment, 5 out of 5 for veg food .. I don't know about the nonveg ... Take care .",
+      "\u26a0\ufe0f Serious Health Hazard \u2013 Extremely Disappointed\n\nOrdered cream of mushroom soup and was shocked to find plastic pieces floating in the soup. This is a major health and safety hazard and completely unacceptable for any food establishment.\n\nSuch negligence can cause serious harm if consumed unknowingly. This raises serious concerns about kitchen hygiene, quality control, and food safety standards.\n\nI strongly urge everyone to be extremely cautious while ordering food from here. Please check your food carefully before consuming. Restaurants must take full responsibility for customer safety \u2014 this experience was alarming and disappointing.\n\nHoping the management takes this seriously and ensures strict food safety measures going forward.",
+      "Horrible place. My client booked her function here and I was to perform live singing but they provided the worst sound system you could ever imagine. Worst of all, they charged a bomb for that sound system. Also unclean washrooms! Avoid at all costs\u2026"
+    ]
+  },
+  "review_summary": "Based on 5 reviews.",
+  "positive_themes": {
+    "good_food": 3,
+    "clean_rooms": 1,
+    "friendly_staff": 1
+  },
+  "negative_themes": {
+    "dirty_rooms": 1,
+    "rude_staff": 1
+  }
+}

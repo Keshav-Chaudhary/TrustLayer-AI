@@ -1,0 +1,51 @@
+{
+  "phase3_pgvector_available": false,
+  "phase3_pgvector_installed": false,
+  "phase5_db": "trustlayer_db",
+  "phase5_user": "postgres",
+  "phase5_version": "PostgreSQL 17.6 on x86_64-windows, compiled by msvc-19.44.35213, 64-bit",
+  "phase6_tables": [
+    "domain_events",
+    "embedding_documents",
+    "hotel_amenities",
+    "hotel_locations",
+    "hotel_provenance",
+    "hotel_scores",
+    "hotel_sources",
+    "hotels",
+    "ingestion_records",
+    "ingestion_runs"
+  ],
+  "phase7_ingestion": {
+    "run_id": "e3de34e2-9fff-4fc8-8c20-871f03d3a86c",
+    "mode": "apply",
+    "status": "SUCCESS",
+    "records_seen": 1661,
+    "records_inserted": 1661,
+    "records_updated": 0,
+    "records_unchanged": 0,
+    "records_rejected": 0,
+    "validation_errors": []
+  },
+  "phase8_h_count": 1661,
+  "phase8_h_unique": 1661,
+  "phase9_table_counts": {
+    "hotels": 1661,
+    "hotel_locations": 1661,
+    "hotel_scores": 1661,
+    "hotel_sources": 1661,
+    "hotel_amenities": 1661,
+    "hotel_provenance": 0,
+    "domain_events": 1661,
+    "ingestion_records": 1661,
+    "ingestion_runs": 1
+  },
+  "phase10_orphan_locs": 0,
+  "phase12_col_info": [
+    "embedding_vector",
+    "text",
+    "text"
+  ],
+  "phase12_is_native_pgvector": false,
+  "phase13_emb_count": 7910
+}

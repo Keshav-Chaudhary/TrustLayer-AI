@@ -1,0 +1,48 @@
+{
+  "hotel_id": "ChIJd0vHMCweDTkRayozzfX4sGc",
+  "hotel_name": "The Ocean Pearl Gardenia",
+  "area": "Fatehpur Beri",
+  "budget_category": "Mid-Range",
+  "rating": 4.1,
+  "trust_score": 0.8810199630611971,
+  "travel_purpose_tags": [
+    "Leisure",
+    "Business"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "moderate",
+    "review_count": 5,
+    "positive_snippet_count": 3,
+    "negative_snippet_count": 0,
+    "positive_theme_count": 4,
+    "negative_theme_count": 0
+  },
+  "aspect_scores": {
+    "cleanliness": 0.999706208705902,
+    "service": 0.9998094042142232,
+    "location": 0.999706208705902,
+    "value_for_money": 0.5,
+    "staff_behavior": 0.9998170336087544
+  },
+  "recommendation_features": {
+    "popularity_score": 0.7700206952947003,
+    "rating_score": 4.1,
+    "sentiment_score": 0.9998327374458312
+  },
+  "review_evidence": {
+    "positive_snippets": [
+      "We recently had a wedding in this hotel, and I genuinely couldn\u2019t have asked for a better team to handle it. Everything turned out absolutely beautiful and flawless and a huge part of that credit goes to the event planner (Ms. Muskan) and the d\u00e9cor manager (Ms. Monika) along with their teams.\n\nFrom the smallest details to the big moments, everything felt smooth, elegant, and perfectly timed. The management was excellent, and the d\u00e9cor was stunning thoughtful, aesthetic, and exactly the vibe and above expectations. Every corner looked picture-perfect. The food was so delicious that each guest was praising it.\n\nSince, we booked this place for wedding, the concerned persons, were constantly in touch with us and took the responsibility of wedding on their shoulders.\n\nA big shoutout to the entire staff for their hard work, and a special appreciation for how calmly and confidently they handled all the last-minute chaos. Their professionalism, creativity, and dedication truly stood out.\n\nThank you for making the wedding memorable for all of us. Highly recommended! \ud83e\udd0d\u2728",
+      "We hosted two wedding events on 21st and 22nd November at Ocean Pearl Gardenia, along with a staycation, and the overall experience was excellent.\nThe arrangements were seamless and well-managed. Mr. Sanjay, the manager, was absolutely outstanding\u2014extremely cooperative, professional, and always available. The hospitality of the entire staff was top-notch, making all our guests feel comfortable and well cared for.\nThe food deserves a special mention\u2014it was truly amazing in taste, presentation, and quality. Many of our guests personally appreciated the food, which became one of the highlights of the event.\nFor the d\u00e9cor, Mr. Ajay Rungta Ji did a phenomenal job. Although we initially had some differences, he delivered much more than what was agreed upon. The d\u00e9cor was elegant, beautifully executed, and exceeded our expectations. The entire event flowed perfectly, and we received tremendous praise from our guests for the d\u00e9cor, stay, hospitality, and especially the food quality.\nOverall, it was a memorable and perfectly executed wedding experience. We highly recommend Ocean Pearl Gardenia and their team for anyone planning a wedding or special event.",
+      "We hosted our Haldi ceremony at Ocean Pearl Gardenia, Chhatarpur, and it was nothing short of perfect. From the decor to the food, everything reflected sheer excellence. The quality, presentation, and taste of the food were truly exceptional and loved by every guest.\n\nHowever, what made this experience unforgettable was Mr. Sanjay Singh Rawat. He wasn\u2019t just coordinating the event, he was standing with us like a family member. From the smallest queries to last-minute concerns, he was always present, calm, reassuring, and incredibly supportive. He stayed with us through the entire function, ensuring everything flowed seamlessly and that we felt relaxed and taken care of.\n\nA big thank you to Mr. Sanjay Singh Rawat and the entire Gardenia team for their dedication, warmth, and professionalism. They didn\u2019t just host an event they created beautiful memories for us."
+    ],
+    "negative_snippets": []
+  },
+  "review_summary": "Based on 5 reviews.",
+  "positive_themes": {
+    "friendly_staff": 3,
+    "good_food": 4,
+    "clean_rooms": 1,
+    "good_location": 1
+  },
+  "negative_themes": {}
+}

@@ -1,0 +1,51 @@
+{
+  "hotel_id": "ChIJf8BWKED9DDkRo0tNpcGElSk",
+  "hotel_name": "Hotel Chanchal Deluxe",
+  "area": "New Delhi",
+  "budget_category": "Mid-Range",
+  "rating": 4.1,
+  "trust_score": 0.5398388906186855,
+  "travel_purpose_tags": [
+    "Budget"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "moderate",
+    "review_count": 5,
+    "positive_snippet_count": 0,
+    "negative_snippet_count": 3,
+    "positive_theme_count": 4,
+    "negative_theme_count": 3
+  },
+  "aspect_scores": {
+    "cleanliness": 0.0002445257947934,
+    "service": 0.0002280496701131,
+    "location": 0.0473113918851594,
+    "value_for_money": 0.0002280496701131,
+    "staff_behavior": 0.0317272325822462
+  },
+  "recommendation_features": {
+    "popularity_score": 0.6369841111836786,
+    "rating_score": 4.1,
+    "sentiment_score": 0.0191338721720967
+  },
+  "review_evidence": {
+    "positive_snippets": [],
+    "negative_snippets": [
+      "The worst hotel I ever seen. I lived in this hotel for 4 night there is so many cockroaches in their room when you going to complaint not any help occurs.. The high speed internet they claimed \ud83d\ude02\ud83d\ude02 is less than your 2g internet speed when I complain about it after some time they come and said now recheck when I check in front of them they were gone after looking condition. Prices of food is so high..\nAlso the all staff and specially receptionist is very very rude. If you complain about anything they misbehave with you and said this is very small problem.. But when you go for any help he say this is not dharmshala.\nAttitude like hotel services like toilet. No hot water nothing that they claim",
+      "The room itself was not up to standard. It was not properly cleaned . dust on surfaces, and the bathroom had a noticeable odor. Basic amenities were either missing or not functioning properly. For the price paid, this was completely unacceptable.\nI raised my concerns with the front desk, but the response was dismissive and no effort was made to resolve the issues. Overall, the stay did not meet even basic expectations for comfort and service.\n\nI would not recommend this hotel and will not be returning.",
+      "I booked through one of the trusted online platform, Agoda. Saw the pictures of the room, selected and booked. The payment was to be done at the hotel itself, no advance booking. As soon as we reached the hotel, they asked for the payment first in full. You cannot see the room first as you have already booked. They gave us a small room hardly any space to walk around. Damp smell, not even clean bed sheets, no ventilation or window. Phone lines not working, tv not working, AC was broken. Washroom was worst, flush not working properly, sink pipe was broken so the water was flowing all over the washroom floor.\nWe went for a business trip and had no other option but to book online before reaching. Do not trust blindly."
+    ]
+  },
+  "review_summary": "Based on 5 reviews.",
+  "positive_themes": {
+    "friendly_staff": 3,
+    "good_food": 1,
+    "clean_rooms": 3,
+    "good_location": 1
+  },
+  "negative_themes": {
+    "rude_staff": 2,
+    "dirty_rooms": 1,
+    "noise": 1
+  }
+}

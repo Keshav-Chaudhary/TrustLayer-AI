@@ -1,0 +1,50 @@
+{
+  "hotel_id": "ChIJr8LuNvwYDTkRLfjeI091NkU",
+  "hotel_name": "Lemon Tree Premier, City Center, Gurugram",
+  "area": "Sector 29",
+  "budget_category": "Mid-Range",
+  "rating": 4.3,
+  "trust_score": 0.8991050813800369,
+  "travel_purpose_tags": [
+    "Leisure",
+    "Business",
+    "Family"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "moderate",
+    "review_count": 5,
+    "positive_snippet_count": 3,
+    "negative_snippet_count": 0,
+    "positive_theme_count": 5,
+    "negative_theme_count": 0
+  },
+  "aspect_scores": {
+    "cleanliness": 0.999610036611557,
+    "service": 0.9997015992800394,
+    "location": 0.9998781681060792,
+    "value_for_money": 0.9998781681060792,
+    "staff_behavior": 0.9997457414865494
+  },
+  "recommendation_features": {
+    "popularity_score": 0.7301458945671203,
+    "rating_score": 4.3,
+    "sentiment_score": 0.9997681736946106
+  },
+  "review_evidence": {
+    "positive_snippets": [
+      "I had a very pleasant stay at Lemon Tree Premier, City Center Gurugram. The service throughout the hotel was warm, professional, and prompt. The staff were courteous and always ready to assist, which made the stay very comfortable.\n\nThe food deserves a special mention\u2014excellent quality, great taste, and a good variety. Overall, the hotel maintains high standards of cleanliness, hospitality, and guest comfort.\n\nI would definitely recommend this hotel to both business and leisure travelers and would be happy to stay here again.",
+      "I had a wonderful stay in the hotel for 5 days. The entire staff was very helpful and extremely professional.\nAnd a Special mention to Restaurant staffs - they were always ready to help, attentive and provided excellent service throughout.\nAlso Chief has a magic in hands, our breakfasts were too tasty.\nRooms were also clean and nice.\nSpecial Mention to Deepak Kumar from House keeping department for keeping the rooms clean.",
+      "I had a wonderful stay at Lemon Tree Gurgaon. It offers great value for money without compromising on quality. The hospitality was top-notch; the staff were attentive and made me feel truly welcome. The breakfast spread was impressive with plenty of fresh options, and the location is absolutely perfect. I\u2019ll definitely be returning on my next trip"
+    ],
+    "negative_snippets": []
+  },
+  "review_summary": "Based on 5 reviews.",
+  "positive_themes": {
+    "clean_rooms": 3,
+    "friendly_staff": 4,
+    "good_food": 4,
+    "good_location": 1,
+    "great_value": 1
+  },
+  "negative_themes": {}
+}

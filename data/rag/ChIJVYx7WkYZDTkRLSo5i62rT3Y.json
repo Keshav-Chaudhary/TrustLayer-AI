@@ -1,0 +1,49 @@
+{
+  "hotel_id": "ChIJVYx7WkYZDTkRLSo5i62rT3Y",
+  "hotel_name": "Limewood Stay Mall 51",
+  "area": "Sector 51",
+  "budget_category": "Budget",
+  "rating": 4.8,
+  "trust_score": 0.8765254285807463,
+  "travel_purpose_tags": [
+    "Leisure",
+    "Business"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "moderate",
+    "review_count": 5,
+    "positive_snippet_count": 3,
+    "negative_snippet_count": 1,
+    "positive_theme_count": 3,
+    "negative_theme_count": 0
+  },
+  "aspect_scores": {
+    "cleanliness": 0.0005048289312981,
+    "service": 0.99973597129186,
+    "location": 0.99986732006073,
+    "value_for_money": 0.5,
+    "staff_behavior": 0.9997920393943788
+  },
+  "recommendation_features": {
+    "popularity_score": 0.6112903123822879,
+    "rating_score": 4.8,
+    "sentiment_score": 0.7998987629893236
+  },
+  "review_evidence": {
+    "positive_snippets": [
+      "I had an amazing 3 days stay. The manager Mr Surjeet was extremely patient and helpful and took care of all my needs including giving me a great room. I wish him all the best for his future and as well as Limewood stay",
+      "It was a perfect stay. The service was really good and comfortable. The market place is also in the vicinity.",
+      "Mr Surjit was superb and truly helpful. I am thankful to him.\n\nHotel service is too slow but their breakfast is very good"
+    ],
+    "negative_snippets": [
+      "Old room, much more disappointing than the photos online (I had to take the non-premium room due to lack of availability)\nIncompetent housekeeping - bathroom had the stench of urine for hours and worst of all, the quilt cover was not changed and reeked of male perfume on one side and female perfume on the other.\nSheets were stained and I even asked them to confirm if all linen was fresh and they said yes.\nBut it was my fault that i didn't insist on them to change the cover n sheets."
+    ]
+  },
+  "review_summary": "Based on 5 reviews.",
+  "positive_themes": {
+    "friendly_staff": 3,
+    "good_food": 1,
+    "clean_rooms": 1
+  },
+  "negative_themes": {}
+}

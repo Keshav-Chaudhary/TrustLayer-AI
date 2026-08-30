@@ -1,0 +1,48 @@
+{
+  "hotel_id": "ChIJXXRN7bsbDTkRiO1syjt3AM0",
+  "hotel_name": "Hotel Tashree",
+  "area": "Gurugram",
+  "budget_category": "Mid-Range",
+  "rating": 4.7,
+  "trust_score": 0.765690041752633,
+  "travel_purpose_tags": [
+    "Leisure"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "moderate",
+    "review_count": 5,
+    "positive_snippet_count": 3,
+    "negative_snippet_count": 1,
+    "positive_theme_count": 3,
+    "negative_theme_count": 0
+  },
+  "aspect_scores": {
+    "cleanliness": 0.5,
+    "service": 0.6667225279961713,
+    "location": 0.9996474087238312,
+    "value_for_money": 0.5001961169473361,
+    "staff_behavior": 0.5
+  },
+  "recommendation_features": {
+    "popularity_score": 0.4523990307935275,
+    "rating_score": 4.7,
+    "sentiment_score": 0.600093123537954
+  },
+  "review_evidence": {
+    "positive_snippets": [
+      "Best budget hotel of middle range. very good location. The best part is service provided by employees specially Mr Anand,Food was absolutely gorgeous and mouth watery. If u visiting delhi ,need a quick sort stay this is best place to stay.\nYou won't be disappointed.",
+      "Over priced for the rooms which you get\nCan be better if maintained properly.",
+      "Good service with near rooms and timely response proper water facilities comfortable beds and pleasent stay highly recommend"
+    ],
+    "negative_snippets": [
+      "I was quite disappointed with the food quantity at this hotel. While the taste was decent, the portions were surprisingly small for the price being charged. It felt like more focus was given to presentation rather than actual value.\n\nIf you\u2019re someone who expects a satisfying meal for what you pay, this place may not meet your expectations. I hope the management takes this feedback seriously and improves the portion sizes in the future."
+    ]
+  },
+  "review_summary": "Based on 5 reviews.",
+  "positive_themes": {
+    "good_location": 2,
+    "good_food": 2,
+    "great_value": 1
+  },
+  "negative_themes": {}
+}

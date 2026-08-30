@@ -1,0 +1,47 @@
+{
+  "hotel_id": "ChIJAQAAwMoZDTkRW9hrHxvXr20",
+  "hotel_name": "Country Inn & Suites By Radisson, Gurgaon Sector 12",
+  "area": "Sector 12",
+  "budget_category": "Budget",
+  "rating": 4.4,
+  "trust_score": 0.9203623209919888,
+  "travel_purpose_tags": [
+    "Business"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "moderate",
+    "review_count": 5,
+    "positive_snippet_count": 3,
+    "negative_snippet_count": 0,
+    "positive_theme_count": 4,
+    "negative_theme_count": 0
+  },
+  "aspect_scores": {
+    "cleanliness": 0.8890475630760193,
+    "service": 0.9555197596549988,
+    "location": 0.5,
+    "value_for_money": 0.5,
+    "staff_behavior": 0.9444450438022614
+  },
+  "recommendation_features": {
+    "popularity_score": 0.8339608027262679,
+    "rating_score": 4.4,
+    "sentiment_score": 0.9555197596549988
+  },
+  "review_evidence": {
+    "positive_snippets": [
+      "I had a very pleasant stay at Country Inn & Suites by Radisson, Gurgaon. The hotel is well-maintained, clean, and conveniently located, making it ideal for both business and leisure travel.\nThe rooms were spacious, tidy, and well equipped, with comfortable beds that ensured a good night\u2019s sleep after a long day. A special thank you to the team for accommodating my request and providing a room with a bathtub \u2014 it was a really nice touch and made the stay even more relaxing.\nThe staff deserves special mention for being courteous, responsive, and always willing to help. The food was good, with a decent breakfast spread and prompt room service. Check-in and check-out were smooth and hassle-free.\nOverall, a reliable and comfortable hotel with great hospitality. I would definitely recommend this property and would be happy to stay here again on my next visit to Gurgaon.",
+      "Our stay was amazing here in country inn by Radisson. The rooms are cozy and well lit. The services was great the food was mouth watering. The check in and check out process was smooth. The front desk people was very supportive.Ms. Vaishnavi and Mr. Shivam was very Quick for checkout also. I would like to recommend this  hotel to everyone traveller for comfortable stay. Kudos to team country inn by Radisson.\ud83d\udc4d\ud83d\udc4d",
+      "I recently booked a conference hall for exibition of our products and the entire experience was outstanding. The booking process was smooth, efficient, and handled with great professionalism. The staff was highly responsive, accommodating all our requirements with attention to detail.\n\nThe conference hall was well-equipped with modern amenities, excellent acoustics, and a comfortable seating arrangement, ensuring a seamless experience for all participants. The technical support team was prompt and efficient throughout the event.\n\nCatering and hospitality services were top-notch \u2014 timely, hygienic, and perfectly suited for a professional gathering. Overall, it was an extremely well-organized and impressive experience. I highly recommend for corporate meetings and conferences."
+    ],
+    "negative_snippets": []
+  },
+  "review_summary": "Based on 5 reviews.",
+  "positive_themes": {
+    "clean_rooms": 2,
+    "friendly_staff": 4,
+    "good_location": 1,
+    "good_food": 3
+  },
+  "negative_themes": {}
+}

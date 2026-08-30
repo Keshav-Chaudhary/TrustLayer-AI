@@ -1,0 +1,46 @@
+{
+  "hotel_id": "ChIJSdIsddsbDTkRV8hWeRdlXpg",
+  "hotel_name": "Green Lotus Sai International",
+  "area": "Dwarka",
+  "budget_category": "Mid-Range",
+  "rating": 4.3,
+  "trust_score": 0.8305175757052371,
+  "travel_purpose_tags": [
+    "Business"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "moderate",
+    "review_count": 5,
+    "positive_snippet_count": 3,
+    "negative_snippet_count": 0,
+    "positive_theme_count": 3,
+    "negative_theme_count": 0
+  },
+  "aspect_scores": {
+    "cleanliness": 0.9994321664174398,
+    "service": 0.9995193282763164,
+    "location": 0.5,
+    "value_for_money": 0.5,
+    "staff_behavior": 0.9995347261428832
+  },
+  "recommendation_features": {
+    "popularity_score": 0.4079220425584051,
+    "rating_score": 4.3,
+    "sentiment_score": 0.9996050119400024
+  },
+  "review_evidence": {
+    "positive_snippets": [
+      "My stay was exceptional. The check-in process was smooth, the room was spotless, and all amenities were up to the mark. The staff deserves special mention for their professionalism and warm hospitality. Would definitely choose this hotel again.\u201d",
+      "Such a lovely experience! Everyone at the hotel made us feel at home. The service was quick, rooms were cozy, and the food was delicious. I\u2019ll definitely come back next time I\u2019m in town!\u201d",
+      "Rooms were nice and clean.\n\nFood was good. Chef or cook leaving by 10.30 was an issue.\nGeyser was not working but attended to by the team.\nThe reception team were very helpful. Lift is available."
+    ],
+    "negative_snippets": []
+  },
+  "review_summary": "Based on 5 reviews.",
+  "positive_themes": {
+    "clean_rooms": 3,
+    "friendly_staff": 4,
+    "good_food": 2
+  },
+  "negative_themes": {}
+}

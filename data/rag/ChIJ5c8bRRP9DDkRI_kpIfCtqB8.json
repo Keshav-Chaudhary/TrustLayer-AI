@@ -1,0 +1,46 @@
+{
+  "hotel_id": "ChIJ5c8bRRP9DDkRI_kpIfCtqB8",
+  "hotel_name": "Hotel O The Arrow Infront Of Max Hospital",
+  "area": "North Delhi",
+  "budget_category": "Mid-Range",
+  "rating": 2.1,
+  "trust_score": 0.2081685905932102,
+  "travel_purpose_tags": [
+    "Budget"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "moderate",
+    "review_count": 5,
+    "positive_snippet_count": 0,
+    "negative_snippet_count": 3,
+    "positive_theme_count": 1,
+    "negative_theme_count": 1
+  },
+  "aspect_scores": {
+    "cleanliness": 0.5,
+    "service": 0.0003844080492854,
+    "location": 0.5,
+    "value_for_money": 0.0004516155167948,
+    "staff_behavior": 0.0003844080492854
+  },
+  "recommendation_features": {
+    "popularity_score": 0.3501294176361872,
+    "rating_score": 2.1,
+    "sentiment_score": 0.0041240876831579
+  },
+  "review_evidence": {
+    "positive_snippets": [],
+    "negative_snippets": [
+      "O was over charged , OYO team called me saying room is for 808 rupees and I have to pay 25% as reservation amount which I did on line , then while checking in they charged me 805 instead of 606 . The OYO helpline kept me on hold for over 30 minutes so I had to disconnect.\nThis is not a way to get customers OYO team ,",
+      "the picture shows this property is in front of max hospital, but when I went there, I found the area very awful, with the 850inr /night range , the area and locality was extremely pathetic, there were no proper roads to connect hotel from main road, atleast not in Google map, I am sure you will feel extremely disgusting with the area, price, behaviour. my suggestion if you are with partner the don't go there",
+      "\"The hotel service was not good, and the employees were not trained according to hotel policy. The employee's behavior was very poor; he spoke disrespectfully to the customer. The room did not have water or soap. I informed the staff about this problem, but they ignored it and took no action. When I brought it to their attention again, they responded rudely.\"\n\nOr, if you'd like to maintain a more formal tone:\n\n\"I was dissatisfied with the hotel service, as the employees did not seem to be trained in accordance with hotel policies. One employee, in particular, was rude and disrespectful. The room was also lacking essential amenities, such as water and soap. Despite informing the staff about these issues, no action was taken. When I followed up, the staff responded in an unprofessional manner.\"\nRegards\nRajendra mourya"
+    ]
+  },
+  "review_summary": "Based on 5 reviews.",
+  "positive_themes": {
+    "friendly_staff": 1
+  },
+  "negative_themes": {
+    "rude_staff": 1
+  }
+}

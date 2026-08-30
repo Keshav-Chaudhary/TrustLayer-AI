@@ -1,0 +1,48 @@
+{
+  "hotel_id": "ChIJRUCw2qIFDTkR48WVAJkMcjM",
+  "hotel_name": "Hotel O By Oyo S J Residency",
+  "area": "Uttam Nagar",
+  "budget_category": "Budget",
+  "rating": 2.3,
+  "trust_score": 0.2373548756579888,
+  "travel_purpose_tags": [
+    "Budget"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "moderate",
+    "review_count": 5,
+    "positive_snippet_count": 0,
+    "negative_snippet_count": 3,
+    "positive_theme_count": 3,
+    "negative_theme_count": 1
+  },
+  "aspect_scores": {
+    "cleanliness": 0.0005421731815051,
+    "service": 0.0006876957195344,
+    "location": 0.0005318667390383,
+    "value_for_money": 0.0002579090360086,
+    "staff_behavior": 0.0003276936574062
+  },
+  "recommendation_features": {
+    "popularity_score": 0.3678205412025655,
+    "rating_score": 2.3,
+    "sentiment_score": 0.0004774767730849
+  },
+  "review_evidence": {
+    "positive_snippets": [],
+    "negative_snippets": [
+      "Please, if you're a family member or a single women, it's a request, do not stay because there's no safety even the hotel rooms, service, sanitary, Safety etc are Zero.., Even the first floor starts with number 200 isn't so good because you won't feel safe, even the alcohol smells exist in whole floor and hotel manager just say 'Abhi aaraha hoon' but he never comes and checks his guests problems even there's no safety because at midnight, someone will come and knock intensionally sometimes for charger or something. I stayed in hotel room no. 301 but I really had a bad experience because when I was sleeping in my room with my family, someone at midnight knocked my hotel room intensionally even day before yesterday at midnight, someone tried to open our hotel room even if it's locked, someone tried to barge in even I informed about this to hotel manager, yesterday, he didn't picked my call and day before yesterday, he just said 'abhi aa raha hoon'.\nSo please, if you're a family member or anyone, please do not stay because staff doesn't take responsibility of any female guest's safety because I said 1 day 2 nights at this hotel and overall, my experience was worst and horrible so I decided, not to visit at this hotel or stay here ever in my whole life..",
+      "They are fraud. I booked through OYO and the manager asked me additional money. I showed them that I payed through OYO but the manager gave me an excuse where can you find the rooms at this low price. So I need to pay extra otherwise they can't provide the room. Worst thing. They are just bothering customers. Fraudulent..",
+      "Very worst experience,  I never come again , staff behave rudly.. uncleaned room , damaged electric sockets, uncleaned washroom, water not coming in 305 room,\nBill ki bat hone k bad billl not provided by staff..."
+    ]
+  },
+  "review_summary": "Based on 5 reviews.",
+  "positive_themes": {
+    "friendly_staff": 2,
+    "clean_rooms": 2,
+    "good_location": 1
+  },
+  "negative_themes": {
+    "dirty_rooms": 4
+  }
+}

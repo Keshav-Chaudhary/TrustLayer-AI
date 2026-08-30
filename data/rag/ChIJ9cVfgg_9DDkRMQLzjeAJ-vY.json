@@ -1,0 +1,51 @@
+{
+  "hotel_id": "ChIJ9cVfgg_9DDkRMQLzjeAJ-vY",
+  "hotel_name": "Hotel O 83167 Golden Key Inn",
+  "area": "Kamla Nagar",
+  "budget_category": "Budget",
+  "rating": 3.8,
+  "trust_score": 0.5087260476018243,
+  "travel_purpose_tags": [
+    "Budget"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "moderate",
+    "review_count": 5,
+    "positive_snippet_count": 1,
+    "negative_snippet_count": 3,
+    "positive_theme_count": 3,
+    "negative_theme_count": 2
+  },
+  "aspect_scores": {
+    "cleanliness": 0.000884995155502,
+    "service": 0.3320107704688174,
+    "location": 0.000191116152564,
+    "value_for_money": 0.5,
+    "staff_behavior": 0.331680339431235
+  },
+  "recommendation_features": {
+    "popularity_score": 0.4079220425584051,
+    "rating_score": 3.8,
+    "sentiment_score": 0.1993225552316289
+  },
+  "review_evidence": {
+    "positive_snippets": [
+      "Hotel service best staff behaviour\nSafe hotel good quality rooms\n\ud83d\ude0d"
+    ],
+    "negative_snippets": [
+      "Room had black marks all over, washroom didnot have closing lid, wash basin was dirty, washroom was dirty, one switch was not working. The hotel itself is on 1st floor and stair case way is closed, they don't give toothpaste. They did provide one water bottle but it was not sealed so that was pretty sad and unsafe. Only way to go up and down is using the lift. First floor is reception. The blanket was coming out of its cover because cover's chain was broken. Coming to the good things, they did send soap after I requested it. The room was pretty bad though, wouldn't recommend it for anyone as it didnot seem hygienic.",
+      "Warning \u26a0\ufe0f:\n\nDon't ever book this hotel, actually don't even think to go there at all...\n\nThe experience was horrible...  I was there with my mother, and the behaviour of the staffs were so bad and rude towards us.... First, they charged extra 1000 rs. Which is more than their 1 day room booking charges (according to online website), even after we booked everything online by their website, as we reached some hours before the actual check-in time in the morning.... Then, they literally were ignoring the online booking and lastly, even forced us to check out early from hotel... When we told them to wait for atleast 10 mins as well were waiting for our booked car, they were arguing and saying they don't take bookings online, their room charges are 1500 rs, which is totally fake and wrong information. They even took the lock & key of the room from us 1 day prior our check-out day..... I really don't know what they were thinking and why they behaved like that...\n\nI won't recommend this hotel to anybody for check-in at all.",
+      "Worst experience ever....this oyo was pre booked on application but there were no payment confirmation after check- in in this hotel . It was a complete scam in the hotel . They will ask you to charge more than the already decided amount. Disgusting \ud83e\udd22 hotel ever...the room needs to be cleaned fully.... bedsheet was dirty washroom was not cleaned properly...there was a very bad smell in the whole room alloted.\nAlso I was supposed to get the room for 24 hours but they just don't let me stay there for my decided time and asked me to check out earlier.\nThe staff is highly unprofessional and there is scam in everything whether it is the charges or the not so connection with the application.\nI think APP is just to call the customers after this they Let you follow their rules .\nThey will not provide you anything. Even the complimentary water is not to the mark .\nI request the authority to look after these things. The employees are trying to get their personal advantages from the stay.\nI WOULD RATE NEGATIVE"
+    ]
+  },
+  "review_summary": "Based on 5 reviews.",
+  "positive_themes": {
+    "friendly_staff": 3,
+    "clean_rooms": 1,
+    "good_location": 1
+  },
+  "negative_themes": {
+    "dirty_rooms": 2,
+    "rude_staff": 2
+  }
+}

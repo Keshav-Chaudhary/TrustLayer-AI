@@ -1,0 +1,52 @@
+{
+  "hotel_id": "ChIJLc--96LnDDkRcxUjrcGUL18",
+  "hotel_name": "Via Galaxy Ii",
+  "area": "Sector 34",
+  "budget_category": "Mid-Range",
+  "rating": 4.1,
+  "trust_score": 0.6275801960127653,
+  "travel_purpose_tags": [
+    "Budget"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "rich",
+    "review_count": 5,
+    "positive_snippet_count": 3,
+    "negative_snippet_count": 2,
+    "positive_theme_count": 3,
+    "negative_theme_count": 2
+  },
+  "aspect_scores": {
+    "cleanliness": 0.4636839071754366,
+    "service": 0.5,
+    "location": 0.6586403995752335,
+    "value_for_money": 0.1596338460803962,
+    "staff_behavior": 0.4636839071754366
+  },
+  "recommendation_features": {
+    "popularity_score": 0.3826804816987014,
+    "rating_score": 4.1,
+    "sentiment_score": 0.4636839071754366
+  },
+  "review_evidence": {
+    "positive_snippets": [
+      "I have stayed 2 nights because of my family relocation purpose.\nThe hotel is clean and well maintained. The staff is a little rude but you have to deal with the same as low budget hotels.\n\nThe receptionist was nice to us and helped us for our stay. You can find a restaurant, market, banks just below the hotel.",
+      "We had stayed there for 4 days and I must stay that was very comfortable. Room was clean and specious. Hotel staff was polite and supportive.Receptionist Preeti was very helpful and cooperative. This is became my fix place if I come Faridabad again for my another medical things",
+      "Nice hotel for stay, and located at the main market. Rooms are clean and staff was also cooperative. Must recommend to others for comfortably stay at best prices."
+    ],
+    "negative_snippets": [
+      "Do not go by the photos posted by hotel and Fab Hotel. It's old and edited photos. Very dirty room... Walls are very very very bad.. Washroom Focet not working. Very  Claustrophobic rooms. Only good things bed sheets were more or less clean, and one boy who was helpful, that's why survived for a night. Sry, haven't taken any photo... But beleive my words, it's dirty. Given 2 star because of Price I paid arround 1300. Else it's 1 \u2b50",
+      "DO NOT BOOK THIS FILTHY HOTEL EVERR!!! I WASTED MY ONE THOUSAND THERE!!!\n\nRoom filled with bed bugs, broken and dirty walls, dirty pillow, rude staff, weird lighting, poor hygiene. Had to run after an hour, could not stay because of the dirtiness."
+    ]
+  },
+  "review_summary": "Based on 5 reviews.",
+  "positive_themes": {
+    "clean_rooms": 4,
+    "friendly_staff": 5,
+    "good_location": 1
+  },
+  "negative_themes": {
+    "rude_staff": 2,
+    "dirty_rooms": 2
+  }
+}

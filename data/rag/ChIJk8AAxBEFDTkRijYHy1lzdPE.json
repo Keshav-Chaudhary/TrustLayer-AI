@@ -1,0 +1,52 @@
+{
+  "hotel_id": "ChIJk8AAxBEFDTkRijYHy1lzdPE",
+  "hotel_name": "Oyo Silverkey",
+  "area": "Nawada",
+  "budget_category": "Budget",
+  "rating": 3.1,
+  "trust_score": 0.5385011543172745,
+  "travel_purpose_tags": [
+    "Budget"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "moderate",
+    "review_count": 5,
+    "positive_snippet_count": 2,
+    "negative_snippet_count": 3,
+    "positive_theme_count": 4,
+    "negative_theme_count": 1
+  },
+  "aspect_scores": {
+    "cleanliness": 0.3371768143939941,
+    "service": 0.9997898936271667,
+    "location": 0.0003239932411815,
+    "value_for_money": 0.4999246509250951,
+    "staff_behavior": 0.6666337590334782
+  },
+  "recommendation_features": {
+    "popularity_score": 0.3811417720613274,
+    "rating_score": 3.1,
+    "sentiment_score": 0.6021691290836315
+  },
+  "review_evidence": {
+    "positive_snippets": [
+      "SilverKey Executive Stays 45397 Tilak Nagar.. Ultra smooth check-in and took only few minutes. Staff members behavior was good, very professional, polite. It was a comfortable stay. Room was clean, decent and fresh. No disturbance. Food was too good and tasty. Overall experience is absolutely good amazing. I would like to visit again.",
+      "Hygiene was maintained properly. good infrastructure and breakfast also.\nBut they delay for their services.\nAs we ordered our dinner it took 2-2\u00bd hrs"
+    ],
+    "negative_snippets": [
+      "Worst hotel so far that I have visited. Staff is very cheap. Rooms are dirty with no lock and even handles are missing. Rats roam here and there, cockroaches in the washroom. No towel, soap and other accessories are provided. They ask for extra payment even if you book via Oyo customer care or any other platforms. Couples are permitted on an hourly basis. In simple language: Kotha bna rkha hai. Never ever go there. I repent after booking.",
+      "Couple of good things about this Oyo property is its affordable and had nice food.\nDon't expect complementary breakfast to be out of the word. Limited varieties.\nOtherwise whatever is there on the menu, its tastes really good.",
+      "Just okay. Food was good. Rooms are below average. Reception and staff was polite and good"
+    ]
+  },
+  "review_summary": "Based on 5 reviews.",
+  "positive_themes": {
+    "clean_rooms": 1,
+    "friendly_staff": 3,
+    "good_food": 4,
+    "great_value": 2
+  },
+  "negative_themes": {
+    "dirty_rooms": 1
+  }
+}

@@ -1,0 +1,47 @@
+{
+  "hotel_id": "ChIJG-4XjU6pDTkRLwJSSpKCeZo",
+  "hotel_name": "Oyo 82817 Joy Rooms",
+  "area": "DSIIDC Industrial Area",
+  "budget_category": "Budget",
+  "rating": 3.8,
+  "trust_score": 0.5341854775455461,
+  "travel_purpose_tags": [
+    "Budget"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "moderate",
+    "review_count": 5,
+    "positive_snippet_count": 0,
+    "negative_snippet_count": 3,
+    "positive_theme_count": 2,
+    "negative_theme_count": 1
+  },
+  "aspect_scores": {
+    "cleanliness": 0.2505652078980347,
+    "service": 0.0017018286744132,
+    "location": 0.0017018286744132,
+    "value_for_money": 0.0010731196962296,
+    "staff_behavior": 0.5
+  },
+  "recommendation_features": {
+    "popularity_score": 0.5255335993212252,
+    "rating_score": 3.8,
+    "sentiment_score": 0.2007142885704524
+  },
+  "review_evidence": {
+    "positive_snippets": [],
+    "negative_snippets": [
+      "Worst hotel. I have been there and there were condom and bra laying in the washroom when I checked in. There was all over smell in the room.",
+      "I work near this hotel. I see many couples and peoples coming here to stay. I have never been stayed here but I use this hotel's toilet daily which is on Ground Floor. The Toilet/Washroom is very messy and dirty. Water is not available in the washroom and most of the time it's light remains off of Washroom. Although it's my right to use it's Washroom for free according to the law but I don't get this right 100% because of dirty toilet.\n\nI request to Hotel management to provide clean and repaired washroom with water facility in the washroom.",
+      "I usually ride by the road opposite to the hotel. It looks very good from front. This situated around the commercial shopping area. Wine Shop is also available here. Rooms are clean. Try it."
+    ]
+  },
+  "review_summary": "Based on 5 reviews.",
+  "positive_themes": {
+    "clean_rooms": 3,
+    "good_location": 1
+  },
+  "negative_themes": {
+    "dirty_rooms": 2
+  }
+}

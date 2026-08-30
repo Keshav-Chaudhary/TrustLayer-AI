@@ -1,0 +1,48 @@
+{
+  "hotel_id": "ChIJo4rzGLDhDDkRhQ81ZlWwock",
+  "hotel_name": "Mauryan Express Hotel Devli Khanpur",
+  "area": "Khanpur",
+  "budget_category": "Mid-Range",
+  "rating": 4.9,
+  "trust_score": 0.9360875929669512,
+  "travel_purpose_tags": [
+    "Leisure",
+    "Family"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "moderate",
+    "review_count": 5,
+    "positive_snippet_count": 3,
+    "negative_snippet_count": 0,
+    "positive_theme_count": 4,
+    "negative_theme_count": 0
+  },
+  "aspect_scores": {
+    "cleanliness": 0.9997864663600922,
+    "service": 0.5,
+    "location": 0.9998437166213988,
+    "value_for_money": 0.99963907400767,
+    "staff_behavior": 0.9997269630432128
+  },
+  "recommendation_features": {
+    "popularity_score": 0.5290833810527406,
+    "rating_score": 4.9,
+    "sentiment_score": 0.9997269630432128
+  },
+  "review_evidence": {
+    "positive_snippets": [
+      "\u201cThe OYO room was clean, spacious, and well organized. The bed was comfortable and the washroom was hygienic. Staff behavior was polite and supportive. Check-in was smooth and hassle-free. Overall, a pleasant stay with good facilities and value for money.\u201d",
+      "Diamond Residency Khanpur is a great place to stay. The room was clean, comfortable, and well maintained. Staff were polite and helpful throughout the stay. Location is convenient with easy access to nearby areas. Overall, a pleasant experience and good value for money.\u201d",
+      "Mauryan Express Hotel Devli Khanpur is known for offering some of the most budget-friendly room rates in South Delhi, making it a solid choice for travellers seeking affordability without huge compromises. Rooms are typically priced lower than many nearby options, and guests often appreciate the value for money \u2014 especially with basic amenities like Wi-Fi, AC, and housekeeping included. While not a luxury property, its pricing makes it ideal for short stays or budget trips, and many patrons highlight the reasonable cost compared to similar South Delhi hotels"
+    ],
+    "negative_snippets": []
+  },
+  "review_summary": "Based on 5 reviews.",
+  "positive_themes": {
+    "clean_rooms": 3,
+    "friendly_staff": 5,
+    "great_value": 3,
+    "good_location": 2
+  },
+  "negative_themes": {}
+}

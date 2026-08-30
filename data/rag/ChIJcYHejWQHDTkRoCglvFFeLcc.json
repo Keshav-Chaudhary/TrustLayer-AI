@@ -1,0 +1,52 @@
+{
+  "hotel_id": "ChIJcYHejWQHDTkRoCglvFFeLcc",
+  "hotel_name": "Oyo Hotel Rohini Inn Near Rithala Metro Station",
+  "area": "Rohini",
+  "budget_category": "Budget",
+  "rating": 3.2,
+  "trust_score": 0.5056342872559663,
+  "travel_purpose_tags": [
+    "Budget"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "moderate",
+    "review_count": 5,
+    "positive_snippet_count": 2,
+    "negative_snippet_count": 3,
+    "positive_theme_count": 3,
+    "negative_theme_count": 2
+  },
+  "aspect_scores": {
+    "cleanliness": 0.3337185039514831,
+    "service": 0.0007824084750609,
+    "location": 0.3337185039514831,
+    "value_for_money": 0.5,
+    "staff_behavior": 0.0003248149587307
+  },
+  "recommendation_features": {
+    "popularity_score": 0.4670576447267444,
+    "rating_score": 3.2,
+    "sentiment_score": 0.4002080796111841
+  },
+  "review_evidence": {
+    "positive_snippets": [
+      "Room are neat and clean, Services are good and near from rithala metro station.",
+      "You can find the list of hotels in Delhi that allow unmarried couples. All these hotels are very safe and host many couples regularly."
+    ],
+    "negative_snippets": [
+      "Hotel room are not same as pics",
+      "1. Easy to find as it is close to market.\n2. 3 more oyos are very close to this facility.\n3. Service is extremely disappointed, they did n't clean the room properly even I insisted upon that.\n4. Room was dirty and stinky.\n5. I requested for soap and towel 3 times, but they kept saying, we are bringing it to your room which they obviously never did.\n6. I totally advise against booking this premise, where service and professionalism takes the back door exit.",
+      "Worst stay of my life till now. Rooms were not clean and washroom was stinking. Whole corridor was smelling of cigarette and so was the room. Lenin was not clean. Room was near the reception and the staff were playing songs on speaker till midnight and they were shouting and making noise the whole night. Didn't provide any mosquito repellent and there were bugs also in the room. This was not enough for them and their alarm was played on speaker from 6 to 7 in the morning. Couldn't sleep properly and had to leave early. I won't even give it one star."
+    ]
+  },
+  "review_summary": "Based on 5 reviews.",
+  "positive_themes": {
+    "clean_rooms": 3,
+    "good_location": 3,
+    "friendly_staff": 1
+  },
+  "negative_themes": {
+    "dirty_rooms": 2,
+    "noise": 1
+  }
+}

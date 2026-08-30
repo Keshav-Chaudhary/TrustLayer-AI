@@ -1,0 +1,50 @@
+{
+  "hotel_id": "ChIJsfgyfjn_DDkR9NEHIHnv5AY",
+  "hotel_name": "Flagship Hotel Happy Moments",
+  "area": "Wazirabad",
+  "budget_category": "Mid-Range",
+  "rating": 3.4,
+  "trust_score": 0.4858658596379659,
+  "travel_purpose_tags": [
+    "Budget"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "rich",
+    "review_count": 5,
+    "positive_snippet_count": 3,
+    "negative_snippet_count": 2,
+    "positive_theme_count": 2,
+    "negative_theme_count": 1
+  },
+  "aspect_scores": {
+    "cleanliness": 0.0001857974421,
+    "service": 0.5,
+    "location": 0.5,
+    "value_for_money": 0.5,
+    "staff_behavior": 0.5
+  },
+  "recommendation_features": {
+    "popularity_score": 0.2788721589039871,
+    "rating_score": 3.4,
+    "sentiment_score": 0.3803700426906289
+  },
+  "review_evidence": {
+    "positive_snippets": [
+      "Hidden type of hotal",
+      "Best",
+      "Delicious food"
+    ],
+    "negative_snippets": [
+      "Rooms are no where as listed in the Oyo platform.\nThere is no cleanliness of rooms nor washrooms.",
+      "Worst place ....smelly n dirty rooms plus bathroom."
+    ]
+  },
+  "review_summary": "Based on 5 reviews.",
+  "positive_themes": {
+    "good_food": 1,
+    "clean_rooms": 1
+  },
+  "negative_themes": {
+    "dirty_rooms": 1
+  }
+}

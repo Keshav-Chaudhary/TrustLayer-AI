@@ -1,0 +1,52 @@
+{
+  "hotel_id": "ChIJyd-sPQDjDDkRfRiRKD5GJXg",
+  "hotel_name": "Hotel Green Galaxy Green Park South Delhi",
+  "area": "Green Park",
+  "budget_category": "Mid-Range",
+  "rating": 4.8,
+  "trust_score": 0.8725255708954174,
+  "travel_purpose_tags": [
+    "Budget"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "moderate",
+    "review_count": 5,
+    "positive_snippet_count": 3,
+    "negative_snippet_count": 1,
+    "positive_theme_count": 4,
+    "negative_theme_count": 2
+  },
+  "aspect_scores": {
+    "cleanliness": 0.6685340555074314,
+    "service": 0.5,
+    "location": 0.6685340555074314,
+    "value_for_money": 0.998329222202301,
+    "staff_behavior": 0.9998356103897096
+  },
+  "recommendation_features": {
+    "popularity_score": 0.5912027674861633,
+    "rating_score": 4.8,
+    "sentiment_score": 0.800753399822861
+  },
+  "review_evidence": {
+    "positive_snippets": [
+      "I had a wonderful stay at Hotel Green Galaxy. The property is located very conveniently, close to the market with all essential facilities nearby, and it\u2019s at a comfortable walking distance from Green Park Metro Station, which makes commuting very easy.\n\nThe rooms are spacious, neat, and clean, providing a comfortable stay. A special mention to the caretaker, Mr. Rahman, who took excellent care of us, he is extremely humble, kind, and attentive.\n\nThank you to Dinesh and the entire team for a pleasant experience. I would definitely recommend this hotel and would be happy to stay here again.",
+      "Excellent rooms and outstanding staff. Everyone was extremely helpful, especially with assisting us in bringing our luggage to the room. I stayed here for three days while attending a conference at AIIMS New Delhi, and the experience was very comfortable. I would definitely choose to stay here again on my next visit to Delhi. A great place with 24\u00d77 support and hospitality!",
+      "The hotel is a low budget one located in prime area of green park. Plenty of restaurants and cafes nearby for good food. At the property Rehman took care of all my concerns and was also very hospitable. Had a good stay."
+    ],
+    "negative_snippets": [
+      "Pros:\n\n1. Good accessories provided: hair oil , slippers, Two water bottles\n2. Good location. Market outside.\n3. Cleanliness\nCons:\n1. No kettle\n2. Fan regulator is almost hidden\n3. No sound insulation so disturbing noises at night\n4. Yog have to inform them for hot water if taking a bath in evening.\n5. Very meagre flow of water.\n6. There is some sort of smell as well because rooms are closed for long duration.\nVerdict : will prefer a different hotel for next stay."
+    ]
+  },
+  "review_summary": "Based on 5 reviews.",
+  "positive_themes": {
+    "clean_rooms": 3,
+    "good_location": 4,
+    "friendly_staff": 1,
+    "good_food": 1
+  },
+  "negative_themes": {
+    "dirty_rooms": 1,
+    "noise": 1
+  }
+}

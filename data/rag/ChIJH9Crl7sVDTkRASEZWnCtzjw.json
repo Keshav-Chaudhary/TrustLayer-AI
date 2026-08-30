@@ -1,0 +1,50 @@
+{
+  "hotel_id": "ChIJH9Crl7sVDTkRASEZWnCtzjw",
+  "hotel_name": "The Mango Tree - By Shay Hospitality",
+  "area": "Sultanpur",
+  "budget_category": "Mid-Range",
+  "rating": 4.4,
+  "trust_score": 0.7089072389343095,
+  "travel_purpose_tags": [
+    "Leisure"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "rich",
+    "review_count": 5,
+    "positive_snippet_count": 3,
+    "negative_snippet_count": 2,
+    "positive_theme_count": 2,
+    "negative_theme_count": 1
+  },
+  "aspect_scores": {
+    "cleanliness": 0.0002783306699711,
+    "service": 0.0001969811273738,
+    "location": 0.9998679161071776,
+    "value_for_money": 0.0001969811273738,
+    "staff_behavior": 0.5000565112932236
+  },
+  "recommendation_features": {
+    "popularity_score": 0.3730418991973482,
+    "rating_score": 4.4,
+    "sentiment_score": 0.6000191975675989
+  },
+  "review_evidence": {
+    "positive_snippets": [
+      "Stayed here twice and this is the most peaceful getaway. Perfect for summers, along with amazing hospitality!",
+      "If you are looking for a private party place with an overnight stay option near Gurgaon ..look no further. Mango Tree farms is quite conveniently located and  well maintained with beautiful lawns , nice rooms and a great pool. The staff is amazing and Shobhit is a fantastic host . Enjoy !!",
+      "\"I recently stayed at this farmhouse with friends, and it was an absolutely wonderful experience. The hospitality was exceptional, and the hosts were incredibly friendly and welcoming, making us feel right at home. The property itself is beautifully maintained, offering a serene and relaxing atmosphere. It was the perfect getaway to unwind and enjoy quality time with friends. We were impressed by the attention to detail and how every aspect of our stay was taken care of. Highly recommended for anyone looking for a peaceful and memorable retreat!\" Thank you Mr. Singh."
+    ],
+    "negative_snippets": [
+      "If only i could go back to the day i booked this stay.\nI had the worst time here.. no electricity ,no water facility ,clogged drains , broken flush, cobwebs on bed slow service nd a super rude host who says to leave the property if we face any issue even at midnight. They seem so cool once before we book th service but remains so careless .\nThe host even forgets that we have paid him for the booking of a particular day nd makes u stand at the door\u2026totally waste of money.. i would suggest one to be at their own home at the place of choosing this hell hole..",
+      "I had high hopes for this stay but all of it went otherwise only. There was no electricity 80% of the time, the water supply ran out,their power back up was broken, bathroom drainage was blocked.\nThe host is extremely rude\nHe forgot about our booking and then replied to us very rudely.\nEverytime we confronted him with an issue he simply said \u2018 what do you want me to do then,leave if you want to\u2019\nHad a terrible experience"
+    ]
+  },
+  "review_summary": "Based on 5 reviews.",
+  "positive_themes": {
+    "friendly_staff": 2,
+    "good_location": 1
+  },
+  "negative_themes": {
+    "rude_staff": 2
+  }
+}

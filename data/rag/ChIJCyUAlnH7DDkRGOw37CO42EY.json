@@ -1,0 +1,52 @@
+{
+  "hotel_id": "ChIJCyUAlnH7DDkRGOw37CO42EY",
+  "hotel_name": "Hotel Dream Palace",
+  "area": "Shahdara",
+  "budget_category": "Luxury",
+  "rating": 4.2,
+  "trust_score": 0.6913600798328214,
+  "travel_purpose_tags": [
+    "Budget"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "moderate",
+    "review_count": 5,
+    "positive_snippet_count": 2,
+    "negative_snippet_count": 3,
+    "positive_theme_count": 3,
+    "negative_theme_count": 2
+  },
+  "aspect_scores": {
+    "cleanliness": 0.63169093693917,
+    "service": 0.6315142803165751,
+    "location": 0.0014621545560657,
+    "value_for_money": 0.500623163068667,
+    "staff_behavior": 0.9812368750572203
+  },
+  "recommendation_features": {
+    "popularity_score": 0.4523990307935275,
+    "rating_score": 4.2,
+    "sentiment_score": 0.5754483741126023
+  },
+  "review_evidence": {
+    "positive_snippets": [
+      "I always prefer to visit here\nStaff are too good and polite,friendly",
+      "My experience staying at Hotel Dream Palace in Jagatpuri, Delhi was truly exceptional. The rooms were clean and comfortable and I felt safe and secure during my entire stay. The price was also very reasonable for the level of service that I received. I would highly recommend Hotel Dream Palace to anyone looking for a great place to stay."
+    ],
+    "negative_snippets": [
+      "It is a Dharmshala without Tv.\nOne Day Before visiting. I confirmed my service and booked this Dharamshala.\nI visited at 9 am as I informed before visiting.\n1. There is no Area for Parking.\n2. The Receptionist says No Tv in your room but if anybody Leaves we will Shift Your Room \ud83d\ude05 whatt\n3. The Picture You are looking in Reviews All are Fake. The Hotel not Look like this.\n4. All Positive Reviews Are Paid.\n5. I Immediately Leaved the Hotel.\n\nGo and Check Proove me Wrong.",
+      "Actually the service by the working person is Good. I stayed here for 3 days. Rooms are ok. Hot water comes very slowly. There is unbearable bad smell is coming every day on the corridor. This has to be addressed. Otherwise good",
+      "There is a big scam going on now a days.\nOnce you book hotel online and reach the location the property owner will ask you extra money and in case you don\u2019t wish to pay the extra amount they wont allow you to stay.\n\nRecently booked the room in this property and had to pay extra 300 in order to stay.\n\nBlankets and bedsheets were torn and smelly. Room was dirty as hell. Somehow spent the night.\n\nI would strongly suggest you not to book the room here.\n\nAlso don\u2019t make the payment in advance while booking. Go to the property, check everything then book.\n\nThanks"
+    ]
+  },
+  "review_summary": "Based on 5 reviews.",
+  "positive_themes": {
+    "friendly_staff": 1,
+    "clean_rooms": 1,
+    "good_location": 1
+  },
+  "negative_themes": {
+    "parking_issues": 1,
+    "dirty_rooms": 2
+  }
+}

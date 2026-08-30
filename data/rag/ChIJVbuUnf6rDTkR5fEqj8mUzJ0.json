@@ -1,0 +1,46 @@
+{
+  "hotel_id": "ChIJVbuUnf6rDTkR5fEqj8mUzJ0",
+  "hotel_name": "Flagship Sudhir Hotel",
+  "area": "near Kundli",
+  "budget_category": "Mid-Range",
+  "rating": 2.9,
+  "trust_score": 0.297419478683966,
+  "travel_purpose_tags": [
+    "Budget"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "sparse",
+    "review_count": 5,
+    "positive_snippet_count": 1,
+    "negative_snippet_count": 3,
+    "positive_theme_count": 0,
+    "negative_theme_count": 1
+  },
+  "aspect_scores": {
+    "cleanliness": 0.0009101622563321,
+    "service": 0.5,
+    "location": 0.5,
+    "value_for_money": 0.001539300661534,
+    "staff_behavior": 0.5
+  },
+  "recommendation_features": {
+    "popularity_score": 0.2740972756911478,
+    "rating_score": 2.9,
+    "sentiment_score": 0.001224731458933
+  },
+  "review_evidence": {
+    "positive_snippets": [
+      "Excellent"
+    ],
+    "negative_snippets": [
+      "Don't even think of visiting here totally scam ,waste place like sasta bar drunk people everywhere, pathetic smell in room .",
+      "Fraud team. Fraud company , not refunded money nor given room.",
+      "They are doing fraud at all. They ask for extra money while checking in."
+    ]
+  },
+  "review_summary": "Based on 5 reviews.",
+  "positive_themes": {},
+  "negative_themes": {
+    "dirty_rooms": 2
+  }
+}

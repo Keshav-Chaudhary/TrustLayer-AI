@@ -1,0 +1,48 @@
+{
+  "hotel_id": "ChIJjU2t8HIBDTkRxUapQdDtARk",
+  "hotel_name": "Super Hotel O Golden Palace",
+  "area": "Singhu",
+  "budget_category": "Luxury",
+  "rating": 3.8,
+  "trust_score": 0.513073985191716,
+  "travel_purpose_tags": [
+    "Budget"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "moderate",
+    "review_count": 5,
+    "positive_snippet_count": 2,
+    "negative_snippet_count": 3,
+    "positive_theme_count": 2,
+    "negative_theme_count": 0
+  },
+  "aspect_scores": {
+    "cleanliness": 0.9993175268173218,
+    "service": 0.9993175268173218,
+    "location": 0.5,
+    "value_for_money": 0.5,
+    "staff_behavior": 0.0015124329365789
+  },
+  "recommendation_features": {
+    "popularity_score": 0.2387706575481475,
+    "rating_score": 3.8,
+    "sentiment_score": 0.325718218460679
+  },
+  "review_evidence": {
+    "positive_snippets": [
+      "All good",
+      "Clean room\nBest service."
+    ],
+    "negative_snippets": [
+      "Privacy leak krte h staff wale",
+      "Light problem",
+      "Average room"
+    ]
+  },
+  "review_summary": "Based on 5 reviews.",
+  "positive_themes": {
+    "clean_rooms": 1,
+    "friendly_staff": 1
+  },
+  "negative_themes": {}
+}

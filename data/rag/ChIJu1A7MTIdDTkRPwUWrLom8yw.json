@@ -1,0 +1,52 @@
+{
+  "hotel_id": "ChIJu1A7MTIdDTkRPwUWrLom8yw",
+  "hotel_name": "Hotel The Glory I",
+  "area": "Mahipalpur",
+  "budget_category": "Mid-Range",
+  "rating": 4.3,
+  "trust_score": 0.6440579077575078,
+  "travel_purpose_tags": [
+    "Budget"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "moderate",
+    "review_count": 5,
+    "positive_snippet_count": 1,
+    "negative_snippet_count": 3,
+    "positive_theme_count": 4,
+    "negative_theme_count": 2
+  },
+  "aspect_scores": {
+    "cleanliness": 0.3888405797624726,
+    "service": 0.5178679257126835,
+    "location": 0.5008429987938142,
+    "value_for_money": 0.2773599429638124,
+    "staff_behavior": 0.3338183440112818
+  },
+  "recommendation_features": {
+    "popularity_score": 0.5638248947327972,
+    "rating_score": 4.3,
+    "sentiment_score": 0.311234983592294
+  },
+  "review_evidence": {
+    "positive_snippets": [
+      "Thank you for the wonderful stay....\nWe had three rooms kept for business and it was clean, spacious\nAll the staff were very courteous\nLocation was wonderful\nThe reception staff especially Priyanshi were superb in follow up ans making sure our stay was very comfortable.\nThank you."
+    ],
+    "negative_snippets": [
+      "Disappointing stay! I booked this hotel via Booking.com for over 900 rupees, but was shocked to be charged over 1400 rupees upon arrival. The room was a far cry from the pictures and description. I also realized there are plenty of fake reviews on Booking and here... So just avoid the hassle.\n\nThe lighting didn't work, making it hard to sleep, and I was abruptly woken up for breakfast I didn't even order! When I checked out, they tried to charge me for it anyway.\n\nThe room was clean, but you can hear everything from outside.\n\nUnless you're on a super tight budget, I'd recommend looking elsewhere. There are more honest and better options out there.",
+      "Using my name to write a fake review on Booking.com isn't correct guys.\nThe place is ok, not that clean, reception wasn't super welcoming either and price was different that the one I had on Booking.com. I wouldn't recommend for ethical reasons.",
+      "I booked a room at Hotel Glory from the Goibibo app for 3rd to 4th April. The booking clearly mentioned that breakfast and dinner were included. However, upon check-in, the hotel staff was shocked and completely unaware of this. One of the staff members even questioned me repeatedly in an unprofessional and rude manner, saying, \u201cHow is this possible? How did my staff confirm this?\u201d \u2014 as if I was at fault!\n\nDespite showing them the booking proof, I was made to feel uncomfortable and unwelcome. Only after a heated discussion did they reluctantly provide dinner and breakfast \u2014 but the entire experience was embarrassing, stressful, and unprofessional.\n\nThis kind of behavior is completely unacceptable. If you can\u2019t honor the services listed on booking platforms, then don\u2019t advertise them! I strongly advise others to stay away from this hotel if you expect transparent service and respectful behavior."
+    ]
+  },
+  "review_summary": "Based on 5 reviews.",
+  "positive_themes": {
+    "clean_rooms": 3,
+    "friendly_staff": 4,
+    "good_location": 1,
+    "good_food": 2
+  },
+  "negative_themes": {
+    "rude_staff": 1,
+    "dirty_rooms": 1
+  }
+}

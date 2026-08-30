@@ -1,0 +1,46 @@
+{
+  "hotel_id": "ChIJg6ULUdEjDTkRnQiTUDS_J9s",
+  "hotel_name": "Ahuja Residency Mayfield Garden",
+  "area": "Sector 51",
+  "budget_category": "Mid-Range",
+  "rating": 4.8,
+  "trust_score": 0.9240760246488152,
+  "travel_purpose_tags": [
+    "Business"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "moderate",
+    "review_count": 5,
+    "positive_snippet_count": 3,
+    "negative_snippet_count": 0,
+    "positive_theme_count": 3,
+    "negative_theme_count": 0
+  },
+  "aspect_scores": {
+    "cleanliness": 0.999849498271942,
+    "service": 0.9998526573181152,
+    "location": 0.5,
+    "value_for_money": 0.5,
+    "staff_behavior": 0.999863624572754
+  },
+  "recommendation_features": {
+    "popularity_score": 0.5349129838447931,
+    "rating_score": 4.8,
+    "sentiment_score": 0.9998584508895874
+  },
+  "review_evidence": {
+    "positive_snippets": [
+      "I had a very pleasant stay at Mayfield Garden Ahuja Residency. The hotel is very comfortable, clean, and well maintained. The rooms are neat, spacious, and provide a relaxing environment after a long day.\nI would especially like to appreciate Mr. Dinesh Roy, Ms. Nitika, and the entire hotel staff for their excellent hospitality. They were always polite, helpful, and very attentive to every request. Their professionalism and warm attitude truly made my stay smooth and comfortable.\nThe service was prompt, the atmosphere was peaceful, and the staff made sure that every guest feels welcome and well taken care of. It was truly a wonderful experience staying here.\nI would definitely recommend this hotel to anyone visiting Goregaon and look forward to staying here again in the future. \ud83d\ude0a",
+      "Wow, I had an amazing experience at Ahuja Residency Mayfield Hotel.\nThe staff is really nice and supportive. Since I mostly stay away from my home, their food truly made me feel like I was at home.\nThe cleaning staff, security staff, and reception team were all very cooperative, kind, and helpful.\nEspecially, I loved the food. A special thanks to Chef Divesh, Chef Haneet, and Chef Shiver and the supporting staff Mr. Aryan, Mr. Mahipal, and Mr. Harish. Thank you for always smiling and serving. and treating your guests like family.\nOverall, I had a wonderful experience at Hotel Ahuja Residency Mayfield.\nKeep it up!\n\u2b50\u2b50\u2b50\u2b50\u2b50",
+      "My 15-day stay at Ahuja Residency was truly wonderful and made me feel completely at home.\nThe hotel staff- Harish, Aryan and Mahipal were extremely respectful, supportive, and genuinely caring throughout my stay. Their warmth and attentiveness made a big difference in my overall experience.\nA special mention goes to the kindest chef I\u2019ve ever met-Chef Dinesh. He went above and beyond to ensure I felt comfortable and well taken care of. He even stepped outside the regular menu to prepare dishes I loved, moong dal chilla and suji chilla quickly became my favourite breakfasts. And the desserts\u2026 absolutely unforgettable! The custard and gajar ka halwa were simply delicious.\nWhat stood out the most was his thoughtful gesture of personally serving freshly prepared, warm food and ensuring everything was just right. These small but meaningful touches truly made the stay feel homely.\nOverall, it was a fantastic experience, and I would highly recommend Ahuja Residency to anyone looking for a comfortable stay with genuinely caring service."
+    ],
+    "negative_snippets": []
+  },
+  "review_summary": "Based on 5 reviews.",
+  "positive_themes": {
+    "clean_rooms": 2,
+    "friendly_staff": 5,
+    "good_food": 4
+  },
+  "negative_themes": {}
+}

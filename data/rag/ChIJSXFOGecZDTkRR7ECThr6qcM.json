@@ -1,0 +1,51 @@
+{
+  "hotel_id": "ChIJSXFOGecZDTkRR7ECThr6qcM",
+  "hotel_name": "The Florence Hotel Near Artemis Hospital",
+  "area": "Sector 46",
+  "budget_category": "Mid-Range",
+  "rating": 4.6,
+  "trust_score": 0.6614837448460898,
+  "travel_purpose_tags": [
+    "Budget"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "moderate",
+    "review_count": 5,
+    "positive_snippet_count": 2,
+    "negative_snippet_count": 3,
+    "positive_theme_count": 3,
+    "negative_theme_count": 1
+  },
+  "aspect_scores": {
+    "cleanliness": 0.0004433725844136,
+    "service": 0.5001112666941481,
+    "location": 0.5,
+    "value_for_money": 0.5,
+    "staff_behavior": 0.2502773196392809
+  },
+  "recommendation_features": {
+    "popularity_score": 0.4559389939601579,
+    "rating_score": 4.6,
+    "sentiment_score": 0.312778050970519
+  },
+  "review_evidence": {
+    "positive_snippets": [
+      "Hotel florence is a must stay place and ankit is the receptionist he is extremely helpful and polite, the service is commendable. Genuinely i loved the food and the services here. Do visit it for your long stays.",
+      "The overall experience was good. The assistants working were hospitable. The rooms have AC, TV and basic hot water boiler with one time coffee tea packages. However, providing services like timely replacement of soap, shampoo, tissue were not done unless requested. Cleaning of the room happened only once over my 6nights stay. If these are improved, the experience would be better"
+    ],
+    "negative_snippets": [
+      "The staff is very unprofessional and argues. Even after doing the booking in advance they said there is no booking confirmation. He took Rs.200 for early check in and was asking to send it to his own account. Rooms were not clean and the staff is not at all helpful. Complimentary breakfast was not served and told outside food is not allowed but they were allowing it for other guests. I recommend avoid booking at this hotel.",
+      "As all reviews have same patterns, so it is been written by owner. Worse hotel ever, never give us key of room, just open room and then told us that we have cctv camara so everything is safe. Worst hygiene. Staff don\u2019t know how to talk to customers. I will give negative starts if I had options. Rude staff and many customers were fighting with receptionist.",
+      "The hotel is decent enough but the service is very bad. Even for the smallest request it takes them 50mins. The worst is the laundry, it took them 3 days to find my lost laundry. The staff is unprofessional. If you just need the room for a night\u2019s sleep then i would refer this hotel"
+    ]
+  },
+  "review_summary": "Based on 5 reviews.",
+  "positive_themes": {
+    "friendly_staff": 4,
+    "good_food": 2,
+    "clean_rooms": 2
+  },
+  "negative_themes": {
+    "rude_staff": 3
+  }
+}

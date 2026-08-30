@@ -1,0 +1,53 @@
+{
+  "hotel_id": "ChIJGQWAe4kFDTkR2wBH2a60Dt4",
+  "hotel_name": "Fabhotel Asp Royal Residency Inn",
+  "area": "New Delhi",
+  "budget_category": "Budget",
+  "rating": 3.9,
+  "trust_score": 0.6019212981294555,
+  "travel_purpose_tags": [
+    "Leisure"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "moderate",
+    "review_count": 5,
+    "positive_snippet_count": 2,
+    "negative_snippet_count": 3,
+    "positive_theme_count": 4,
+    "negative_theme_count": 2
+  },
+  "aspect_scores": {
+    "cleanliness": 0.0004053212469443,
+    "service": 0.0004053212469443,
+    "location": 0.9997196793556212,
+    "value_for_money": 0.0004053212469443,
+    "staff_behavior": 0.5000625003012827
+  },
+  "recommendation_features": {
+    "popularity_score": 0.4813193912566148,
+    "rating_score": 3.9,
+    "sentiment_score": 0.4008333220088388
+  },
+  "review_evidence": {
+    "positive_snippets": [
+      "Our stay at FabHotels was good. The room was neat, services were satisfactory, and the staff was helpful whenever needed. The location was convenient as well. A decent option for a comfortable and hassle-free stay.",
+      "Everything was good. Please visit. I love to stay again."
+    ],
+    "negative_snippets": [
+      "OVERALL DOWN GRADE EXPERIENCE OF STAY.\n\n* B.FAST INCLUDED IN STAY WAS NOT GIVEN PROPERLY ONLY BREAD & OMELETTE.\n* CANT EVEN SERVE WATER BOTTLE.\n* BOOKING AMOUNT WAS HIGHER ON BOOKING.COM COMPARED TO UPFRONT HOTEL TARIFFS.",
+      "Pathetic. Not gonna recommend to anyone. Looks like an OYO hotel rebranded to Fabhotels. Not recommended for family stay even chools are better than that",
+      "Hi fab hotel management\n\nThe experience with this hotel is absolutely disappointing. No toiletries, bathroom slippers, ac remote\u00a0 control, hangers, space for hanging clothes etc basic things are missing. AC is tooooo noisy. No intercom facility. The staff is not only unprofessional but also rude. The breakfast served was third class like very bad tea, very oily paratha, bad quality pickle and very little curd\n\nI am not in position to say even a good word for this hotel.\n\nI will never stay again and not recommend anyone either for fab hotels.\n\nI would say to refund my full money charged by you."
+    ]
+  },
+  "review_summary": "Based on 5 reviews.",
+  "positive_themes": {
+    "clean_rooms": 1,
+    "friendly_staff": 2,
+    "good_location": 1,
+    "good_food": 1
+  },
+  "negative_themes": {
+    "rude_staff": 1,
+    "noise": 1
+  }
+}

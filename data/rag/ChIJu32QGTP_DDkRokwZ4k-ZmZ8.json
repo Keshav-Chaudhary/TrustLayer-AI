@@ -1,0 +1,51 @@
+{
+  "hotel_id": "ChIJu32QGTP_DDkRokwZ4k-ZmZ8",
+  "hotel_name": "Super Hotel O Sunlight",
+  "area": "New Delhi",
+  "budget_category": "Mid-Range",
+  "rating": 3.5,
+  "trust_score": 0.5007496737655895,
+  "travel_purpose_tags": [
+    "Leisure"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "moderate",
+    "review_count": 5,
+    "positive_snippet_count": 2,
+    "negative_snippet_count": 3,
+    "positive_theme_count": 3,
+    "negative_theme_count": 1
+  },
+  "aspect_scores": {
+    "cleanliness": 0.0031868588994257,
+    "service": 0.5,
+    "location": 0.9360678791999816,
+    "value_for_money": 0.5,
+    "staff_behavior": 0.314147198999611
+  },
+  "recommendation_features": {
+    "popularity_score": 0.3856836393487762,
+    "rating_score": 3.5,
+    "sentiment_score": 0.314147198999611
+  },
+  "review_evidence": {
+    "positive_snippets": [
+      "Good hotel",
+      "Nice hotel"
+    ],
+    "negative_snippets": [
+      "Worst rooms. The rooms cannot be locked. Lock was not able to do action. Washroom was small. Cleanliness is zero. Hotel staff manner is bad.",
+      "First of all the hotel name is sunlight not moon light due to which i was finding the hotel for 30 min also the location is wrong in Google maps and there mobile no which was in oyo app is also unreachable all times new no. Is shown in the pic  i had uploaded. Otherwise the room is good and the staff is good l.  Recommended for bachelor boys not for girls and family.",
+      "Mr Atul is nice person but the staff is rude they denied checking but latter after they allowed but the name is now sunlight I was searching for moonlight for more then 40 mins as they didn't answer the calls and when I reached the property they denied checking saying rooms are full. Later I was allowed but the condition of bathroom is horrible u can check the pics."
+    ]
+  },
+  "review_summary": "Based on 5 reviews.",
+  "positive_themes": {
+    "clean_rooms": 1,
+    "friendly_staff": 3,
+    "good_location": 1
+  },
+  "negative_themes": {
+    "rude_staff": 1
+  }
+}

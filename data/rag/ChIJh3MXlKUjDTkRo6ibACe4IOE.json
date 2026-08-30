@@ -1,0 +1,51 @@
+{
+  "hotel_id": "ChIJh3MXlKUjDTkRo6ibACe4IOE",
+  "hotel_name": "Sands Inn Gh",
+  "area": "Sector 56",
+  "budget_category": "Budget",
+  "rating": 3.4,
+  "trust_score": 0.3775074944567797,
+  "travel_purpose_tags": [
+    "Budget"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "moderate",
+    "review_count": 5,
+    "positive_snippet_count": 0,
+    "negative_snippet_count": 3,
+    "positive_theme_count": 4,
+    "negative_theme_count": 3
+  },
+  "aspect_scores": {
+    "cleanliness": 0.0005997306434437,
+    "service": 0.0002431992325,
+    "location": 0.0014810555148869,
+    "value_for_money": 0.0011271676194155,
+    "staff_behavior": 0.0005997306434437
+  },
+  "recommendation_features": {
+    "popularity_score": 0.3386222175183568,
+    "rating_score": 3.4,
+    "sentiment_score": 0.0009007614396977
+  },
+  "review_evidence": {
+    "positive_snippets": [],
+    "negative_snippets": [
+      "Disappointing Experience\n\nI recently stayed in this accommodation and was disappointed with the overall quality. The rooms are compact and lack proper maintenance. Unfortunately, the fridge and AC were not functioning during my stay.\n\nThe room's furnishings, including the door, cupboard, and bed, were of poor quality. The washroom was also not clean.\n\nAdditionally, there are no nearby amenities, such as tea or food stalls.\n\nBased on my experience, I would advise others to explore alternative opti\nons for accommodation.\n\nPlease note that I've removed some of the more confrontational language to make the review more constructive and helpful.",
+      "The service is awful and pathetic. I had booked 5 rooms for my in-laws to stay as it was nearby my place. The staff there is ill-mannered. Rooms are extremely dirty. I cancelled my booking and took my guests elsewhere.",
+      "Waste of money. Very very bad experience i had. Receptionist is unprofessional. Its like dharmsala. I think dharamsala is better then this hotel. No amenities was there wifi speed was 2G sometimes is get disconnected. Water bottle was a local brand which was not sealed packed. No soaps shampoo was there in wash rooms, no hot water, tv was not in working condition. I had a very very bad experience with this hotel."
+    ]
+  },
+  "review_summary": "Based on 5 reviews.",
+  "positive_themes": {
+    "clean_rooms": 1,
+    "friendly_staff": 2,
+    "good_location": 2,
+    "good_food": 2
+  },
+  "negative_themes": {
+    "dirty_rooms": 2,
+    "rude_staff": 1,
+    "noise": 1
+  }
+}

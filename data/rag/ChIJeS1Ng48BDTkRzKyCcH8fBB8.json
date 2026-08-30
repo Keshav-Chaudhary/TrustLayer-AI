@@ -1,0 +1,47 @@
+{
+  "hotel_id": "ChIJeS1Ng48BDTkRzKyCcH8fBB8",
+  "hotel_name": "Hotel O Impression 2 Guest House",
+  "area": "Burari",
+  "budget_category": "Mid-Range",
+  "rating": 3.7,
+  "trust_score": 0.4902854995755466,
+  "travel_purpose_tags": [
+    "Budget"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "moderate",
+    "review_count": 3,
+    "positive_snippet_count": 1,
+    "negative_snippet_count": 2,
+    "positive_theme_count": 3,
+    "negative_theme_count": 0
+  },
+  "aspect_scores": {
+    "cleanliness": 0.9997674822807312,
+    "service": 0.0017102747224271,
+    "location": 0.5,
+    "value_for_money": 0.5007068956037983,
+    "staff_behavior": 0.5007388785015792
+  },
+  "recommendation_features": {
+    "popularity_score": 0.1811444130340956,
+    "rating_score": 3.7,
+    "sentiment_score": 0.3343746886433412
+  },
+  "review_evidence": {
+    "positive_snippets": [
+      "Good experience, staff's behaviour is good and room is neat and clean. Value of money"
+    ],
+    "negative_snippets": [
+      "Cleanliness not good\nWall damage ac not working price too high I don't recommend any one to come here seriously wasting of money",
+      "Staffs are lacks of knowledge how to behaves the customers.. I told with the manager and he said one room and we can not give the seperate towel to anyone. This is my last visit and do not reply from the management because I am not come again with my friends and colleagues again.. harsh experience with us"
+    ]
+  },
+  "review_summary": "Based on 3 reviews.",
+  "positive_themes": {
+    "clean_rooms": 2,
+    "friendly_staff": 2,
+    "great_value": 1
+  },
+  "negative_themes": {}
+}

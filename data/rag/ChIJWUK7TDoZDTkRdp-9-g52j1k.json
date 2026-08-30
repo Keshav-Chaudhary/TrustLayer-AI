@@ -1,0 +1,53 @@
+{
+  "hotel_id": "ChIJWUK7TDoZDTkRdp-9-g52j1k",
+  "hotel_name": "Hotel Windsor Castle",
+  "area": "Gurugram",
+  "budget_category": "Mid-Range",
+  "rating": 3.9,
+  "trust_score": 0.7423040459028766,
+  "travel_purpose_tags": [
+    "Leisure",
+    "Business",
+    "Family"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "rich",
+    "review_count": 5,
+    "positive_snippet_count": 3,
+    "negative_snippet_count": 2,
+    "positive_theme_count": 5,
+    "negative_theme_count": 0
+  },
+  "aspect_scores": {
+    "cleanliness": 0.9870357513427734,
+    "service": 0.9870357513427734,
+    "location": 0.9543734788894652,
+    "value_for_money": 0.9771139621734618,
+    "staff_behavior": 0.7437091712054098
+  },
+  "recommendation_features": {
+    "popularity_score": 0.5638248947327972,
+    "rating_score": 3.9,
+    "sentiment_score": 0.7858420327422209
+  },
+  "review_evidence": {
+    "positive_snippets": [
+      "Good staff\nComplementary breakfast with multi choices. Provides heater too...but had to ask for what we want no issues..\nEveryday room Service is very neat n  clean..\nOnly thing is no lift/ elevator available\nHad a great experience here.",
+      "very nice hotel\nGreat place to stay\nI experienced an amazing peaceful\nStay at the property and the room size\nVery helpful staff and very nice loctions",
+      "The place is affordable, clean, best service and cooperative staff as well as good food. Highly recommended."
+    ],
+    "negative_snippets": [
+      "Hotel and room was fine provided that you are capable enough to climb more than 67 stairs. Key points: 3 electric switches and sockets were not working, landline was not working even after complaining 4 times. The worst part was no phone network in my room no 204 and staff said \u201cMonkey ne wire kat di\u201d when I asked for wifi. Bedsheet was stained with many spots(you know what kind of spots in hotels) which they changed on my request. Es sbko ignore krr to staff bhot chindichor. Pick krte time they helped with luggage but check out ke bad paise mangte hain room se luggage niklwane ke liye bhi. Breakfast ki plates or cups b 2din tk nhi uthane aaye kafi bar kehne pr bhi, chai staff se table pr fail gyi na usey saaf krwaya, services is very bad sunnate hi nhi h bilkul or network bekar se vjh se bar bar upar aa aa k kehna b bhut dikat aayi hamein. Basement m room tha hmara. Achi bhali trip k experience ko stay ne irritating bna diya.",
+      "Rooms are expensive and food too, its not for Tourist who want to explore city or near by for week, even expensive for middle man"
+    ]
+  },
+  "review_summary": "Based on 5 reviews.",
+  "positive_themes": {
+    "clean_rooms": 2,
+    "friendly_staff": 4,
+    "good_food": 4,
+    "great_value": 1,
+    "good_location": 1
+  },
+  "negative_themes": {}
+}

@@ -1,0 +1,40 @@
+{
+  "hotel_id": "ChIJPbBju7WrDTkR4JTqvSWdJZc",
+  "hotel_name": "Oyo 83012 Raj Guest House",
+  "area": "Narela",
+  "budget_category": "Budget",
+  "rating": 4.2,
+  "trust_score": 0.5091923114842068,
+  "travel_purpose_tags": [
+    "Budget"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "sparse",
+    "review_count": 1,
+    "positive_snippet_count": 1,
+    "negative_snippet_count": 0,
+    "positive_theme_count": 0,
+    "negative_theme_count": 0
+  },
+  "aspect_scores": {
+    "cleanliness": 0.5,
+    "service": 0.5,
+    "location": 0.5,
+    "value_for_money": 0.1853024214506149,
+    "staff_behavior": 0.5
+  },
+  "recommendation_features": {
+    "popularity_score": 0.1811444130340956,
+    "rating_score": 4.2,
+    "sentiment_score": 0.1853024214506149
+  },
+  "review_evidence": {
+    "positive_snippets": [
+      "What's the price of one day and night stay"
+    ],
+    "negative_snippets": []
+  },
+  "review_summary": "Based on 1 reviews.",
+  "positive_themes": {},
+  "negative_themes": {}
+}

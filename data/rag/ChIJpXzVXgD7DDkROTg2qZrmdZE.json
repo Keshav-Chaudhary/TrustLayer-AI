@@ -1,0 +1,52 @@
+{
+  "hotel_id": "ChIJpXzVXgD7DDkROTg2qZrmdZE",
+  "hotel_name": "Hotel Grand Arcasia Dilshad Garden",
+  "area": "New Delhi",
+  "budget_category": "Mid-Range",
+  "rating": 4.6,
+  "trust_score": 0.6213402395221603,
+  "travel_purpose_tags": [
+    "Budget"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "moderate",
+    "review_count": 5,
+    "positive_snippet_count": 1,
+    "negative_snippet_count": 3,
+    "positive_theme_count": 4,
+    "negative_theme_count": 2
+  },
+  "aspect_scores": {
+    "cleanliness": 0.2520029877923661,
+    "service": 0.5001109490694943,
+    "location": 0.5001109490694943,
+    "value_for_money": 0.0013167829019947,
+    "staff_behavior": 0.0039714927843305
+  },
+  "recommendation_features": {
+    "popularity_score": 0.4332363014410051,
+    "rating_score": 4.6,
+    "sentiment_score": 0.2020883212913758
+  },
+  "review_evidence": {
+    "positive_snippets": [
+      "I had a fantastic experience at this hotel. The hospitality was exceptional, the room was spacious and spotless, and the service was prompt. The location is perfect and the food was delicious. Would love to visit again!\u201d"
+    ],
+    "negative_snippets": [
+      "1) No board or anything that says the name of the hotel near the reception. only Oyo Townhouse is writtensl somewhete on top of the building. Cant tell if its a genuine place or shady place.\n\n2) no light in the reception. The front desk seems like a made up place terrible first impression\n\n3) rooms are not clean or well maintained. Saw a cockroach and dirty dishes lying around.\n\n4) only two staff members. Hardly any occupancy. Didnt seem like a popular place.\n\n5) no blankets for winter in the room,.only the summer ac blankets.",
+      "Very bad hotel. I booked hotel for 4 days and it's include breakfast but they don't provide me the breakfast and in the room so much cockroachs are there and the give money or discount for 5 star rating.",
+      "Very bad hotel very dirty washroom,room dust everywhere it's just wastage of money"
+    ]
+  },
+  "review_summary": "Based on 5 reviews.",
+  "positive_themes": {
+    "clean_rooms": 2,
+    "good_location": 2,
+    "good_food": 2,
+    "friendly_staff": 2
+  },
+  "negative_themes": {
+    "dirty_rooms": 3,
+    "rude_staff": 1
+  }
+}

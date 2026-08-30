@@ -1,0 +1,52 @@
+{
+  "hotel_id": "ChIJWT9tW5AdDTkRrVM7VtKZjw8",
+  "hotel_name": "Airport Hotel Royal Inn Igi",
+  "area": "Airport",
+  "budget_category": "Budget",
+  "rating": 4.8,
+  "trust_score": 0.7107259465368608,
+  "travel_purpose_tags": [
+    "Budget"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "moderate",
+    "review_count": 5,
+    "positive_snippet_count": 1,
+    "negative_snippet_count": 3,
+    "positive_theme_count": 5,
+    "negative_theme_count": 1
+  },
+  "aspect_scores": {
+    "cleanliness": 0.9997144341468812,
+    "service": 0.9997144341468812,
+    "location": 0.5004174689529464,
+    "value_for_money": 0.2631566260242834,
+    "staff_behavior": 0.333741245791316
+  },
+  "recommendation_features": {
+    "popularity_score": 0.715716875919074,
+    "rating_score": 4.8,
+    "sentiment_score": 0.2106030607130378
+  },
+  "review_evidence": {
+    "positive_snippets": [
+      "I highly recommend this place as a budget option with an excellent value for money. The reception is open 24/7, and the staff were very helpful. They had no problem arranging a taxi to pick us up from the airport and later take us back for an early morning flight at 3 a.m.\n\nThe rooms are clean. They don\u2019t have windows, but you don\u2019t come here for the views. There is hot water in the shower and large, comfortable beds, which really matters after a long journey.\n\nJust a short walk away there is a small street with a convenience store, basic food options, a local fast-food place and a great sweets shop. It\u2019s not an area you choose for sightseeing, but it\u2019s a very practical and comfortable place to stay before or after a flight.\n\nI\u2019ve stayed in many budget hotels near the airport in Delhi, and considering the very affordable price, this place clearly stands out in a positive way. I will definitely come back."
+    ],
+    "negative_snippets": [
+      "Not Recommended \u2013 Safety and Accessibility Concerns\n\nAvoid this property if possible.\n\nThe hotel is located in a very narrow lane, making it extremely difficult to access by car. In addition, there is no proper on-site parking available. Guests are required to park outside the property, and although the staff mention that the area is covered by cameras, it does not feel adequately secure.\n\nOverall, the property does not appear safe or suitable for families, particularly those traveling with children.\n\nI chose this hotel based on the high volume of mostly positive reviews. However, my experience did not align with those ratings. The reviews did not seem genuine, and the actual condition of the property was disappointing. It felt misleading compared to what was portrayed online.",
+      "Terrible experience. Wanted to book something quick and cheap because my flight was delayed by a day. This place had good reviews on google, so I went ahead with the booking.\n\nFirstly, the place is in a narrow lane making it difficult for cars to drop you at the hotel, especially during day time when the traffic is bad. The rooms are small sized. The windows don\u2019t open. The AC of my room did not work at all. There was no ventillation in the room, I felt suffocated.\n\nFood was good here. In room dining is also quick. If I choose to stay here next time, I\u2019d check the AC and restrooms before taking up the room.",
+      "I wanted to review this hotel and its manager for the poor business practices as well as its poor accommodation. The so-called manager, DISIKA, cannot be described as anything other than a thief. She raises the price of the room once an international guest is checking out to go to the airport, knowing full well that they would be leaving the country and probably don\u2019t have the time to argue the rate change. She initially indicated the room would be 2500 per night for any stay longer than one night but staying only one night would cost 3000 rupees (which also seems unscrupulous). Nonetheless, the poor attendants at the front when checking out called her and she straight up lied about the rate. For 1500 rupees this woman made herself lower than dirt and hence is receiving this negative review. For any guest that is thinking about this place, PLEASE STAY AWAY. As other reviews say, this is a roach infested hotel (yes I killed a baby roach) with dilapidated rooms. I only stayed here because the hotel Foxoso (walking distance) was booked. I stayed two nights and since my flight was in the night I paid for an additional day. The money is not the issue, it\u2019s the lying and cheating by this DISIKA. Please don\u2019t be fooled by the ratings (most like done by their friends and family), this hotel is TRASH. To me 1500 rupees works out to be less than $17 bucks which is not even the cost of my lunch on  a daily basis but the cheating and lying, DISHONESTY is the issue. Be aware potential guests!!"
+    ]
+  },
+  "review_summary": "Based on 5 reviews.",
+  "positive_themes": {
+    "clean_rooms": 1,
+    "friendly_staff": 2,
+    "good_location": 1,
+    "great_value": 2,
+    "good_food": 2
+  },
+  "negative_themes": {
+    "parking_issues": 1
+  }
+}

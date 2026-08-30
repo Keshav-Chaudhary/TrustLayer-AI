@@ -1,0 +1,54 @@
+{
+  "hotel_id": "ChIJm0qIOasjDTkRA453tuikBoQ",
+  "hotel_name": "White Rock Hotel - Sohna Road",
+  "area": "Mohan Nagar",
+  "budget_category": "Mid-Range",
+  "rating": 4.6,
+  "trust_score": 0.8865264216152838,
+  "travel_purpose_tags": [
+    "Leisure",
+    "Business",
+    "Family"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "moderate",
+    "review_count": 5,
+    "positive_snippet_count": 3,
+    "negative_snippet_count": 1,
+    "positive_theme_count": 5,
+    "negative_theme_count": 1
+  },
+  "aspect_scores": {
+    "cleanliness": 0.8331701556841532,
+    "service": 0.7498498558998108,
+    "location": 0.8998123168945312,
+    "value_for_money": 0.8748364001512527,
+    "staff_behavior": 0.8998123168945312
+  },
+  "recommendation_features": {
+    "popularity_score": 0.6334402972092167,
+    "rating_score": 4.6,
+    "sentiment_score": 0.8998123168945312
+  },
+  "review_evidence": {
+    "positive_snippets": [
+      "location, cleanliness, comfortable rooms (bed, space), friendly/helpful staff, great amenities (food, spa, Wi-Fi), and overall value, mentioning specific positive experiences like a seamless late check-in or delicious breakfast to show you're a real guest. Focus on what made your stay special, whether it's the quiet hallways for rest or the mountain views from the balcony, to help future travelers.\nKey Elements to Mention\nLocation: Central, convenient, quiet, near attractions.\nCleanliness: Spotless rooms, fresh sheets, tidy bathrooms.\nStaff/Service: Friendly, attentive, helpful, welcoming, quick check-in/out.\nRoom Comfort: Comfortable bed, good space, decor, blackout curtains, amenities (boiler, safe).\nAmenities: Delicious breakfast, good food, spa, reliable Wi-Fi",
+      "clean, comfortable rooms with great sleep quality, friendly & helpful staff, excellent location for connectivity/shopping, good food, and value for money, though sometimes Wi-Fi or specific amenities can vary. To find one, look for high guest ratings (9.0+) on sites like Booking.com, check reviews for specifics on service (staff names mentioned), cleanliness, and address potential issues like slow Wi-Fi or noisy rooms.\nKey Qualities of Good Hotel Reviews:\nStaff: Friendly, polite, helpful, attentive.\nRooms: Clean, comfortable, spacious, good sleep quality.\nLocation: Convenient, central, close to attractions/transport.\nFood: Great breakfast, delicious options.\nValue: Worth the price.\nAtmosphere: Stylish, beautiful surroundings.\nTips for Choosing a Hotel:\nCheck Ratings: Look for scores above 9.0 on review sites.\nRead Specifics: Focus on recent reviews mentioning staff names, food, or cleanliness.\nNote Cons: Be aware of common complaints like slow Wi-Fi or noise, and see if the hotel addresses them.\nConsider Location: Decide if you need a central spot or a quieter area.\nExample Hotel Review Snippets:\n\"Staff is kind and helpful. The rooms are nicely done and very comfortable to stay in. The sleep quality was excellent.\" (Hotel Marina, Shimla).\n\"Best location in terms of easy connectivity, food, market place and metro station. staff is good, rooms r spacious and tidy.\" (Hotel Good Times, Delhi).\n\"Excellent stay, service and facilities are superb... staff are kind... Clean and comfortable.\" (The Imperial, New Delhi).\nHotel Good Times - Karol Bagh Delhi - Reviews, Photos & Offer\nIt was a very pleasant stay, hotel is very good, staff is polite and professional, food is great. Krish T Replied in 1 day. Dear Guest, \u201cThank you so much for y...\n\nGoibibo\n\nPositive Feedback for a Wonderful Stay - Review of Hotel Marina, ...\nNew Delhi, India ... It was a pleasure staying at this swank new property 5 minutes from the Mall. Car goes right to the hotel and the their valet are happy to ...\n\nTripadvisor\n\nAn example of a great hotel - Review of Excellency Forest Trail, Munnar\n22 Nov 2016 \u2014 Great location, beautiful surrounding atmosphere, great staff. Most friendly and helpful receptionist and staff ever, lovely and great first impressi...\n\nTripadvisor\n\nGuest Reviews and Comments Hotel Ariston Rome\nDanielle Zeegers. We stayed here for 5 nights and we had a pleasant stay. The hotel is near by Termini station and it's a great location to see al the sightseei...\n\nHotel Ariston Roma\n\nExcellent stay, service and facilities are superb - Review of The ...\nTwo words of caution: first, stay above the ground floor if possible. My first room was on the ground floor, and just didn't have as much privacy as I wanted. M...\n\nTripadvisor\n\n10 Best Gurgaon Hotels, India (From $17) - Booking.com's\nGurgaon \u2013 1174 hotels and places to stay * Taj City Centre Gurugram. Sector 40 - 44, Gurgaon. Scored out of 10, guest rating 9.0. 9.0. Wonderful - What previous...\n\nBooking.com\n\n\ud835\udde7\ud835\udddb\ud835\uddd8 \ud835\udfed\ud835\udfec \ud835\uddd5\ud835\uddd8\ud835\udde6\ud835\udde7 Hotels in New Delhi of 2026 (with Prices) - Tripadvisor\n4 Sept 2025 \u2014 Antiques at every corner, I wanted to take so many photos so sweet.. Lovely terrace area . Staff are kind English a little of a struggle for them.. C...\n\nTripadvisor",
+      "We Stayed for a week at White Rock\nNice location. Good Staff. Tasty Food\nGood Rooms and Nice Rooftop View. Safe with family. Infront is BSF CAMP and Beside is Defence Colony So no worries."
+    ],
+    "negative_snippets": [
+      "friendly staff, cleanliness, comfortable/quiet rooms with good amenities (like great views, toiletries, blackout curtains), delicious breakfast, convenient location, and excellent value for money, often mentioning specific positive experiences with staff or features like spas/pools that exceed expectations, creating a \"home away from home\" feel."
+    ]
+  },
+  "review_summary": "Based on 5 reviews.",
+  "positive_themes": {
+    "clean_rooms": 4,
+    "friendly_staff": 5,
+    "good_location": 5,
+    "great_value": 4,
+    "good_food": 5
+  },
+  "negative_themes": {
+    "noise": 1
+  }
+}

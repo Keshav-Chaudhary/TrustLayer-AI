@@ -1,0 +1,11 @@
+{
+  "stage": "27",
+  "primary_question_answer": "PARTIALLY \u2014 DOWNSTREAM POSTGRES INGESTION IS AUTOMATED, BUT THE ORIGINAL SOURCE-TO-CANONICAL PIPELINE IS NOT YET ORCHESTRATED",
+  "downstream_stage26_status": "COMPLETE",
+  "upstream_orchestration_status": "PROPOSED_DESIGN_READY",
+  "postgres_database": "trustlayer_db",
+  "host": "127.0.0.1:5432",
+  "hotels_count": 1661,
+  "embedding_documents_count": 7910,
+  "overall_status": "AUDIT_COMPLETE"
+}

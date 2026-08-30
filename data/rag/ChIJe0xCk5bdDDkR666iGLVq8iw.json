@@ -1,0 +1,51 @@
+{
+  "hotel_id": "ChIJe0xCk5bdDDkR666iGLVq8iw",
+  "hotel_name": "Shree Jee Hotel",
+  "area": "New Industrial Township",
+  "budget_category": "Mid-Range",
+  "rating": 4.7,
+  "trust_score": 0.8689937029080116,
+  "travel_purpose_tags": [
+    "Family"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "moderate",
+    "review_count": 5,
+    "positive_snippet_count": 3,
+    "negative_snippet_count": 1,
+    "positive_theme_count": 4,
+    "negative_theme_count": 1
+  },
+  "aspect_scores": {
+    "cleanliness": 0.9998743534088136,
+    "service": 0.666703768724498,
+    "location": 0.5,
+    "value_for_money": 0.9998836517333984,
+    "staff_behavior": 0.7999738622631412
+  },
+  "recommendation_features": {
+    "popularity_score": 0.6382667680174953,
+    "rating_score": 4.7,
+    "sentiment_score": 0.7999738622631412
+  },
+  "review_evidence": {
+    "positive_snippets": [
+      "Truly impressed with the comfort and hospitality. The room was beautifully maintained, food was delicious, and the staff made us feel at home. Value for money\ud83d\udc4d\ud83d\udc4d\nHighly recommended for both familyand business travelers.",
+      "The staff at Shree Jee Hotel is friendly, professional, and respectful. From check-in to room service, everything was handled smoothly. Their helpful attitude really improves the overall stay.",
+      "I had a wonderful experience during breakfast thanks to the exceptional service from Amir and shekhar. They were both incredibly attentive, friendly, and welcoming each morning \u2014 always serving with genuine smiles and making sure everything was perfect. Their hospitality truly stood out and made the start of each day feel special. Great teamwork and a lovely personal touch that added to my stay. Thank you both for making the experience."
+    ],
+    "negative_snippets": [
+      "I stayed in this hotel rooms are okay but the friend desk staff behaviour is very rude especially the girl at the front desk.\nInstead of listening and solving the problem they argue.\nThe behaviour made the stay very pathetic especially in the morning time during the checkout.\ud83e\udd2c\ud83e\udd2c\ud83e\udd2c\ud83e\udd2c\ud83e\udd2c\ud83e\udd2c"
+    ]
+  },
+  "review_summary": "Based on 5 reviews.",
+  "positive_themes": {
+    "friendly_staff": 5,
+    "great_value": 1,
+    "good_food": 2,
+    "clean_rooms": 1
+  },
+  "negative_themes": {
+    "rude_staff": 1
+  }
+}

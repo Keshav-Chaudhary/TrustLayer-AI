@@ -1,0 +1,50 @@
+{
+  "hotel_id": "ChIJHcE1PUsYDTkRk6DOqjzqpVQ",
+  "hotel_name": "Rosewood Apartment Hotel - Gurgaon",
+  "area": "Sector 13",
+  "budget_category": "Mid-Range",
+  "rating": 4.0,
+  "trust_score": 0.8300250760380098,
+  "travel_purpose_tags": [
+    "Leisure",
+    "Business",
+    "Family"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "moderate",
+    "review_count": 5,
+    "positive_snippet_count": 3,
+    "negative_snippet_count": 0,
+    "positive_theme_count": 5,
+    "negative_theme_count": 0
+  },
+  "aspect_scores": {
+    "cleanliness": 0.9997860789299012,
+    "service": 0.9998345971107484,
+    "location": 0.9997860789299012,
+    "value_for_money": 0.9997860789299012,
+    "staff_behavior": 0.9998040497303008
+  },
+  "recommendation_features": {
+    "popularity_score": 0.5928133580693498,
+    "rating_score": 4.0,
+    "sentiment_score": 0.9998004555702208
+  },
+  "review_evidence": {
+    "positive_snippets": [
+      "Very well maintained hotel near Civil Lines, Gurgaon. The overall experience was really good and comfortable. The hall, beds, washroom, sitting area, everything is properly maintained and clean. You can clearly see the effort put into upkeep and service.\n\nI would have easily given this place a full 5-star rating. The only small suggestion is to pay a little more attention to micro detailing in a few corner areas in terms of service. If that is taken care of, this place is perfect in every sense.\n\nOverall, excellent value for money and a highly positive experience. Definitely recommended.",
+      "Great experience! Service was excellent.\nThe staff was very polite, and special thanks to Anil Bhaiya as he was very helpful and kind and his service was outstanding..\nMust visit!!",
+      "I feel in this hotel like at my home this place is very safe and management and all staff's behaviour good.food quality is very good.front of staff behaviour very nice and supportive."
+    ],
+    "negative_snippets": []
+  },
+  "review_summary": "Based on 5 reviews.",
+  "positive_themes": {
+    "clean_rooms": 1,
+    "good_location": 1,
+    "great_value": 1,
+    "friendly_staff": 4,
+    "good_food": 3
+  },
+  "negative_themes": {}
+}

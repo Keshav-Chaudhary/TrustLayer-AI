@@ -1,0 +1,54 @@
+{
+  "hotel_id": "ChIJ7aqq-vTkDDkRgQTJLDQBQlA",
+  "hotel_name": "Lemon Tree Hotel, Noida",
+  "area": "Sector 1",
+  "budget_category": "Mid-Range",
+  "rating": 4.1,
+  "trust_score": 0.7690610722343065,
+  "travel_purpose_tags": [
+    "Leisure",
+    "Business",
+    "Family"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "moderate",
+    "review_count": 5,
+    "positive_snippet_count": 3,
+    "negative_snippet_count": 1,
+    "positive_theme_count": 5,
+    "negative_theme_count": 1
+  },
+  "aspect_scores": {
+    "cleanliness": 0.9996351599693298,
+    "service": 0.9998620748519896,
+    "location": 0.999426007270813,
+    "value_for_money": 0.9998645782470704,
+    "staff_behavior": 0.8008810513652861
+  },
+  "recommendation_features": {
+    "popularity_score": 0.5420662569235041,
+    "rating_score": 4.1,
+    "sentiment_score": 0.8008810513652861
+  },
+  "review_evidence": {
+    "positive_snippets": [
+      "Excellent service and very good food. quality and taste of the food were really good. Special thanks to Mr. Debabrata for his outstanding service and polite behavior. All the staff members were very helpful, friendly, and professional. Overall, it was a wonderful experience. Highly recommended!",
+      "Had a great experience at Lemon Tree Hotel, Noida today.\n\nBooking of the Meeting Room, refreshments and lunch for an official meeting was amazingly well coordinated by Banquet Manager Mr. Praveen Chaudhary.\n\nThe Meeting Room had convenient arrangement for upto 10 persons, with a presentation monitor and HDMI cable. There were separate, well ventillated and clean washrooms for males and females, just outside the meeting room.\n\nThe refreshments (during the meeting) and lunch were fresh and served with great politeness and courtesies, by Mr Ram and his team!\n\nI highly recommend it for anybody looking forward to a 10-seater meeting room with food araangements, at a walking distance (about 600-700 metres) from Noida, Sector 15 metro station.",
+      "Lemon Tree Hotel in Sector 1 offers a pleasantly comfortable stay with consistently good service. The food quality stands out\u2014fresh, flavorful, and well-presented, with a decent variety across cuisines. The staff is courteous, attentive, and quick to respond to any request, making the experience smooth from check-in to checkout. Their warm hospitality and professional attitude create a welcoming atmosphere that enhances the overall stay. Housekeeping is efficient, and the restaurant team deserves special mention for their prompt service. Overall, it\u2019s a reliable hotel with good food and genuinely helpful staff, making it worth recommending\n\nDebabrata"
+    ],
+    "negative_snippets": [
+      "Once you Enter Hotel you will face starting trouble\n1.0) No Bell boy you hv to call the manager to arrange helper to carry your luggage to room!\n2.0) Frequent breakdown of Room keys\n3.0) leakage\n4.0) No valet parking\nThis Hotel is not suitable for Family!\nPlus points\n1.0) Staff was very cooperative ! Almost everyone\nConclusion\nOwner of This hotel must review the manpower as they are lack of staff !\nBoth Azeem & Praveen were Very cooperative!"
+    ]
+  },
+  "review_summary": "Based on 5 reviews.",
+  "positive_themes": {
+    "friendly_staff": 5,
+    "good_food": 3,
+    "clean_rooms": 2,
+    "good_location": 1,
+    "great_value": 2
+  },
+  "negative_themes": {
+    "parking_issues": 1
+  }
+}

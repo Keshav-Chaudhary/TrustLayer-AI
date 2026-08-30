@@ -1,0 +1,54 @@
+{
+  "hotel_id": "ChIJYdNoMrwCDTkRFluyHeSqGoI",
+  "hotel_name": "Fabhotel Bharat Continental",
+  "area": "Rajinder Nagar",
+  "budget_category": "Mid-Range",
+  "rating": 3.6,
+  "trust_score": 0.6512981999657712,
+  "travel_purpose_tags": [
+    "Leisure",
+    "Family"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "rich",
+    "review_count": 5,
+    "positive_snippet_count": 3,
+    "negative_snippet_count": 2,
+    "positive_theme_count": 5,
+    "negative_theme_count": 1
+  },
+  "aspect_scores": {
+    "cleanliness": 0.9994329214096068,
+    "service": 0.5,
+    "location": 0.9997818171977996,
+    "value_for_money": 0.999711811542511,
+    "staff_behavior": 0.5100636156275868
+  },
+  "recommendation_features": {
+    "popularity_score": 0.5962615231451273,
+    "rating_score": 3.6,
+    "sentiment_score": 0.6039710327633656
+  },
+  "review_evidence": {
+    "positive_snippets": [
+      "Great value for money hotel. Fantastic location on the main road but not congested. Great staff and very polite",
+      "I stayed in this hotel for 6 nights. Sure! Here\u2019s a polished and positive review based on your points:\n\n\u2e3b\n\nI had a great stay at this hotel. The room was quiet and perfect for a good night\u2019s rest. Good wifi. Great location near to bus station. The water worked perfectly, with good pressure and temperature. The food was delicious, and the sheets were clean and fresh. Overall, everything was well-maintained and comfortable\u2014I\u2019d definitely stay here again!",
+      "The Stay Is Good you can prefer This... Everything From Food To Amenities all were Perfect bathroom Was Properly Maintained,Finely Ventilated..."
+    ],
+    "negative_snippets": [
+      "It felt like I have come in some khandar haweli not even towels and dental kit provided after asking they gave staff behaviour was very good but property I feel like need training of Hospitality many things at room like cleaning of beds hairs here all this things needs to take care I came there for 2 days i only stayed 1 day and moved to next hotel next day",
+      "I did not stay there want refund. I left as soon as i entered, had booked the room through MakeMy Trip and the property was not at all like that of the pictures. It was smelling awful and the property was substandard. I have already raised a ticket with MMT."
+    ]
+  },
+  "review_summary": "Based on 5 reviews.",
+  "positive_themes": {
+    "friendly_staff": 2,
+    "good_location": 2,
+    "great_value": 1,
+    "clean_rooms": 2,
+    "good_food": 2
+  },
+  "negative_themes": {
+    "dirty_rooms": 1
+  }
+}

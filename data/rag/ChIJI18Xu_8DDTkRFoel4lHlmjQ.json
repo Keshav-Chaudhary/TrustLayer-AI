@@ -1,0 +1,51 @@
+{
+  "hotel_id": "ChIJI18Xu_8DDTkRFoel4lHlmjQ",
+  "hotel_name": "Hotel Park View Rani Bagh Pitampura",
+  "area": "Pitampura",
+  "budget_category": "Mid-Range",
+  "rating": 4.5,
+  "trust_score": 0.7323124361356955,
+  "travel_purpose_tags": [
+    "Leisure",
+    "Business"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "rich",
+    "review_count": 5,
+    "positive_snippet_count": 3,
+    "negative_snippet_count": 2,
+    "positive_theme_count": 2,
+    "negative_theme_count": 1
+  },
+  "aspect_scores": {
+    "cleanliness": 0.742565034306608,
+    "service": 0.9898743828137714,
+    "location": 0.9994137287139891,
+    "value_for_money": 0.0032765823416411,
+    "staff_behavior": 0.7438848310848697
+  },
+  "recommendation_features": {
+    "popularity_score": 0.4277588502624594,
+    "rating_score": 4.5,
+    "sentiment_score": 0.5952352626249193
+  },
+  "review_evidence": {
+    "positive_snippets": [
+      "All staff is very good, Rooms here are also clean, All service is good\ncheck in again and thank you\n\nLike\n\nShare",
+      "Very clean & hygiene rooms\nStaff so good & fast service & enjoy my day in hotel park view      thnx everyone",
+      "All staaf are friendly service is so fast they are so ploite rooms are neat nd clean check in again"
+    ],
+    "negative_snippets": [
+      "Good for drivers and other staff....reasonable cost @ 1000 / night only.\nDon't expect much because the price is also low.",
+      "Honest review on - 5 feb 2026\nHotel is very bad, rooms are very dirty, no water in washroom, suffocation in room ,no air passing from room,  dirtiest hotel i ever book . Please save your money ... its not good hotel,"
+    ]
+  },
+  "review_summary": "Based on 5 reviews.",
+  "positive_themes": {
+    "clean_rooms": 3,
+    "friendly_staff": 4
+  },
+  "negative_themes": {
+    "dirty_rooms": 1
+  }
+}

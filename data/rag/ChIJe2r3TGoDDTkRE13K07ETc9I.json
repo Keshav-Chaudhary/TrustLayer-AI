@@ -1,0 +1,51 @@
+{
+  "hotel_id": "ChIJe2r3TGoDDTkRE13K07ETc9I",
+  "hotel_name": "Hotel B Continental",
+  "area": "New Delhi",
+  "budget_category": "Mid-Range",
+  "rating": 4.0,
+  "trust_score": 0.5137875175782296,
+  "travel_purpose_tags": [
+    "Budget"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "moderate",
+    "review_count": 5,
+    "positive_snippet_count": 0,
+    "negative_snippet_count": 3,
+    "positive_theme_count": 4,
+    "negative_theme_count": 3
+  },
+  "aspect_scores": {
+    "cleanliness": 0.0003588404506444,
+    "service": 0.0003031076533564,
+    "location": 0.0002549055498093,
+    "value_for_money": 0.0003012962357994,
+    "staff_behavior": 0.0003244915787945
+  },
+  "recommendation_features": {
+    "popularity_score": 0.6036534852699267,
+    "rating_score": 4.0,
+    "sentiment_score": 0.0013661457604029
+  },
+  "review_evidence": {
+    "positive_snippets": [],
+    "negative_snippets": [
+      "I left my charger in the car and asked my manager to send it via Porter, but they sent a different charger that doesn\u2019t work. It turned out to be a waste of money\u2014both the charger cost and the Porter charges.",
+      "I was denied check-in stating that local ids were not allowed. However, in their hotel policy and property rules, the opposite was mentioned.\n\nUnprofessional response on part of the owner.",
+      "An extremely poor hotel with terrible food, bad service, and an unpleasant atmosphere"
+    ]
+  },
+  "review_summary": "Based on 5 reviews.",
+  "positive_themes": {
+    "good_food": 2,
+    "good_location": 1,
+    "great_value": 1,
+    "friendly_staff": 1
+  },
+  "negative_themes": {
+    "rude_staff": 3,
+    "dirty_rooms": 2,
+    "noise": 1
+  }
+}

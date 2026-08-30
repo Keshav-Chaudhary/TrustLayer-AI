@@ -1,0 +1,47 @@
+{
+  "hotel_id": "ChIJD-_OOykHDTkRfcnV8lQwHtg",
+  "hotel_name": "Hotelhome Stay Rohini",
+  "area": "Rohini",
+  "budget_category": "Budget",
+  "rating": 4.1,
+  "trust_score": 0.6894570562074823,
+  "travel_purpose_tags": [
+    "Budget"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "moderate",
+    "review_count": 4,
+    "positive_snippet_count": 3,
+    "negative_snippet_count": 1,
+    "positive_theme_count": 2,
+    "negative_theme_count": 0
+  },
+  "aspect_scores": {
+    "cleanliness": 0.5,
+    "service": 0.995736002922058,
+    "location": 0.5,
+    "value_for_money": 0.498077810902032,
+    "staff_behavior": 0.5
+  },
+  "recommendation_features": {
+    "popularity_score": 0.2456693548613046,
+    "rating_score": 4.1,
+    "sentiment_score": 0.7489700322839781
+  },
+  "review_evidence": {
+    "positive_snippets": [
+      "its very cheap and best in service....",
+      "All services are good thanks \ud83d\udc4d",
+      "Very quite and good place"
+    ],
+    "negative_snippets": [
+      "Breakfast is pethatic. It's like cheap OYO ROOMS ."
+    ]
+  },
+  "review_summary": "Based on 4 reviews.",
+  "positive_themes": {
+    "great_value": 2,
+    "good_food": 1
+  },
+  "negative_themes": {}
+}

@@ -1,0 +1,51 @@
+{
+  "hotel_id": "ChIJWWh9-XjdDDkR5HcuTf_TKY4",
+  "hotel_name": "Ceremony Hotel And Banquets",
+  "area": "New Industrial Township",
+  "budget_category": "Mid-Range",
+  "rating": 3.8,
+  "trust_score": 0.5363145063229262,
+  "travel_purpose_tags": [
+    "Budget"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "moderate",
+    "review_count": 5,
+    "positive_snippet_count": 1,
+    "negative_snippet_count": 3,
+    "positive_theme_count": 3,
+    "negative_theme_count": 2
+  },
+  "aspect_scores": {
+    "cleanliness": 0.5000409238273278,
+    "service": 0.3334492237093702,
+    "location": 0.0002658234734553,
+    "value_for_money": 0.0005143985617905,
+    "staff_behavior": 0.2003464707289822
+  },
+  "recommendation_features": {
+    "popularity_score": 0.536095092600475,
+    "rating_score": 3.8,
+    "sentiment_score": 0.2003464707289822
+  },
+  "review_evidence": {
+    "positive_snippets": [
+      "We recently hosted birthday party 02 August at Ceremony banquet NIT 5and the experience exceeded our expectations.\n\nThe venue was clean, well-organized, and the ambiance was perfect for the occasion.\nThe air conditioning worked just fine \u2014 the hall was cool and comfortable throughout the event, despite what some negative reviews have claimed. Sometimes, fake  people leave reviews based on negative marketing ,\nwhich doesn\u2019t reflect the actual quality of the place.\n\nThe food was tasty, and the service staff was polite and attentive. Everything from seating arrangements to decor was professionally managed.\n\nIn my opinion, don\u2019t rely solely on a few bad comments \u2014 experience it for yourself. Highly recommended for anyone planning a memorable event.\n\nI STILL DONT KNOW - why some people put fake comment .\n\nThe food was a highlight \u2014 delicious, fresh, and served on time. Our guests especially enjoyed the ( French fries and moong dal halwa )dish, \ud83d\ude4f\ud83c\udffb The audio-visual setup was smooth, and the event flowed seamlessly."
+    ],
+    "negative_snippets": [
+      "We booked this hotel with high expectations for our sister roka ceremony, but unfortunately the experience fell far below what was promised. From the moment we arrived, we faced multiple issues that completely disrupted our event.\n\n# Time of our function was 11 AM and theybstarted cleaning at 11 AM.\n# When Electricity has gone thier staff not started Genset making an excuse that for 1 room we cannot start DG. But we paid for the complete time 11am-5pm.\n\nThe staff seemed unprepared and poorly coordinated. Despite confirming everything in advance, the arrangements were either incomplete or done at the last minute. (like we have already told for 70 Plates but they were saying that we have confirmed for 50. AFTER SHOWING WHATSAPP Proof they found guilty)\n\nThe service during the ceremony was equally disappointing. Guests had to repeatedly ask for basic things, and the response from the staff was slow and indifferent. The food\u2014one of the most important parts of any celebration\u2014was served late, and several dishes were cold or lacking in taste. This was extremely embarrassing for us in front of our family and friends.\n\nSadly, this hotel delivered none of that. I would not recommend this place to anyone looking to host an important family function.",
+      "People operating this place are ametuers and highly inexperienced.\nAttended a function here and service was very bad, serving staff was rude and all cutlery was very dirty.\nParty host complained deficient service to Mr. Amit Arora, who indeed pushed the host and hurled abuses at them.\nNikhil Arora keeps asking money while not providing services which is committed at the time of signing.\nWould give this place a negative 100 rating",
+      "Horrible exeprience here , everyone including the staff and manager is too rude and inexperienced, the food was of very bad quality, I would not suggest anyone to book here and spoil your precious day"
+    ]
+  },
+  "review_summary": "Based on 5 reviews.",
+  "positive_themes": {
+    "clean_rooms": 2,
+    "friendly_staff": 4,
+    "good_food": 4
+  },
+  "negative_themes": {
+    "dirty_rooms": 1,
+    "rude_staff": 3
+  }
+}

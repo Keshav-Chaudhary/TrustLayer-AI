@@ -1,0 +1,53 @@
+{
+  "hotel_id": "ChIJK3r5CKMDDTkR3boHlDA8KE4",
+  "hotel_name": "Hotel Shine Couple Friendlly | Rohini West Metro Station",
+  "area": "Sector 3",
+  "budget_category": "Mid-Range",
+  "rating": 4.8,
+  "trust_score": 0.8123778367732084,
+  "travel_purpose_tags": [
+    "Budget"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "rich",
+    "review_count": 5,
+    "positive_snippet_count": 3,
+    "negative_snippet_count": 2,
+    "positive_theme_count": 4,
+    "negative_theme_count": 2
+  },
+  "aspect_scores": {
+    "cleanliness": 0.0004933712480123,
+    "service": 0.0004933712480123,
+    "location": 0.5,
+    "value_for_money": 0.4991066624643281,
+    "staff_behavior": 0.333593761761828
+  },
+  "recommendation_features": {
+    "popularity_score": 0.6099717377363983,
+    "rating_score": 4.8,
+    "sentiment_score": 0.5997151111601852
+  },
+  "review_evidence": {
+    "positive_snippets": [
+      "Have a great experience in hotel. Shine inn and staff support is also very good behavior I loved this place and I make many good memories in hotel shine innn\u2764loved this ones",
+      "Nice cople room and nice sarvice enjoy your special day in this hotel",
+      "Good rooms lice hotel for comfortable stay\nTrip typeHoliday \u00b7 Friends\nRooms5.0Service5.0Location5.0\nHotel highlightsRomantic \u00b7 Quiet \u00b7 Great value \u00b7 High-tech\nRoomsNice room"
+    ],
+    "negative_snippets": [
+      "Don't believe in paid reviews. I had a booking at Hotel Shine Inn through MMT and reached around 9:00 am. The person at reception asked me for \u20b9500 for early check-in, which I paid. But the moment I entered the room. The room was extremely dirty, the blanket and bed had unhygienic stains, and there were bedbugs crawling around.\n\nI immediately informed the reception that I did not want to stay and requested a refund. However, the staff rudely denied it, saying that the entry had already been made. I did not even stay in the room for 5 minutes, yet I lost \u20b9500.\n\nThis was the worst experience I\u2019ve had with any hotel. Totally unhygienic, unprofessional staff, and a complete waste of money. I would not recommend this place to anyone.\nOwner is threatening and abusing.",
+      "I stayed at Shine Inn Hotel recently and had a very disappointing experience. The staff showed unprofessional behavior, and the room conditions were unacceptable. The mattress and pillows were unhygienic, and I even found bedbugs in the room. This made my stay extremely uncomfortable and concerning for health and safety. I expected better standards of cleanliness and service from a hotel. I hope the management takes immediate action to improve hygiene and staff professionalism."
+    ]
+  },
+  "review_summary": "Based on 5 reviews.",
+  "positive_themes": {
+    "friendly_staff": 3,
+    "good_location": 1,
+    "great_value": 1,
+    "clean_rooms": 1
+  },
+  "negative_themes": {
+    "dirty_rooms": 1,
+    "rude_staff": 2
+  }
+}

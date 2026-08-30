@@ -1,0 +1,2102 @@
+[
+  {
+    "category": "Area",
+    "query": "hotels in Mahipalpur",
+    "expected_constraints": {
+      "hard": {
+        "area": "Mahipalpur"
+      },
+      "soft": {}
+    },
+    "expected_chunk_types": [
+      "Chunk A (Profile)"
+    ]
+  },
+  {
+    "category": "Area",
+    "query": "hotels in Karol Bagh",
+    "expected_constraints": {
+      "hard": {
+        "area": "Karol Bagh"
+      },
+      "soft": {}
+    },
+    "expected_chunk_types": [
+      "Chunk A (Profile)"
+    ]
+  },
+  {
+    "category": "Area",
+    "query": "hotels in Loni",
+    "expected_constraints": {
+      "hard": {
+        "area": "Loni"
+      },
+      "soft": {}
+    },
+    "expected_chunk_types": [
+      "Chunk A (Profile)"
+    ]
+  },
+  {
+    "category": "Area",
+    "query": "hotels in Delhi NCR",
+    "expected_constraints": {
+      "hard": {
+        "area": "Delhi NCR"
+      },
+      "soft": {}
+    },
+    "expected_chunk_types": [
+      "Chunk A (Profile)"
+    ]
+  },
+  {
+    "category": "Area",
+    "query": "hotels in Gurugram",
+    "expected_constraints": {
+      "hard": {
+        "area": "Gurugram"
+      },
+      "soft": {}
+    },
+    "expected_chunk_types": [
+      "Chunk A (Profile)"
+    ]
+  },
+  {
+    "category": "Area",
+    "query": "hotels in Noida",
+    "expected_constraints": {
+      "hard": {
+        "area": "Noida"
+      },
+      "soft": {}
+    },
+    "expected_chunk_types": [
+      "Chunk A (Profile)"
+    ]
+  },
+  {
+    "category": "Area",
+    "query": "hotels in Mahipalpur",
+    "expected_constraints": {
+      "hard": {
+        "area": "Mahipalpur"
+      },
+      "soft": {}
+    },
+    "expected_chunk_types": [
+      "Chunk A (Profile)"
+    ]
+  },
+  {
+    "category": "Area",
+    "query": "hotels in Karol Bagh",
+    "expected_constraints": {
+      "hard": {
+        "area": "Karol Bagh"
+      },
+      "soft": {}
+    },
+    "expected_chunk_types": [
+      "Chunk A (Profile)"
+    ]
+  },
+  {
+    "category": "Area",
+    "query": "hotels in Loni",
+    "expected_constraints": {
+      "hard": {
+        "area": "Loni"
+      },
+      "soft": {}
+    },
+    "expected_chunk_types": [
+      "Chunk A (Profile)"
+    ]
+  },
+  {
+    "category": "Area",
+    "query": "hotels in Delhi NCR",
+    "expected_constraints": {
+      "hard": {
+        "area": "Delhi NCR"
+      },
+      "soft": {}
+    },
+    "expected_chunk_types": [
+      "Chunk A (Profile)"
+    ]
+  },
+  {
+    "category": "Area",
+    "query": "hotels in Gurugram",
+    "expected_constraints": {
+      "hard": {
+        "area": "Gurugram"
+      },
+      "soft": {}
+    },
+    "expected_chunk_types": [
+      "Chunk A (Profile)"
+    ]
+  },
+  {
+    "category": "Area",
+    "query": "hotels in Noida",
+    "expected_constraints": {
+      "hard": {
+        "area": "Noida"
+      },
+      "soft": {}
+    },
+    "expected_chunk_types": [
+      "Chunk A (Profile)"
+    ]
+  },
+  {
+    "category": "Area",
+    "query": "hotels in Mahipalpur",
+    "expected_constraints": {
+      "hard": {
+        "area": "Mahipalpur"
+      },
+      "soft": {}
+    },
+    "expected_chunk_types": [
+      "Chunk A (Profile)"
+    ]
+  },
+  {
+    "category": "Area",
+    "query": "hotels in Karol Bagh",
+    "expected_constraints": {
+      "hard": {
+        "area": "Karol Bagh"
+      },
+      "soft": {}
+    },
+    "expected_chunk_types": [
+      "Chunk A (Profile)"
+    ]
+  },
+  {
+    "category": "Area",
+    "query": "hotels in Loni",
+    "expected_constraints": {
+      "hard": {
+        "area": "Loni"
+      },
+      "soft": {}
+    },
+    "expected_chunk_types": [
+      "Chunk A (Profile)"
+    ]
+  },
+  {
+    "category": "Area",
+    "query": "hotels in Delhi NCR",
+    "expected_constraints": {
+      "hard": {
+        "area": "Delhi NCR"
+      },
+      "soft": {}
+    },
+    "expected_chunk_types": [
+      "Chunk A (Profile)"
+    ]
+  },
+  {
+    "category": "Area",
+    "query": "hotels in Gurugram",
+    "expected_constraints": {
+      "hard": {
+        "area": "Gurugram"
+      },
+      "soft": {}
+    },
+    "expected_chunk_types": [
+      "Chunk A (Profile)"
+    ]
+  },
+  {
+    "category": "Area",
+    "query": "hotels in Noida",
+    "expected_constraints": {
+      "hard": {
+        "area": "Noida"
+      },
+      "soft": {}
+    },
+    "expected_chunk_types": [
+      "Chunk A (Profile)"
+    ]
+  },
+  {
+    "category": "Area",
+    "query": "hotels in Mahipalpur",
+    "expected_constraints": {
+      "hard": {
+        "area": "Mahipalpur"
+      },
+      "soft": {}
+    },
+    "expected_chunk_types": [
+      "Chunk A (Profile)"
+    ]
+  },
+  {
+    "category": "Area",
+    "query": "hotels in Karol Bagh",
+    "expected_constraints": {
+      "hard": {
+        "area": "Karol Bagh"
+      },
+      "soft": {}
+    },
+    "expected_chunk_types": [
+      "Chunk A (Profile)"
+    ]
+  },
+  {
+    "category": "Area",
+    "query": "hotels in Loni",
+    "expected_constraints": {
+      "hard": {
+        "area": "Loni"
+      },
+      "soft": {}
+    },
+    "expected_chunk_types": [
+      "Chunk A (Profile)"
+    ]
+  },
+  {
+    "category": "Area",
+    "query": "hotels in Delhi NCR",
+    "expected_constraints": {
+      "hard": {
+        "area": "Delhi NCR"
+      },
+      "soft": {}
+    },
+    "expected_chunk_types": [
+      "Chunk A (Profile)"
+    ]
+  },
+  {
+    "category": "Area",
+    "query": "hotels in Gurugram",
+    "expected_constraints": {
+      "hard": {
+        "area": "Gurugram"
+      },
+      "soft": {}
+    },
+    "expected_chunk_types": [
+      "Chunk A (Profile)"
+    ]
+  },
+  {
+    "category": "Area",
+    "query": "hotels in Noida",
+    "expected_constraints": {
+      "hard": {
+        "area": "Noida"
+      },
+      "soft": {}
+    },
+    "expected_chunk_types": [
+      "Chunk A (Profile)"
+    ]
+  },
+  {
+    "category": "Area",
+    "query": "hotels in Mahipalpur",
+    "expected_constraints": {
+      "hard": {
+        "area": "Mahipalpur"
+      },
+      "soft": {}
+    },
+    "expected_chunk_types": [
+      "Chunk A (Profile)"
+    ]
+  },
+  {
+    "category": "Budget",
+    "query": "strictly budget hotels",
+    "expected_constraints": {
+      "hard": {
+        "budget_category": "budget"
+      },
+      "soft": {}
+    },
+    "expected_chunk_types": [
+      "Chunk A (Profile)",
+      "Chunk B (Aspects)"
+    ]
+  },
+  {
+    "category": "Budget",
+    "query": "strictly cheap hotels",
+    "expected_constraints": {
+      "hard": {
+        "budget_category": "budget"
+      },
+      "soft": {}
+    },
+    "expected_chunk_types": [
+      "Chunk A (Profile)",
+      "Chunk B (Aspects)"
+    ]
+  },
+  {
+    "category": "Budget",
+    "query": "strictly mid-range hotels",
+    "expected_constraints": {
+      "hard": {
+        "budget_category": "mid-range"
+      },
+      "soft": {}
+    },
+    "expected_chunk_types": [
+      "Chunk A (Profile)",
+      "Chunk B (Aspects)"
+    ]
+  },
+  {
+    "category": "Budget",
+    "query": "strictly luxury hotels",
+    "expected_constraints": {
+      "hard": {
+        "budget_category": "luxury"
+      },
+      "soft": {}
+    },
+    "expected_chunk_types": [
+      "Chunk A (Profile)",
+      "Chunk B (Aspects)"
+    ]
+  },
+  {
+    "category": "Budget",
+    "query": "strictly expensive hotels",
+    "expected_constraints": {
+      "hard": {
+        "budget_category": "luxury"
+      },
+      "soft": {}
+    },
+    "expected_chunk_types": [
+      "Chunk A (Profile)",
+      "Chunk B (Aspects)"
+    ]
+  },
+  {
+    "category": "Budget",
+    "query": "strictly budget hotels",
+    "expected_constraints": {
+      "hard": {
+        "budget_category": "budget"
+      },
+      "soft": {}
+    },
+    "expected_chunk_types": [
+      "Chunk A (Profile)",
+      "Chunk B (Aspects)"
+    ]
+  },
+  {
+    "category": "Budget",
+    "query": "strictly cheap hotels",
+    "expected_constraints": {
+      "hard": {
+        "budget_category": "budget"
+      },
+      "soft": {}
+    },
+    "expected_chunk_types": [
+      "Chunk A (Profile)",
+      "Chunk B (Aspects)"
+    ]
+  },
+  {
+    "category": "Budget",
+    "query": "strictly mid-range hotels",
+    "expected_constraints": {
+      "hard": {
+        "budget_category": "mid-range"
+      },
+      "soft": {}
+    },
+    "expected_chunk_types": [
+      "Chunk A (Profile)",
+      "Chunk B (Aspects)"
+    ]
+  },
+  {
+    "category": "Budget",
+    "query": "strictly luxury hotels",
+    "expected_constraints": {
+      "hard": {
+        "budget_category": "luxury"
+      },
+      "soft": {}
+    },
+    "expected_chunk_types": [
+      "Chunk A (Profile)",
+      "Chunk B (Aspects)"
+    ]
+  },
+  {
+    "category": "Budget",
+    "query": "strictly expensive hotels",
+    "expected_constraints": {
+      "hard": {
+        "budget_category": "luxury"
+      },
+      "soft": {}
+    },
+    "expected_chunk_types": [
+      "Chunk A (Profile)",
+      "Chunk B (Aspects)"
+    ]
+  },
+  {
+    "category": "Budget",
+    "query": "strictly budget hotels",
+    "expected_constraints": {
+      "hard": {
+        "budget_category": "budget"
+      },
+      "soft": {}
+    },
+    "expected_chunk_types": [
+      "Chunk A (Profile)",
+      "Chunk B (Aspects)"
+    ]
+  },
+  {
+    "category": "Budget",
+    "query": "strictly cheap hotels",
+    "expected_constraints": {
+      "hard": {
+        "budget_category": "budget"
+      },
+      "soft": {}
+    },
+    "expected_chunk_types": [
+      "Chunk A (Profile)",
+      "Chunk B (Aspects)"
+    ]
+  },
+  {
+    "category": "Budget",
+    "query": "strictly mid-range hotels",
+    "expected_constraints": {
+      "hard": {
+        "budget_category": "mid-range"
+      },
+      "soft": {}
+    },
+    "expected_chunk_types": [
+      "Chunk A (Profile)",
+      "Chunk B (Aspects)"
+    ]
+  },
+  {
+    "category": "Budget",
+    "query": "strictly luxury hotels",
+    "expected_constraints": {
+      "hard": {
+        "budget_category": "luxury"
+      },
+      "soft": {}
+    },
+    "expected_chunk_types": [
+      "Chunk A (Profile)",
+      "Chunk B (Aspects)"
+    ]
+  },
+  {
+    "category": "Budget",
+    "query": "strictly expensive hotels",
+    "expected_constraints": {
+      "hard": {
+        "budget_category": "luxury"
+      },
+      "soft": {}
+    },
+    "expected_chunk_types": [
+      "Chunk A (Profile)",
+      "Chunk B (Aspects)"
+    ]
+  },
+  {
+    "category": "Budget",
+    "query": "strictly budget hotels",
+    "expected_constraints": {
+      "hard": {
+        "budget_category": "budget"
+      },
+      "soft": {}
+    },
+    "expected_chunk_types": [
+      "Chunk A (Profile)",
+      "Chunk B (Aspects)"
+    ]
+  },
+  {
+    "category": "Budget",
+    "query": "strictly cheap hotels",
+    "expected_constraints": {
+      "hard": {
+        "budget_category": "budget"
+      },
+      "soft": {}
+    },
+    "expected_chunk_types": [
+      "Chunk A (Profile)",
+      "Chunk B (Aspects)"
+    ]
+  },
+  {
+    "category": "Budget",
+    "query": "strictly mid-range hotels",
+    "expected_constraints": {
+      "hard": {
+        "budget_category": "mid-range"
+      },
+      "soft": {}
+    },
+    "expected_chunk_types": [
+      "Chunk A (Profile)",
+      "Chunk B (Aspects)"
+    ]
+  },
+  {
+    "category": "Budget",
+    "query": "strictly luxury hotels",
+    "expected_constraints": {
+      "hard": {
+        "budget_category": "luxury"
+      },
+      "soft": {}
+    },
+    "expected_chunk_types": [
+      "Chunk A (Profile)",
+      "Chunk B (Aspects)"
+    ]
+  },
+  {
+    "category": "Budget",
+    "query": "strictly expensive hotels",
+    "expected_constraints": {
+      "hard": {
+        "budget_category": "luxury"
+      },
+      "soft": {}
+    },
+    "expected_chunk_types": [
+      "Chunk A (Profile)",
+      "Chunk B (Aspects)"
+    ]
+  },
+  {
+    "category": "Budget",
+    "query": "strictly budget hotels",
+    "expected_constraints": {
+      "hard": {
+        "budget_category": "budget"
+      },
+      "soft": {}
+    },
+    "expected_chunk_types": [
+      "Chunk A (Profile)",
+      "Chunk B (Aspects)"
+    ]
+  },
+  {
+    "category": "Budget",
+    "query": "strictly cheap hotels",
+    "expected_constraints": {
+      "hard": {
+        "budget_category": "budget"
+      },
+      "soft": {}
+    },
+    "expected_chunk_types": [
+      "Chunk A (Profile)",
+      "Chunk B (Aspects)"
+    ]
+  },
+  {
+    "category": "Budget",
+    "query": "strictly mid-range hotels",
+    "expected_constraints": {
+      "hard": {
+        "budget_category": "mid-range"
+      },
+      "soft": {}
+    },
+    "expected_chunk_types": [
+      "Chunk A (Profile)",
+      "Chunk B (Aspects)"
+    ]
+  },
+  {
+    "category": "Budget",
+    "query": "strictly luxury hotels",
+    "expected_constraints": {
+      "hard": {
+        "budget_category": "luxury"
+      },
+      "soft": {}
+    },
+    "expected_chunk_types": [
+      "Chunk A (Profile)",
+      "Chunk B (Aspects)"
+    ]
+  },
+  {
+    "category": "Budget",
+    "query": "strictly expensive hotels",
+    "expected_constraints": {
+      "hard": {
+        "budget_category": "luxury"
+      },
+      "soft": {}
+    },
+    "expected_chunk_types": [
+      "Chunk A (Profile)",
+      "Chunk B (Aspects)"
+    ]
+  },
+  {
+    "category": "Aspect",
+    "query": "hotels with best cleanliness",
+    "expected_constraints": {
+      "hard": {},
+      "soft": {
+        "aspects": "cleanliness"
+      }
+    },
+    "expected_chunk_types": [
+      "Chunk B (Aspects)"
+    ]
+  },
+  {
+    "category": "Aspect",
+    "query": "hotels with best service",
+    "expected_constraints": {
+      "hard": {},
+      "soft": {
+        "aspects": "service"
+      }
+    },
+    "expected_chunk_types": [
+      "Chunk B (Aspects)"
+    ]
+  },
+  {
+    "category": "Aspect",
+    "query": "hotels with best location",
+    "expected_constraints": {
+      "hard": {},
+      "soft": {
+        "aspects": "location"
+      }
+    },
+    "expected_chunk_types": [
+      "Chunk B (Aspects)"
+    ]
+  },
+  {
+    "category": "Aspect",
+    "query": "hotels with best value",
+    "expected_constraints": {
+      "hard": {},
+      "soft": {
+        "aspects": "value"
+      }
+    },
+    "expected_chunk_types": [
+      "Chunk B (Aspects)"
+    ]
+  },
+  {
+    "category": "Aspect",
+    "query": "hotels with best staff",
+    "expected_constraints": {
+      "hard": {},
+      "soft": {
+        "aspects": "staff"
+      }
+    },
+    "expected_chunk_types": [
+      "Chunk B (Aspects)"
+    ]
+  },
+  {
+    "category": "Aspect",
+    "query": "hotels with best food",
+    "expected_constraints": {
+      "hard": {},
+      "soft": {
+        "aspects": "food"
+      }
+    },
+    "expected_chunk_types": [
+      "Chunk B (Aspects)"
+    ]
+  },
+  {
+    "category": "Aspect",
+    "query": "hotels with best wifi",
+    "expected_constraints": {
+      "hard": {},
+      "soft": {
+        "aspects": "wifi"
+      }
+    },
+    "expected_chunk_types": [
+      "Chunk B (Aspects)"
+    ]
+  },
+  {
+    "category": "Aspect",
+    "query": "hotels with best pool",
+    "expected_constraints": {
+      "hard": {},
+      "soft": {
+        "aspects": "pool"
+      }
+    },
+    "expected_chunk_types": [
+      "Chunk B (Aspects)"
+    ]
+  },
+  {
+    "category": "Aspect",
+    "query": "hotels with best view",
+    "expected_constraints": {
+      "hard": {},
+      "soft": {
+        "aspects": "view"
+      }
+    },
+    "expected_chunk_types": [
+      "Chunk B (Aspects)"
+    ]
+  },
+  {
+    "category": "Aspect",
+    "query": "hotels with best parking",
+    "expected_constraints": {
+      "hard": {},
+      "soft": {
+        "aspects": "parking"
+      }
+    },
+    "expected_chunk_types": [
+      "Chunk B (Aspects)"
+    ]
+  },
+  {
+    "category": "Aspect",
+    "query": "hotels with best cleanliness",
+    "expected_constraints": {
+      "hard": {},
+      "soft": {
+        "aspects": "cleanliness"
+      }
+    },
+    "expected_chunk_types": [
+      "Chunk B (Aspects)"
+    ]
+  },
+  {
+    "category": "Aspect",
+    "query": "hotels with best service",
+    "expected_constraints": {
+      "hard": {},
+      "soft": {
+        "aspects": "service"
+      }
+    },
+    "expected_chunk_types": [
+      "Chunk B (Aspects)"
+    ]
+  },
+  {
+    "category": "Aspect",
+    "query": "hotels with best location",
+    "expected_constraints": {
+      "hard": {},
+      "soft": {
+        "aspects": "location"
+      }
+    },
+    "expected_chunk_types": [
+      "Chunk B (Aspects)"
+    ]
+  },
+  {
+    "category": "Aspect",
+    "query": "hotels with best value",
+    "expected_constraints": {
+      "hard": {},
+      "soft": {
+        "aspects": "value"
+      }
+    },
+    "expected_chunk_types": [
+      "Chunk B (Aspects)"
+    ]
+  },
+  {
+    "category": "Aspect",
+    "query": "hotels with best staff",
+    "expected_constraints": {
+      "hard": {},
+      "soft": {
+        "aspects": "staff"
+      }
+    },
+    "expected_chunk_types": [
+      "Chunk B (Aspects)"
+    ]
+  },
+  {
+    "category": "Aspect",
+    "query": "hotels with best food",
+    "expected_constraints": {
+      "hard": {},
+      "soft": {
+        "aspects": "food"
+      }
+    },
+    "expected_chunk_types": [
+      "Chunk B (Aspects)"
+    ]
+  },
+  {
+    "category": "Aspect",
+    "query": "hotels with best wifi",
+    "expected_constraints": {
+      "hard": {},
+      "soft": {
+        "aspects": "wifi"
+      }
+    },
+    "expected_chunk_types": [
+      "Chunk B (Aspects)"
+    ]
+  },
+  {
+    "category": "Aspect",
+    "query": "hotels with best pool",
+    "expected_constraints": {
+      "hard": {},
+      "soft": {
+        "aspects": "pool"
+      }
+    },
+    "expected_chunk_types": [
+      "Chunk B (Aspects)"
+    ]
+  },
+  {
+    "category": "Aspect",
+    "query": "hotels with best view",
+    "expected_constraints": {
+      "hard": {},
+      "soft": {
+        "aspects": "view"
+      }
+    },
+    "expected_chunk_types": [
+      "Chunk B (Aspects)"
+    ]
+  },
+  {
+    "category": "Aspect",
+    "query": "hotels with best parking",
+    "expected_constraints": {
+      "hard": {},
+      "soft": {
+        "aspects": "parking"
+      }
+    },
+    "expected_chunk_types": [
+      "Chunk B (Aspects)"
+    ]
+  },
+  {
+    "category": "Aspect",
+    "query": "hotels with best cleanliness",
+    "expected_constraints": {
+      "hard": {},
+      "soft": {
+        "aspects": "cleanliness"
+      }
+    },
+    "expected_chunk_types": [
+      "Chunk B (Aspects)"
+    ]
+  },
+  {
+    "category": "Aspect",
+    "query": "hotels with best service",
+    "expected_constraints": {
+      "hard": {},
+      "soft": {
+        "aspects": "service"
+      }
+    },
+    "expected_chunk_types": [
+      "Chunk B (Aspects)"
+    ]
+  },
+  {
+    "category": "Aspect",
+    "query": "hotels with best location",
+    "expected_constraints": {
+      "hard": {},
+      "soft": {
+        "aspects": "location"
+      }
+    },
+    "expected_chunk_types": [
+      "Chunk B (Aspects)"
+    ]
+  },
+  {
+    "category": "Aspect",
+    "query": "hotels with best value",
+    "expected_constraints": {
+      "hard": {},
+      "soft": {
+        "aspects": "value"
+      }
+    },
+    "expected_chunk_types": [
+      "Chunk B (Aspects)"
+    ]
+  },
+  {
+    "category": "Aspect",
+    "query": "hotels with best staff",
+    "expected_constraints": {
+      "hard": {},
+      "soft": {
+        "aspects": "staff"
+      }
+    },
+    "expected_chunk_types": [
+      "Chunk B (Aspects)"
+    ]
+  },
+  {
+    "category": "Review",
+    "query": "complaints about cleanliness",
+    "expected_constraints": {
+      "hard": {},
+      "soft": {
+        "aspects": "cleanliness"
+      }
+    },
+    "expected_chunk_types": [
+      "Chunk D (Neg Evidence)",
+      "Chunk B (Aspects)"
+    ]
+  },
+  {
+    "category": "Review",
+    "query": "guests mention food quality",
+    "expected_constraints": {
+      "hard": {},
+      "soft": {
+        "aspects": "food"
+      }
+    },
+    "expected_chunk_types": [
+      "Chunk C (Pos Evidence)",
+      "Chunk B (Aspects)"
+    ]
+  },
+  {
+    "category": "Review",
+    "query": "recurring issues with wifi",
+    "expected_constraints": {
+      "hard": {},
+      "soft": {
+        "aspects": "wifi"
+      }
+    },
+    "expected_chunk_types": [
+      "Chunk D (Neg Evidence)",
+      "Chunk B (Aspects)"
+    ]
+  },
+  {
+    "category": "Review",
+    "query": "praise for staff",
+    "expected_constraints": {
+      "hard": {},
+      "soft": {
+        "aspects": "staff"
+      }
+    },
+    "expected_chunk_types": [
+      "Chunk C (Pos Evidence)",
+      "Chunk B (Aspects)"
+    ]
+  },
+  {
+    "category": "Review",
+    "query": "bad location",
+    "expected_constraints": {
+      "hard": {},
+      "soft": {
+        "aspects": "location"
+      }
+    },
+    "expected_chunk_types": [
+      "Chunk D (Neg Evidence)",
+      "Chunk B (Aspects)"
+    ]
+  },
+  {
+    "category": "Review",
+    "query": "complaints about cleanliness",
+    "expected_constraints": {
+      "hard": {},
+      "soft": {
+        "aspects": "cleanliness"
+      }
+    },
+    "expected_chunk_types": [
+      "Chunk D (Neg Evidence)",
+      "Chunk B (Aspects)"
+    ]
+  },
+  {
+    "category": "Review",
+    "query": "guests mention food quality",
+    "expected_constraints": {
+      "hard": {},
+      "soft": {
+        "aspects": "food"
+      }
+    },
+    "expected_chunk_types": [
+      "Chunk C (Pos Evidence)",
+      "Chunk B (Aspects)"
+    ]
+  },
+  {
+    "category": "Review",
+    "query": "recurring issues with wifi",
+    "expected_constraints": {
+      "hard": {},
+      "soft": {
+        "aspects": "wifi"
+      }
+    },
+    "expected_chunk_types": [
+      "Chunk D (Neg Evidence)",
+      "Chunk B (Aspects)"
+    ]
+  },
+  {
+    "category": "Review",
+    "query": "praise for staff",
+    "expected_constraints": {
+      "hard": {},
+      "soft": {
+        "aspects": "staff"
+      }
+    },
+    "expected_chunk_types": [
+      "Chunk C (Pos Evidence)",
+      "Chunk B (Aspects)"
+    ]
+  },
+  {
+    "category": "Review",
+    "query": "bad location",
+    "expected_constraints": {
+      "hard": {},
+      "soft": {
+        "aspects": "location"
+      }
+    },
+    "expected_chunk_types": [
+      "Chunk D (Neg Evidence)",
+      "Chunk B (Aspects)"
+    ]
+  },
+  {
+    "category": "Review",
+    "query": "complaints about cleanliness",
+    "expected_constraints": {
+      "hard": {},
+      "soft": {
+        "aspects": "cleanliness"
+      }
+    },
+    "expected_chunk_types": [
+      "Chunk D (Neg Evidence)",
+      "Chunk B (Aspects)"
+    ]
+  },
+  {
+    "category": "Review",
+    "query": "guests mention food quality",
+    "expected_constraints": {
+      "hard": {},
+      "soft": {
+        "aspects": "food"
+      }
+    },
+    "expected_chunk_types": [
+      "Chunk C (Pos Evidence)",
+      "Chunk B (Aspects)"
+    ]
+  },
+  {
+    "category": "Review",
+    "query": "recurring issues with wifi",
+    "expected_constraints": {
+      "hard": {},
+      "soft": {
+        "aspects": "wifi"
+      }
+    },
+    "expected_chunk_types": [
+      "Chunk D (Neg Evidence)",
+      "Chunk B (Aspects)"
+    ]
+  },
+  {
+    "category": "Review",
+    "query": "praise for staff",
+    "expected_constraints": {
+      "hard": {},
+      "soft": {
+        "aspects": "staff"
+      }
+    },
+    "expected_chunk_types": [
+      "Chunk C (Pos Evidence)",
+      "Chunk B (Aspects)"
+    ]
+  },
+  {
+    "category": "Review",
+    "query": "bad location",
+    "expected_constraints": {
+      "hard": {},
+      "soft": {
+        "aspects": "location"
+      }
+    },
+    "expected_chunk_types": [
+      "Chunk D (Neg Evidence)",
+      "Chunk B (Aspects)"
+    ]
+  },
+  {
+    "category": "Review",
+    "query": "complaints about cleanliness",
+    "expected_constraints": {
+      "hard": {},
+      "soft": {
+        "aspects": "cleanliness"
+      }
+    },
+    "expected_chunk_types": [
+      "Chunk D (Neg Evidence)",
+      "Chunk B (Aspects)"
+    ]
+  },
+  {
+    "category": "Review",
+    "query": "guests mention food quality",
+    "expected_constraints": {
+      "hard": {},
+      "soft": {
+        "aspects": "food"
+      }
+    },
+    "expected_chunk_types": [
+      "Chunk C (Pos Evidence)",
+      "Chunk B (Aspects)"
+    ]
+  },
+  {
+    "category": "Review",
+    "query": "recurring issues with wifi",
+    "expected_constraints": {
+      "hard": {},
+      "soft": {
+        "aspects": "wifi"
+      }
+    },
+    "expected_chunk_types": [
+      "Chunk D (Neg Evidence)",
+      "Chunk B (Aspects)"
+    ]
+  },
+  {
+    "category": "Review",
+    "query": "praise for staff",
+    "expected_constraints": {
+      "hard": {},
+      "soft": {
+        "aspects": "staff"
+      }
+    },
+    "expected_chunk_types": [
+      "Chunk C (Pos Evidence)",
+      "Chunk B (Aspects)"
+    ]
+  },
+  {
+    "category": "Review",
+    "query": "bad location",
+    "expected_constraints": {
+      "hard": {},
+      "soft": {
+        "aspects": "location"
+      }
+    },
+    "expected_chunk_types": [
+      "Chunk D (Neg Evidence)",
+      "Chunk B (Aspects)"
+    ]
+  },
+  {
+    "category": "Review",
+    "query": "complaints about cleanliness",
+    "expected_constraints": {
+      "hard": {},
+      "soft": {
+        "aspects": "cleanliness"
+      }
+    },
+    "expected_chunk_types": [
+      "Chunk D (Neg Evidence)",
+      "Chunk B (Aspects)"
+    ]
+  },
+  {
+    "category": "Review",
+    "query": "guests mention food quality",
+    "expected_constraints": {
+      "hard": {},
+      "soft": {
+        "aspects": "food"
+      }
+    },
+    "expected_chunk_types": [
+      "Chunk C (Pos Evidence)",
+      "Chunk B (Aspects)"
+    ]
+  },
+  {
+    "category": "Review",
+    "query": "recurring issues with wifi",
+    "expected_constraints": {
+      "hard": {},
+      "soft": {
+        "aspects": "wifi"
+      }
+    },
+    "expected_chunk_types": [
+      "Chunk D (Neg Evidence)",
+      "Chunk B (Aspects)"
+    ]
+  },
+  {
+    "category": "Review",
+    "query": "praise for staff",
+    "expected_constraints": {
+      "hard": {},
+      "soft": {
+        "aspects": "staff"
+      }
+    },
+    "expected_chunk_types": [
+      "Chunk C (Pos Evidence)",
+      "Chunk B (Aspects)"
+    ]
+  },
+  {
+    "category": "Review",
+    "query": "bad location",
+    "expected_constraints": {
+      "hard": {},
+      "soft": {
+        "aspects": "location"
+      }
+    },
+    "expected_chunk_types": [
+      "Chunk D (Neg Evidence)",
+      "Chunk B (Aspects)"
+    ]
+  },
+  {
+    "category": "Recommendation",
+    "query": "why was this hotel recommended",
+    "expected_constraints": {
+      "hard": {},
+      "soft": {}
+    },
+    "expected_chunk_types": [
+      "Chunk E (Rec Signals)",
+      "Chunk A (Profile)"
+    ]
+  },
+  {
+    "category": "Recommendation",
+    "query": "explain this recommendation",
+    "expected_constraints": {
+      "hard": {},
+      "soft": {}
+    },
+    "expected_chunk_types": [
+      "Chunk E (Rec Signals)",
+      "Chunk A (Profile)"
+    ]
+  },
+  {
+    "category": "Recommendation",
+    "query": "strengths and weaknesses",
+    "expected_constraints": {
+      "hard": {},
+      "soft": {}
+    },
+    "expected_chunk_types": [
+      "Chunk E (Rec Signals)",
+      "Chunk A (Profile)"
+    ]
+  },
+  {
+    "category": "Recommendation",
+    "query": "why should I trust this hotel",
+    "expected_constraints": {
+      "hard": {},
+      "soft": {}
+    },
+    "expected_chunk_types": [
+      "Chunk E (Rec Signals)",
+      "Chunk A (Profile)"
+    ]
+  },
+  {
+    "category": "Recommendation",
+    "query": "what makes this hotel popular",
+    "expected_constraints": {
+      "hard": {},
+      "soft": {}
+    },
+    "expected_chunk_types": [
+      "Chunk E (Rec Signals)",
+      "Chunk A (Profile)"
+    ]
+  },
+  {
+    "category": "Recommendation",
+    "query": "why was this hotel recommended",
+    "expected_constraints": {
+      "hard": {},
+      "soft": {}
+    },
+    "expected_chunk_types": [
+      "Chunk E (Rec Signals)",
+      "Chunk A (Profile)"
+    ]
+  },
+  {
+    "category": "Recommendation",
+    "query": "explain this recommendation",
+    "expected_constraints": {
+      "hard": {},
+      "soft": {}
+    },
+    "expected_chunk_types": [
+      "Chunk E (Rec Signals)",
+      "Chunk A (Profile)"
+    ]
+  },
+  {
+    "category": "Recommendation",
+    "query": "strengths and weaknesses",
+    "expected_constraints": {
+      "hard": {},
+      "soft": {}
+    },
+    "expected_chunk_types": [
+      "Chunk E (Rec Signals)",
+      "Chunk A (Profile)"
+    ]
+  },
+  {
+    "category": "Recommendation",
+    "query": "why should I trust this hotel",
+    "expected_constraints": {
+      "hard": {},
+      "soft": {}
+    },
+    "expected_chunk_types": [
+      "Chunk E (Rec Signals)",
+      "Chunk A (Profile)"
+    ]
+  },
+  {
+    "category": "Recommendation",
+    "query": "what makes this hotel popular",
+    "expected_constraints": {
+      "hard": {},
+      "soft": {}
+    },
+    "expected_chunk_types": [
+      "Chunk E (Rec Signals)",
+      "Chunk A (Profile)"
+    ]
+  },
+  {
+    "category": "Recommendation",
+    "query": "why was this hotel recommended",
+    "expected_constraints": {
+      "hard": {},
+      "soft": {}
+    },
+    "expected_chunk_types": [
+      "Chunk E (Rec Signals)",
+      "Chunk A (Profile)"
+    ]
+  },
+  {
+    "category": "Recommendation",
+    "query": "explain this recommendation",
+    "expected_constraints": {
+      "hard": {},
+      "soft": {}
+    },
+    "expected_chunk_types": [
+      "Chunk E (Rec Signals)",
+      "Chunk A (Profile)"
+    ]
+  },
+  {
+    "category": "Recommendation",
+    "query": "strengths and weaknesses",
+    "expected_constraints": {
+      "hard": {},
+      "soft": {}
+    },
+    "expected_chunk_types": [
+      "Chunk E (Rec Signals)",
+      "Chunk A (Profile)"
+    ]
+  },
+  {
+    "category": "Recommendation",
+    "query": "why should I trust this hotel",
+    "expected_constraints": {
+      "hard": {},
+      "soft": {}
+    },
+    "expected_chunk_types": [
+      "Chunk E (Rec Signals)",
+      "Chunk A (Profile)"
+    ]
+  },
+  {
+    "category": "Recommendation",
+    "query": "what makes this hotel popular",
+    "expected_constraints": {
+      "hard": {},
+      "soft": {}
+    },
+    "expected_chunk_types": [
+      "Chunk E (Rec Signals)",
+      "Chunk A (Profile)"
+    ]
+  },
+  {
+    "category": "Recommendation",
+    "query": "why was this hotel recommended",
+    "expected_constraints": {
+      "hard": {},
+      "soft": {}
+    },
+    "expected_chunk_types": [
+      "Chunk E (Rec Signals)",
+      "Chunk A (Profile)"
+    ]
+  },
+  {
+    "category": "Recommendation",
+    "query": "explain this recommendation",
+    "expected_constraints": {
+      "hard": {},
+      "soft": {}
+    },
+    "expected_chunk_types": [
+      "Chunk E (Rec Signals)",
+      "Chunk A (Profile)"
+    ]
+  },
+  {
+    "category": "Recommendation",
+    "query": "strengths and weaknesses",
+    "expected_constraints": {
+      "hard": {},
+      "soft": {}
+    },
+    "expected_chunk_types": [
+      "Chunk E (Rec Signals)",
+      "Chunk A (Profile)"
+    ]
+  },
+  {
+    "category": "Recommendation",
+    "query": "why should I trust this hotel",
+    "expected_constraints": {
+      "hard": {},
+      "soft": {}
+    },
+    "expected_chunk_types": [
+      "Chunk E (Rec Signals)",
+      "Chunk A (Profile)"
+    ]
+  },
+  {
+    "category": "Recommendation",
+    "query": "what makes this hotel popular",
+    "expected_constraints": {
+      "hard": {},
+      "soft": {}
+    },
+    "expected_chunk_types": [
+      "Chunk E (Rec Signals)",
+      "Chunk A (Profile)"
+    ]
+  },
+  {
+    "category": "Recommendation",
+    "query": "why was this hotel recommended",
+    "expected_constraints": {
+      "hard": {},
+      "soft": {}
+    },
+    "expected_chunk_types": [
+      "Chunk E (Rec Signals)",
+      "Chunk A (Profile)"
+    ]
+  },
+  {
+    "category": "Recommendation",
+    "query": "explain this recommendation",
+    "expected_constraints": {
+      "hard": {},
+      "soft": {}
+    },
+    "expected_chunk_types": [
+      "Chunk E (Rec Signals)",
+      "Chunk A (Profile)"
+    ]
+  },
+  {
+    "category": "Recommendation",
+    "query": "strengths and weaknesses",
+    "expected_constraints": {
+      "hard": {},
+      "soft": {}
+    },
+    "expected_chunk_types": [
+      "Chunk E (Rec Signals)",
+      "Chunk A (Profile)"
+    ]
+  },
+  {
+    "category": "Recommendation",
+    "query": "why should I trust this hotel",
+    "expected_constraints": {
+      "hard": {},
+      "soft": {}
+    },
+    "expected_chunk_types": [
+      "Chunk E (Rec Signals)",
+      "Chunk A (Profile)"
+    ]
+  },
+  {
+    "category": "Recommendation",
+    "query": "what makes this hotel popular",
+    "expected_constraints": {
+      "hard": {},
+      "soft": {}
+    },
+    "expected_chunk_types": [
+      "Chunk E (Rec Signals)",
+      "Chunk A (Profile)"
+    ]
+  },
+  {
+    "category": "Multi",
+    "query": "strictly budget family hotels in Mahipalpur with good cleanliness",
+    "expected_constraints": {
+      "hard": {
+        "area": "Mahipalpur",
+        "budget_category": "budget"
+      },
+      "soft": {
+        "travel_purpose": "family",
+        "aspects": "cleanliness"
+      }
+    },
+    "expected_chunk_types": [
+      "Chunk A (Profile)",
+      "Chunk B (Aspects)"
+    ]
+  },
+  {
+    "category": "Multi",
+    "query": "strictly cheap family hotels in Karol Bagh with good service",
+    "expected_constraints": {
+      "hard": {
+        "area": "Karol Bagh",
+        "budget_category": "budget"
+      },
+      "soft": {
+        "travel_purpose": "family",
+        "aspects": "service"
+      }
+    },
+    "expected_chunk_types": [
+      "Chunk A (Profile)",
+      "Chunk B (Aspects)"
+    ]
+  },
+  {
+    "category": "Multi",
+    "query": "strictly mid-range family hotels in Loni with good location",
+    "expected_constraints": {
+      "hard": {
+        "area": "Loni",
+        "budget_category": "mid-range"
+      },
+      "soft": {
+        "travel_purpose": "family",
+        "aspects": "location"
+      }
+    },
+    "expected_chunk_types": [
+      "Chunk A (Profile)",
+      "Chunk B (Aspects)"
+    ]
+  },
+  {
+    "category": "Multi",
+    "query": "strictly luxury family hotels in Delhi NCR with good value",
+    "expected_constraints": {
+      "hard": {
+        "area": "Delhi NCR",
+        "budget_category": "luxury"
+      },
+      "soft": {
+        "travel_purpose": "family",
+        "aspects": "value"
+      }
+    },
+    "expected_chunk_types": [
+      "Chunk A (Profile)",
+      "Chunk B (Aspects)"
+    ]
+  },
+  {
+    "category": "Multi",
+    "query": "strictly expensive family hotels in Gurugram with good staff",
+    "expected_constraints": {
+      "hard": {
+        "area": "Gurugram",
+        "budget_category": "luxury"
+      },
+      "soft": {
+        "travel_purpose": "family",
+        "aspects": "staff"
+      }
+    },
+    "expected_chunk_types": [
+      "Chunk A (Profile)",
+      "Chunk B (Aspects)"
+    ]
+  },
+  {
+    "category": "Multi",
+    "query": "strictly budget family hotels in Noida with good food",
+    "expected_constraints": {
+      "hard": {
+        "area": "Noida",
+        "budget_category": "budget"
+      },
+      "soft": {
+        "travel_purpose": "family",
+        "aspects": "food"
+      }
+    },
+    "expected_chunk_types": [
+      "Chunk A (Profile)",
+      "Chunk B (Aspects)"
+    ]
+  },
+  {
+    "category": "Multi",
+    "query": "strictly cheap family hotels in Mahipalpur with good wifi",
+    "expected_constraints": {
+      "hard": {
+        "area": "Mahipalpur",
+        "budget_category": "budget"
+      },
+      "soft": {
+        "travel_purpose": "family",
+        "aspects": "wifi"
+      }
+    },
+    "expected_chunk_types": [
+      "Chunk A (Profile)",
+      "Chunk B (Aspects)"
+    ]
+  },
+  {
+    "category": "Multi",
+    "query": "strictly mid-range family hotels in Karol Bagh with good pool",
+    "expected_constraints": {
+      "hard": {
+        "area": "Karol Bagh",
+        "budget_category": "mid-range"
+      },
+      "soft": {
+        "travel_purpose": "family",
+        "aspects": "pool"
+      }
+    },
+    "expected_chunk_types": [
+      "Chunk A (Profile)",
+      "Chunk B (Aspects)"
+    ]
+  },
+  {
+    "category": "Multi",
+    "query": "strictly luxury family hotels in Loni with good view",
+    "expected_constraints": {
+      "hard": {
+        "area": "Loni",
+        "budget_category": "luxury"
+      },
+      "soft": {
+        "travel_purpose": "family",
+        "aspects": "view"
+      }
+    },
+    "expected_chunk_types": [
+      "Chunk A (Profile)",
+      "Chunk B (Aspects)"
+    ]
+  },
+  {
+    "category": "Multi",
+    "query": "strictly expensive family hotels in Delhi NCR with good parking",
+    "expected_constraints": {
+      "hard": {
+        "area": "Delhi NCR",
+        "budget_category": "luxury"
+      },
+      "soft": {
+        "travel_purpose": "family",
+        "aspects": "parking"
+      }
+    },
+    "expected_chunk_types": [
+      "Chunk A (Profile)",
+      "Chunk B (Aspects)"
+    ]
+  },
+  {
+    "category": "Multi",
+    "query": "strictly budget family hotels in Gurugram with good cleanliness",
+    "expected_constraints": {
+      "hard": {
+        "area": "Gurugram",
+        "budget_category": "budget"
+      },
+      "soft": {
+        "travel_purpose": "family",
+        "aspects": "cleanliness"
+      }
+    },
+    "expected_chunk_types": [
+      "Chunk A (Profile)",
+      "Chunk B (Aspects)"
+    ]
+  },
+  {
+    "category": "Multi",
+    "query": "strictly cheap family hotels in Noida with good service",
+    "expected_constraints": {
+      "hard": {
+        "area": "Noida",
+        "budget_category": "budget"
+      },
+      "soft": {
+        "travel_purpose": "family",
+        "aspects": "service"
+      }
+    },
+    "expected_chunk_types": [
+      "Chunk A (Profile)",
+      "Chunk B (Aspects)"
+    ]
+  },
+  {
+    "category": "Multi",
+    "query": "strictly mid-range family hotels in Mahipalpur with good location",
+    "expected_constraints": {
+      "hard": {
+        "area": "Mahipalpur",
+        "budget_category": "mid-range"
+      },
+      "soft": {
+        "travel_purpose": "family",
+        "aspects": "location"
+      }
+    },
+    "expected_chunk_types": [
+      "Chunk A (Profile)",
+      "Chunk B (Aspects)"
+    ]
+  },
+  {
+    "category": "Multi",
+    "query": "strictly luxury family hotels in Karol Bagh with good value",
+    "expected_constraints": {
+      "hard": {
+        "area": "Karol Bagh",
+        "budget_category": "luxury"
+      },
+      "soft": {
+        "travel_purpose": "family",
+        "aspects": "value"
+      }
+    },
+    "expected_chunk_types": [
+      "Chunk A (Profile)",
+      "Chunk B (Aspects)"
+    ]
+  },
+  {
+    "category": "Multi",
+    "query": "strictly expensive family hotels in Loni with good staff",
+    "expected_constraints": {
+      "hard": {
+        "area": "Loni",
+        "budget_category": "luxury"
+      },
+      "soft": {
+        "travel_purpose": "family",
+        "aspects": "staff"
+      }
+    },
+    "expected_chunk_types": [
+      "Chunk A (Profile)",
+      "Chunk B (Aspects)"
+    ]
+  },
+  {
+    "category": "Multi",
+    "query": "strictly budget family hotels in Delhi NCR with good food",
+    "expected_constraints": {
+      "hard": {
+        "area": "Delhi NCR",
+        "budget_category": "budget"
+      },
+      "soft": {
+        "travel_purpose": "family",
+        "aspects": "food"
+      }
+    },
+    "expected_chunk_types": [
+      "Chunk A (Profile)",
+      "Chunk B (Aspects)"
+    ]
+  },
+  {
+    "category": "Multi",
+    "query": "strictly cheap family hotels in Gurugram with good wifi",
+    "expected_constraints": {
+      "hard": {
+        "area": "Gurugram",
+        "budget_category": "budget"
+      },
+      "soft": {
+        "travel_purpose": "family",
+        "aspects": "wifi"
+      }
+    },
+    "expected_chunk_types": [
+      "Chunk A (Profile)",
+      "Chunk B (Aspects)"
+    ]
+  },
+  {
+    "category": "Multi",
+    "query": "strictly mid-range family hotels in Noida with good pool",
+    "expected_constraints": {
+      "hard": {
+        "area": "Noida",
+        "budget_category": "mid-range"
+      },
+      "soft": {
+        "travel_purpose": "family",
+        "aspects": "pool"
+      }
+    },
+    "expected_chunk_types": [
+      "Chunk A (Profile)",
+      "Chunk B (Aspects)"
+    ]
+  },
+  {
+    "category": "Multi",
+    "query": "strictly luxury family hotels in Mahipalpur with good view",
+    "expected_constraints": {
+      "hard": {
+        "area": "Mahipalpur",
+        "budget_category": "luxury"
+      },
+      "soft": {
+        "travel_purpose": "family",
+        "aspects": "view"
+      }
+    },
+    "expected_chunk_types": [
+      "Chunk A (Profile)",
+      "Chunk B (Aspects)"
+    ]
+  },
+  {
+    "category": "Multi",
+    "query": "strictly expensive family hotels in Karol Bagh with good parking",
+    "expected_constraints": {
+      "hard": {
+        "area": "Karol Bagh",
+        "budget_category": "luxury"
+      },
+      "soft": {
+        "travel_purpose": "family",
+        "aspects": "parking"
+      }
+    },
+    "expected_chunk_types": [
+      "Chunk A (Profile)",
+      "Chunk B (Aspects)"
+    ]
+  },
+  {
+    "category": "Multi",
+    "query": "strictly budget family hotels in Loni with good cleanliness",
+    "expected_constraints": {
+      "hard": {
+        "area": "Loni",
+        "budget_category": "budget"
+      },
+      "soft": {
+        "travel_purpose": "family",
+        "aspects": "cleanliness"
+      }
+    },
+    "expected_chunk_types": [
+      "Chunk A (Profile)",
+      "Chunk B (Aspects)"
+    ]
+  },
+  {
+    "category": "Multi",
+    "query": "strictly cheap family hotels in Delhi NCR with good service",
+    "expected_constraints": {
+      "hard": {
+        "area": "Delhi NCR",
+        "budget_category": "budget"
+      },
+      "soft": {
+        "travel_purpose": "family",
+        "aspects": "service"
+      }
+    },
+    "expected_chunk_types": [
+      "Chunk A (Profile)",
+      "Chunk B (Aspects)"
+    ]
+  },
+  {
+    "category": "Multi",
+    "query": "strictly mid-range family hotels in Gurugram with good location",
+    "expected_constraints": {
+      "hard": {
+        "area": "Gurugram",
+        "budget_category": "mid-range"
+      },
+      "soft": {
+        "travel_purpose": "family",
+        "aspects": "location"
+      }
+    },
+    "expected_chunk_types": [
+      "Chunk A (Profile)",
+      "Chunk B (Aspects)"
+    ]
+  },
+  {
+    "category": "Multi",
+    "query": "strictly luxury family hotels in Noida with good value",
+    "expected_constraints": {
+      "hard": {
+        "area": "Noida",
+        "budget_category": "luxury"
+      },
+      "soft": {
+        "travel_purpose": "family",
+        "aspects": "value"
+      }
+    },
+    "expected_chunk_types": [
+      "Chunk A (Profile)",
+      "Chunk B (Aspects)"
+    ]
+  },
+  {
+    "category": "Multi",
+    "query": "strictly expensive family hotels in Mahipalpur with good staff",
+    "expected_constraints": {
+      "hard": {
+        "area": "Mahipalpur",
+        "budget_category": "luxury"
+      },
+      "soft": {
+        "travel_purpose": "family",
+        "aspects": "staff"
+      }
+    },
+    "expected_chunk_types": [
+      "Chunk A (Profile)",
+      "Chunk B (Aspects)"
+    ]
+  }
+]

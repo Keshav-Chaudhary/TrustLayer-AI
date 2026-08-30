@@ -1,0 +1,50 @@
+{
+  "hotel_id": "ChIJ8eQZ5P4bDTkRHptlV4BmkLY",
+  "hotel_name": "Hotel Revive Inn",
+  "area": "Syndicate Enclave",
+  "budget_category": "Budget",
+  "rating": 4.6,
+  "trust_score": 0.6868896049355979,
+  "travel_purpose_tags": [
+    "Budget"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "moderate",
+    "review_count": 5,
+    "positive_snippet_count": 2,
+    "negative_snippet_count": 3,
+    "positive_theme_count": 2,
+    "negative_theme_count": 1
+  },
+  "aspect_scores": {
+    "cleanliness": 0.0089798374101519,
+    "service": 0.0020445550326257,
+    "location": 0.0015929478686302,
+    "value_for_money": 0.5043985149823129,
+    "staff_behavior": 0.5008063192944974
+  },
+  "recommendation_features": {
+    "popularity_score": 0.4408918306756971,
+    "rating_score": 4.6,
+    "sentiment_score": 0.4024410229176283
+  },
+  "review_evidence": {
+    "positive_snippets": [
+      "Nice experience budget friendly hotel",
+      "The best hotel for stay very comfortable Room Manager behaviour is very good \ud83d\udc4d\ud83d\ude0a"
+    ],
+    "negative_snippets": [
+      "I had a confirmed booking at this hotel, but the staff denied providing the room on arrival and attempted to shift me to a different property by sharing another location on WhatsApp. Later, they falsely claimed that I never visited the hotel. This was a clear case of denying a confirmed booking and trying to relocate the guest without consent. Please ensure room availability before accepting bookings.",
+      "My overall experience at this hotel was below expectations. The check-in process, however, was smooth and hassle-free. The person at the reception was very polite, professional, and communicative, which created a good first impression.\n\nUnfortunately, the service quality after check-in did not match that initial impression. Room service was extremely slow, and every small request took a long time to be fulfilled. Staff coordination seemed poor, and it often felt like there was a lack of proper management. I also had to follow up multiple times just to get the GST bill, which was quite inconvenient for a business traveler.\n\nBefore arrival, I had informed the hotel about my early check-in plan, and they had confirmed it. However, when I reached the property in the morning, there was no staff present at the reception desk. I had to wait for quite some time before someone arrived, which was disappointing.\n\nOverall, while the reception team was courteous and the initial check-in experience went well, the overall service standards and responsiveness need major improvement. The hotel management should focus on faster service, better staff availability, and timely support for guest requirements. With a few improvements in these areas, the guest experience could become significantly better.",
+      "They don't take online booking which price is less they ask for more money.\nSmall rooms and dirty bedsheets"
+    ]
+  },
+  "review_summary": "Based on 5 reviews.",
+  "positive_themes": {
+    "friendly_staff": 3,
+    "good_location": 2
+  },
+  "negative_themes": {
+    "dirty_rooms": 1
+  }
+}

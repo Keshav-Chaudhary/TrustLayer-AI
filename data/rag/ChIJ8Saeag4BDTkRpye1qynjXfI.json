@@ -1,0 +1,48 @@
+{
+  "hotel_id": "ChIJ8Saeag4BDTkRpye1qynjXfI",
+  "hotel_name": "Hotel New City - Hotel In Azadpur",
+  "area": "New Delhi",
+  "budget_category": "Mid-Range",
+  "rating": 3.1,
+  "trust_score": 0.5158775322067171,
+  "travel_purpose_tags": [
+    "Leisure"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "moderate",
+    "review_count": 5,
+    "positive_snippet_count": 1,
+    "negative_snippet_count": 3,
+    "positive_theme_count": 1,
+    "negative_theme_count": 1
+  },
+  "aspect_scores": {
+    "cleanliness": 0.0004705469182226,
+    "service": 0.9997089505195618,
+    "location": 0.9993159770965576,
+    "value_for_money": 0.0004705469182226,
+    "staff_behavior": 0.5
+  },
+  "recommendation_features": {
+    "popularity_score": 0.2788721589039871,
+    "rating_score": 3.1,
+    "sentiment_score": 0.599437922652578
+  },
+  "review_evidence": {
+    "positive_snippets": [
+      "Very good hotel  good service good room good location \ud83d\udc4d"
+    ],
+    "negative_snippets": [
+      "Worst people never wanna see this hotel again",
+      "Worst kind of hotel, dirty, shabby, dingy, wouldn't stay here for free!! For evidence, see my photos & videos. TV wasn't working, no hot water, not even drinking water..!\nGot interested in this property since it was listed in Treebo & located very close to Adarsh Nagar Metro, but was utterly disappointed on reaching here.. was late at night, so had to reluctantly spend the night here. Moreover despite booking paid online, the octogenarian receptionist tried to deny my booking & refused to accept aadhar as a proof of identity!! He went on further firing random irrelevant questions as if he's CID.\nHowever after my complaint, Treebo was responsible enough to provide alternative hotel in the morning (at extra cost of course).",
+      "Everything is good but services is a ...."
+    ]
+  },
+  "review_summary": "Based on 5 reviews.",
+  "positive_themes": {
+    "good_location": 3
+  },
+  "negative_themes": {
+    "dirty_rooms": 1
+  }
+}

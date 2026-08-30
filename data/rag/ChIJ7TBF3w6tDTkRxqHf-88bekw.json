@@ -1,0 +1,45 @@
+{
+  "hotel_id": "ChIJ7TBF3w6tDTkRxqHf-88bekw",
+  "hotel_name": "Oyo 38548 Hotel Deluxe Taj",
+  "area": "Kundli",
+  "budget_category": "Budget",
+  "rating": 3.3,
+  "trust_score": 0.4790289864948262,
+  "travel_purpose_tags": [
+    "Leisure"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "moderate",
+    "review_count": 2,
+    "positive_snippet_count": 1,
+    "negative_snippet_count": 1,
+    "positive_theme_count": 2,
+    "negative_theme_count": 0
+  },
+  "aspect_scores": {
+    "cleanliness": 0.0020270640961825,
+    "service": 0.5,
+    "location": 0.998950719833374,
+    "value_for_money": 0.0020270640961825,
+    "staff_behavior": 0.0020270640961825
+  },
+  "recommendation_features": {
+    "popularity_score": 0.1290498836544179,
+    "rating_score": 3.3,
+    "sentiment_score": 0.5004888919647783
+  },
+  "review_evidence": {
+    "positive_snippets": [
+      "Good location - everything is nearby especially market"
+    ],
+    "negative_snippets": [
+      "I booked this hotel through OYO for a day and paid entire amount, one day before of my actual stay.  But I was denied room by the hotel manager stating that OYO booked price was low despite his advise not to do so.   I spent newly 40 minutes on OYO helpline to sort out the issue. But instead of advising the hotel to give room, OYO advised me to shift to some other OYO hotels nearby for which I refused.  Finally I made them to refund full amount(got payment after three days).\n\nSince I didn't have any other options looking into our luggage and additional cost for transportation, I stayed in this hotel after paying \u20b9100 extra over and above OYO booked price directly to the hotel with morning breakfast. Surprisingly in the room OYO provided shampoo, soap and bed cover was used. Both OYO and the hotel were playing with the customers' money and time.  One more OYO customer was also standing outside with similar problem on that day.\n\nThere was no mirror in the room. Bathroom light was not adequate. After closing the bathroom door, nothing was visible inside.  Bedsheet was not changed. Television was not working due to power connection problem. But surprisingly they provided fridge, induction stove and microwave ovan! You can have luxury items from this hotel but not necessity items!?!\n\nSince the hotel was unable to provide breakfast before 9 am, we left without taking breakfast.\n\nThis my 4th bad experience from OYO.  I decided not to book through OYO in future.  Don't go by the photos posted by the hotel."
+    ]
+  },
+  "review_summary": "Based on 2 reviews.",
+  "positive_themes": {
+    "good_location": 2,
+    "good_food": 1
+  },
+  "negative_themes": {}
+}

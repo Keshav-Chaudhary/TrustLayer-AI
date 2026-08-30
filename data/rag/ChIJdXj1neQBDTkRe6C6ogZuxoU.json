@@ -1,0 +1,52 @@
+{
+  "hotel_id": "ChIJdXj1neQBDTkRe6C6ogZuxoU",
+  "hotel_name": "Via Luxury Inn Adarsh Nagar",
+  "area": "Azadpur",
+  "budget_category": "Budget",
+  "rating": 4.3,
+  "trust_score": 0.702091379256161,
+  "travel_purpose_tags": [
+    "Budget"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "rich",
+    "review_count": 5,
+    "positive_snippet_count": 3,
+    "negative_snippet_count": 2,
+    "positive_theme_count": 3,
+    "negative_theme_count": 2
+  },
+  "aspect_scores": {
+    "cleanliness": 0.333833968732506,
+    "service": 0.0008097232785075,
+    "location": 0.5,
+    "value_for_money": 0.5,
+    "staff_behavior": 0.6667005371224756
+  },
+  "recommendation_features": {
+    "popularity_score": 0.4031471593455658,
+    "rating_score": 4.3,
+    "sentiment_score": 0.6002522206865251
+  },
+  "review_evidence": {
+    "positive_snippets": [
+      "What a wonderful stay! the room were clean, comfortable, and elegant, perfect for a relaxing getaway!\nVery friendly and helpful staff,mode us feel right at home,\ud83d\udc4d\ud83d\ude4f",
+      "Very good hotel and all staff",
+      "Very good hotel and food is very delicious"
+    ],
+    "negative_snippets": [
+      "There is no minus point otherwise i\u2019ll give that rating\u2026.Pathetic experience. Room was not clean at the time of chekiy and they were not cleaning room every day. Bathroom is just like chawl bathroom. We stay for 7 days but they didn\u2019t clean bathroom once in that day . We took package with breakfast they gave us only 2 biscuits and two cup of tea in breakfast which is of 200 rs in breakfast. Very very much disappointed and unsatisfied by there service",
+      "The service of this hotel is very bad. Because hotels do not provide any service even after talking to their hair.\nEven though I called 3 times, there was no response. When the hotel was booked online.\nthe rooms were showing luxury but when seen in real, the room was very small and very dirty. Neither towels nor carpets are provided in the hotel.When we discussed this during checkout, the hotel staff spoke very rudely.Its Very Discusting Hotel ........\ud83d\udc4e\ud83d\udc4e\ud83d\udc4e\ud83d\udc4e\ud83d\udc4e\ud83d\udc4e"
+    ]
+  },
+  "review_summary": "Based on 5 reviews.",
+  "positive_themes": {
+    "clean_rooms": 2,
+    "friendly_staff": 3,
+    "good_food": 2
+  },
+  "negative_themes": {
+    "dirty_rooms": 1,
+    "rude_staff": 1
+  }
+}

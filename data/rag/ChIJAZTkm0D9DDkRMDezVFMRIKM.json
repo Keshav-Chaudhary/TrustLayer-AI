@@ -1,0 +1,52 @@
+{
+  "hotel_id": "ChIJAZTkm0D9DDkRMDezVFMRIKM",
+  "hotel_name": "The Gold Inn",
+  "area": "Paharganj",
+  "budget_category": "Budget",
+  "rating": 3.8,
+  "trust_score": 0.7431224979873032,
+  "travel_purpose_tags": [
+    "Leisure",
+    "Family"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "rich",
+    "review_count": 5,
+    "positive_snippet_count": 3,
+    "negative_snippet_count": 2,
+    "positive_theme_count": 3,
+    "negative_theme_count": 1
+  },
+  "aspect_scores": {
+    "cleanliness": 0.9982900023460388,
+    "service": 0.4997359791450435,
+    "location": 0.999094545841217,
+    "value_for_money": 0.9986402094364166,
+    "staff_behavior": 0.6653842912152564
+  },
+  "recommendation_features": {
+    "popularity_score": 0.6106333596656971,
+    "rating_score": 3.8,
+    "sentiment_score": 0.7988683930656407
+  },
+  "review_evidence": {
+    "positive_snippets": [
+      "A very good property in the price range. The rooms and bathroom was very clean. And the staff was friendly and helpful. Only drawback is that it's not on the main road and there's a 100m walk through an inside lane. You can surely book this one if you want a good reasonably priced hotel in Paharganj.",
+      "If you are looking for a clean hotel in bazaar with good price and you dont expect too much, I can deffenetly recommend this place.\n\nthe hotel is clean and the location is ok. it is in the small alley not in the main street, but still when they give good offers I prefer to stay here. the alley has many shops and other hotels in it so you wont feel unsafe. generaly I recomend this place to people who dont expect much facilities from hotel but want to stay in a safe and clean place.",
+      "Highly recommend to stay in paharganj area, clean and comfortable rooms, good bathroom, and excellent staff !!! Very close to main bazaar but silent because it's in the alley ;)"
+    ],
+    "negative_snippets": [
+      "The hotel location in a tiny alley , few seconds from main Bazar street .\nArea is active and busy all day with locals and tourists .\nGood service and reception people .\nRoom is fine .\nHot water on demand , ask the reception 5 min before showering .\nQuiet room ,\nLift is available .",
+      "My stay at this hotel was very disappointing. The air conditioning was switched off in between, leaving the room hot and uncomfortable. The TV did not work either, which was frustrating. On top of that, the staff showed no proper manners when I raised these issues \u2014 their attitude was unhelpful and unprofessional. I expected much better service and basic facilities to function properly. I would not recommend this hotel to anyone."
+    ]
+  },
+  "review_summary": "Based on 5 reviews.",
+  "positive_themes": {
+    "clean_rooms": 3,
+    "friendly_staff": 3,
+    "good_location": 3
+  },
+  "negative_themes": {
+    "rude_staff": 1
+  }
+}

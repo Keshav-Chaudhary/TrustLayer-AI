@@ -1,0 +1,46 @@
+{
+  "hotel_id": "ChIJMw_YsOX7DDkRIA-FtYIrL60",
+  "hotel_name": "Hotel O Red Diamond Hotel",
+  "area": "Bhopura",
+  "budget_category": "Mid-Range",
+  "rating": 4.5,
+  "trust_score": 0.847442490520763,
+  "travel_purpose_tags": [
+    "Leisure",
+    "Family"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "moderate",
+    "review_count": 5,
+    "positive_snippet_count": 3,
+    "negative_snippet_count": 0,
+    "positive_theme_count": 2,
+    "negative_theme_count": 0
+  },
+  "aspect_scores": {
+    "cleanliness": 0.9996149241924286,
+    "service": 0.999770537018776,
+    "location": 0.9996149241924286,
+    "value_for_money": 0.9996828635533652,
+    "staff_behavior": 0.5
+  },
+  "recommendation_features": {
+    "popularity_score": 0.3622888260681913,
+    "rating_score": 4.5,
+    "sentiment_score": 0.999742877483368
+  },
+  "review_evidence": {
+    "positive_snippets": [
+      "Best Hotel at chepest price and good service and good behaviour of staf.\nThank you....",
+      "I came here at second time but at this time here staf and service now very good and moral behaviour also good.thanks",
+      "Good service near and clean rooms best price"
+    ],
+    "negative_snippets": []
+  },
+  "review_summary": "Based on 5 reviews.",
+  "positive_themes": {
+    "clean_rooms": 2,
+    "good_location": 2
+  },
+  "negative_themes": {}
+}

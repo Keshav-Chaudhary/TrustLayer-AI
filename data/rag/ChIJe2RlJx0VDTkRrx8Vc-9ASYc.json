@@ -1,0 +1,44 @@
+{
+  "hotel_id": "ChIJe2RlJx0VDTkRrx8Vc-9ASYc",
+  "hotel_name": "Oyo Hotel Kamal",
+  "area": "Meoka",
+  "budget_category": "Budget",
+  "rating": 5.0,
+  "trust_score": 0.7695371292338515,
+  "travel_purpose_tags": [
+    "Leisure"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "sparse",
+    "review_count": 3,
+    "positive_snippet_count": 3,
+    "negative_snippet_count": 0,
+    "positive_theme_count": 1,
+    "negative_theme_count": 0
+  },
+  "aspect_scores": {
+    "cleanliness": 0.5,
+    "service": 0.5,
+    "location": 0.9997711777687072,
+    "value_for_money": 0.9998419284820556,
+    "staff_behavior": 0.5
+  },
+  "recommendation_features": {
+    "popularity_score": 0.1811444130340956,
+    "rating_score": 5.0,
+    "sentiment_score": 0.6679877558102209
+  },
+  "review_evidence": {
+    "positive_snippets": [
+      "Very well maintained and very reasonable rate in that vicinity.Good location in front of farm house.",
+      "Any contact no your hotal ?\nHotal available now ?",
+      "Room price good"
+    ],
+    "negative_snippets": []
+  },
+  "review_summary": "Based on 3 reviews.",
+  "positive_themes": {
+    "good_location": 1
+  },
+  "negative_themes": {}
+}

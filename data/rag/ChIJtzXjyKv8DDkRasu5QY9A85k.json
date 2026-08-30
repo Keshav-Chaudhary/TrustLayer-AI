@@ -1,0 +1,47 @@
+{
+  "hotel_id": "ChIJtzXjyKv8DDkRasu5QY9A85k",
+  "hotel_name": "Joey'S Hostel Delhi",
+  "area": "Main Vikas Marg",
+  "budget_category": "Budget",
+  "rating": 4.3,
+  "trust_score": 0.8966476337061834,
+  "travel_purpose_tags": [
+    "Leisure"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "moderate",
+    "review_count": 5,
+    "positive_snippet_count": 3,
+    "negative_snippet_count": 0,
+    "positive_theme_count": 4,
+    "negative_theme_count": 0
+  },
+  "aspect_scores": {
+    "cleanliness": 0.5,
+    "service": 0.5,
+    "location": 0.9997525215148926,
+    "value_for_money": 0.9998170733451844,
+    "staff_behavior": 0.999794378876686
+  },
+  "recommendation_features": {
+    "popularity_score": 0.7185723579497482,
+    "rating_score": 4.3,
+    "sentiment_score": 0.9997812986373902
+  },
+  "review_evidence": {
+    "positive_snippets": [
+      "Great hostel and even better people. We joined their walking tour and it turned out to be one of our best experiences in India. The staff helped us with everything, gave us great tips, and were always kind, open, and easy to talk to. Thanks to them, we got to see the real India, not just tourist spots but also local life and everyday atmosphere. We felt welcome from the very first moment. Highly recommend to anyone looking for an authentic experience and a friendly vibe.",
+      "Solo female traveller > Stayed in female dorm:\n\nStayed here twice, at the beginning and at the end of my trip. It's a very nice and social hostel. The staff is amazing and when I visit Delhi again, I'd definitely stay here again! \ud83c\udf1e\n\nLocation is good too, there is a lot of nice streetfood near by.\n\nAnd to all the ladies that are worried about safety in Delhi/India: Don't let fear rule you! India is amazing :)",
+      "Had an awesome stay here at Joey\u2019s! A perfect place to stay if you are arriving in India for the first time and need to get your bearings. They offer cool and cheap day tours and evening activities. The staff make this place, very friendly and happy to help book any future travel. They even let me come hang out for the day after arriving back into Delhi at no cost before my evening flight out. Cheers team"
+    ],
+    "negative_snippets": []
+  },
+  "review_summary": "Based on 5 reviews.",
+  "positive_themes": {
+    "friendly_staff": 4,
+    "good_location": 2,
+    "good_food": 2,
+    "great_value": 1
+  },
+  "negative_themes": {}
+}

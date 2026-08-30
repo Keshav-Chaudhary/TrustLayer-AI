@@ -1,0 +1,47 @@
+{
+  "hotel_id": "ChIJQQ-msLgZDTkRgftdjITVkXE",
+  "hotel_name": "Fabhotel Gazelle Inn",
+  "area": "Sector 8",
+  "budget_category": "Budget",
+  "rating": 3.9,
+  "trust_score": 0.478310100903637,
+  "travel_purpose_tags": [
+    "Budget"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "moderate",
+    "review_count": 5,
+    "positive_snippet_count": 0,
+    "negative_snippet_count": 3,
+    "positive_theme_count": 1,
+    "negative_theme_count": 2
+  },
+  "aspect_scores": {
+    "cleanliness": 0.0014234611298888,
+    "service": 0.0008946269954321,
+    "location": 0.5,
+    "value_for_money": 0.5,
+    "staff_behavior": 0.5
+  },
+  "recommendation_features": {
+    "popularity_score": 0.4999516928857564,
+    "rating_score": 3.9,
+    "sentiment_score": 0.0009677610709331
+  },
+  "review_evidence": {
+    "positive_snippets": [],
+    "negative_snippets": [
+      "The washroom had many cockroaches, the wash basin drain was severely blocked with the water draining out pretty slow. One of the lights in the washroom did not work, the one that worked was very dim. The washroom didn't have any toilet paper, dustbin etc. which are pretty basic amenities. The room was decent, not too good/bad. Didn't try the food.",
+      "Pathetic experience.I booked hotel gazelle inn (38/30P medicity islampur colony, sec-38,122003 gurgaon, India) , on October 2025 (we were 5 guests in total). We reached the hotel at 2pm, the receptionist made  us wait for around 45 minutes and when we reached the room it was in absolutely disgusting condition (Dust was everywhere, stains of sheets, urine drops on toilet seat, cum stains on chairs). They charged us Rs. 2380 in total and made a refund of Rs. 800 on cancellation despite causing us all the trouble",
+      "Worst experience. Poor service by the hotel. Fab has done booking with breakfast, charged extra for breakfast and hotel has no kitchen they denied for it. Communication gap. Approached Fab customer care 3 times but no solution."
+    ]
+  },
+  "review_summary": "Based on 5 reviews.",
+  "positive_themes": {
+    "good_food": 2
+  },
+  "negative_themes": {
+    "dirty_rooms": 2,
+    "rude_staff": 1
+  }
+}

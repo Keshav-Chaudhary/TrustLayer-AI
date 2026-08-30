@@ -1,0 +1,52 @@
+{
+  "hotel_id": "ChIJka2EkL3lDDkRFeu9Eghc8xU",
+  "hotel_name": "Hotel O Jai Shree Hotel",
+  "area": "Sector 31",
+  "budget_category": "Mid-Range",
+  "rating": 3.5,
+  "trust_score": 0.569536158792145,
+  "travel_purpose_tags": [
+    "Budget"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "rich",
+    "review_count": 5,
+    "positive_snippet_count": 3,
+    "negative_snippet_count": 2,
+    "positive_theme_count": 3,
+    "negative_theme_count": 2
+  },
+  "aspect_scores": {
+    "cleanliness": 0.4939279016107321,
+    "service": 0.0020586738828569,
+    "location": 0.0035893432796001,
+    "value_for_money": 0.5,
+    "staff_behavior": 0.6620623234193772
+  },
+  "recommendation_features": {
+    "popularity_score": 0.2834140261914359,
+    "rating_score": 3.5,
+    "sentiment_score": 0.5979296803940087
+  },
+  "review_evidence": {
+    "positive_snippets": [
+      "One the best experience with this hotel.\nIt was best friendly hotel ever I visited.\nEverything was perfect.room no .-402 I stayed and it was best experience.\nMuch reco",
+      "Hotel manager best handling and room neat and clean wash from neat in clean",
+      "Very nice family hotal entry and services good good food"
+    ],
+    "negative_snippets": [
+      "Worst bekar nothing is there, it's a kind of resident. I have given 1200 rupees for room, when I went to room, the room was dirty used seems to be, I came back after 1 hours from room. I asked for refund they decline the request. Please never went to such hotel. It's better if you spend your night at station or on road. Sbse ghatiya aur bekar hotel.",
+      "Worst experience..never go to these peoples just pathetic with the service and rude at the same point..\nIf you don't want to ruin your day..just don't go there , very pathetic and irresponsible desk service they offer..even they don't worry about your situation and conditions..\nSo..stay away from this property"
+    ]
+  },
+  "review_summary": "Based on 5 reviews.",
+  "positive_themes": {
+    "friendly_staff": 1,
+    "clean_rooms": 1,
+    "good_food": 1
+  },
+  "negative_themes": {
+    "dirty_rooms": 1,
+    "rude_staff": 1
+  }
+}

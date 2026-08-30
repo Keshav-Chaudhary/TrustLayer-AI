@@ -1,0 +1,44 @@
+{
+  "hotel_id": "ChIJzw_MWG0BDTkRVR_jgo6c2JM",
+  "hotel_name": "Oyo Townhouse 670 Hotel 16 Near Adarsh Nagar Metro Station",
+  "area": "Adarsh Nagar",
+  "budget_category": "Budget",
+  "rating": 1.9,
+  "trust_score": 0.1537899962395889,
+  "travel_purpose_tags": [
+    "Budget"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "sparse",
+    "review_count": 3,
+    "positive_snippet_count": 0,
+    "negative_snippet_count": 3,
+    "positive_theme_count": 0,
+    "negative_theme_count": 1
+  },
+  "aspect_scores": {
+    "cleanliness": 0.0005681454786099,
+    "service": 0.5,
+    "location": 0.5,
+    "value_for_money": 0.5,
+    "staff_behavior": 0.5
+  },
+  "recommendation_features": {
+    "popularity_score": 0.223219623947779,
+    "rating_score": 1.9,
+    "sentiment_score": 0.0016209641859555
+  },
+  "review_evidence": {
+    "positive_snippets": [],
+    "negative_snippets": [
+      "They will not allow you chek in if you booked online.",
+      "overpriced not seen as pictures",
+      "Overpriced and filthy rooms."
+    ]
+  },
+  "review_summary": "Based on 3 reviews.",
+  "positive_themes": {},
+  "negative_themes": {
+    "dirty_rooms": 1
+  }
+}

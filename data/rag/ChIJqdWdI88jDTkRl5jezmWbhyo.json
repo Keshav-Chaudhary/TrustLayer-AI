@@ -1,0 +1,51 @@
+{
+  "hotel_id": "ChIJqdWdI88jDTkRl5jezmWbhyo",
+  "hotel_name": "Starlight Inn",
+  "area": "Sector 57",
+  "budget_category": "Budget",
+  "rating": 3.9,
+  "trust_score": 0.5415145736274354,
+  "travel_purpose_tags": [
+    "Budget"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "moderate",
+    "review_count": 5,
+    "positive_snippet_count": 1,
+    "negative_snippet_count": 3,
+    "positive_theme_count": 4,
+    "negative_theme_count": 1
+  },
+  "aspect_scores": {
+    "cleanliness": 0.5000297521837637,
+    "service": 0.0002897312806453,
+    "location": 0.0003292103428975,
+    "value_for_money": 0.0004250080237397,
+    "staff_behavior": 0.2002398503391304
+  },
+  "recommendation_features": {
+    "popularity_score": 0.4982034759934415,
+    "rating_score": 3.9,
+    "sentiment_score": 0.2002398503391304
+  },
+  "review_evidence": {
+    "positive_snippets": [
+      ": I had an amazing stay at this OYO hotel. The room was clean, the staff was courteous, and the check-in process Absolutely loved my stay! The room was spotless, and the staff was super friendly. OYO really exceeded my expectations.\""
+    ],
+    "negative_snippets": [
+      "This is the worst hotel I have ever stayed at in Gurgaon. I stayed here for two nights, and the experience was appalling. They did not have a key for the door, no water was available in the washroom, there was no lock from inside, and none of the switches were working. When I complained, they claimed they would resolve the issues within two hours, but nothing was done.\n\nI had no water to bathe for two days. To make matters worse, I had booked through Oyo, but they refused to honor the booking, giving some ridiculous excuse. I was forced to book offline instead.\n\nTo top it all off, the receptionist was extremely rude and unprofessional, smoking near my room. If you are considering staying here, do yourself a favor and avoid this place at all costs. This hotel is a complete disaster.",
+      "My stay was terrible. The female receptionist and the owner were incredibly rude during my stay. Their unprofessional attitude and lack of basic courtesy made the experience very uncomfortable. Instead of addressing concerns, they were dismissive and unhelpful. Such behaviour from staff, especially management, is unacceptable and left a very negative impression.Even the  air conditioning in my room was not working, making the stay uncomfortable, and there was also a persistent water shortage. These basic amenities were not adequately provided, which greatly affected the quality of my stay. This level of service is unacceptable and needs immediate attention for future guests.",
+      "Worst hotel \ud83c\udfe8 I have been seen in my life.\nEverything is dusty. Staff is money digger and the owner is so greedy they charge extra then booking amount and asking for money even for water . About food I found some insects in my dal and the owner told that this is jeera refused to accept."
+    ]
+  },
+  "review_summary": "Based on 5 reviews.",
+  "positive_themes": {
+    "clean_rooms": 1,
+    "friendly_staff": 3,
+    "good_location": 1,
+    "good_food": 1
+  },
+  "negative_themes": {
+    "rude_staff": 3
+  }
+}

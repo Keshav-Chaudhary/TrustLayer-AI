@@ -1,0 +1,54 @@
+{
+  "hotel_id": "ChIJc71sG0EcDTkRy3QIJsXVu6I",
+  "hotel_name": "Hotel Good Luck By Jmd Group",
+  "area": "Mahipalpur",
+  "budget_category": "Mid-Range",
+  "rating": 4.2,
+  "trust_score": 0.8094207402171836,
+  "travel_purpose_tags": [
+    "Leisure",
+    "Business"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "rich",
+    "review_count": 5,
+    "positive_snippet_count": 3,
+    "negative_snippet_count": 2,
+    "positive_theme_count": 5,
+    "negative_theme_count": 1
+  },
+  "aspect_scores": {
+    "cleanliness": 0.5,
+    "service": 0.9996878504753112,
+    "location": 0.9996880292892456,
+    "value_for_money": 0.9996878504753112,
+    "staff_behavior": 0.9993067681789398
+  },
+  "recommendation_features": {
+    "popularity_score": 0.6692382846207092,
+    "rating_score": 4.2,
+    "sentiment_score": 0.8009354260750114
+  },
+  "review_evidence": {
+    "positive_snippets": [
+      "I recently stayed at Hotel Good Luck near IGI Airport, Delhi, and had a very comfortable experience. The best part of this hotel is its excellent location, just a few minutes away from the airport \u2014 perfect for travellers with early morning or late-night flights.\n\nThe check-in was smooth and quick, and the staff were polite, friendly, and always ready to help with luggage and travel needs. The rooms were spacious, air-conditioned, and well-equipped with TV, Wi-Fi, hot water, and all basic amenities. The beds were comfortable, and I had a peaceful night\u2019s sleep.\n\nThe hotel offers great value for money, especially for short stays or transit guests. It\u2019s ideal for families or solo travellers who want a safe, convenient, and budget-friendly place near the airport. The food service was good, and the staff made sure everything was served on time.\n\nOverall, Hotel Good Luck lives up to its name \u2013 it\u2019s a good choice for travellers who want comfort, convenience, and warm hospitality without spending too much. I\u2019ll definitely recommend this hotel to anyone looking for a pleasant and reliable stay near Delhi Airport.\n\n\u2b50 Rating: 4.5 / 5\n\u2705 Location \u2013 Excellent\n\u2705 Staff \u2013 Friendly & Helpful\n\u2705 Cleanliness \u2013 Good\n\u2705 Value for Money \u2013 Great",
+      "I had such a fantastic experience in this hotel. The services provided by the staff named Mr. Laxman, Mr. Prem and the GM named Mrs. Prema was outstanding and beyond the benchmark. I look forward to book at this place again. Thank you very much for the services again.",
+      "Very affordable hotel with pretty nice arrangement in the room. Specially the behaviour of the staff starting from the reception to catering to housekeeping, everyone tried their level best to make my stay comfortable. Thank you for such hospitality. Hope to visit again in future."
+    ],
+    "negative_snippets": [
+      "Good hotel with very helpful and friendly staff. The room was quite cold with no heating, but they kindly provided extra blankets. Bedsheets seemed a bit old and not very well maintained, but overall the staff made the stay comfortable with their support.",
+      "After 22 hrs continue journey  Planned to take a break at this place for further trip. But couldn't get a sleep at all. Too noisy. Even we were on 4th floor."
+    ]
+  },
+  "review_summary": "Based on 5 reviews.",
+  "positive_themes": {
+    "clean_rooms": 1,
+    "friendly_staff": 4,
+    "good_location": 1,
+    "great_value": 2,
+    "good_food": 1
+  },
+  "negative_themes": {
+    "noise": 1
+  }
+}

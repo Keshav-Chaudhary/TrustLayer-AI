@@ -1,0 +1,54 @@
+{
+  "hotel_id": "ChIJwdd2QAA9DTkR6N23pH_BlSc",
+  "hotel_name": "Via Ar Suites",
+  "area": "Sector 83",
+  "budget_category": "Mid-Range",
+  "rating": 4.3,
+  "trust_score": 0.7124798023738202,
+  "travel_purpose_tags": [
+    "Leisure",
+    "Business"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "rich",
+    "review_count": 5,
+    "positive_snippet_count": 3,
+    "negative_snippet_count": 2,
+    "positive_theme_count": 5,
+    "negative_theme_count": 1
+  },
+  "aspect_scores": {
+    "cleanliness": 0.499960917237331,
+    "service": 0.749916505330475,
+    "location": 0.999787449836731,
+    "value_for_money": 0.5,
+    "staff_behavior": 0.999787449836731
+  },
+  "recommendation_features": {
+    "popularity_score": 0.4523990307935275,
+    "rating_score": 4.3,
+    "sentiment_score": 0.5999788685759995
+  },
+  "review_evidence": {
+    "positive_snippets": [
+      "Rahul's calmness at the front desk is so welcoming and his hospitality is exceptional. must recommended for a short travel plan.",
+      "\"I had an amazing stay at  The staff was incredibly welcoming and attentive, ensuring a comfortable experience. The rooms were spotless, well-designed, and had all the amenities I needed. The location was perfect, with easy access to nearby attractions. The breakfast was delicious, offering a great variety of options. I highly recommend this hotel to anyone looking for a relaxing\n\n\"My stay at was overall good, but there\u2019s room for improvement. The staff was friendly, and the location was convenient. However, the room could have been cleaner, and the service at the, this could be a top-notch hotel. I would still consider staying here again!\"",
+      "I recently stayed at this amazing hotel, and my experience was absolutely fantastic!\n\nFrom the moment I walked in, I was impressed by the cleanliness and elegant ambiance. The rooms were spacious, well-maintained, and had a fresh, inviting fragrance. The bed was super comfortable, making my stay incredibly relaxing.\n\nThe staff was outstanding\u2014always polite, helpful, and ready to assist with a smile. Their hospitality truly made me feel welcomed and valued.\n\nThe location was also perfect, with easy access to major attractions and transportation options.\n\nOne of the highlights was the food! The restaurant served fresh, delicious, and well-presented meals, making the dining experience just as memorable.\n\nOverall, this hotel offers a perfect mix of comfort, luxury, and excellent service. I would definitely love to visit again and highly recommend it to anyone looking for a great stay!\n\n\u2b50\u2b50\u2b50\u2b50\u2b50 (5/5 stars)"
+    ],
+    "negative_snippets": [
+      "Firstly this Hotel does not display its name on a banner outside as though its trying to hide its identity.\nReception area is also not marked .\n\nSecondly initially they gave me a very bad room then when i raised issues about the room they changed it to a better room\n\nThirdly there is a problem of water supply in the toilet, i saw that some had posted this issue on reviews on google map. Early morning there was no water , it came a little later but that delayed my further move from the place .\n\nIt does not provide slippers in the room .\n\nFacilities like bed tea is also not available in the morning till 9 am . So if someone wants to check out earlier they may not get something very basic like a cup of tea.\n\nOverall not a good experience, would not stay again at this place .",
+      "Worst Experience at Fab Hotel\n\nI stayed at a Fab Hotel and had a really bad experience. I had booked a premium room for triple occupancy. At the time of booking, I was told the room will have one king-size bed and one single bed, and I even paid extra for it. But when I reached the hotel, the receptionist said there's no premium room here and if I want extra bedding, I\u2019ll have to pay again. That was really disappointing.\n\nWhen I entered the room, there were empty beer cans in the dustbin, the pillows were dirty, and the cushions were torn. I\u2019ve never seen such poor maintenance in any hotel before.\n\nIf you don\u2019t want to ruin your stay, better avoid this place."
+    ]
+  },
+  "review_summary": "Based on 5 reviews.",
+  "positive_themes": {
+    "friendly_staff": 3,
+    "clean_rooms": 2,
+    "good_location": 2,
+    "good_food": 2,
+    "great_value": 1
+  },
+  "negative_themes": {
+    "dirty_rooms": 1
+  }
+}

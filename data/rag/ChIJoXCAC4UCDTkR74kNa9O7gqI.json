@@ -1,0 +1,55 @@
+{
+  "hotel_id": "ChIJoXCAC4UCDTkR74kNa9O7gqI",
+  "hotel_name": "Hotel Sunshine Delhi",
+  "area": "Karol Bagh",
+  "budget_category": "Mid-Range",
+  "rating": 3.9,
+  "trust_score": 0.7339919980224026,
+  "travel_purpose_tags": [
+    "Leisure",
+    "Business",
+    "Family"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "rich",
+    "review_count": 5,
+    "positive_snippet_count": 3,
+    "negative_snippet_count": 2,
+    "positive_theme_count": 5,
+    "negative_theme_count": 1
+  },
+  "aspect_scores": {
+    "cleanliness": 0.7984260420004526,
+    "service": 0.9997631907463074,
+    "location": 0.9998452663421632,
+    "value_for_money": 0.7985064486662546,
+    "staff_behavior": 0.8487802222371101
+  },
+  "recommendation_features": {
+    "popularity_score": 0.684794722407523,
+    "rating_score": 3.9,
+    "sentiment_score": 0.6791423937655054
+  },
+  "review_evidence": {
+    "positive_snippets": [
+      "I had a wonderful experience at Hotel Sunshine. The hotel is perfectly located in the heart of Karol Bagh, with easy access to the metro, markets, and major attractions of Delhi.\n\nThe rooms were clean, spacious, and very comfortable, with all essential amenities provided. Housekeeping was prompt and maintained high hygiene standards throughout my stay. The ambience of the hotel is calm and pleasant, making it ideal for both business and family travelers.\n\nWhat truly stood out was the polite and cooperative staff. From check-in to check-out, the team was extremely helpful and always ready to assist with a smile. Their hospitality made the stay even more enjoyable.\n\nOverall, Hotel Sunshine offers great value for money, excellent service, and a convenient location. I would highly recommend this hotel to anyone visiting Delhi and would definitely choose to stay here again.",
+      "Hotel Sunshine, Delhi\n\nI had a 10-day leisure stay at Hotel Sunshine in Delhi with my partner, and the experience was truly pleasant and comfortable. The hotel offers a smooth and hassle-free check-in and check-out process. The staff members were extremely cooperative, and the overall service quality was excellent.\n\nThey offer a variety of rooms at different price points, allowing guests to choose according to their preferences and budget. The reception staff was courteous and welcoming, and the room rates were quite reasonable for the quality provided.\n\nOverall, I highly recommend this hotel for a comfortable and enjoyable stay. If I visit Delhi again, I will definitely choose to stay here only.",
+      "I stayed in the hotel for 1 month. Mr. Sathesh was very polite and friendly. The rooms are clean and fresh water is available in the building 24/7. The room service was great. The staff are polite. They had laundry services."
+    ],
+    "negative_snippets": [
+      "We were 2 boys & 4 girls , and they clearly denied for using Washrooms , even to the girls...\nThis is Just unacceptable, even by law.",
+      "I had to undergo zsr circumcision surgery with a nearby nursing home. I need one night stay close to that nursing home. The staff was nice and humble. Food was tasty and value for money, not expensive. The room was fine. I booked a non AC room for one night. It was average, the size was decent for one person. But there was some foul smell in the room. Which was a little annoying. Otherwise it was good for the budget stay."
+    ]
+  },
+  "review_summary": "Based on 5 reviews.",
+  "positive_themes": {
+    "clean_rooms": 2,
+    "friendly_staff": 4,
+    "good_location": 2,
+    "great_value": 2,
+    "good_food": 1
+  },
+  "negative_themes": {
+    "dirty_rooms": 1
+  }
+}

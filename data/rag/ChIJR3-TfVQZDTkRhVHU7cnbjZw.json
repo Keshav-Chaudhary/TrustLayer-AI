@@ -1,0 +1,54 @@
+{
+  "hotel_id": "ChIJR3-TfVQZDTkRhVHU7cnbjZw",
+  "hotel_name": "La Cozy Residency",
+  "area": "Sector 52",
+  "budget_category": "Mid-Range",
+  "rating": 4.5,
+  "trust_score": 0.6978115075744535,
+  "travel_purpose_tags": [
+    "Budget"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "moderate",
+    "review_count": 5,
+    "positive_snippet_count": 1,
+    "negative_snippet_count": 3,
+    "positive_theme_count": 5,
+    "negative_theme_count": 3
+  },
+  "aspect_scores": {
+    "cleanliness": 0.2492542424406564,
+    "service": 0.3314008566618818,
+    "location": 0.4970135450712404,
+    "value_for_money": 0.2492542424406564,
+    "staff_behavior": 0.2507499762978113
+  },
+  "recommendation_features": {
+    "popularity_score": 0.5593592993165449,
+    "rating_score": 4.5,
+    "sentiment_score": 0.3993627316638594
+  },
+  "review_evidence": {
+    "positive_snippets": [
+      "I recently stayed here for 3 days and it was a pleasant experience.If you are a budget traveller staying for a few days it doesnot get better than this.Room was clean, locks and other amenities were properly functioning,service was swift.Though the food was average and maybe a bit over priced. The location was calm and quite but you won't find any small shops nearby."
+    ],
+    "negative_snippets": [
+      "Hotel is okay overall, but there is some room for improvement in maintenance. If the upkeep is better, the stay can be more comfortable. The staff was very nice and helpful. Special thanks to Pankaj Yadav for his good hospitality\u2014he was polite, supportive, and made the stay pleasant. Overall, the experience was positive because of the staff",
+      "They have no heaters, the room was freezing cold to the point that i had to sleep with winter clothes. I had to ask for an extra blanket.\nThe bathroom had a leak so it was always weat, there was no swiper also.\nThe sheets, the pillow and the covers wete so dirty, it even had stains of god knows what.\nThe guy in the counter barely talk and had a bad vibe.\nAs for the rest of the staff they were very nice helpful.\n\nI think this hotel has potential but needs to be guided properly,  because the price is high for that they barely offer.",
+      "I had the worst experience at this hotel. From the moment I arrived, nothing went right. The staff was completely unprofessional and seemed uninterested in helping with even the simplest requests. The room was dirty, smelled bad, and clearly had not been cleaned properly. The bedsheets were stained, the bathroom was unhygienic, and several amenities listed on the website were missing.\nThe service was painfully slow, and every time I approached the front desk, they acted as if I was disturbing them. Even basic things like drinking water and towels took multiple reminders. The food was overpriced and tasteless, and the overall atmosphere of the property felt neglected and poorly managed.\nFor the amount they charge, this hotel is a total waste of money. I strongly advise others to avoid staying here. I regret choosing this place and will never return."
+    ]
+  },
+  "review_summary": "Based on 5 reviews.",
+  "positive_themes": {
+    "clean_rooms": 3,
+    "good_location": 2,
+    "good_food": 2,
+    "friendly_staff": 4,
+    "great_value": 1
+  },
+  "negative_themes": {
+    "dirty_rooms": 3,
+    "rude_staff": 2,
+    "bad_food": 1
+  }
+}

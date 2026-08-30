@@ -1,0 +1,47 @@
+{
+  "hotel_id": "ChIJUaBSPtUFDTkRyZQihsgC1wU",
+  "hotel_name": "Via Vat - Hotel In Meera Bagh",
+  "area": "Paschim Vihar",
+  "budget_category": "Mid-Range",
+  "rating": 3.6,
+  "trust_score": 0.4269000854352621,
+  "travel_purpose_tags": [
+    "Budget"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "moderate",
+    "review_count": 5,
+    "positive_snippet_count": 0,
+    "negative_snippet_count": 3,
+    "positive_theme_count": 2,
+    "negative_theme_count": 1
+  },
+  "aspect_scores": {
+    "cleanliness": 0.0006356652738758,
+    "service": 0.0028901490489564,
+    "location": 0.5,
+    "value_for_money": 0.0008538031834177,
+    "staff_behavior": 0.0008398316276725
+  },
+  "recommendation_features": {
+    "popularity_score": 0.444102142377517,
+    "rating_score": 3.6,
+    "sentiment_score": 0.0020624525583116
+  },
+  "review_evidence": {
+    "positive_snippets": [],
+    "negative_snippets": [
+      "If i had the option to rate this Hotel negative I would have rated this -5, The Worst hotel this place should not be called hotel it's the most shady place i have ever visited, That lady receptionist was shady and the room allotted to me was dirty like it was never been clean, Bedsheets were unwashed and full of stains blanket was full of stains and unwashed, Even when i asked for a switch Receptionist denied and said it is not their policy to change the room after checking in even if it is dirty or un-hygienic.\nIf any fellow hotel seeker reading this review please don't go to this place, The staff is pathetic as well as the property.",
+      "Worst property that was totally different which is shown in pictures. All good reviews are fake which was posted by Fabhotel only cost of this property is not more than 900 INR seriously Fabhotel don\u2019t have any standards rest I don\u2019t want to explain I will post real pictures of rooms in Google so other people can understand what kind of rooms are you providing. You all are just running a scam not a Bussines",
+      "The room was pathetic. It was ruined and I couldn't believe that the service could be this bad. I would genuinely give it a negative rating if possible. I have never expected the room to be this bad.\nThe bedsheets were dirty. There were blood stains on the wall and the bed sheet.\nThe hotel people did not give us the other room so we had to fight with them to get the other room.\nThere were no soap. There was no room freshner..the washroom was dirty. The service guy denied to clean the washroom. Oh the experience was disastrous."
+    ]
+  },
+  "review_summary": "Based on 5 reviews.",
+  "positive_themes": {
+    "clean_rooms": 2,
+    "friendly_staff": 2
+  },
+  "negative_themes": {
+    "dirty_rooms": 3
+  }
+}

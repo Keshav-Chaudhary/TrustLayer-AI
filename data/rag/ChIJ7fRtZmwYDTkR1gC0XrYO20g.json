@@ -1,0 +1,49 @@
+{
+  "hotel_id": "ChIJ7fRtZmwYDTkR1gC0XrYO20g",
+  "hotel_name": "Capital O11243 Vedanta",
+  "area": "Gurugram",
+  "budget_category": "Mid-Range",
+  "rating": 3.4,
+  "trust_score": 0.3925749675211721,
+  "travel_purpose_tags": [
+    "Budget"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "moderate",
+    "review_count": 5,
+    "positive_snippet_count": 0,
+    "negative_snippet_count": 3,
+    "positive_theme_count": 4,
+    "negative_theme_count": 1
+  },
+  "aspect_scores": {
+    "cleanliness": 0.0032839530467753,
+    "service": 0.0003889892977894,
+    "location": 0.0052087726071476,
+    "value_for_money": 0.0048783221282064,
+    "staff_behavior": 0.0052087726071476
+  },
+  "recommendation_features": {
+    "popularity_score": 0.4067510860676074,
+    "rating_score": 3.4,
+    "sentiment_score": 0.0027086485933977
+  },
+  "review_evidence": {
+    "positive_snippets": [],
+    "negative_snippets": [
+      "Worst place ever I have seen. This is not a oyo standard hotel. They are charging more then they deserve for their ordinary room. I am not satisfied with the service. Bedsheets and pillow covers were dirty.\nWash room was normal. The shower lid was broken for a long time.\nIgnore if you can.",
+      "Absolute worst experience ever. Have been a long time Oyo user and almost always been satisfied. But Hotel Vedanta was an absolute 6 day nightmare for me. Started with having to argue with the receptionist just to get a geyser in the room to work. Was told \"nobody bathes in hot water here\"! Thankfully the Oyo captain was around to sort out the mess. Concept of room cleaning is non existent. Had to literally beg to get decent room service on time. Speaking of which, there was no non veg food available in the kitchen for 4 days! And you're not allowed to order food from outside either. And last but not the least, gave clothes for laundry in the hotel laundry service, which the laundry man lost. Instead of seeking a solution to the customer's problem, the receptionist decided to argue with me as to why I gave my clothes for laundry at all!! Never got clothes back eventually.\nI don't normally post reviews but felt it necessary to do so in this case. Avoid this joint at all costs.",
+      "Location very interior. Room and bathroom ok.  Staff ok. Elevator doesn't work, so going to 3rd floor with luggage can be challenge. Beware of water u drink be it hot or cold. Asked for hot water. Got green slimy liquid bcz of dirty thermos."
+    ]
+  },
+  "review_summary": "Based on 5 reviews.",
+  "positive_themes": {
+    "clean_rooms": 2,
+    "good_food": 2,
+    "friendly_staff": 1,
+    "good_location": 1
+  },
+  "negative_themes": {
+    "dirty_rooms": 3
+  }
+}

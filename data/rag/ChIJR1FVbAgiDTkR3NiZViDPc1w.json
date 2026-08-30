@@ -1,0 +1,50 @@
+{
+  "hotel_id": "ChIJR1FVbAgiDTkR3NiZViDPc1w",
+  "hotel_name": "Fabhotel The Lavish Villa",
+  "area": "Sector 57",
+  "budget_category": "Mid-Range",
+  "rating": 3.4,
+  "trust_score": 0.3798729413771389,
+  "travel_purpose_tags": [
+    "Budget"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "moderate",
+    "review_count": 5,
+    "positive_snippet_count": 0,
+    "negative_snippet_count": 3,
+    "positive_theme_count": 3,
+    "negative_theme_count": 3
+  },
+  "aspect_scores": {
+    "cleanliness": 0.0006935013770998,
+    "service": 0.5,
+    "location": 0.0004143770929658,
+    "value_for_money": 0.0014625394251197,
+    "staff_behavior": 0.0004630927796824
+  },
+  "recommendation_features": {
+    "popularity_score": 0.3501294176361872,
+    "rating_score": 3.4,
+    "sentiment_score": 0.0006434958340832
+  },
+  "review_evidence": {
+    "positive_snippets": [],
+    "negative_snippets": [
+      "What rubbish , I had booked the hotel for three days and when I reached on location hotel was shut down and when I ask other people they told it is all ready shut down from last two months I called hotel by Google some person was on call he picked my call and ask for booking I inform him I all ready have booking for three days he heard this line and direct cut the phone and after his phone was switched off I just don\u2019t understand why Google entertain this type of adds steal no refund has Been recieved steal booking we\u2019re showing open for that hotel guys it\u2019s an request don\u2019t book this hotel they are completely fraud people",
+      "it was a very disappointing experience. From the moment we arrived, it was clear that this place is not suitable for families.\n\nFirstly, the environment was quite unpleasant. The hotel is located in a noisy area, which made it difficult for us to get a good night\u2019s sleep. Additionally, there were some questionable activities happening around the hotel, which made us feel unsafe, especially with kids around.\n\nThe biggest issue, however, was the hygiene. The room was far from clean. We found dust and dirt in several places, and the bathroom had mold and mildew. The bed linens and towels were stained and didn\u2019t seem freshly laundered. This level of cleanliness is unacceptable and poses health risks.\n\nOverall, I would not recommend this hotel to anyone, especially families. The poor environment and lack of hygiene made our stay very uncomfortable. We will definitely be looking for a different place to stay next time.",
+      "Worst experience honestly. ... not writing any review in exchange of money. But stating actual condition of room. Rooms are smelling badly, bedsheets stained and torn, bathroom is like hell with mosquitoes and reptiles inside. Ac will not work. They will give you room at low price but you can't sleep one night even. They will not run generator for sure to save their money so you will have to sleep in damp room for the whole night"
+    ]
+  },
+  "review_summary": "Based on 5 reviews.",
+  "positive_themes": {
+    "good_location": 1,
+    "clean_rooms": 2,
+    "friendly_staff": 2
+  },
+  "negative_themes": {
+    "noise": 1,
+    "dirty_rooms": 3,
+    "rude_staff": 1
+  }
+}

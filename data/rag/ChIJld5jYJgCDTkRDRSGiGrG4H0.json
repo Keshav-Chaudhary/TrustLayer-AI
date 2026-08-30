@@ -1,0 +1,49 @@
+{
+  "hotel_id": "ChIJld5jYJgCDTkRDRSGiGrG4H0",
+  "hotel_name": "Hotel Kings Inn - Karol Bagh",
+  "area": "New Delhi",
+  "budget_category": "Budget",
+  "rating": 3.7,
+  "trust_score": 0.7998330097365228,
+  "travel_purpose_tags": [
+    "Leisure",
+    "Business",
+    "Family"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "moderate",
+    "review_count": 5,
+    "positive_snippet_count": 3,
+    "negative_snippet_count": 0,
+    "positive_theme_count": 4,
+    "negative_theme_count": 0
+  },
+  "aspect_scores": {
+    "cleanliness": 0.9998326003551484,
+    "service": 0.998721182346344,
+    "location": 0.9991081357002258,
+    "value_for_money": 0.9992034633954366,
+    "staff_behavior": 0.9998286664485933
+  },
+  "recommendation_features": {
+    "popularity_score": 0.638852854823902,
+    "rating_score": 3.7,
+    "sentiment_score": 0.9994741559028626
+  },
+  "review_evidence": {
+    "positive_snippets": [
+      "Ok rooms for a short stay. Food is a little expensive though tasty. Location is a plus point for business people and parents visiting to see their children preparing for UPSC.",
+      "Very good hotel , price is reasonable, rooms are clean , friendly staffs also",
+      "Hotel was good. And staff is so good and hospitality was awesome"
+    ],
+    "negative_snippets": []
+  },
+  "review_summary": "Based on 5 reviews.",
+  "positive_themes": {
+    "good_location": 1,
+    "good_food": 1,
+    "clean_rooms": 2,
+    "friendly_staff": 3
+  },
+  "negative_themes": {}
+}

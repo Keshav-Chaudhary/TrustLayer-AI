@@ -1,0 +1,47 @@
+{
+  "hotel_id": "ChIJE-nHCOw9DTkRWoaV4qW-0B8",
+  "hotel_name": "Hotel O Naveen Stay",
+  "area": "IMT manesar",
+  "budget_category": "Budget",
+  "rating": 2.7,
+  "trust_score": 0.3598164907431958,
+  "travel_purpose_tags": [
+    "Budget"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "moderate",
+    "review_count": 3,
+    "positive_snippet_count": 1,
+    "negative_snippet_count": 2,
+    "positive_theme_count": 3,
+    "negative_theme_count": 0
+  },
+  "aspect_scores": {
+    "cleanliness": 0.9998763799667358,
+    "service": 0.5,
+    "location": 0.5,
+    "value_for_money": 0.0004467344260774,
+    "staff_behavior": 0.9998763799667358
+  },
+  "recommendation_features": {
+    "popularity_score": 0.1935748254816269,
+    "rating_score": 2.7,
+    "sentiment_score": 0.3338154239075568
+  },
+  "review_evidence": {
+    "positive_snippets": [
+      "Everything this is excellent. I like that. Good staff. Delicious Food, neat and clean room."
+    ],
+    "negative_snippets": [
+      "FRAUD \u26a0\ufe0f  ALERT \u26a0\ufe0f\nNaveen is a fraud. He has many properties in manesar.he can shift you to any pathetic roo. Without your wish. He will not let you in no matter how you paid amd completed booking. He will ask you for extra money to enter the hotel. He will resfuse to give complete ameneties mentioned while booking . If you pay extra money only then he will agree to give. If you will call customer support they cant even help.it will waste your time completely.",
+      "He is a cheat , he first told us to cancel the online booking then he told to check out in half day due to some maintenance issues in building he told to refund the half amount but not refunded it since from last 15 days fraud h aare waha"
+    ]
+  },
+  "review_summary": "Based on 3 reviews.",
+  "positive_themes": {
+    "clean_rooms": 1,
+    "friendly_staff": 1,
+    "good_food": 1
+  },
+  "negative_themes": {}
+}

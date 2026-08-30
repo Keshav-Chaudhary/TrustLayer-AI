@@ -1,0 +1,52 @@
+{
+  "hotel_id": "ChIJ78pTIgAfDTkRy0dLDmC0oRk",
+  "hotel_name": "Mavens Inn",
+  "area": "Sector 53",
+  "budget_category": "Budget",
+  "rating": 3.3,
+  "trust_score": 0.4818241606572336,
+  "travel_purpose_tags": [
+    "Leisure"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "moderate",
+    "review_count": 5,
+    "positive_snippet_count": 2,
+    "negative_snippet_count": 3,
+    "positive_theme_count": 4,
+    "negative_theme_count": 1
+  },
+  "aspect_scores": {
+    "cleanliness": 0.001090194331482,
+    "service": 0.001090194331482,
+    "location": 0.9998287856578828,
+    "value_for_money": 0.9997896552085876,
+    "staff_behavior": 0.4006948944472242
+  },
+  "recommendation_features": {
+    "popularity_score": 0.2918825720663544,
+    "rating_score": 3.3,
+    "sentiment_score": 0.4006948944472242
+  },
+  "review_evidence": {
+    "positive_snippets": [
+      "Wonderful experience. The behavior of the staff is really nice. Just to inform, food is not included. But the location compensates it all. At this price, worth trying.",
+      "Nice hotel, great location, helpful staff. Everything is really convenient at this place. The manager Rakesh is really supportive. The rooms are also nice."
+    ],
+    "negative_snippets": [
+      "I was informed that early check-in wouldn\u2019t be an issue, but as soon as I arrived, the host (Saurav) was extremely rude and made us wait for almost 15 minutes while completely ignoring us. This was very disappointing and unprofessional. The room had no kettle, the facilities were poor, and we were asked to make payment before checkout, which was unexpected. The hygiene was below average, and the rooms are extremely small. Please don\u2019t go by the ratings \u2014 I would not recommend this property at all.",
+      "Ill mannered behaviour of owner Vikas. He is extremely arrogant and has a lot of attitude. No washing machine and limited food quantity. Would not recommend!",
+      "They also own PGs, The owner of this hotel is so rude and not supportive at all,  The  behaviour of staff members is also questionable. This place is not recommended at all."
+    ]
+  },
+  "review_summary": "Based on 5 reviews.",
+  "positive_themes": {
+    "friendly_staff": 3,
+    "good_location": 2,
+    "great_value": 1,
+    "good_food": 2
+  },
+  "negative_themes": {
+    "rude_staff": 2
+  }
+}

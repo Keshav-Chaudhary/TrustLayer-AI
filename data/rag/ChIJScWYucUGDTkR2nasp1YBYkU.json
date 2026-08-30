@@ -1,0 +1,52 @@
+{
+  "hotel_id": "ChIJScWYucUGDTkR2nasp1YBYkU",
+  "hotel_name": "Hotel O By Oyo Rohini Sector 24",
+  "area": "Rohini",
+  "budget_category": "Budget",
+  "rating": 3.8,
+  "trust_score": 0.6695310644835628,
+  "travel_purpose_tags": [
+    "Budget"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "rich",
+    "review_count": 5,
+    "positive_snippet_count": 3,
+    "negative_snippet_count": 2,
+    "positive_theme_count": 4,
+    "negative_theme_count": 1
+  },
+  "aspect_scores": {
+    "cleanliness": 0.4991224546392914,
+    "service": 0.5,
+    "location": 0.0006729640299454,
+    "value_for_money": 0.9939985275268556,
+    "staff_behavior": 0.9977186520894368
+  },
+  "recommendation_features": {
+    "popularity_score": 0.5640426487820017,
+    "rating_score": 3.8,
+    "sentiment_score": 0.599265610310249
+  },
+  "review_evidence": {
+    "positive_snippets": [
+      "Mr prakash is a very caring and fine person. Caring staff. Good cleanliness. Food quality was great. Nice staff and their behavior was also nice\n\nNice stay at hotel.",
+      "Staff is very helpful hotel rooms was clean and good condition",
+      "Hotel acha hai good quality.\nBut bathroom me nal hi khrb tha , or board switches tute hue the , no dustbin, telephone khrb tha, no tv , no pani bottel , no menu of foods ...but ventilation system good \ud83d\udc4d\ud83d\ude0a.\nBut hottel sttaf members are very friendly. Nice talking \ud83d\ude03 genuine price for this oyo ."
+    ],
+    "negative_snippets": [
+      "Pathetic services Hotel name was changed after reached at location, it took half an hour to find the correct hotel..\n\nRoom was very dirty, Receptionist ask us to change the bedsheet by our own and handed over Room freshener and ask us to spray as per our own. I forgot my smart watch in the Room when came back after 5 mins watch was missing they stolen the same too..\n\nWill never book any hotel via OYO Rooms again..",
+      "Washroom has no tap , bedsheets are very unhygienic and u can see in photos almirah has no door please i request you all dont visit their untill u see the room first totally diffrent from photos"
+    ]
+  },
+  "review_summary": "Based on 5 reviews.",
+  "positive_themes": {
+    "clean_rooms": 2,
+    "friendly_staff": 3,
+    "good_food": 2,
+    "good_location": 1
+  },
+  "negative_themes": {
+    "dirty_rooms": 1
+  }
+}

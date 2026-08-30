@@ -1,0 +1,49 @@
+{
+  "hotel_id": "ChIJP1vHsD_cDDkRdzvsWXI8hbc",
+  "hotel_name": "Delite Sarovar Portico, Faridabad",
+  "area": "New Industrial Township",
+  "budget_category": "Mid-Range",
+  "rating": 4.0,
+  "trust_score": 0.6082145015638356,
+  "travel_purpose_tags": [
+    "Budget"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "moderate",
+    "review_count": 5,
+    "positive_snippet_count": 1,
+    "negative_snippet_count": 3,
+    "positive_theme_count": 2,
+    "negative_theme_count": 1
+  },
+  "aspect_scores": {
+    "cleanliness": 0.5,
+    "service": 0.2503999725304311,
+    "location": 0.0002581186126917,
+    "value_for_money": 0.5,
+    "staff_behavior": 0.3336699673479112
+  },
+  "recommendation_features": {
+    "popularity_score": 0.748962313263893,
+    "rating_score": 4.0,
+    "sentiment_score": 0.2004633093602024
+  },
+  "review_evidence": {
+    "positive_snippets": [
+      "Breakfast was really good nd service was also excellent. The variety and taste was good, on both days while we were there staff was courteous and friendly. Ganesh was very helpful and mastered the art of hospitality"
+    ],
+    "negative_snippets": [
+      "The staff was not very helpful during my last visit on December 19th. I was unable to get hot water for my bath, and no one offered assistance. The staff stated that the water temperature was an issue, but no one resolved the problem. This experience was quite disappointing, as I have visited this hotel many times before without encountering such problems. It seems that the staff's behavior has also changed.",
+      "I have visited Portico for 4 times in last 2 years. Earlier it was one of the best hotels in Faridabad. But sadly this time I have experienced severe deterioration in service. I couldn't get hot water for all 3 days even after complaining. Food quality also dropped drastically. Froots given for breakfast were stale. It's sad to see such deterioration of good hotel.",
+      "This is by far one of the worst hotels in Faridabad in terms of service standards.\nEven for basic requests, guests are forced to contact the reception repeatedly, often more than three times, with no proper response.\nWhat is even more alarming is the extremely poor security system. The fact that one room can be unlocked with another guest\u2019s key is a serious safety breach and completely unacceptable.\nSuch negligence reflects a complete lack of professionalism and concern for guest safety."
+    ]
+  },
+  "review_summary": "Based on 5 reviews.",
+  "positive_themes": {
+    "friendly_staff": 3,
+    "good_food": 2
+  },
+  "negative_themes": {
+    "bad_food": 1
+  }
+}

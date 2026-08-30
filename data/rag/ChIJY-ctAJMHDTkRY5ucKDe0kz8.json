@@ -1,0 +1,38 @@
+{
+  "hotel_id": "ChIJY-ctAJMHDTkRY5ucKDe0kz8",
+  "hotel_name": "Hotel O Sweet Inn",
+  "area": "Budh Vihar",
+  "budget_category": "Budget",
+  "rating": 5.0,
+  "trust_score": 0.704861604520839,
+  "travel_purpose_tags": [
+    "Budget"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "none",
+    "review_count": 0,
+    "positive_snippet_count": 0,
+    "negative_snippet_count": 0,
+    "positive_theme_count": 0,
+    "negative_theme_count": 0
+  },
+  "aspect_scores": {
+    "cleanliness": NaN,
+    "service": NaN,
+    "location": NaN,
+    "value_for_money": NaN,
+    "staff_behavior": NaN
+  },
+  "recommendation_features": {
+    "popularity_score": 0.1290498836544179,
+    "rating_score": 5.0,
+    "sentiment_score": 0.5
+  },
+  "review_evidence": {
+    "positive_snippets": [],
+    "negative_snippets": []
+  },
+  "review_summary": "Based on 0 reviews.",
+  "positive_themes": {},
+  "negative_themes": {}
+}

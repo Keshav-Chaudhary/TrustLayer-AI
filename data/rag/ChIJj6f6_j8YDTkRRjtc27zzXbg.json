@@ -1,0 +1,48 @@
+{
+  "hotel_id": "ChIJj6f6_j8YDTkRRjtc27zzXbg",
+  "hotel_name": "Treehouse Queens Pearl, Gurugram",
+  "area": "Civil Lines",
+  "budget_category": "Mid-Range",
+  "rating": 4.2,
+  "trust_score": 0.7441877678010974,
+  "travel_purpose_tags": [
+    "Budget"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "moderate",
+    "review_count": 5,
+    "positive_snippet_count": 3,
+    "negative_snippet_count": 2,
+    "positive_theme_count": 2,
+    "negative_theme_count": 0
+  },
+  "aspect_scores": {
+    "cleanliness": 0.5,
+    "service": 0.3336324191526121,
+    "location": 0.5,
+    "value_for_money": 0.00024294036848,
+    "staff_behavior": 0.4673754495706816
+  },
+  "recommendation_features": {
+    "popularity_score": 0.7031340420902918,
+    "rating_score": 4.2,
+    "sentiment_score": 0.5738735614082542
+  },
+  "review_evidence": {
+    "positive_snippets": [
+      "Excellent Hotel to stay for short and long durations\u2026\nTick all Boxes\u2026\nSpacious Rooms, Bathrooms, courteous staff and Good Food too.Abz pocket friendly.\nBreakfast menu needs more variety is the only feedback else awesome staff at the rest who serve Pipping Hot parathas to every plate\u2026 kudos",
+      "Had a amazing experience with hotel tree house queens panel\nBest house keeping staff davesh yadav a good person ,\nPolite,\nOverlll the experience was good\nRegards\nDr lal path labs",
+      "The rooms were really good. Came for a buisness trip and loved the stay. The room service was good."
+    ],
+    "negative_snippets": [
+      "I was disappointed with the service during my stay. The staff didn\u2019t provide any information about breakfast or available services at check-in, which caused confusion. For the price, I expected better communication and attention to guests. Unfortunately, the experience didn\u2019t meet expectations",
+      "The hotel needs serious improvement in both service and breakfast. Staff were slow to respond, and it took forever to get simple requests handled. They can't inform in checkin time for our breakfast and the last moment he call me for breakfast In 10.30"
+    ]
+  },
+  "review_summary": "Based on 5 reviews.",
+  "positive_themes": {
+    "friendly_staff": 4,
+    "good_food": 3
+  },
+  "negative_themes": {}
+}

@@ -1,0 +1,49 @@
+{
+  "hotel_id": "ChIJuXhKZJPjDDkRWaj_AQQKWGk",
+  "hotel_name": "The Suryaa New Delhi",
+  "area": "New Friends Colony",
+  "budget_category": "Mid-Range",
+  "rating": 4.3,
+  "trust_score": 0.8762333479496847,
+  "travel_purpose_tags": [
+    "Budget"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "moderate",
+    "review_count": 5,
+    "positive_snippet_count": 3,
+    "negative_snippet_count": 1,
+    "positive_theme_count": 4,
+    "negative_theme_count": 0
+  },
+  "aspect_scores": {
+    "cleanliness": 0.9998199343681335,
+    "service": 0.6671983596946424,
+    "location": 0.6671645638610547,
+    "value_for_money": 0.5,
+    "staff_behavior": 0.8002187608042732
+  },
+  "recommendation_features": {
+    "popularity_score": 0.9219370796791468,
+    "rating_score": 4.3,
+    "sentiment_score": 0.8002187608042732
+  },
+  "review_evidence": {
+    "positive_snippets": [
+      "What a wonderful hotel and staff! I went back to the wrong room after breakfast and found it empty of our belongings. Panic!!!\nI notified the staff and they were quick to solve the problem and were so pleasant and courteous. A great outcome.\nThe room is comfortable and clean. The breakfast has a huge range of interesting options including a detox water. We are looking forward to dinner!",
+      "My recent stay at Surya Hotel in Delhi was truly exceptional. From the moment I arrived, the hospitality and professionalism of the staff stood out. The check-in process was smooth and welcoming, setting the tone for a comfortable and luxurious experience.\nThe rooms were spacious, elegantly designed, and impeccably clean. The bedding was plush and comfortable, ensuring a restful night\u2019s sleep. Modern amenities such as high-speed Wi-Fi, a well-equipped workspace, and a luxurious bathroom added to the convenience and comfort of the stay.\nThe dining experience was equally impressive. The in-house restaurant offered a wide variety of delicious dishes, ranging from authentic Indian cuisine to international favorites. The breakfast buffet was fresh, diverse, and beautifully presented.\nThe hotel\u2019s facilities, including the fitness center and other recreational areas, were well-maintained and added to the overall premium experience. Its location in Delhi makes it convenient for both business and leisure travelers.\nOverall, Surya Hotel delivers a perfect blend of comfort, luxury, and excellent service. I would highly recommend it to anyone visiting Delhi and look forward to staying there again.",
+      "I had a very pleasant stay at the hotel. The room was clean, comfortable, and well maintained, and the overall atmosphere was calm and welcoming. All the facilities were in good condition, and the service throughout my stay was smooth and efficient.\n\nI would especially like to appreciate Alisha from the Front Office. She was extremely courteous, professional, and helpful. Her warm attitude and prompt assistance made the check-in process easy and left a very positive impression. Staff members like her truly enhance the guest experience.\n\nOverall, it was a comfortable and satisfying stay, and I would be happy to recommend this hotel to others."
+    ],
+    "negative_snippets": [
+      "So far not so good.\n\nArrived early morning, staff we're friendly but thats the bare minimum you expect for a 5 star hotel. Rooms are nice, relatively modern surprisingly compared to rest of the main hotel area, which dated.\n\nCame back after a long day in delhi, aiming for drinks and dinner. Had drinks, and my mum and I ended up wearing one of them pre dinner, thanks to the staff member trying to take our payment. It was unintentional and he was apologetic,  all fine. None of the 3 staff members who turned up to the commotion offered a napkin, or replacement drink, until prompted despite the fact the near full drink was all over our clothes and bags, along with broken glass by our feet.\n\nAfter dinner we went via reception and were told we'd be \"looked after\" by the team at the bar so went down and ordered our drinks, 2 plus a replacement of the spilled one.\n\nBill came and we'd been charged for 2 drinks, we queried with the bar tender who confirmed with the \"Manager\". We called for the \"manager\" who, following a brief meeting with a small team in front of us(!), confirmed the stance of only covering 1 drink and that to cover anything else he'd need to check with his manager. Im still not clear what \"looked after\" means as service was actually worse on our second visit.\n\nHonestly its day 1 of 5 and I've been left with a sour taste. 5 star service it is not, I'd say no where close. It was the fault of someone in their team that we ended up wearing a drink, with no offer to cover a round of drinks, let alone the laundry. Its not the fact they didnt cover it either, its how the dealt with it, with no regard for the customer\n\nService is usually pretty good in 5 star indian hotels, they usually go above and beyond and this was nowhere close. Disappointed\n\nI wish id gone with my gut and stayed elsewhere."
+    ]
+  },
+  "review_summary": "Based on 5 reviews.",
+  "positive_themes": {
+    "clean_rooms": 4,
+    "friendly_staff": 5,
+    "good_food": 3,
+    "good_location": 3
+  },
+  "negative_themes": {}
+}

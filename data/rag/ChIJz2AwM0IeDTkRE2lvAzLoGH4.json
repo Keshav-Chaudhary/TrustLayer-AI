@@ -1,0 +1,49 @@
+{
+  "hotel_id": "ChIJz2AwM0IeDTkRE2lvAzLoGH4",
+  "hotel_name": "Le M\u00e9ridien Gurgaon, Delhi Ncr",
+  "area": "Border",
+  "budget_category": "Mid-Range",
+  "rating": 4.4,
+  "trust_score": 0.8829363749611949,
+  "travel_purpose_tags": [
+    "Leisure",
+    "Business"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "moderate",
+    "review_count": 5,
+    "positive_snippet_count": 3,
+    "negative_snippet_count": 1,
+    "positive_theme_count": 3,
+    "negative_theme_count": 0
+  },
+  "aspect_scores": {
+    "cleanliness": 0.9998751878738404,
+    "service": 0.7999169500486459,
+    "location": 0.9998751878738404,
+    "value_for_money": 0.5,
+    "staff_behavior": 0.9997990926106772
+  },
+  "recommendation_features": {
+    "popularity_score": 0.8914045109049907,
+    "rating_score": 4.4,
+    "sentiment_score": 0.7999169500486459
+  },
+  "review_evidence": {
+    "positive_snippets": [
+      "I have recently stayed at Le Meridien and it is one of the best hotel in Gurgaon and NCR region. Actually the best thing about Le Meridien is the staff, hospitality and the Service. It is amazing. Starting from GM herself to the door man everyone is just amazing. I would like to mention Ms. Ashok (Head Chef), Gopishwar Kumar (Chef) as they make the best and most delicous food with love. Mr. Akshay at the restaurant in morning make every effort to make the breakfast served hot and delicious with smile. Really good person. I would like to Thank Sagar at the Front Desk for sorting our things easy and fast. Ms. Nancy is amazing in terms of guest service and experience, very kind and always with beautiful smile on her face. Yogesh at the Lounge is very kind and supportive in everything you need. Rajesh Ji (Door man) is always very kind and good. Thanks Mr. Shiv at the concierge. It was amazing stay and Thanks Le Meridien. I highly recommend Le Meridien and Marriott Hotel :) See you soon again!!",
+      "Stayed at Le M\u00e9ridien Gurgaon after a last minute booking since The Westin was full, and it turned out to be a very pleasant surprise.\n\nThe breakfast spread was good, with plenty of options and everything fresh and well prepared. The room was comfortable and having a bathtub was a nice touch after a long day. What really made the stay stand out was the service. The team asked about my preference for a non smoking room and also arranged one close to the elevator when they learned I was having trouble with my leg. Small gestures like that make a big difference when you\u2019re traveling.\n\nOverall, excellent hospitality and a smooth, comfortable stay. Glad I ended up here and would happily return.",
+      "This was our third stay in just two months, and once again, the experience was exceptional. The service is truly impeccable, with every staff member going above and beyond to make us feel welcome.\n\nA special thanks to Mahak and Sarita Ma\u2019am for their warm hospitality and personal attention \u2014 they made our stay even more memorable. The hotel genuinely feels like a second home to us now.\n\nThe stunning Aravalli view from the room is a unique highlight of this property. The glass wall in the washroom overlooking the Aravallis continues to amaze us every single time. Without a doubt, one of the finest hotels in Delhi NCR."
+    ],
+    "negative_snippets": [
+      "I recently hosted my wedding at this venue and brought nearly 100 guests to stay at the hotel.\n\nUnfortunately, they overcharged my card for my personal room by over $100 because the front desk did not realize I had already been charged for the night. What should have been a peaceful end to my wedding turned into nearly a two-hour dispute in the lobby, where I was asked to stand at the front desk and help them sort through an accounting mistake on their end.\n\nThis situation could have been handled much more professionally. They could have reconciled the accounting internally and followed up with me by email. Instead, I was held up for over an hour, and the math was still incorrect in the end.\n\nOverall, it was a very disappointing experience. I would not recommend this hotel to anyone. What a terrible, incompetent customer service. Avoid at all costs. If I could give them 0 stars, I would."
+    ]
+  },
+  "review_summary": "Based on 5 reviews.",
+  "positive_themes": {
+    "friendly_staff": 3,
+    "good_food": 2,
+    "good_location": 2
+  },
+  "negative_themes": {}
+}

@@ -1,0 +1,53 @@
+{
+  "hotel_id": "ChIJB1BnotkdDTkRWrfJkptd0f4",
+  "hotel_name": "The Elevate Hotel",
+  "area": "Block A",
+  "budget_category": "Mid-Range",
+  "rating": 4.2,
+  "trust_score": 0.696841494863842,
+  "travel_purpose_tags": [
+    "Budget"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "moderate",
+    "review_count": 5,
+    "positive_snippet_count": 2,
+    "negative_snippet_count": 3,
+    "positive_theme_count": 4,
+    "negative_theme_count": 2
+  },
+  "aspect_scores": {
+    "cleanliness": 0.0004530811856966,
+    "service": 0.0006592181016457,
+    "location": 0.0982945698294012,
+    "value_for_money": 0.2935652732849121,
+    "staff_behavior": 0.5721516674893792
+  },
+  "recommendation_features": {
+    "popularity_score": 0.6545012118137812,
+    "rating_score": 4.2,
+    "sentiment_score": 0.4578944049950223
+  },
+  "review_evidence": {
+    "positive_snippets": [
+      "The hotel was decent for a night stay. I had the deluxe king room but didnt fit in the bed. I am a  tall guy and both my legs were out. The breakfast needs better choices. Rest of the facilities were good and the staff was friendly",
+      "Staff has been amazing, the hotel has comfortable rooms and delicious breakfast & food. They were so kind in every moment and give you eassilies. Thank you for everything"
+    ],
+    "negative_snippets": [
+      "NOT LOCATED IN AEROCITY.\nDon't be mislead by the location shown on Booking. The hotel is in a neighborhood near by, that has nothing to see with AEROCITY.\n\nIf you want a basic hotel and are not very demanding for the cleanliness, the noise, the humidity, the internet quality and the food, you can go there. But if you want to have some rest and have an hotel with good standards, run away. You have really much better hotel for the same price and at a better location.\n\nPositive point : The staff is friendly and nice, except the manager, acting like he didn't want to be here and not responding to messages or to the phone.",
+      "Just don't.\nThe location is awful, a sketchy alley full of trash (do NOT trust the pictures) and for only 1 car, the rooms are dirty, with cockroaches, nonworking AC, filthy bathroom, small bed (I was too tall for the bed and I'm 170 !!), noisy street and no sound isolation and they do not tidy the rooms.\nThe breakfast is a joke and only bananas seem safe to eat.\nManagement was nice and helpful though, but that doesn't save the status of the place unfortunately.\nI'd excuse some stuff but the AI reviews and AI photos make me think that there is a will to fool the potential customer. That's why it falls to 1 star.\nPlease avoid at all costs, you're better off with a nicer hotel in aerocity or if you can't afford, in another part of Delhi.",
+      "We booked this hotel through Booking.com as 99 hotel airport. On Booking.com the location shows to be near Terminal 1, it is not! We are in a completely different location. The rooms are listed as soundproof, it is not! We can hear all the traffic noises from urban Delhi. My ear plugs won\u2019t be industrial enough to compete with the noise of Delhi or the outside corridor and adjacent rooms activities. We booked this hotel to be near Terminal 1 and have a good sleep before waking up at 2am for our next flight, I can only now pray for such an outcome. The listing on booking.com is unrealistic. I will be complaining to booking.com as the hotel management are unable to remedy our misfortune :-/"
+    ]
+  },
+  "review_summary": "Based on 5 reviews.",
+  "positive_themes": {
+    "friendly_staff": 4,
+    "good_food": 4,
+    "clean_rooms": 2,
+    "good_location": 3
+  },
+  "negative_themes": {
+    "noise": 3,
+    "dirty_rooms": 1
+  }
+}

@@ -1,0 +1,52 @@
+{
+  "hotel_id": "ChIJl0GK5hX5DDkRotk6Zj4Dd1M",
+  "hotel_name": "Super Townhouse By Oyo Johri Enclave Metro Station Formerly Second Home",
+  "area": "Johripur",
+  "budget_category": "Budget",
+  "rating": 4.1,
+  "trust_score": 0.6649870606409837,
+  "travel_purpose_tags": [
+    "Family"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "rich",
+    "review_count": 5,
+    "positive_snippet_count": 3,
+    "negative_snippet_count": 2,
+    "positive_theme_count": 3,
+    "negative_theme_count": 2
+  },
+  "aspect_scores": {
+    "cleanliness": 0.9997395873069764,
+    "service": 0.5,
+    "location": 0.5002376640331931,
+    "value_for_money": 0.9986257553100586,
+    "staff_behavior": 0.5002376640331931
+  },
+  "recommendation_features": {
+    "popularity_score": 0.3543615015642497,
+    "rating_score": 4.1,
+    "sentiment_score": 0.5998104231199249
+  },
+  "review_evidence": {
+    "positive_snippets": [
+      "We had a wonderful stay also room was so cleaned well maintained as compared to price",
+      "\"I had a wonderful stay at Townhouse Johri Enclave Metro Station Formerly Second Home\n! The staff was incredibly friendly, and the rooms were spotless. Highly recommend!\"",
+      "Nice hotel my fist stay best hotel for town house \u263a\ufe0f"
+    ],
+    "negative_snippets": [
+      "Shady location, unhygienic rooms, bad services and  inexperienced staff.\nMe and my wife visted this place for a njght stay and due to unprofessional behaviour and unhygienic environment we had to book another hotel within 15 mins.\nstaff so unprofessional, my wife felt uncomfortable caz they kept starting at her.",
+      "One of the worst hotel, my cars windshield was broken at night in hotel parking area."
+    ]
+  },
+  "review_summary": "Based on 5 reviews.",
+  "positive_themes": {
+    "clean_rooms": 2,
+    "friendly_staff": 2,
+    "good_location": 1
+  },
+  "negative_themes": {
+    "rude_staff": 1,
+    "parking_issues": 1
+  }
+}

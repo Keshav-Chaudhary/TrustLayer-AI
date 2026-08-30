@@ -1,0 +1,45 @@
+{
+  "hotel_id": "ChIJ97W7F9EfDTkRidfrk_JoC5s",
+  "hotel_name": "The Ocean Pearl Retreat",
+  "area": "Satbari",
+  "budget_category": "Mid-Range",
+  "rating": 4.2,
+  "trust_score": 0.9083937206206032,
+  "travel_purpose_tags": [
+    "Business"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "moderate",
+    "review_count": 5,
+    "positive_snippet_count": 3,
+    "negative_snippet_count": 0,
+    "positive_theme_count": 2,
+    "negative_theme_count": 0
+  },
+  "aspect_scores": {
+    "cleanliness": 0.5,
+    "service": 0.9998725056648252,
+    "location": 0.5,
+    "value_for_money": 0.5,
+    "staff_behavior": 0.999871826171875
+  },
+  "recommendation_features": {
+    "popularity_score": 0.8361615540936762,
+    "rating_score": 4.2,
+    "sentiment_score": 0.999871826171875
+  },
+  "review_evidence": {
+    "positive_snippets": [
+      "Excellent Wedding Experience at Ocean Pearl Retreat\nWe hosted our wedding and reception at Hotel Ocean Pearl Retreat on 23rd & 24th November, and the experience was absolutely wonderful.\n\nThe food was outstanding, curated under Executive Chef Govind Rautela. Every dish was delicious, well-presented, and highly appreciated by our guests\u2014definitely one of the highlights of our celebrations.\n\nA special thanks to Event Manager Mr. Sanjay Rawat for his excellent coordination and smooth execution. His professionalism and attention to detail made the entire event stress-free and seamless.\n\nGreat hospitality, beautiful venue, and supportive staff. Highly recommended for weddings and special occasions.",
+      "Heartfelt thanks for the wonderful wedding catering of my Niece Prernna with Shantanu at Ocean Pearl Retreat Chhatarpur Delhi on 24th and 25th Dec\u2019 2025.\nDear Chef Gobind and Mahender Yadav Ji,\nI\u2019m writing to express our deepest gratitude for the outstanding food and impeccable service provided by your team at my Niece (Prernna & Shantanu) wedding\nThe entire event was a tremendous success, and your kitchen and service staff played a crucial role in making it so special, Chef every dish was a huge hit, and the presentation of everything was exquisite, our guest couldn\u2019t stop raving about the delicious flavours and quality of the meal.\nThe service was equally exceptional, the attentiveness of entire team and managers on the floor ensured every guest felt welcomed and cared for, from the moment they arrived to the final farewell. The seamless coordination and professionalism made every thing run so smoothly, allowing us to fully enjoy the celebration.\nThank you for your flexibility and excellent communication during the planning, and for creating a stress-free experience. You helped to make the function a special day truly unforgettable\nAt last, but not the least we should not forget the support and guidance of Mr. Prakash the General and all the support staff like front office, engineering Mr Ramesh, Housekeeping\nWe will enthusiastically recommend Ocean Pearl to everyone we know\nWarmest regards\nArun Bhatnagar",
+      "Ocean Pearl Retreat was an excellent venue for our wedding and reception.\nSpecial thanks to Mr. Govind Singh Gaira ji,  Executive Chef , a true gem of a person. The food served during the wedding functions was outstanding in taste and presentation, and appreciated by all our guests. His kind, generous, and highly professional attitude truly stood out.\nHeartfelt thanks to Mr. Sanjay Singh Rawat ,Sales Manager, for his smooth coordination, prompt support, and professional handling of all arrangements, which made the entire event successful.\nA beautifully managed and memorable celebration.\n\u2014 Dr Kanchan Upreti"
+    ],
+    "negative_snippets": []
+  },
+  "review_summary": "Based on 5 reviews.",
+  "positive_themes": {
+    "friendly_staff": 3,
+    "good_food": 5
+  },
+  "negative_themes": {}
+}

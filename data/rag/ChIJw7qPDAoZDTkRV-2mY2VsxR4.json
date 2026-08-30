@@ -1,0 +1,53 @@
+{
+  "hotel_id": "ChIJw7qPDAoZDTkRV-2mY2VsxR4",
+  "hotel_name": "The Sandalwood | Sec-38, Near Medanta Medicity | Gurugram",
+  "area": "Sector 38",
+  "budget_category": "Mid-Range",
+  "rating": 4.5,
+  "trust_score": 0.6903217453367727,
+  "travel_purpose_tags": [
+    "Leisure"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "moderate",
+    "review_count": 5,
+    "positive_snippet_count": 2,
+    "negative_snippet_count": 3,
+    "positive_theme_count": 4,
+    "negative_theme_count": 2
+  },
+  "aspect_scores": {
+    "cleanliness": 0.3336309611137646,
+    "service": 0.0002150160144083,
+    "location": 0.9995275735855104,
+    "value_for_money": 0.0005618737195618,
+    "staff_behavior": 0.3336309611137646
+  },
+  "recommendation_features": {
+    "popularity_score": 0.5228641744469175,
+    "rating_score": 4.5,
+    "sentiment_score": 0.4002170804771595
+  },
+  "review_evidence": {
+    "positive_snippets": [
+      "I had a fantastic stay at this hotel! The room was spotless, spacious, and well-designed, with a very comfortable bed. The amenities were top-notch, and the staff went above and beyond to make sure I had everything I needed. Highly recommended! Staff behaviour is also good!!!",
+      "Great experience, it's in a great location view wise and accessibility wise.\nThe rooms had some minor lackings but not that bad, we had a 1 night stay as we had to leave early morning. Overall and comfy stay."
+    ],
+    "negative_snippets": [
+      "Don't waste your money on this place. The Roof is nothing like in the pictures. I would give zero stars if I could.\n\nWe booked through AirBnB for diwali party with friends. To our horror the roof was disgusting, the chairs were dirty, the railings were coated with dust and the tables were the cheap woven ones with holes in them. Nothing like the pictures at all. And the entire place smelled.\n\nThe staff was not helpful at all, not even able to provide us glasses let alone any other service. They're charging so much money for such pathetic service.\n\nThe light strips on the roof were extremely dim, if they worked at all. Half of them were completely out. The grass carpet on the roof was soaking wet too. The place just looked shady.\n\nIt was so embarassing when our friends showed up. And the worst part is that we had already asked the host if the roof looks like the pictures, and he said it will be even better. What a joke!\n\nDo not recommend this for anyone. Save your hard earned money and book something better. What a scam.",
+      "Worst stay.rooms are very dirty and smelly washroom in damaged condition.staff is unprofessional and not cooperative.plss don't go there.in same price there are many good hotels nearby.",
+      "Very bad experience. I have booked this hotel via a Agoda. According to the quality it is very highly price. I have booked at the last moment. Lift was not working as well as not water in the washrooms. When I had words with the receptionist then she was saying you can cancel your booking and that booking was non refundable. Worst experience"
+    ]
+  },
+  "review_summary": "Based on 5 reviews.",
+  "positive_themes": {
+    "clean_rooms": 1,
+    "friendly_staff": 3,
+    "good_location": 2,
+    "great_value": 1
+  },
+  "negative_themes": {
+    "dirty_rooms": 2,
+    "rude_staff": 1
+  }
+}

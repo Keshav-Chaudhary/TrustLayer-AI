@@ -1,0 +1,52 @@
+{
+  "hotel_id": "ChIJS4Ok5QoZDTkRvuSk45jH_qw",
+  "hotel_name": "Hotel Sakura By Maps Group",
+  "area": "Sector 45",
+  "budget_category": "Mid-Range",
+  "rating": 4.3,
+  "trust_score": 0.6169814550855022,
+  "travel_purpose_tags": [
+    "Budget"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "moderate",
+    "review_count": 5,
+    "positive_snippet_count": 1,
+    "negative_snippet_count": 3,
+    "positive_theme_count": 4,
+    "negative_theme_count": 2
+  },
+  "aspect_scores": {
+    "cleanliness": 0.4946270229411312,
+    "service": 0.2484058153349906,
+    "location": 0.000361192622222,
+    "value_for_money": 0.4946270229411312,
+    "staff_behavior": 0.0015694205649197
+  },
+  "recommendation_features": {
+    "popularity_score": 0.6050639639748128,
+    "rating_score": 4.3,
+    "sentiment_score": 0.1988744749454781
+  },
+  "review_evidence": {
+    "positive_snippets": [
+      "The rooms were decent and clean. Service was prompt. Don't know much about the tariff but it's not that expensive. They do have a pool as well. It is surrounded by a village though so dont expect good views from your balcony if you have one."
+    ],
+    "negative_snippets": [
+      "I stayed here recently and the experience was far below what a 4-star property should offer. The hotel feels more like a 2-star. The room was not clean, the bathroom and toilet were dirty, and even basic things like the remote and telephone were unclean. I even saw a cockroach near the lift. Except for the bedding, everything else in the room needed proper cleaning.\n\nAt check-in, the reception staff didn\u2019t greet or acknowledge us\u2014no welcome, no assistance. Overall staff behavior was not friendly or attentive. Even basic essentials like towels were not kept in the room and had to be requested.\n\nHousekeeping staff was polite and helpful whenever asked, but ideally the room should have been clean from the start.\n\nAnother major concern was the atmosphere in the hotel. Staff members on the ground floor were loudly talking, running around the corridor and pool/restaurant area, and even carrying beer bottles. There was no proper uniform or professional behaviour, which made the place feel quite cheap and unmanaged.\n\nOverall, definitely not a 4-star experience. Needs serious improvement in cleanliness, staff training, and professionalism.",
+      "Dont ask for tea sachets, milk powder or tea bags or cups. First day they sent it after 1 hour. If you will dial number 9 they will say dial on 222, if u will dial 222 they will say ask from number 9. Secondly if you are fond of black tea then its ok. But if you will ask  more milk sachets for a tea or more than 2 times they will not provide you.\nThey dont have etiquette how to talk.\nEven if your guests or relatives come to meet they cant come to meet even as you cannot ask them for tea as per unavailability of their extremely beautiful service which in other words is awful.\nIf this is corporate booking then this is worst. You cannot call your employees who are not staying here but are coming for work for 3-4 hours only on a system. If there is an event of your company.\nAnd also they will ask for IDs from them.\nRidiculous services they are offering. And this is when we have booked at least 25 rooms in this hotel.",
+      "Hi,\n\nI am writing to provide feedback regarding a recent experience with your staff, which I found to be highly unsatisfactory, especially considering the reputation of your brand.\n\nA family member inadvertently left her ID card at your hotel. Despite numerous attempts, both my family and a courier service faced significant difficulty in arranging its collection. My calls, as well as those from the courier, were often unanswered. When a staff member finally did answer, their attitude and words were, frankly, humiliating and arrogant.\n\nThis level of nonchalant behavior and lack of assistance for such an important document is deeply concerning. It has led me to decide that my company will no longer make corporate bookings at your hotel. I believe your team should proactively ensure important documents are returned to guests, rather than making the process so challenging.\n\nAs a result of this experience, I incurred additional charges not only for the attempted pickup but also for rescheduling it multiple times due to the lack of cooperation. I am extremely disappointed and shocked by the poor service.\n\nRegards,\nAn irritated Guest."
+    ]
+  },
+  "review_summary": "Based on 5 reviews.",
+  "positive_themes": {
+    "clean_rooms": 2,
+    "friendly_staff": 3,
+    "good_location": 1,
+    "great_value": 1
+  },
+  "negative_themes": {
+    "dirty_rooms": 1,
+    "noise": 1
+  }
+}

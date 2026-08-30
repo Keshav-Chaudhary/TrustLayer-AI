@@ -1,0 +1,51 @@
+{
+  "hotel_id": "ChIJadUD2mn9DDkR9T7bQcD1ErY",
+  "hotel_name": "Hotel Toronto",
+  "area": "Paharganj",
+  "budget_category": "Mid-Range",
+  "rating": 3.8,
+  "trust_score": 0.6340954149410273,
+  "travel_purpose_tags": [
+    "Budget"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "moderate",
+    "review_count": 5,
+    "positive_snippet_count": 2,
+    "negative_snippet_count": 3,
+    "positive_theme_count": 2,
+    "negative_theme_count": 2
+  },
+  "aspect_scores": {
+    "cleanliness": 0.0009435544488951,
+    "service": 0.0005122452712384,
+    "location": 0.5,
+    "value_for_money": 0.0005122452712384,
+    "staff_behavior": 0.500244001399551
+  },
+  "recommendation_features": {
+    "popularity_score": 0.6958779360372899,
+    "rating_score": 3.8,
+    "sentiment_score": 0.4003067531099077
+  },
+  "review_evidence": {
+    "positive_snippets": [
+      "Good room and hotel staff also good morning tea or coffee Free my family stay 4 night All is good my all tour good Delh Agra thanks you so much raja sir family room is good and triple dx room\n\ud83e\udd70\ud83e\udd70\ud83e\udd70\ud83e\udd70\ud83e\udd70\ud83e\udd70 24 hrs staff available in hotel mangar good morning breakfast and dinner free food good \ud83d\udc4d i m Nepal\nDear raja sir thanks",
+      "This is very nice hotel my\nExperience has been very good\nThe staff is very helpful they took care of me\nThank you hotel toronto"
+    ],
+    "negative_snippets": [
+      "Worst experience ever, the rooms were too small, and smelly\u2026. Then I upgraded to the best room they have it i paid double the booking amount.\nTheir best room has multiple problems like the T.V. , A.C., wasn\u2019t working, they don\u2019t have proper room facilities like the switches weren\u2019t working and the lift is way too small rusty and smelly. They made us to wait for so long  to check-in.\nHighly disappointed, you can get way more better room for this price ( i paid around 2k for 1 night).",
+      "This is the worst hotel I have stayed in Delhi. There was no hot water, the AC was not working, and the bathroom was dirty with no bucket provided without inform. Even after check-in, electrical work was going on inside the room. Staff behavior was rude and unprofessional. The hotel is completely different from the online photos. Very disappointing and misleading. Do not book this hotel.",
+      "There should be provision of providing ratings in minus.\n\nPathetic service. No warm water is there.\n\nStaff is also very pathetic. Don't waste your money in booking such lame hotel.\n\nPlease avoid.\n\n-10 rating."
+    ]
+  },
+  "review_summary": "Based on 5 reviews.",
+  "positive_themes": {
+    "friendly_staff": 4,
+    "good_food": 1
+  },
+  "negative_themes": {
+    "dirty_rooms": 2,
+    "rude_staff": 1
+  }
+}

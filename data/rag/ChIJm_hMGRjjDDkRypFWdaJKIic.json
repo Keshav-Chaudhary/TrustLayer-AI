@@ -1,0 +1,53 @@
+{
+  "hotel_id": "ChIJm_hMGRjjDDkRypFWdaJKIic",
+  "hotel_name": "Mauryan Express Hotel @ Hauz Khas Fort",
+  "area": "Hauz Khas",
+  "budget_category": "Mid-Range",
+  "rating": 4.4,
+  "trust_score": 0.5804571525482842,
+  "travel_purpose_tags": [
+    "Budget"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "moderate",
+    "review_count": 5,
+    "positive_snippet_count": 1,
+    "negative_snippet_count": 3,
+    "positive_theme_count": 4,
+    "negative_theme_count": 3
+  },
+  "aspect_scores": {
+    "cleanliness": 0.0500195177737623,
+    "service": 0.0005031753098592,
+    "location": 0.1080756673472933,
+    "value_for_money": 0.2822441160678863,
+    "staff_behavior": 0.0500195177737623
+  },
+  "recommendation_features": {
+    "popularity_score": 0.5392705569158556,
+    "rating_score": 4.4,
+    "sentiment_score": 0.0865891656372695
+  },
+  "review_evidence": {
+    "positive_snippets": [
+      "Let me clarify. I went there for a cheap stay. I was already living in delhi for many years before going there. My requirements were less and hence I am okay with this. However, if youre okay with:\n1. Not having a heater in winter days at delhi,\n2. Cigarette burnt bedsheets,\n3. Order from swiggy for every meal,\n4. Receive minimal toilet kit,\nthen you can stay there.\nHowever, they will change damaged things and provide kit/water etc once you ask for it.\nFurther, this place is at backside of the hauz khas village parking. If youre calling a cab/auto, you have to walk around 500 Mt from the entrance.\nHowever, the location is perfect as hauz khas village is one of the happening areas of Delhi. Also, it allows free entry of swiggy/zomato delivery executives.\nIn summary: its perfect for a short term/ emergency stay at cheap rate near AIIMS/green park/hauz khas/deer park area."
+    ],
+    "negative_snippets": [
+      "I had a very disappointing experience at this hotel. The service was extremely poor, and the rooms lacked even basic amenities. The bathroom was unhygienic, with dirty taps, no proper shower facilities, and a non-functional hand shower.\nTo make matters worse, in the middle of the night, people were coming in and the hotel staff members appeared to be showing them the hotel rooms, creating constant noise by talking loudly and walking through the corridors. The hotel staff members were repeatedly opening and closing the hotel room doors, which caused extreme noise due to the poor condition of the doors. The disturbance made it impossible to sleep, and I was genuinely frightened, not knowing who these people were coming in at such odd hours.\nThe location is also not good at all, which further added to the inconvenience. This is definitely not a family-friendly hotel. Additionally, the pictures of the rooms shown on Google are highly misleading and do not reflect the actual condition of the property. In a place like Hauz Khas, this was completely unexpected.\nOverall, the stay was highly unsatisfactory and far below expected standards. I would not recommend this hotel to anyone looking for a comfortable and peaceful stay.",
+      "Not at all a good hotel to stay in Delhi.... particularly in winter no room heater...also no maintenance too....so not recommending to stay there.....",
+      "This Hotel is 100% fraud. 1. They have purposely misled the public by claiming that they are located in Deer Park, New Delhi. They are actually in Hauz Khas Village, and not accessible by road. Who will go to a hotel not accessible by road in a metro like New Delhi?!! By walking half a KM.\n2. The shown photos apparently are not the real photos, it is manipulated, the property is in a very narrow and dirty lane. Not at all good for family, or anyone looking for a decent accommodation.\n3. As said in many reviews a hotel is not booked just for the good behaviour of few staff. A hotel is booked for a pleasant stay in a neat and clean place. If you have to stay in a filthy place why to book a hotel?! Stay on the street."
+    ]
+  },
+  "review_summary": "Based on 5 reviews.",
+  "positive_themes": {
+    "good_location": 3,
+    "great_value": 1,
+    "friendly_staff": 3,
+    "clean_rooms": 1
+  },
+  "negative_themes": {
+    "parking_issues": 1,
+    "dirty_rooms": 3,
+    "noise": 1
+  }
+}

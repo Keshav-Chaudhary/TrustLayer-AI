@@ -1,0 +1,50 @@
+{
+  "hotel_id": "ChIJr1CxLkEbDTkRau7ByVr9-gc",
+  "hotel_name": "Hotel Aerostar Grand",
+  "area": "New Delhi",
+  "budget_category": "Mid-Range",
+  "rating": 4.8,
+  "trust_score": 0.936340005731937,
+  "travel_purpose_tags": [
+    "Leisure",
+    "Business",
+    "Family"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "moderate",
+    "review_count": 5,
+    "positive_snippet_count": 3,
+    "negative_snippet_count": 0,
+    "positive_theme_count": 5,
+    "negative_theme_count": 0
+  },
+  "aspect_scores": {
+    "cleanliness": 0.9998333156108856,
+    "service": 0.9997902661561966,
+    "location": 0.9997767806053162,
+    "value_for_money": 0.999794900417328,
+    "staff_behavior": 0.999804675579071
+  },
+  "recommendation_features": {
+    "popularity_score": 0.5926535471913231,
+    "rating_score": 4.8,
+    "sentiment_score": 0.999804675579071
+  },
+  "review_evidence": {
+    "positive_snippets": [
+      "We had an awesome stay at this hotel! \u2b50\n\nThe rooms were clean, comfortable, and well maintained. The staff was very polite, friendly, and always ready to help. Check-in and check-out were smooth, and the overall service was excellent. The location was also convenient and made our trip even more enjoyable.\n\nEverything during our stay was well organized, and we truly felt relaxed and welcomed. It was a great experience, and I would definitely recommend this hotel to anyone looking for a comfortable and pleasant stay.\n\nLooking forward to visiting again!",
+      "We had an amazing experience at Aerostar Grand Hotel from check in to checkout everything was seamless. The staff of the hotel extremely courteous and polite. Food was delicious.I had come with my friend for the conference at Yashobhoomi  Convention Centre .We stayed there for 3 days. If I would talk about safety, yes it is safe.\nI would like to specifically mention about Mr.Naidu the owner of hotel a humble gentleman and down to earth person. He made us feel homely and ensured comfort stay .He drove us to the conference venue that was so kind of him. While talking to him we discovered many of his charitable contributions to the society.\nI will always recommend Aerostar  Grand Hotel to my friends . Thanks Mr. Naidu and the entire staff for their hospitality and service , making our stay memorable.",
+      "I had a very pleasant stay at this hotel. It offers all the basic facilities required for a comfortable stay, including clean rooms, good hygiene, and reliable amenities. The location is excellent\u2014very close to the airport, which makes it extremely convenient for travelers.\n\nThe staff was courteous, cooperative, and prompt in their service, always ready to help with a smile. Despite the good location and quality service, the hotel is quite economical and offers great value for money.\nA special thanks to Mani uncle for his cooperation, always ready to help attitude and feel like home nature.\nOverall, it is an ideal choice for stays and anyone looking for comfort, convenience, and affordability. Highly recommended"
+    ],
+    "negative_snippets": []
+  },
+  "review_summary": "Based on 5 reviews.",
+  "positive_themes": {
+    "clean_rooms": 2,
+    "friendly_staff": 5,
+    "good_location": 3,
+    "good_food": 2,
+    "great_value": 1
+  },
+  "negative_themes": {}
+}

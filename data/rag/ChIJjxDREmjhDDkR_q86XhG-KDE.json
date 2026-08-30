@@ -1,0 +1,49 @@
+{
+  "hotel_id": "ChIJjxDREmjhDDkR_q86XhG-KDE",
+  "hotel_name": "Sukoon Farm Stay",
+  "area": "Satbari",
+  "budget_category": "Budget",
+  "rating": 4.8,
+  "trust_score": 0.8401659471078156,
+  "travel_purpose_tags": [
+    "Budget"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "moderate",
+    "review_count": 5,
+    "positive_snippet_count": 3,
+    "negative_snippet_count": 1,
+    "positive_theme_count": 4,
+    "negative_theme_count": 0
+  },
+  "aspect_scores": {
+    "cleanliness": 0.750845895265229,
+    "service": 0.5,
+    "location": 0.5020306131336838,
+    "value_for_money": 0.0042853993363678,
+    "staff_behavior": 0.750859038089402
+  },
+  "recommendation_features": {
+    "popularity_score": 0.4392441803429315,
+    "rating_score": 4.8,
+    "sentiment_score": 0.8006318815983832
+  },
+  "review_evidence": {
+    "positive_snippets": [
+      "The house is beautiful with lovely garden around it. The owner Ms Shweta as well as the caretaker Mr Tiwari are very helpful. Garnish catering for all our meals was also a good choice offered by Sukoon in tie up. One hiccup is that the entry to the society was 900rs for our family tempo traveler. Society gatekeepers and security are not that cooperative but Sukoon Stay is definitely recommendable and a lovely experience. Rooms and bathrooms are clean and the caretakers helped us 24/7.",
+      "Recently hosted my friend\u2019s bachelorette here- had an amazing time! Staff was very helpful and the stay as beautiful as in pictures. Location is accessible by all delivery services as well",
+      "Fun stay with family at Sukoon.\nVery well managed property.\n4 bed rooms with attached bathroom.\nCommon sitting areas on both floors.\nPool table & few other indoor games.\nBig lawn area outdoor. Bonfire seating arrangement. Decent size pool.\nThanks so much Dileep ji for taking good care of us at the property."
+    ],
+    "negative_snippets": [
+      "We were a group of friends from Delhi NCR looking for a quick getaway \u2014 something not too far but still giving us a sense of being away from the city. Based on the good reviews and photos, we decided to stay at Sukoon Farms.\n\nPositives:\n\u2022\tThe farmhouse was clean and well-maintained.\n\u2022\tThe caretakers were friendly and helpful.\n\u2022\tThe kitchen was accessible with utensils available, which made things convenient.\n\u2022\tThe pool table was a nice addition to the common hangout space.\n\nHowever, there were some drawbacks:\n\u2022\tThe design of the common area wasn\u2019t ideal for group gatherings. The sitting area felt closed off, almost like being at home, with no view of the lush green lawn.\n\u2022\tThe dining table was on the ground floor, away from where we usually gathered, making it slightly inconvenient.\n\u2022\tThe balcony with a view of the lawn was on the opposite side and not connected to the main common area.\n\nSince our plan was to spend most of the time together as a group, these structural aspects made the experience less refreshing than we had hoped. It didn\u2019t provide the sense of openness and change in scenery that we were looking for in a farmhouse stay.\n\nThis is purely feedback on the property\u2019s design and not on the caretakers or the owner, who were cordial. It would have been much better if the farmhouse had glass doors or large windows opening to the lawn, giving a more open and connected feel.\n\nLastly, given the amenities and the way the property is structured, the charges felt quite high. In our opinion, it wasn\u2019t value for money.\n\nOverall: Great staff and cleanliness, but the property\u2019s design and pricing did not meet our expectations."
+    ]
+  },
+  "review_summary": "Based on 5 reviews.",
+  "positive_themes": {
+    "clean_rooms": 3,
+    "friendly_staff": 4,
+    "good_location": 2,
+    "great_value": 1
+  },
+  "negative_themes": {}
+}

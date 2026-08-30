@@ -1,0 +1,51 @@
+{
+  "hotel_id": "ChIJTSw1U9UXDTkRPNDA5dxjbTw",
+  "hotel_name": "Ramada Encore By Wyndham Gurugram Dwarka Expressway",
+  "area": "Sector 84",
+  "budget_category": "Mid-Range",
+  "rating": 4.7,
+  "trust_score": 0.7694688814470335,
+  "travel_purpose_tags": [
+    "Leisure"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "moderate",
+    "review_count": 5,
+    "positive_snippet_count": 2,
+    "negative_snippet_count": 3,
+    "positive_theme_count": 3,
+    "negative_theme_count": 1
+  },
+  "aspect_scores": {
+    "cleanliness": 0.0058380281552672,
+    "service": 0.5014282150150393,
+    "location": 0.9997883439064026,
+    "value_for_money": 0.5423040390014648,
+    "staff_behavior": 0.5014282150150393
+  },
+  "recommendation_features": {
+    "popularity_score": 0.6059001056464804,
+    "rating_score": 4.7,
+    "sentiment_score": 0.5096033798123244
+  },
+  "review_evidence": {
+    "positive_snippets": [
+      "Stopped by Ramada in Elan Miracle Mall today and loved it! The energy was great and everything was well managed. Big shoutout to yankee \u2014  very professional had some problem with the service but,  she made sure service was fast and smooth. And when we were checking out she made sure in the morning that everything was fine.\nGood leadership shows in the staff\u2019s behavior\n\nWill definitely recommend to book your stay here very easy location also",
+      "I recently had the pleasure of dining at Ramada Encore, Sector 84 Gurgaon, and it was an excellent experience overall. The restaurant ambience is pleasant and well-maintained, creating a comfortable setting for a relaxed meal.\nThe food quality was impressive \u2014 delicious, well-presented, and prepared with great attention to detail. Each dish reflected consistency and good culinary standards.\nI would like to specially appreciate Mr. Lubhajit Singh for his exceptional service and hospitality. Lubhajit Singh was extremely polite, attentive, and ensured that every requirement was taken care of promptly. His warm approach and professionalism truly enhanced our dining experience. The way Mr. Lubhajit Singh interacts with guests shows his dedication towards guest satisfaction.\nOverall, a memorable dining experience with great food and outstanding service, especially thanks to Mr. Lubhajit Singh. Highly recommended, and I will definitely visit again."
+    ],
+    "negative_snippets": [
+      "I stayed at the hotel for three nights. Since it is a new property, everything looks new and well-maintained aesthetically. However, many things were not functioning properly. The TV in my room was not working, and the tea/coffee maker was also not functional. Even after complaining 2\u20133 times, the issues were not resolved, which was quite disappointing.\n\nThe food quality was average overall. However, I found a piece of plastic in the Gulab Jamun, which is completely unacceptable from a hygiene and safety perspective.\n\nRegarding room service, I ordered non-veg pasta but was initially served veg pasta. Although they replaced it later, I had to rush for a meeting and ended up getting delayed because of this mistake.\n\nAt night, there was a continuous siren sound in the room, which was very disturbing and unavoidable. I reported this as well, but it seemed like the hotel had no control over it.\n\nOn a positive note, the staff was polite and helpful, and the check-in process was smooth.",
+      "Honest review alert! Visited Ramada yesterday and was quite disappointed with the food quality, especially considering the price point. The variety in the buffet was underwhelming, and I've had better options at regular restaurants. The place itself is nice, but that's not enough to overlook the food. If you're looking for alternatives in the same price range, I'd highly recommend Holiday Inn Sector 90 and Hyatt Regency Sector 83 for an unforgettable dining experience. Hope Ramada takes this feedback constructively and works on improving their offerings. Unfortunately, my experience was a letdown, which is why I'm sharing this review.",
+      "Terrible experience \u2014 would not recommend.\nStayed here for 5 days and faced nonstop issues. The laundry staff lost one of my clothes, which I reported on day 2.\nThe front desk staff and managers did absolutely nothing meaningful to resolve the issue. No follow-ups, no urgency, no responsibility. By the time I checked out, the item was still missing, and to make matters worse, they flatly refused to compensate me, claiming it \u201cwasn\u2019t their fault.\u201d Losing a guest\u2019s belongings and then washing your hands of it is unacceptable.\nRoom service was consistently poor \u2014 food arrived cold or barely warm, especially bad during winter.\nTransport coordination was equally bad. Hotel transport was often unavailable or late, causing delays for me and my colleagues. We ended up managing transport ourselves for first few days.\nOverall, extremely unprofessional with zero accountability. Avoid this hotel."
+    ]
+  },
+  "review_summary": "Based on 5 reviews.",
+  "positive_themes": {
+    "friendly_staff": 4,
+    "good_location": 1,
+    "good_food": 4
+  },
+  "negative_themes": {
+    "rude_staff": 1
+  }
+}

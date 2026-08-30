@@ -1,0 +1,51 @@
+{
+  "hotel_id": "ChIJ7bfQAnIcDTkR6QuFSvjr3e4",
+  "hotel_name": "Lemon Tree Hotel, Delhi Airport",
+  "area": "Aerocity",
+  "budget_category": "Mid-Range",
+  "rating": 3.9,
+  "trust_score": 0.8263393082183182,
+  "travel_purpose_tags": [
+    "Business",
+    "Family"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "moderate",
+    "review_count": 5,
+    "positive_snippet_count": 3,
+    "negative_snippet_count": 0,
+    "positive_theme_count": 5,
+    "negative_theme_count": 1
+  },
+  "aspect_scores": {
+    "cleanliness": 0.8552766839663187,
+    "service": 0.8914175182580948,
+    "location": 0.5,
+    "value_for_money": 0.7829857766628265,
+    "staff_behavior": 0.8914216607809067
+  },
+  "recommendation_features": {
+    "popularity_score": 0.768024376825155,
+    "rating_score": 3.9,
+    "sentiment_score": 0.9131071925163268
+  },
+  "review_evidence": {
+    "positive_snippets": [
+      "Perfect stay and service. Wow respect that you support and have employees whom are less abled. I am so so proud that you are giving every person a chance to have a equal work chance to everyone. This is what I call giving people live, respect, motivation. Next time we will stay with you again. Especially to support how you stand for building society and of your service that touched our hearts.",
+      "A good hotel for a short stay or layover.\nStaff were helpful and kind.\nThe entire hotel is kept clean and tidy.\nCheck in process was fast.\nHowever, do keep in mind that the basic rooms are quite small(as shown on their website). More than 2 people cannot stay there.\nThe showers and toilets in the room are very clean and well maintained.\nThe breakfast/lunch and dinner buffet have a decent selection of veg and Non veg items to eat. Certain items like dosa, roti etc can be ordered to be made fresh.\nRoom service is quite fast as well. Takes around 25-30 mins.\nThere are multiple restaurants and bars close to the hotel as well, if you want to go out and eat.\n\nRemember not to get confused with this hotel and the Lemon Tree Premier which is facing the front. The Premier is more expensive whereas this one is more budget friendly( for Delhi)\n\nNow the cons,\nThe Internet is an issue here. Throughout my entire stay, I had connectivity issues with the Internet every hour. It kept going off every now and then, which can get quite irritating.\nThis causes a problem with the TV since all rooms have a smart TV and they cannot function without Internet.\nAnother issue is the hallways can get quite loud during the Check-in and Check-out window. I would recommend the management to consider installing carpets in the hallways.\n\nOverall, I had a good stay here. I stayed for about 12 days here and other than the noise and Internet issue everything else was good.",
+      "I had an excellent experience at this hotel in New Delhi. During my journey through India, I stayed here twice, and on both occasions the service was consistently warm, attentive, and highly professional The staff genuinely care about their guests. On one occasion, I raised a minor observation and it was addressed immediately. I confidently award this hotel an excellent rating."
+    ],
+    "negative_snippets": []
+  },
+  "review_summary": "Based on 5 reviews.",
+  "positive_themes": {
+    "clean_rooms": 3,
+    "friendly_staff": 4,
+    "good_location": 1,
+    "good_food": 1,
+    "great_value": 1
+  },
+  "negative_themes": {
+    "noise": 1
+  }
+}

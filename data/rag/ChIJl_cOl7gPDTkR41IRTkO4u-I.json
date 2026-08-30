@@ -1,0 +1,45 @@
+{
+  "hotel_id": "ChIJl_cOl7gPDTkR41IRTkO4u-I",
+  "hotel_name": "Hotel Taj Residency",
+  "area": "Najafgarh",
+  "budget_category": "Luxury",
+  "rating": 4.6,
+  "trust_score": 0.8744955558333642,
+  "travel_purpose_tags": [
+    "Business"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "moderate",
+    "review_count": 5,
+    "positive_snippet_count": 3,
+    "negative_snippet_count": 0,
+    "positive_theme_count": 2,
+    "negative_theme_count": 0
+  },
+  "aspect_scores": {
+    "cleanliness": 0.99968421459198,
+    "service": 0.9998558759689332,
+    "location": 0.5,
+    "value_for_money": 0.5,
+    "staff_behavior": 0.999708354473114
+  },
+  "recommendation_features": {
+    "popularity_score": 0.4277588502624594,
+    "rating_score": 4.6,
+    "sentiment_score": 0.999224019050598
+  },
+  "review_evidence": {
+    "positive_snippets": [
+      "The stay was good and the service was satisfactory. The staff was polite and helpful. Overall a nice experience.",
+      "Great proparty family type hotel\nGood staff",
+      "Nice \ud83d\udc4d place good staffs Good \ud83d\udc4d sarvice deep cleaning \ud83e\uddf9"
+    ],
+    "negative_snippets": []
+  },
+  "review_summary": "Based on 5 reviews.",
+  "positive_themes": {
+    "friendly_staff": 4,
+    "clean_rooms": 2
+  },
+  "negative_themes": {}
+}

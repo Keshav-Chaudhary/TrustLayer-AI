@@ -1,0 +1,48 @@
+{
+  "hotel_id": "ChIJIVrBSmUHDTkR9fGMGA5NuAA",
+  "hotel_name": "Oyo Silverkey Pooth Kalan Near Rithala Metro Station",
+  "area": "Pooth Kalan",
+  "budget_category": "Budget",
+  "rating": 3.8,
+  "trust_score": 0.5688175472589763,
+  "travel_purpose_tags": [
+    "Budget"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "moderate",
+    "review_count": 5,
+    "positive_snippet_count": 3,
+    "negative_snippet_count": 2,
+    "positive_theme_count": 2,
+    "negative_theme_count": 0
+  },
+  "aspect_scores": {
+    "cleanliness": 0.5,
+    "service": 0.000447618891485,
+    "location": 0.2711257201444823,
+    "value_for_money": 0.9994427561759948,
+    "staff_behavior": 0.3605375398959343
+  },
+  "recommendation_features": {
+    "popularity_score": 0.3641694923263474,
+    "rating_score": 3.8,
+    "sentiment_score": 0.416840303898789
+  },
+  "review_evidence": {
+    "positive_snippets": [
+      "Staff Behaviour was polite and friendly.\nLocation is a bit out of city area, so you won't find any other proper restaurant near by.\nBut there is shopping store at 5 min walking distance.",
+      "Best location valuable for money.... Hotel staff good behavior... Nice stay",
+      "Room are a bit dull but overall it is good"
+    ],
+    "negative_snippets": [
+      "The most pathetic hotel. I would never recommend. Third class service, staff is not cooperative. Faced lots of issue. It's very much costly as well. Near by location is also not good. We paid almost 40,000 for 5 rooms for 3 days. And still got third class service. Our guest was not happy. We booked the hotel for three occupancy and they provided us room for twin Sharing. And straighter way they said we have only this room and bed you guys need to adjust.\nLift was also not working and they have rooms on 1st , 2nd n 3rd floor. Old age person could not go there.",
+      "my view  for dis hotel its  deserve only 2 star that all."
+    ]
+  },
+  "review_summary": "Based on 5 reviews.",
+  "positive_themes": {
+    "friendly_staff": 3,
+    "good_location": 3
+  },
+  "negative_themes": {}
+}

@@ -1,0 +1,51 @@
+{
+  "hotel_id": "ChIJUx74utsZDTkRjuDrM8CnZM0",
+  "hotel_name": "Wandr Hotel Medicity",
+  "area": "Sector 39",
+  "budget_category": "Mid-Range",
+  "rating": 4.5,
+  "trust_score": 0.8729658981105901,
+  "travel_purpose_tags": [
+    "Leisure",
+    "Family"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "moderate",
+    "review_count": 5,
+    "positive_snippet_count": 3,
+    "negative_snippet_count": 0,
+    "positive_theme_count": 5,
+    "negative_theme_count": 1
+  },
+  "aspect_scores": {
+    "cleanliness": 0.999596099058787,
+    "service": 0.5,
+    "location": 0.9997919201850892,
+    "value_for_money": 0.9995981256167094,
+    "staff_behavior": 0.9994841814041138
+  },
+  "recommendation_features": {
+    "popularity_score": 0.4823712647488281,
+    "rating_score": 4.5,
+    "sentiment_score": 0.999687886238098
+  },
+  "review_evidence": {
+    "positive_snippets": [
+      "Accidentally discovered this amazing property and it turned out to be a great experience. The stay was far better than many average properties and, in my opinion, much better than typical OYO stays.\n\nI needed a room for an overnight stay and found everything comfortable and well maintained. The breakfast was a pleasant surprise\u2014good taste and excellent value for money.\n\nI would strongly recommend this property to travelers looking for a clean, reliable stay at a reasonable price. This chain has strong potential and should definitely expand to more locations.",
+      "The best stay that is there in Gurgaon. Location is quite good, you can get everything in nearby stores. The food served in the hotel is quite good. I\u2019d say 4/5.\nStaff is really really nice. We stayed for 7 days and it was an amazing experience. Couple friendly rooms and clean bathrooms. Fridge and microwave were a big plus. Everything we needed, Sathish the receptionist was just one call away.",
+      "This is one of the cleanest places I\u2019ve found in Gurgaon. The room is amazing and offers a lot of facilities at such a reasonable rate. Having a microwave and fridge in the room at this price is hard to find. The place is very clean, and even if you find something dirty, the staff is very cooperative \u2014 they\u2019ll either offer you another option if available or clean it right away without any attitude. It\u2019s a great place for solo travelers, couples, and families alike. Been staying here from past 1 year."
+    ],
+    "negative_snippets": []
+  },
+  "review_summary": "Based on 5 reviews.",
+  "positive_themes": {
+    "clean_rooms": 3,
+    "good_location": 2,
+    "great_value": 2,
+    "good_food": 2,
+    "friendly_staff": 3
+  },
+  "negative_themes": {
+    "dirty_rooms": 1
+  }
+}

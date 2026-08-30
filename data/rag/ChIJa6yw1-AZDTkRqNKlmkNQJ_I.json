@@ -1,0 +1,50 @@
+{
+  "hotel_id": "ChIJa6yw1-AZDTkRqNKlmkNQJ_I",
+  "hotel_name": "Hotel Bk Studios & Rooms",
+  "area": "Sector 45",
+  "budget_category": "Mid-Range",
+  "rating": 4.5,
+  "trust_score": 0.8984782338702614,
+  "travel_purpose_tags": [
+    "Leisure",
+    "Business",
+    "Family"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "moderate",
+    "review_count": 5,
+    "positive_snippet_count": 3,
+    "negative_snippet_count": 0,
+    "positive_theme_count": 5,
+    "negative_theme_count": 0
+  },
+  "aspect_scores": {
+    "cleanliness": 0.9998462994893392,
+    "service": 0.999836484591166,
+    "location": 0.99987530708313,
+    "value_for_money": 0.9998550415039062,
+    "staff_behavior": 0.9998429417610168
+  },
+  "recommendation_features": {
+    "popularity_score": 0.6020768687548681,
+    "rating_score": 4.5,
+    "sentiment_score": 0.9998494148254394
+  },
+  "review_evidence": {
+    "positive_snippets": [
+      "5/5 Excellent Stay!\nIt was a great stay overall.The property was clean, well-maintained, and very comfortable. The staff was polite and helpful throughout our visit. Special thanks  to Shivam at front desk and Neeraj for housekeeping in night , who was extremely professional, courteous, and supportive\u2014he made the experience even better. Truly worth the money, and I would definitely recommend this place to others, full safe for female.",
+      "5 stars and more to the place and staff. We had an amazing stay at here. The place is huge and can easily accommodate 3 people, the washroom was sparkling clean. The patio has a jacuzzi which was amazing, the outdoor space is also huge for you to unwind. The room service was great and food quality was also good. We got complementary breakfast which was great in taste. Akhilesh at the front desk was very helpful and courteous. The room service staff pawan was also courteous. The staff was quick to our requests and very polite. I would highly recommend this place if your are looking to celebrate a special occasion.",
+      "Perfect property for a comfortable stay. The private rooftop with jacuzzi is the highlight of the property. It is clean, hygienic and well maintained. The host is readily available, helpful and goes out of the way to make the guests feel comfortable. It has been a great experience! Thank you, Yogesh."
+    ],
+    "negative_snippets": []
+  },
+  "review_summary": "Based on 5 reviews.",
+  "positive_themes": {
+    "clean_rooms": 3,
+    "friendly_staff": 4,
+    "great_value": 1,
+    "good_food": 3,
+    "good_location": 1
+  },
+  "negative_themes": {}
+}

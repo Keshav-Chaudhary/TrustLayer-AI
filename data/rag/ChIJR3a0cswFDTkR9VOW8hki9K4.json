@@ -1,0 +1,50 @@
+{
+  "hotel_id": "ChIJR3a0cswFDTkR9VOW8hki9K4",
+  "hotel_name": "Super Oyo Flagship Satguru Residency Dwarka",
+  "area": "Dwarka",
+  "budget_category": "Budget",
+  "rating": 3.1,
+  "trust_score": 0.4582135533614562,
+  "travel_purpose_tags": [
+    "Budget"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "moderate",
+    "review_count": 5,
+    "positive_snippet_count": 1,
+    "negative_snippet_count": 3,
+    "positive_theme_count": 2,
+    "negative_theme_count": 2
+  },
+  "aspect_scores": {
+    "cleanliness": 0.1427877052822925,
+    "service": 0.9998670816421508,
+    "location": 0.5,
+    "value_for_money": 0.5,
+    "staff_behavior": 0.0003344475699122
+  },
+  "recommendation_features": {
+    "popularity_score": 0.4780905191293346,
+    "rating_score": 3.1,
+    "sentiment_score": 0.2858850647404323
+  },
+  "review_evidence": {
+    "positive_snippets": [
+      "Good experience and satisfied with the service and food"
+    ],
+    "negative_snippets": [
+      "Worst experience ever!! checked in at 12:00 and the electricity was gone by 12:10, they told me it will be there in 10-15 minutes, they don't have any power source.\n\nAnyway I stayed for that time and still no electricity, then I asked for refund and they cut 50%, keep in mind 50% for 1 hr stay and that too with no electricity.\n\nDon't waste your time here also the room was smelly and tiny.",
+      "This is not for family people or girls. Never ever try to book this hotel. I don't have lesser than 1* rating option otherwise I would have given in negative. I am not sure for what purpose this hotel is registered as it looks like haunted house and believe me you will be scared here on entry. Forget about any facilities. You will be provided a single room with attached washroom. And yes of course the cleaning and heigine things have nothing to do with here. You will find dirty bed sheet looks like never changed when it was purchased. Oyo team I would suggest to remove this hotel from your listing as thsw kind of hotel are responsible for getting your image down. Can't share images as thse are not something to be shared but people with good sense can understand.",
+      "Decent OYO but the washroom toilet seat was broken\u2026 had to manage it the way it was, bedsheets weren\u2019t that clean but manageable. Would say average stay."
+    ]
+  },
+  "review_summary": "Based on 5 reviews.",
+  "positive_themes": {
+    "good_food": 1,
+    "clean_rooms": 3
+  },
+  "negative_themes": {
+    "dirty_rooms": 2,
+    "rude_staff": 1
+  }
+}

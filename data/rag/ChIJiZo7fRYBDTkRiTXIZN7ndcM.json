@@ -1,0 +1,49 @@
+{
+  "hotel_id": "ChIJiZo7fRYBDTkRiTXIZN7ndcM",
+  "hotel_name": "Super Collection O By Oyo Sector 7 Rohini Formerly Giriraj Residency",
+  "area": "Delhi",
+  "budget_category": "Budget",
+  "rating": 4.3,
+  "trust_score": 0.7702320785607849,
+  "travel_purpose_tags": [
+    "Leisure"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "moderate",
+    "review_count": 5,
+    "positive_snippet_count": 3,
+    "negative_snippet_count": 1,
+    "positive_theme_count": 4,
+    "negative_theme_count": 0
+  },
+  "aspect_scores": {
+    "cleanliness": 0.9989834427833556,
+    "service": 0.5,
+    "location": 0.9991000890731812,
+    "value_for_money": 0.0007298077689483,
+    "staff_behavior": 0.7993327157804743
+  },
+  "recommendation_features": {
+    "popularity_score": 0.4248943222933851,
+    "rating_score": 4.3,
+    "sentiment_score": 0.7993327157804743
+  },
+  "review_evidence": {
+    "positive_snippets": [
+      "Nice hotel and neat and clean room help full staff",
+      "Nice hotel neet and clean room helpfull staff",
+      "The hotel is clean and well managed, staff is helpful and the owner Nishu bhaiya is also very polite, kind and helpful. It's inside the lane but in the main area. The market is just outside the lane, you can find all necessities, medicine, food etc easily. Auto is easily available and it's near to temple as well."
+    ],
+    "negative_snippets": [
+      "The hotel is good but the staff is absolutely useless. No matter how many times you tell them, no one listens. If this continues then it is a waste of the owner's money. Please, if the owner is looking into it then change the staff."
+    ]
+  },
+  "review_summary": "Based on 5 reviews.",
+  "positive_themes": {
+    "clean_rooms": 4,
+    "friendly_staff": 5,
+    "good_location": 1,
+    "good_food": 1
+  },
+  "negative_themes": {}
+}

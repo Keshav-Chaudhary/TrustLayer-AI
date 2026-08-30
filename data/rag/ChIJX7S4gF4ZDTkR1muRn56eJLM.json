@@ -1,0 +1,49 @@
+{
+  "hotel_id": "ChIJX7S4gF4ZDTkR1muRn56eJLM",
+  "hotel_name": "Shubham Hotel",
+  "area": "Police Lines",
+  "budget_category": "Mid-Range",
+  "rating": 4.0,
+  "trust_score": 0.6915561689725791,
+  "travel_purpose_tags": [
+    "Budget"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "moderate",
+    "review_count": 5,
+    "positive_snippet_count": 3,
+    "negative_snippet_count": 2,
+    "positive_theme_count": 1,
+    "negative_theme_count": 1
+  },
+  "aspect_scores": {
+    "cleanliness": 0.5,
+    "service": 0.9998543858528136,
+    "location": 0.5,
+    "value_for_money": 0.9997782111167908,
+    "staff_behavior": 0.6666090705451401
+  },
+  "recommendation_features": {
+    "popularity_score": 0.3166168302341184,
+    "rating_score": 4.0,
+    "sentiment_score": 0.7499177916688495
+  },
+  "review_evidence": {
+    "positive_snippets": [
+      "Great hotel for night stay... Cost effective.. Nice Working staff....\ud83d\ude00",
+      "Hotal Management is good & cafe , secure for family's & couples",
+      "Very nice place and good service friendly nature"
+    ],
+    "negative_snippets": [
+      "Worst hotel....very unprofessional staff....not at all for a family.....Never ever go for it....",
+      "Very bad"
+    ]
+  },
+  "review_summary": "Based on 5 reviews.",
+  "positive_themes": {
+    "friendly_staff": 3
+  },
+  "negative_themes": {
+    "rude_staff": 1
+  }
+}

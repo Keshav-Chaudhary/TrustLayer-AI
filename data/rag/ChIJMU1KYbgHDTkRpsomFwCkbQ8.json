@@ -1,0 +1,49 @@
+{
+  "hotel_id": "ChIJMU1KYbgHDTkRpsomFwCkbQ8",
+  "hotel_name": "Hotel O Olive Saffron",
+  "area": "Rohini",
+  "budget_category": "Mid-Range",
+  "rating": 3.4,
+  "trust_score": 0.4166289668971673,
+  "travel_purpose_tags": [
+    "Budget"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "moderate",
+    "review_count": 5,
+    "positive_snippet_count": 0,
+    "negative_snippet_count": 3,
+    "positive_theme_count": 3,
+    "negative_theme_count": 2
+  },
+  "aspect_scores": {
+    "cleanliness": 0.0009015547790719,
+    "service": 0.0003354482760187,
+    "location": 0.5,
+    "value_for_money": 0.0011635504633886,
+    "staff_behavior": 0.000725841273379
+  },
+  "recommendation_features": {
+    "popularity_score": 0.5228641744469175,
+    "rating_score": 3.4,
+    "sentiment_score": 0.0006942123698535
+  },
+  "review_evidence": {
+    "positive_snippets": [],
+    "negative_snippets": [
+      "My experience at this hotel was extremely disappointing and frustrating. After I made my booking, the staff demanded extra money, which was completely unfair and unprofessional.\n\nThe condition of the room was shockingly bad. The bathroom was a mess \u2013 there was no light, no tap, and it looked like it hadn\u2019t been cleaned in ages. On top of that, they didn\u2019t even provide a room key. When I asked for one, they casually told me to leave the room unlocked and assured me that nothing would be stolen because they had cameras installed. This was extremely uncomfortable and unsafe.\n\nThe bed sheets were disgustingly dirty, and it felt unhygienic to even sit on the bed. The room phone was broken, and almost everything in the room seemed neglected and poorly maintained. The overall cleanliness of the room and bathroom was nonexistent, making it impossible to feel comfortable.\n\nThe service was equally terrible. The staff didn\u2019t seem to care about customer experience at all and were very unprofessional in their approach.\n\nI would strongly advise others to stay away from this hotel. It\u2019s not worth the money, time, or peace of mind. If you value cleanliness, safety, and basic hospitality, avoid this place at all costs.\n\nBAS YAHI BOLUNGA KI PLEASE MAT RUKNA ISH ROOM ME BAHUT HI BEKAR HAI BAHUT HI BEKAR ISSE BURA HOTEL NI DEKHA AAJTAK MAINE SACH ME YAHI RECOMMEND KARUNGA KI MAT HI RUKO TO YAHA SAHI HAI.",
+      "They charged me extra 250rs. apart from Oyo total booking amount and receptionist will give you tailored-made answer that 'Oyo amount is partial and adding 250 will become total amount'...They simply don't care about your booking....If you will argue they say that 'You can stay other places' + they are getting direct booking and checkin as per their demand prices frequently so they don't care about your logical argument.",
+      "One of the worst experience ever in my life in this hotel dirty room no water in bathroom tv not working staff also so rude"
+    ]
+  },
+  "review_summary": "Based on 5 reviews.",
+  "positive_themes": {
+    "clean_rooms": 2,
+    "friendly_staff": 4,
+    "great_value": 1
+  },
+  "negative_themes": {
+    "dirty_rooms": 3,
+    "rude_staff": 2
+  }
+}

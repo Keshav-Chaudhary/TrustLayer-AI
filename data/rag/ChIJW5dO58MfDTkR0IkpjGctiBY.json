@@ -1,0 +1,52 @@
+{
+  "hotel_id": "ChIJW5dO58MfDTkR0IkpjGctiBY",
+  "hotel_name": "Hotel O The Kytes",
+  "area": "Chhatarpur",
+  "budget_category": "Mid-Range",
+  "rating": 3.8,
+  "trust_score": 0.6468992297752878,
+  "travel_purpose_tags": [
+    "Leisure"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "rich",
+    "review_count": 5,
+    "positive_snippet_count": 3,
+    "negative_snippet_count": 2,
+    "positive_theme_count": 4,
+    "negative_theme_count": 1
+  },
+  "aspect_scores": {
+    "cleanliness": 0.9933131635189056,
+    "service": 0.3347429496934637,
+    "location": 0.9929624199867249,
+    "value_for_money": 0.5,
+    "staff_behavior": 0.6648057915347939
+  },
+  "recommendation_features": {
+    "popularity_score": 0.4613370169652945,
+    "rating_score": 3.8,
+    "sentiment_score": 0.5967993416124955
+  },
+  "review_evidence": {
+    "positive_snippets": [
+      "Room was clean dubbal bad is not comfortable but hotel is evrage ok",
+      "The kytes deluxe one of my favourite hotel in delhi . Prices are excellent, I have stayed with my friend for a weekend and honestly I am so happy we found this place. I will start from check  in the lobby gave us our room keys!!! all , friendly and professional staff  We felt special from the beginning to the end. Beautiful staff- surly can make you feel like you home. The room was lovely, super clean with most comfortable bed I have ever slept on! and OMG love they pillows!!!:))) bathroom with shower very clean. Reception was very helpful in directing us to our rooms, so we have great night out as well.",
+      "Good place. Property is new but the services are less. Staff is warm and welcoming. Location is too much inside so it becomes hard to find the hotel, very far from the metro rail. Very good place for couples or family stays, even individuals would like this place if they don\u2019t mind locating it. Located in a small lane on the busy Chhattarpur road near Rajpur Extension."
+    ],
+    "negative_snippets": [
+      "The service is not as I expected and also the staff is not well in behavior. mostly Mr.vicky he is so rude. He suggested to me for the very first time that I should have to book a hotel offline, in that case, there are no identical issues. I agreed with him and on 29th Sep I booked it offline and also I invited my friend to join me. That day the whole staff behaved very rudely to me and my visitor. And also charge me 500 more so the total expansion was about 1800. So yeah this kind of behavior is not expected. so, guys, I suggest u go check out another hotel don't go for it Thank you.",
+      "The room was good ..But the breakfast they provided was pathetic as if they are giving old paranthas..\nOne more thing I wd like to add this is the first time any hotel has knocked and let u know before check out time that you have to check out by 11 am..They have telecom service they should have informed through it ..\nOtherwise nice property with spacious rooms"
+    ]
+  },
+  "review_summary": "Based on 5 reviews.",
+  "positive_themes": {
+    "clean_rooms": 2,
+    "friendly_staff": 3,
+    "good_location": 1,
+    "good_food": 1
+  },
+  "negative_themes": {
+    "rude_staff": 1
+  }
+}

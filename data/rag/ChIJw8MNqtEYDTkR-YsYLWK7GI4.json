@@ -1,0 +1,56 @@
+{
+  "hotel_id": "ChIJw8MNqtEYDTkR-YsYLWK7GI4",
+  "hotel_name": "Treebo Ivy Castle",
+  "area": "Sector 27",
+  "budget_category": "Mid-Range",
+  "rating": 4.2,
+  "trust_score": 0.7359456022046723,
+  "travel_purpose_tags": [
+    "Leisure",
+    "Business",
+    "Family"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "rich",
+    "review_count": 5,
+    "positive_snippet_count": 3,
+    "negative_snippet_count": 2,
+    "positive_theme_count": 5,
+    "negative_theme_count": 2
+  },
+  "aspect_scores": {
+    "cleanliness": 0.9994670748710632,
+    "service": 0.9994670748710632,
+    "location": 0.9995352625846864,
+    "value_for_money": 0.9997236132621764,
+    "staff_behavior": 0.9997236132621764
+  },
+  "recommendation_features": {
+    "popularity_score": 0.625359186778756,
+    "rating_score": 4.2,
+    "sentiment_score": 0.5998894151416606
+  },
+  "review_evidence": {
+    "positive_snippets": [
+      "Rooms are spacious and clean. Hitachi AC's do the job. Service is responsive and food is ok. The breakfast menu is limited. Nothing fancy. The location is very good very near DLF phase 1 rapid metro",
+      "Best place to stay. Good room services.and easily accessible.",
+      "Great value for money. Maintains Treebo standards.\nVery well behaved staff"
+    ],
+    "negative_snippets": [
+      "Property is old and rooms are smelly.\nThey are not doing proper cleaning of even common areas.",
+      "I booked this through booking.com the property was advertised as no pre payment and free cancellation. The minute I booked it. The messages were insessent about making a prepayment to confirm booking which seemed very unprofessional for advertising something and failing to stand it"
+    ]
+  },
+  "review_summary": "Based on 5 reviews.",
+  "positive_themes": {
+    "clean_rooms": 2,
+    "good_location": 1,
+    "good_food": 1,
+    "friendly_staff": 1,
+    "great_value": 1
+  },
+  "negative_themes": {
+    "dirty_rooms": 1,
+    "rude_staff": 1
+  }
+}

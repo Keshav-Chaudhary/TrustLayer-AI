@@ -1,0 +1,50 @@
+{
+  "hotel_id": "ChIJZV2pMp4CDTkRKjabTG-yEYc",
+  "hotel_name": "Hotel Tjs Grand",
+  "area": "New Delhi",
+  "budget_category": "Mid-Range",
+  "rating": 3.4,
+  "trust_score": 0.4928522166039586,
+  "travel_purpose_tags": [
+    "Budget"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "moderate",
+    "review_count": 5,
+    "positive_snippet_count": 1,
+    "negative_snippet_count": 3,
+    "positive_theme_count": 2,
+    "negative_theme_count": 2
+  },
+  "aspect_scores": {
+    "cleanliness": 0.0002232064143754,
+    "service": 0.0003360122209414,
+    "location": 0.5,
+    "value_for_money": 0.0003360122209414,
+    "staff_behavior": 0.0006660688668489
+  },
+  "recommendation_features": {
+    "popularity_score": 0.5810874001544201,
+    "rating_score": 3.4,
+    "sentiment_score": 0.2007910879910923
+  },
+  "review_evidence": {
+    "positive_snippets": [
+      "Awesome i book it for one more night ..."
+    ],
+    "negative_snippets": [
+      "absolute garbage, very bad experience, they give tap water in the name of a bisleri bottle , and ac is too loud kept turning on and off at night that too every second until you turn it off ,there is no ac controller even if you ask for it, would recommend sleeping on the road bench instead, the bed has bugs and torn bed sheets, the washroom smells, overall i would give this a minus rating if it has an option.\nbeyond disgusting.",
+      "Torn bed sheet,\nbed bugs,\nwhen asked for ac controller they just ignored and went,\nAC makes alot of noise,\nrooms are very small,\nbed is very kada,\nwhen asked for mineral water they just gave opened bottle of bisleri with tap water",
+      "I'll not give a single star. We booked a room from Goibibo. Then the hotel denied to give is room because of their issues with them. We have to sit outside the hotel for 2 hours and the hotelier didn't even care. They were only looking for their cash. It was 8:00 pm and they didn't even care that we have girls with us and it's not safe for them to be on street at 8:00 pm. They charged double of the hotel room price then only gave us room. Service was poor and food was not there for us. Ridiculous hotel with ridiculous staff."
+    ]
+  },
+  "review_summary": "Based on 5 reviews.",
+  "positive_themes": {
+    "friendly_staff": 2,
+    "good_food": 1
+  },
+  "negative_themes": {
+    "dirty_rooms": 1,
+    "noise": 2
+  }
+}

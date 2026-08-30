@@ -1,0 +1,47 @@
+{
+  "hotel_id": "ChIJIagCv3IZDTkR_J9Y0e95QvU",
+  "hotel_name": "Tipsyy Inn 001",
+  "area": "Sector 53",
+  "budget_category": "Budget",
+  "rating": 3.7,
+  "trust_score": 0.4247146389785258,
+  "travel_purpose_tags": [
+    "Budget"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "moderate",
+    "review_count": 5,
+    "positive_snippet_count": 0,
+    "negative_snippet_count": 3,
+    "positive_theme_count": 4,
+    "negative_theme_count": 0
+  },
+  "aspect_scores": {
+    "cleanliness": 0.0001866126985987,
+    "service": 0.0002071370618068,
+    "location": 0.0002252433914691,
+    "value_for_money": 0.0001890307321446,
+    "staff_behavior": 0.0002585835172794
+  },
+  "recommendation_features": {
+    "popularity_score": 0.3501294176361872,
+    "rating_score": 3.7,
+    "sentiment_score": 0.016194257128518
+  },
+  "review_evidence": {
+    "positive_snippets": [],
+    "negative_snippets": [
+      "No cleanliness, Breakfast mentioned at price deduction not provided though. Poorly managed. Very Disappointed by the service..",
+      "No kitchen, lots of mosquitos, Not for family, Bad staff no support or help.",
+      "There are many problems..\n*Washroom is too bad*\nWater supply is worst.."
+    ]
+  },
+  "review_summary": "Based on 5 reviews.",
+  "positive_themes": {
+    "clean_rooms": 1,
+    "good_food": 1,
+    "friendly_staff": 2,
+    "good_location": 1
+  },
+  "negative_themes": {}
+}

@@ -1,0 +1,49 @@
+{
+  "hotel_id": "ChIJTyMFBar8DDkRR_cmTPi5jkw",
+  "hotel_name": "Nirman Vihar Beacon, New Delhi",
+  "area": "New Delhi",
+  "budget_category": "Mid-Range",
+  "rating": 3.9,
+  "trust_score": 0.5026135457136273,
+  "travel_purpose_tags": [
+    "Budget"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "moderate",
+    "review_count": 5,
+    "positive_snippet_count": 0,
+    "negative_snippet_count": 3,
+    "positive_theme_count": 4,
+    "negative_theme_count": 1
+  },
+  "aspect_scores": {
+    "cleanliness": 0.003255335856617,
+    "service": 0.0052030086517333,
+    "location": 0.0052030086517333,
+    "value_for_money": 0.5,
+    "staff_behavior": 0.003255335856617
+  },
+  "recommendation_features": {
+    "popularity_score": 0.6110280873818852,
+    "rating_score": 3.9,
+    "sentiment_score": 0.003092976665357
+  },
+  "review_evidence": {
+    "positive_snippets": [],
+    "negative_snippets": [
+      "Can\u2019t give negative so keeping it to one\n\nThey took a group booking and to my surprise didn\u2019t bother to check if the rooms are in order or not ? ACs not working, bathroom leaking, no manpower and many more\u2026.\n\nNone or their ACs are working so people booking the room pls reconfirm if they will be getting AC room or not\n\nTo add to the trouble their on duty manager \u2026. On complaining abt the AC\u2026. The guy has a audacity to say \u201c do you use AC at home\u201d\n\nSo people booking the property pls check in advance\u2026. Better avoid this as there are other good options nearby\u2026",
+      "I had a very unpleasant experience during my stay at this hotel. The first room allotted to us was extremely small, and to make matters worse, the bathroom was leaking at the time of check-in. We requested a room change, which they did, but the situation only got worse.\n\nWhat shocked me the most was the hygiene. After the previous guest checked out, the housekeeping staff simply dusted the bedsheet and did not change the bedding. The bed smelled so bad that we couldn\u2019t sleep the entire night. This is completely unacceptable for any hotel, especially one that claims to maintain proper standards.\n\nOverall, I was extremely upset and disappointed. Basic cleanliness and comfort were missing. I would not recommend this hotel to anyone..",
+      "Very poor rooms. Lack of hygiene. Nothing around the room. Zero ventilation. No window at all.  Needs upgrade. Neither felt safe nor tried restaurant. Just left the room in  2 hours though we had 1 night booking. Staff is very humble and cooperative though."
+    ]
+  },
+  "review_summary": "Based on 5 reviews.",
+  "positive_themes": {
+    "good_location": 2,
+    "clean_rooms": 1,
+    "friendly_staff": 2,
+    "good_food": 1
+  },
+  "negative_themes": {
+    "dirty_rooms": 2
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "hotel_id": "ChIJganRVJAjDTkRuq61WMKx4NQ",
+  "hotel_name": "Rjk Stay Stay In Style",
+  "area": "Sector 49",
+  "budget_category": "Budget",
+  "rating": 4.5,
+  "trust_score": 0.8921864250655533,
+  "travel_purpose_tags": [
+    "Leisure",
+    "Business",
+    "Family"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "moderate",
+    "review_count": 5,
+    "positive_snippet_count": 3,
+    "negative_snippet_count": 0,
+    "positive_theme_count": 5,
+    "negative_theme_count": 0
+  },
+  "aspect_scores": {
+    "cleanliness": 0.9998074531555176,
+    "service": 0.9997775554656982,
+    "location": 0.9997915625572203,
+    "value_for_money": 0.9998433589935304,
+    "staff_behavior": 0.9998455941677094
+  },
+  "recommendation_features": {
+    "popularity_score": 0.5725584651670446,
+    "rating_score": 4.5,
+    "sentiment_score": 0.9998074531555176
+  },
+  "review_evidence": {
+    "positive_snippets": [
+      "I had a very pleasant stay at RJK Stay. The rooms were clean, well maintained, and comfortable, making the overall experience quite relaxing. The staff was courteous, responsive, and always willing to help, which added a lot of value to the stay.\n\nThe location is convenient, and the ambience is calm and welcoming. Check-in and check-out were smooth, and the overall service quality exceeded expectations for the price point.\n\nHighly recommended for both business and leisure travelers. I would definitely choose RJK Stay again on my next visit.",
+      "Had a pleasant stay at RJK Stay. The hotel is fully operational, rooms were very clean, and bedsheets were fresh and crisp. The food was good and home-style, which made the stay comfortable.\nLocation is excellent \u2014 Sector 49 Gurgaon, very close to HUDA City Centre Metro, Sector 48, Sector 65, and IFC Gurgaon. Being on Sohna Road and Golf Course Extension Road makes it easy to reach anywhere in Gurgaon. Staff was helpful and polite throughout.",
+      "RJK Stay is a very honest hotel with genuinely good staff. The service was smooth and transparent, which I really appreciated. The food was good, the linen was clean, and the rooms were super clean and well maintained. Overall, a very comfortable and trustworthy place to stay. plus it was very near to golf course extension road"
+    ],
+    "negative_snippets": []
+  },
+  "review_summary": "Based on 5 reviews.",
+  "positive_themes": {
+    "clean_rooms": 5,
+    "friendly_staff": 4,
+    "good_location": 4,
+    "great_value": 2,
+    "good_food": 3
+  },
+  "negative_themes": {}
+}

@@ -1,0 +1,49 @@
+{
+  "hotel_id": "ChIJQ3NDXD0dDTkRhr6qseSsSxg",
+  "hotel_name": "Hotel Paragon Suites",
+  "area": "Mahipalpur",
+  "budget_category": "Mid-Range",
+  "rating": 4.3,
+  "trust_score": 0.6771076266807254,
+  "travel_purpose_tags": [
+    "Budget"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "moderate",
+    "review_count": 5,
+    "positive_snippet_count": 2,
+    "negative_snippet_count": 3,
+    "positive_theme_count": 3,
+    "negative_theme_count": 0
+  },
+  "aspect_scores": {
+    "cleanliness": 0.500362093662261,
+    "service": 0.6670311930356547,
+    "location": 0.5,
+    "value_for_money": 0.000399330368964,
+    "staff_behavior": 0.5006087783840485
+  },
+  "recommendation_features": {
+    "popularity_score": 0.5855084500159704,
+    "rating_score": 4.3,
+    "sentiment_score": 0.4003695410036016
+  },
+  "review_evidence": {
+    "positive_snippets": [
+      "Absolutely loved my visit! The team was professional and attentive from start to finish. The product/service quality was excellent and priced fairly. Clean environment and very comfortable. Will definitely be returning soon!\u201d\nAnd also the food and the service they provide is outstanding we are so grateful to have a time",
+      "I had a wonderful stay at this hotel. The room was clean, comfortable, and well-maintained, making it a perfect place to relax after a long day. The staff provided excellent service \u2014 they were polite, attentive, and always ready to help with a smile"
+    ],
+    "negative_snippets": [
+      "The service was good and the staff was polite and cooperative. However, the room shown online was very different from what we actually received. The pictures showed a bigger and more spacious room with a proper washroom, but in reality the room was quite small. The washroom was not clean and basic amenities were not properly provided. Also, the hotel is not located on the main road as advertised. Overall, the stay did not fully match the expectations set online.",
+      "I recently booked this hotel based on the photos shown online, which appeared clean and well-maintained. However, the actual condition was completely different and very disappointing.\nThe rooms were not clean, plaster was coming off the walls, and the bathroom was in extremely poor condition. There were insects moving around in the bathroom, which was highly unacceptable. Overall hygiene standards were very poor.\nThe property does not match the pictures advertised online. I am completely dissatisfied with my stay and would not recommend this hotel unless significant improvements are made.",
+      "IT IS A SCAM. The rooms are not as shown in the pictures online.\nThe receptionist has had the nerve to say that \"they were renovating the place\"; ever heard of a place that gets uglier with the renovation? I haven't.\nThe only thing good they did was giving me my money back.\nDon't know what the people that put 5 stars to this place smoke."
+    ]
+  },
+  "review_summary": "Based on 5 reviews.",
+  "positive_themes": {
+    "clean_rooms": 4,
+    "good_food": 1,
+    "friendly_staff": 2
+  },
+  "negative_themes": {}
+}

@@ -1,0 +1,53 @@
+{
+  "hotel_id": "ChIJG7ishgb9DDkRnIrNWT8PfPM",
+  "hotel_name": "Hotel Shanti Villa",
+  "area": "Paharganj",
+  "budget_category": "Mid-Range",
+  "rating": 4.1,
+  "trust_score": 0.7695721075050225,
+  "travel_purpose_tags": [
+    "Business",
+    "Family"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "moderate",
+    "review_count": 5,
+    "positive_snippet_count": 3,
+    "negative_snippet_count": 1,
+    "positive_theme_count": 5,
+    "negative_theme_count": 1
+  },
+  "aspect_scores": {
+    "cleanliness": 0.9996418058872222,
+    "service": 0.999240666627884,
+    "location": 0.66649134553154,
+    "value_for_money": 0.6662953257230887,
+    "staff_behavior": 0.7996124958794099
+  },
+  "recommendation_features": {
+    "popularity_score": 0.5463717555348572,
+    "rating_score": 4.1,
+    "sentiment_score": 0.7996124958794099
+  },
+  "review_evidence": {
+    "positive_snippets": [
+      "I recently stayed at Hotel Shanti Villa in Delhi and had a comfortable experience overall.\nThe location is convenient, especially if you\u2019re looking for something accessible to major markets and transport areas. The rooms were clean and well-maintained, with basic amenities in place.\nThe staff was polite and helpful, always ready to assist with requests. Check-in and check-out were smooth, which made the stay hassle-free.\nI will definitely recommend this hotel! \u2764\ufe0f",
+      "As far as my experience goes, no hotel stay in Delhi could be more comfortable and hospitable other than Shanti Villa at Paharganj in Delhi because of its welcoming ambience, space, decor and ever-smiling staff, always committed to dedicated service to the guests. Delicious food can also be had at reasonable prices. It is conveniently located at a short distance away from New Delhi railway station.\nSpecial mention must be made of Abhijit babu whose warm personality is infectious. He is always attentive to guests' needs. Last but not the least is Aarti Madam's graceful presence at the front desk which makes guests feel like being at home.",
+      "A good stay, budget friendly (1.5K to 2K) get's you a good cosy room. They can make it better by supplying a kettle and coffee/tea self making facility.\nI've stayed multiple times, the workers sometimes can be a bit of a pain but the management is good and prompt."
+    ],
+    "negative_snippets": [
+      "Our stay here was nothing short of a nightmare. The staff were shockingly uncooperative and went out of their way to make our experience miserable.\n\nOn the very first day, we returned from sightseeing only to find shattered glass all over the room floor \u2014 even inside our luggage. This was not just unprofessional, but extremely unsafe.\n\nTo make matters worse, they forced us to order overpriced food. It wasn\u2019t even from their own restaurant but delivered from elsewhere at more than double the actual cost. When we raised the issue with MakeMyTrip, our booking was abruptly cancelled, and the hotel staff demanded extra payment from us.\n\nThe location itself is terrible, adding to the frustration.\n\nOverall, this was an absolute horror stay. Unsafe, dishonest, and exploitative \u2014 I would strongly advise everyone to avoid Hotel Shanti Villa at all costs."
+    ]
+  },
+  "review_summary": "Based on 5 reviews.",
+  "positive_themes": {
+    "clean_rooms": 2,
+    "friendly_staff": 5,
+    "good_location": 4,
+    "good_food": 2,
+    "great_value": 1
+  },
+  "negative_themes": {
+    "rude_staff": 1
+  }
+}

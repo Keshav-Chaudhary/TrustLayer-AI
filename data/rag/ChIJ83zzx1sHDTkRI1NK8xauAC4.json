@@ -1,0 +1,47 @@
+{
+  "hotel_id": "ChIJ83zzx1sHDTkRI1NK8xauAC4",
+  "hotel_name": "Hotel Otel Unwind",
+  "area": "Rohini",
+  "budget_category": "Mid-Range",
+  "rating": 3.2,
+  "trust_score": 0.365584121116054,
+  "travel_purpose_tags": [
+    "Budget"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "moderate",
+    "review_count": 5,
+    "positive_snippet_count": 0,
+    "negative_snippet_count": 3,
+    "positive_theme_count": 2,
+    "negative_theme_count": 1
+  },
+  "aspect_scores": {
+    "cleanliness": 0.0006966379102474,
+    "service": 0.0008602037851232,
+    "location": 0.5,
+    "value_for_money": 0.0006727075669914,
+    "staff_behavior": 0.0008137290715239
+  },
+  "recommendation_features": {
+    "popularity_score": 0.4079220425584051,
+    "rating_score": 3.2,
+    "sentiment_score": 0.0006618707149754
+  },
+  "review_evidence": {
+    "positive_snippets": [],
+    "negative_snippets": [
+      "We take Oyo booking and when a client comes, we convince him to cancel the Oyo booking, you will have to pay charges, it is a dirty service, our staff does not even pick up the call, none of ours Or give it to someone Extra charge also I have also taken ours, I have not cancelled my booking yet, I will see who cancels it, I have also entered the booking ID.wdms3891  oyo ki h aaj ki",
+      "Worst hotel in d world,\nNo sleeper, doesn't obey oyo rules, no geyser, sockets not working,\nOnly fit for flying, hope u understand",
+      "Worst experience,  shabby rooms, dirty toilet  with leakage, heavy mosquito, poor service, unsafe for familys"
+    ]
+  },
+  "review_summary": "Based on 5 reviews.",
+  "positive_themes": {
+    "friendly_staff": 3,
+    "clean_rooms": 2
+  },
+  "negative_themes": {
+    "dirty_rooms": 2
+  }
+}

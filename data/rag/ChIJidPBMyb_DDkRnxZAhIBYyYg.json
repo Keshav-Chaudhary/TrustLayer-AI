@@ -1,0 +1,38 @@
+{
+  "hotel_id": "ChIJidPBMyb_DDkRnxZAhIBYyYg",
+  "hotel_name": "Oyo 820297 Oyo Hotel Caili Guest House",
+  "area": "Ghaziabad",
+  "budget_category": "Budget",
+  "rating": 3.9,
+  "trust_score": 0.5723578319122123,
+  "travel_purpose_tags": [
+    "Budget"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "none",
+    "review_count": 0,
+    "positive_snippet_count": 0,
+    "negative_snippet_count": 0,
+    "positive_theme_count": 0,
+    "negative_theme_count": 0
+  },
+  "aspect_scores": {
+    "cleanliness": NaN,
+    "service": NaN,
+    "location": NaN,
+    "value_for_money": NaN,
+    "staff_behavior": NaN
+  },
+  "recommendation_features": {
+    "popularity_score": 0.1935748254816269,
+    "rating_score": 3.9,
+    "sentiment_score": 0.5
+  },
+  "review_evidence": {
+    "positive_snippets": [],
+    "negative_snippets": []
+  },
+  "review_summary": "Based on 0 reviews.",
+  "positive_themes": {},
+  "negative_themes": {}
+}

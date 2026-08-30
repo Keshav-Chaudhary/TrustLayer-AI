@@ -1,0 +1,49 @@
+{
+  "hotel_id": "ChIJYfoVs1v9DDkRM9L-6Z-zHdg",
+  "hotel_name": "Hotel Klick International",
+  "area": "Paharganj",
+  "budget_category": "Mid-Range",
+  "rating": 3.1,
+  "trust_score": 0.4031015582866302,
+  "travel_purpose_tags": [
+    "Budget"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "moderate",
+    "review_count": 5,
+    "positive_snippet_count": 0,
+    "negative_snippet_count": 3,
+    "positive_theme_count": 4,
+    "negative_theme_count": 1
+  },
+  "aspect_scores": {
+    "cleanliness": 0.0004033479199278,
+    "service": 0.0002863968838937,
+    "location": 0.0313322134315967,
+    "value_for_money": 0.0025510083796689,
+    "staff_behavior": 0.0024934323882916
+  },
+  "recommendation_features": {
+    "popularity_score": 0.6366855866726219,
+    "rating_score": 3.1,
+    "sentiment_score": 0.0074132798006757
+  },
+  "review_evidence": {
+    "positive_snippets": [],
+    "negative_snippets": [
+      "Stayed in a Deluxe Double Room at Hotel Klick International. The room size was below average for something labeled \u201cDeluxe,\u201d and cleanliness was not up to standard. Visible dust was present on the wooden bed frame and other surfaces.\nThere was no wardrobe or hangers for clothes, and no dustbin in either the room or washroom, which was inconvenient. The main door lock was broken, and only the upper sliding latch was working, which did not feel secure. The TV was not functioning properly. Staff turned it on with a master remote, but paid channels showed no subscription and free channels were not working either. One of the power sockets was also not working.\nThe washroom fittings were shaky, and there was continuous water leakage in the toilet area causing constant noise. The environment was quite noisy even around 10 to 11 PM.\nPositive points: hassle free check in and check out process, lift available, and staff did respond when called.\nOverall, maintenance, basic amenities, and cleanliness need serious improvement. Not recommended if you expect a proper deluxe standard stay.",
+      "My stay at Hotel Klick International was overall average.\n\nThe geyser was not working in the room, which caused inconvenience, especially during the stay. The room and overall property felt very compact, making it a bit uncomfortable.\n\nAnother disappointing part was after checkout. While leaving, the hotel manager promised a reasonable and better price for my return trip stay, but when I later called to book, the quoted price was higher than what was available online, which felt misleading.\n\nBecause of these issues, I\u2019m giving a 3-star rating. With better maintenance and more transparency in pricing, the experience could be improved.",
+      "Don't go by the ratings on Goibibo or any other 3rd party apps and the images that they have posted on those apps.. it is a 2 star hotel at best with not so great rooms. Not recommended for long stay. If you need  a economical hotel for overnight stay and you need to stay close to the market area or new delhi railway station only then consider coming here ."
+    ]
+  },
+  "review_summary": "Based on 5 reviews.",
+  "positive_themes": {
+    "clean_rooms": 1,
+    "friendly_staff": 1,
+    "good_location": 2,
+    "good_food": 2
+  },
+  "negative_themes": {
+    "noise": 1
+  }
+}

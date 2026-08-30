@@ -1,0 +1,54 @@
+{
+  "hotel_id": "ChIJSyEeQxUcDTkRtP518kGmaNs",
+  "hotel_name": "Hotel Mayda Inn- A Boutique Hotel By Mayda Hospitality Pvt. Ltd.",
+  "area": "Mahipalpur",
+  "budget_category": "Budget",
+  "rating": 4.3,
+  "trust_score": 0.7007140019392758,
+  "travel_purpose_tags": [
+    "Leisure"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "moderate",
+    "review_count": 5,
+    "positive_snippet_count": 2,
+    "negative_snippet_count": 3,
+    "positive_theme_count": 5,
+    "negative_theme_count": 2
+  },
+  "aspect_scores": {
+    "cleanliness": 0.3339287735288962,
+    "service": 0.9998500347137452,
+    "location": 0.9998500347137452,
+    "value_for_money": 0.1632959097623825,
+    "staff_behavior": 0.5411564692622051
+  },
+  "recommendation_features": {
+    "popularity_score": 0.6475835185177833,
+    "rating_score": 4.3,
+    "sentiment_score": 0.4329774288693443
+  },
+  "review_evidence": {
+    "positive_snippets": [
+      "A true 5-star experience that exceeded all expectations!\n\u200bFrom the moment we checked in, our stay at HOTEL MAYDA PRIME Near Delhi Airport was simply awesome. This hotel is a fantastic choice for anyone seeking luxury, convenience, and impeccable service near the airport.\n\n\u200b\ud83c\udf7d\ufe0f The Culinary Delight (Good Food Serving in Room)\n\u200bThe highlight of our stay was the absolutely delicious food and the excellent in-room dining service.\n\u200bGourmet In-Room Dining: The menu offered a wonderful variety of cuisines, and every dish we ordered for room service was delivered promptly, piping hot, and beautifully presented. It was a genuine pleasure to enjoy restaurant-quality meals in the comfort of our own room.\n\u200bQuality and Taste: The ingredients were fresh, and the flavors were outstanding. They truly went above and beyond to cater to our preferences, making every meal a memorable part of our trip.\n\u200b\n\ud83d\udecc Awesome Stay: Comfort, Cleanliness, and Service\n\u200bThe overall stay was nothing short of awesome, thanks to the high standards of the property and the dedicated staff.\n\u200bComfortable & Clean Rooms: Our room was spacious, immaculately clean, and featured premium bedding that guaranteed a restful night's sleep. The modern amenities and quiet ambiance provided a perfect retreat from the city's hustle.\n\u200bImpeccable Service: The staff were polite, attentive, and incredibly helpful throughout our stay. Their efficiency and warm hospitality made us feel truly valued as guests. From check-in to check-out, every request was handled with professionalism and a genuine smile.\n\u200bLocation: Being so close to the Delhi Airport (IGI) made our travel logistics stress-free and convenient.\n\u200bIn summary, if you are looking for an airport hotel that delivers a stellar experience with fantastic, high-quality food served right to your room, look no further than Hotel Mayda Prime. Highly, highly recommended!",
+      "I stayed a month in that hotel and the staff are very helpful as well as managers thank to Ali,i Tanya, and Surya who always made sure we had everything we need and  made our stay memorable we cant thank you enough"
+    ],
+    "negative_snippets": [
+      "The room is good and very spacious, in fact I have stayed in the past here without any issues. But in my recent experience I had an uncomfortable stay with cockroaches all around the room and even though this was conveyed to the staff nothing was done.In addition to it the kettle was rusted.\nThe only thing good about the hotel is the price and the space. If they could sort the pests the room is really good.",
+      "Such a disgusting place. The hotel is not clean at all, especially the rooms. The bed sheets were not washed properly, and there were yellow stain marks all over the blankets. I didn\u2019t feel comfortable sleeping on the bed. On top of that, there were no heaters, and it was extremely cold. I would not recommend this place to anyone.",
+      "Stayed here with my family at the end of Jan, 2026. The room was quite dirty, could feel debris on the floor when we walked. The mattresses were very old and brown, the bedding had a stale smell. You could tell the room was cleaned in a hurry. Wallpaper was peeling above the headboard. You can tell the rooms need mantenace.\n\nThe staff was kind, and breakfast in the morning was tasty however not a lot of options."
+    ]
+  },
+  "review_summary": "Based on 5 reviews.",
+  "positive_themes": {
+    "clean_rooms": 3,
+    "friendly_staff": 4,
+    "good_location": 1,
+    "great_value": 1,
+    "good_food": 2
+  },
+  "negative_themes": {
+    "dirty_rooms": 1,
+    "bad_food": 1
+  }
+}

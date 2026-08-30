@@ -1,0 +1,52 @@
+{
+  "hotel_id": "ChIJBztzF2_dDDkRL7U3jwZkoRM",
+  "hotel_name": "Hotel Ekant",
+  "area": "Sector 17",
+  "budget_category": "Mid-Range",
+  "rating": 4.2,
+  "trust_score": 0.7103092852652885,
+  "travel_purpose_tags": [
+    "Budget"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "rich",
+    "review_count": 5,
+    "positive_snippet_count": 3,
+    "negative_snippet_count": 2,
+    "positive_theme_count": 4,
+    "negative_theme_count": 1
+  },
+  "aspect_scores": {
+    "cleanliness": 0.9998493492603302,
+    "service": 0.3334936341173791,
+    "location": 0.5,
+    "value_for_money": 0.0001882181386463,
+    "staff_behavior": 0.0003310800384497
+  },
+  "recommendation_features": {
+    "popularity_score": 0.5045965926282034,
+    "rating_score": 4.2,
+    "sentiment_score": 0.6000439429597464
+  },
+  "review_evidence": {
+    "positive_snippets": [
+      "Recently had a party (~50 personal) in Hotel Ekant in open Garden area. Food quality was good and very Hygiene. Service team has also performed well. Thanks for making our day memorable.",
+      "Hotel ekant was peacefull and refreshing ,this located in calm and scenic area surrounded by hills and greenery ,the room were clean,comfortable and neatly maintained,with a warm and homely feel",
+      "Good place in faridabad for family dining and parties"
+    ],
+    "negative_snippets": [
+      "I had a very bad experience at this restaurant .The staff was rude and not cooperative at all and did not respond properly to our concerns. Their behavior was unprofessional and unhelpful.\nThe food quality was extremely poor. It seemed old and not fresh, which was very disappointing and unacceptable. Overall, the service did not meet basic expectations.\nI would not recommend this hotel to anyone. Definitely not worth the money.",
+      "HIGHLY NOT RECOMMENDED\n\nThe most pathetic hotel in Faridabad.\nWe had a Roka ceremony celebration.\nThe waiters refused to serve the couple.\nThe so called arrogant manager came, and asked us not to talk to us rudely. Where as we were not, Instead of understanding the fault of the waiter.\n\nHorrible food , all food was cold .\nPathetic management especially the manager.\nPathetic food and ambience.\n\nThe curries were served in a plastic bowl at a so called 2-Star Hotel."
+    ]
+  },
+  "review_summary": "Based on 5 reviews.",
+  "positive_themes": {
+    "good_food": 3,
+    "clean_rooms": 1,
+    "friendly_staff": 1,
+    "great_value": 1
+  },
+  "negative_themes": {
+    "rude_staff": 2
+  }
+}

@@ -1,0 +1,52 @@
+{
+  "hotel_id": "ChIJk2gHn-nhDDkRuZScc5-PY8A",
+  "hotel_name": "Hotel Flourish Stays",
+  "area": "Malviya Nagar",
+  "budget_category": "Budget",
+  "rating": 4.6,
+  "trust_score": 0.807580679277827,
+  "travel_purpose_tags": [
+    "Business"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "moderate",
+    "review_count": 5,
+    "positive_snippet_count": 3,
+    "negative_snippet_count": 1,
+    "positive_theme_count": 4,
+    "negative_theme_count": 2
+  },
+  "aspect_scores": {
+    "cleanliness": 0.9994152784347532,
+    "service": 0.9502273797988892,
+    "location": 0.6513627207217118,
+    "value_for_money": 0.5,
+    "staff_behavior": 0.7907541773281992
+  },
+  "recommendation_features": {
+    "popularity_score": 0.4258589922067738,
+    "rating_score": 4.6,
+    "sentiment_score": 0.7907541773281992
+  },
+  "review_evidence": {
+    "positive_snippets": [
+      "Great stay in Malviya Nagar-Saket area. Max Hospital is just opposite to it and about 5 minutes walking distance. Rooms are a bit small but cosy, with all amenities like clean modern bathroom, adequate lighting and regular cleaning services. Staffs were more than welcoming and helpful throughout. Their restuarant needs special mention , because of the quality of food and its chef. All dishes were highly palatable and had rational pricing. This hotel is highly recommended.",
+      "So far, they've given us a good service. Doesn't feel so much different from Nigeria. It's located very close to the hospital. I'll check the distance to a mall and the metro station later. I'll call it the Mararaba of Abuja because of the traffic\n\nAnd Yes the staff are very polite and friendly too",
+      "The room was clean, staff members were very friendly and supportive. Good opportunity for a stay in Delhi."
+    ],
+    "negative_snippets": [
+      "Location was good only if you want near hospital but no parking and the staff there was very rude they even didn't provide you with free water whereas as per government norms you can't deny free water"
+    ]
+  },
+  "review_summary": "Based on 5 reviews.",
+  "positive_themes": {
+    "clean_rooms": 3,
+    "friendly_staff": 5,
+    "good_food": 2,
+    "good_location": 2
+  },
+  "negative_themes": {
+    "rude_staff": 1,
+    "parking_issues": 1
+  }
+}

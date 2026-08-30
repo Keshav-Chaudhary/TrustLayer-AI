@@ -1,0 +1,48 @@
+{
+  "hotel_id": "ChIJd-ZjPh_7DDkR1oqGuo5VE1E",
+  "hotel_name": "Hotel O Bollywood",
+  "area": "Shahdara",
+  "budget_category": "Mid-Range",
+  "rating": 4.1,
+  "trust_score": 0.7065892773157367,
+  "travel_purpose_tags": [
+    "Family"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "moderate",
+    "review_count": 5,
+    "positive_snippet_count": 3,
+    "negative_snippet_count": 1,
+    "positive_theme_count": 3,
+    "negative_theme_count": 0
+  },
+  "aspect_scores": {
+    "cleanliness": 0.9997674226760864,
+    "service": 0.5,
+    "location": 0.0001894432061817,
+    "value_for_money": 0.9996659755706788,
+    "staff_behavior": 0.7480647017000592
+  },
+  "recommendation_features": {
+    "popularity_score": 0.2520918884069095,
+    "rating_score": 4.1,
+    "sentiment_score": 0.7983871737669688
+  },
+  "review_evidence": {
+    "positive_snippets": [
+      "Friendly hotel and  neat and clean\nStaff are very good",
+      "Hotel bollywood staff are good friendly and suppotive  pocket friendly price neat and clean",
+      "Staff are very helpful and kind and  very thin is good"
+    ],
+    "negative_snippets": [
+      "Worst to move.not accurate location on map,not accurate phone number on board,not qualified and knowledgeable staff."
+    ]
+  },
+  "review_summary": "Based on 5 reviews.",
+  "positive_themes": {
+    "clean_rooms": 2,
+    "friendly_staff": 4,
+    "good_location": 1
+  },
+  "negative_themes": {}
+}

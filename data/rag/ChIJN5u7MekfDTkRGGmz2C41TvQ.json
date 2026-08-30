@@ -1,0 +1,48 @@
+{
+  "hotel_id": "ChIJN5u7MekfDTkRGGmz2C41TvQ",
+  "hotel_name": "Avanti Retreat",
+  "area": "Gwal Pahari",
+  "budget_category": "Mid-Range",
+  "rating": 4.4,
+  "trust_score": 0.8512302815700908,
+  "travel_purpose_tags": [
+    "Leisure",
+    "Business"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "moderate",
+    "review_count": 5,
+    "positive_snippet_count": 3,
+    "negative_snippet_count": 0,
+    "positive_theme_count": 4,
+    "negative_theme_count": 0
+  },
+  "aspect_scores": {
+    "cleanliness": 0.9997846484184264,
+    "service": 0.9997791449228922,
+    "location": 0.9998131692409516,
+    "value_for_money": 0.5,
+    "staff_behavior": 0.9998169541358948
+  },
+  "recommendation_features": {
+    "popularity_score": 0.4425108247627112,
+    "rating_score": 4.4,
+    "sentiment_score": 0.9998005747795105
+  },
+  "review_evidence": {
+    "positive_snippets": [
+      "This place is awesome. Location is easy to reach. Though within the city this place just seems like a destination far from hustle-bustle of Delhi NCR. The stay was relaxing. Please is lush green surrounded with small mountain. There were peacocks, parrots and other birds. Rooms were clean with all amenities. Staffs were all humble, polite and prompt. They served delicious food. I would like to thank Nishi Singh for all her help during our stay and all the staffs. I recommend this place to all looking for a peaceful and relaxing weekend.",
+      "what struck me the most about this place was it's serenity, the cottage was beautiful, far better than other places- particularly hotels that are restricted to the room itself, the lush green woods made our stay amazing. The manager was helpful and organized everything. If you are looking for a stress free stay from your busy lives, then this is perfect!",
+      "Avanti Retreat impressed us with its spacious accommodations, attentive staff, and inviting ambience. From the warm welcome to the well-appointed rooms, every detail was meticulously curated for a memorable stay. The service was exceptional, with staff readily available to assist with any request. Whether relaxing by the pool or enjoying a meal at the onsite restaurant, every moment felt like a true retreat. Highly recommended for families seeking a luxurious and rejuvenating staycation experience."
+    ],
+    "negative_snippets": []
+  },
+  "review_summary": "Based on 5 reviews.",
+  "positive_themes": {
+    "clean_rooms": 2,
+    "friendly_staff": 4,
+    "good_location": 1,
+    "good_food": 1
+  },
+  "negative_themes": {}
+}

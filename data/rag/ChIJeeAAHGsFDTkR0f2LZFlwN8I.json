@@ -1,0 +1,52 @@
+{
+  "hotel_id": "ChIJeeAAHGsFDTkR0f2LZFlwN8I",
+  "hotel_name": "Fabhotel Asp Royal Residency I",
+  "area": "New Delhi",
+  "budget_category": "Mid-Range",
+  "rating": 4.0,
+  "trust_score": 0.4675193834232723,
+  "travel_purpose_tags": [
+    "Budget"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "moderate",
+    "review_count": 5,
+    "positive_snippet_count": 1,
+    "negative_snippet_count": 3,
+    "positive_theme_count": 3,
+    "negative_theme_count": 3
+  },
+  "aspect_scores": {
+    "cleanliness": 0.0520591787426382,
+    "service": 0.1030010479444172,
+    "location": 0.1030010479444172,
+    "value_for_money": 0.0005347525584511,
+    "staff_behavior": 0.0004693094670073
+  },
+  "recommendation_features": {
+    "popularity_score": 0.3254892371051192,
+    "rating_score": 4.0,
+    "sentiment_score": 0.0417872274236287
+  },
+  "review_evidence": {
+    "positive_snippets": [
+      "It was a wonderful experience while staying there I had room no 306 something I guess it had a balcony view wasn't very beautiful and I can't blame it on them because its right in front of a metro station if you just want to explore its perfect pick\nThe cons is the bathroom was small in my opinion i don't like seat very close to walls in right and left and cloth hanger in washroom was broken honestly if I had to stay there more than 1 day i must had asked them to replace it and in my opinion they would had done it for me\nAt the end it was a wonderful experience bed was too comfy I liked it had a table where I can eat + couch to chill on loved it just rake and bathroom was the issue I stayed there alone it was wonderful experience and yeah the area is too quiet at night so if it had just a little comfy music in reception or halls it would be the best experience"
+    ],
+    "negative_snippets": [
+      "1. Please don't book through fabhotels. They charge you extra and there is no customer support available to help you resolve the payment issue.\n2. This hotel is not recommended for family.\n3. There was excessive noise throughout the night\n4. Extremely dirty rooms- bedsheet, blanket and toilet.\n5. The receptionist was rude and didn't help us resolve the issue. Charged extra amount.",
+      "Location is ok but there is no professionalism in staff.\n1. Not providing any complimentary service without phone call.\n2. Washroom are too small we cannot even bath properly.\n3 Bathroom door mat is of very cheap quality mesh type always wet. Not provided another one even after request.\n4. Room was smelling pungent as if Room was wiped with vary bad coth.\n5. There is no phone in room.\n6. Not worth",
+      "no napkin, towel, or toilet paper, no handwash. Dirty taps, floor, soiled sheets & a blanket with cig burn holes, no drinking water in my room"
+    ]
+  },
+  "review_summary": "Based on 5 reviews.",
+  "positive_themes": {
+    "good_location": 2,
+    "friendly_staff": 1,
+    "great_value": 1
+  },
+  "negative_themes": {
+    "dirty_rooms": 3,
+    "rude_staff": 1,
+    "noise": 1
+  }
+}

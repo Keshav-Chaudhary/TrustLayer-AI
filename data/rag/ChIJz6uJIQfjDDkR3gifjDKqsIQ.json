@@ -1,0 +1,50 @@
+{
+  "hotel_id": "ChIJz6uJIQfjDDkR3gifjDKqsIQ",
+  "hotel_name": "Oyo Tom & Jerry Near Lotus Temple",
+  "area": "Teshil",
+  "budget_category": "Budget",
+  "rating": 3.3,
+  "trust_score": 0.4350067358753529,
+  "travel_purpose_tags": [
+    "Budget"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "moderate",
+    "review_count": 5,
+    "positive_snippet_count": 0,
+    "negative_snippet_count": 3,
+    "positive_theme_count": 3,
+    "negative_theme_count": 3
+  },
+  "aspect_scores": {
+    "cleanliness": 0.1578964618965983,
+    "service": 0.0004637595266103,
+    "location": 0.0003199501661583,
+    "value_for_money": 0.0008109781192615,
+    "staff_behavior": 0.0004637595266103
+  },
+  "recommendation_features": {
+    "popularity_score": 0.5775811255120287,
+    "rating_score": 3.3,
+    "sentiment_score": 0.0634857580938841
+  },
+  "review_evidence": {
+    "positive_snippets": [],
+    "negative_snippets": [
+      "Hotel Tom & Jerry is a total disaster. The booking process was a nightmare, taking way too long and filled with confusion. Once I arrived, I was shocked to find the rooms were tiny, smelly cramped, hardly enough space to move around. The location is poorly connected, making it difficult to explore the area. Overall, it felt inferior in quality and below expectations\u2014dull and boring at every turn. Avoid this place.",
+      "I would have given 0 star to this third class hotel\n\nThey don't give you towel don't provide hot water the only thing they will do is when you will check in they will ask you to rate them.\n\nWorst experience of my life.\nDo not book this third class hotel",
+      "Room was not clean. They don't provide you enough towels for everyone. Hot water was not there. Photos shown on different sites is very different to what they provide."
+    ]
+  },
+  "review_summary": "Based on 5 reviews.",
+  "positive_themes": {
+    "good_location": 2,
+    "clean_rooms": 2,
+    "friendly_staff": 1
+  },
+  "negative_themes": {
+    "dirty_rooms": 2,
+    "rude_staff": 1,
+    "noise": 1
+  }
+}

@@ -1,0 +1,52 @@
+{
+  "hotel_id": "ChIJ8b0cjakbDTkRswKAZj95Mjk",
+  "hotel_name": "Embellish Inn",
+  "area": "New Delhi",
+  "budget_category": "Budget",
+  "rating": 4.4,
+  "trust_score": 0.6809332192820923,
+  "travel_purpose_tags": [
+    "Leisure"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "moderate",
+    "review_count": 5,
+    "positive_snippet_count": 2,
+    "negative_snippet_count": 3,
+    "positive_theme_count": 4,
+    "negative_theme_count": 1
+  },
+  "aspect_scores": {
+    "cleanliness": 0.9996501207351683,
+    "service": 0.0002281919805681,
+    "location": 0.9830811321735382,
+    "value_for_money": 0.0039981433292268,
+    "staff_behavior": 0.6554494133597472
+  },
+  "recommendation_features": {
+    "popularity_score": 0.5492203448319317,
+    "rating_score": 4.4,
+    "sentiment_score": 0.3948857918469001
+  },
+  "review_evidence": {
+    "positive_snippets": [
+      "Out of 10 I will rate embelishhh 8\nAmar ji and sagar are best guys here\nAlways ready to help\nWent and stayed here with my gf for 2 days absolutely no problem I faced\nCleaning wise it's mixed some rooms are too small\nand some are not that good overall quite good for budget hotel",
+      "Stayed here with my family,Clean room ,polite staff and good location."
+    ],
+    "negative_snippets": [
+      "Worst ever hotel.. non cooperative staff.. denies of basic service like ac and tv.. even cattle and heter cattle provided after request\u2026 very humiliating staff\u2026 lack of professionalism\u2026 just a cheap hotel charging too much..not worth it",
+      "Worst room how is this even 3 stars absolute horrendous room and service ok ok. Only 1 towel per room even though 2 people occupancy room booked. Exhaust not working plz avoid this worst. Almirah inside was smelling so bad and room not properly cleaned blankets was torn from inside and stains on bed sheets worst \ud83d\udc4e",
+      "Rooms were smelling like seepage due to being closed in winter season..\nEven the staff was least interested to assist.\nLocation is okay"
+    ]
+  },
+  "review_summary": "Based on 5 reviews.",
+  "positive_themes": {
+    "clean_rooms": 3,
+    "friendly_staff": 3,
+    "good_location": 2,
+    "great_value": 1
+  },
+  "negative_themes": {
+    "dirty_rooms": 2
+  }
+}

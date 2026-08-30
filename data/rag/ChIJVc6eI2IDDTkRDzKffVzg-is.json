@@ -1,0 +1,50 @@
+{
+  "hotel_id": "ChIJVc6eI2IDDTkRDzKffVzg-is",
+  "hotel_name": "Hotel Mannat",
+  "area": "Shalimar Bagh",
+  "budget_category": "Mid-Range",
+  "rating": 4.1,
+  "trust_score": 0.7455393919957692,
+  "travel_purpose_tags": [
+    "Leisure",
+    "Business"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "moderate",
+    "review_count": 5,
+    "positive_snippet_count": 3,
+    "negative_snippet_count": 1,
+    "positive_theme_count": 4,
+    "negative_theme_count": 0
+  },
+  "aspect_scores": {
+    "cleanliness": 0.5,
+    "service": 0.9984009861946106,
+    "location": 0.9984009861946106,
+    "value_for_money": 0.9991208016872406,
+    "staff_behavior": 0.9997989336649576
+  },
+  "recommendation_features": {
+    "popularity_score": 0.4332363014410051,
+    "rating_score": 4.1,
+    "sentiment_score": 0.7997085542301647
+  },
+  "review_evidence": {
+    "positive_snippets": [
+      "Hotel was good resanble price good service near to metro station",
+      "one of the best place to stay \ud83d\ude0a,there is adequate facilities and home like environment,\nStaff is also very cooperative and supportive\nduring my stay one of the staff helped me a lot thank you so much \ud83d\ude0a for everything\u2026",
+      "I was booked a room for celebrating my Birthday with my friends & Thank you for every thing we were very happy in our stay at Hotel Mannat every thing was very excellent.\nThe staff were all very friendly and helpful and no request for assistance was a problem for them. The hotel is well situated. We would definitely stay there again. Good value for the money"
+    ],
+    "negative_snippets": [
+      "No cleanliness. Old and damaged rooms. There wasn't even a fan in the room. Ac doesn't work. Just good as an hourly hotel. Not good for family."
+    ]
+  },
+  "review_summary": "Based on 5 reviews.",
+  "positive_themes": {
+    "good_location": 1,
+    "friendly_staff": 3,
+    "great_value": 1,
+    "clean_rooms": 1
+  },
+  "negative_themes": {}
+}

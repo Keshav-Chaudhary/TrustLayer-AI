@@ -1,0 +1,46 @@
+{
+  "hotel_id": "ChIJLXBHITYHDTkRXDo-83ErgJ0",
+  "hotel_name": "Townhouse Oak Pooth Haveli",
+  "area": "Kanjhawala",
+  "budget_category": "Mid-Range",
+  "rating": 3.0,
+  "trust_score": 0.38145322854256,
+  "travel_purpose_tags": [
+    "Budget"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "sparse",
+    "review_count": 4,
+    "positive_snippet_count": 1,
+    "negative_snippet_count": 3,
+    "positive_theme_count": 1,
+    "negative_theme_count": 0
+  },
+  "aspect_scores": {
+    "cleanliness": 0.5,
+    "service": 0.5,
+    "location": 0.5,
+    "value_for_money": 0.0014214841648936,
+    "staff_behavior": 0.5
+  },
+  "recommendation_features": {
+    "popularity_score": 0.2313194968117582,
+    "rating_score": 3.0,
+    "sentiment_score": 0.2514699912717333
+  },
+  "review_evidence": {
+    "positive_snippets": [
+      "Delicious food"
+    ],
+    "negative_snippets": [
+      "I Have Very Bad Experience in This Hotel They Are Totaly Liar pls I Suggest Everyone no Body Go and Stay In This Hotel I am Book AC Room But After I Reached They Give Me Comman Room Wo Bhi 5th Floor Totaly West My Money Don't Go",
+      "They are lier they i booked for ac room and when i reached there they rafuse to give me the ac room because i have some offer on oyo\u2026..\nI recommend you not to stay in this hotel at all worst hotel i have ever seen",
+      "Worstt experiece"
+    ]
+  },
+  "review_summary": "Based on 4 reviews.",
+  "positive_themes": {
+    "good_food": 1
+  },
+  "negative_themes": {}
+}

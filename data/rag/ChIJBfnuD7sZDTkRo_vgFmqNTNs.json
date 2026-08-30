@@ -1,0 +1,48 @@
+{
+  "hotel_id": "ChIJBfnuD7sZDTkRo_vgFmqNTNs",
+  "hotel_name": "Aadat Hotel",
+  "area": "Sector 52",
+  "budget_category": "Mid-Range",
+  "rating": 4.7,
+  "trust_score": 0.9029105943310244,
+  "travel_purpose_tags": [
+    "Business"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "moderate",
+    "review_count": 5,
+    "positive_snippet_count": 3,
+    "negative_snippet_count": 1,
+    "positive_theme_count": 3,
+    "negative_theme_count": 0
+  },
+  "aspect_scores": {
+    "cleanliness": 0.9998484998941422,
+    "service": 0.9956726829210916,
+    "location": 0.5,
+    "value_for_money": 0.5,
+    "staff_behavior": 0.996718779206276
+  },
+  "recommendation_features": {
+    "popularity_score": 0.5016676827397029,
+    "rating_score": 4.7,
+    "sentiment_score": 0.9973482251167296
+  },
+  "review_evidence": {
+    "positive_snippets": [
+      "Very nice staff and the hotel is very clean. Even the banquet is also very beautiful and elegant. The decoration services and vendors are also nice.\u2764\ufe0f i would recommend this venue to everyone",
+      "All staff are good and too much hygienic\nHotel rooms are well defined and neat and clean....Food is amazing and delicious and environment is friendly and it is like our home for 12 days.....\nThanks",
+      "Excellent service and staff behaviour, I stay here for 10 days there rooms are super clean just like 5 star hotel and food is also excellent."
+    ],
+    "negative_snippets": [
+      "I organised a party for 60 people here. Starters (paneer tikka, dahi k shole, spring roll and cocktail samosa) were really good. Service was also great. The staff was going above and beyond to help. But the main course was average. pineapple raita and moong dal halwa were really really terrible. Overall it was a good experience"
+    ]
+  },
+  "review_summary": "Based on 5 reviews.",
+  "positive_themes": {
+    "clean_rooms": 4,
+    "friendly_staff": 4,
+    "good_food": 2
+  },
+  "negative_themes": {}
+}

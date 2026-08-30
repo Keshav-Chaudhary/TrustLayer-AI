@@ -1,0 +1,50 @@
+{
+  "hotel_id": "ChIJy6Pl_f8fDTkR21i3BZN30L4",
+  "hotel_name": "Signature Luxeinn Hotel",
+  "area": "Chhatarpur",
+  "budget_category": "Budget",
+  "rating": 4.2,
+  "trust_score": 0.7250379233629236,
+  "travel_purpose_tags": [
+    "Leisure",
+    "Business"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "moderate",
+    "review_count": 5,
+    "positive_snippet_count": 3,
+    "negative_snippet_count": 1,
+    "positive_theme_count": 4,
+    "negative_theme_count": 0
+  },
+  "aspect_scores": {
+    "cleanliness": 0.9998397827148438,
+    "service": 0.7498786639480386,
+    "location": 0.9998332560062408,
+    "value_for_money": 0.5,
+    "staff_behavior": 0.999739021062851
+  },
+  "recommendation_features": {
+    "popularity_score": 0.2740972756911478,
+    "rating_score": 4.2,
+    "sentiment_score": 0.7998752507613972
+  },
+  "review_evidence": {
+    "positive_snippets": [
+      "Really enjoyed my stay here the room were near staff was friendly and the service was great would love to back again highly recommend",
+      "Very clean and comfortable room. Great service and convenient location. Would happily return!",
+      "Nice service food is delicious \ud83d\ude0b\ud83d\ude0b and staf is very friendly and available on time \u2764\ufe0f"
+    ],
+    "negative_snippets": [
+      "Worst stay ever. Unhygenic rooms. Worst service. No one to attend you.\nRats in kitchen. Sometimes no water in washrooms. No one pick call on intercom. Pls avoid this hotel for future stay"
+    ]
+  },
+  "review_summary": "Based on 5 reviews.",
+  "positive_themes": {
+    "friendly_staff": 2,
+    "good_location": 2,
+    "clean_rooms": 1,
+    "good_food": 1
+  },
+  "negative_themes": {}
+}

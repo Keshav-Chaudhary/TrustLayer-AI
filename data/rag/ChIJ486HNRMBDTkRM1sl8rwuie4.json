@@ -1,0 +1,51 @@
+{
+  "hotel_id": "ChIJ486HNRMBDTkRM1sl8rwuie4",
+  "hotel_name": "Ap Holidays",
+  "area": "Rohini",
+  "budget_category": "Mid-Range",
+  "rating": 4.5,
+  "trust_score": 0.7280164942492644,
+  "travel_purpose_tags": [
+    "Budget"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "moderate",
+    "review_count": 5,
+    "positive_snippet_count": 2,
+    "negative_snippet_count": 3,
+    "positive_theme_count": 2,
+    "negative_theme_count": 2
+  },
+  "aspect_scores": {
+    "cleanliness": 0.0010435979638713,
+    "service": 0.0006600639317184,
+    "location": 0.5,
+    "value_for_money": 0.0008273883140645,
+    "staff_behavior": 0.6667606241535395
+  },
+  "recommendation_features": {
+    "popularity_score": 0.6997033750132717,
+    "rating_score": 4.5,
+    "sentiment_score": 0.4004738136776723
+  },
+  "review_evidence": {
+    "positive_snippets": [
+      "Rooms  were excellent as shown in the photos and all the staff were very kind and was responsive I will surely come back here to stay again and will also recommended this hotel to everyone in my contacts",
+      "Very nice hotel. I have stayed multiple times and staff was very nice.."
+    ],
+    "negative_snippets": [
+      "AP Holidays \u2013 Extremely unprofessional and disappointing experience\nI am writing this review after waiting for 10 days since returning from Delhi. I checked out on 19th January 2026, and today is 30th January 2026. I waited intentionally, hoping I might feel differently with time, but the experience still feels equally disturbing\u2014hence this honest review.\nI stayed at this hotel from 15th to 19th January 2026.\nWe were a group of 8 people \u2014 4 college students participating in a DTU hackathon and 4 parents.\nInitially, we booked 3 rooms for 15th January:\n2 rooms with 3 persons each (\u20b93000 per room)\n1 room with 2 persons (\u20b92500)\nWe checked in around 9:00 PM. After staying the first night, we decided to continue our stay for 16th, 17th and 18th January.\n\ud83d\udc49 On the morning of 16th January, the reception was clearly informed that:\nOne room would be vacated\nThe remaining 2 rooms would have 2 persons each (\u20b92500 per room)\nThis was communicated clearly and well in advance.\nSerious issues with billing & staff behavior\nWhen we went to make payment on 17th January, the reception staff denied the above information, even though the details were available in their computer system.\nNo proper billing system\nBills were written manually\nStaff claimed that when rooms are reduced, their system cannot generate proper bills\nOn questioning, the behavior turned rude, arrogant, and dismissive\nTwo people were present at the reception.\nOne identified himself as Ashish Pratap Singh / Ashish Kumar Singh, while the other refused to disclose his name.\nFinal settlement & shocking response\nDuring the final payment:\nOne cup of tea was charged \u20b969\nA water bottle (MRP \u20b920) was charged \u20b949\nWhen we questioned these inflated charges and the lack of billing transparency, the reception staff openly told us to \u201cgo to the consumer forum and file a case.\u201d\nBeing asked to approach a consumer court instead of receiving a proper explanation or resolution reflects a complete lack of professionalism and accountability.\nOverall experience\nZero professionalism\nNo transparency in billing\nExtremely rude and irresponsible reception staff\nMental harassment, especially while staying with parents and students\n\u274c I would strongly NOT recommend this hotel to families, parents, or students who expect basic respect, honesty, and proper billing practices.",
+      "I had  great experience which i had booked room in this hotel, it is too worst, there is no clean at all, overnight i had struggle with cockroaches, imsects and  Cigarette smell.\nI never recommend this hotel.\n\nThis hotel is opened only for business purpose it seems.",
+      "What a waste of money it was\n\nI checked in late at 11PM left with no other option\nSee the original review below\n\nCheck the photos\nWater - no one knows how old it was and not a sealed bottle\nWashroom- all filled with hard water strains\nEntry - welcome with dirtiest dustbins\nRoom curtains- rod broken, can\u2019t cover the glass and left with zero privacy\nBedsheet - torn out\nLuckily carried my spare piece of cloth and I covered bed with that and had a toxic sleep at this site\n\nI wish next time i may not encounter these things in any other hotel and total no to this hotel in future"
+    ]
+  },
+  "review_summary": "Based on 5 reviews.",
+  "positive_themes": {
+    "friendly_staff": 3,
+    "clean_rooms": 1
+  },
+  "negative_themes": {
+    "rude_staff": 1,
+    "dirty_rooms": 1
+  }
+}

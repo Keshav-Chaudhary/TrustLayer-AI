@@ -1,0 +1,51 @@
+{
+  "hotel_id": "ChIJqx4kZTP5DDkR0tWpOf7Q3tM",
+  "hotel_name": "Hotel Red Flame Residency",
+  "area": "Loni",
+  "budget_category": "Mid-Range",
+  "rating": 4.9,
+  "trust_score": 0.8497400323956754,
+  "travel_purpose_tags": [
+    "Leisure",
+    "Family"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "moderate",
+    "review_count": 5,
+    "positive_snippet_count": 3,
+    "negative_snippet_count": 1,
+    "positive_theme_count": 5,
+    "negative_theme_count": 0
+  },
+  "aspect_scores": {
+    "cleanliness": 0.9997024834156036,
+    "service": 0.6666269245809721,
+    "location": 0.9997024834156036,
+    "value_for_money": 0.9997024834156036,
+    "staff_behavior": 0.9997285207112632
+  },
+  "recommendation_features": {
+    "popularity_score": 0.422934464355772,
+    "rating_score": 4.9,
+    "sentiment_score": 0.7998471464554313
+  },
+  "review_evidence": {
+    "positive_snippets": [
+      "I had a pleasant stay at Hotel Red Flame Residency. The rooms were clean, well-maintained, and comfortable. The staff was polite, helpful, and always ready to assist with any request. The hotel\u2019s location is convenient \u2014 close to major attractions and easy to reach by public transport.\n\nThe amenities were satisfactory, offering good value for money. Room service was prompt, and the food quality was quite good. The overall ambiance was peaceful and suitable for both business and leisure travelers.\n\nIf you\u2019re looking for an affordable yet comfortable place to stay with friendly service, Hotel Red Flame Residency is a great choice.",
+      "It's a buityfull place, you can find restaurant, banquet, hotel and rooftop at single place ,, food & quality is best ,, service is very good, peaceful place ,\nCouple can spend quility time",
+      "Hotel Red Flame is very good hotel \u2026 Near by North east area and very good property\u2026Very neet & clean \u2026luxury and deluxe rooms at very reasonable prices \u2026.staff is very good \u2026and owner/manager sandeep ji is very good person \u2026.Highly Recommend for all of us \u2026.\n( please aap ek baar zarur visit kare \u2026itne ache price mai itni achi or saaf jagha milna boht mushkil hai OYO boht gande ho chuke hai \u2026 isliye aap sab Hotel Red flame zarur jaye) \u2764\ufe0f\ud83d\ude4f\ud83c\udffb\ud83d\ude4f\ud83c\udffb"
+    ],
+    "negative_snippets": [
+      "Very poor service in this residency.\nRoad connecting to this place is very bad. Not recommended for stay."
+    ]
+  },
+  "review_summary": "Based on 5 reviews.",
+  "positive_themes": {
+    "clean_rooms": 2,
+    "friendly_staff": 3,
+    "good_location": 2,
+    "great_value": 1,
+    "good_food": 2
+  },
+  "negative_themes": {}
+}

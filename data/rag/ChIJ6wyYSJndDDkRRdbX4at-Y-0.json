@@ -1,0 +1,51 @@
+{
+  "hotel_id": "ChIJ6wyYSJndDDkRRdbX4at-Y-0",
+  "hotel_name": "Oyo Heritage Residency",
+  "area": "Sector 21D",
+  "budget_category": "Budget",
+  "rating": 3.7,
+  "trust_score": 0.565200017354453,
+  "travel_purpose_tags": [
+    "Budget"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "moderate",
+    "review_count": 5,
+    "positive_snippet_count": 2,
+    "negative_snippet_count": 3,
+    "positive_theme_count": 3,
+    "negative_theme_count": 1
+  },
+  "aspect_scores": {
+    "cleanliness": 0.2521764566045021,
+    "service": 0.9996939897537231,
+    "location": 0.5,
+    "value_for_money": 0.0003201892832294,
+    "staff_behavior": 0.5000070895184763
+  },
+  "recommendation_features": {
+    "popularity_score": 0.4323454830297744,
+    "rating_score": 3.7,
+    "sentiment_score": 0.4017176095279865
+  },
+  "review_evidence": {
+    "positive_snippets": [
+      "we had a wonderful stay. had gone for a wedding and had four rooms.we checkd in very late and came back almoat at 2 am. and needed extra beds. they quickly put the extra beds..provided water etc.took really good care even that late.breakfast was good. the place was clean and the service was very polite and efficient.very ideal for families.thanks",
+      "Awesome place.very superb owner. Here you feel like a family."
+    ],
+    "negative_snippets": [
+      "One of the most dirtiest and unhygienic rooms , they do accept online booking and charges twice or more than online showing charges, they have broken fan and ACs not working, bathroom are dirtiest and smelling, bedsheets and pillow is like they are not washing from years.\n\nIn my opinion don't go there.\nIf zero stars possible in ratings I will mark it.",
+      "They don't accept booking from oyo.\nReceptionist is some small child. They charge high price. Guys here are not friendly & mischief.\nPlace stinks. Pillow bed was very dirty. Don't go here with anyone. Washroom were not clean. Pic shown on google is false.",
+      "Doesn't deserve even one star rating. Worse I have ever experienced. Rooms are super dirty. Toilet super dirty"
+    ]
+  },
+  "review_summary": "Based on 5 reviews.",
+  "positive_themes": {
+    "clean_rooms": 2,
+    "friendly_staff": 2,
+    "good_food": 1
+  },
+  "negative_themes": {
+    "dirty_rooms": 3
+  }
+}

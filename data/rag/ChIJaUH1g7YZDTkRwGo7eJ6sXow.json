@@ -1,0 +1,51 @@
+{
+  "hotel_id": "ChIJaUH1g7YZDTkRwGo7eJ6sXow",
+  "hotel_name": "Hotel Mavens White - Near Artemis Hospital",
+  "area": "Gurugram",
+  "budget_category": "Mid-Range",
+  "rating": 4.6,
+  "trust_score": 0.869316994824574,
+  "travel_purpose_tags": [
+    "Business"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "moderate",
+    "review_count": 5,
+    "positive_snippet_count": 3,
+    "negative_snippet_count": 1,
+    "positive_theme_count": 4,
+    "negative_theme_count": 1
+  },
+  "aspect_scores": {
+    "cleanliness": 0.9998553991317748,
+    "service": 0.7999318858957849,
+    "location": 0.5,
+    "value_for_money": 0.5,
+    "staff_behavior": 0.7499663706839782
+  },
+  "recommendation_features": {
+    "popularity_score": 0.7023497104269879,
+    "rating_score": 4.6,
+    "sentiment_score": 0.7999318858957849
+  },
+  "review_evidence": {
+    "positive_snippets": [
+      "Wonderful Stay at Hotel Mavens\n\nMy wife and I had a truly memorable stay at Hotel Mavens. From the moment we arrived, we were impressed by the excellent cleanliness and the beautiful overall appearance of the hotel. Every area was well-maintained, neat, and very pleasant.\n\nThe service was outstanding\u2014staff members were polite, attentive, and always ready to help, which made our stay even more comfortable and relaxing. The hotel has a lovely atmosphere that makes you feel calm and welcomed.\n\nOne of the most special moments of our stay was in the garden area, where I proposed to my wife. The garden was beautifully maintained and created a perfect, romantic setting. It was a moment we will cherish forever, and Hotel Mavens made it truly magical.\n\nOverall, our experience was amazing. Great cleanliness, beautiful surroundings, excellent service, and unforgettable memories. We highly recommend Hotel Mavens to couples and families looking for a comfortable and memorable stay.\n\n\u2b50\ufe0f\u2b50\ufe0f\u2b50\ufe0f\u2b50\ufe0f\u2b50\ufe0f",
+      "\"Staying at Mavens White was a great experience, but what truly made it special was Inder at the Front Office. Being from Uttarakhand myself, I could see that genuine Pahadi honesty and warmth in his service. He handles everything so efficiently and with a very sincere heart. It\u2019s rare to find such a hardworking and trustworthy person.\"",
+      "I had a very pleasant stay at this hotel. The rooms were clean and well maintained. The staff was very polite and helpful.\nSpecial thanks to Mr. Shivam for his excellent service and kind behavior.\nHighly recommended hotel. I would love to stay here again."
+    ],
+    "negative_snippets": [
+      "This was one of the worst hotel experiences I have ever had. I booked a room through Booking.com and received a confirmed reservation well in advance.But when I arrived at the hotel with my friend, they simply informed us that no rooms were available. There was no prior notice, no phone call, and no explanation given at the reception.\nInstead of taking responsibility or trying to solve the issue, the staff told us to leave and search for another hotel. They even suggested that we check nearby hotels on our own, as if it was entirely our problem. We ended up roaming on the road for around 30 minutes, wasting our time and energy. It was stressful, embarrassing, and extremely frustrating.\nWhen we questioned them about our confirmed booking, the situation became heated because we were obviously frustrated. The manager was extremely rude and misbehaved badly. He clearly said, \u201cIf you are booking through Booking.com, it\u2019s not our responsibility. If we have a room, we will give it, otherwise you can go.\u201d He also said in a very rude tone, \u201cWe cannot help you in this.\u201d\nAnother staff member also misbehaved instead of calming the situation or offering assistance. There was no apology, no effort to resolve the problem, and absolutely no compensation offered for the inconvenience caused.\nThis kind of attitude is completely unacceptable. If a hotel is listed on Booking.com, they must honor confirmed bookings. The management was highly unprofessional and disrespectful. I strongly advise others to avoid this hotel unless you want your plans ruined and to be treated poorly."
+    ]
+  },
+  "review_summary": "Based on 5 reviews.",
+  "positive_themes": {
+    "clean_rooms": 3,
+    "friendly_staff": 4,
+    "great_value": 1,
+    "good_location": 2
+  },
+  "negative_themes": {
+    "rude_staff": 1
+  }
+}

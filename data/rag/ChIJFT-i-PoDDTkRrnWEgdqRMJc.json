@@ -1,0 +1,53 @@
+{
+  "hotel_id": "ChIJFT-i-PoDDTkRrnWEgdqRMJc",
+  "hotel_name": "Hotel Yellow Chilli Britannia Chowk- Couple Friendly Local Id Accepted",
+  "area": "Shakurpur",
+  "budget_category": "Mid-Range",
+  "rating": 4.3,
+  "trust_score": 0.7363461894053188,
+  "travel_purpose_tags": [
+    "Budget"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "moderate",
+    "review_count": 5,
+    "positive_snippet_count": 2,
+    "negative_snippet_count": 3,
+    "positive_theme_count": 4,
+    "negative_theme_count": 2
+  },
+  "aspect_scores": {
+    "cleanliness": 0.4997625382384285,
+    "service": 0.9994444251060486,
+    "location": 0.4994423030148028,
+    "value_for_money": 0.000280177919194,
+    "staff_behavior": 0.5000636162003502
+  },
+  "recommendation_features": {
+    "popularity_score": 0.5649086067808567,
+    "rating_score": 4.3,
+    "sentiment_score": 0.5997787262313068
+  },
+  "review_evidence": {
+    "positive_snippets": [
+      "Very good experience with hotel yellow chilli\nWe stay 2 days and such a great experience and good service all staff are very good and polite\n\nThanks team hotel yellow chilli\nSumit|Vinod",
+      "I had a great stay at this hotel, room service and staff were truly impressive, room was really clean and maintained,I recommend this hotel."
+    ],
+    "negative_snippets": [
+      "I booked this hotel through the OYO app. The price shown on the app was different, and I had already paid an extra amount as a pre-booking charge. But after reaching the location, I found out that the hotel shown on OYO was fake \u2014 there was no such hotel at that address.\nThere was another hotel nearby with a different name. I tried calling the owner many times after booking, but he did not receive any calls. I waited for almost 1 hour, still no response. There was absolutely no support.\nFinally, I had no option and decided to go to Hotel Yellow Chilli. The manager there clearly said that there is no OYO booking, and if I wanted a room, I had to pay \u20b91200 extra. In total, I spent around \u20b91500, which was completely unfair.\nEven after paying so much, the room experience was terrible. The room was smelly, towels were dirty, and overall cleanliness was very poor. Totally unhygienic.\nThis was the worst hotel experience of my life. They are scammers. I strongly recommend never booking this hotel or trusting this listing on OYO.\n\nNever never never go there such a horrible experience \ud83d\ude2d\ud83d\ude2d",
+      "I visited here in month Nov-25. According to the room charges room condition was not satisfactory. Bed, blanket and bedsheet was not cleaned after touching this we can feel dust on your hands. No slippers provide Even requested twise. Light was dim. Washroom-bathroom were in good condition and food was excellent. I ordered Matter allu sabji with chappatis, salad was complementary I was excellent \ud83d\udc4c and tea also ordered which was excellent. Then later on i ordered ver chowmin and tea these were also very tasty and late evening i ordered French fries and tea, again these were also Great.\nQuality of food with such minimum rates was amazing.\nOverall I will give 3 stars for room condition.\n5+ stars for food and service\n3.5 stars for location bcoz it's little far away from Both railway stations (Delhi and New Delhi).\nIf you visit kindly demand for clean bedsheet and blanket.",
+      "Avoid this hotel at all costs!\nRooms are dirty, smelly, and full of bed bugs and cockroaches.\nBathroom has no proper water flow, AC doesn\u2019t work, and locks are broken.\nStaff is rude, unhelpful, and won\u2019t support cancellation.\nEven breakfast was unhygienic with cockroaches around.\nWorst hotel experience of my life \u2013 don\u2019t waste your money here!"
+    ]
+  },
+  "review_summary": "Based on 5 reviews.",
+  "positive_themes": {
+    "friendly_staff": 3,
+    "clean_rooms": 3,
+    "good_location": 2,
+    "good_food": 2
+  },
+  "negative_themes": {
+    "dirty_rooms": 2,
+    "rude_staff": 1
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "hotel_id": "ChIJtSU-60fhDDkRIFpzjZOFQ-o",
+  "hotel_name": "Lemon Green Inn",
+  "area": "Malviya Nagar",
+  "budget_category": "Budget",
+  "rating": 4.2,
+  "trust_score": 0.7914511151230638,
+  "travel_purpose_tags": [
+    "Leisure",
+    "Business",
+    "Family"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "moderate",
+    "review_count": 5,
+    "positive_snippet_count": 3,
+    "negative_snippet_count": 0,
+    "positive_theme_count": 3,
+    "negative_theme_count": 0
+  },
+  "aspect_scores": {
+    "cleanliness": 0.9986481070518494,
+    "service": 0.9990973472595216,
+    "location": 0.9994466503461202,
+    "value_for_money": 0.9986481070518494,
+    "staff_behavior": 0.9992474615573884
+  },
+  "recommendation_features": {
+    "popularity_score": 0.5846408779061685,
+    "rating_score": 4.2,
+    "sentiment_score": 0.8010101273655892
+  },
+  "review_evidence": {
+    "positive_snippets": [
+      "The place is great for a 3k amount hotel. The service is good and quick, although I did experience delay in one order where they misplaced our order, but mistakes happen from everyone. All other food and services was very quick and good.\nI didn't have any trouble staying there. The only thing I might tell others is to take a lower floor room or something, because in the morning there is the declaration of Adhaan, me, I am a heavy sleeper so it doesn't bother me at all... But for light sleepers... The early morning chant might sound a little trouble.\nOtherwise the place is great, the staff is great, the food is great(Indian cuisine), there is a terrace, extra bathroom on the outside, the location is the best, since it's so close to the main road, metro gate, etc.\nLovely for someone on a budget.",
+      "Rooms are quite decent but a bit smaller compared to google images, but service really makes up for it, overall it was a great experience staying here and plus point is super close to malviya nagar metro",
+      "We had a very comfortable stay here. Very good & comfortable for family stay\nHotel staff is supportive and the food is really good & home like and fresh\nWalking distance to Max hospital Saket"
+    ],
+    "negative_snippets": []
+  },
+  "review_summary": "Based on 5 reviews.",
+  "positive_themes": {
+    "friendly_staff": 2,
+    "good_location": 3,
+    "good_food": 2
+  },
+  "negative_themes": {}
+}

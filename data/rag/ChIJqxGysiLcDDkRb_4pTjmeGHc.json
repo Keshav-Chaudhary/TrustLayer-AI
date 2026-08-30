@@ -1,0 +1,51 @@
+{
+  "hotel_id": "ChIJqxGysiLcDDkRb_4pTjmeGHc",
+  "hotel_name": "Hotel Diamond Inn,",
+  "area": "New Industrial Township",
+  "budget_category": "Budget",
+  "rating": 3.7,
+  "trust_score": 0.7110187535515764,
+  "travel_purpose_tags": [
+    "Leisure",
+    "Business"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "moderate",
+    "review_count": 5,
+    "positive_snippet_count": 3,
+    "negative_snippet_count": 1,
+    "positive_theme_count": 5,
+    "negative_theme_count": 0
+  },
+  "aspect_scores": {
+    "cleanliness": 0.5,
+    "service": 0.7016077921434771,
+    "location": 0.998934805393219,
+    "value_for_money": 0.998934805393219,
+    "staff_behavior": 0.7013880000158679
+  },
+  "recommendation_features": {
+    "popularity_score": 0.5788883259189451,
+    "rating_score": 3.7,
+    "sentiment_score": 0.7610731947934255
+  },
+  "review_evidence": {
+    "positive_snippets": [
+      "Hotel Diamond Inn near Hardware Chowk in NIT Faridabad is a good option for budget travelers and business visitors. The location is convenient and easy to find, especially if you\u2019re visiting the New Industrial Township area. Rooms were neat, well-maintained, and suitable for a comfortable stay.\nThe staff was polite and helpful, and the check-in process was smooth. The surroundings felt safe, and basic amenities were available as expected. Overall, it offers good value for money for short stays in Faridabad.\nAs a Google Local Guide and a Google-trusted 360\u00b0 Virtual Tour photographer, I closely observe cleanliness, layout, and ambience. A Google 360\u00b0 Virtual Tour here would be a great addition to showcase the rooms and facilities and improve visibility on Google Maps.",
+      "We organized a birthday party for my daughter. Everything was well organized and the management took care of all minute details. We found the arrangement exceeding our expectations. Highly recommend considering this place for your celebrations.",
+      "I had my daughter\u2019s birthday in Diamond Inn and it was amazing experience. Great food quality , amassing service and really good staff . My family loved the place food and amazing staff , cleanliness.\n\nRegards\nSonam"
+    ],
+    "negative_snippets": [
+      "The staff was pathetic,untrained.I asked them for hot water for bath they didn't turned on their geysers. Whatever you asked for service they always on denial mode, better not to vist."
+    ]
+  },
+  "review_summary": "Based on 5 reviews.",
+  "positive_themes": {
+    "clean_rooms": 2,
+    "friendly_staff": 4,
+    "good_location": 1,
+    "great_value": 1,
+    "good_food": 1
+  },
+  "negative_themes": {}
+}

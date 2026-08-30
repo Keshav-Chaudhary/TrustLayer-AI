@@ -1,0 +1,48 @@
+{
+  "hotel_id": "ChIJLQysRQDhDDkRwKEOpvjvpK8",
+  "hotel_name": "Urban Oasis",
+  "area": "Malviya Nagar",
+  "budget_category": "Mid-Range",
+  "rating": 4.8,
+  "trust_score": 0.9134959851415708,
+  "travel_purpose_tags": [
+    "Leisure",
+    "Business"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "moderate",
+    "review_count": 5,
+    "positive_snippet_count": 3,
+    "negative_snippet_count": 0,
+    "positive_theme_count": 4,
+    "negative_theme_count": 0
+  },
+  "aspect_scores": {
+    "cleanliness": 0.9987821877002716,
+    "service": 0.9988901615142822,
+    "location": 0.9998151361942292,
+    "value_for_money": 0.5,
+    "staff_behavior": 0.998996090888977
+  },
+  "recommendation_features": {
+    "popularity_score": 0.4864637837128357,
+    "rating_score": 4.8,
+    "sentiment_score": 0.998996090888977
+  },
+  "review_evidence": {
+    "positive_snippets": [
+      "My stay at Urban Oasis, New Delhi was excellent. The studio-style room was clean, comfortable, and thoughtfully designed, with a smart kitchen-living setup and a private bathroom, making it perfect for both short and longer stays. The daily housekeeping kept everything fresh, and the option to order food through room service was very convenient when I didn\u2019t feel like cooking.\n\nThe staff and management were truly outstanding, friendly, professional, and always helpful, which made the stay even better.\n\nThe location is also a real highlight\u2014close to major medical facilities and ideally placed to enjoy nearby attractions like Deer Park and Nexus Select CityWalk Mall.\n\nHighly recommended!",
+      "This accommodation offers a truly wonderful stay. The staff are warm, friendly, and ready to assist\u2014using Google Translate makes communication effortless. While the housekeeping team could benefit from additional training to enhance cleanliness, their efforts are appreciated.\n\nThe interiors are beautifully decorated with thoughtful, tasteful touches. Each apartment is equipped with independent Wi-Fi 5 routers, ensuring fast, reliable internet for guests. An elevator makes navigating between floors smooth and convenient.\n\nSpecial thanks to Santosh for his outstanding helpfulness\u2014your kindness made our visit even better!",
+      "We booked the hotel for a night, stayed for 5 night. Staff are excellent particularly Rahul at the reception. The rooms are clean and well kept, its a relatively new building. Good to have a kitchenette for short stays. It is located close by Max Hospital (Saket), very convinient. However, the road towards hotel could be cleaner and neater."
+    ],
+    "negative_snippets": []
+  },
+  "review_summary": "Based on 5 reviews.",
+  "positive_themes": {
+    "clean_rooms": 5,
+    "friendly_staff": 5,
+    "good_location": 3,
+    "good_food": 2
+  },
+  "negative_themes": {}
+}

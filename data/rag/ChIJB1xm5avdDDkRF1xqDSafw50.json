@@ -1,0 +1,53 @@
+{
+  "hotel_id": "ChIJB1xm5avdDDkRF1xqDSafw50",
+  "hotel_name": "Hotel O By Oyo Blackberry",
+  "area": "Sector 16A",
+  "budget_category": "Budget",
+  "rating": 3.6,
+  "trust_score": 0.5309487172181826,
+  "travel_purpose_tags": [
+    "Leisure"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "moderate",
+    "review_count": 5,
+    "positive_snippet_count": 2,
+    "negative_snippet_count": 3,
+    "positive_theme_count": 4,
+    "negative_theme_count": 2
+  },
+  "aspect_scores": {
+    "cleanliness": 0.5000976373848971,
+    "service": 0.9997687935829164,
+    "location": 0.9997256696224214,
+    "value_for_money": 0.0005472946213558,
+    "staff_behavior": 0.6667064824335588
+  },
+  "recommendation_features": {
+    "popularity_score": 0.336139675368766,
+    "rating_score": 3.6,
+    "sentiment_score": 0.4001650125021115
+  },
+  "review_evidence": {
+    "positive_snippets": [
+      "Had an excellent stay at Hotel Blackberry. One of the best hotels in Faridabad with a perfect location in the heart of the city. It is just about 100 meters from Old Faridabad Metro Station, making travel very convenient.\n\nThe rooms are very clean, comfortable, and well maintained. Room service is quick and professional. Another big advantage is the huge parking space, which is very helpful for guests traveling by car.",
+      "Hotel blackberry is nice and staff very polite\nLocation is easily u can reach from metro station rooms are so nice go and enjoy the moment"
+    ],
+    "negative_snippets": [
+      "Never never book with oyo. They denied giving room , booked from oyo ( oyo claimed, it is oyo maintained property) they told whatever I paid to oyo is gone waste, they are fraud  and asking full payment in cash if want room. They wasted one hour , i called oyo and took refund of money. Their room and staff is very cheap.",
+      "Worst.\nI had confirmed booking, still they denied room. I travelled to reach the hotel, reached at 9pm and they said no room available. Then they offered me same room that was booked online at 3 times the price to be paid in cash. Very pathetic. Oyo customer care could not help, they just wasted 1 hour. So had no option  but to pay at 10pm. And then the rooms were really pathetic. Smelling. full of Dirt and smell. There were also small insects around in the room. Also there was gap in the door, so as someone can see from outside at night. Bathroom was so dirty and smelling that I did not use the bathroom full night. There were spiders in bathroom. Lizards in the stairs. All rooms were almost similar. Even a motel would be better.\nI saw others also complaining. Rooms were smelling and bedsheets were burnt and dirty. Long hairs were also lying around the room. This so called hotel should be banned.\nAll 5 star reviews seems fake and done by the person running the hotel. Kindly like the review so that this goes on top and people are saved from this hotel",
+      "Worst rooms, they give us used rooms with out cleaning."
+    ]
+  },
+  "review_summary": "Based on 5 reviews.",
+  "positive_themes": {
+    "clean_rooms": 2,
+    "friendly_staff": 3,
+    "good_location": 2,
+    "great_value": 1
+  },
+  "negative_themes": {
+    "parking_issues": 1,
+    "dirty_rooms": 1
+  }
+}

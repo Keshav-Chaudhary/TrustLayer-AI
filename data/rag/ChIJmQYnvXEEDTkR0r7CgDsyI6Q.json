@@ -1,0 +1,49 @@
+{
+  "hotel_id": "ChIJmQYnvXEEDTkR0r7CgDsyI6Q",
+  "hotel_name": "Satyam Banquet & Hotel",
+  "area": "New Delhi",
+  "budget_category": "Mid-Range",
+  "rating": 4.0,
+  "trust_score": 0.6990524352743018,
+  "travel_purpose_tags": [
+    "Family"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "rich",
+    "review_count": 5,
+    "positive_snippet_count": 3,
+    "negative_snippet_count": 2,
+    "positive_theme_count": 3,
+    "negative_theme_count": 0
+  },
+  "aspect_scores": {
+    "cleanliness": 0.9997825026512146,
+    "service": 0.0002023417182499,
+    "location": 0.5,
+    "value_for_money": 0.9997825026512146,
+    "staff_behavior": 0.5025640262756497
+  },
+  "recommendation_features": {
+    "popularity_score": 0.5752965982577903,
+    "rating_score": 4.0,
+    "sentiment_score": 0.6009607336047338
+  },
+  "review_evidence": {
+    "positive_snippets": [
+      "I stayed there for 5 days and that was very comfortable and all the staff were very much coperative and looking after visiters very politely.Thanks to everyone.",
+      "Really had a great experience for my family function recently, also the rooms are very comfortable for stay here.\nI would recommend all to book this place!",
+      "It's best hotel at affordable price and best services provide and food also good and maintain hygiene"
+    ],
+    "negative_snippets": [
+      "Do not give water even  and employes behavior is very bad don,t visit for marriges and party,s",
+      "The service was extremely slow and disappointing, and the food lacked good taste and quality."
+    ]
+  },
+  "review_summary": "Based on 5 reviews.",
+  "positive_themes": {
+    "friendly_staff": 1,
+    "great_value": 1,
+    "good_food": 2
+  },
+  "negative_themes": {}
+}

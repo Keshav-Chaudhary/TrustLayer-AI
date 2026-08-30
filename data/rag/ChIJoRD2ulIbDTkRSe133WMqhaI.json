@@ -1,0 +1,54 @@
+{
+  "hotel_id": "ChIJoRD2ulIbDTkRSe133WMqhaI",
+  "hotel_name": "Rr Residency",
+  "area": "New Delhi",
+  "budget_category": "Mid-Range",
+  "rating": 4.1,
+  "trust_score": 0.7701350807080677,
+  "travel_purpose_tags": [
+    "Budget"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "rich",
+    "review_count": 5,
+    "positive_snippet_count": 3,
+    "negative_snippet_count": 2,
+    "positive_theme_count": 5,
+    "negative_theme_count": 2
+  },
+  "aspect_scores": {
+    "cleanliness": 0.9997254014015198,
+    "service": 0.4997377834370126,
+    "location": 0.0002956671814899,
+    "value_for_money": 0.4997377834370126,
+    "staff_behavior": 0.9994864165782928
+  },
+  "recommendation_features": {
+    "popularity_score": 0.5489649542366611,
+    "rating_score": 4.1,
+    "sentiment_score": 0.7996482666989323
+  },
+  "review_evidence": {
+    "positive_snippets": [
+      "5 start rating toh banti hai  \ud83c\udf3a\nAmazing room facilities nd food  very delicious\n\nVery helpful staff\namazing experience",
+      "We were on business trip in Delhi and we came across this Hotel.\n\nUsually I do not write review as we all do our duty for which we get salary.\n\nR R Residancy is a way  above other hotels which charge more for less services. This hotel has a team of \"dedicated persons\" who do their duty honestly and with responsibility and smile.\n\nThe owner must have been kind and rewarding to his staff.\nI only write review when I note  someone is going \"beyond a line \" and perform duty.\nMy concious compelled me to write so that the \"Staff\" gets motivation.\n\nQuality is way above the \"charges\" they take. Do not miss the complimantory breakfast.\nIf you dont wish to miss home, stay there and plesse give them a chance to serve you.\nMany thanks to Staff members.",
+      "I had stayed here for almost a week and was extremely satisfied with the room , service and hospitality by the staff , they were extremely cordial whenever we needed something.I would definitely recommend this place to anyone who wishes to afford rhe best service in a reasonable budget."
+    ],
+    "negative_snippets": [
+      "Clean hotel, helpful staff, central spot. Wi-Fi works well, breakfast decent. Some street noise, but solid four-star vibe. Happy to stay again!",
+      "Remote location. Smelly rooms.. not worth of paying even Rs1000... Better to book through online app (MMT shows Rs 1600). Otherwise they'll charge more... Room service is poor. Not even mineral water was provided. Only tap water was provided. Cleanliness is below average.  Stained bedsheets.. not good for families.... poor connectivity.  Road too narrow.. don't get cheated by the photographs posted on websites/booking apps.... Hotel management not   ready to accept these facts..."
+    ]
+  },
+  "review_summary": "Based on 5 reviews.",
+  "positive_themes": {
+    "friendly_staff": 4,
+    "good_food": 3,
+    "clean_rooms": 2,
+    "good_location": 1,
+    "great_value": 1
+  },
+  "negative_themes": {
+    "noise": 1,
+    "dirty_rooms": 1
+  }
+}

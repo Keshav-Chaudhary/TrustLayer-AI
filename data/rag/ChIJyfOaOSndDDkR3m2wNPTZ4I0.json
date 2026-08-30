@@ -1,0 +1,48 @@
+{
+  "hotel_id": "ChIJyfOaOSndDDkR3m2wNPTZ4I0",
+  "hotel_name": "Oyo Siya Residency",
+  "area": "121001",
+  "budget_category": "Budget",
+  "rating": 2.7,
+  "trust_score": 0.3039133194419314,
+  "travel_purpose_tags": [
+    "Budget"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "moderate",
+    "review_count": 5,
+    "positive_snippet_count": 0,
+    "negative_snippet_count": 3,
+    "positive_theme_count": 3,
+    "negative_theme_count": 1
+  },
+  "aspect_scores": {
+    "cleanliness": 0.0052791083144256,
+    "service": 0.0096101511735468,
+    "location": 0.0013795103877782,
+    "value_for_money": 0.5,
+    "staff_behavior": 0.0006521985924336
+  },
+  "recommendation_features": {
+    "popularity_score": 0.4248943222933851,
+    "rating_score": 2.7,
+    "sentiment_score": 0.0043808419839478
+  },
+  "review_evidence": {
+    "positive_snippets": [],
+    "negative_snippets": [
+      "Not recommended at all.\nRooms look like as of slum .\nVery smelly corridos, dirty smelly bathroom toilets, rooms not mobbed properly , small room, tv just to show that they have . They don't even allow provide pre-book service like u can't look the rooms before booking.",
+      "very bad experience i had. No cleanliness, bad smell, dustbin were full of garbage. It is not more than Randi khana. Staff also behave like Randi Khana.",
+      "Excellent service by the host,\nOut of my 10 bookings via online platform,  in past 6 months, this was the first time My confirmed booking was accepted,  and at the exact amount that was asked online,  my room was good , mosquito \ud83e\udd9f  free, but the washroom was very very narrow, hope they will pay attention to this particular area"
+    ]
+  },
+  "review_summary": "Based on 5 reviews.",
+  "positive_themes": {
+    "clean_rooms": 2,
+    "friendly_staff": 2,
+    "good_location": 1
+  },
+  "negative_themes": {
+    "dirty_rooms": 3
+  }
+}

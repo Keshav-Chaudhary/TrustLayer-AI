@@ -1,0 +1,52 @@
+{
+  "hotel_id": "ChIJWxJ1vDscDTkRtxnxwLjdnK4",
+  "hotel_name": "Oyo Hotel Metro Tower Near Ambience Mall",
+  "area": "Mahipalpur",
+  "budget_category": "Budget",
+  "rating": 3.5,
+  "trust_score": 0.446536675907568,
+  "travel_purpose_tags": [
+    "Budget"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "moderate",
+    "review_count": 5,
+    "positive_snippet_count": 1,
+    "negative_snippet_count": 3,
+    "positive_theme_count": 4,
+    "negative_theme_count": 2
+  },
+  "aspect_scores": {
+    "cleanliness": 0.0026191078592091,
+    "service": 0.0056024324148892,
+    "location": 0.0056024324148892,
+    "value_for_money": 0.0056024324148892,
+    "staff_behavior": 0.000840041815536
+  },
+  "recommendation_features": {
+    "popularity_score": 0.5980898597611469,
+    "rating_score": 3.5,
+    "sentiment_score": 0.0026191078592091
+  },
+  "review_evidence": {
+    "positive_snippets": [
+      "Good, only if you knew which rooms to ask for (room numbers below) This is a review for the OYO 24947 Hotel Metro Tower. If this isn't the place, please get back and I will remove this review. But if this is the place, here goes.\n\nStayed here in October, 2015 on two occassions. The only reason I give a 4 star review is because of the hospitality, particularly of Sumit at the front desk and the boys of the hotel. As mentioned in the title if you knew which rooms to ask for, staying here is bang for the buck. We checked 4 rooms, one on the first floor (that had a dirty toilet), a cigarette-smelly room on the second floor but finally took one on the third floor, room No.304. This one was clean and neat. We were happy we were allowed to choose in this fashion. Room No. 302, also on the third floor is even superior and it is ideal for three people as it is larger and comes with a study area too. The other plus is the close proximity to the Domestic Airport, just a 15 to 20 minutes drive. Also, you can order food to your room and the quality is pretty decent though the price was a bit on the higher side. Breakfast is included in the day's fare but we didn't have time to sample it. The gripes are the traffic noise outside from the roads, the pollution (so make sure you keep your windows closed) and the exorbitant taxi fare to the airport. Using OLA cab cost us half of what the hotel was charging us. Wifi is slow too. There are no elevators (lifts) to the floors, and so if you are carrying a lot of luggage, make sure you get help. Hot water is supplied only on request. For the third floor room it was easy as turning a tap on but for the lower floors we were told that hot water had to be delivered. We opted for this hotel because we were staying for just a little over half a day. If your stay is longer I would recommend considering other hotels."
+    ],
+    "negative_snippets": [
+      "The utmost worst hotel ever I have seen. We stayed there on 12th October 2024. Rooms are very dirty and unhygienic. Bathroom roofs and rooms walls are full of mold. Bed sheets and pillow covers are filthily stained. Beds are the home of bugs. My daughter became sick staying there. I repent horribly for choosing that nasty hotel.",
+      "Nastiest hotel I have ever seen in my life.\nDamp walls, damp bed, ants on the bed. The floor was dirtier than the bottom of our shoes. I had booked with brevistay for 3 hours so just wanted a place to sit so decided to adjust and requested to clean the room. The staff came to clean the room and he removed the pillow cover and I saw the dirtiest moldy pillow of my life. And I left immediately...",
+      "Whilst writing a review I can still recall the torturous stay experienced at this horrible hotel. Why is it even called a hotel? can be called poop. Booked this hotel via Agoda for a night, although our stay was for a few hours since we had a flight from Delhi Airport.\nFirst of all difficult, difficult hotel to locate, even google maps will not want you to reach there. finally somehow reached around 7 am , and requested for an early checkin which was confirmed by the hotel a day before. however upon checkin these 2 funny men acted stupid and declined an early checkin saying no rooms available and we'll have tow wait until 12 noon. tried explaining that we any way will be checking out same day and to help us , they refused. After 15 minutes, they agree to give a room by an extra amount of 600 and that too in cash. Gave us a room on the third floor , has no elevator and did not help in carrying the luggage.\nEntered the room only to find a yellow , stinkiest toilet which was't washed in years.\nAsked them to clean it upon which they have the audacity to say its clean enough. finally being a little stern , they half clean it. we were convinced that the room is only for a few hours and shall be given a decent room at noon time. Somehow managed and waited, but all we were told is there are no rooms available.\nBed bugs, leaking walls, stinky toilets were our room mates. Finally we had to leave in a while and upon leaving we seen maximum of the rooms empty.\nTravellers if you want to have headache, and spoil your entire trip, please stay here.\nAll those giving good/average reviews are either the hotel's staff or feel such living is worth.Show less"
+    ]
+  },
+  "review_summary": "Based on 5 reviews.",
+  "positive_themes": {
+    "clean_rooms": 4,
+    "good_food": 1,
+    "friendly_staff": 2,
+    "great_value": 1
+  },
+  "negative_themes": {
+    "dirty_rooms": 3,
+    "noise": 1
+  }
+}

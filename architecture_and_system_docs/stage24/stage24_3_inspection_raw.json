@@ -1,0 +1,820 @@
+{
+  "part1_env": {
+    "database_url_masked": "sqlite:///data/bootstrap_test_idempotency.db",
+    "database_type": "sqlite",
+    "active_data_backend": "csv",
+    "active_vector_backend": "chroma",
+    "csv_path": "data/exports/final_hotel_dataset.csv",
+    "chroma_path": "data/vector_store"
+  },
+  "part2_schema": {
+    "domain_events": {
+      "row_count": 1661,
+      "primary_keys": [
+        "event_id"
+      ],
+      "foreign_keys": [],
+      "index_names": [
+        "ix_domain_events_aggregate_id",
+        "ix_domain_events_event_type"
+      ],
+      "columns": [
+        {
+          "name": "event_id",
+          "type": "VARCHAR(100)",
+          "nullable": false
+        },
+        {
+          "name": "event_type",
+          "type": "VARCHAR(100)",
+          "nullable": false
+        },
+        {
+          "name": "aggregate_type",
+          "type": "VARCHAR(100)",
+          "nullable": true
+        },
+        {
+          "name": "aggregate_id",
+          "type": "VARCHAR(255)",
+          "nullable": false
+        },
+        {
+          "name": "version",
+          "type": "INTEGER",
+          "nullable": true
+        },
+        {
+          "name": "payload",
+          "type": "TEXT",
+          "nullable": false
+        },
+        {
+          "name": "created_at",
+          "type": "DATETIME",
+          "nullable": true
+        },
+        {
+          "name": "processed_at",
+          "type": "DATETIME",
+          "nullable": true
+        },
+        {
+          "name": "attempt_count",
+          "type": "INTEGER",
+          "nullable": true
+        },
+        {
+          "name": "last_error",
+          "type": "TEXT",
+          "nullable": true
+        }
+      ]
+    },
+    "embedding_documents": {
+      "row_count": 7910,
+      "primary_keys": [
+        "id"
+      ],
+      "foreign_keys": [],
+      "index_names": [
+        "ix_embedding_documents_chunk_id",
+        "ix_embedding_documents_content_hash",
+        "ix_embedding_documents_hotel_id"
+      ],
+      "columns": [
+        {
+          "name": "id",
+          "type": "INTEGER",
+          "nullable": false
+        },
+        {
+          "name": "hotel_id",
+          "type": "VARCHAR(255)",
+          "nullable": false
+        },
+        {
+          "name": "chunk_id",
+          "type": "VARCHAR(255)",
+          "nullable": false
+        },
+        {
+          "name": "chunk_type",
+          "type": "VARCHAR(100)",
+          "nullable": true
+        },
+        {
+          "name": "snippet",
+          "type": "TEXT",
+          "nullable": true
+        },
+        {
+          "name": "content_hash",
+          "type": "VARCHAR(64)",
+          "nullable": false
+        },
+        {
+          "name": "embedding_model",
+          "type": "VARCHAR(100)",
+          "nullable": true
+        },
+        {
+          "name": "embedding_version",
+          "type": "INTEGER",
+          "nullable": true
+        },
+        {
+          "name": "embedding_dimension",
+          "type": "INTEGER",
+          "nullable": true
+        },
+        {
+          "name": "embedding_vector",
+          "type": "TEXT",
+          "nullable": false
+        },
+        {
+          "name": "created_at",
+          "type": "DATETIME",
+          "nullable": true
+        }
+      ]
+    },
+    "hotel_amenities": {
+      "row_count": 1661,
+      "primary_keys": [
+        "id"
+      ],
+      "foreign_keys": [
+        "['hotel_id'] -> hotels.['hotel_id']"
+      ],
+      "index_names": [
+        "ix_hotel_amenities_hotel_id"
+      ],
+      "columns": [
+        {
+          "name": "id",
+          "type": "INTEGER",
+          "nullable": false
+        },
+        {
+          "name": "hotel_id",
+          "type": "VARCHAR(255)",
+          "nullable": false
+        },
+        {
+          "name": "amenities_json",
+          "type": "TEXT",
+          "nullable": true
+        }
+      ]
+    },
+    "hotel_locations": {
+      "row_count": 1661,
+      "primary_keys": [
+        "id"
+      ],
+      "foreign_keys": [
+        "['hotel_id'] -> hotels.['hotel_id']"
+      ],
+      "index_names": [
+        "ix_hotel_locations_hotel_id"
+      ],
+      "columns": [
+        {
+          "name": "id",
+          "type": "INTEGER",
+          "nullable": false
+        },
+        {
+          "name": "hotel_id",
+          "type": "VARCHAR(255)",
+          "nullable": false
+        },
+        {
+          "name": "area",
+          "type": "VARCHAR(255)",
+          "nullable": true
+        },
+        {
+          "name": "city",
+          "type": "VARCHAR(255)",
+          "nullable": true
+        },
+        {
+          "name": "destination",
+          "type": "VARCHAR(255)",
+          "nullable": true
+        },
+        {
+          "name": "latitude",
+          "type": "FLOAT",
+          "nullable": true
+        },
+        {
+          "name": "longitude",
+          "type": "FLOAT",
+          "nullable": true
+        }
+      ]
+    },
+    "hotel_provenance": {
+      "row_count": 0,
+      "primary_keys": [
+        "id"
+      ],
+      "foreign_keys": [
+        "['hotel_id'] -> hotels.['hotel_id']"
+      ],
+      "index_names": [
+        "ix_hotel_provenance_hotel_id"
+      ],
+      "columns": [
+        {
+          "name": "id",
+          "type": "INTEGER",
+          "nullable": false
+        },
+        {
+          "name": "hotel_id",
+          "type": "VARCHAR(255)",
+          "nullable": false
+        },
+        {
+          "name": "field_name",
+          "type": "VARCHAR(100)",
+          "nullable": false
+        },
+        {
+          "name": "source",
+          "type": "VARCHAR(255)",
+          "nullable": true
+        },
+        {
+          "name": "source_id",
+          "type": "VARCHAR(255)",
+          "nullable": true
+        },
+        {
+          "name": "content_hash",
+          "type": "VARCHAR(64)",
+          "nullable": false
+        },
+        {
+          "name": "created_at",
+          "type": "DATETIME",
+          "nullable": true
+        }
+      ]
+    },
+    "hotel_scores": {
+      "row_count": 1661,
+      "primary_keys": [
+        "id"
+      ],
+      "foreign_keys": [
+        "['hotel_id'] -> hotels.['hotel_id']"
+      ],
+      "index_names": [
+        "ix_hotel_scores_hotel_id"
+      ],
+      "columns": [
+        {
+          "name": "id",
+          "type": "INTEGER",
+          "nullable": false
+        },
+        {
+          "name": "hotel_id",
+          "type": "VARCHAR(255)",
+          "nullable": false
+        },
+        {
+          "name": "trust_score",
+          "type": "FLOAT",
+          "nullable": true
+        },
+        {
+          "name": "cleanliness_score",
+          "type": "FLOAT",
+          "nullable": true
+        },
+        {
+          "name": "service_score",
+          "type": "FLOAT",
+          "nullable": true
+        },
+        {
+          "name": "location_score",
+          "type": "FLOAT",
+          "nullable": true
+        },
+        {
+          "name": "value_score",
+          "type": "FLOAT",
+          "nullable": true
+        },
+        {
+          "name": "staff_behavior_score",
+          "type": "FLOAT",
+          "nullable": true
+        },
+        {
+          "name": "updated_at",
+          "type": "DATETIME",
+          "nullable": true
+        }
+      ]
+    },
+    "hotel_sources": {
+      "row_count": 1661,
+      "primary_keys": [
+        "id"
+      ],
+      "foreign_keys": [
+        "['hotel_id'] -> hotels.['hotel_id']"
+      ],
+      "index_names": [
+        "ix_hotel_sources_content_hash",
+        "ix_hotel_sources_hotel_id"
+      ],
+      "columns": [
+        {
+          "name": "id",
+          "type": "INTEGER",
+          "nullable": false
+        },
+        {
+          "name": "hotel_id",
+          "type": "VARCHAR(255)",
+          "nullable": false
+        },
+        {
+          "name": "source",
+          "type": "VARCHAR(255)",
+          "nullable": true
+        },
+        {
+          "name": "source_id",
+          "type": "VARCHAR(255)",
+          "nullable": true
+        },
+        {
+          "name": "source_url",
+          "type": "TEXT",
+          "nullable": true
+        },
+        {
+          "name": "content_hash",
+          "type": "VARCHAR(64)",
+          "nullable": false
+        },
+        {
+          "name": "ingested_at",
+          "type": "DATETIME",
+          "nullable": true
+        },
+        {
+          "name": "last_seen_at",
+          "type": "DATETIME",
+          "nullable": true
+        }
+      ]
+    },
+    "hotels": {
+      "row_count": 1661,
+      "primary_keys": [
+        "id"
+      ],
+      "foreign_keys": [],
+      "index_names": [
+        "ix_hotels_hotel_id"
+      ],
+      "columns": [
+        {
+          "name": "id",
+          "type": "INTEGER",
+          "nullable": false
+        },
+        {
+          "name": "hotel_id",
+          "type": "VARCHAR(255)",
+          "nullable": false
+        },
+        {
+          "name": "name",
+          "type": "VARCHAR(255)",
+          "nullable": false
+        },
+        {
+          "name": "address",
+          "type": "TEXT",
+          "nullable": true
+        },
+        {
+          "name": "rating",
+          "type": "FLOAT",
+          "nullable": true
+        },
+        {
+          "name": "review_count",
+          "type": "INTEGER",
+          "nullable": true
+        },
+        {
+          "name": "price",
+          "type": "VARCHAR(100)",
+          "nullable": true
+        },
+        {
+          "name": "budget_category",
+          "type": "VARCHAR(50)",
+          "nullable": true
+        },
+        {
+          "name": "hero_image",
+          "type": "TEXT",
+          "nullable": true
+        },
+        {
+          "name": "created_at",
+          "type": "DATETIME",
+          "nullable": true
+        },
+        {
+          "name": "updated_at",
+          "type": "DATETIME",
+          "nullable": true
+        },
+        {
+          "name": "version",
+          "type": "INTEGER",
+          "nullable": true
+        },
+        {
+          "name": "is_active",
+          "type": "BOOLEAN",
+          "nullable": true
+        }
+      ]
+    },
+    "ingestion_records": {
+      "row_count": 3322,
+      "primary_keys": [
+        "id"
+      ],
+      "foreign_keys": [
+        "['ingestion_run_id'] -> ingestion_runs.['run_id']"
+      ],
+      "index_names": [
+        "ix_ingestion_records_hotel_id",
+        "ix_ingestion_records_ingestion_run_id"
+      ],
+      "columns": [
+        {
+          "name": "id",
+          "type": "INTEGER",
+          "nullable": false
+        },
+        {
+          "name": "ingestion_run_id",
+          "type": "VARCHAR(100)",
+          "nullable": false
+        },
+        {
+          "name": "hotel_id",
+          "type": "VARCHAR(255)",
+          "nullable": false
+        },
+        {
+          "name": "operation",
+          "type": "VARCHAR(50)",
+          "nullable": false
+        },
+        {
+          "name": "previous_hash",
+          "type": "VARCHAR(64)",
+          "nullable": true
+        },
+        {
+          "name": "new_hash",
+          "type": "VARCHAR(64)",
+          "nullable": false
+        },
+        {
+          "name": "changed_fields",
+          "type": "TEXT",
+          "nullable": true
+        },
+        {
+          "name": "error",
+          "type": "TEXT",
+          "nullable": true
+        },
+        {
+          "name": "timestamp",
+          "type": "DATETIME",
+          "nullable": true
+        }
+      ]
+    },
+    "ingestion_runs": {
+      "row_count": 2,
+      "primary_keys": [
+        "run_id"
+      ],
+      "foreign_keys": [],
+      "index_names": [],
+      "columns": [
+        {
+          "name": "run_id",
+          "type": "VARCHAR(100)",
+          "nullable": false
+        },
+        {
+          "name": "source",
+          "type": "VARCHAR(255)",
+          "nullable": true
+        },
+        {
+          "name": "source_checksum",
+          "type": "VARCHAR(64)",
+          "nullable": false
+        },
+        {
+          "name": "started_at",
+          "type": "DATETIME",
+          "nullable": true
+        },
+        {
+          "name": "completed_at",
+          "type": "DATETIME",
+          "nullable": true
+        },
+        {
+          "name": "records_seen",
+          "type": "INTEGER",
+          "nullable": true
+        },
+        {
+          "name": "records_inserted",
+          "type": "INTEGER",
+          "nullable": true
+        },
+        {
+          "name": "records_updated",
+          "type": "INTEGER",
+          "nullable": true
+        },
+        {
+          "name": "records_unchanged",
+          "type": "INTEGER",
+          "nullable": true
+        },
+        {
+          "name": "records_rejected",
+          "type": "INTEGER",
+          "nullable": true
+        },
+        {
+          "name": "validation_errors",
+          "type": "TEXT",
+          "nullable": true
+        },
+        {
+          "name": "status",
+          "type": "VARCHAR(50)",
+          "nullable": true
+        }
+      ]
+    },
+    "trace_runs": {
+      "row_count": 0,
+      "primary_keys": [
+        "id"
+      ],
+      "foreign_keys": [],
+      "index_names": [
+        "ix_trace_runs_run_id"
+      ],
+      "columns": [
+        {
+          "name": "id",
+          "type": "INTEGER",
+          "nullable": false
+        },
+        {
+          "name": "run_id",
+          "type": "VARCHAR(100)",
+          "nullable": false
+        },
+        {
+          "name": "timestamp",
+          "type": "DATETIME",
+          "nullable": true
+        },
+        {
+          "name": "payload_json",
+          "type": "TEXT",
+          "nullable": false
+        }
+      ]
+    }
+  },
+  "part3_samples": {
+    "hotels": [
+      {
+        "hotel_id": "ChIJpV-ywbQVDTkRqWm6FgM6WCM",
+        "name": "Haveli Hotel & Family Restaurant",
+        "rating": 4.6,
+        "reviews": 102,
+        "active": true
+      },
+      {
+        "hotel_id": "ChIJm053GEI-DTkRwKJuNdfAyLw",
+        "name": "Jps Residency & Hospitality Services",
+        "rating": 3.9,
+        "reviews": 1714,
+        "active": true
+      },
+      {
+        "hotel_id": "ChIJkTyoKUkVDTkR8L5-ZWny4t8",
+        "name": "Hotel O Royal Guest House",
+        "rating": 4.0,
+        "reviews": 162,
+        "active": true
+      }
+    ],
+    "locations": [
+      {
+        "hotel_id": "ChIJpV-ywbQVDTkRqWm6FgM6WCM",
+        "area": "near CNG Pump",
+        "city": "Delhi",
+        "lat": 28.4106689,
+        "lon": 76.8929141
+      },
+      {
+        "hotel_id": "ChIJm053GEI-DTkRwKJuNdfAyLw",
+        "area": "Imt Manesar",
+        "city": "Delhi",
+        "lat": 28.3810035,
+        "lon": 76.8864609
+      },
+      {
+        "hotel_id": "ChIJkTyoKUkVDTkR8L5-ZWny4t8",
+        "area": "Sector 11",
+        "city": "Delhi",
+        "lat": 28.4466,
+        "lon": 76.831032
+      }
+    ],
+    "scores": [
+      {
+        "hotel_id": "ChIJpV-ywbQVDTkRqWm6FgM6WCM",
+        "trust": 75.0,
+        "cleanliness": 2.5,
+        "service": 2.5
+      },
+      {
+        "hotel_id": "ChIJm053GEI-DTkRwKJuNdfAyLw",
+        "trust": 71.1,
+        "cleanliness": 0.0,
+        "service": 5.0
+      },
+      {
+        "hotel_id": "ChIJkTyoKUkVDTkR8L5-ZWny4t8",
+        "trust": 75.0,
+        "cleanliness": 5.0,
+        "service": 4.8
+      }
+    ],
+    "sources": [
+      {
+        "hotel_id": "ChIJpV-ywbQVDTkRqWm6FgM6WCM",
+        "source": "final_hotel_dataset.csv",
+        "hash": "9d791aa84130"
+      },
+      {
+        "hotel_id": "ChIJm053GEI-DTkRwKJuNdfAyLw",
+        "source": "final_hotel_dataset.csv",
+        "hash": "2de0f5746424"
+      },
+      {
+        "hotel_id": "ChIJkTyoKUkVDTkR8L5-ZWny4t8",
+        "source": "final_hotel_dataset.csv",
+        "hash": "ac6bda06db93"
+      }
+    ],
+    "amenities": [
+      {
+        "hotel_id": "ChIJpV-ywbQVDTkRqWm6FgM6WCM",
+        "amenities": "[\"Free Wi-Fi\", \"Air Conditioning\", \"Housekeeping\","
+      },
+      {
+        "hotel_id": "ChIJm053GEI-DTkRwKJuNdfAyLw",
+        "amenities": "[\"Free Wi-Fi\", \"Air Conditioning\", \"Housekeeping\","
+      },
+      {
+        "hotel_id": "ChIJkTyoKUkVDTkR8L5-ZWny4t8",
+        "amenities": "[\"Free Wi-Fi\", \"Air Conditioning\", \"Housekeeping\","
+      }
+    ]
+  },
+  "part4_counts_integrity": {
+    "hotels": 1661,
+    "locations": 1661,
+    "scores": 1661,
+    "sources": 1661,
+    "amenities": 1661,
+    "provenance": 0,
+    "embeddings": 7910,
+    "ingestion_runs": 2,
+    "domain_events": 1661,
+    "orphan_locations": 0,
+    "orphan_scores": 0,
+    "orphan_sources": 0,
+    "orphan_amenities": 0,
+    "relational_integrity_passed": true
+  },
+  "part6_pgvector": {
+    "table_name": "embedding_documents",
+    "total_vectors": 7910,
+    "vector_dimension": 384,
+    "embedding_model": "all-MiniLM-L6-v2",
+    "unique_hotel_ids": 1661,
+    "unique_chunk_ids": 7910,
+    "null_vectors": 0,
+    "pgvector_completeness": "100% Complete (7,910 Chunks)"
+  },
+  "part7_vector_search": {
+    "query": "clean hotel in Delhi",
+    "results_returned": 3,
+    "matches": [
+      {
+        "rank": 1,
+        "chunk_id": "ChIJk4WvZ3DjDDkRZ9zZPlkz7RU_chunkC",
+        "hotel_id": "ChIJk4WvZ3DjDDkRZ9zZPlkz7RU",
+        "similarity_score": 0.7142,
+        "snippet_length": 1468
+      },
+      {
+        "rank": 2,
+        "chunk_id": "ChIJvf9FOoEHDTkR93ALQAIeEZo_chunkC",
+        "hotel_id": "ChIJvf9FOoEHDTkR93ALQAIeEZo",
+        "similarity_score": 0.7086,
+        "snippet_length": 509
+      },
+      {
+        "rank": 3,
+        "chunk_id": "ChIJ-cFw1QcDDTkRZHlhKN9WUNs_chunkC",
+        "hotel_id": "ChIJ-cFw1QcDDTkRZHlhKN9WUNs",
+        "similarity_score": 0.7018,
+        "snippet_length": 749
+      }
+    ]
+  },
+  "part8_ingestion_history": [
+    {
+      "run_id": "42441089-ee86-4f34-af62-6ae2f9863cdd",
+      "status": "SUCCESS",
+      "records_seen": 1661,
+      "inserted": 1661,
+      "updated": 0,
+      "unchanged": 0,
+      "started_at": "2026-07-31 11:48:13.130375",
+      "completed_at": "2026-07-31 11:48:16.286877"
+    },
+    {
+      "run_id": "7e634274-eb72-43d9-aca0-b159b2b443f8",
+      "status": "SUCCESS",
+      "records_seen": 1661,
+      "inserted": 0,
+      "updated": 0,
+      "unchanged": 1661,
+      "started_at": "2026-07-31 11:48:16.311268",
+      "completed_at": "2026-07-31 11:48:17.656386"
+    }
+  ],
+  "part9_outbox": {
+    "total_domain_events": 1661,
+    "processed_events": 50,
+    "pending_events": 1611,
+    "sample_event_id": "56370eca-dbc3-417b-a264-5c4141ba7dbe",
+    "sample_event_type": "HOTEL_CREATED",
+    "sample_aggregate_id": "ChIJpV-ywbQVDTkRqWm6FgM6WCM"
+  },
+  "part12_repository_access": {
+    "postgres_hotel_count": 1661,
+    "sample_hotel_found": true,
+    "sample_hotel_name": "Royal Imperio",
+    "distinct_areas_count": 470
+  },
+  "part13_active_api_path": {
+    "settings_data_backend": "csv",
+    "settings_vector_backend": "chroma",
+    "factory_instantiated_hotel_repo": "CsvHotelRepository",
+    "factory_instantiated_emb_repo": "ChromaEmbeddingRepository",
+    "factory_instantiated_trace_repo": "JsonTraceRepository",
+    "live_api_active_backend": "CSV + ChromaDB (Active Production Default)"
+  }
+}

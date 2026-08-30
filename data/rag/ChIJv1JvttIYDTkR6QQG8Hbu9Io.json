@@ -1,0 +1,49 @@
+{
+  "hotel_id": "ChIJv1JvttIYDTkR6QQG8Hbu9Io",
+  "hotel_name": "Stepinn Ess Kay Ess Villa",
+  "area": "Sector 27",
+  "budget_category": "Budget",
+  "rating": 4.4,
+  "trust_score": 0.8776046707781718,
+  "travel_purpose_tags": [
+    "Leisure",
+    "Business"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "moderate",
+    "review_count": 5,
+    "positive_snippet_count": 3,
+    "negative_snippet_count": 0,
+    "positive_theme_count": 5,
+    "negative_theme_count": 0
+  },
+  "aspect_scores": {
+    "cleanliness": 0.9998730421066284,
+    "service": 0.999871778488159,
+    "location": 0.999881148338318,
+    "value_for_money": 0.5,
+    "staff_behavior": 0.999871778488159
+  },
+  "recommendation_features": {
+    "popularity_score": 0.5664049161380226,
+    "rating_score": 4.4,
+    "sentiment_score": 0.999871778488159
+  },
+  "review_evidence": {
+    "positive_snippets": [
+      "had a wonderful stay at this hotel and would like to sincerely appreciate the manager and the entire staff for their exceptional service. From check-in to check-out, everything was smooth, professional, and well-organized.\nThe manager mr Pawan Pandey and  had manger Deepak Pandey was very supportive, polite, and ensured that guests were comfortable at all times. The staff members were friendly, helpful, and always ready to assist with a smile. The room was clean, well-maintained, and comfortable, and all facilities were provided as promised.\nSpecial thanks to the whole team for their hospitality and positive attitude\u2014it truly made the stay pleasant and memorable. I would definitely recommend this hotel to others and look forward to staying here again.",
+      "A special thanks to the , Manager, Mr Deepak Pandey Assistant Manager Mr Pawan Pandey for their outstanding leadership and professionalism. They are extremely polite, supportive, and always ready to help guests with a smile. Their management truly reflects in the smooth operations of the hotel.\nAll the staff members are very courteous, attentive, and well-trained. From the front office to housekeeping and service team, everyone ensures that guests feel welcomed and valued.\nThe service quality, hospitality, and overall atmosphere are excellent. I highly recommend this hotel to anyone looking for a pleasant and comfortable stay.\nThank you to the entire team for making my stay memorable! \ud83d\ude4f",
+      "I had a very pleasant stay at this hotel. The rooms were clean, comfortable, and well-maintained. The staff was very polite, helpful, and always ready to assist with a smile. The service was quick and professional, which made my experience even better.\nSpecial thanks to Pawan Pandey for his outstanding support and hospitality. He was very kind, cooperative, and made sure everything was perfect during my stay. His behavior and dedication truly made a difference.\nHighly recommended! I would definitely love to visit again. \ud83d\ude0a"
+    ],
+    "negative_snippets": []
+  },
+  "review_summary": "Based on 5 reviews.",
+  "positive_themes": {
+    "clean_rooms": 3,
+    "friendly_staff": 5,
+    "great_value": 1,
+    "good_location": 1,
+    "good_food": 1
+  },
+  "negative_themes": {}
+}

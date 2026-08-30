@@ -1,0 +1,51 @@
+{
+  "hotel_id": "ChIJ6XGgrjLnDDkRe1YaEUjd_r8",
+  "hotel_name": "Hermitage Huts",
+  "area": "(A Unit of Haryana Tourism Corporation Ltd.) Surajkund",
+  "budget_category": "Mid-Range",
+  "rating": 3.9,
+  "trust_score": 0.6340789565922968,
+  "travel_purpose_tags": [
+    "Budget"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "moderate",
+    "review_count": 5,
+    "positive_snippet_count": 3,
+    "negative_snippet_count": 1,
+    "positive_theme_count": 3,
+    "negative_theme_count": 2
+  },
+  "aspect_scores": {
+    "cleanliness": 0.500658775679767,
+    "service": 0.0084181502461433,
+    "location": 0.500658775679767,
+    "value_for_money": 0.0002154178218916,
+    "staff_behavior": 0.5
+  },
+  "recommendation_features": {
+    "popularity_score": 0.6308237726961006,
+    "rating_score": 3.9,
+    "sentiment_score": 0.4019579420099035
+  },
+  "review_evidence": {
+    "positive_snippets": [
+      "We recently attended a function at this place.  It is near the Suraj Kund mela place. Not well connected with public transport. Reaching here via pwn vehicle is a plus point. Parking is available. Washrooms are dirty and other services are average. Should focus on cleanliness.",
+      "Went there to attend a marriage ceremony in their lawns. One thing that needs to be done by the management is to have proper signage especially for guests arriving in the evening hours. As for me inspite travelling by Uber cab and a working GPS it was very hard to locate the venue. Otherwise the ground is huge and ample parking place is available.",
+      "This location is awesome, sprawling green garden outside huts. Though faciliare not that what 5star property provides, but a peaceful, clean and children freindly space. Only problem is there are lot of monkey \ud83d\udc12 in ground so you need to take care of children and belongings."
+    ],
+    "negative_snippets": [
+      "Recently attended a close friend's son's wedding. Overall was very disappointed.\u00a0 Firstly the route was extremely chaotic. It took extra 1 hour to reach the venue than GPS was showing originally.\nThen main wedding function was highly below standards.. Food quality and taste\u00a0 were worst. Not expected from the function of that budget. Even low budget functions have better food taste. Most pathetic was the waiters and servers.\u00a0 Not presentable at all\u00a0 and highly unhygienic. Not recommended to go there to attend functions. If any alternative is there so that can meet the hosts later or can send the gift through anyone else, it's better choice."
+    ]
+  },
+  "review_summary": "Based on 5 reviews.",
+  "positive_themes": {
+    "clean_rooms": 2,
+    "good_location": 2,
+    "good_food": 1
+  },
+  "negative_themes": {
+    "dirty_rooms": 1,
+    "parking_issues": 2
+  }
+}

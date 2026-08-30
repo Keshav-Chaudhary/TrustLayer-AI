@@ -1,0 +1,48 @@
+{
+  "hotel_id": "ChIJ_RV61HsHDTkRAWWXg1KJw4k",
+  "hotel_name": "Oyo Home 63962 Elegant Stay",
+  "area": "Rohini",
+  "budget_category": "Budget",
+  "rating": 3.1,
+  "trust_score": 0.4685031186112123,
+  "travel_purpose_tags": [
+    "Budget"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "moderate",
+    "review_count": 5,
+    "positive_snippet_count": 2,
+    "negative_snippet_count": 3,
+    "positive_theme_count": 2,
+    "negative_theme_count": 0
+  },
+  "aspect_scores": {
+    "cleanliness": 0.5000458576905658,
+    "service": 0.9881657361984252,
+    "location": 0.5,
+    "value_for_money": 0.5,
+    "staff_behavior": 0.0002376275515416
+  },
+  "recommendation_features": {
+    "popularity_score": 0.358409522528563,
+    "rating_score": 3.1,
+    "sentiment_score": 0.3979237668885615
+  },
+  "review_evidence": {
+    "positive_snippets": [
+      "Good place to live but the numbering of the floors are so wrong",
+      "Superb & Clean Rooms\nTotally Safe & secure\nFully recommended \ud83d\ude0d"
+    ],
+    "negative_snippets": [
+      "Room condition is very bad and washroom also not working proper.....not bookable hotel this is.... or staff hamara fhone mang ke khud hi hotel ki review kar leta he....do not book this hotel...",
+      "Very fantastic,good,service ...\nNo word to say...\n\nBut 1 suggestion- plesase heng notice/advertisement board to help costumers....\nAnd 1 mobile no. Fir customers to any query...",
+      "Disgusting.. Suffocation was on its peak.. No light nothing else.. It was so bad. And too costly only for two hours."
+    ]
+  },
+  "review_summary": "Based on 5 reviews.",
+  "positive_themes": {
+    "clean_rooms": 1,
+    "friendly_staff": 1
+  },
+  "negative_themes": {}
+}

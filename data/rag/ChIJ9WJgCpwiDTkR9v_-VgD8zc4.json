@@ -1,0 +1,47 @@
+{
+  "hotel_id": "ChIJ9WJgCpwiDTkR9v_-VgD8zc4",
+  "hotel_name": "Radisson Hotel Gurugram Sohna Road City Center",
+  "area": "Sector 49",
+  "budget_category": "Luxury",
+  "rating": 4.4,
+  "trust_score": 0.9323784878307356,
+  "travel_purpose_tags": [
+    "Leisure",
+    "Business"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "moderate",
+    "review_count": 5,
+    "positive_snippet_count": 3,
+    "negative_snippet_count": 0,
+    "positive_theme_count": 3,
+    "negative_theme_count": 0
+  },
+  "aspect_scores": {
+    "cleanliness": 0.5,
+    "service": 0.999832570552826,
+    "location": 0.9998060166835784,
+    "value_for_money": 0.5,
+    "staff_behavior": 0.9998233467340468
+  },
+  "recommendation_features": {
+    "popularity_score": 0.8239863720600283,
+    "rating_score": 4.4,
+    "sentiment_score": 0.999832570552826
+  },
+  "review_evidence": {
+    "positive_snippets": [
+      "Great hotel convenient for many local businesses. Hotel is a little weathered and in need of refurbishing but very well looked after.\n\nThe staff and service here is what really shine, nothing is too much trouble and the team in both the restaurant and front desk are very gracious and helpful.\n\nSpecial thank you to Kamol on the front desk who was always there to assist with a smile \ud83d\ude4f\ud83d\ude4f",
+      "Dharmendra and Ankit gave great service at the Lobby Restaurant.\n\nSpa is Great. Pool is great. House Keeping is Great. Food is Great. Reception staff is very friendly. Komal at reception is always professional.\n\nI have stayed here 15-20 times for business meeting stays in Delhi, and always had a good experience. Will keep coming back.",
+      "After thorough search for a location in Gurgaon to celebrate our 50th Wedding Anniversary on 20th December 2025, we finally decided to go with Radisson Hotel on Sohna Road sector 49 in Gurgaon. This hotel is located very near to our residence.\nThere we met Mr Abhishek, The Banquet Manager and planned our program. He helped us planning to the minute details. We felt relaxed all the time thinking that Abhishek is there to look after all the things from rooms, food and other services required for a function to be successful.\nHard off to Abhishek. We wish him all the good luck in future.\nNow food was very delicious and wisely spread. Every guest was happy with the food and service by staff.\nHotel's location is good.\nWe had used 11 rooms for guests which were allotted on same floor. Thanks Mr Dushyant for keeping all guests in room numbers 1 to 11 on same floor."
+    ],
+    "negative_snippets": []
+  },
+  "review_summary": "Based on 5 reviews.",
+  "positive_themes": {
+    "friendly_staff": 5,
+    "good_location": 2,
+    "good_food": 2
+  },
+  "negative_themes": {}
+}

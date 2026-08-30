@@ -1,0 +1,47 @@
+{
+  "hotel_id": "ChIJk93LUHsFDTkRUXPXSpxy6eE",
+  "hotel_name": "Oyo Flagship Dwarka Mor Metro Hotel",
+  "area": "Patel Nagar",
+  "budget_category": "Budget",
+  "rating": 2.2,
+  "trust_score": 0.1933450227078725,
+  "travel_purpose_tags": [
+    "Budget"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "moderate",
+    "review_count": 5,
+    "positive_snippet_count": 0,
+    "negative_snippet_count": 3,
+    "positive_theme_count": 1,
+    "negative_theme_count": 2
+  },
+  "aspect_scores": {
+    "cleanliness": 0.0002190204249927,
+    "service": 0.5,
+    "location": 0.5,
+    "value_for_money": 0.5,
+    "staff_behavior": 0.0011594986499403
+  },
+  "recommendation_features": {
+    "popularity_score": 0.223219623947779,
+    "rating_score": 2.2,
+    "sentiment_score": 0.0006013079400872
+  },
+  "review_evidence": {
+    "positive_snippets": [],
+    "negative_snippets": [
+      "3rd class hotel, Rats in room, noises all scores,  host bad behavior , I don't recommend anyone to go there",
+      "Hotel is a fraud don't go.worst scheme of things.might consult some legal help atleast these idiots need a ban from running a hotel business",
+      "Pathetic hotel, dirty rooms, arrogant staff. Nothing was good and had to change my hotel later at around 9 PM which was more annoying."
+    ]
+  },
+  "review_summary": "Based on 5 reviews.",
+  "positive_themes": {
+    "friendly_staff": 1
+  },
+  "negative_themes": {
+    "noise": 1,
+    "dirty_rooms": 1
+  }
+}

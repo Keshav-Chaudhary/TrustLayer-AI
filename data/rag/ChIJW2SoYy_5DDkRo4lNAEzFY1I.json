@@ -1,0 +1,50 @@
+{
+  "hotel_id": "ChIJW2SoYy_5DDkRo4lNAEzFY1I",
+  "hotel_name": "Flagship Happy Guest House",
+  "area": "Loni",
+  "budget_category": "Mid-Range",
+  "rating": 3.5,
+  "trust_score": 0.5702900586645343,
+  "travel_purpose_tags": [
+    "Budget"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "moderate",
+    "review_count": 5,
+    "positive_snippet_count": 2,
+    "negative_snippet_count": 3,
+    "positive_theme_count": 2,
+    "negative_theme_count": 1
+  },
+  "aspect_scores": {
+    "cleanliness": 0.5,
+    "service": 0.000253516016528,
+    "location": 0.5,
+    "value_for_money": 0.000253516016528,
+    "staff_behavior": 0.5
+  },
+  "recommendation_features": {
+    "popularity_score": 0.3856836393487762,
+    "rating_score": 3.5,
+    "sentiment_score": 0.5321129443007522
+  },
+  "review_evidence": {
+    "positive_snippets": [
+      "Very very nice",
+      "Very helpfull app"
+    ],
+    "negative_snippets": [
+      "Worst service, charges are too high against their cheap service, the hotels are look like 300 per hrs type, not for family or frnds outing, too bad service",
+      "quality very low so bed",
+      "Galaxy sofa maker"
+    ]
+  },
+  "review_summary": "Based on 5 reviews.",
+  "positive_themes": {
+    "friendly_staff": 1,
+    "great_value": 1
+  },
+  "negative_themes": {
+    "rude_staff": 1
+  }
+}

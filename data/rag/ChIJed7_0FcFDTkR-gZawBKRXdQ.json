@@ -1,0 +1,52 @@
+{
+  "hotel_id": "ChIJed7_0FcFDTkR-gZawBKRXdQ",
+  "hotel_name": "Clay Inn Hotels, Paschim Vihar",
+  "area": "Paschim Vihar",
+  "budget_category": "Budget",
+  "rating": 4.1,
+  "trust_score": 0.7283815187676724,
+  "travel_purpose_tags": [
+    "Budget"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "rich",
+    "review_count": 5,
+    "positive_snippet_count": 3,
+    "negative_snippet_count": 2,
+    "positive_theme_count": 3,
+    "negative_theme_count": 2
+  },
+  "aspect_scores": {
+    "cleanliness": 0.5010532980086281,
+    "service": 0.7504243525327183,
+    "location": 0.5,
+    "value_for_money": 0.2013943046331405,
+    "staff_behavior": 0.6672895315568894
+  },
+  "recommendation_features": {
+    "popularity_score": 0.5912027674861633,
+    "rating_score": 4.1,
+    "sentiment_score": 0.6406183429528027
+  },
+  "review_evidence": {
+    "positive_snippets": [
+      "Nice hotel on the main road. Went there to attend birthday party. Food and service was really very nice",
+      "The service at the hotel was outstanding!!! Everyone was good, Housekeeping however was a highlight, the team was prompt, polite special mention to the Nakul n Denzing........ Cheers",
+      "This is a very good and clean hotel where you can stay comfortably with your family. I found this to be the best hotel in the Paschim Vihar area. I have stayed in many hotels.This hotel also has two banquets where you can organize your family functions. The staff here, front office, kitchen, room service and housekeeping are very good. You can stay here safely with your family."
+    ],
+    "negative_snippets": [
+      "- The food at the hotel was good and enjoyable which was a positive part of my stay.\n- However the overall room experience did not meet expectations. The room was not properly cleaned especially the floor.\n- Additionally, for a simple 3-star hotel during the cold season especially in a city like Delhi, a hair dryer should be provided, but it was not available.\n- With better housekeeping and improved in-room facilities, the hotel can definitely offer a much better guest experience.\n- And price was bit higher than expected.",
+      "They dont have parking space... rooms are too small . Manager at reception always in its own attitude.  We stayed for two days.. n they park our somewhere.. even we ask for help to clean he directly refuse n we ask to pay the guy... very rude team.. dont recommend"
+    ]
+  },
+  "review_summary": "Based on 5 reviews.",
+  "positive_themes": {
+    "good_food": 2,
+    "friendly_staff": 2,
+    "clean_rooms": 3
+  },
+  "negative_themes": {
+    "rude_staff": 1,
+    "parking_issues": 1
+  }
+}

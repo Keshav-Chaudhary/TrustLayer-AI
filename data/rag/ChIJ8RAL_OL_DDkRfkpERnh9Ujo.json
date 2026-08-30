@@ -1,0 +1,48 @@
+{
+  "hotel_id": "ChIJ8RAL_OL_DDkRfkpERnh9Ujo",
+  "hotel_name": "Hotel O Royal King Deluxe",
+  "area": "Burari",
+  "budget_category": "Mid-Range",
+  "rating": 2.8,
+  "trust_score": 0.3263107501410704,
+  "travel_purpose_tags": [
+    "Budget"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "moderate",
+    "review_count": 5,
+    "positive_snippet_count": 0,
+    "negative_snippet_count": 3,
+    "positive_theme_count": 2,
+    "negative_theme_count": 2
+  },
+  "aspect_scores": {
+    "cleanliness": 0.0008277129469206,
+    "service": 0.0005630822670354,
+    "location": 0.5,
+    "value_for_money": 0.0002434555644867,
+    "staff_behavior": 0.0009449099125049
+  },
+  "recommendation_features": {
+    "popularity_score": 0.4730269851004501,
+    "rating_score": 2.8,
+    "sentiment_score": 0.0008277129469206
+  },
+  "review_evidence": {
+    "positive_snippets": [],
+    "negative_snippets": [
+      "I would have given negative rating to this place. Worst ever hotel stay in my life. Pathetic rooms, with dirty stained bedsheet, stains everywhere on the linen, pillow was messy. Receptionist, she was so rude. Not even ready to understand the problems. You're not allowed to smoke as per the notice glued in hotel, but their staff was smoking. Even the room was smoky. No clean bathroom. Even jet was broken. No service was there at all.\nOnly one thing they were good at. Checkout time is 11 am. But, they will stay knocking at 10.30 only. Don't forget to lock from inside as they may even open it to throw you out.\n\nWorst ever hotel.",
+      "Staff was supportive but the room was awful bathroom was not in condition to use.. Bedsheet pillow cover quilt were disgusting. Would never recommend if you're a hygiene loving person.",
+      "Pathetic service.... Water is contaminated and Ac isn't working. I think this property is delisted by oyo. No hygiene standards are followed. Quite rude behaviour by staff. I request you to not visit here even they are offering free of cost."
+    ]
+  },
+  "review_summary": "Based on 5 reviews.",
+  "positive_themes": {
+    "clean_rooms": 2,
+    "friendly_staff": 4
+  },
+  "negative_themes": {
+    "dirty_rooms": 3,
+    "rude_staff": 4
+  }
+}

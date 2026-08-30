@@ -1,0 +1,49 @@
+{
+  "hotel_id": "ChIJqzx_of0hDTkR-rg9kq8jjq0",
+  "hotel_name": "Hotel O Small Town",
+  "area": "Gurugram",
+  "budget_category": "Mid-Range",
+  "rating": 3.6,
+  "trust_score": 0.4177876925437933,
+  "travel_purpose_tags": [
+    "Budget"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "moderate",
+    "review_count": 5,
+    "positive_snippet_count": 1,
+    "negative_snippet_count": 3,
+    "positive_theme_count": 2,
+    "negative_theme_count": 1
+  },
+  "aspect_scores": {
+    "cleanliness": 0.0002413350302958,
+    "service": 0.5,
+    "location": 0.5,
+    "value_for_money": 0.0419505350291729,
+    "staff_behavior": 0.5
+  },
+  "recommendation_features": {
+    "popularity_score": 0.3914140521329489,
+    "rating_score": 3.6,
+    "sentiment_score": 0.0086261763004585
+  },
+  "review_evidence": {
+    "positive_snippets": [
+      "Low cost rooms available here"
+    ],
+    "negative_snippets": [
+      "Very disappointing stay. The room provided to us was not clean at all and was in the worst possible condition. Dirty linen, poor cleanliness, and overall hygiene issues made the stay extremely uncomfortable. This was not what we expected after booking.\nWe had to raise a complaint and share photos just to explain the condition of the room, which itself shows the lack of basic quality checks. I would not recommend this hotel unless cleanliness and room standards are significantly improved.",
+      "Its not a Hotel, its a PG. Do not include breakfast in your booking, they will give you shitty PG food.\n\nAlso everything is pathetic!",
+      "Bathroom is a mess. There are currents in the water and in the Tap."
+    ]
+  },
+  "review_summary": "Based on 5 reviews.",
+  "positive_themes": {
+    "clean_rooms": 1,
+    "good_food": 1
+  },
+  "negative_themes": {
+    "dirty_rooms": 1
+  }
+}

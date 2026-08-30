@@ -1,0 +1,52 @@
+{
+  "hotel_id": "ChIJQahY2GoFDTkRf9MrvyfY8Wo",
+  "hotel_name": "Fabhotel Vihaan Regency",
+  "area": "Uttam Nagar",
+  "budget_category": "Mid-Range",
+  "rating": 3.2,
+  "trust_score": 0.4552897980585154,
+  "travel_purpose_tags": [
+    "Budget"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "moderate",
+    "review_count": 5,
+    "positive_snippet_count": 2,
+    "negative_snippet_count": 3,
+    "positive_theme_count": 3,
+    "negative_theme_count": 2
+  },
+  "aspect_scores": {
+    "cleanliness": 0.5000426626356784,
+    "service": 0.0005891953187528,
+    "location": 0.5,
+    "value_for_money": 0.000450940162409,
+    "staff_behavior": 0.4985735869558993
+  },
+  "recommendation_features": {
+    "popularity_score": 0.2313194968117582,
+    "rating_score": 3.2,
+    "sentiment_score": 0.3995682631619274
+  },
+  "review_evidence": {
+    "positive_snippets": [
+      "Best room and full higiene mantain. All staff are also coperative",
+      "Best neat and clean room in this area and staffs are also very helpfully"
+    ],
+    "negative_snippets": [
+      "Very third class service, toilet doors were broken, toilet jets were not working even there is no latch (locking mechanism) in toilets. On being asked to turn on the AC, they replied they run AC in extreme summers only. Complimentary water bottles supplied were not intact and seems they refilled fill them.no privacy pls don't go.",
+      "Even not deserve a single star, rooms were stinky..No AC upto March, no window..no latch in the bathrooms..cleanliness is a big problems..not recommended to stay..",
+      "The worst hotel I have ever seen in my life. 1st of all they don't provide complimentary water bottles in the room if you want then come down at the reception and then take it to the room and that is also RO water. Then they don't provide 2 towels in the room whether you are staying at double occupancy or 3 occupancy. 3rd they don't provide the AC remote as well you have to control it directly from the main switch you can't change the settings of the AC. 4th the rooms are totally mess bedsheets are dirty and torns , in room you will find so many small crochoches, so many mosquitos as well and if you ask for mosquito repellent they don't provide that as well. 5th the lift is serviceable only from morning 8am to night 10 pm after that you have to climb stairs with your heavy luggages . 6th bathroom are dirty WC tubs are broken they are dirty, taps are not working, there are no hangers in bathroom only in rooms. So this hotel is not the worth of 100 rs also so don't book it that's a humble request from my end.  The reception guy was so rude he will not listen to any of your concerns.."
+    ]
+  },
+  "review_summary": "Based on 5 reviews.",
+  "positive_themes": {
+    "friendly_staff": 2,
+    "clean_rooms": 2,
+    "great_value": 1
+  },
+  "negative_themes": {
+    "dirty_rooms": 1,
+    "rude_staff": 1
+  }
+}

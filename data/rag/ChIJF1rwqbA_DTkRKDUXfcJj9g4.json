@@ -1,0 +1,53 @@
+{
+  "hotel_id": "ChIJF1rwqbA_DTkRKDUXfcJj9g4",
+  "hotel_name": "Hotel O By Oyo Chawla'S Hotel & Restaurant",
+  "area": "Imt Manesar",
+  "budget_category": "Budget",
+  "rating": 4.2,
+  "trust_score": 0.7476964755964381,
+  "travel_purpose_tags": [
+    "Leisure",
+    "Business"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "moderate",
+    "review_count": 5,
+    "positive_snippet_count": 3,
+    "negative_snippet_count": 1,
+    "positive_theme_count": 4,
+    "negative_theme_count": 2
+  },
+  "aspect_scores": {
+    "cleanliness": 0.5006783709977753,
+    "service": 0.9997668862342834,
+    "location": 0.988153636455536,
+    "value_for_money": 0.988153636455536,
+    "staff_behavior": 0.9939602613449096
+  },
+  "recommendation_features": {
+    "popularity_score": 0.3841941705554954,
+    "rating_score": 4.2,
+    "sentiment_score": 0.7974977535428479
+  },
+  "review_evidence": {
+    "positive_snippets": [
+      "The best hotel in this area...\nVery secure and clean .",
+      "Chawla\u2019s Hotel & Restaurant is a budget-friendly option located in the industrial hub of IMT Manesar, Gurgaon. It offers basic amenities and services suitable for short stays, especially for business travelers.\n\nPros:\n\nAffordable Rates: The hotel provides good value for money, making it a popular choice for budget-conscious travelers.\n\nLocation: Conveniently situated near the industrial area, it is ideal for those visiting for business purposes.\nFree WiFi: Complimentary WiFi is available throughout the property, which is a plus for guests needing to stay connected.\n\nCons:\n\nCleanliness: Some guests have noted that the cleanliness of the rooms could be improved.\n\nLimited Facilities: The hotel lacks some amenities such as parking and recreational facilities, which might be a drawback for some guests.\nNoise Levels: Due to its location near a busy area, noise can be an issue, especially during the day.\n\nCustomer Feedback:\n\nPositive: Guests have appreciated the helpfulness of the staff and the affordability of the stay.\n\nNeutral: Reviews indicate that while the hotel meets basic expectations, it doesn\u2019t offer any standout features.\n\nConclusion: Chawla\u2019s Hotel & Restaurant is a practical choice for those needing a budget-friendly stay in the IMT Manesar area. While it may not offer luxury, it provides essential services and a convenient location for business travelers.",
+      "Very best service Hotel Manager Very Best"
+    ],
+    "negative_snippets": [
+      "Rooms doesn't clean everyday."
+    ]
+  },
+  "review_summary": "Based on 5 reviews.",
+  "positive_themes": {
+    "clean_rooms": 3,
+    "friendly_staff": 1,
+    "good_location": 1,
+    "great_value": 1
+  },
+  "negative_themes": {
+    "noise": 1,
+    "parking_issues": 1
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "hotel_id": "ChIJE1CbrsI9DTkRU9JuSU8YpDs",
+  "hotel_name": "Hotel O Jiyansh",
+  "area": "Manesar",
+  "budget_category": "Mid-Range",
+  "rating": 3.6,
+  "trust_score": 0.4853518443258813,
+  "travel_purpose_tags": [
+    "Budget"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "sparse",
+    "review_count": 5,
+    "positive_snippet_count": 1,
+    "negative_snippet_count": 3,
+    "positive_theme_count": 1,
+    "negative_theme_count": 0
+  },
+  "aspect_scores": {
+    "cleanliness": 0.6974154710769652,
+    "service": 0.4998620720798498,
+    "location": 0.5,
+    "value_for_money": 0.000391864683479,
+    "staff_behavior": 0.9995105266571044
+  },
+  "recommendation_features": {
+    "popularity_score": 0.3032955993753565,
+    "rating_score": 3.6,
+    "sentiment_score": 0.2791432982165133
+  },
+  "review_evidence": {
+    "positive_snippets": [
+      "Stay was good room very neat or clean and all staf behavior good and very good service. Lucation good is stay."
+    ],
+    "negative_snippets": [
+      "Brother, no one should take a room here or no one has the manners to talk to me, this has been a very bad experience for me.",
+      "very worst service. The power cut occurring in the hotel does not have an alternative supply. there are no services given below.\n*Intercom facility\n*Generator supply\n*Quality drinking water\n*Room heater\n*Room maintenance\n* Cleaning",
+      "Just 4 month before opened, No GST bill available. But room were neat & clean during my visit."
+    ]
+  },
+  "review_summary": "Based on 5 reviews.",
+  "positive_themes": {
+    "clean_rooms": 3
+  },
+  "negative_themes": {}
+}

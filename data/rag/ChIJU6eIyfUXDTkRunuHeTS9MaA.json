@@ -1,0 +1,52 @@
+{
+  "hotel_id": "ChIJU6eIyfUXDTkRunuHeTS9MaA",
+  "hotel_name": "Oyo 24638 Hotel Pace",
+  "area": "Khandsa Rd",
+  "budget_category": "Budget",
+  "rating": 3.5,
+  "trust_score": 0.5102655455510856,
+  "travel_purpose_tags": [
+    "Leisure"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "moderate",
+    "review_count": 5,
+    "positive_snippet_count": 1,
+    "negative_snippet_count": 3,
+    "positive_theme_count": 3,
+    "negative_theme_count": 3
+  },
+  "aspect_scores": {
+    "cleanliness": 0.499942939262837,
+    "service": 0.4995472713198978,
+    "location": 0.9987151622772216,
+    "value_for_money": 0.4995472713198978,
+    "staff_behavior": 0.0008499223428467
+  },
+  "recommendation_features": {
+    "popularity_score": 0.600913230933329,
+    "rating_score": 3.5,
+    "sentiment_score": 0.2004871291108429
+  },
+  "review_evidence": {
+    "positive_snippets": [
+      "If you've wanted to stay in a budget hotel and looking for a beautiful balcony too specially near BBT. This hotel gets you the best balcony as well as service too, you'll never deny staying in such a beautiful hotel, the only problem we faced were Bathroom's locks which were quite loose and had problems in locking it\ud83d\udec5. Apart from it, this place also holds the capability of Paying Guest too, i would surely love to live as a Paying guest here. Thanks sir for such a good and hygienic hotel"
+    ],
+    "negative_snippets": [
+      "I lived there for nearly 3 years so i think i am better equipped to comment about this hotel. All things seems fine from outside but once you start living there then things starts to fall apart.\n\n1 Behaviour of hotel staff is not upto the mark and most of the time they have this 'Chalta hai' attitude.\n\n2 Room rent varies depending upon your negotiation skills which is also not professional.\n\n3 My room had no ventilation which was a serious concern for me.\n\n4 Food quality is devastated and the kitchen staff is not trained at all. They dont know how to behave with staff.\n\n5 Kitchen is quite unhygienic along with the kitchen staff\n\n6 Maintainenace wise you have to follow up multiple times with the manager but he has this attitude of Excuses today , action tomorrow and his tomorrow will never come.\n\nI recommend Hotel Pace only for shorter tenure and not for a long run!!",
+      "This review is for PG in Hotel Pace.\n\nRooms:- Rooms are of different size for the same prize and are very small that is only double bed are there no space left for anything else.\n\nBathroom:- Bathroom is attached but seats are broken and very compact and very uncomfortable.\n\nFood Quality:- Food is limited (you can not take more than 2 paranthas anyhow in breakfast.) and of poor quality and no lunch only dinner and breakfast is there.\n\nLocality:- Situated at Hero Honda chowk opposite to BBT. Let me tell the area is outer and gurgaon and is not safe in the night . Outsiders may find difficulty to adjust as localites are very dominating .\n\nConclusion :- If possible go for better palces or other PG not recommended at all.",
+      "It is not hotel. It is PG effectively. It has students living in rented rooms of this hotel. If you checkin as hotel booking, you will be treated as PG students.\nI stayed in this hotel in November 2021. My experience was worst. Staff behaviour was worst and was very rude in interaction."
+    ]
+  },
+  "review_summary": "Based on 5 reviews.",
+  "positive_themes": {
+    "good_location": 2,
+    "friendly_staff": 3,
+    "good_food": 3
+  },
+  "negative_themes": {
+    "rude_staff": 2,
+    "noise": 1,
+    "parking_issues": 1
+  }
+}

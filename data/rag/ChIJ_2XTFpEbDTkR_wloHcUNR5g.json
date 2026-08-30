@@ -1,0 +1,50 @@
+{
+  "hotel_id": "ChIJ_2XTFpEbDTkR_wloHcUNR5g",
+  "hotel_name": "Hotel O Kanchan Stays Near Palam Metro Station",
+  "area": "Dwarka",
+  "budget_category": "Budget",
+  "rating": 3.6,
+  "trust_score": 0.486037505578172,
+  "travel_purpose_tags": [
+    "Leisure"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "moderate",
+    "review_count": 5,
+    "positive_snippet_count": 2,
+    "negative_snippet_count": 3,
+    "positive_theme_count": 2,
+    "negative_theme_count": 1
+  },
+  "aspect_scores": {
+    "cleanliness": 0.0045341135119087,
+    "service": 0.0040016819257289,
+    "location": 0.9911513924598694,
+    "value_for_money": 0.9911513924598694,
+    "staff_behavior": 0.0027920273908724
+  },
+  "recommendation_features": {
+    "popularity_score": 0.4248943222933851,
+    "rating_score": 3.6,
+    "sentiment_score": 0.2002266034251078
+  },
+  "review_evidence": {
+    "positive_snippets": [
+      "Room was very good as per the price ...we got one room for around 450rs... There was a balcony attached too..it's also just 30mins from airport",
+      "Nice room, clean room\nBut during my stay there is wifi issue which is not working...\nOtherwise having all facilities..."
+    ],
+    "negative_snippets": [
+      "I booked a property through OYO in a state of urgency after missing my flight, only to discover that it was a complete scam. When I arrived around 3 am, they informed me that the property had been sold to someone else and had a different name. Even worse, they claimed all rooms were occupied, leaving me in a helpless and disappointing situation. The staff was incredibly rude and unfriendly.\n\nI strongly discourage anyone from staying at this hotel. It's a ridiculous situation that I wouldn't wish on anyone. If there were an option to rate it with zero stars, that's exactly what I would choose.",
+      "I stayed there for 8 days. The person who is incharge of all the rooms is not a good one when i was in the room he used directly open the door and come in instead of knocking. And his behaviour was not good and he will be harsh to everyone staying there. If we go to him to say something he will say wait and he will be watching tiktok in his mobile phone after the video ends he will say what with a arrogant tone. Totally hated the stay there. What is the use of maintaining good rooms they should learn some manners how to behave with customers.",
+      "Staff service is very good.They are ready to serve you every time. But the room was not clean and T.V available in room was not functioning. Also they don't sanitized the room."
+    ]
+  },
+  "review_summary": "Based on 5 reviews.",
+  "positive_themes": {
+    "clean_rooms": 2,
+    "friendly_staff": 2
+  },
+  "negative_themes": {
+    "rude_staff": 1
+  }
+}

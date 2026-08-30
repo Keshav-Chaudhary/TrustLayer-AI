@@ -1,0 +1,50 @@
+{
+  "hotel_id": "ChIJa0S09SwYDTkRYlUWmvR1zMg",
+  "hotel_name": "Heritage Village Resort & Spa, Manesar",
+  "area": "Manesar",
+  "budget_category": "Luxury",
+  "rating": 4.4,
+  "trust_score": 0.8764067204765589,
+  "travel_purpose_tags": [
+    "Business"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "moderate",
+    "review_count": 5,
+    "positive_snippet_count": 3,
+    "negative_snippet_count": 1,
+    "positive_theme_count": 3,
+    "negative_theme_count": 1
+  },
+  "aspect_scores": {
+    "cleanliness": 0.5,
+    "service": 0.9997759163379668,
+    "location": 0.0005302307545207,
+    "value_for_money": 0.0005302307545207,
+    "staff_behavior": 0.7999267792212776
+  },
+  "recommendation_features": {
+    "popularity_score": 0.8606901742036644,
+    "rating_score": 4.4,
+    "sentiment_score": 0.7999267792212776
+  },
+  "review_evidence": {
+    "positive_snippets": [
+      "Heritage Village Manesar is an absolutely stunning property\u2014truly insane in terms of how beautiful and well-maintained it is. The venues are gorgeous and versatile, making them perfect for a grand Indian wedding with multiple functions.\n\nWhat really stood out was the staff: extremely courteous, warm, and genuinely accommodating. They went out of their way to ensure everything ran smoothly and comfortably for us and our guests. The food service was excellent\u2014great quality, great variety, and very well managed across all events.\n\nFrom the property aesthetics to the hospitality and venues, everything came together seamlessly. Couldn\u2019t have asked for a better place to host our wedding celebrations. Highly recommended! \u2728",
+      "A Royal Escape: My Stay at Heritage Village Resort & Spa, Manesar\n\u200bIf you\u2019re looking to swap the Delhi-NCR traffic for some Rajasthani grandeur without the long drive, this spot is a gem. I recently spent some time here, and it was a thoroughly pleasant stay from start to finish.\n\u200bThe Vibe\n\u200bThe resort is designed like a traditional haveli, and the sprawling greenery immediately makes you forget you're just off the NH8. The architecture is stunning\u2014think ornate arches, cobblestone paths, and expansive lawns that are perfect for a morning stroll.\n\u200bThe Highlights\n\u200bThe Food: This was a major winner. The buffet spreads offered excellent variety, ranging from authentic local flavors to well-executed international dishes. Whether it was the breakfast spread or the dinner service, the quality remained consistently high.\n\u200bAmbiance: It strikes a great balance between \"family-friendly\" and \"peaceful retreat.\"\n\u200bService: The staff was attentive and warm, adding to the overall \"heritage\" hospitality experience.\nFinal Verdict: Whether you're lounging by the pool or enjoying a massive dinner spread, it\u2019s a fantastic place to hit the reset button. Highly recommended for anyone needing a quick but luxurious \"staycation.\"",
+      "Attended marriage ceremony in this resort.\nWas delighted to see such a well maintained & excellent property.\nFood  was excellent. Staff to good & polight.\nService is one of the best which I have seen in this industry.\nMost imp  I lost my  ROlEX watch which was safely delivered to me by their  lost & found dept with all details where & when they found the watch . I was highly impressed by their security & CCTV system."
+    ],
+    "negative_snippets": [
+      "I am writing this with extreme disappointment and frustration regarding my recent visit to Mama Miso.\n\nTo begin with, the location updated on Google Maps for your restaurant is completely incorrect. This led me to a wrong and dangerous place, forcing me to book a cab and take an incorrect turn just to finally reach your restaurant. This is highly irresponsible on their part and created unnecessary stress, risk, and inconvenience for me. Restaurant must correct this location immediately so that no other customer has to go through such an ordeal.\n\nOn top of this, the food experience was nothing short of disastrous. Being a huge fan of Japanese cuisine, I had genuinely looked forward to dining at this restaurant. However, what I received was extremely bland, tasteless, and completely devoid of any authentic flavor. It felt like a complete waste of my hard-earned money and valuable time. I came with expectations of good food but left feeling cheated and deeply dissatisfied.\n\nThis experience was nothing but a nightmare, and I am extremely upset with both the misleading location and the poor quality of food. I will make sure to never visit this place again, as it was purely a waste of time and money.\n\nAlthough the staff was polite and well-mannered, that alone does not compensate for such a terrible overall experience."
+    ]
+  },
+  "review_summary": "Based on 5 reviews.",
+  "positive_themes": {
+    "friendly_staff": 5,
+    "good_food": 5,
+    "good_location": 1
+  },
+  "negative_themes": {
+    "bad_food": 1
+  }
+}

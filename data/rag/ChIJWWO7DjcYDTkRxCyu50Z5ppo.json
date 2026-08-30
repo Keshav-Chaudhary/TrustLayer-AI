@@ -1,0 +1,53 @@
+{
+  "hotel_id": "ChIJWWO7DjcYDTkRxCyu50Z5ppo",
+  "hotel_name": "Park Inn, Gurgaon",
+  "area": "Civil Lines",
+  "budget_category": "Budget",
+  "rating": 3.9,
+  "trust_score": 0.7222491282771552,
+  "travel_purpose_tags": [
+    "Budget"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "rich",
+    "review_count": 5,
+    "positive_snippet_count": 3,
+    "negative_snippet_count": 2,
+    "positive_theme_count": 5,
+    "negative_theme_count": 1
+  },
+  "aspect_scores": {
+    "cleanliness": 0.4995344932976877,
+    "service": 0.5,
+    "location": 0.4989124839485157,
+    "value_for_money": 0.0004512880695983,
+    "staff_behavior": 0.9989599585533142
+  },
+  "recommendation_features": {
+    "popularity_score": 0.7489026211723395,
+    "rating_score": 3.9,
+    "sentiment_score": 0.5995972201111727
+  },
+  "review_evidence": {
+    "positive_snippets": [
+      "Room was spacious with decent amenities.  Housekeeping were good making sure room was clean and all the supplies replenished. There were lots of varieties in the buffet breakfast and all the staff were attentive. The location is extremely good. The only complaint was the quality of the internet which was terrible",
+      "Had a very pleasant stay at the hotel. The rooms were clean and comfortable, and the overall experience was smooth. Special thanks to the receptionist Harsh, who took excellent care of us \u2014 very polite, helpful, and attentive throughout.",
+      "Great stay and supportive staff. Specially breakfast is awesome. During my stay Harsh Singh was there and he really helped in resolving each query."
+    ],
+    "negative_snippets": [
+      "Didn\u2019t have a good time here. Rooms and bathroom were not clean at all. The room door wouldn\u2019t lock unless I slammed it hard. I saw a spider web in my room and a bunch of flies in the bathroom. Room corners were dirty (please see photos). They are definitely overcharging for what the hotel is worth.",
+      "Don\u2019t think this hotel deserves the 4 star tags\nThere is nothing there to be the 4 star hotel small room faulted washroom . Wet bathroom and there is no facilities. Tv are showpiece when you open it first do recharge\nHotel windows view are like you are in a village . Not recommended"
+    ]
+  },
+  "review_summary": "Based on 5 reviews.",
+  "positive_themes": {
+    "clean_rooms": 3,
+    "friendly_staff": 3,
+    "good_location": 1,
+    "good_food": 2,
+    "great_value": 1
+  },
+  "negative_themes": {
+    "dirty_rooms": 1
+  }
+}

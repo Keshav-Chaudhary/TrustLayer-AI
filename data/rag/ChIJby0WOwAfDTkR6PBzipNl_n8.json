@@ -1,0 +1,48 @@
+{
+  "hotel_id": "ChIJby0WOwAfDTkR6PBzipNl_n8",
+  "hotel_name": "Hotel Grand Arcasia",
+  "area": "Saket",
+  "budget_category": "Mid-Range",
+  "rating": 4.2,
+  "trust_score": 0.5090971088473453,
+  "travel_purpose_tags": [
+    "Budget"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "moderate",
+    "review_count": 5,
+    "positive_snippet_count": 0,
+    "negative_snippet_count": 3,
+    "positive_theme_count": 3,
+    "negative_theme_count": 1
+  },
+  "aspect_scores": {
+    "cleanliness": 0.0003692636018967,
+    "service": 0.0004869226249865,
+    "location": 0.0003389464982319,
+    "value_for_money": 0.0006907343049533,
+    "staff_behavior": 0.0004800064392232
+  },
+  "recommendation_features": {
+    "popularity_score": 0.4580001072406909,
+    "rating_score": 4.2,
+    "sentiment_score": 0.000433557742508
+  },
+  "review_evidence": {
+    "positive_snippets": [],
+    "negative_snippets": [
+      "Had a terrible experience at this hotel. The hygiene standards were appalling. The floors, sheets, and bathrooms were dirty and stinking. Management agreed to move us to a new room after we complained, the second room was in equally poor condition. When we asked for the room to be cleaned, we were horrified to watch the cleaner use the same brush on the sink immediately after scrubbing the toilet. Even then, the toilet remained stained and we were forced to clean it ourselves. Finally for checking in it took over an hour.  We woke up in the middle of the night to find cockroaches crawling on the floor. Basics requirements like soap, water, dental kits had to be reminded to be provided. The ones that are provided were expired. I strongly advise against staying here.",
+      "This hotel is extremely dirty and disgusting. It's completely unsafe, and don't trust the pictures at all. The rooms are so filthy; there were spiders, cockroaches, and mosquitoes. The bedsheets were so dirty and torn. I was alone, so I couldn't take pictures in front of them. I just told them the room wasn't good. They gave me another room, but it was even dirtier, so I didn't react. I just took the elevator and left immediately. I didn't even tell them I was checking out, because it felt very unsafe.",
+      "Please dont book based on the Goibibo or MakemyTrip reviwes. Its all wrong. The rooms and bathrooms are not at all clean. There is a stench when you enter the hotel. Rooms are very bad. I booked for two nights and arrived at 1am. Even then the rooms were not properly kept . The toilet had stains on the floor and the closet was completely dirty with some black thing on the sides.\n\nWhen i asked why it wasnt cleaned, the manager told me thats the maximum they will clean.\n\nWith no options, my family stayed for the night and checked out the next morning itself. Now, I am fighting with Goibibo for the refund for the 2nd night."
+    ]
+  },
+  "review_summary": "Based on 5 reviews.",
+  "positive_themes": {
+    "clean_rooms": 3,
+    "friendly_staff": 2,
+    "good_location": 1
+  },
+  "negative_themes": {
+    "dirty_rooms": 4
+  }
+}

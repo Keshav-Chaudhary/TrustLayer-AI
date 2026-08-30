@@ -1,0 +1,48 @@
+{
+  "hotel_id": "ChIJVbCrbc8jDTkRq4eovlKi9kE",
+  "hotel_name": "Reebah Inn & Suites",
+  "area": "Sector 51",
+  "budget_category": "Budget",
+  "rating": 4.4,
+  "trust_score": 0.6949324179875276,
+  "travel_purpose_tags": [
+    "Family"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "moderate",
+    "review_count": 5,
+    "positive_snippet_count": 2,
+    "negative_snippet_count": 3,
+    "positive_theme_count": 2,
+    "negative_theme_count": 0
+  },
+  "aspect_scores": {
+    "cleanliness": 0.9998352527618408,
+    "service": 0.0003720872919074,
+    "location": 0.5001484277599957,
+    "value_for_money": 0.9986836314201356,
+    "staff_behavior": 0.3337182240211405
+  },
+  "recommendation_features": {
+    "popularity_score": 0.6072771990076169,
+    "rating_score": 4.4,
+    "sentiment_score": 0.4000599812483415
+  },
+  "review_evidence": {
+    "positive_snippets": [
+      "Had a wonderful stay! The place was clean, cozy, and exactly as shown in the pictures. The balcony view was such a highlight.Felt like a home away from home.perfect for morning chai \u2615\ufe0f. The host was very responsive and helpful throughout. Would definitely love to stay here again!Highly recommend.",
+      "It\u2019s an excellent hotel at a very reasonable price. I stayed there for fifteen days and had absolutely no issues. I wish all the best to everyone who works here and manages the property."
+    ],
+    "negative_snippets": [
+      "Not happy with the service and room allotment\nGiven a room just next to lift even after specially requesting for a room away from lift.\nThere was no privacy in the room given as it's window opened into the guest coridore.\nPerson at the reception was also of no help idk why he has been assigned to be at reception when he is not able to understand the guest request.\nWhen requested for a different room that too was ignored.\nBed linen was all used when called to get that changed, reception guy picked up the phone but was speaking to his relatives while keeping me on the line and not listening to me.\nMay be Mr. Harshvardhan needs to look after these things because such incidents tarnish your reputation in Market.",
+      "I had a very bad experience at this hotel .\nThey falsely accused us of causing damage to the room chair and forced us to pay \u20b92000 for something we did not do .\nAnd the worse part they did not allow us to leave and kept us waiting for almost 2 hours and even threatened and harassed us .\nI was also not feeling well at that time , we even asked to talk to the manager and show us the proof but they clearly denied .\n\nThe staff even violated our privacy by peeking into our room without permission.\n\nThis kind of behaviour is unacceptable for any hotel. Guests should feel safe and respected , not threatened or blamed without proof.\n\nI would not recommend this hotel to anyone .",
+      "An absolute disgrace to the hospitality industry. Reebah Grande and Reebah Inn operate with a level of incompetence, arrogance, and irresponsibility that is frankly shocking. The staff is ill-mannered, untrained, and utterly incapable of handling even basic customer interaction\u2014calls were cut mid-conversation, commitments were blatantly lied about, and no one had the professionalism to follow up.\n\nThe rot clearly starts at the top. I made multiple repeated attempts to reach the owner, Harvardhan, for enquiries and booking\u2014not a single response. When an owner is this absent, careless, and unreachable, it is no mystery why the staff behaves with such entitlement and incompetence. Leadership like this sets the tone for failure.\n\nThis property does not suffer from \u201cstaff issues\u201d; it suffers from management failure and complete lack of standards. If ignoring guests, mishandling calls, and displaying open disrespect is acceptable here, then this place should seriously question its right to call itself a hotel.\n\nThe entire experience is embarrassing for the brand, damaging to its reputation, and a warning to anyone considering staying here. Reebah Grande and Reebah Inn should be cited as an example of how not to run a hospitality business in Gurgaon."
+    ]
+  },
+  "review_summary": "Based on 5 reviews.",
+  "positive_themes": {
+    "clean_rooms": 1,
+    "friendly_staff": 3
+  },
+  "negative_themes": {}
+}

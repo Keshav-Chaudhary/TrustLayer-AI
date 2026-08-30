@@ -1,0 +1,54 @@
+{
+  "hotel_id": "ChIJvwz3f_wYDTkRppCWpizlKPk",
+  "hotel_name": "Quality Inn Gurgaon",
+  "area": "Sector 14",
+  "budget_category": "Budget",
+  "rating": 4.0,
+  "trust_score": 0.7945443115927696,
+  "travel_purpose_tags": [
+    "Business"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "moderate",
+    "review_count": 5,
+    "positive_snippet_count": 3,
+    "negative_snippet_count": 1,
+    "positive_theme_count": 5,
+    "negative_theme_count": 3
+  },
+  "aspect_scores": {
+    "cleanliness": 0.6664410302425191,
+    "service": 0.7997475665441016,
+    "location": 0.5,
+    "value_for_money": 0.5000457569040009,
+    "staff_behavior": 0.7497189096648071
+  },
+  "recommendation_features": {
+    "popularity_score": 0.7260775824298975,
+    "rating_score": 4.0,
+    "sentiment_score": 0.7997475665441016
+  },
+  "review_evidence": {
+    "positive_snippets": [
+      "From the bottom of our hearts, thank you for making our wedding celebrations truly unforgettable. weddings come with countless rituals, emotions, and details, and you handled each one with such perfection, patience, and passion. Every ceremony\u2014from the haldi and mehendi to the sangeet, wedding, and reception\u2014was beautifully organized and flawlessly executed.\n\nKusum ( event planner or our go to person ) your  creativity, coordination, and dedication turned our dreams into reality. The d\u00e9cor, arrangements, timings, hospitality, and your constant support made the entire experience joyful and stress-free for us and our families.\n\nThank you for bringing color, elegance, and magic to our special days. We will always remember your hard work and the personal touch you added to everything.\n\nWith heartfelt gratitude,\nMitanshu Priti Jitin Himanshi\nJitendra Nimmi Marwah",
+      "I stayed here for about 15\u201316 days; it was my first time in India overall, and I couldn\u2019t have asked for a better place to stay. The staff were incredibly kind and attentive, and the food was absolutely delicious. I was never a big fan of Indian cuisine before, but this trip completely changed my mind.\n\nBreakfast was included, and since I usually don\u2019t eat spicy food in the morning, I only had fruits and boiled eggs on my first day. The manager noticed and kindly asked if I had any preferences; I just mentioned I\u2019d love some cheese and fresh vegetables, and from then on, it was ready on the table for me every morning. I found that so thoughtful and sweet. (Yes yes I\u2019m picky sometimes \ud83e\udd2a).\n\nThe room was cleaned, refreshed, and tidy every single day. I also used the laundry service a few times; it was super convenient.\n\nAttaching a couple of pictures of my dinners from those days; every meal looked as good as it tasted. Overall, a truly great experience with wonderful hospitality, highly recommend!\nIf I\u2019m coming back again to India , def would choose the same hotel chain again.  \ud83e\udef6\ud83c\udffc\ud83d\ude42\u200d\u2194\ufe0f",
+      "had a wonderful stay at this hotel. The rooms were spacious and spotless, the service was quick, and the staff (priyanka) was extremely friendly. The food was delicious and the ambience was relaxing. Overall, excellent value for money. Would definitely visit again"
+    ],
+    "negative_snippets": [
+      "Extremely Disappointing Stay \u2014 Poor Maintenance and Rude Staff\n\nWe had a thoroughly unpleasant experience during our two-day stay at this hotel. We had booked four rooms, and shockingly, the flush was not working in any of them. Even the common toilet had the same issue \u2014 completely unacceptable for any hotel, let alone one charging decent rates.\nThe cleanliness was pathetic \u2014 the bedsheets and linens were soiled, and the rooms smelled unpleasant. It was evident that proper cleaning and maintenance are not a priority here.\nThe restaurant staff were extremely rude and unhelpful. Something as basic as requesting a spoon or water was met with arrogance \u2014 they told us to \u201cgo collect it from the tray\u201d instead of serving it at the table. They don\u2019t even bother to serve drinking water properly, which shows a complete lack of hospitality.\nTo make matters worse, they had promised a welcome drink at check-in, which was never provided \u2014 another example of how little they care about guests or their own commitments.\nOverall, this place lacks basic hygiene, maintenance, and customer service standards. I would strongly advise against staying here unless major improvements are made in staff behavior, cleanliness, and facility upkeep. Definitely not worth the money or the inconvenience"
+    ]
+  },
+  "review_summary": "Based on 5 reviews.",
+  "positive_themes": {
+    "clean_rooms": 4,
+    "friendly_staff": 4,
+    "good_location": 1,
+    "good_food": 3,
+    "great_value": 2
+  },
+  "negative_themes": {
+    "noise": 1,
+    "dirty_rooms": 1,
+    "rude_staff": 1
+  }
+}

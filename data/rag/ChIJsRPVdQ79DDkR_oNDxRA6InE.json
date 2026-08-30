@@ -1,0 +1,51 @@
+{
+  "hotel_id": "ChIJsRPVdQ79DDkR_oNDxRA6InE",
+  "hotel_name": "Hotel Le Mem",
+  "area": "Chandni Chowk",
+  "budget_category": "Mid-Range",
+  "rating": 3.5,
+  "trust_score": 0.5880641021735005,
+  "travel_purpose_tags": [
+    "Budget"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "moderate",
+    "review_count": 5,
+    "positive_snippet_count": 1,
+    "negative_snippet_count": 3,
+    "positive_theme_count": 4,
+    "negative_theme_count": 1
+  },
+  "aspect_scores": {
+    "cleanliness": 0.2324952467897673,
+    "service": 0.5,
+    "location": 0.4821152397344121,
+    "value_for_money": 0.5,
+    "staff_behavior": 0.4639463048952166
+  },
+  "recommendation_features": {
+    "popularity_score": 0.6884663458917568,
+    "rating_score": 3.5,
+    "sentiment_score": 0.3859683501417749
+  },
+  "review_evidence": {
+    "positive_snippets": [
+      "Really good experience at Le mem H\u00f4tel in Delhi. Good location, near railway station and near Chandni Chowk. Providing good foods and good facilities."
+    ],
+    "negative_snippets": [
+      "I booked a family room in this hotel for 31st Oct, 25. To my surprise, the room was dirty. Chairs and wardrobes full of dust. At night, bed bugs were seen allover and I had to immediately request the manager to change my room. The other room offered also had cockroaches roaming around. Finally, i found one room where I took the risk to spend a night. Totally disappointed.\nThough hotel location and staff behaviour is good but hotel maintenance is not at all good.",
+      "Very disgusting unhygienic and extremely dirty rooms. Layers of dust on wall. Rajnigandha spits on wall and near dustbin. Towels and bed-sheet cannot be touched. Cockroach everywhere inside and outside room. No soaps provided. Negative star options ain't available or that is what this hotel deserves.",
+      "Requires lots of improvement in room quality, hygiene not maintained,floor was not clean properly.\nstaff are good and supportive.\n\nOne rating is for location as it is closed to station and staff they are supportiveelse it could be negative 3 star"
+    ]
+  },
+  "review_summary": "Based on 5 reviews.",
+  "positive_themes": {
+    "good_location": 4,
+    "good_food": 1,
+    "friendly_staff": 2,
+    "clean_rooms": 2
+  },
+  "negative_themes": {
+    "dirty_rooms": 3
+  }
+}

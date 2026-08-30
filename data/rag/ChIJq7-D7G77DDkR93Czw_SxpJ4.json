@@ -1,0 +1,49 @@
+{
+  "hotel_id": "ChIJq7-D7G77DDkR93Czw_SxpJ4",
+  "hotel_name": "The Leela Ambience Convention Hotel Delhi",
+  "area": "Shahdara",
+  "budget_category": "Luxury",
+  "rating": 4.5,
+  "trust_score": 0.9057912558106702,
+  "travel_purpose_tags": [
+    "Business",
+    "Family"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "moderate",
+    "review_count": 5,
+    "positive_snippet_count": 3,
+    "negative_snippet_count": 1,
+    "positive_theme_count": 3,
+    "negative_theme_count": 0
+  },
+  "aspect_scores": {
+    "cleanliness": 0.9997840523719788,
+    "service": 0.7499904065480223,
+    "location": 0.5,
+    "value_for_money": 0.999764621257782,
+    "staff_behavior": 0.7999516152660362
+  },
+  "recommendation_features": {
+    "popularity_score": 0.9363062138032504,
+    "rating_score": 4.5,
+    "sentiment_score": 0.7999516152660362
+  },
+  "review_evidence": {
+    "positive_snippets": [
+      "I recently stayed at The Leela Palace and had a really great experience. What stood out the most was the level of service from the staff. Everyone was extremely warm, attentive, and genuinely helpful throughout the stay.\n\nA special mention to Bhaskar Sharma, who was serving during cocktail hours. He was incredibly polite, attentive, and made sure everyone was well taken care of. You can tell he really cares about the guest experience, and it wouldn\u2019t be surprising to see him move into a management role in the future.\n\nIf you're deciding between properties in Gurgaon, I would definitely recommend considering the suites here over Leela Ambience Gurgaon if you're looking for a more price efficient option while still getting equal or even better service.\n\nOverall, a wonderful stay and I would happily recommend it to anyone visiting the city.",
+      "This is a Great hotel for East Delhi Folks\nI was part of a function hosted and the foods was good.\nThe starters specially were excellent.\nMain course definitely needs a lot of improvement but variety was there.\nRooms are good well Maintained and quiet spacious.\nStaff are good",
+      "This hotel is a gem!! Staff were very professional, yet warm and approachable. Rooms are spacious and clean. The older rooms do show a bit of wear & tear but as we were out most days it was no big thing.\nPros: Great staff (Antoush, the manager is a credit to this hotel) We were always greeted so warmly by him & his team that we felt like 'part of the family'.  It's not very often you can say this about big hotels. Prisha & Yashwant at breakfast always started our day with a huge smile and lovely service (cannot thank them enough). Service in the Royal Club was also exceptional (my apologies I cannot remember the short chap who was very knowledgeable about wines and had great conversations with my husband and again provided bespoke service-thank you.\nWe had such a memorable stay and cannot wait to return."
+    ],
+    "negative_snippets": [
+      "The hotel itself is great and feels very premium. However, the reception staff is not very friendly and lacks a sense of hospitality.\nWe had to call 4\u20135 times for very small requests. We had also clearly discussed over the phone that we needed two adjacent rooms, but upon arrival we were given rooms at completely different corners of the hotel.\nThe staff eventually agreed to change the room the next day (possibly because part of our payment was still pending), but even for that we had to make multiple calls and visit the reception several times just to get the exchange done.\nOverall, the experience with the front desk was not professional and needs improvement."
+    ]
+  },
+  "review_summary": "Based on 5 reviews.",
+  "positive_themes": {
+    "friendly_staff": 5,
+    "good_food": 2,
+    "clean_rooms": 1
+  },
+  "negative_themes": {}
+}

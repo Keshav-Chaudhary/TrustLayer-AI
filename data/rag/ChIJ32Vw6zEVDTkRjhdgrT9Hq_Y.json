@@ -1,0 +1,53 @@
+{
+  "hotel_id": "ChIJ32Vw6zEVDTkRjhdgrT9Hq_Y",
+  "hotel_name": "Oyo 60916 Rajya Resort",
+  "area": "Chandu",
+  "budget_category": "Budget",
+  "rating": 4.3,
+  "trust_score": 0.6897136592864436,
+  "travel_purpose_tags": [
+    "Budget"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "moderate",
+    "review_count": 5,
+    "positive_snippet_count": 2,
+    "negative_snippet_count": 3,
+    "positive_theme_count": 5,
+    "negative_theme_count": 1
+  },
+  "aspect_scores": {
+    "cleanliness": 0.484037515532691,
+    "service": 0.3344950230869775,
+    "location": 0.0014369428390637,
+    "value_for_money": 0.5010027247481048,
+    "staff_behavior": 0.5
+  },
+  "recommendation_features": {
+    "popularity_score": 0.3543615015642497,
+    "rating_score": 4.3,
+    "sentiment_score": 0.593979558465071
+  },
+  "review_evidence": {
+    "positive_snippets": [
+      "Fantastic Service by the host, very welcoming. I seriously recommend you to visit you will get ac/non ac rooms in very reasonable rates",
+      "Superb place, well maintained and awesome place for the people who are traveling to Gurgaon and wants to stay here at the cheap price."
+    ],
+    "negative_snippets": [
+      "Room service was bad.\nRooms were not fresh when we reached the hotel, and the room service guy was not well-behaved. The bedsheets and pillow cover, blanket cover were dirty, but he kept insisting it was not dirty. We had to argue with him to get it changed.\n\nThe room also lacked a window for proper ventilation, but it did have AC, which we did not use since this was in December. The washroom did not have a shower either.\n\nThey did not provide us with slippers to use in the washroom. So, if you are planning to stay here, then carry your own slippers.\nWi-Fi was good.\n\nLocation-wise it is close to SGT college, but there are problems with Uber and OLA. You have to walk a bit to get auto.",
+      "It's a normal looking lodge kind of place. Should not be called a Resort. Not too bad & not too good. Washrooms were clean and had hot water. Rooms had wifi and AC. They have inhouse kitchen from which you can order all types of food, snacks & drinks. So it's ok to stay here for a day or two, if you are in this area for some work and need a place to stay.",
+      "Worth service, team are given my room to other while I am not in day and visited my official work. Hospitality is also poor with customer, and harrased me while I am complaint about this"
+    ]
+  },
+  "review_summary": "Based on 5 reviews.",
+  "positive_themes": {
+    "friendly_staff": 1,
+    "great_value": 2,
+    "good_location": 1,
+    "clean_rooms": 1,
+    "good_food": 1
+  },
+  "negative_themes": {
+    "dirty_rooms": 1
+  }
+}

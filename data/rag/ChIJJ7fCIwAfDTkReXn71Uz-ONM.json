@@ -1,0 +1,55 @@
+{
+  "hotel_id": "ChIJJ7fCIwAfDTkReXn71Uz-ONM",
+  "hotel_name": "Hotel Suzu Inn",
+  "area": "Fatehpur Beri",
+  "budget_category": "Budget",
+  "rating": 4.6,
+  "trust_score": 0.7182162996850339,
+  "travel_purpose_tags": [
+    "Leisure"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "rich",
+    "review_count": 5,
+    "positive_snippet_count": 3,
+    "negative_snippet_count": 2,
+    "positive_theme_count": 4,
+    "negative_theme_count": 4
+  },
+  "aspect_scores": {
+    "cleanliness": 0.5001332444080616,
+    "service": 0.6667469907552004,
+    "location": 0.999852418899536,
+    "value_for_money": 0.9995241463184356,
+    "staff_behavior": 0.5001252261426998
+  },
+  "recommendation_features": {
+    "popularity_score": 0.2918825720663544,
+    "rating_score": 4.6,
+    "sentiment_score": 0.5999701831839047
+  },
+  "review_evidence": {
+    "positive_snippets": [
+      "I'm very satisfied with suzu inn team. Very Coppretive team, I like services and My suggestion is that you people should also superb service here.",
+      "Clean rooms, great service, and a convenient location make Hotel Suzu Inn an excellent value and friendly Staff,",
+      "Affordable Room price Good Experience stay at hotel Suzu Inn friendly staff,"
+    ],
+    "negative_snippets": [
+      "One of the worst stays I\u2019ve experienced. There was no parking at all, and I couldn\u2019t sleep the entire night because of loud traffic noise from outside. The washroom didn\u2019t even have a hook to hang clothes, and to make it worse, the tap literally fell into my hand when I tried to use it. The water heater wasn\u2019t working, and even the door lock was missing, which felt completely unsafe. The room smelled terrible, and the staff was extremely rude and almost abusive. Overall, a horrible experience \u2014 I would never recommend this place to anyone.",
+      "Staff extremely unhelpful, ignored us and left us stranded at 3am.\n\nWe never even ended up finding the entrance to the hotel. We arrived at 3am. I had already messaged the hotel to let them know we would be arriving very late. They confirmed over whatsapp that yes their check in desk is open 24/7 and will accommodate us. when we arrived we could see the hotel name on the building, we were in the correct spot, but there was no entrance. all doors were locked and shuttered. we drove all around the sides and back of the building, there was not a single door that could be opened or entered. I called and messaged the hotel multiple times all night, but no response. They never bothered to respond to us at all for the entire weekend, they just left us completely stranded. The most awful experience I have ever had. We felt very uneasy and unsafe being here in the middle of the night trying to find the door. Luckily our uber driver waited for us and then drove us out of there. do not believe these 5 star reviews."
+    ]
+  },
+  "review_summary": "Based on 5 reviews.",
+  "positive_themes": {
+    "clean_rooms": 1,
+    "friendly_staff": 4,
+    "good_location": 1,
+    "great_value": 2
+  },
+  "negative_themes": {
+    "dirty_rooms": 1,
+    "rude_staff": 2,
+    "noise": 1,
+    "parking_issues": 1
+  }
+}

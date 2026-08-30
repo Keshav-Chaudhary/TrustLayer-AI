@@ -1,0 +1,45 @@
+{
+  "hotel_id": "ChIJ76KgAiEiDTkRw62nMJ-4n7k",
+  "hotel_name": "Lemon Tree Hotel, Sector 60 - Gurugram",
+  "area": "Sector 60",
+  "budget_category": "Mid-Range",
+  "rating": 4.1,
+  "trust_score": 0.8912905649432006,
+  "travel_purpose_tags": [
+    "Business"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "moderate",
+    "review_count": 5,
+    "positive_snippet_count": 3,
+    "negative_snippet_count": 0,
+    "positive_theme_count": 2,
+    "negative_theme_count": 0
+  },
+  "aspect_scores": {
+    "cleanliness": 0.5,
+    "service": 0.9997183978557588,
+    "location": 0.5,
+    "value_for_money": 0.9996328353881836,
+    "staff_behavior": 0.999763011932373
+  },
+  "recommendation_features": {
+    "popularity_score": 0.8183836426241888,
+    "rating_score": 4.1,
+    "sentiment_score": 0.9997827053070067
+  },
+  "review_evidence": {
+    "positive_snippets": [
+      "Yesterday again I visited lemon tree sector-60 for lunch.\nI interacted with Ms. Mitali Das (reception) was exceptionally professional, friendly, and displayed a helpful attitude throughout. Her warm and attentive service made me feel genuinely welcome and greatly enhanced my experience.\nShe uphold a positive and professional demeanor throughout, contributing to a great guest experience.\nSuch professionalism really very appreciated.\n\nA part from this, the entire hotel feels very safe and secure, thanks to the diligent efforts of Security Manager Mr. Vijay ji. He is reliable and cooperative professional when I was interected with him past 10 days earlier.\nHis dedication significantly contributes to the hotel's reputation for safety and service excellence.\nBecause of the outstanding service provided by both Ms. Mitali Das,  Mr. Vijay and Restaurant staff, I always choose Lemon Tree Hotel Sector-60 for my stays and dining needs.\n\nTheir commitment to quality and guest satisfaction deserves a salute.\n\nEast or west\nLemon tree is the best.\n\nRegards\n\nFaizan Malik\nAdvocate",
+      "Recent Stay at Lemon Tree, Gurgaon \u2013 Sector 60\n\nI recently had the opportunity to stay at Lemon Tree Hotel in Sector 60, Gurgaon. While it\u2019s categorized as a budget hotel, I feel compelled to share my experience, especially because certain aspects of their hospitality truly stood out.\n\nThe staff are the true strength of this hotel. From the moment we checked in until our departure, every interaction was marked by courtesy, promptness, and genuine hospitality. Whether it was the chef, front office staff, transport personnel, or security team, everyone was extremely helpful and welcoming.\n\nI\u2019d especially like to mention a few names that I remember:\n\nMitali and Vishnu from the front desk\n\nRoshan Mishra from Transport and Security Services\n\nApologies for not recalling all the names, but honestly, the entire team deserves appreciation. Their warmth and service truly raised the bar of what one expects from hospitality.\n\nAnother aspect that deserves special recognition is the hotel\u2019s commitment to inclusivity. Lemon Tree employs a number of specially abled staff members that not only shows their vision of a inclusive society but also gives these special people the right to live with dignity. Truly Commendable\n\nThanks,\nRashmi",
+      "I stayed in lemon tree for a week.\nStaff is polite and humble.\nFood is good.\nWorkout area good with minimum equipment and spacious.\nFront dest check in and check out experience was smooth."
+    ],
+    "negative_snippets": []
+  },
+  "review_summary": "Based on 5 reviews.",
+  "positive_themes": {
+    "friendly_staff": 4,
+    "good_food": 2
+  },
+  "negative_themes": {}
+}

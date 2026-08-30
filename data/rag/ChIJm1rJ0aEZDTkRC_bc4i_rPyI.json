@@ -1,0 +1,53 @@
+{
+  "hotel_id": "ChIJm1rJ0aEZDTkRC_bc4i_rPyI",
+  "hotel_name": "Hotel Gracia Golf By Saavi Hotel",
+  "area": "Sector 43",
+  "budget_category": "Mid-Range",
+  "rating": 3.8,
+  "trust_score": 0.6719145933604648,
+  "travel_purpose_tags": [
+    "Family"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "rich",
+    "review_count": 5,
+    "positive_snippet_count": 3,
+    "negative_snippet_count": 2,
+    "positive_theme_count": 5,
+    "negative_theme_count": 1
+  },
+  "aspect_scores": {
+    "cleanliness": 0.7544681429862976,
+    "service": 0.6318310499191284,
+    "location": 0.2638607621192932,
+    "value_for_money": 0.6318310499191284,
+    "staff_behavior": 0.6666707257876018
+  },
+  "recommendation_features": {
+    "popularity_score": 0.4950627988643146,
+    "rating_score": 3.8,
+    "sentiment_score": 0.6527230537205468
+  },
+  "review_evidence": {
+    "positive_snippets": [
+      "Value for money\nComfortable and clean room\nHelping staff and good management\nHighly recommend this place",
+      "I recently had the pleasure of staying at Hotel Gracia during my trip to Gurgaon and I must say, it exceeded all my expectations\n\nThe room was spacious, impeccably clean, and tastefully decorated, providing a comfortable retreat after a day of exploring the city. The bed was luxuriously soft, ensuring a restful night's sleep, and the amenities provided were top-notch.",
+      "My experience was good hotels staff were decent and well behaved."
+    ],
+    "negative_snippets": [
+      "The hotel had a water issue and at random times in the day there was no water in the bathroom. The bed they provide is not a double bed mattress but rather 2 single beds which is not very comfortable.  The service is slow and the food is not good. The hotel also had a very bad smell.\nThe location Is good and the area is very safe. The size of the rooms is really good for the price.",
+      "My family booked the hotel for the roka function. Never book this hotel, Worst Hospitality.\nFirst, they only had 1 waiter to serve 60 people ( 7-8 waiter were promised at the time of booking). The guests were kept waiting for the food.\nTheir Ice cream run out of the stock in just few minutes of serving. Manager said it got melted.\nFunny! They don't have waiters and they can't even store the ice cream. The whole situation indicates they are incapable to run this hotel. They were unable to provide us very basic facilities.\nThe whole function was a chaos. We felt so ashamed in front of our guests."
+    ]
+  },
+  "review_summary": "Based on 5 reviews.",
+  "positive_themes": {
+    "clean_rooms": 2,
+    "friendly_staff": 2,
+    "great_value": 1,
+    "good_location": 1,
+    "good_food": 2
+  },
+  "negative_themes": {
+    "dirty_rooms": 1
+  }
+}

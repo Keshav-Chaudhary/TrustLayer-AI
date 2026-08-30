@@ -1,0 +1,51 @@
+{
+  "hotel_id": "ChIJ2zl8jRQbDTkRv1tqCweBkZY",
+  "hotel_name": "Royal Residency",
+  "area": "New Delhi",
+  "budget_category": "Mid-Range",
+  "rating": 3.8,
+  "trust_score": 0.4852950644696097,
+  "travel_purpose_tags": [
+    "Budget"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "moderate",
+    "review_count": 5,
+    "positive_snippet_count": 2,
+    "negative_snippet_count": 3,
+    "positive_theme_count": 5,
+    "negative_theme_count": 0
+  },
+  "aspect_scores": {
+    "cleanliness": 0.0001887083781184,
+    "service": 0.0004411081390571,
+    "location": 0.0010345928603783,
+    "value_for_money": 0.0009782833221833,
+    "staff_behavior": 0.0001887083781184
+  },
+  "recommendation_features": {
+    "popularity_score": 0.2958444386389672,
+    "rating_score": 3.8,
+    "sentiment_score": 0.2005994359293253
+  },
+  "review_evidence": {
+    "positive_snippets": [
+      "Properties location is not properly updated in Feb application resulted wasted one hour in searching property. Break fast area was not there they provided from some outside kitchen in the room. Room was cleaned and proper.",
+      "My experience with didm was amazing. Best digital marketing course in dwarka. The trainer(Mr. Shashank Tiwari) was really experience and knowledgeable."
+    ],
+    "negative_snippets": [
+      "Worst place I ever seen. Ac not working properly and washroom is too messy. Landline is also not working, Staff not friendly. All over i don't like the room and service.",
+      "Aapki facility bilkul bhi Achi nahi hai na aapki service Achi Hai as per price it is definitely not worth it and there TV but not working in the room and there is Also not service available and 2 to 3 hours electricity is not available at late night happened daily I want My money either I will complain in consumer court",
+      "Please don't go in this pg the owner of this pg is cheater he will give your security back his owner name is ravindra he is mental the photo which are given in google is not real and 2 nd thing he will not give your money back and food is quality is very bad"
+    ]
+  },
+  "review_summary": "Based on 5 reviews.",
+  "positive_themes": {
+    "clean_rooms": 1,
+    "good_location": 1,
+    "friendly_staff": 1,
+    "great_value": 1,
+    "good_food": 1
+  },
+  "negative_themes": {}
+}

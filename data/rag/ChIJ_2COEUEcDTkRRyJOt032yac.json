@@ -1,0 +1,50 @@
+{
+  "hotel_id": "ChIJ_2COEUEcDTkRRyJOt032yac",
+  "hotel_name": "Hotel The Paramont",
+  "area": "Mahipalpur",
+  "budget_category": "Mid-Range",
+  "rating": 3.5,
+  "trust_score": 0.7524797453307592,
+  "travel_purpose_tags": [
+    "Leisure",
+    "Business",
+    "Family"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "moderate",
+    "review_count": 5,
+    "positive_snippet_count": 3,
+    "negative_snippet_count": 0,
+    "positive_theme_count": 5,
+    "negative_theme_count": 0
+  },
+  "aspect_scores": {
+    "cleanliness": 0.9998538891474406,
+    "service": 0.9998141725858052,
+    "location": 0.999817192554474,
+    "value_for_money": 0.9997276663780212,
+    "staff_behavior": 0.9998338341712952
+  },
+  "recommendation_features": {
+    "popularity_score": 0.5406789016834466,
+    "rating_score": 3.5,
+    "sentiment_score": 0.9998338341712952
+  },
+  "review_evidence": {
+    "positive_snippets": [
+      "1. I stayed in this hotel for 4 nights and had no issues with cleanliness, food, or laundry.\n\n2. Thank you for the excellent service, it was really good.\n\n3. The rooms are clean and the service is great. As a solo female traveler, I felt safe because of the 24-hour security and supportive reception staff.",
+      "Exceptional Stay Amidst Comfort\nOur recent stay in January early 2026,at Hotel The Paramont was nothing short of spectacular. Perfectly located just off the highway, a few miles before Air port the hotel offers both convenience and serenity\u2014ideal for travellers who want easy access without compromising on peace and privacy.\nCleanliness was impeccable across all areas, from the sparkling bathrooms to the well-maintained common spaces and rooms. You can tell the staff takes genuine pride in upkeep.\nThe hospitality deserves a special mention. Warm, attentive, and always ready to go the extra mile, the team made us feel like valued guests from the moment we arrived.unforgettable experience Meals served there were not only beautifully presented but also rich in local flavors. The taste of the food was consistently excellent, with a mix of authentic regional cuisine and comforting classics.\nLastly, the pricing felt well-balanced. For the quality of service, location, and amenities provided, the rates were more than fair\u2014offering true value for money.\nHighly recommended for couples, families looking for a peaceful yet well-connected retreat. We left refreshed, recharged, and already planning our return!",
+      "I had a really good stay at paramont.\n1. The room was clean, comfortable, & perfect for relaxing.\n2. The best part was the food, especially the dinner & breakfast\u2014it was delicious & memorable.\n\n3. The staff were kind and helpful, always making sure I was comfortable.\n4. The hotel has a nice, cozy feel along with great service with great view.\nI would love to come back again and surely recommend paramont to others."
+    ],
+    "negative_snippets": []
+  },
+  "review_summary": "Based on 5 reviews.",
+  "positive_themes": {
+    "clean_rooms": 4,
+    "friendly_staff": 5,
+    "good_food": 3,
+    "good_location": 2,
+    "great_value": 1
+  },
+  "negative_themes": {}
+}

@@ -1,0 +1,46 @@
+{
+  "hotel_id": "ChIJrcOxu7MVDTkRwGNFDz8XwIA",
+  "hotel_name": "Natraj Greens Dev Farm",
+  "area": "Chandu",
+  "budget_category": "Mid-Range",
+  "rating": 4.7,
+  "trust_score": 0.9084037386433432,
+  "travel_purpose_tags": [
+    "Business"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "moderate",
+    "review_count": 5,
+    "positive_snippet_count": 3,
+    "negative_snippet_count": 0,
+    "positive_theme_count": 3,
+    "negative_theme_count": 0
+  },
+  "aspect_scores": {
+    "cleanliness": 0.9998777508735656,
+    "service": 0.999699890613556,
+    "location": 0.5,
+    "value_for_money": 0.5,
+    "staff_behavior": 0.9997614622116088
+  },
+  "recommendation_features": {
+    "popularity_score": 0.523874200416022,
+    "rating_score": 4.7,
+    "sentiment_score": 0.9997614622116088
+  },
+  "review_evidence": {
+    "positive_snippets": [
+      "I had the most amazing experience at Natraj Green Dev farms! From start to finish, everything was perfect. The food was absolutely delicious, the service was impeccable, and the rooms were so comfortable and well-maintained.\n\nWhat made our visit truly unforgettable was the surprise birthday party they organized for me. The staff went above and beyond to make it a special day. Every detail was thoughtfully planned, and their support throughout the event was exceptional. All my friends and family had an incredible time, and the vibrant atmosphere made the celebration even more memorable.\n\nI can\u2019t thank the team at natraj Dev green farms enough for their efforts and hospitality. Highly recommend this place to anyone looking for a venue that combines great food, excellent service, and warm, welcoming vibes. 10/10 experience!",
+      "It's a Farm House, best for party or romantic getaway.....\nBest place to relax or to have a great party. Farm House is beautiful with swimming pool and hospitality is even more great. Best part is u can play volleyball ball and have Rain Dance. There is always a staff with you to fulfill your needs. Even the food is awesome. They even arrange barbeque if asked. Best place to relax with friends and to party in day and night as well.",
+      "The farmhouse party was fantastic!  delicious food, the music was great , and the staff were friendly and attentive. The venue was clean and well-kept, making for a fun and relaxed atmosphere."
+    ],
+    "negative_snippets": []
+  },
+  "review_summary": "Based on 5 reviews.",
+  "positive_themes": {
+    "friendly_staff": 5,
+    "good_food": 4,
+    "clean_rooms": 1
+  },
+  "negative_themes": {}
+}

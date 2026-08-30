@@ -1,0 +1,55 @@
+{
+  "hotel_id": "ChIJe7gYHwCrDTkR_a-YZabtmog",
+  "hotel_name": "Hotel Nirvan",
+  "area": "Singhola",
+  "budget_category": "Mid-Range",
+  "rating": 4.6,
+  "trust_score": 0.7341046049349892,
+  "travel_purpose_tags": [
+    "Leisure",
+    "Family"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "moderate",
+    "review_count": 5,
+    "positive_snippet_count": 2,
+    "negative_snippet_count": 3,
+    "positive_theme_count": 5,
+    "negative_theme_count": 2
+  },
+  "aspect_scores": {
+    "cleanliness": 0.7148911704619724,
+    "service": 0.9997807145118712,
+    "location": 0.9986443916956582,
+    "value_for_money": 0.7145957301060357,
+    "staff_behavior": 0.6292753550689667
+  },
+  "recommendation_features": {
+    "popularity_score": 0.3226247091360448,
+    "rating_score": 4.6,
+    "sentiment_score": 0.6292753550689667
+  },
+  "review_evidence": {
+    "positive_snippets": [
+      "Had a stay with my family, great hotel , rooms were near and clean\nStaff was also polite and helpful\nService like food was also great as they arranged a delicious food within a short period of time\nWill visit again if ever get a chance\nThumbs-up from my side.",
+      "Best services with a worthwhile offer, the location was easily accessible too. The staff had a couple friendly nature. Can't think you can get a better value for money deal in this locality."
+    ],
+    "negative_snippets": [
+      "Booked through OYO.\n\nManager didn't agree for the price i booked in online site, he charged 500 INR /-  extra price.and didn't pay bill.\n\nthe same room was  listed in Agoda , OYO at lower price. ( Minus 500 included GST)\n\nNo Hot water, Washroom was not  so clean and fittings were not  in good condition., other portions of the room is okay.\n\nNo parking available, need to rely on street parking in front of the Hotel.",
+      "Spotless rooms, friendly team, perfect location. Free Wi-Fi, okay breakfast. Minor noise issue, but four-star experience. Worth returning! If you need these tweaked or want them in Hindi instead, just let me know!",
+      "Number one fraud hotel, we stayed in this hotel for three days. Check out time was 11:00 am, we checked out at 12:30 pm and  they are charging for extra 1 day. extremely poor services non cooperative staff"
+    ]
+  },
+  "review_summary": "Based on 5 reviews.",
+  "positive_themes": {
+    "clean_rooms": 3,
+    "friendly_staff": 4,
+    "good_location": 3,
+    "good_food": 2,
+    "great_value": 2
+  },
+  "negative_themes": {
+    "parking_issues": 1,
+    "noise": 1
+  }
+}

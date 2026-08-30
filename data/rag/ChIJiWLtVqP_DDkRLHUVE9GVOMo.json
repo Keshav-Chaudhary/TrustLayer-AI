@@ -1,0 +1,40 @@
+{
+  "hotel_id": "ChIJiWLtVqP_DDkRLHUVE9GVOMo",
+  "hotel_name": "Collection O Burari Post Office",
+  "area": "Burari",
+  "budget_category": "Mid-Range",
+  "rating": 5.0,
+  "trust_score": 0.866201245889842,
+  "travel_purpose_tags": [
+    "Budget"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "sparse",
+    "review_count": 1,
+    "positive_snippet_count": 1,
+    "negative_snippet_count": 0,
+    "positive_theme_count": 0,
+    "negative_theme_count": 0
+  },
+  "aspect_scores": {
+    "cleanliness": 0.5,
+    "service": 0.5,
+    "location": 0.5,
+    "value_for_money": 0.5,
+    "staff_behavior": 0.5
+  },
+  "recommendation_features": {
+    "popularity_score": 0.1498222752495692,
+    "rating_score": 5.0,
+    "sentiment_score": 0.9918509125709534
+  },
+  "review_evidence": {
+    "positive_snippets": [
+      "Visit again"
+    ],
+    "negative_snippets": []
+  },
+  "review_summary": "Based on 1 reviews.",
+  "positive_themes": {},
+  "negative_themes": {}
+}

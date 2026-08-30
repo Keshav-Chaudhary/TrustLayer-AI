@@ -1,0 +1,48 @@
+{
+  "hotel_id": "ChIJqR0Lpo8dDTkRXtwuh1revik",
+  "hotel_name": "Hotel Silky Palace",
+  "area": "Mahipalpur",
+  "budget_category": "Luxury",
+  "rating": 4.4,
+  "trust_score": 0.7839157045207239,
+  "travel_purpose_tags": [
+    "Budget"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "moderate",
+    "review_count": 5,
+    "positive_snippet_count": 3,
+    "negative_snippet_count": 1,
+    "positive_theme_count": 3,
+    "negative_theme_count": 0
+  },
+  "aspect_scores": {
+    "cleanliness": 0.0003912994870916,
+    "service": 0.6666627310914919,
+    "location": 0.5001149450545199,
+    "value_for_money": 0.5000748013262637,
+    "staff_behavior": 0.999804417292277
+  },
+  "recommendation_features": {
+    "popularity_score": 0.4258589922067738,
+    "rating_score": 4.4,
+    "sentiment_score": 0.7999125709058716
+  },
+  "review_evidence": {
+    "positive_snippets": [
+      "Had a nice stay at Hotel Silky Palace. The accommodation was comfortable, rooms were good and well maintained, and the service was also good. Staff were helpful. The location is very convenient as it\u2019s close to the airport. Overall, a good place to stay.",
+      "I recently had the pleasure of staying at Hotel Silky Palace, and I must say it exceeded all my expectations!! From the moment I checked in, the staff were warm, welcoming, and extremely helpful. Staying at this hotel was truly a wonderful experience.\nI will definitely be back!!",
+      "It was a great expert stay at silky. Place . Room size was very nice . Staff is very polite and professional. Preferred for family and business trip"
+    ],
+    "negative_snippets": [
+      "Close to the airport, but you could sleep in the airport bathroom.  At least you would have a sink and the TVs work at the airport.\n\nI know its not a high price hotel, but the was no sink in the bathroom.  It used to be there.  And the TV remote was missing, then they brought me a remote for another brand TV which of course was not going to work! There was no towel or water bottle in the room.  And the reception was just watching her cell phone all the time.  The only thing she said was I'll send someone up, but they had no idea why (no communications at all)\n\nI would say it's a good value if it were free!  But otherwise go elsewhere."
+    ]
+  },
+  "review_summary": "Based on 5 reviews.",
+  "positive_themes": {
+    "friendly_staff": 3,
+    "good_location": 2,
+    "great_value": 2
+  },
+  "negative_themes": {}
+}

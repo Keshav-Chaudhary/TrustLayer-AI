@@ -1,0 +1,47 @@
+{
+  "hotel_id": "ChIJ5RPXWkbnDDkRHPIEdZvEvnM",
+  "hotel_name": "Hotel O By Oyo Kalka",
+  "area": "Sector 43",
+  "budget_category": "Budget",
+  "rating": 4.8,
+  "trust_score": 0.8036999217134077,
+  "travel_purpose_tags": [
+    "Budget"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "moderate",
+    "review_count": 5,
+    "positive_snippet_count": 3,
+    "negative_snippet_count": 1,
+    "positive_theme_count": 2,
+    "negative_theme_count": 0
+  },
+  "aspect_scores": {
+    "cleanliness": 0.4999223017366602,
+    "service": 0.999842643737793,
+    "location": 0.5,
+    "value_for_money": 0.5,
+    "staff_behavior": 0.0003679918590933
+  },
+  "recommendation_features": {
+    "popularity_score": 0.2690641681418895,
+    "rating_score": 4.8,
+    "sentiment_score": 0.7997869715560227
+  },
+  "review_evidence": {
+    "positive_snippets": [
+      "I stayed here with my mummy and sister. It was a nice stay\u2014calm, quiet, and very relaxing. Overall, a really good experience.",
+      "Staf behaviour is good and room also clean & hygienic.",
+      "Nice services, excellence behaviour from jayram"
+    ],
+    "negative_snippets": [
+      "Very bad staff behaviour, room are not clean properly and they said \u20b9200 ruppes for extra mattress."
+    ]
+  },
+  "review_summary": "Based on 5 reviews.",
+  "positive_themes": {
+    "clean_rooms": 2,
+    "friendly_staff": 1
+  },
+  "negative_themes": {}
+}

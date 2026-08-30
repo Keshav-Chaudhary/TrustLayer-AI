@@ -1,0 +1,51 @@
+{
+  "hotel_id": "ChIJBUyBs_EBDTkR6NDsh_942IY",
+  "hotel_name": "Gallivanto Inn",
+  "area": "Rohini",
+  "budget_category": "Budget",
+  "rating": 4.5,
+  "trust_score": 0.8503896072238643,
+  "travel_purpose_tags": [
+    "Leisure",
+    "Family"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "moderate",
+    "review_count": 5,
+    "positive_snippet_count": 3,
+    "negative_snippet_count": 1,
+    "positive_theme_count": 5,
+    "negative_theme_count": 0
+  },
+  "aspect_scores": {
+    "cleanliness": 0.9998429814974468,
+    "service": 0.5000636164477328,
+    "location": 0.9998039801915488,
+    "value_for_money": 0.6666255715244915,
+    "staff_behavior": 0.7999190046044532
+  },
+  "recommendation_features": {
+    "popularity_score": 0.6758806952059268,
+    "rating_score": 4.5,
+    "sentiment_score": 0.7999190046044532
+  },
+  "review_evidence": {
+    "positive_snippets": [
+      "I recently had the pleasure of staying at Gallivanto Inn and I couldn\u2019t be more impressed. From the moment I arrived, the warm and courteous welcome made me feel right at home. The room was beautifully appointed \u2014 spotless, comfortable and thoughtfully designed, with every amenity I could ask for.\n\nThe hotel\u2019s location is fantastic \u2014 easy to access, with nearby conveniences and a peaceful atmosphere that made my stay restful. The breakfast was a highlight: fresh, delicious and with a nice variety of options to suit different tastes.\n\nWhat truly sets this place apart, however, is the staff. They were attentive, professional, and genuinely eager to ensure I had a great experience. Whether it was helping with local recommendations, arranging transport or simply being cheerful at the front desk, they made all the difference.\n\nIn short: if you\u2019re looking for comfort, excellent service and great value, I wholeheartedly recommend Gallivanto Inn. I\u2019ll definitely be returning on my next trip!",
+      "Absolutely fantastic stay at Gallivanto Inn! The rooms were spacious, spotlessly clean, and equipped with all modern amenities including a super comfortable bed and strong AC. The staff went above and beyond with their warm hospitality, quick check-in, and even delicious complimentary breakfast that hit the spot. Highly recommend for families or solo travelers\u20145 stars all the way, and I'll be back..",
+      "Recently visited this hotel and had a very superb experience...... location is good ,clean rooms , co operative staff and mainly food was also very good.....\nHighly recommend it...."
+    ],
+    "negative_snippets": [
+      "I had a disappointing experience at Gallivanto Inn restaurant. The service was extremely slow, even though the place wasn\u2019t very crowded. The staff seemed uninterested and didn\u2019t pay attention to our requests. The food was below average\u2014poorly cooked and lacking flavor\u2014and it definitely didn\u2019t justify the price. Cleanliness was also an issue, as the table and surroundings didn\u2019t feel well maintained. Overall, the experience was frustrating, and I wouldn\u2019t recommend this place to anyone looking for good food or service."
+    ]
+  },
+  "review_summary": "Based on 5 reviews.",
+  "positive_themes": {
+    "clean_rooms": 4,
+    "friendly_staff": 5,
+    "good_location": 3,
+    "great_value": 1,
+    "good_food": 4
+  },
+  "negative_themes": {}
+}

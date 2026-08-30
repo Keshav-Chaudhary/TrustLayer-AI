@@ -1,0 +1,55 @@
+{
+  "hotel_id": "ChIJp5HEBvEbDTkRUZfbGY7nZsE",
+  "hotel_name": "Ashok Country Resort",
+  "area": "Kapas Hera",
+  "budget_category": "Luxury",
+  "rating": 4.0,
+  "trust_score": 0.787626725091662,
+  "travel_purpose_tags": [
+    "Leisure",
+    "Business"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "moderate",
+    "review_count": 5,
+    "positive_snippet_count": 2,
+    "negative_snippet_count": 3,
+    "positive_theme_count": 5,
+    "negative_theme_count": 2
+  },
+  "aspect_scores": {
+    "cleanliness": 0.9991321365038554,
+    "service": 0.7480550655454863,
+    "location": 0.9930549263954164,
+    "value_for_money": 0.4973262744606473,
+    "staff_behavior": 0.9976128339767456
+  },
+  "recommendation_features": {
+    "popularity_score": 0.6955607643042667,
+    "rating_score": 4.0,
+    "sentiment_score": 0.7984097916865721
+  },
+  "review_evidence": {
+    "positive_snippets": [
+      "The resort is located in clean and green surroundings.  It is very safe and easily located. The room is good and spacious but with aura of 80s..to my taste.  The breakfast menu is very elaborate and the cleanliness is superb. The staff is polite and courteous.   It is a very good option for stay to receive or see off loved ones at IGI. A lot of foreigners and Indians from South stayed there.",
+      "Wonderful stay and excellent service\n\nI had a really pleasant stay at this resort. The rooms were spacious, clean, and very well maintained \u2014 comfortable enough to truly relax and unwind. Housekeeping was prompt and everything was taken care of nicely.\n\nThe breakfast service deserves a special mention. There was a good variety of options, the food was fresh, tasty, and well presented, and the staff was courteous and attentive throughout.\n\nOverall, the ambience of the resort is peaceful and well thought out, making it a great place to stay whether you\u2019re here for leisure or a short getaway.\n\nI\u2019d especially like to appreciate , Omkar, for his professionalism, politeness, and helpful nature. He ensured that everything went smoothly and made the stay even more comfortable."
+    ],
+    "negative_snippets": [
+      "I stayed here for a meeting at the Yashobhoomi Convention Centre, and the location is definitely the highlight. It sits perfectly between the convention centre and Indira Gandhi International Airport (Kapashera area), making it very convenient for business travelers.\nThe Positives:\nPeaceful Atmosphere: Unlike most hotels near the highway, this resort is tucked away. There is almost no noise from traffic or horns, which ensures a very good night's sleep.\nSpacious Property: The resort has big lawns and a lot of open space. The rooms are older but quite large compared to newer boutique hotels.\nBudget-Friendly Stay: At around \u20b95,500, it is a decent 4-star budget option for the area.\nThe Not-so-Positives:\nService Levels: Don't expect \"star-level\" service here. The staff is okay, but the service isn't quite up to the mark for a 4-star establishment.\nExpensive Dining: The food is average, but the prices are very high. Be careful with the menu\u2014for example, a single bottle of water was charged at \u20b989. I\u2019d recommend checking the prices before ordering.\nPool: There is a swimming pool in the lawn, but it is quite small and shallow.\nFinal Verdict: If you need a quiet, spacious place to sleep near Yashobhoomi or the airport without the highway noise, this is a solid choice. Just keep your expectations realistic regarding the service and food costs.",
+      "Service at restaurant was very good. Managed well by Manager Omkar.\n\nRooms themselves can be a a little more clean. We have traveled around the world and stayed at other 4 star hotels. At that level I would expect a little more cleanliness.\n\nBeds were great but furniture and flooring can be better maintained and cleaned .",
+      "The check-in process extended for an hour, primarily due to the receptionist's unprofessional demeanor and apparent lack of client management skills. After approximately 30 minutes, the receptionist continued to request various documents and signatures, including hard copies. For those seeking a seamless and enjoyable experience before or after a flight, I recommend considering alternative accommodations, as this hotel does not meet expectations in terms of value or professionalism...."
+    ]
+  },
+  "review_summary": "Based on 5 reviews.",
+  "positive_themes": {
+    "clean_rooms": 3,
+    "friendly_staff": 3,
+    "good_food": 3,
+    "good_location": 1,
+    "great_value": 1
+  },
+  "negative_themes": {
+    "noise": 1,
+    "rude_staff": 1
+  }
+}

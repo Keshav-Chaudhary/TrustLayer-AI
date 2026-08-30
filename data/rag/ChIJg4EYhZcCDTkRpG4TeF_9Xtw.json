@@ -1,0 +1,49 @@
+{
+  "hotel_id": "ChIJg4EYhZcCDTkRpG4TeF_9Xtw",
+  "hotel_name": "Hotel Shimla Heritage",
+  "area": "Karol Bagh",
+  "budget_category": "Mid-Range",
+  "rating": 4.1,
+  "trust_score": 0.8156140643279846,
+  "travel_purpose_tags": [
+    "Leisure",
+    "Business"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "moderate",
+    "review_count": 5,
+    "positive_snippet_count": 3,
+    "negative_snippet_count": 0,
+    "positive_theme_count": 3,
+    "negative_theme_count": 1
+  },
+  "aspect_scores": {
+    "cleanliness": 0.8125430246194204,
+    "service": 0.8123790919780731,
+    "location": 0.9998376369476318,
+    "value_for_money": 0.5,
+    "staff_behavior": 0.9996568113565444
+  },
+  "recommendation_features": {
+    "popularity_score": 0.6312473903262793,
+    "rating_score": 4.1,
+    "sentiment_score": 0.8873415648937225
+  },
+  "review_evidence": {
+    "positive_snippets": [
+      "Excellent stay near Karol Bagh Metro Station!\nHad a wonderful experience at this hotel. The location is very convenient, just a short walk from Karol Bagh Metro Station, making travel around Delhi very easy. The staff was extremely polite, helpful, and professional, which made our stay comfortable and pleasant. The rooms were clean and well-maintained. Overall, it\u2019s a great hotel with excellent service. Highly recommended for anyone visiting Delhi.",
+      "Everything was great but the washroom smell was trashy...Can't believe I had to use that bathroom for 1 week lol \ud83d\uddd1\ufe0f otherwise it's good the Room Service were great but they didn't have any fixed timing... sometimes I had to request for the service but their behaviours were Great atleast",
+      "I had a very nice experience at this hotel\nI was welcomed with a hot cup of tea. The rooms were extremely comfortable and the staff were also very kind,polite and helpful."
+    ],
+    "negative_snippets": []
+  },
+  "review_summary": "Based on 5 reviews.",
+  "positive_themes": {
+    "clean_rooms": 2,
+    "friendly_staff": 4,
+    "good_location": 1
+  },
+  "negative_themes": {
+    "dirty_rooms": 1
+  }
+}

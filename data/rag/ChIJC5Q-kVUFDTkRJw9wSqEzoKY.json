@@ -1,0 +1,49 @@
+{
+  "hotel_id": "ChIJC5Q-kVUFDTkRJw9wSqEzoKY",
+  "hotel_name": "Hotel O Jps Lux",
+  "area": "Paschim Vihar",
+  "budget_category": "Mid-Range",
+  "rating": 1.7,
+  "trust_score": 0.1503295032229878,
+  "travel_purpose_tags": [
+    "Budget"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "moderate",
+    "review_count": 5,
+    "positive_snippet_count": 0,
+    "negative_snippet_count": 3,
+    "positive_theme_count": 3,
+    "negative_theme_count": 2
+  },
+  "aspect_scores": {
+    "cleanliness": 0.0004227753961458,
+    "service": 0.000276201084489,
+    "location": 0.0004842696653213,
+    "value_for_money": 0.0003875697536083,
+    "staff_behavior": 0.0005911401385674
+  },
+  "recommendation_features": {
+    "popularity_score": 0.3335891099690984,
+    "rating_score": 1.7,
+    "sentiment_score": 0.0005281523277517
+  },
+  "review_evidence": {
+    "positive_snippets": [],
+    "negative_snippets": [
+      "Pls don't book this room if they provide free of cost still don't take this room. Here are the some points why you should not book this hotel-\n1. Location - location is very bad and rural village, it feels unsafe to visit there and it is also far away from metro station.\n2. Staff - staff was very creepy we were feeling very scared and checked out within 1 hr, Males there are very uneducated gawar, they was staring and making feel unsafe.\n3.Room Condition - Rooms are very dirty and poorly maintained, door lock is broken, Ac not working, No Television and other things in the room cupboard is broken.\n4. Poor Cleanliness- Bed sheet is torned, very dirty, white bed sheet become yellowish.\n5.No Washroom - There was no washroom in the room.\n6.Demanded Extra money- I had booked from app there the amount was showing different but receptionist took more then the amount shown on the app.\nAnd there are many more reasons to not visit this place avoid it.",
+      "Staff untrained. I already paid online payment on application..\nWhen I reached hotel staff asking to pay the money until you dont use hotel..\nAlso in there aap showing amount collected 0 rs. After 10 mnt arguments we use hotel.. there more disappointed with us . Water not available in washroom door was not in working condition...\nOverall experience is worst... \ud83d\ude21.",
+      "One of my friend booked this OYO.\nIf there are negative rating, l'd love to give it. This is NOT A HOTEL,  I repeat IT's NOT A HOTEL.\nRooms are  full of stains, I have posted some of the images.\nThe Receptionist is very rude, we had the booking ans payment done but still she refused to allot the room BECAUSE she had a walk in customer so she gave it to him. NO REFUND was given too\n\nPATHETIC PATHETIC PATHETIC\nNever ever book this."
+    ]
+  },
+  "review_summary": "Based on 5 reviews.",
+  "positive_themes": {
+    "clean_rooms": 1,
+    "friendly_staff": 3,
+    "good_location": 1
+  },
+  "negative_themes": {
+    "dirty_rooms": 2,
+    "rude_staff": 1
+  }
+}

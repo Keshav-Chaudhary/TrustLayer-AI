@@ -1,0 +1,51 @@
+{
+  "hotel_id": "ChIJSUAGLTjcDDkReJYvgFOryxU",
+  "hotel_name": "Mellinium Hotel Faridabad",
+  "area": "New Industrial Township",
+  "budget_category": "Mid-Range",
+  "rating": 3.5,
+  "trust_score": 0.5138953132554817,
+  "travel_purpose_tags": [
+    "Leisure"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "moderate",
+    "review_count": 5,
+    "positive_snippet_count": 2,
+    "negative_snippet_count": 3,
+    "positive_theme_count": 3,
+    "negative_theme_count": 1
+  },
+  "aspect_scores": {
+    "cleanliness": 0.0056539378128945,
+    "service": 0.5027534763794392,
+    "location": 0.999853014945984,
+    "value_for_money": 0.5,
+    "staff_behavior": 0.999853014945984
+  },
+  "recommendation_features": {
+    "popularity_score": 0.3166168302341184,
+    "rating_score": 3.5,
+    "sentiment_score": 0.4013951213506516
+  },
+  "review_evidence": {
+    "positive_snippets": [
+      "I went to Millinium Hotel for my venue bride. I and my brides were not happy with the services at all. There was not sufficient light in the room as well.",
+      "The Hotel Millennium in Faridabad near Fortis Hospital offers a delightful blend of excellent dining, inviting ambiance, ample parking, and attentive staff, making it a top choice for travelers.\n\nLet's start with the food: the culinary offerings are simply superb. From mouthwatering local delicacies to international cuisine, every dish is prepared with care and bursting with flavor. Whether you're craving traditional Indian dishes or exploring global flavors, the restaurant caters to every palate.\n\nThe atmosphere exudes a cool and welcoming vibe, perfect for both leisure and business travelers. Whether you're unwinding after a long day of meetings or enjoying a romantic dinner, the ambiance sets the stage for a memorable experience.\n\nParking is never a hassle here, with plenty of space available for guests' convenience. Whether you're arriving by car or hired transport, you can rest assured that parking won't be a concern.\n\nLast but certainly not least, the staff truly goes above and beyond to ensure a pleasant stay for every guest. From the warm welcome at check-in to the attentive service throughout your stay, the team at Hotel Millennium consistently delivers exceptional hospitality.\n\nIn summary, Hotel Millennium offers a winning combination of delectable dining, inviting ambiance, ample parking, and attentive staff, making it a standout choice for travelers visiting Faridabad."
+    ],
+    "negative_snippets": [
+      "The room had some architectural issues. The washroom was very small, and the commode was placed so close to the washbasin that it was difficult to sit properly, with knees touching the basin structure. The service was good, but the food was overpriced.",
+      "The rooms were not in a good condition.  However the food was really good including the function halls.",
+      "Don\u2019t visit here , food causes our family food poisoning last day . Our whole family is suffering still now ."
+    ]
+  },
+  "review_summary": "Based on 5 reviews.",
+  "positive_themes": {
+    "friendly_staff": 1,
+    "good_location": 2,
+    "good_food": 4
+  },
+  "negative_themes": {
+    "parking_issues": 1
+  }
+}

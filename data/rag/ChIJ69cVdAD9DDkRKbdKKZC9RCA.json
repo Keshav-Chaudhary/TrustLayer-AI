@@ -1,0 +1,49 @@
+{
+  "hotel_id": "ChIJ69cVdAD9DDkRKbdKKZC9RCA",
+  "hotel_name": "Hotel Mayfair",
+  "area": "Paharganj",
+  "budget_category": "Mid-Range",
+  "rating": 4.1,
+  "trust_score": 0.7636691078670879,
+  "travel_purpose_tags": [
+    "Leisure"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "moderate",
+    "review_count": 5,
+    "positive_snippet_count": 3,
+    "negative_snippet_count": 1,
+    "positive_theme_count": 4,
+    "negative_theme_count": 0
+  },
+  "aspect_scores": {
+    "cleanliness": 0.6664943883079104,
+    "service": 0.6664584268388959,
+    "location": 0.7498050324065844,
+    "value_for_money": 0.5,
+    "staff_behavior": 0.9994850158691406
+  },
+  "recommendation_features": {
+    "popularity_score": 0.5183561518475664,
+    "rating_score": 4.1,
+    "sentiment_score": 0.7997873419080861
+  },
+  "review_evidence": {
+    "positive_snippets": [
+      "I stayed at Mayfair Hotel for three nights and four days while attending the book fair, and honestly\u2014it turned out to be a fabulous decision.\n\nThe location itself is a massive win. The railway station is literally a two-minute walk away (yes, actual two minutes, not Google Maps optimism). Facility-wise, the hotel is top-notch\u2014from basic amenities to cleanliness and hygiene, everything is impeccably maintained.\nWhat truly stood out, though, was the service. I was welcomed warmly at the reception, and since I was travelling with my child, the kitchen staff went out of their way to customise meals according to my daughter\u2019s needs\u2014something that instantly earns extra points from any parent. The housekeeping staff was equally attentive, readily available even after 9 p.m., and happy to assist whenever needed.\n\nLate-night hunger? Not a problem. Even after placing a meal order post 10 p.m., the staff was prompt, polite, and genuinely eager to help. To top it all off, the receptionist was kind enough to arrange for someone to walk with me and help carry my suitcase to the station\u2014an unexpectedly thoughtful gesture that made a big difference.\n\nI can confidently vouch for this place. If I\u2019m travelling to Delhi again and need accommodation close to the railway station, this hotel will be my first choice\u2014no second thoughts. This is not a paid promotion, just an honest, well-earned recommendation. And yes, I think others should absolutely consider it too.",
+      "We stayed in this hotel for 3 days and had a very comfortable experience.\nThe location is excellent and safe for travelers.\nThe railway station and metro station are just 500 meters away, which makes commuting very easy.\nNearby shops and restaurants are an added advantage.\nOverall, it is a great hotel to stay for convenience and safety.",
+      "Shabir\nWe had really comfortable stay here.\n\n-Room\nHot shower, shampoo and conditioner, toilet papers, hairdryer, tea etc\n\n- Food\nvery reasonable and good quality room service (we had enough portion of sandwiches and it was 80 rupee )\n\n-Staffs\nStaffs were very helpful, especially Shabir helped us much. He invited us cup of chai, enjoyed chat, recommended us good places etc"
+    ],
+    "negative_snippets": [
+      "As a traveller from kerala, I never suggest anybody this hotel. Only the reception looks good and clean. No vehicle can reach their hotel, you have to walk through.And the location was worst and not safe at all. Due to my bus time from manali I have requested them for early check in 9 AM and they agreed for the same also. After check in , receptionist told me to check out should be on 9 AM. I have requested for check out after 3 hour they told i will be charged 800 rupees for 3 hours.\nHence I have checked out on 9AM. Totally bad experience for me."
+    ]
+  },
+  "review_summary": "Based on 5 reviews.",
+  "positive_themes": {
+    "clean_rooms": 3,
+    "friendly_staff": 3,
+    "good_location": 4,
+    "good_food": 1
+  },
+  "negative_themes": {}
+}

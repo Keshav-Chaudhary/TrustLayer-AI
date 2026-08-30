@@ -1,0 +1,52 @@
+{
+  "hotel_id": "ChIJw96ZnRD7DDkRW1EBfHRzjps",
+  "hotel_name": "Hotel Sunshine Park",
+  "area": "Surya Nagar",
+  "budget_category": "Mid-Range",
+  "rating": 3.7,
+  "trust_score": 0.6090485558826199,
+  "travel_purpose_tags": [
+    "Leisure"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "moderate",
+    "review_count": 5,
+    "positive_snippet_count": 2,
+    "negative_snippet_count": 3,
+    "positive_theme_count": 4,
+    "negative_theme_count": 1
+  },
+  "aspect_scores": {
+    "cleanliness": 0.3330967740572911,
+    "service": 0.3169138510420451,
+    "location": 0.9503259658813475,
+    "value_for_money": 0.5,
+    "staff_behavior": 0.4874040720133052
+  },
+  "recommendation_features": {
+    "popularity_score": 0.656132976882444,
+    "rating_score": 3.7,
+    "sentiment_score": 0.389963773835916
+  },
+  "review_evidence": {
+    "positive_snippets": [
+      "We had arrived at Anand Vihar Bus Terminal and were searching for a suitable accommodation for a night. We had to attend an Award Function at the Bikaner House, near India Gate.\n\nWe found this hotel which is merely 1.6 kilometers and reached there without any difficulty. We got the room at a competitive tariff of \u20b91800/night inclusive of taxes.\n\nThe room number 108 was quite spacious and adequately lit. The toilet was not so big, but was still manageable.  The equipment were working fine and the room service was great. They serve great food which is truly delicious and fresh, though the charges are quite steep.\n\nThe hotel staff is friendly and active, but the hotel shall work primarily on two aspects to improve its quality significantly. Firstly, they must pay heed to deep cleanliness which is missing. Secondly, they shall not accommodate those who take rooms to booze and create a ruckus during late night hours.\n\nOn the whole, it is a nice hotel which can be made much better further.",
+      "The owner's behaviour was very polite and casual..the hotel was very clean. The staff communicated well with the client"
+    ],
+    "negative_snippets": [
+      "Pathetic \ud83e\udd22.\nOne of the worst hotel experiences I\u2019ve ever had. The room service was pathetic, staff had no sense of responsibility or courtesy. The cleanliness was below basic standards dirty floors, unclean bathroom, and foul smell all around.\nEven getting a simple toilet roll required repeated requests (finally deined), and the staff behaved as if they were doing a favor by providing it. The attitude of the staff was completely careless.\nI would never recommend this place to anyone, even for a hour stay. The management seriously needs to take action if they want to call this place a hotel.",
+      "I had a very bad experience. The room was poorly maintained \u2014 the bedsheets were stained, the bathroom was not cleaned properly. Hi I requested help but the staff took very long to respond. Definitely not recommending this hotel.",
+      "Poor Experience staying in this hotel....service was not satisfying.\nTerrible experience \ud83d\ude2a"
+    ]
+  },
+  "review_summary": "Based on 5 reviews.",
+  "positive_themes": {
+    "clean_rooms": 4,
+    "friendly_staff": 4,
+    "good_location": 1,
+    "good_food": 1
+  },
+  "negative_themes": {
+    "dirty_rooms": 1
+  }
+}

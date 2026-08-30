@@ -1,0 +1,48 @@
+{
+  "hotel_id": "ChIJnT-yG1cJDTkR5GYKsn2M7fU",
+  "hotel_name": "Deep Hotel & Restaurant",
+  "area": "Mahavir Park",
+  "budget_category": "Mid-Range",
+  "rating": 3.6,
+  "trust_score": 0.6383428572966969,
+  "travel_purpose_tags": [
+    "Business"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "moderate",
+    "review_count": 5,
+    "positive_snippet_count": 3,
+    "negative_snippet_count": 2,
+    "positive_theme_count": 2,
+    "negative_theme_count": 0
+  },
+  "aspect_scores": {
+    "cleanliness": 0.0018065078329527,
+    "service": 0.9998492896556854,
+    "location": 0.5,
+    "value_for_money": 0.0018065078329527,
+    "staff_behavior": 0.9998264908790588
+  },
+  "recommendation_features": {
+    "popularity_score": 0.5409580317684104,
+    "rating_score": 3.6,
+    "sentiment_score": 0.6002331059484277
+  },
+  "review_evidence": {
+    "positive_snippets": [
+      "Excellent service, good environment",
+      "Excellent food & service. No.1 rooms I give 5 staff, suberb staff, friendly nature always ready for help. I have some problem but manager of hotel give me fully support. Best for couples.\nThanks to HR of deep hotel",
+      "If you are a hookah lover then this place is made for you. Make a group and just give your whole time to this place. Hookah, drinks, music, friends and that all you want \ud83d\udd25"
+    ],
+    "negative_snippets": [
+      "Worst experience ever.... they are charging High amount of money for nothing.... we have spent 2 hours without any electricity in this high temperature ( there was a power cut after we have checked in) plus we have asked them for a water bottle in the morning and didn't get it even in the afternoon.... they don't even know the meaning of hygiene... toilets are even worse than public toilets.... pathetic  services",
+      "I visited this Hotel almost 4-5 times in 2019. I want to say it's just ok as per price. Also Oyo Charges so high as per hotel services. One time I found bathroom look like dustbin. Yes, it's true everything is destroyed in bathroom like public toielt. Also water's services is just ok not very good. Overall I am giving only 3 star to Deep Hotel. I hope they will improve their facilities according their charges of room. Then I will improve my rating."
+    ]
+  },
+  "review_summary": "Based on 5 reviews.",
+  "positive_themes": {
+    "friendly_staff": 1,
+    "good_food": 1
+  },
+  "negative_themes": {}
+}

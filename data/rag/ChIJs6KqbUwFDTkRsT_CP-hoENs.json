@@ -1,0 +1,51 @@
+{
+  "hotel_id": "ChIJs6KqbUwFDTkRsT_CP-hoENs",
+  "hotel_name": "Oyo Grand Hotel Near Dwarka Metro Station",
+  "area": "Dwarka",
+  "budget_category": "Budget",
+  "rating": 2.8,
+  "trust_score": 0.4326025925844891,
+  "travel_purpose_tags": [
+    "Budget"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "moderate",
+    "review_count": 5,
+    "positive_snippet_count": 1,
+    "negative_snippet_count": 3,
+    "positive_theme_count": 3,
+    "negative_theme_count": 2
+  },
+  "aspect_scores": {
+    "cleanliness": 0.4971177319821436,
+    "service": 0.5,
+    "location": 0.5,
+    "value_for_money": 0.0005107725737615,
+    "staff_behavior": 0.3334128692707357
+  },
+  "recommendation_features": {
+    "popularity_score": 0.3747192385157226,
+    "rating_score": 2.8,
+    "sentiment_score": 0.3995248592924326
+  },
+  "review_evidence": {
+    "positive_snippets": [
+      "One of the best Hotels!!! I have styed on Best experience Staff was good Clean Rooms Clean toilets They have Their Deluxe rooms at the 2nd floor they charge bit extra for that if you are looking for a clean Hospitality Experience book this hotel. i would recommend to go their directly \u2764\ufe0f\ud83d\ude0d"
+    ],
+    "negative_snippets": [
+      "Worst. Please don't go. I HAD TO stay here because of urgency, but I recommend everyone, not to book, not even in emergency.",
+      "Dirty rooms, dirty bedsheet, dirty and smelly washroom, dirty pillow.\nAll r Cheap",
+      "had the worst experience of my life in the hotel. I was in delhi for some urgent work and had no other choice than to book the hotel. The workers are very rude, the facilities are BAD. I paid extra for the AC room but the AC stopped working in the night. The wifi does not work either and the water supply also stopped in the middle of the night. Please don't come here ever the hotel in itself is very shady and disgusting\n\nalso the price is higher than shown here and the facilities are a big ZERO"
+    ]
+  },
+  "review_summary": "Based on 5 reviews.",
+  "positive_themes": {
+    "clean_rooms": 1,
+    "friendly_staff": 2,
+    "great_value": 1
+  },
+  "negative_themes": {
+    "dirty_rooms": 1,
+    "rude_staff": 1
+  }
+}

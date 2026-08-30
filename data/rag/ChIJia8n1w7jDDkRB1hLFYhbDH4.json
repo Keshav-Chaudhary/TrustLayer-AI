@@ -1,0 +1,52 @@
+{
+  "hotel_id": "ChIJia8n1w7jDDkRB1hLFYhbDH4",
+  "hotel_name": "Roomshala 121 Hotel Classic",
+  "area": "Sarai Kale Khan",
+  "budget_category": "Mid-Range",
+  "rating": 3.9,
+  "trust_score": 0.539254482140795,
+  "travel_purpose_tags": [
+    "Budget"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "moderate",
+    "review_count": 5,
+    "positive_snippet_count": 1,
+    "negative_snippet_count": 3,
+    "positive_theme_count": 4,
+    "negative_theme_count": 2
+  },
+  "aspect_scores": {
+    "cleanliness": 0.0022628566075581,
+    "service": 0.002536281341842,
+    "location": 0.3345618472473385,
+    "value_for_money": 0.0015423154497208,
+    "staff_behavior": 0.999858021736145
+  },
+  "recommendation_features": {
+    "popularity_score": 0.4854573975479813,
+    "rating_score": 3.9,
+    "sentiment_score": 0.2016532584209926
+  },
+  "review_evidence": {
+    "positive_snippets": [
+      "This is a very good hotel, the rooms are also good, the staff is very well behaved.\nExcellent hotel located near the railway station\nI suggest all people come and stay"
+    ],
+    "negative_snippets": [
+      "Room space decent but cleanliness 2 star. They don't even bother to change linen/sheets, pillow covers etc. very unprofessional management. Reception mostly vacant. No landline in rooms. No water heater, no glass, plates, no lift, no tv, most fans are in bad condition, they make sound. Right outside the nizamuddin station that's the only good thing. Expect no hotel like environment here, only come if looking for short term stay/ transfers for budget price.",
+      "They are overcharging the customers. I booked the hotel on Expedia at much lower rate. Then I called the Hotel. At 1st instance they said room is not available at such low cost. Then again they called me and said they can arrange the dormitory in the rate I booked. I told them that I booked Double Delexe Room with AC With attached bath, then how you can give me Dormitory?. Then they offered me double Room but for that I have to pay three times extra per day. This is complete unprofessional behaviour from hotel. They are offering lower cost on Expedia. And in actual they are asking four to five times the amount, we actually booked. This way they are scamming people.",
+      "Roomshala is a fraud company. I booked a room using expedia and paid online but when I reached hotel the hotel receptionist was asked by Roomshala employee that don\u2019t give room without extra charges. Even I had booking confirmation and I booked a deluxe room. Hotel located in very unsafe area and rooms are very dirty and no room service at all. Not recommended to anyone."
+    ]
+  },
+  "review_summary": "Based on 5 reviews.",
+  "positive_themes": {
+    "friendly_staff": 1,
+    "good_location": 2,
+    "clean_rooms": 1,
+    "great_value": 1
+  },
+  "negative_themes": {
+    "rude_staff": 2,
+    "dirty_rooms": 1
+  }
+}

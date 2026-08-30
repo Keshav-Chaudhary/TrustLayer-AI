@@ -1,0 +1,22 @@
+# Web Framework & Server
+fastapi>=0.115.0
+uvicorn[standard]>=0.30.6
+starlette>=0.38.6
+pydantic>=2.8.2
+pydantic-settings>=2.4.0
+python-dotenv>=1.0.1
+requests>=2.32.3
+httpx>=0.27.0
+
+# Data Processing & Storage
+pandas>=2.2.2
+psycopg2-binary>=2.9.9
+chromadb>=0.4.22
+
+# NLP, Embeddings & RAG
+sentence-transformers>=2.2.2
+tqdm>=4.66.4
+
+# Testing & Utilities
+pytest>=8.2.2
+reportlab>=4.2.2

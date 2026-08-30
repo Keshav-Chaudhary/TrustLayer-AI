@@ -1,0 +1,54 @@
+{
+  "hotel_id": "ChIJEYi_bxviDDkRxJy_gHRETS0",
+  "hotel_name": "Malviya Inn",
+  "area": "Begumpur",
+  "budget_category": "Budget",
+  "rating": 4.2,
+  "trust_score": 0.780842358441442,
+  "travel_purpose_tags": [
+    "Leisure",
+    "Business",
+    "Family"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "moderate",
+    "review_count": 5,
+    "positive_snippet_count": 3,
+    "negative_snippet_count": 1,
+    "positive_theme_count": 5,
+    "negative_theme_count": 1
+  },
+  "aspect_scores": {
+    "cleanliness": 0.9989677369594574,
+    "service": 0.9998434782028198,
+    "location": 0.9973263343175252,
+    "value_for_money": 0.9969708919525146,
+    "staff_behavior": 0.9998160898685456
+  },
+  "recommendation_features": {
+    "popularity_score": 0.2387706575481475,
+    "rating_score": 4.2,
+    "sentiment_score": 0.9983384370803832
+  },
+  "review_evidence": {
+    "positive_snippets": [
+      "\u201cAbsolutely amazing experience! The rooms were spotless, staff was extremely polite, and the service felt truly premium. Food quality was excellent and the ambience made the stay memorable. Totally worth the price  \ud83d\ude01",
+      "\u201cGreat Location and Rooms \u2026 comfortable bed with quality mattresses and spotless linen.\u201d",
+      "My experience was so good \ud83d\ude0a and staff was kind and nice location was quite pleasant and Full privacy"
+    ],
+    "negative_snippets": [
+      "Hotel Malviya Nagar Inn, located in Begampur, Malviya Nagar, is a decent low-budget property. They do not have parking facilities, but the hotel is suitable for an overnight stay as well as for a few hours. Room tariffs start from \u20b91100.\nThe property is conveniently located\u2014about a 5-minute walk from Malviya Nagar main market and roughly a 10-minute walk from Malviya Nagar Metro Station (Shivalik side gate)."
+    ]
+  },
+  "review_summary": "Based on 5 reviews.",
+  "positive_themes": {
+    "clean_rooms": 2,
+    "friendly_staff": 2,
+    "great_value": 1,
+    "good_food": 1,
+    "good_location": 3
+  },
+  "negative_themes": {
+    "parking_issues": 1
+  }
+}

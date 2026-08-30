@@ -1,0 +1,52 @@
+{
+  "hotel_id": "ChIJ9_YcO0AcDTkR-IevngItAKw",
+  "hotel_name": "Zed Hotel",
+  "area": "Mahipalpur",
+  "budget_category": "Mid-Range",
+  "rating": 4.6,
+  "trust_score": 0.649442059151768,
+  "travel_purpose_tags": [
+    "Budget"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "moderate",
+    "review_count": 5,
+    "positive_snippet_count": 1,
+    "negative_snippet_count": 3,
+    "positive_theme_count": 5,
+    "negative_theme_count": 1
+  },
+  "aspect_scores": {
+    "cleanliness": 0.0002867078728741,
+    "service": 0.0391546078026294,
+    "location": 0.0391546078026294,
+    "value_for_money": 0.0002444569254294,
+    "staff_behavior": 0.0132426745161258
+  },
+  "recommendation_features": {
+    "popularity_score": 0.5565733613171766,
+    "rating_score": 4.6,
+    "sentiment_score": 0.2079452965786913
+  },
+  "review_evidence": {
+    "positive_snippets": [
+      "The hotel had a peaceful atmosphere which helped me relax. Overall nice stay"
+    ],
+    "negative_snippets": [
+      "I have book for Two day (06/02/26 to 08/02/26) from Cleartrip site with breakfast\nAt chekin time he give me one room on groundfloor for not availability of other room but due to urgency we have accept but with promised he will change room on tomorrow (08/02) but he failed in commitment\nThen seconday mornig I have asked for breakfast then hotel manage said Cleartrip book room only not brekfast then I saw him recipt then he aggree but in breakfast only Cold Tea & worst Allo paratha serve from outside of hotel (No Inhouse Breakfast facility in this Hotel , Please take care when book)\nAgain same history repated for second day & he is not changed room (Reason says by hotel manager : Cleartrip paid us small amount for room booking so we can not give proper service)\nNo Towel available at first day , Only soap no shampoo pouch\nReally there is worst experience in my history\nThen I have change Hotel & book a other hotel name \"Hotel Pearls\" about 100 met near one & it is best one",
+      "Its a worst hotel to stay. Bed sheets are dirty and has cigratte holes, bedsheets are torned, staff are lazy and busy on watching reels on social media, no ventilation, staff is not attending complaints. If electricity is gone then they dont have generator backup, inverter works till it has battery.\n\nEven 1 star is too much.",
+      "I booked Zed Hotel through Booking.com, but when I arrived, they told me no rooms were available and shifted me to another property. The alternate hotel was of very poor quality, not like what I had booked, and they even overcharged for food. When I called Zed Hotel to report the issue, they simply disconnected my call. Very disappointing experience \u2014 not recommended at all."
+    ]
+  },
+  "review_summary": "Based on 5 reviews.",
+  "positive_themes": {
+    "good_location": 1,
+    "good_food": 3,
+    "friendly_staff": 2,
+    "clean_rooms": 1,
+    "great_value": 1
+  },
+  "negative_themes": {
+    "dirty_rooms": 1
+  }
+}

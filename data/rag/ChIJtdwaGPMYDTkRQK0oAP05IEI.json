@@ -1,0 +1,49 @@
+{
+  "hotel_id": "ChIJtdwaGPMYDTkRQK0oAP05IEI",
+  "hotel_name": "Inde Hotel Vista Woods",
+  "area": "Sector 45",
+  "budget_category": "Mid-Range",
+  "rating": 4.1,
+  "trust_score": 0.722914858493918,
+  "travel_purpose_tags": [
+    "Budget"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "rich",
+    "review_count": 5,
+    "positive_snippet_count": 3,
+    "negative_snippet_count": 2,
+    "positive_theme_count": 3,
+    "negative_theme_count": 0
+  },
+  "aspect_scores": {
+    "cleanliness": 0.999836564064026,
+    "service": 0.999836564064026,
+    "location": 0.5,
+    "value_for_money": 0.5,
+    "staff_behavior": 0.6670430372857178
+  },
+  "recommendation_features": {
+    "popularity_score": 0.6259203085114013,
+    "rating_score": 4.1,
+    "sentiment_score": 0.6003387443372048
+  },
+  "review_evidence": {
+    "positive_snippets": [
+      "The service was amazing.\n@Raj Bahadur Ji was very cooperative, patient and helpful throughout.\nThe overall service, Food, and Hospitality of the staff was commendable. The premise was super clean and well maintained. The staff was very polite and hands-on.\nWould highly recommend to consider the venue and the staff for any future event.",
+      "One of hotel staff named Banbari ji was so helpful that my stay became easy and comfortable . And chef named Shankar ji also very good chef, he provide all my favourite food during my stay... 5 star for them ...\n\nIn one word excellent hospitality.",
+      "\u201cWe stayed at Indi Hotel Vista for 10 days and had a wonderful experience. A special thank you to Mr. Banwari for his warm help and lovely hospitality. Your support truly made our stay comfortable and memorable.\u201d"
+    ],
+    "negative_snippets": [
+      "Located in a Nice locality, the rooms were average, staff was ok not very professional or friendly, the complementary meal with the booking was not up to the standard half of the items were out of stock.",
+      "Very bad experience Ac not working\nIf you give laundry it will come after 3 days\nFood is average. Only the size of the room is quite big"
+    ]
+  },
+  "review_summary": "Based on 5 reviews.",
+  "positive_themes": {
+    "clean_rooms": 1,
+    "friendly_staff": 3,
+    "good_food": 3
+  },
+  "negative_themes": {}
+}

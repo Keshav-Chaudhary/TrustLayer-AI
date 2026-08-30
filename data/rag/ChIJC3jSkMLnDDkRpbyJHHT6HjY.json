@@ -1,0 +1,48 @@
+{
+  "hotel_id": "ChIJC3jSkMLnDDkRpbyJHHT6HjY",
+  "hotel_name": "Fabhotel Crescent",
+  "area": "Bypass",
+  "budget_category": "Mid-Range",
+  "rating": 3.3,
+  "trust_score": 0.3469767371540381,
+  "travel_purpose_tags": [
+    "Budget"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "moderate",
+    "review_count": 5,
+    "positive_snippet_count": 0,
+    "negative_snippet_count": 3,
+    "positive_theme_count": 2,
+    "negative_theme_count": 2
+  },
+  "aspect_scores": {
+    "cleanliness": 0.0004252158760209,
+    "service": 0.0003887955972459,
+    "location": 0.0004176928535646,
+    "value_for_money": 0.0005188191862543,
+    "staff_behavior": 0.0003887955972459
+  },
+  "recommendation_features": {
+    "popularity_score": 0.2580997673088359,
+    "rating_score": 3.3,
+    "sentiment_score": 0.00055417464755
+  },
+  "review_evidence": {
+    "positive_snippets": [],
+    "negative_snippets": [
+      "Never ever ever in your life book this hotel.\nFirst of all wrong location.\nNo customer support\nNo real agent contact available\nWaste of money\nThe worst experience one can ever have at midnight\nNever gonna trust any hotels online.\nJust a scam/fraud.\nTotal waste of money/time/energy\nInstead you can look into Immense residency a nearby hotel which give you more than your expectations. Loved Immense hotel.",
+      "The exact location of hotel is not found on Google map....According to Google map location is somewhere else...Second services are not that good...Rooms are not clean Have disgusting smell..And warm water facilities are not there...My overall experience is not good.",
+      "Firstly we are not able to find the location and Fab hotel customer care is also not reachable.  We got late and when we reach the hotel they are not able to find our booking , they are trying to charge money and suddenly I saw reception system our name was there but the guy at reception was lying.  Then he got hopeless. He is behavior is also very rude."
+    ]
+  },
+  "review_summary": "Based on 5 reviews.",
+  "positive_themes": {
+    "good_location": 3,
+    "clean_rooms": 1
+  },
+  "negative_themes": {
+    "dirty_rooms": 2,
+    "rude_staff": 1
+  }
+}

@@ -1,0 +1,52 @@
+{
+  "hotel_id": "ChIJm5rPtlGrDTkR8sMpKe-1YS4",
+  "hotel_name": "White House Residency",
+  "area": "Kundli",
+  "budget_category": "Mid-Range",
+  "rating": 4.0,
+  "trust_score": 0.6723198455753799,
+  "travel_purpose_tags": [
+    "Budget"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "moderate",
+    "review_count": 5,
+    "positive_snippet_count": 2,
+    "negative_snippet_count": 3,
+    "positive_theme_count": 4,
+    "negative_theme_count": 1
+  },
+  "aspect_scores": {
+    "cleanliness": 0.9998468160629272,
+    "service": 0.6666556643904187,
+    "location": 0.0035444647073745,
+    "value_for_money": 0.5,
+    "staff_behavior": 0.6677556484937668
+  },
+  "recommendation_features": {
+    "popularity_score": 0.4502085811759851,
+    "rating_score": 4.0,
+    "sentiment_score": 0.600562745181378
+  },
+  "review_evidence": {
+    "positive_snippets": [
+      "\"Dear Hotel Team,\n\nI wanted to express my gratitude for the excellent service and delicious food at your hotel. The staff were friendly and attentive, making my stay comfortable. I'd highly recommend your hotel to others.\n\nThank you again for a wonderful experience!\n\nBest regards,\n[Mustufa khan]\"",
+      "Yesterday I got a chance to stay here and my experience was very good, the room was also nice and clean, the service was very quick and good entire staff especially Nitish ji was very helpful and very prompt. He talks very well and he does his work very well too.\nIt was a very good experience."
+    ],
+    "negative_snippets": [
+      "Had a horrible experience, the room is not how it looks online the location is terrible and although the staff was a bit helpful but gave very weird vibes. It was super cold and didn\u2019t even get hot water for bathing, extremely awfully maintained and horrid food aswell. Gave me a veg thali for dinner but it seemed like some meat absolutely horrible",
+      "This Hotel is very bad service I am standing outside the hotel and Hotel deny to check-in due to some misunderstanding with MakeMyTrip.",
+      "It's an okay okay stay not so luxurious."
+    ]
+  },
+  "review_summary": "Based on 5 reviews.",
+  "positive_themes": {
+    "friendly_staff": 3,
+    "good_food": 2,
+    "clean_rooms": 1,
+    "good_location": 1
+  },
+  "negative_themes": {
+    "rude_staff": 1
+  }
+}

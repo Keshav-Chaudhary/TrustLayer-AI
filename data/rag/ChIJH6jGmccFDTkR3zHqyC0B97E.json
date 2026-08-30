@@ -1,0 +1,47 @@
+{
+  "hotel_id": "ChIJH6jGmccFDTkR3zHqyC0B97E",
+  "hotel_name": "Hotel O Star View Hotel Near Dwarka Mor Metro Station",
+  "area": "Dwarka",
+  "budget_category": "Mid-Range",
+  "rating": 2.6,
+  "trust_score": 0.271132095990852,
+  "travel_purpose_tags": [
+    "Budget"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "moderate",
+    "review_count": 5,
+    "positive_snippet_count": 0,
+    "negative_snippet_count": 3,
+    "positive_theme_count": 2,
+    "negative_theme_count": 1
+  },
+  "aspect_scores": {
+    "cleanliness": 0.0002424433332635,
+    "service": 0.0001923461386468,
+    "location": 0.5,
+    "value_for_money": 0.0002424433332635,
+    "staff_behavior": 0.0002424433332635
+  },
+  "recommendation_features": {
+    "popularity_score": 0.3386222175183568,
+    "rating_score": 2.6,
+    "sentiment_score": 0.0008135501208016
+  },
+  "review_evidence": {
+    "positive_snippets": [],
+    "negative_snippets": [
+      "Worst hotel, furniture in pathetic condition, dirty bedsheet,no cleanliness ,staff behaviour is too rood, they demanding for more money for such kind of room\n\nWorst experience i will never book any hotel from oyo \ud83e\udd2f\ud83e\udd2f\ud83e\udd2f",
+      "Worst oyo ever......I booked it for my parents, they suffered a lot... Worst room service...... Worst room interior..broken furnitures, no dustbins.....\n.faked reviews on oyo app.....never book this oyo rooms ever......",
+      "Bad experience with this hotel becouse they looting  peoples ine name of AC and other facilities all facilities in this hotel are fake don't book this hotel \ud83d\udc4e\ud83d\udc4e\ud83d\udc4e"
+    ]
+  },
+  "review_summary": "Based on 5 reviews.",
+  "positive_themes": {
+    "clean_rooms": 1,
+    "friendly_staff": 1
+  },
+  "negative_themes": {
+    "dirty_rooms": 1
+  }
+}

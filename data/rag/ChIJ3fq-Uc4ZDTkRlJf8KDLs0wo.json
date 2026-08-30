@@ -1,0 +1,52 @@
+{
+  "hotel_id": "ChIJ3fq-Uc4ZDTkRlJf8KDLs0wo",
+  "hotel_name": "Fabhotel Golf Inn - Hotel In Sector 43, Gurgaon",
+  "area": "Sector 43",
+  "budget_category": "Budget",
+  "rating": 4.5,
+  "trust_score": 0.754828324948028,
+  "travel_purpose_tags": [
+    "Budget"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "rich",
+    "review_count": 5,
+    "positive_snippet_count": 3,
+    "negative_snippet_count": 2,
+    "positive_theme_count": 3,
+    "negative_theme_count": 2
+  },
+  "aspect_scores": {
+    "cleanliness": 0.7499723693472333,
+    "service": 0.5,
+    "location": 0.5,
+    "value_for_money": 0.5,
+    "staff_behavior": 0.7501286979531869
+  },
+  "recommendation_features": {
+    "popularity_score": 0.5258619587925035,
+    "rating_score": 4.5,
+    "sentiment_score": 0.6004064620938152
+  },
+  "review_evidence": {
+    "positive_snippets": [
+      "Staying here was such a delightful experience! The moment I stepped in, I felt the warm and welcoming vibe of the hotel. The staff were incredibly courteous and always ready to help with a smile.\n\nThe room was modern, comfortable, and perfectly clean, making it feel like a home away from home. I especially enjoyed the little thoughtful touches that made the stay extra special.\n\nBreakfast was amazing with plenty of choices, and the overall atmosphere of the hotel was peaceful and relaxing. Everything was handled with such professionalism and care that it truly exceeded my expectations.\n\nA perfect place to stay \u2014 I would happily recommend this hotel to anyone visiting the city!",
+      "Hotel and staff is really good, the interior and cleanliness is commendable. Only one suggestion in the washroom they should have anti skid matt on floor as it becomes slippery while using shampoo. Breakfast was a great healthy spread",
+      "\u201cMy stay here was beyond expectations. From the moment I arrived, I felt welcomed with genuine hospitality. The rooms were modern, spotless, and very comfortable. What impressed me most was the attention to detail \u2013 every little thing was thoughtfully taken care of. The staff went out of their way to make my stay special, and the food was simply delightful. This hotel doesn\u2019t just provide accommodation, it creates an experience. I\u2019ll definitely be returning and highly recommend it to anyone.\u201d"
+    ],
+    "negative_snippets": [
+      "We made a booking through MMT where we saw positive reviews and pictures, but those were not true in reality, This is not a hotel or guest house; it's some individual's house, which is a dirty and unmanaged house. There was no signage as mentioned in the hotel pictures. No lift, and rooms are stinky, bedsheets were torn and dirty. The washrooms were super dirty, all these positive reviews and ratings seem like given by the owner of this house or his relatives. Please do not book this if you are planning to stay with your family, even if you are a solo traveller.  i have attached pictures and videos so that all can see the reality of this so-called hotel.",
+      "One of my friend stay there and he forgot something but when he ask again they were very rude and not ready to coperate with them. I am not gonna book again this property and advise you the same"
+    ]
+  },
+  "review_summary": "Based on 5 reviews.",
+  "positive_themes": {
+    "clean_rooms": 3,
+    "friendly_staff": 3,
+    "good_food": 3
+  },
+  "negative_themes": {
+    "dirty_rooms": 1,
+    "rude_staff": 1
+  }
+}

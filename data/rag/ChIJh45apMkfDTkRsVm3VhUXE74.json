@@ -1,0 +1,50 @@
+{
+  "hotel_id": "ChIJh45apMkfDTkRsVm3VhUXE74",
+  "hotel_name": "Opulent Hotel By Ferns N Petals",
+  "area": "Chhatarpur",
+  "budget_category": "Mid-Range",
+  "rating": 4.5,
+  "trust_score": 0.9289700522817016,
+  "travel_purpose_tags": [
+    "Leisure",
+    "Business"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "moderate",
+    "review_count": 5,
+    "positive_snippet_count": 3,
+    "negative_snippet_count": 0,
+    "positive_theme_count": 4,
+    "negative_theme_count": 1
+  },
+  "aspect_scores": {
+    "cleanliness": 0.9997393488883972,
+    "service": 0.9990196228027344,
+    "location": 0.9998633861541748,
+    "value_for_money": 0.5,
+    "staff_behavior": 0.9997677803039552
+  },
+  "recommendation_features": {
+    "popularity_score": 0.7459914321093729,
+    "rating_score": 4.5,
+    "sentiment_score": 0.9994792103767396
+  },
+  "review_evidence": {
+    "positive_snippets": [
+      "We recently hosted our engagement ceremony here and had a wonderful experience. The food was very good and the quality of service throughout the event was excellent. The location is very convenient and the parking made it easy for all our guests.\n\nA special thanks to our coordinator Mr Raghuvir Ji, who was extremely hands-on and ensured all our requirements, including some last-minute changes, were taken care of smoothly. Truly appreciate the support from the entire team in making our special day memorable.",
+      "Vivek and Arvind were exceptional hosts. Rooms were very clean. Food is just very tasty, you should try yourself before booking once. Also, I literally called housekeeping 20 times in my stay, and Suraj attended to all my calls. Neha took care that the events happened on time, and Rahul ensured that decoration was immaculate. Shivam was extremely welcoming and polite.",
+      "I had my 25th Silver Jubliee Marraige Anniversary yesterday 19-01-2025, Orchid Hall, Opulent, Chattarpur, New Delhi. I am extremently satisfied with the hospitality and services along with the attention by the crew at the party, was great. They serve us with an great ambinece, great food. Mr. Raghubir, Sonu and his team with Chef, all were always their wtih smile and serving attitute, and taken care of every single thing, which made our event a successful event. We are as a host, were enjoy with our family and friends, while there was nothing short to complain. Over all 10 on 10 marks for the crew and their team. Thank you."
+    ],
+    "negative_snippets": []
+  },
+  "review_summary": "Based on 5 reviews.",
+  "positive_themes": {
+    "good_location": 1,
+    "good_food": 3,
+    "clean_rooms": 1,
+    "friendly_staff": 2
+  },
+  "negative_themes": {
+    "parking_issues": 1
+  }
+}

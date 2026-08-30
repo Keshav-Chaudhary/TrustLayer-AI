@@ -1,0 +1,51 @@
+{
+  "hotel_id": "ChIJa8DmBlkZDTkRmCx2X4Z5BuU",
+  "hotel_name": "Kohsa7",
+  "area": "Sector 14",
+  "budget_category": "Mid-Range",
+  "rating": 4.3,
+  "trust_score": 0.7980274879328703,
+  "travel_purpose_tags": [
+    "Leisure",
+    "Family"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "moderate",
+    "review_count": 5,
+    "positive_snippet_count": 3,
+    "negative_snippet_count": 1,
+    "positive_theme_count": 5,
+    "negative_theme_count": 0
+  },
+  "aspect_scores": {
+    "cleanliness": 0.9995269775390624,
+    "service": 0.4964186892757425,
+    "location": 0.9961073994636536,
+    "value_for_money": 0.9997852444648744,
+    "staff_behavior": 0.0002456398506183
+  },
+  "recommendation_features": {
+    "popularity_score": 0.5570435128902238,
+    "rating_score": 4.3,
+    "sentiment_score": 0.7983545321563724
+  },
+  "review_evidence": {
+    "positive_snippets": [
+      "The room was neat, well-maintained, and comfortable, suitable for a work stay. Housekeeping standards were good, and the basic amenities were provided as expected. Food quality was good. Overall, Kohsa7 offers good value for money and is a reliable option for professionals visiting Gurugram for work. I would recommend it short & medium stays.",
+      "The stay was good, but the rooms are very small. If you are someone with lots of luggage or a family, it is going to be a problem handling everything. And the rooms don\u2019t have any view, its just a plain wall from the window. Otherwise, the service was good and it is a decent stay.",
+      "Room are Clean and Good. They have double bed room is very compact size and twin bed rooms are bit large size."
+    ],
+    "negative_snippets": [
+      "I tried calling this hotel 5/6 times over three days to book a room for my father. Each time, someone answered the call and I clearly explained that I wanted to make a booking.\n\nHowever, everytime they said my voice wasn\u2019t clear and told me they would call me back, but they never did. Instead I had to keep calling again and repeating the same thing.\n\nThis was extremely frustrating and a complete waste of time. I\u2019m not sure if the management is aware of how poorly the booking calls are being handled, but if you are serious about running this business, please make sure the staff on the booking side is responsive and respectful of customers time."
+    ]
+  },
+  "review_summary": "Based on 5 reviews.",
+  "positive_themes": {
+    "clean_rooms": 2,
+    "great_value": 1,
+    "good_food": 2,
+    "good_location": 1,
+    "friendly_staff": 1
+  },
+  "negative_themes": {}
+}

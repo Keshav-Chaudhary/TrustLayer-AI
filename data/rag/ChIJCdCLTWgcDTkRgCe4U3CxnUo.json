@@ -1,0 +1,46 @@
+{
+  "hotel_id": "ChIJCdCLTWgcDTkRgCe4U3CxnUo",
+  "hotel_name": "Pullman New Delhi Aerocity",
+  "area": "Aerocity",
+  "budget_category": "Mid-Range",
+  "rating": 4.7,
+  "trust_score": 1.0,
+  "travel_purpose_tags": [
+    "Business"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "moderate",
+    "review_count": 5,
+    "positive_snippet_count": 3,
+    "negative_snippet_count": 0,
+    "positive_theme_count": 3,
+    "negative_theme_count": 0
+  },
+  "aspect_scores": {
+    "cleanliness": 0.9998672604560852,
+    "service": 0.9998542070388794,
+    "location": 0.5,
+    "value_for_money": 0.5,
+    "staff_behavior": 0.9998363455136616
+  },
+  "recommendation_features": {
+    "popularity_score": 0.9543890743405828,
+    "rating_score": 4.7,
+    "sentiment_score": 0.9998487114906311
+  },
+  "review_evidence": {
+    "positive_snippets": [
+      "I stayed at Pullman Aerocity for a short getaway from the city and was impressed from the moment I arrived. The security team was extremely friendly and professional, and it was quite a pleasant surprise to see a very cute sniffer dog checking every vehicle entering the premises.\n\nThe hotel interior and room fittings were modern and stylish, living up to my high expectations as a Diamond member. Everything felt well-maintained and thoughtfully designed.\n\nI did experience some inconvenience due to ongoing renovation works during my stay. However, Duty Manager Harsh Dhiman handled the situation promptly and professionally, providing an appropriate and satisfactory resolution.\n\nOverall, it\u2019s a nice, modern hotel. Unfortunately, I didn\u2019t have the opportunity to enjoy the facilities this time, but I would definitely return again soon.",
+      "My experience with business rooms for 2 days has been incredible. Nayan from day 1 has been extremely helpful from start to end the staff was very supportive, Rhea made sure everything is catered to. The buffet is extraordinary, the entire layout was delicious. Very curious staff, Shikha at the restaurant was extremely warm. Overall incredible,  looking forward to host more such.",
+      "I had an amazing stay at Pullman  hotel. The staff were exceptional\u2014always respectful, kind, and ready to help with anything I needed. Their warm hospitality truly made the experience special.\nThe hotel itself is absolutely beautiful, with stunning surroundings and a peaceful, welcoming atmosphere, the rooms are spacious and well maintained, the bed is comfortable and the room feels fresh. Thank you to the whole staff ."
+    ],
+    "negative_snippets": []
+  },
+  "review_summary": "Based on 5 reviews.",
+  "positive_themes": {
+    "friendly_staff": 4,
+    "good_food": 1,
+    "clean_rooms": 2
+  },
+  "negative_themes": {}
+}

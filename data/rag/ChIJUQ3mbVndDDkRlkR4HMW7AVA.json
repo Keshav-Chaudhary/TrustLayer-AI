@@ -1,0 +1,48 @@
+{
+  "hotel_id": "ChIJUQ3mbVndDDkRlkR4HMW7AVA",
+  "hotel_name": "Hotel Mayur",
+  "area": "Sector 86",
+  "budget_category": "Mid-Range",
+  "rating": 4.3,
+  "trust_score": 0.8394160229667241,
+  "travel_purpose_tags": [
+    "Business",
+    "Family"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "moderate",
+    "review_count": 5,
+    "positive_snippet_count": 3,
+    "negative_snippet_count": 0,
+    "positive_theme_count": 4,
+    "negative_theme_count": 0
+  },
+  "aspect_scores": {
+    "cleanliness": 0.9997857809066772,
+    "service": 0.9997847080230712,
+    "location": 0.5,
+    "value_for_money": 0.9997416138648988,
+    "staff_behavior": 0.9997995734214784
+  },
+  "recommendation_features": {
+    "popularity_score": 0.4494668257487076,
+    "rating_score": 4.3,
+    "sentiment_score": 0.9997995734214784
+  },
+  "review_evidence": {
+    "positive_snippets": [
+      "The stay was absolutely wonderful! The hotel exceeded all my expectations.\nA perfect blend of comfort and luxury-I would highly recommend this place.\nThe staff was incredibly friendly and attentive,making us feel right at home.\nExceptional service! Everyone went out of their way to ensure we had a great stay.\nThe food was! oh my god! It was delicious\ud83d\ude0b.everyone should try there food,especially home made chicken and the kebab.\nand The breakfast amazing with a wide variety of options to choose from love \u2764\ufe0fthankyou so much",
+      "Mayur hotel one of the amazing property i have ever seen in faridabad\nAmazing staff, polite bhehaviour of staff\nAmazing food\nCouple friendly.\nWell maintained, clean and hygenic rooms.\nSpecial thanks to Mr. Sanjay the owner of the property who made our day.\nHazzel free checkin.\nBest in class",
+      "I am stay there with family and so comfortable room and clean food so tasty good behaviour staff and service"
+    ],
+    "negative_snippets": []
+  },
+  "review_summary": "Based on 5 reviews.",
+  "positive_themes": {
+    "friendly_staff": 5,
+    "good_food": 4,
+    "clean_rooms": 4,
+    "great_value": 1
+  },
+  "negative_themes": {}
+}

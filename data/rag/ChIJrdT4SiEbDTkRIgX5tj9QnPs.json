@@ -1,0 +1,50 @@
+{
+  "hotel_id": "ChIJrdT4SiEbDTkRIgX5tj9QnPs",
+  "hotel_name": "Hotel O Lime Tree",
+  "area": "Dwarka",
+  "budget_category": "Mid-Range",
+  "rating": 4.3,
+  "trust_score": 0.5617752318580593,
+  "travel_purpose_tags": [
+    "Budget"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "moderate",
+    "review_count": 5,
+    "positive_snippet_count": 1,
+    "negative_snippet_count": 3,
+    "positive_theme_count": 2,
+    "negative_theme_count": 2
+  },
+  "aspect_scores": {
+    "cleanliness": 0.3335223932566198,
+    "service": 0.0006615748279727,
+    "location": 0.5,
+    "value_for_money": 0.0006615748279727,
+    "staff_behavior": 0.0006615748279727
+  },
+  "recommendation_features": {
+    "popularity_score": 0.3433971007311961,
+    "rating_score": 4.3,
+    "sentiment_score": 0.2002819640270899
+  },
+  "review_evidence": {
+    "positive_snippets": [
+      "Clean and hygienic. Well maintained rooms. Staffa are very cooperative and well mannered."
+    ],
+    "negative_snippets": [
+      "I booked 3 rooms for 3 nights.. all over experience was very bad .\nThey are totally unprofessional they don\u2019t have water bottles .\nNo soap & towels in rooms .\nRooms are very dirty and in bad condition.\n\nAfter asking many time they provide us towel with was totally wet dirty and teared.",
+      "Booked this hotel through OYO, but after reaching the property the management clearly stated that they had stopped accepting OYO bookings over a year ago. This was never mentioned on the platform and caused a lot of inconvenience.\n\nSince I urgently needed a room, I had no choice but to book offline directly at the hotel. The price quoted was 2k, whereas on OYO the same room was shown for around Rs.900+. When I asked if I could book online with he registered platform, the manager refused, which made it evident that the intention was to charge a higher amount offline.\n\nAdditionally, OYO has not processed my refund even after the cancellation.\n\nMy advice:\n\nPlease do not book here without checking live photos or videos of the rooms.\n\nAvoid relying on OYO for family or business trips, as there is no proper accountability or support.",
+      "Worst worst experience.. we checkin and checkout in 5 mins.. no refund.. Don't book via OYO.. they won't refund the amount. Photos are fake. Room is really ugly."
+    ]
+  },
+  "review_summary": "Based on 5 reviews.",
+  "positive_themes": {
+    "clean_rooms": 2,
+    "friendly_staff": 1
+  },
+  "negative_themes": {
+    "dirty_rooms": 1,
+    "rude_staff": 1
+  }
+}

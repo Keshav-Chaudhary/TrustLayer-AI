@@ -1,0 +1,51 @@
+{
+  "hotel_id": "ChIJCbfAqZ4CDTkRXDM5WL-Z6nc",
+  "hotel_name": "Hotel Radiance",
+  "area": "Karol Bagh",
+  "budget_category": "Mid-Range",
+  "rating": 3.7,
+  "trust_score": 0.6907395963265194,
+  "travel_purpose_tags": [
+    "Leisure"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "rich",
+    "review_count": 5,
+    "positive_snippet_count": 3,
+    "negative_snippet_count": 2,
+    "positive_theme_count": 3,
+    "negative_theme_count": 1
+  },
+  "aspect_scores": {
+    "cleanliness": 0.2820902875973843,
+    "service": 0.0003515108255669,
+    "location": 0.9997706413269042,
+    "value_for_money": 0.5,
+    "staff_behavior": 0.9997706413269042
+  },
+  "recommendation_features": {
+    "popularity_score": 0.5561008231776977,
+    "rating_score": 3.7,
+    "sentiment_score": 0.7127023502951488
+  },
+  "review_evidence": {
+    "positive_snippets": [
+      "Best hotel in Karol bagh nearby location is very nice\nEasy convience for everything.\nGood staff\nBest for tourist nd business travellers",
+      "The secure and safe environment of this hotel will good. I have recommended that others visit once, and  they will never regret it.",
+      "great experience\nGood rooms with tasty food Friendly staff\nExcellent location....\nOwner mr sanjeev has very good nature."
+    ],
+    "negative_snippets": [
+      "Rooms were dusty and dirty bedsheets ,very bad experience and did not let us out of the hotel when we complained. Disrespectful towards guests especially ladies, no kitchen facilities not even tea and coffee. Would not recommend to anyone.",
+      "It was a very, very poor service. The bathroom, toilet, and room were extremely dirty and unhygienic. The closet flush wasn\u2019t working, and even though I complained about it at the reception, nothing was done. They said they would change the room but never did. Since I had already paid in cash and had no other option, I had to stay there \u2014 honestly, I felt completely stuck. The room was so bad that I couldn\u2019t even eat food there; it made me feel like vomiting. I have never given a review \u2014 good or bad \u2014 for any hotel before, but I just can\u2019t stay silent about this one. I\u2019m writing this so that no one else gets trapped like I did."
+    ]
+  },
+  "review_summary": "Based on 5 reviews.",
+  "positive_themes": {
+    "friendly_staff": 2,
+    "good_location": 2,
+    "good_food": 2
+  },
+  "negative_themes": {
+    "dirty_rooms": 2
+  }
+}

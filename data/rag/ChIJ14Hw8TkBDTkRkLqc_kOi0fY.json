@@ -1,0 +1,52 @@
+{
+  "hotel_id": "ChIJ14Hw8TkBDTkRkLqc_kOi0fY",
+  "hotel_name": "Fabhotel The Chaitanyas - Hotel In Rohini, New Delhi",
+  "area": "New Delhi",
+  "budget_category": "Mid-Range",
+  "rating": 3.8,
+  "trust_score": 0.5911411704824391,
+  "travel_purpose_tags": [
+    "Budget"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "moderate",
+    "review_count": 5,
+    "positive_snippet_count": 2,
+    "negative_snippet_count": 3,
+    "positive_theme_count": 4,
+    "negative_theme_count": 1
+  },
+  "aspect_scores": {
+    "cleanliness": 0.5,
+    "service": 0.5000503422852489,
+    "location": 0.0002241853944724,
+    "value_for_money": 0.999259889125824,
+    "staff_behavior": 0.499952563073748
+  },
+  "recommendation_features": {
+    "popularity_score": 0.4941456504250233,
+    "rating_score": 3.8,
+    "sentiment_score": 0.4001601709198439
+  },
+  "review_evidence": {
+    "positive_snippets": [
+      "Nice staff behaviour, well maintained room\nHighly recommended for stay under budget",
+      "It was quite nice and great hotel    staff and service also nice ."
+    ],
+    "negative_snippets": [
+      "We checked out immediately seeing the rooms. Very very unclean and people have spit inside the rooms. Its complete disgusting",
+      "The Chaitanya hotel rooms are good better not furnished well. Lacks in many basic facilities.Bathrooms were not good with leaking hand shower, broken toilet covers. No chairs and poor lighting. However, manager tried to help me with change in rooms. Food was worse and kitchen staff needs to be trained to entertain guests.\nOverall not a good experience",
+      "Our recent stay at THE FAB CHAITANYAS HOTEL was unfortunately one of the most disappointing hotel experiences we\u2019ve encountered. From the moment we arrived, it was clear that the service and standards fell far short of what any traveler should expect.\n\nThe check-in process was disorganized and unwelcoming, with staff appearing indifferent and unprepared. The room itself was in poor condition\u2014unclean surfaces, malfunctioning amenities, and a general lack of maintenance made for an uncomfortable stay. What was advertised online did not match the reality at all.\n\nCustomer service was nearly non-existent. We raised several concerns during our stay, but they were either dismissed or met with indifference. At no point did we feel heard or cared for as guests.The beds in the room were completely broken, the food quality was subpar, and it was clear that no proper maintenance was being carried out.\n\nBased on our experience, we would not recommend this hotel to anyone."
+    ]
+  },
+  "review_summary": "Based on 5 reviews.",
+  "positive_themes": {
+    "friendly_staff": 4,
+    "clean_rooms": 2,
+    "good_food": 2,
+    "good_location": 1
+  },
+  "negative_themes": {
+    "dirty_rooms": 2
+  }
+}

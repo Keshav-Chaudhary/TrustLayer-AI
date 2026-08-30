@@ -1,0 +1,54 @@
+{
+  "hotel_id": "ChIJLfHmQTf9DDkRvr36v6n2Heg",
+  "hotel_name": "Hotel Jukaso Down Town",
+  "area": "Connaught Circus",
+  "budget_category": "Mid-Range",
+  "rating": 3.4,
+  "trust_score": 0.6321587830509853,
+  "travel_purpose_tags": [
+    "Leisure"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "rich",
+    "review_count": 5,
+    "positive_snippet_count": 3,
+    "negative_snippet_count": 2,
+    "positive_theme_count": 5,
+    "negative_theme_count": 2
+  },
+  "aspect_scores": {
+    "cleanliness": 0.4999050663172966,
+    "service": 0.7494969152539852,
+    "location": 0.7509449165081605,
+    "value_for_money": 0.9994311928749084,
+    "staff_behavior": 0.5011818532293546
+  },
+  "recommendation_features": {
+    "popularity_score": 0.6359852838587798,
+    "rating_score": 3.4,
+    "sentiment_score": 0.6008317211584654
+  },
+  "review_evidence": {
+    "positive_snippets": [
+      "The services provided by reception, House keeping and room service were outstanding.I have not seen such a good staff. Will surely come again to Jukaso Inn if we come to Delhi again. Transport is easily accessible. Everything is at a walking distance. Above and all the staff is outstanding and provided quality fast service. Well Done! And yes the breakfast is well balanced. Thank you! I have given 5 star for rooms in contrast to other reviews. Their outstanding service has compensated for small rooms. And they cannot do anything as it is a Heritage Building. They can offer only what they have. So no complaint on this issue.",
+      "I stayed for 3 days had a wonderful stay.service was good staff was very polite and supportive.hotel location is excellent close to all prime visiting places in city.\n*only one drawback they do not have a lift.\nOverall stay was comfortable we booked for 2 days then we extened one more day",
+      "I stayed here for 2 days and it was definitely a worthwhile stay. The rooms were clean and neat, service was good, and the interior and staircase designs looked great. Toilets were very clean, though one small discomfort was that there was no ventilation fan. Also, the hotel does not have a lift, so carrying luggage upstairs can be a little inconvenient.\n\nThe location is excellent \u2013 close to India Gate, in a rich area surrounded by big brand hotels and shops. I also tried the buffet breakfast (\u20b9350 per person) which had a good variety of food.\n\nOverall, it\u2019s a comfortable and convenient stay with good value for money."
+    ],
+    "negative_snippets": [
+      "The location in Connaught Place is convenient, and the manager ultimately ensured I received a refund related to a third-party travel agent dispute.\n\nHowever, during check-in I was introduced to an external \u201cTourist Information Centre\u201d agent operating through or near the hotel. This led to a misrepresented tour booking and a serious refund dispute offsite involving verbal intimidation.\n\nAfter this incident, multiple individuals outside the hotel appeared to know about my dispute, which made me concerned about privacy and safety. On my final day, I was anxious about leaving my luggage at the property and worried my belongings or passport might be withheld.\n\nWhile the manager eventually assisted in resolving the financial issue, I strongly recommend that the hotel reconsider allowing third-party travel agents to solicit guests, as this situation significantly impacted my sense of safety as an international traveler.",
+      "I recently stayed at the Jukaso Down Town hotel with my parents, and unfortunately, the experience was profoundly disappointing, bordering on unacceptable.\n\ud83d\udecf\ufe0f Room Quality and Condition\nThe room we were assigned was located in an area that appeared to be tucked under a staircase. The most immediate issue was the extremely low ceiling height, which I estimate was not even six feet. This unconventional and restrictive design made the room feel incredibly cramped and claustrophobic.\nPervasive Foul Odor: The entire room smelled distinctly like a bathroom, suggesting severe plumbing or ventilation issues.\nDamp and Unpleasant: The room was also noticeably damp, which contributed further to a musty, unpleasant atmosphere.\nDamaged Furniture: The furniture was in a state of disrepair, with several items appearing broken or heavily worn.\nOverall Atmosphere: The combination of low ceilings, dampness, the foul smell, and poor furnishings gave the space a deeply negative ambiance, reminiscent of a cell rather than a comfortable hotel room. The \"heritage\" feeling was present only in the sense of brilliant neglect.\n\ud83e\uddd1\u200d\ud83d\udcbc Staff and Service\nThe staff interaction was equally frustrating. The receptionist was notably rude and displayed a general lack of professionalism and courtesy. There was a palpable sense that the hotel management and staff were indifferent to the quality of our stay and the concerns we raised.\n\ud83c\udf1f Conclusion\nI would strongly caution prospective guests against choosing Jukaso Down Town. The poor condition of the accommodation\u2014particularly the uniquely low-ceilinged room, the pervasive foul odor, and the state of the furnishings\u2014coupled with the unhelpful and rude staff, made for a highly negative and uncomfortable stay."
+    ]
+  },
+  "review_summary": "Based on 5 reviews.",
+  "positive_themes": {
+    "friendly_staff": 3,
+    "good_food": 2,
+    "good_location": 3,
+    "clean_rooms": 1,
+    "great_value": 1
+  },
+  "negative_themes": {
+    "dirty_rooms": 1,
+    "rude_staff": 1
+  }
+}

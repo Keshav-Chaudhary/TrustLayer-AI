@@ -1,0 +1,51 @@
+{
+  "hotel_id": "ChIJ0_y8CMkaDTkRQfaV0zBk2QE",
+  "hotel_name": "Hotel Shhaurya",
+  "area": "New Delhi",
+  "budget_category": "Mid-Range",
+  "rating": 4.0,
+  "trust_score": 0.7097091067380761,
+  "travel_purpose_tags": [
+    "Leisure"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "rich",
+    "review_count": 5,
+    "positive_snippet_count": 3,
+    "negative_snippet_count": 2,
+    "positive_theme_count": 3,
+    "negative_theme_count": 1
+  },
+  "aspect_scores": {
+    "cleanliness": 0.5000878954451764,
+    "service": 0.5020834854803978,
+    "location": 0.9997566938400269,
+    "value_for_money": 0.9404154419898988,
+    "staff_behavior": 0.9997275471687316
+  },
+  "recommendation_features": {
+    "popularity_score": 0.6434132677461541,
+    "rating_score": 4.0,
+    "sentiment_score": 0.5889516407682095
+  },
+  "review_evidence": {
+    "positive_snippets": [
+      "I booked Shhaurya for my wedding guests. The venue was nearby.\nThe location is absolutely supreme with Iskcon and Vegas mall so nearby.\nThe service was great - Anil ji at front desk was very prompt in getting this arranged. Manager Dr. Mishra ji was very cooperative and got everything done smoothly.\nThe food was very homely - just like i wanted. The rates as per Delhi were very reasonable for both stay and food.\nOverall I would absolutely recommend this place.",
+      "Good hotel right on the main road. Neat rooms, decent breakfast. The location of the hotel is good, neat and clean frontage. Take the rooms on the right side or front for good natural light",
+      "Nice hotel. I felt cost is bit high."
+    ],
+    "negative_snippets": [
+      "Never stay in this hotel. Please pick another hotel.\n\nMosquitoes bit my family all night , the rooms were not clean. It was a terrible experience.",
+      "We have been there years back. We hosted a new year party with family. There was a per plate system. They had organised for DJ and floor, food including snacks. It was spacious but there was no license to drink. So we had to manage our own. Food was average. Service was average too. Parking is an issue since you need to park on the road side."
+    ]
+  },
+  "review_summary": "Based on 5 reviews.",
+  "positive_themes": {
+    "good_location": 2,
+    "good_food": 3,
+    "clean_rooms": 2
+  },
+  "negative_themes": {
+    "parking_issues": 1
+  }
+}

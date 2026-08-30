@@ -1,0 +1,50 @@
+{
+  "hotel_id": "ChIJI2ZTnA0dDTkRcXxM3eh-bRw",
+  "hotel_name": "Hotel Aerocity Purple Orchid",
+  "area": "Rangpuri",
+  "budget_category": "Mid-Range",
+  "rating": 4.3,
+  "trust_score": 0.8741024119306121,
+  "travel_purpose_tags": [
+    "Leisure",
+    "Business",
+    "Family"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "moderate",
+    "review_count": 5,
+    "positive_snippet_count": 3,
+    "negative_snippet_count": 0,
+    "positive_theme_count": 5,
+    "negative_theme_count": 0
+  },
+  "aspect_scores": {
+    "cleanliness": 0.9997559189796448,
+    "service": 0.9997559189796448,
+    "location": 0.9992919365564982,
+    "value_for_money": 0.9992679953575134,
+    "staff_behavior": 0.9994096010923386
+  },
+  "recommendation_features": {
+    "popularity_score": 0.6131054916074318,
+    "rating_score": 4.3,
+    "sentiment_score": 0.999427330493927
+  },
+  "review_evidence": {
+    "positive_snippets": [
+      "This is my second stay here at Hotel Delhi Aerocity. Both the time I had an amazing experience. A hotel with great tranquility around.. especially the food. The breakfast, we had was well cooked, nutritious and tasty. The rooms were cleans the bathrooms were hygienic the bed was extremely comfortable. The hotel is famous for its sophisticated environment and staff, to be specific Pankaj among them was the most helpful and helped us a lot throughout our stay. HDA is hotel worth staying at. If you're looking for a hotel with good price and serenity around, go for it.",
+      "It is such a pleasure to be outside home but be home in a place which feels warm and cozy and near to airport! The breakfast was very good and even improved from last time after my review to them. They had good variety. Also Pankaj serviced us the best at breakfast area and provived all that we required. The staff is very warm ,especially Amit and other people I interacted with. I camw with my German husband and enjoyed it very much here. Also tge chili chicken and aloo gobi especially!!! Thank you once again \ud83e\udd70",
+      "Good hotel for a stay 1 or 2 days. The stuff is pretty well. Also western people (EU) can come here and they will feel well.\n\nThe hotels rooms look like on the pictures and the water is pretty warm. ( it\u2019s not always like this) they have heater and ok food. Food can be better but still ok.\n\nI would come here again. And for the area it\u2019s pretty silent.\n\nWas. A nice trip"
+    ],
+    "negative_snippets": []
+  },
+  "review_summary": "Based on 5 reviews.",
+  "positive_themes": {
+    "clean_rooms": 2,
+    "friendly_staff": 4,
+    "great_value": 1,
+    "good_food": 5,
+    "good_location": 3
+  },
+  "negative_themes": {}
+}

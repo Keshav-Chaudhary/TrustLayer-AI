@@ -1,0 +1,49 @@
+{
+  "hotel_id": "ChIJ_XGJiqsVDTkRsDGzPDq1p6Q",
+  "hotel_name": "Super Hotel O By Oyo Sgt University Road Formerly Budhera",
+  "area": "Budhera",
+  "budget_category": "Budget",
+  "rating": 4.8,
+  "trust_score": 0.8323541302675059,
+  "travel_purpose_tags": [
+    "Leisure"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "moderate",
+    "review_count": 5,
+    "positive_snippet_count": 3,
+    "negative_snippet_count": 1,
+    "positive_theme_count": 4,
+    "negative_theme_count": 0
+  },
+  "aspect_scores": {
+    "cleanliness": 0.0031490030232816,
+    "service": 0.0031490030232816,
+    "location": 0.9994999170303344,
+    "value_for_money": 0.0031490030232816,
+    "staff_behavior": 0.5015095324488357
+  },
+  "recommendation_features": {
+    "popularity_score": 0.4090784526293611,
+    "rating_score": 4.8,
+    "sentiment_score": 0.7962571919430047
+  },
+  "review_evidence": {
+    "positive_snippets": [
+      "Super hotel with perfect rooms and staff",
+      "Nice hotel for stay with family and friends near sector 102 gurgaon.\n\nAc luxury room avilable near SGT university Budhera. Room in dankot .",
+      "Good place for staying"
+    ],
+    "negative_snippets": [
+      "Not worth it as it's a new hotel with 0 facilities.\nNo soap no paper no staff to clean the rooms. We ourselves did the swiping as we had toddlers with us.\nNo mirror no cupboard.\nIt's just a typical OYO room so do not expect much when u book.\nThe only boy at reception was nice otherwise this room is just for 2-4 hour visit."
+    ]
+  },
+  "review_summary": "Based on 5 reviews.",
+  "positive_themes": {
+    "friendly_staff": 2,
+    "good_location": 1,
+    "clean_rooms": 1,
+    "great_value": 1
+  },
+  "negative_themes": {}
+}

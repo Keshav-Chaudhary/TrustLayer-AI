@@ -1,0 +1,50 @@
+{
+  "hotel_id": "ChIJnzfZxyH9DDkRB58ZTRYEcpA",
+  "hotel_name": "Hotel O By Oyo Heaven Stay",
+  "area": "Metro",
+  "budget_category": "Budget",
+  "rating": 3.0,
+  "trust_score": 0.4819969203412365,
+  "travel_purpose_tags": [
+    "Business"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "rich",
+    "review_count": 5,
+    "positive_snippet_count": 3,
+    "negative_snippet_count": 2,
+    "positive_theme_count": 2,
+    "negative_theme_count": 1
+  },
+  "aspect_scores": {
+    "cleanliness": 0.5,
+    "service": 0.9989443421363832,
+    "location": 0.5000659907818772,
+    "value_for_money": 0.0014035224448889,
+    "staff_behavior": 0.9989443421363832
+  },
+  "recommendation_features": {
+    "popularity_score": 0.1811444130340956,
+    "rating_score": 3.0,
+    "sentiment_score": 0.6000618276884779
+  },
+  "review_evidence": {
+    "positive_snippets": [
+      "Metro station opposite\nMarket opposite\nBest room very very nice\nNice location GTV Nagar",
+      "Best room\nBest service\nBest staff",
+      "Very nice room, had a great experience, great room from GTB Nagar"
+    ],
+    "negative_snippets": [
+      "They are looting their customer by charging extra money. Don't believe in OYO price they demand for cash payment, if you booked through OYO app owner will rudely talk to you.",
+      "Never book hotel near GTB metro station.\nI booked this hotel room through OYO app but they rudely denied my booking telling me to cancel and pay by cash 3x the amount shown on app and other website.\nAll other reviews are fake. There is nothing nice about this hotel.\nAt the end I have to cancel my booking at check-in time and no amount is refunded.\nI don't know why OYO is listing this type of hotel.\nIt has created such a inconvenience to me I have to roam on street for 1 hour to find another hotel near metro station and they are also charging high amount nearly 3X as shown on internet or any app."
+    ]
+  },
+  "review_summary": "Based on 5 reviews.",
+  "positive_themes": {
+    "good_location": 2,
+    "friendly_staff": 1
+  },
+  "negative_themes": {
+    "rude_staff": 2
+  }
+}

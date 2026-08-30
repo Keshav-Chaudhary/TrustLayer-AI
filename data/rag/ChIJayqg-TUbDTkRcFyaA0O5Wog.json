@@ -1,0 +1,51 @@
+{
+  "hotel_id": "ChIJayqg-TUbDTkRcFyaA0O5Wog",
+  "hotel_name": "Fabhotel Sparkling",
+  "area": "New Delhi",
+  "budget_category": "Mid-Range",
+  "rating": 4.1,
+  "trust_score": 0.7420998610436597,
+  "travel_purpose_tags": [
+    "Business",
+    "Family"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "rich",
+    "review_count": 5,
+    "positive_snippet_count": 3,
+    "negative_snippet_count": 2,
+    "positive_theme_count": 4,
+    "negative_theme_count": 0
+  },
+  "aspect_scores": {
+    "cleanliness": 0.9998810291290284,
+    "service": 0.999771535396576,
+    "location": 0.5,
+    "value_for_money": 0.6797582966585954,
+    "staff_behavior": 0.7535304622724652
+  },
+  "recommendation_features": {
+    "popularity_score": 0.4124639098458538,
+    "rating_score": 4.1,
+    "sentiment_score": 0.8027760304510594
+  },
+  "review_evidence": {
+    "positive_snippets": [
+      "Superb experience....service and food was excellent. We spend a night here....If you have a low budget, this hotel is fully recommended...reasonable price of everything",
+      "The hotel Sparkling was beautiful, with clean and comfortable rooms. It was even better than expected. The price was terrific. I would definitely stay there again. I stayed at the most beautiful, elegant-looking hotel (in my budget). The rooms are good and worthful. The room rates are reasonable, too. I will come back for sure. Staff  was also friendly and helpful.",
+      "It was my best stay ever at Sparkling B & B with its concierge service excellence, spacious room (I booked suit room), staff behavior, its services etc., it offered me complete peace. Our stay at hotel was exceptional! The staff was friendly, and the room was beyond comfortable."
+    ],
+    "negative_snippets": [
+      "There is no electric kettle / coffee maker at room. Complementary breakfast, but no restaurant or dining hall, so no buffet. And you are permitted only one item for breakfast - either bread butter ( 2 pc) or omlette or alu paratha. This is disgusting. But staff were very polite and helpful.",
+      "Zero marks to MMT through which I booked the hotel. There was No rooms even when I booked it 2-3 months prior. After reaching hotel, they said No rooms are available. MMT refunded my money and I had to search New one. But Hotel staff was very cooperative. They offered us coffee and also provided room to get fresh. Next time I will be conscious with MMT."
+    ]
+  },
+  "review_summary": "Based on 5 reviews.",
+  "positive_themes": {
+    "good_food": 2,
+    "clean_rooms": 1,
+    "friendly_staff": 4,
+    "great_value": 1
+  },
+  "negative_themes": {}
+}

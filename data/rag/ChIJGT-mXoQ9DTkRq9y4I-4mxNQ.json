@@ -1,0 +1,47 @@
+{
+  "hotel_id": "ChIJGT-mXoQ9DTkRq9y4I-4mxNQ",
+  "hotel_name": "Iris Sarovar Portico",
+  "area": "Sector 85",
+  "budget_category": "Mid-Range",
+  "rating": 4.6,
+  "trust_score": 0.8337210716357327,
+  "travel_purpose_tags": [
+    "Family"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "moderate",
+    "review_count": 5,
+    "positive_snippet_count": 3,
+    "negative_snippet_count": 0,
+    "positive_theme_count": 4,
+    "negative_theme_count": 0
+  },
+  "aspect_scores": {
+    "cleanliness": 0.9997795224189758,
+    "service": 0.5208906028419733,
+    "location": 0.5,
+    "value_for_money": 0.6804844997823238,
+    "staff_behavior": 0.9998099406560262
+  },
+  "recommendation_features": {
+    "popularity_score": 0.5225250490678999,
+    "rating_score": 4.6,
+    "sentiment_score": 0.8082439698278904
+  },
+  "review_evidence": {
+    "positive_snippets": [
+      "One of the best city hotel. The food and staff at the restaurant are incredibly humble  and prompt, Ms. Pooja is so caring and vigil. The restaurant manager and the chef are very active and remains on the show to take care of each guest .\n\nThank you Mr. Tara the GM of this wonderful hotel and team for your amazing hospitality and care.\n\nWould recommend this hotel to all.",
+      "This budget hotel located behind the shopping mall and would like to share some  concerns regarding my experience.Room service response  were slow, and follow-up was often required. Restaurant food is good however the menu options are some what limited .Most concerning was the condition of the corridor and fire exit area. The corridor appeared not well  maintained, and the fire exit passage to other floors did not seem safe. facilities  were satisfactory, improving accessibility or providing clearer directions and assistance would greatly enhance the overall guest experience.",
+      "The experience was just fine. The price of rooms is quite affordable and it\u2019s very clean and well maintained. Staff is also very friendly and helpful. I quite enjoyed my stay here.\n\nI did not like the breakfast though. Very few dishes and they were not very fresh.\n\nOverall experience pretty satisfactory and I would definitely stay here again \ud83d\ude04"
+    ],
+    "negative_snippets": []
+  },
+  "review_summary": "Based on 5 reviews.",
+  "positive_themes": {
+    "friendly_staff": 3,
+    "good_food": 5,
+    "clean_rooms": 2,
+    "great_value": 2
+  },
+  "negative_themes": {}
+}

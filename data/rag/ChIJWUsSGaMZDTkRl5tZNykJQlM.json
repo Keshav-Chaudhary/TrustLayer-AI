@@ -1,0 +1,50 @@
+{
+  "hotel_id": "ChIJWUsSGaMZDTkRl5tZNykJQlM",
+  "hotel_name": "Akshay Hotel",
+  "area": "Sector 39",
+  "budget_category": "Mid-Range",
+  "rating": 4.4,
+  "trust_score": 0.6173496349397284,
+  "travel_purpose_tags": [
+    "Budget"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "moderate",
+    "review_count": 5,
+    "positive_snippet_count": 1,
+    "negative_snippet_count": 3,
+    "positive_theme_count": 2,
+    "negative_theme_count": 2
+  },
+  "aspect_scores": {
+    "cleanliness": 0.0003225215041311,
+    "service": 0.999672532081604,
+    "location": 0.5,
+    "value_for_money": 0.0002426998253213,
+    "staff_behavior": 0.0003225215041311
+  },
+  "recommendation_features": {
+    "popularity_score": 0.5423412639583347,
+    "rating_score": 4.4,
+    "sentiment_score": 0.2001769558904925
+  },
+  "review_evidence": {
+    "positive_snippets": [
+      "Best service for the hotel and best  housekeeping members.service is 10/10\nHousekeeping is also 10/10 best hotel for family and friends enjoy the hotel for family and friends."
+    ],
+    "negative_snippets": [
+      "Absolutely terrible experience. I would not recommend this place to anyone.\n\nThe condition of the room was unacceptable. There was zero attention to cleanliness, making the stay uncomfortable from the start. On top of that, basic amenities were completely dysfunctional\u2014none of the charging plugs worked, and the geyser was broken, so there was no hot water.\n\nHonestly, this felt like a total fraud. The reality of the hotel does not match what is advertised. Save your money and go elsewhere.",
+      "Given staff room . No hot water . No towels shop  bathroom  .  Dirty rooms one of the worst worst experiences of hotel.  Try to not use hotel Akshay hotel gurugram",
+      "Worst experience ever. Bedroom mattresses are broken. No bedsheets. Rooms are very dirty & on top of that staff is rude and do not want to listen anything."
+    ]
+  },
+  "review_summary": "Based on 5 reviews.",
+  "positive_themes": {
+    "clean_rooms": 1,
+    "friendly_staff": 2
+  },
+  "negative_themes": {
+    "dirty_rooms": 2,
+    "rude_staff": 1
+  }
+}

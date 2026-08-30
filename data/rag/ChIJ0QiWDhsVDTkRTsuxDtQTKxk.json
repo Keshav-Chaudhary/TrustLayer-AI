@@ -1,0 +1,49 @@
+{
+  "hotel_id": "ChIJ0QiWDhsVDTkRTsuxDtQTKxk",
+  "hotel_name": "Oyo 28118 Rajvanshi Palace",
+  "area": "Daulatabad",
+  "budget_category": "Budget",
+  "rating": 3.7,
+  "trust_score": 0.4394410326500707,
+  "travel_purpose_tags": [
+    "Budget"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "moderate",
+    "review_count": 5,
+    "positive_snippet_count": 0,
+    "negative_snippet_count": 3,
+    "positive_theme_count": 3,
+    "negative_theme_count": 2
+  },
+  "aspect_scores": {
+    "cleanliness": 0.0004434638249221,
+    "service": 0.0006494142289738,
+    "location": 0.0005196220008656,
+    "value_for_money": 0.5,
+    "staff_behavior": 0.0037481309069941
+  },
+  "recommendation_features": {
+    "popularity_score": 0.4400716508009945,
+    "rating_score": 3.7,
+    "sentiment_score": 0.0023908299859612
+  },
+  "review_evidence": {
+    "positive_snippets": [],
+    "negative_snippets": [
+      "Liked - staff behaviour, amenities, cleanliness\nNeed to improve - 1)management proactiveness: have to ask for everything. They didn\u2019t provide anything proactively, like water bottles, tissue rolls, remotes and other small items.\n2) swiggy zomato and other services which u enjoy in gurgaon are not there as its in very external area.",
+      "They don't accept OYO bookings. On Oyo it was showing Rs. 700 but in night they charged Rs. 1000.\nThere is no Wifi, no TV, no intercom telephone.\nWe got one room, whose key was not there with them, so we leave that room.\nAnother room that they gave faulty charging point for Mobile.\nAt last we got third room, but that was also not upto our expectation as they are charging Rs. 1000.\nTowels are not good, dirty bedsheets.\n\nOverall the experience was very bad. Accept only then if you don't have any choice.",
+      "The garden and location of this hotel is nice, just off Pataudi road in wazirpur. The rooms are slightly small in size but not too much to complain. The biggest issue with this place is the staff running the hotel. They rarely respond to basic requests like providing clean towels, soaps, drinking water and so on. It had to ask them thrice for a cup of tea. The rooms were dusty, the bed sheet in our room was torn and that part was hidden under the pillows. There was no electricity from 8 to 10am eveyday and the inverter doesnt support the geyser, but the geyser of each and every room is connected to the inverter. So every time someone from any room switches on the geyser, the inverter trips and we lose electricity again. Overall the staff were horrible and unresponsive making our stay less than satisfactory."
+    ]
+  },
+  "review_summary": "Based on 5 reviews.",
+  "positive_themes": {
+    "clean_rooms": 2,
+    "friendly_staff": 2,
+    "good_location": 1
+  },
+  "negative_themes": {
+    "dirty_rooms": 1,
+    "rude_staff": 1
+  }
+}

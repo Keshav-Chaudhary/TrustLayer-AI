@@ -1,0 +1,54 @@
+{
+  "hotel_id": "ChIJEct2-vnbDDkREpc6nVEm_CM",
+  "hotel_name": "Hotel Rajmandir",
+  "area": "New Industrial Township",
+  "budget_category": "Mid-Range",
+  "rating": 3.8,
+  "trust_score": 0.5840186266615388,
+  "travel_purpose_tags": [
+    "Leisure"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "moderate",
+    "review_count": 5,
+    "positive_snippet_count": 1,
+    "negative_snippet_count": 3,
+    "positive_theme_count": 5,
+    "negative_theme_count": 3
+  },
+  "aspect_scores": {
+    "cleanliness": 0.0004817751760128,
+    "service": 0.0004182851153018,
+    "location": 0.9987510442733764,
+    "value_for_money": 0.0003023868994205,
+    "staff_behavior": 0.0004182851153018
+  },
+  "recommendation_features": {
+    "popularity_score": 0.760771550875438,
+    "rating_score": 3.8,
+    "sentiment_score": 0.2000848369469167
+  },
+  "review_evidence": {
+    "positive_snippets": [
+      "Location is good, Food is Ok, you will be served Cold Drinks onlyhen you ask for it else water will be shown on table."
+    ],
+    "negative_snippets": [
+      "This is the most pathetic hotel I have ever seen. They charged around \u20b92000 for a room that had no ventilation at all\u2014not a single window. There was a very strange smell in the room. The doormats looked like they hadn\u2019t been washed for years. If you step out of the bathroom and wipe your feet on the mat, your feet actually get dirtier instead of clean.\n\nAt the reception, there were two female staff members\u2014one older and one younger. I don\u2019t know their names, but the younger one was extremely arrogant and behaved very oversmart. Instead of speaking politely, she talks loudly and unprofessionally. When a customer asks a genuine question, she avoids answering it, but keeps chatting loudly about unnecessary things. This kind of behavior is completely unacceptable in the hospitality industry. I strongly suggest that the management seriously reconsider this staff member.\n\nComing to the restaurant: I went for breakfast in the morning and ordered a dish. After waiting for 20 minutes, the staff came and said that the dish was not available. I then asked for another item, only to find that most dishes on the breakfast menu were unavailable\u2014except for 2\u20133 items. If almost nothing from the breakfast menu is available during breakfast hours, then what is the point of having a breakfast menu at all?\n\nOverall, it was a very poor and disappointing experience for me. I would not recommend this hotel to anyone. Also, if you come across any 5-star ratings for this place, they are mostly taken by the staff themselves. Genuinely, I don\u2019t believe any customer would give a 5-star rating based on the actual experience.",
+      "Pathetic stay experience. We stayed there for a wedding and this was an absolute horrible experience. First the rooms were not clean and stinking with stinking bedsheets and pillows. Rooms have no ventilation, non functioning bathroom doors. Non functioning sockets. They sent a room service after 6 hours. Staff is super rude , specifically a lady at the reception. They don\u2019t how to talk to guests. Nobody would stay twice here. Their services are not even 1 star but prices are at par with 5 star.",
+      "I had a very disappointing experience at this place. There was no proper management, the food quality was poor, and the service was equally unsatisfactory. They strictly require all bookings to be made through their own event management team, which is inconvenient and not customer-friendly.\n\nWe celebrated my son\u2019s birthday here, and unfortunately, one of our guests found a rolled-up piece of cloth in their Manchurian dish. Later, the staff claimed it was the cover used for paneer \u2014 which is extremely unprofessional and unhygienic. Such negligence could easily lead to serious health issues. When we raised a complaint, the manager immediately threw the cloth into the dustbin instead of examining the issue seriously. Even worse, instead of apologizing, the staff started arguing with us.\n\nIt was truly disappointing because when you pay a good amount, you expect good service, hygienic food, and proper management \u2014 none of which were provided here. They were serving water in glasses, while we were expecting bottled water. When we asked about it, they said bottled water wasn\u2019t included in our booking and couldn\u2019t be arranged at that moment. If that was the case, they should have informed us beforehand during the booking process; we would have gladly paid extra for it.\n\nOverall, this place is not worth the money or effort. If you\u2019re planning a celebration here, be prepared for poor management, disappointing service, and a spoiled party experience."
+    ]
+  },
+  "review_summary": "Based on 5 reviews.",
+  "positive_themes": {
+    "good_location": 2,
+    "good_food": 3,
+    "clean_rooms": 2,
+    "friendly_staff": 4,
+    "great_value": 2
+  },
+  "negative_themes": {
+    "dirty_rooms": 2,
+    "rude_staff": 4,
+    "noise": 1
+  }
+}

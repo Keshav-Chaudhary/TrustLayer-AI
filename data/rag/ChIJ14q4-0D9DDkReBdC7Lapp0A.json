@@ -1,0 +1,51 @@
+{
+  "hotel_id": "ChIJ14q4-0D9DDkReBdC7Lapp0A",
+  "hotel_name": "Hotel Dollar Inn",
+  "area": "Main Bazar Rd",
+  "budget_category": "Budget",
+  "rating": 3.6,
+  "trust_score": 0.507206369186499,
+  "travel_purpose_tags": [
+    "Budget"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "moderate",
+    "review_count": 5,
+    "positive_snippet_count": 1,
+    "negative_snippet_count": 3,
+    "positive_theme_count": 3,
+    "negative_theme_count": 2
+  },
+  "aspect_scores": {
+    "cleanliness": 0.0004708222695625,
+    "service": 0.5000826334289741,
+    "location": 0.5,
+    "value_for_money": 0.0004128328000659,
+    "staff_behavior": 0.9996077418327332
+  },
+  "recommendation_features": {
+    "popularity_score": 0.5201159360789595,
+    "rating_score": 3.6,
+    "sentiment_score": 0.2030967153026722
+  },
+  "review_evidence": {
+    "positive_snippets": [
+      "Nice room and staff is very helpfull.Salman is in reception always ready to help the traveller"
+    ],
+    "negative_snippets": [
+      "Worst experience in this hotel. The owners behaved like goons at checkout and started demanding extra money saying I had extended checkout time at 11 am while the checkout is mentioned as 12. They then threatened me that I won't walk out of the hotel if I don't pay extra.\n\nRooms are infected with cockroaches and they did nothing about it in spite of complaining.\n\nThe hotel itself is in a very narrow dirty and dingy lane.\n\nThere are hundreds of better hotels in Paharganj so avoid this at all costs.\nNot at all worth the money",
+      "When going checkout time we have pending balance for the room. Due to non change they  tell us they will send it online after checkout time. But till this time they return back the balance amount",
+      "Worst experience ever\nUnhygienic rooms, there were lots n lots of small cockroaches, bedsheet was not clean\nSeems like dusting never happened in the room.\nAnd the more imp thing was..the person who was at the reception asked us to pay rs 180 extra for GST and was not providing any gst bill.\nThis was really unprofessional. They make people fool and the visitors end up paying extra money."
+    ]
+  },
+  "review_summary": "Based on 5 reviews.",
+  "positive_themes": {
+    "friendly_staff": 1,
+    "great_value": 1,
+    "clean_rooms": 1
+  },
+  "negative_themes": {
+    "dirty_rooms": 2,
+    "rude_staff": 1
+  }
+}

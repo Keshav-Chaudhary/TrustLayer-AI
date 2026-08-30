@@ -1,0 +1,146 @@
+\chapter{Literature Review}\label{ch:lit_review}
+
+\section{Hotel Recommendation Systems and Filtering Paradigms}
+Automated recommendation systems are central to modern e-commerce and online travel platforms. In the hospitality domain, where users evaluate complex multi-attribute entities across varying geographic regions, recommendation algorithms rely on three primary paradigms: content-based filtering, collaborative filtering, and hybrid architectures.
+
+\subsection{Content-Based Filtering}
+Content-based filtering (CB) models item recommendations by comparing item attribute profiles against explicit user preference vectors \cite{Ramesh2020}. In hospitality applications, item attributes typically include geographic coordinates, price tiers, and amenity indicators. User profiles are constructed explicitly through preference questionnaires or implicitly by aggregating features of previously interacted properties. The primary advantage of content-based filtering is its resilience to item cold-start problems; new hotels with complete attribute metadata can be recommended immediately without historical booking data. However, content-based systems suffer from over-specialization and item serendipity limitations, as they cannot recommend items outside the user's explicit preference boundaries.
+
+\subsection{Collaborative Filtering and Matrix Sparsity}
+Collaborative filtering (CF) relies on historical user-item interaction matrices (such as clicks, views, bookings, and ratings) to learn latent preference factors. Matrix factorization techniques, notably Singular Value Decomposition (SVD), decompose sparse interaction matrices into low-rank user and item embeddings. While collaborative filtering captures implicit behavioral patterns independent of domain feature engineering, its effectiveness is severely constrained by interaction matrix sparsity. In hospitality datasets, where individual users interact with only a tiny fraction of available properties, matrix sparsity frequently exceeds 99\%. Under extreme sparsity, SVD algorithms underfit heavily, failing to learn meaningful latent item representations and reverting to predicting global item rating biases.
+
+\subsection{Hybrid Recommendation Architectures and Fusion Paradigms}
+To combine the cold-start robustness of content-based filtering with the behavioral insights of collaborative filtering, hybrid recommender systems employ model fusion strategies. Hybrid mechanisms generally fall into two categories:
+\begin{enumerate}
+    \item \textbf{Score-Based Linear Blending}: Combining prediction scores from individual models via weighted linear summation ($\alpha \cdot S_{\text{CF}} + (1-\alpha) \cdot S_{\text{CB}}$).
+    \item \textbf{Rank-Based Fusion}: Combining ordinal item rankings produced by separate models, such as Reciprocal Rank Fusion (RRF).
+\end{enumerate}
+In practice, score-based linear blending exhibits severe calibration mismatches. Content-based models produce dense cosine similarity metrics concentrated in a narrow band (e.g., $0.8$ to $0.9$), whereas collaborative filtering models predict scalar ratings spread across wide ranges (e.g., $1.0$ to $5.0$). When grid-search optimization algorithms optimize linear blending weights over uncalibrated score distributions, the optimization process frequently defaults to single-model dominance ($\alpha=1.0$), completely nullifying the content-based signal. Reciprocal Rank Fusion resolves score calibration mismatches by fusing ordinal rank positions rather than raw prediction scores:
+\begin{equation}\label{eq:rrf}
+RRF\_Score(d \in D) = \sum_{m \in M} \frac{1}{k + r_m(d)}
+\end{equation}
+where $M$ is the set of recommendation models, $r_m(d)$ is the ordinal rank of item $d$ in model $m$, and $k$ is a smoothing constant (typically $k=60$).
+
+\section{Recommender Evaluation and Ranking Metrics}
+The evaluation of recommendation algorithms has shifted from rating prediction error metrics (such as Root Mean Squared Error, RMSE) toward ranking quality metrics evaluated over top-$K$ recommendations.
+
+\subsection{Top-K Ranking Quality Metrics}
+In hospitality e-commerce, users interact primarily with the top-ranked items presented on a search page. Consequently, recommendation models must be evaluated using top-$K$ ranking metrics:
+\begin{itemize}
+    \item \textbf{Precision@K}: The proportion of recommended items in the top-$K$ list that are relevant to the user:
+    \begin{equation}
+    \text{Precision@K} = \frac{|\text{Relevant Items} \cap \text{Top-K Recommended Items}|}{K}
+    \end{equation}
+    \item \textbf{Recall@K}: The proportion of all relevant items successfully retrieved within the top-$K$ recommendations:
+    \begin{equation}
+    \text{Recall@K} = \frac{|\text{Relevant Items} \cap \text{Top-K Recommended Items}|}{|\text{Total Relevant Items}|}
+    \end{equation}
+    \item \textbf{Normalized Discounted Cumulative Gain (NDCG@K)}: Evaluates ranking quality by penalizing relevant items positioned lower in the recommendation list:
+    \begin{equation}
+    \text{DCG@K} = \sum_{i=1}^{K} \frac{2^{\text{rel}_i} - 1}{\log_2(i + 1)}, \quad \text{NDCG@K} = \frac{\text{DCG@K}}{\text{IDCG@K}}
+    \end{equation}
+    where $\text{IDCG@K}$ is the Ideal Discounted Cumulative Gain obtained by perfect relevance sorting.
+\end{itemize}
+
+Evaluating ranking quality via $\text{NDCG}@K$ provides a realistic measurement of recommender utility, as it reflects user browsing behavior far more accurately than offline rating error metrics.
+
+\section{Explainable Recommendation and Feature Interpretability}
+Providing transparent justifications for automated recommendations is essential for building user trust and supporting informed decision-making.
+
+\subsection{Model-Agnostic vs. Analytical Explainability}
+Explainability approaches are broadly divided into post-hoc model-agnostic methods and deterministic analytical feature-matching methods:
+\begin{itemize}
+    \item \textbf{SHAP (SHapley Additive exPlanations)}: A game-theoretic approach that computes feature importance values by evaluating marginal model predictions across feature subsets. While mathematically rigorous, SHAP incurs prohibitive computational latency ($>1.5$ seconds per query) and produces non-deterministic, dense feature importance scores over rank-fused hybrid outputs that are difficult for non-technical users to interpret.
+    \item \textbf{Analytical Feature-Matching Explainability}: Direct computation of aspect alignment scores between explicit user preference constraints and engineered entity feature vectors. Analytical explainers evaluate exact score overlaps across multi-dimensional feature categories, outputting transparent, deterministic alignment percentages and qualitative explanation badges without inference latency overhead.
+\end{itemize}
+
+\section{Sentiment Analysis and Aspect-Based Sentiment Analysis (ABSA)}
+Unstructured traveler reviews contain rich qualitative feedback that overall star ratings cannot capture. Extracting structured sentiment signals requires sentence-level sentiment classification and Aspect-Based Sentiment Analysis (ABSA).
+
+\subsection{Sentence-Level Sentiment Polarity}
+Modern natural language processing leverages pre-trained Transformer architectures, such as DistilBERT, to classify sentence-level sentiment polarity. DistilBERT processes review text to output positive sentiment probabilities ($P_{\text{pos}} \in [0, 1]$), demonstrating high correlation with user star ratings.
+
+\subsection{Aspect-Based Sentiment Analysis (ABSA) in Hospitality}
+While sentence sentiment captures general polarity, hospitality evaluation requires aspect-specific sentiment extraction. Aspect-Based Sentiment Analysis decomposes review text into domain-specific aspect categories:
+\begin{enumerate}
+    \item \textbf{Cleanliness}: Hygiene, room maintenance, and bathroom cleanliness.
+    \item \textbf{Service}: Front-desk responsiveness, check-in speed, and room service.
+    \item \textbf{Location}: Proximity to transit hubs, city center, and local attractions.
+    \item \textbf{Value for Money}: Price-to-quality ratio and perceived fairness.
+    \item \textbf{Staff Behavior}: Courtesy, friendliness, and helpfulness of property personnel.
+\end{enumerate}
+
+ABSA systems utilize aspect-keyword masking combined with sentiment probability masking to assign independent scores ($S_{\text{aspect}} \in [0, 100]$) for each dimension. Empirically, Cleanliness exhibits the highest score variance among hospitality properties, serving as a primary aspect differentiator in personalized recommendation matching.
+
+\section{Retrieval-Augmented Generation (RAG) Architecture}
+Retrieval-Augmented Generation (RAG) combines parametric knowledge stored within Large Language Models (LLMs) with non-parametric text retrieval over domain-specific document collections.
+
+\subsection{Review Segmentation and Dense Vector Search}
+In a RAG framework, unstructured textual records are segmented into dense text chunks ($C_i$) and converted into fixed-dimensional vector embeddings using transformer models, such as SentenceTransformers (\texttt{all-MiniLM-L6-v2}, 384 dimensions). Dense vector indices compute cosine similarity scores between natural language user queries ($q$) and document chunk embeddings ($e_C$):
+\begin{equation}
+\text{Similarity}(q, C) = \frac{\mathbf{e}_q \cdot \mathbf{e}_C}{\|\mathbf{e}_q\| \|\mathbf{e}_C\|}
+\end{equation}
+
+\subsection{Hybrid Retrieval Ablation and Metrics}
+Pure vector search often fails on queries containing explicit hard constraints (such as budget limits or specific geographic neighborhoods). Hybrid retrieval architectures address this by combining dense vector similarity search, SQL metadata filtering, and recommender trust score reranking. Retrieval performance is evaluated using standard information retrieval metrics:
+\begin{itemize}
+    \item \textbf{Precision@5}: Proportion of top-5 retrieved chunks matching the query intent.
+    \item \textbf{Recall@5}: Proportion of total relevant evidence chunks retrieved.
+    \item \textbf{Mean Reciprocal Rank (MRR)}: Reciprocal rank of the first relevant chunk.
+\end{itemize}
+
+Ablation studies demonstrate that adding metadata filtering and recommendation signal reranking to semantic vector search yields significant precision improvements ($\Delta \text{Precision} \approx +0.13$).
+
+\section{Grounded and Trustworthy Conversational AI}
+While RAG architectures enable conversational query interfaces, unconstrained LLM generation remains susceptible to hallucinations—generating plausible assertions unsupported by retrieved text chunks.
+
+\subsection{Hallucination Mechanisms and Context Compression}
+LLM hallucinations in travel recommendation manifest primarily as unsupported amenity claims (e.g., asserting a budget property features a luxury spa or airport shuttle when no review evidence exists). Mitigating hallucinations requires strict prompt orchestration and token-budget context compression:
+\begin{enumerate}
+    \item \textbf{Context Compression}: Deduplicating redundant review chunks and enforcing maximum token limits (e.g., 1,500 tokens) with explicit \texttt{[Chunk ID: XYZ]} markers.
+    \item \textbf{System-Prompt Grounding}: Enforcing strict system instructions mandating that the LLM restrict claims exclusively to facts present in the provided context markers.
+\end{enumerate}
+
+\subsection{Citation Injection and Grounding Validation}
+To make LLM outputs fully verifiable, post-generation utility layers execute structured citation injection and automated grounding validation:
+\begin{itemize}
+    \item \textbf{Citation Injector}: Post-processes raw textual LLM outputs, extracting inline chunk markers and mapping them to structured \texttt{ProvenanceChunk} JSON objects.
+    \item \textbf{Grounding Validator}: Cross-references generated claims against retrieved review evidence chunks, actively intercepting and re-prompting responses containing unsupported assertions.
+\end{itemize}
+
+\section{Vector Databases and Unified Database Storage Migration}
+Early RAG architectures store relational metadata in tabular CSV files and vector embeddings in file-based vector databases (such as ChromaDB).
+
+\subsection{Limitations of Decoupled Vector Storage}
+Operating separate file-based vector stores alongside relational metadata leads to structural data drift, non-atomic updates, and a lack of ACID transaction guarantees. If relational metadata is modified without synchronous vector updates, similarity queries return stale or orphaned document chunks.
+
+\subsection{Unified PostgreSQL 17.6 and pgvector Architecture}
+Migrating relational metadata and vector embeddings to a unified PostgreSQL 17.6 database server equipped with the \texttt{pgvector} extension resolves data drift. Storing 384-dimensional vector embeddings directly inside PostgreSQL tables (\texttt{embedding\_documents}) enables single-transaction ACID operations across hotel attributes, scores, outbox events, and vector embeddings. Vector parity verification ensures $1.0000$ average cosine similarity parity between legacy file stores and \texttt{pgvector} instances.
+
+\section{Data Provenance and Reproducible Data Engineering}
+Enterprise recommendation platforms require auditable data lineage and safe, repeatable ingestion workflows.
+
+\subsection{Canonical Hashing and Field-Level Diffing}
+To prevent destructive database overwrites and redundant embedding recalculations, repeatable ingestion pipelines compute SHA-256 canonical content hashes ($\text{Hash}_{\text{canonical}}$) over normalized record fields:
+\begin{equation}
+\text{Hash}_{\text{canonical}} = \text{SHA256}(\text{Name} \,\|\, \text{Address} \,\|\, \text{Rating} \,\|\, \text{AspectScores})
+\end{equation}
+
+Field-level diff engines compare incoming canonical hashes against active database records, identifying explicit change sets (\texttt{INSERT}, \texttt{UPDATE}, \texttt{NO\_CHANGE}).
+
+\subsection{Dry-Run Safety and Selective Vector Synchronization}
+To guarantee data safety, ingestion pipelines enforce a strict multi-stage lifecycle:
+\begin{equation}
+\text{RAW} \rightarrow \text{NORM} \rightarrow \text{VAL} \rightarrow \text{DEDUP} \rightarrow \text{CANON} \rightarrow \text{DIFF} \rightarrow \text{DRY-RUN} \rightarrow \text{APPROVAL} \rightarrow \text{APPLY}
+\end{equation}
+During \texttt{DRY-RUN}, diff reports (\texttt{dry\_run.json}) are generated under unique run identifiers (\texttt{RUN\_ID}) with zero database mutation. Executing an \texttt{APPLY} step requires explicit human approval specifying the valid \texttt{RUN\_ID}. Following database update, selective vector synchronization recalculates embeddings \textit{only} for records with modified content hashes, preserving vector database stability.
+
+\section{Research and Engineering Gap Summary}
+Prior literature and existing commercial platforms address recommendation algorithms, explainability models, RAG retrieval, and vector storage in isolation. However, a significant engineering gap remains in synthesizing these components into a unified, auditable platform. Specifically:
+\begin{itemize}
+    \item Conventional recommenders lack real-time aspect explainability and review evidence grounding.
+    \item Naive LLM-based RAG interfaces suffer from ungrounded hallucinations and lack citation provenance.
+    \item File-based vector databases suffer from data drift and uncoordinated ingestion updates.
+\end{itemize}
+
+TrustLayer-AI addresses this research and engineering gap by integrating preference-aware Reciprocal Rank Fusion recommendation, real-time analytical aspect explainability, hybrid review evidence retrieval, automated post-generation grounding validation, unified PostgreSQL 17.6 + \texttt{pgvector} ACID storage, and a single-command CLI orchestrator with dry-run safety and live progress tracking into a single production platform.

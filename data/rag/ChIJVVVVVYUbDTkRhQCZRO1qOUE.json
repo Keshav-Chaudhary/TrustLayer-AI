@@ -1,0 +1,50 @@
+{
+  "hotel_id": "ChIJVVVVVYUbDTkRhQCZRO1qOUE",
+  "hotel_name": "Hotel Castle Blue",
+  "area": "Mahipalpur",
+  "budget_category": "Mid-Range",
+  "rating": 3.6,
+  "trust_score": 0.6960749428950223,
+  "travel_purpose_tags": [
+    "Leisure"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "rich",
+    "review_count": 5,
+    "positive_snippet_count": 3,
+    "negative_snippet_count": 2,
+    "positive_theme_count": 4,
+    "negative_theme_count": 0
+  },
+  "aspect_scores": {
+    "cleanliness": 0.9998559951782228,
+    "service": 0.6639744074636837,
+    "location": 0.999853014945984,
+    "value_for_money": 0.5,
+    "staff_behavior": 0.6639728577429196
+  },
+  "recommendation_features": {
+    "popularity_score": 0.6160128096547535,
+    "rating_score": 3.6,
+    "sentiment_score": 0.7311506773228758
+  },
+  "review_evidence": {
+    "positive_snippets": [
+      "We Booked  Hotel Castle blue for our team visiting Satte in delhi.\nwe were very happy with service and food quality at hotel.\nRooms are spacious and clean.\neasy to reach from Main Road.",
+      "I recently had the pleasure of staying at Hotel Castle, and I must say, it exceeded all my expectations. From the moment I arrived, the staff went above and beyond to ensure my comfort and satisfaction. Their professionalism and warm hospitality truly set this hotel apart.\n\nThe rooms were impeccably clean, spacious, and elegantly furnished, offering all the amenities needed for a relaxing stay. The attention to detail was evident in everything\u2014from the plush bedding to the thoughtful touches like complimentary refreshments and toiletries.\n\nOne of the highlights of my stay was the dining experience. The on-site restaurant served a variety of delicious dishes, each prepared with great care and presented beautifully. The breakfast buffet, in particular, was a treat, offering a wide range of options to suit every palate.\n\nThe hotel's location was perfect for exploring the area, and the staff were always ready to provide recommendations and assist with any queries. Whether it was arranging transportation or offering tips for local attractions, their support made my stay all the more enjoyable.\n\nOverall, Hotel Castle is a shining example of excellent service and hospitality. I would highly recommend it to anyone looking for a comfortable and memorable stay. I look forward to returning in the future!",
+      "I recently stayed at hotel Castle blue and was thoroughly impressed with every aspect of my stay. The hotel's cleanliness was impeccable, with spotless rooms and common areas that exceeded my expectations.\nThe supporting staff were truly exceptional - friendly, courteous, and responsive to my every need. They went above and beyond to ensure my stay was comfortable and enjoyable.\nThe hotel's amenities were top-notch, and the location was perfect for my travel needs.\nI would highly recommend Hotel Castle Blue to anyone seeking a seamless and luxurious experience."
+    ],
+    "negative_snippets": [
+      "Greedy staff and poor service...wrost hotel mouse and mosquitos all over the hotel.... it's danger to stay for couple....",
+      "This hotel needs a major overhaul.\n\nThe hotel is still in the 90\u2019s,\n\n1) Still using window ac which barely functions\u2026\n2) The fan does not switch off the regulator switch does nothing.\n3) The geyser is there for show on the wall.\n4) The room lock was broken it locks only from inside and in case the guest wishes to go out for a day then it won\u2019t lock from outside with the physical key provided.\n5) Sink tap was broken\n6) Shower was not working, so the only way to have bath is with a plastic bucket & mug, and either sit on the plastic stool given or the floor.\n\nThe room service was OK, although staff was very good and helpful.\n\nHope the management reads this review and makes some welcome changes\u2026."
+    ]
+  },
+  "review_summary": "Based on 5 reviews.",
+  "positive_themes": {
+    "clean_rooms": 3,
+    "good_food": 2,
+    "friendly_staff": 4,
+    "good_location": 2
+  },
+  "negative_themes": {}
+}

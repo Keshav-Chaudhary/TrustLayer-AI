@@ -1,0 +1,48 @@
+{
+  "hotel_id": "ChIJn9xREaAFDTkR6WxojxfAHQ4",
+  "hotel_name": "Collection O Dwarka Metro Station Formerly Jps Green",
+  "area": "Dwarka",
+  "budget_category": "Mid-Range",
+  "rating": 2.7,
+  "trust_score": 0.3203777093989488,
+  "travel_purpose_tags": [
+    "Budget"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "moderate",
+    "review_count": 5,
+    "positive_snippet_count": 0,
+    "negative_snippet_count": 3,
+    "positive_theme_count": 2,
+    "negative_theme_count": 2
+  },
+  "aspect_scores": {
+    "cleanliness": 0.0005128745688125,
+    "service": 0.0009392357897013,
+    "location": 0.5,
+    "value_for_money": 0.5,
+    "staff_behavior": 0.0005123761560146
+  },
+  "recommendation_features": {
+    "popularity_score": 0.5082317977781322,
+    "rating_score": 2.7,
+    "sentiment_score": 0.0004281212692148
+  },
+  "review_evidence": {
+    "positive_snippets": [],
+    "negative_snippets": [
+      "Extremely Disappointing Stay \u2013 Very Poor Hygiene & Mismanagement\n\nI had a terrible experience at this hotel, and I feel it's important to share so others don\u2019t go through the same.\n\nI had booked this hotel through Agoda, but when I reached the property, the staff claimed that my booking was not confirmed. After a lot of back-and-forth, they finally gave me a room but charged me an extra \u20b9300 in the name of taxes, which felt completely unfair and suspicious.\n\nDespite telling the staff 4\u20135 times, they never changed the dirty bedsheets.\n\nThe bathrooms were filthy \u2013 not just in my room but also the common ones I checked.\n\nAnd the worst part \u2013 cockroaches were coming out of the bed! That was absolutely disgusting and unacceptable.\n\nOverall, it was a horrible stay. I would strongly advise avoiding this hotel unless they seriously fix their cleanliness, honesty, and customer service.",
+      "One of the best unhygienic and dirtiest hotel I have seen. Beds were smelling, rude staff behavior. Never book from apps, reel nd reality is having a huge difference. Never ever recommend this hotel to any one, it's better to sleep on roadside instead of this hotel. Worst hotel ever. I just book in hurry. After getting inside I saw that they hve a lot of bad reviews nd in all reviews oyo has committed for development nd nothing jlhas changed. I have the fresh experience. Oyo is just getting outdated. It's very difficult to trust oyo. Very worst and just very very very worst.",
+      "Not a good experience at all, TV was not provided, room and washroom are not well maintained as you can see in the photos attached herewith."
+    ]
+  },
+  "review_summary": "Based on 5 reviews.",
+  "positive_themes": {
+    "clean_rooms": 1,
+    "friendly_staff": 2
+  },
+  "negative_themes": {
+    "dirty_rooms": 3,
+    "rude_staff": 2
+  }
+}

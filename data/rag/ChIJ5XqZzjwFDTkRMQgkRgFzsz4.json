@@ -1,0 +1,48 @@
+{
+  "hotel_id": "ChIJ5XqZzjwFDTkRMQgkRgFzsz4",
+  "hotel_name": "Hotel Down Town",
+  "area": "New Delhi",
+  "budget_category": "Mid-Range",
+  "rating": 4.9,
+  "trust_score": 0.8634919872565237,
+  "travel_purpose_tags": [
+    "Leisure"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "moderate",
+    "review_count": 5,
+    "positive_snippet_count": 3,
+    "negative_snippet_count": 1,
+    "positive_theme_count": 3,
+    "negative_theme_count": 0
+  },
+  "aspect_scores": {
+    "cleanliness": 0.999847024679184,
+    "service": 0.5000476104469271,
+    "location": 0.9998132586479188,
+    "value_for_money": 0.5,
+    "staff_behavior": 0.999847412109375
+  },
+  "recommendation_features": {
+    "popularity_score": 0.487459406182981,
+    "rating_score": 4.9,
+    "sentiment_score": 0.7999343221366871
+  },
+  "review_evidence": {
+    "positive_snippets": [
+      "Hotel is clean and good, food is also very delicious. We had opportunity to have all three meals and it was a good experience. All staff are welcoming and supportive, specially Mr. Manish, we had great time.",
+      "I had a wonderful stay at this hotel. The on-site restaurant offers delicious dishes at reasonable prices, and you can order food anytime you like. The staff were kind, helpful and attentive, and the overall experience was excellent.",
+      "My stay at hotel down town was truly exceptional and exceeded all expectations. The staff, particularly specific staff member or department, e.g., the front desk team, were incredibly warm, professional, and went out of their way to ensure a seamless visit. The room was spotlessly clean, quiet, and offered a wonderful view of golchakkarrr"
+    ],
+    "negative_snippets": [
+      "The service is absolutely zero\nWe asked for towels in the morning,it was not provided even after waiting for one hour, other services also were very very poor"
+    ]
+  },
+  "review_summary": "Based on 5 reviews.",
+  "positive_themes": {
+    "clean_rooms": 2,
+    "friendly_staff": 4,
+    "good_food": 2
+  },
+  "negative_themes": {}
+}

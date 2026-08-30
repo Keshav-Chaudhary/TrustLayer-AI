@@ -1,0 +1,47 @@
+{
+  "hotel_id": "ChIJmbKGWigZDTkRnFzstL8pzNQ",
+  "hotel_name": "Hotel Golf View Sakura & Suites",
+  "area": "Sector 43",
+  "budget_category": "Mid-Range",
+  "rating": 4.6,
+  "trust_score": 0.9059431025771428,
+  "travel_purpose_tags": [
+    "Leisure",
+    "Business"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "moderate",
+    "review_count": 5,
+    "positive_snippet_count": 3,
+    "negative_snippet_count": 0,
+    "positive_theme_count": 3,
+    "negative_theme_count": 0
+  },
+  "aspect_scores": {
+    "cleanliness": 0.9998190104961396,
+    "service": 0.9997901916503906,
+    "location": 0.9997570514678956,
+    "value_for_money": 0.5,
+    "staff_behavior": 0.9998190104961396
+  },
+  "recommendation_features": {
+    "popularity_score": 0.5747165975429543,
+    "rating_score": 4.6,
+    "sentiment_score": 0.999820637702942
+  },
+  "review_evidence": {
+    "positive_snippets": [
+      "I recently stayed at hotel golf view suites, and I couldn\u2019t be more impressed. From the moment I arrived, the staff made me feel welcome and well taken care of.\nThe room was spacious, immaculately clean, and beautifully decorated. The bed was incredibly comfortable, and the linens were soft and high quality. I also appreciated the thoughtful touches, like complimentary bottled water, a well-stocked minibar, and a quiet atmosphere that made it easy to relax and unwind.\n\nBut what really stood out was the food. Whether it was breakfast, room service, or dining at the on-site restaurant, every meal was exceptional. The ingredients were fresh, the flavors well-balanced, and the presentation top-notch. I especially recommend the all food are too delicious\nOverall, I had a fantastic experience and would highly recommend hotel golf view suits and sakura to anyone looking for a luxurious and comfortable stay with truly memorable dining thanks all staff\nThankyou MR.PARVEEN",
+      "Hi, I've stayed for business purpose for more than a week, it was a very nice stay, great hospitality, great response from staff.\nA part from room service, food is really awesome especially which is ordered from menu, and staff working in restaurant are very humble and responsive, hygiene. Good response from Mohith and Raju every single time, with good attitude.",
+      "\u201cThe food is absolutely wonderful. Chef Rohit Chamoli is truly a talented chef who prepares amazing dishes. The paneer, chicken, rice, dal, vegetables, kheer, and raita were all excellent\u2014everything was absolutely delicious and beautifully prepared"
+    ],
+    "negative_snippets": []
+  },
+  "review_summary": "Based on 5 reviews.",
+  "positive_themes": {
+    "clean_rooms": 1,
+    "friendly_staff": 4,
+    "good_food": 4
+  },
+  "negative_themes": {}
+}

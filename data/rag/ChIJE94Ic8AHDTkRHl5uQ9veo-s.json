@@ -1,0 +1,48 @@
+{
+  "hotel_id": "ChIJE94Ic8AHDTkRHl5uQ9veo-s",
+  "hotel_name": "Hotel O Surya Gold Guest House Near Mundka Metro Station",
+  "area": "Rani Khera",
+  "budget_category": "Mid-Range",
+  "rating": 3.9,
+  "trust_score": 0.6463698715277589,
+  "travel_purpose_tags": [
+    "Budget"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "moderate",
+    "review_count": 5,
+    "positive_snippet_count": 3,
+    "negative_snippet_count": 2,
+    "positive_theme_count": 2,
+    "negative_theme_count": 0
+  },
+  "aspect_scores": {
+    "cleanliness": 0.9998200535774232,
+    "service": 0.0008073192293522,
+    "location": 0.6664600582541121,
+    "value_for_money": 0.0003709827724378,
+    "staff_behavior": 0.5
+  },
+  "recommendation_features": {
+    "popularity_score": 0.3914140521329489,
+    "rating_score": 3.9,
+    "sentiment_score": 0.6000887768052052
+  },
+  "review_evidence": {
+    "positive_snippets": [
+      "Very nice hotel. Best hotel this area. Location good. My exam centre pawan ganga. Near by this hotel",
+      "Nice hotel best location in exam centre my exam web infotech",
+      "Nice hotel..Surya gold guest house.rani khera mundka road Delhi.. comfortable stay\n.clean bathroom..fresh environment..all over good"
+    ],
+    "negative_snippets": [
+      "Worst experience ever. I booked an ac room here  from oyo and when I reached there the guy in reception told that non ac room is entitled. Kind of talk like  \"jitna  ap pay kiye Utne ka ac chala lenge ek din mein\".Then I contacted oyo helpline they called owner immediately and the owner tried to contact the receptionist immediately and he continously ignored the call in his personal phone and when I tried to give my phone to talk he also ignored to take the call.Consequently I have to cancel the booking. And have to travel another 3 hrs to go to reach another oyo property. Harrasment at its peak. I had to attain an exam on the next day.Anyone should never visit hotel surya ever whether you are capable to afford a hotel or you don't have money. Better to sleep in a gurudwara or railway station is more peaceful than to visit this hotel.",
+      "Ek number bakwas hotel hy do not visit again. No water, more mosquitos and worst room service"
+    ]
+  },
+  "review_summary": "Based on 5 reviews.",
+  "positive_themes": {
+    "good_location": 2,
+    "clean_rooms": 1
+  },
+  "negative_themes": {}
+}

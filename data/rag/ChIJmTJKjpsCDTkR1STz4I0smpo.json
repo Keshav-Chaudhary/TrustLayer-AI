@@ -1,0 +1,52 @@
+{
+  "hotel_id": "ChIJmTJKjpsCDTkR1STz4I0smpo",
+  "hotel_name": "Hotel Sunstar Residency",
+  "area": "New Delhi",
+  "budget_category": "Mid-Range",
+  "rating": 4.1,
+  "trust_score": 0.7366862788871257,
+  "travel_purpose_tags": [
+    "Budget"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "rich",
+    "review_count": 5,
+    "positive_snippet_count": 3,
+    "negative_snippet_count": 2,
+    "positive_theme_count": 4,
+    "negative_theme_count": 1
+  },
+  "aspect_scores": {
+    "cleanliness": 0.9998187124729156,
+    "service": 0.5002494228319847,
+    "location": 0.5,
+    "value_for_money": 0.5003355962107889,
+    "staff_behavior": 0.6001521764148492
+  },
+  "recommendation_features": {
+    "popularity_score": 0.6909473842035797,
+    "rating_score": 4.1,
+    "sentiment_score": 0.6001521764148492
+  },
+  "review_evidence": {
+    "positive_snippets": [
+      "I recently stayed at Sunstar Residency and had a truly wonderful experience. The rooms were clean, well-maintained, and very comfortable. The staff were highly professional, courteous, and attentive. I would especially like to thank Nitin for his exceptional support and Guddu from room service for ensuring everything in my room was perfect and promptly attended to. Their attention to detail, warm hospitality, and willingness to go the extra mile made my stay very memorable. I sincerely appreciate the efforts of the entire team and highly recommend Sunstar Residency for anyone seeking a comfortable, hassle-free, and high-quality stay.",
+      "U will see that there are excellent reviews for this hotel . Although there are sometimes reasons to doubt some of the reviews but the great reviews for the sunstar residency are completely well deserved.the hotel is an excellent value because the rooms and all the hotel is spotlessly clean.i especially appreciated the help of their manager mr nitin .who take care of this hotel but the guard was very cheap and disgusting and rest of all the things are very good and specially thanks to Mr nitin",
+      "I stayed at the hotel for more than 10 days, and my experience was excellent. The room facilities were very good, breakfast was delicious, and the room cleaning service was always timely and neat. The staff and overall hospitality were great. It was a very comfortable and pleasant stay"
+    ],
+    "negative_snippets": [
+      "We stayed for one night at Sunstar Residency Hotel. The room was decent, but the staff behavior was extremely disappointing especially the receptionist, Priyansh who joined recently.\n\nAs per Google, the check-in time is mentioned as 12 PM, but upon arrival, we were informed that the hotel follows its own rule of 1 PM check-in. Despite multiple rooms being available, the receptionist insisted that only one room was available and refused to accommodate us.\n\nWe reached the hotel at 9 AM and politely requested a room just to freshen up, as we were heading out for sightseeing. However, this request was completely denied and we were asked to wait until 1 PM, resulting in a complete waste of time.\n\nThe lack of flexibility, poor communication, and rude behavior were highly unprofessional. The receptionist lacked basic courtesy and customer-handling skills, which significantly affected our experience.",
+      "The room was good , but there were issues with the behaviour of staff especially receptionist Priyansh.\nThough the rooms were available and we agreed to pay extra for early check in , he was reluctant to give the room and made was wait for more than 6 hrs in reception.\nThe room is not worth the price as well."
+    ]
+  },
+  "review_summary": "Based on 5 reviews.",
+  "positive_themes": {
+    "clean_rooms": 3,
+    "friendly_staff": 4,
+    "great_value": 2,
+    "good_food": 1
+  },
+  "negative_themes": {
+    "rude_staff": 1
+  }
+}

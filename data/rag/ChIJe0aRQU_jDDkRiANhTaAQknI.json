@@ -1,0 +1,54 @@
+{
+  "hotel_id": "ChIJe0aRQU_jDDkRiANhTaAQknI",
+  "hotel_name": "Jagannath B&B Hotel",
+  "area": "Part 2",
+  "budget_category": "Mid-Range",
+  "rating": 4.0,
+  "trust_score": 0.7629537322800131,
+  "travel_purpose_tags": [
+    "Leisure",
+    "Business",
+    "Family"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "moderate",
+    "review_count": 5,
+    "positive_snippet_count": 3,
+    "negative_snippet_count": 1,
+    "positive_theme_count": 5,
+    "negative_theme_count": 1
+  },
+  "aspect_scores": {
+    "cleanliness": 0.7500180212082341,
+    "service": 0.9998596906661988,
+    "location": 0.999831348657608,
+    "value_for_money": 0.9998750686645508,
+    "staff_behavior": 0.999841034412384
+  },
+  "recommendation_features": {
+    "popularity_score": 0.5772042431608497,
+    "rating_score": 4.0,
+    "sentiment_score": 0.7999796913005411
+  },
+  "review_evidence": {
+    "positive_snippets": [
+      "Nice hotel and rooms breakfast is delicious. Stay is also good. We stayed in the hotel for one night. It has a great location, close to the embassy area in New Delhi. The rooms were nice and clean. I personally like the rooms, makes the areas nice and causy, I would say, only this common area as in the sitting area in the hotel needs a bit of improvement, otherwise all was well and we had a pleasant stay. The staff was polite and helpful.",
+      "This hotel offers a comfortable and hassle-free stay. The rooms were clean, the service was good, and the staff was friendly and cooperative. I also appreciated the peaceful environment and convenient location. Everything was well organized, making the experience smooth. Overall, I had a positive experience here It's a good option for anyone looking for a pleasant stay.",
+      "The hotel is good and cheap, the food was awesome and the ambience is great the luxury of room is great and the service is pretty much good and fine. A beautiful place for family or solo traveler for good service and food is also good\nHotel is neat and clean i also recommend to friends and family members. Much Appreciation To Manager Mr Prem . Thanks For Making The Event A Rememberable."
+    ],
+    "negative_snippets": [
+      "such a shabby, unclean place. Building is so old, furniture and wood is ruined. Toilets are ok. There is cigarette smell inside. Not recommeded for families at all. No lift. It's very shady also. Someone was sleeping and they randomly showed us the room for us to have a look at the layout. Poor ventilation. Avoid Avoid if you can get a hotel"
+    ]
+  },
+  "review_summary": "Based on 5 reviews.",
+  "positive_themes": {
+    "clean_rooms": 4,
+    "friendly_staff": 3,
+    "good_location": 2,
+    "good_food": 2,
+    "great_value": 1
+  },
+  "negative_themes": {
+    "dirty_rooms": 1
+  }
+}

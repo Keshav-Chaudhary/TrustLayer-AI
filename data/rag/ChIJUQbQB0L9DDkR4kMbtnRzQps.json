@@ -1,0 +1,54 @@
+{
+  "hotel_id": "ChIJUQbQB0L9DDkR4kMbtnRzQps",
+  "hotel_name": "Hotel Sun International- Budget Hotel Near New Delhi Railway Station",
+  "area": "Paharganj",
+  "budget_category": "Budget",
+  "rating": 4.0,
+  "trust_score": 0.6716294865691274,
+  "travel_purpose_tags": [
+    "Leisure"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "moderate",
+    "review_count": 5,
+    "positive_snippet_count": 2,
+    "negative_snippet_count": 3,
+    "positive_theme_count": 5,
+    "negative_theme_count": 2
+  },
+  "aspect_scores": {
+    "cleanliness": 0.4991944987305032,
+    "service": 0.0002127966290572,
+    "location": 0.9977838099002838,
+    "value_for_money": 0.4999791722002555,
+    "staff_behavior": 0.3335082789465862
+  },
+  "recommendation_features": {
+    "popularity_score": 0.7486035852146198,
+    "rating_score": 4.0,
+    "sentiment_score": 0.3994688974722521
+  },
+  "review_evidence": {
+    "positive_snippets": [
+      "Comfortable and safe stay for families\n\nWe stayed at Hotel Sun International with our family and had a very pleasant experience. The hotel is easy to reach and located close to New Delhi Railway Station, which made our arrival and travel very convenient.\n\nThe staff was very polite and supportive. They helped us with extra towels, guidance about local travel, and made check-in smooth even with children. Everyone was respectful and friendly.\n\nEverything needed for a family is close by \u2014 food outlets, pharmacies, shops, and ATMs are within walking distance. We didn\u2019t have to travel far for daily needs.\nTourist attractions, markets, and shopping areas are very close, making it easy to plan outings without long travel.\n\nFor the price, this hotel is a great choice for families. Clean rooms, safe environment, and helpful staff made our stay comfortable and stress-free.\n\nWe would definitely recommend Hotel Sun International to families visiting Delhi.",
+      "Stay was good. New Delhi metro station was accessible. Paid early check in was allowed which was much needed for us. The food ordered through the hotel was good. 24 hours hot water was not available. Instead a bucket of hot water was provided 24/7. Rooms and bed sheets were pretty clean and maintained."
+    ],
+    "negative_snippets": [
+      "This hotel should not be listed on any booking platform. Sun International Hotel, Delhi is in an extremely poor and unhygienic condition, and the staff behavior makes it even worse.\n\nThe room was filthy. The bed sheets were dirty, stained, and clearly reused. There was no dustbin in the room, and when I asked for one, they handed over a broken, dirty dustbin that looked like it came straight from a trash area.\n\nThe bathroom experience was horrifying. I requested bathroom slippers and was shocked beyond words  they gave me used, worn-out men\u2019s slippers, clearly reused by multiple guests. This is disgusting, unsafe, and a serious hygiene violation.\n\nHousekeeping is non-existent. The flush was not working, and despite repeatedly calling reception, I was casually told that the plumber was \u201cnot available.\u201d No urgency, no solution, no apology. Just indifference.\n\nTake a look at the windows and overall room condition  broken, dirty, poorly maintained, and neglected. The room felt uncomfortable and unclean.\n\nWhat\u2019s even more unacceptable is the staff\u2019s arrogant attitude. When I raised these issues and mentioned that I had paid via MakeMyTrip, the response was shocking:\n\ud83d\udc49 They openly said they \u201cdon\u2019t care about MMT.\u201d\nThis clearly shows how little they respect guests and booking platforms.\n\nI booked this hotel after seeing some positive reviews, and I feel completely misled. The reality is the rooms are terrible, hygiene is zero, and service is careless and rude.\n\nI have attached images as proof of the dirty bed sheets, broken dustbin, filthy slippers, broken flush, window condition, and overall room state.\n\nAvoid this hotel at all costs. This place is not worth your money, your time, or your health. One of the worst hotel experiences I\u2019ve ever had.",
+      "Very very bad and unprofessional way of treating ppl.\nI booked for a room in hotel sun international and when I wanted to cancel and rebook for different dates, the person is saying only the technical team can cancel and we cannot do anything on this, and asked me to call and talk to the technical team. Why I would be calling the technical team of yours?\nAnd I don't find any technical team numbers as well in their website.\nOnly 2 contacts were there, one cut the call and the other spoke with no responsibilities at all.\nThe office incharge cut the call while talking.\nLearn to treat your customers in a good manner first\n\nPlease don't book here.\nFraud hotel and staff.",
+      "It's a worst hotel. I stayed for one day only. When i see photo on Google it's not same. Room is uncleaned and bedsheet is too much stain and unwashed. And bathroom and sink is very dirty. And room is fully with bed smell. I prefer everybody before Book, must check everything please \ud83d\ude14"
+    ]
+  },
+  "review_summary": "Based on 5 reviews.",
+  "positive_themes": {
+    "clean_rooms": 4,
+    "friendly_staff": 3,
+    "good_location": 1,
+    "good_food": 2,
+    "great_value": 1
+  },
+  "negative_themes": {
+    "dirty_rooms": 2,
+    "rude_staff": 2
+  }
+}

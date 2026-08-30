@@ -1,0 +1,45 @@
+{
+  "hotel_id": "ChIJH8ULB0b_DDkRKtTcs7p2nvc",
+  "hotel_name": "Oyo Flagship Mannat Residency Near Shiv Vihar Metro Station",
+  "area": "Delhi",
+  "budget_category": "Budget",
+  "rating": 4.0,
+  "trust_score": 0.5939094244761918,
+  "travel_purpose_tags": [
+    "Budget"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "sparse",
+    "review_count": 5,
+    "positive_snippet_count": 2,
+    "negative_snippet_count": 3,
+    "positive_theme_count": 0,
+    "negative_theme_count": 0
+  },
+  "aspect_scores": {
+    "cleanliness": 0.5,
+    "service": 0.5,
+    "location": 0.5,
+    "value_for_money": 0.5,
+    "staff_behavior": 0.5
+  },
+  "recommendation_features": {
+    "popularity_score": 0.2313194968117582,
+    "rating_score": 4.0,
+    "sentiment_score": 0.5007210234762169
+  },
+  "review_evidence": {
+    "positive_snippets": [
+      "4 month",
+      "It is very good"
+    ],
+    "negative_snippets": [
+      "Good",
+      "Bad",
+      "This area falls in Uttar Pradesh, and supply issues are always prevalent. They have both AC and non-AC rooms. The guys at the counter will cleverly offer you an AC room and get you to pay. When you enter, the AC won't work, promising you that the supply will return in an hour. But it doesn't. There's no supply backup. The inverter will discharge, the fans will stop working, and then your dark night begins. Please avoid this place. Don't go there even if you have to.\nIf you must go, don't pay in advance.\nRegards, thanks.\nA victim."
+    ]
+  },
+  "review_summary": "Based on 5 reviews.",
+  "positive_themes": {},
+  "negative_themes": {}
+}

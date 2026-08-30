@@ -1,0 +1,52 @@
+{
+  "hotel_id": "ChIJa2dbPJkCDTkRh57e5vMUkj4",
+  "hotel_name": "Hotel Persona International",
+  "area": "New Delhi",
+  "budget_category": "Mid-Range",
+  "rating": 3.9,
+  "trust_score": 0.6280479334795106,
+  "travel_purpose_tags": [
+    "Budget"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "moderate",
+    "review_count": 5,
+    "positive_snippet_count": 1,
+    "negative_snippet_count": 3,
+    "positive_theme_count": 4,
+    "negative_theme_count": 2
+  },
+  "aspect_scores": {
+    "cleanliness": 0.0004781447350978,
+    "service": 0.5002061968261842,
+    "location": 0.0005900750984437,
+    "value_for_money": 0.0005071384948677,
+    "staff_behavior": 0.5000267159193754
+  },
+  "recommendation_features": {
+    "popularity_score": 0.6052038435106555,
+    "rating_score": 3.9,
+    "sentiment_score": 0.4001343979383819
+  },
+  "review_evidence": {
+    "positive_snippets": [
+      "Hotel staff and management are good\nIn service.\nWant to visit again"
+    ],
+    "negative_snippets": [
+      "The experience was average \u2014 not bad, but not particularly good either. One downside is that as soon as you step outside the hotel, you are immediately approached by beggars, and the security staff don\u2019t seem to make much effort to manage the situation, which can feel uncomfortable for guests.\nOn a positive note, the breakfast was very good. The food was served hot, fresh, and tasty, which was definitely a highlight of the stay.",
+      "Extremely Disappointing Stay \u2013 Not Safe, Not Worth the Price\n\nThe room was much smaller than the standard size, yet the charges were higher compared to other hotels. We were three guests, and although an extra mattress was provided, the bed quality was terrible. The bedsheets were smelly as if they had not been changed, and the pillows were dirty with an unpleasant odor.\n\nThe worst part was the behavior of the reception staff. We had another friend who initially planned to leave the hotel after a few hours and not stay overnight. However, his plans changed around 1:00 a.m., and he decided to stay. The receptionist became extremely irritating, repeatedly calling and disturbing us at night, demanding his ID and insisting on extra payment. Even after we provided the ID, they refused to give an extra mattress but still demanded \u20b9500 just for him to stay in the room.\n\nThis constant disturbance made the entire night stressful. It is unacceptable to be charged extra without providing any additional facilities, and the repeated late-night calls showed a complete lack of professionalism and respect for guests\u2019 comfort.\n\nBased on my experience, I strongly advise avoiding this hotel. It does not feel safe, the staff are unprofessional, and the service quality is far below the amount they charge.",
+      "Staff behavior is so rude,  un professional.\n\nCharge extra money 500 if some visitors come for meet\n\nRoom is so small not proper space\n\nSwich board not working in room\n\nNot provide water bottle\n\nBathroom was unclean with water looking in sink\n\nstrongly requesting for skip booking"
+    ]
+  },
+  "review_summary": "Based on 5 reviews.",
+  "positive_themes": {
+    "friendly_staff": 4,
+    "good_food": 2,
+    "great_value": 1,
+    "clean_rooms": 1
+  },
+  "negative_themes": {
+    "dirty_rooms": 2,
+    "rude_staff": 3
+  }
+}

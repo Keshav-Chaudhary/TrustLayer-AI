@@ -1,0 +1,47 @@
+{
+  "hotel_id": "ChIJb1VVVZoCDTkR55_HhaH8rMk",
+  "hotel_name": "Hotel Blue Sapphire",
+  "area": "New Delhi",
+  "budget_category": "Mid-Range",
+  "rating": 3.4,
+  "trust_score": 0.6955414184640263,
+  "travel_purpose_tags": [
+    "Business",
+    "Family"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "moderate",
+    "review_count": 5,
+    "positive_snippet_count": 3,
+    "negative_snippet_count": 0,
+    "positive_theme_count": 3,
+    "negative_theme_count": 0
+  },
+  "aspect_scores": {
+    "cleanliness": 0.999755561351776,
+    "service": 0.9998509883880616,
+    "location": 0.5484565421938896,
+    "value_for_money": 0.999755561351776,
+    "staff_behavior": 0.7741569839417934
+  },
+  "recommendation_features": {
+    "popularity_score": 0.6063153768790331,
+    "rating_score": 3.4,
+    "sentiment_score": 0.81927669942379
+  },
+  "review_evidence": {
+    "positive_snippets": [
+      "Hotel all staff gud and very location all rooms very restfully room sarvice fast",
+      "Great place to stay with clean and hygienic rooms within the budget ...",
+      "Hotel good staff good and loby restaurant hall good very good experience in my life"
+    ],
+    "negative_snippets": []
+  },
+  "review_summary": "Based on 5 reviews.",
+  "positive_themes": {
+    "friendly_staff": 4,
+    "good_location": 2,
+    "clean_rooms": 1
+  },
+  "negative_themes": {}
+}

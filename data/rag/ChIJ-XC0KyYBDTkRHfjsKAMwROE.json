@@ -1,0 +1,47 @@
+{
+  "hotel_id": "ChIJ-XC0KyYBDTkRHfjsKAMwROE",
+  "hotel_name": "Hotel O By Oyo Sai Palace",
+  "area": "Azadpur",
+  "budget_category": "Budget",
+  "rating": 2.9,
+  "trust_score": 0.3360346435240003,
+  "travel_purpose_tags": [
+    "Budget"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "moderate",
+    "review_count": 5,
+    "positive_snippet_count": 0,
+    "negative_snippet_count": 3,
+    "positive_theme_count": 1,
+    "negative_theme_count": 2
+  },
+  "aspect_scores": {
+    "cleanliness": 0.000586460402701,
+    "service": 0.000586460402701,
+    "location": 0.5,
+    "value_for_money": 0.0006195923197082,
+    "staff_behavior": 0.0003738581435754
+  },
+  "recommendation_features": {
+    "popularity_score": 0.45663111472159,
+    "rating_score": 2.9,
+    "sentiment_score": 0.000569969031494
+  },
+  "review_evidence": {
+    "positive_snippets": [],
+    "negative_snippets": [
+      "They act like super hoteliers but they are giving rooms to their customers like they are showing pity on them. Such a bad behaviour I ever seen. The guy on reception said to me that please don't buy this hotel room even he seems to be the owner of that hotel. Lot of bed bugs. Smell of paint.",
+      "What a garbage place own by basil hopz. Very very unhealthy place. Please don\u2019t waste your time and money",
+      "Most pathetic.. and please give the options of negetive rating too.. can't find any star for negative ratings"
+    ]
+  },
+  "review_summary": "Based on 5 reviews.",
+  "positive_themes": {
+    "friendly_staff": 1
+  },
+  "negative_themes": {
+    "dirty_rooms": 1,
+    "parking_issues": 1
+  }
+}

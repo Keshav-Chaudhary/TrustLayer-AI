@@ -1,0 +1,50 @@
+{
+  "hotel_id": "ChIJnQTKoYYXDTkRU7pRAcKFALk",
+  "hotel_name": "Hotel O Circle Residency",
+  "area": "Sector 10",
+  "budget_category": "Mid-Range",
+  "rating": 3.8,
+  "trust_score": 0.4496608093399214,
+  "travel_purpose_tags": [
+    "Budget"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "moderate",
+    "review_count": 5,
+    "positive_snippet_count": 0,
+    "negative_snippet_count": 3,
+    "positive_theme_count": 3,
+    "negative_theme_count": 3
+  },
+  "aspect_scores": {
+    "cleanliness": 0.0003054701470924,
+    "service": 0.5,
+    "location": 0.0002840225351974,
+    "value_for_money": 0.000330459944962,
+    "staff_behavior": 0.0003925895240778
+  },
+  "recommendation_features": {
+    "popularity_score": 0.4286944341535564,
+    "rating_score": 3.8,
+    "sentiment_score": 0.0003416018793358
+  },
+  "review_evidence": {
+    "positive_snippets": [],
+    "negative_snippets": [
+      "Don\u2019t fall for their scam.. they are totally scammers, FRAUD, I was cheated of \u20b915,000 by people named Deepak Poonia and Mukesh in the name of house booking. Before taking money, they acted polite, shared photos, and gave false assurances. The moment the payment was done via Google Pay, they vanished like cowards.\nNo calls answered. No messages replied. No refund. Nothing.\nThis is not a genuine property \u2014 it is a fake listing created only to loot people..\nPeople like Deepak Poonia and Mukesh are professional cheaters who survive by lying and stealing others\u2019 hard-earned money.\nDO NOT trust this property.\nDO NOT send advance payment.\nYou will lose your money and your peace of mind.\nDisgusting experience. Authorities have been informed.",
+      "Do not book a room at this hotel. They didn't even have drinking water, and the rooms were not clean at all. The bed sheets smelled terrible. I had to order water from Blinkit in the middle of the night. And to top it all off, there was a party going on in the party hall, even though I had specifically asked for a room where I wouldn't hear any noise. But still, I could hear loud noises and abusive language until morning.  On top of that, the staff was rude and didn't even answer the phone.",
+      "WORSTTTTT !!!!! DONT BOOK. Worst place I have ever been in. I booked the entire place for my guests. The staff was very poor. They didn\u2019t even provide water. There were street dogs inside the rooms. There were no doormats. There was no water in the sink. And the owner stopped picking my call when i shared these problems. He said that I can check out of the place if i was having so much problem. We ourselves got bottles and mattresses to make our guests comfortable. They did not even return our security money."
+    ]
+  },
+  "review_summary": "Based on 5 reviews.",
+  "positive_themes": {
+    "friendly_staff": 3,
+    "clean_rooms": 1,
+    "great_value": 2
+  },
+  "negative_themes": {
+    "dirty_rooms": 2,
+    "rude_staff": 1,
+    "noise": 1
+  }
+}

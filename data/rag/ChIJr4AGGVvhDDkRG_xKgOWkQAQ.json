@@ -1,0 +1,49 @@
+{
+  "hotel_id": "ChIJr4AGGVvhDDkRG_xKgOWkQAQ",
+  "hotel_name": "Gumbers Farm New Delhi",
+  "area": "Asola",
+  "budget_category": "Mid-Range",
+  "rating": 3.7,
+  "trust_score": 0.4546760158198261,
+  "travel_purpose_tags": [
+    "Budget"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "moderate",
+    "review_count": 5,
+    "positive_snippet_count": 0,
+    "negative_snippet_count": 3,
+    "positive_theme_count": 3,
+    "negative_theme_count": 2
+  },
+  "aspect_scores": {
+    "cleanliness": 0.0100651559769175,
+    "service": 0.014110451680608,
+    "location": 0.0283737834542989,
+    "value_for_money": 0.0009980576578527,
+    "staff_behavior": 0.0009980576578527
+  },
+  "recommendation_features": {
+    "popularity_score": 0.4977612432682141,
+    "rating_score": 3.7,
+    "sentiment_score": 0.0116832742583937
+  },
+  "review_evidence": {
+    "positive_snippets": [],
+    "negative_snippets": [
+      "We booked Gumber Farms for two days, and the experience was extremely disappointing. Mr. Aman makes tall promises about the property, but the reality is far from what is advertised. Basic necessities like bathing and using the washroom were a constant source of frustration.\n\nThe bathroom jets did not work, geysers didn't work too, we were forced to bathe with cold water in the month of November. The washrooms were in a pathetic state\u2014extremely unhygienic and clearly not cleaned for a very long time.\n\nThe overall cleanliness of the property was unacceptable. There was fungus inside the refrigerator, dirt on the beds, and a general lack of maintenance everywhere.\n\nWe were charged \u20b990,000 for just 1.5 days, which felt completely unjustified given the condition of the place. By the end of our stay, we genuinely felt scammed.\n\nIf you are considering this property, I strongly advise you to stay away. You will regret it otherwise. This is the most honest and genuine review I can provide based on our experience.",
+      "DOESN'T LOOK SAME AS PICTURES. DO NOT BOOK. Horrible stay and owner Aman doesn't know how to speak to guests. Broken furniture and smelly rooms. Book at your own risk. Spoiled my family's stay during our wedding day. They couldn't even use the bathroom as it was stinky and there was no hot water.",
+      "I planned a team party at this farm yesterday. I had been shared very beautiful pictures of this farm but when we reached farm it was totally opposite. No maintenance at all to this farm been done from a long time. Stairs , floors , Sofas , showers everything was found broken or not working. AC\u2019s were slow , no AC at ground floor room. Staffs and the owners were so rude and doesn\u2019t let us enjoyed throughout the night with the certain reasons like you cannot keep food post 1 AM as caterers will take away the crockeries, pool is not available after 1 AM. They will charge extra money for that. So unhygienic, unprofessional and worst maintained farm. I will not recommend anyone going here if you don\u2019t want to spoil your party."
+    ]
+  },
+  "review_summary": "Based on 5 reviews.",
+  "positive_themes": {
+    "clean_rooms": 2,
+    "friendly_staff": 1,
+    "good_food": 1
+  },
+  "negative_themes": {
+    "dirty_rooms": 1,
+    "rude_staff": 1
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "hotel_id": "ChIJwXfALvkaDTkRmyFhEbkG2JQ",
+  "hotel_name": "Hotel Aerosky Prime",
+  "area": "Dwarka",
+  "budget_category": "Mid-Range",
+  "rating": 4.9,
+  "trust_score": 0.8327771047805299,
+  "travel_purpose_tags": [
+    "Budget"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "moderate",
+    "review_count": 5,
+    "positive_snippet_count": 3,
+    "negative_snippet_count": 0,
+    "positive_theme_count": 3,
+    "negative_theme_count": 0
+  },
+  "aspect_scores": {
+    "cleanliness": 0.9998843669891356,
+    "service": 0.0153746213763952,
+    "location": 0.5076294941827654,
+    "value_for_money": 0.5,
+    "staff_behavior": 0.9997652322053908
+  },
+  "recommendation_features": {
+    "popularity_score": 0.3386222175183568,
+    "rating_score": 4.9,
+    "sentiment_score": 0.8028871100395918
+  },
+  "review_evidence": {
+    "positive_snippets": [
+      "Very nice hotel. My stay is very nice  clear rooms comfortable stay  please stay here.\nGood staff",
+      "Had a wonderful stay! The location was perfect , and the hotel staff made us feel right at home. The rooms were clean, spacious, and had all the amenities we needed. I highly recommend it to anyone visiting",
+      "Metro view location\nRoom service\nSab kuchh okay hai \ud83d\ude0e\ud83d\udc4c"
+    ],
+    "negative_snippets": []
+  },
+  "review_summary": "Based on 5 reviews.",
+  "positive_themes": {
+    "friendly_staff": 4,
+    "clean_rooms": 2,
+    "good_location": 2
+  },
+  "negative_themes": {}
+}

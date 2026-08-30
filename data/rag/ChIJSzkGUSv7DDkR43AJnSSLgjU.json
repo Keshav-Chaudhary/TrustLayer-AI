@@ -1,0 +1,46 @@
+{
+  "hotel_id": "ChIJSzkGUSv7DDkR43AJnSSLgjU",
+  "hotel_name": "Hotel Blue Stone",
+  "area": "Kaushambi",
+  "budget_category": "Mid-Range",
+  "rating": 4.3,
+  "trust_score": 0.8376648371562408,
+  "travel_purpose_tags": [
+    "Budget"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "moderate",
+    "review_count": 5,
+    "positive_snippet_count": 3,
+    "negative_snippet_count": 0,
+    "positive_theme_count": 3,
+    "negative_theme_count": 0
+  },
+  "aspect_scores": {
+    "cleanliness": 0.0104221636429429,
+    "service": 0.9998532831668854,
+    "location": 0.0104221636429429,
+    "value_for_money": 0.0104221636429429,
+    "staff_behavior": 0.6700593807424108
+  },
+  "recommendation_features": {
+    "popularity_score": 0.7384889171412031,
+    "rating_score": 4.3,
+    "sentiment_score": 0.8016293035820127
+  },
+  "review_evidence": {
+    "positive_snippets": [
+      "We recently hosted my son\u2019s Mundan ceremony at this wonderful hotel, and it was truly an unforgettable experience. Everything was absolutely perfect from start to finish.\n\nThe arrangements were beautifully done, and the ambiance created such a warm and welcoming atmosphere for our family and guests. The staff was extremely professional, attentive, and courteous throughout the entire event. Their service was excellent \u2014 always prompt, well-organized, and delivered with a smile.\n\nThe food was delicious and appreciated by all our guests. Every detail was taken care of with great care and dedication, which allowed us to enjoy the ceremony without any stress.\n\nWe are extremely happy with our decision to choose this hotel for such a special occasion. I would highly recommend this venue to anyone planning a family function or celebration. Thank you to the entire team for making my son\u2019s Mundan ceremony so memorable and special.",
+      "The staff was polite and helpful. The food was excellent. The overall experience was very pleasant.  Thank you to all members of the staff.",
+      "Good but only if your business is in the vicinity of the Hotel. Sayed here in October, 2015.\nFirst the good points - 1. Clean, neat and very good for the price. 2. Comes with a good and decent restaurant. 2. Friendly and helpful staff.\nThe not-so-good details - 1. I had a tough time finding this Hotel because I had done booking under Oyyo Premium Kaushambi on another site which incidentally does not mention the name of the Hotel as Blue Stone. Till I reached the hotel no one actually informed (while speaking to people on the phone) that it was Blue Stone. By the way, you need to tell your cab driver that is adjacent to the Radisson Blue hotel in Ghaziabad. 2. Unless you have business in the vicinity of the Hotel I will not suggest it. I had to go early morning to the Anand Vihar Railway Station next day and therefore opted for this hotel. I took an Ola cab that cost me Rs.450 (driver could not locate the hotel) and a one hour plus ride from Delhi Domestic Airport to this Hotel. The drive and locating the Hotel due to the false identification of the name made it one harrowing experience. Also the hotel is located in UP and therefore no autos and taxis actually ply to Delhi and back to the hotel. I had to hire a private taxi for this and that which cost me much more than the normal fare. 3. Avoid the cake like, stone like soap that is offered in the bathroom. It also will not lather."
+    ],
+    "negative_snippets": []
+  },
+  "review_summary": "Based on 5 reviews.",
+  "positive_themes": {
+    "friendly_staff": 3,
+    "good_food": 3,
+    "clean_rooms": 1
+  },
+  "negative_themes": {}
+}

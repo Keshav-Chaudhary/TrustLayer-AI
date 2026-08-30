@@ -1,0 +1,53 @@
+{
+  "hotel_id": "ChIJuQOV4UP9DDkR_zW0AORu0Os",
+  "hotel_name": "Hotel Cabana",
+  "area": "Paharganj",
+  "budget_category": "Mid-Range",
+  "rating": 3.6,
+  "trust_score": 0.7181174911380543,
+  "travel_purpose_tags": [
+    "Leisure",
+    "Business"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "moderate",
+    "review_count": 5,
+    "positive_snippet_count": 3,
+    "negative_snippet_count": 1,
+    "positive_theme_count": 5,
+    "negative_theme_count": 1
+  },
+  "aspect_scores": {
+    "cleanliness": 0.9997849663098654,
+    "service": 0.9996060729026794,
+    "location": 0.9997383654117584,
+    "value_for_money": 0.0329124853014946,
+    "staff_behavior": 0.758069409057498
+  },
+  "recommendation_features": {
+    "popularity_score": 0.6067288038217232,
+    "rating_score": 3.6,
+    "sentiment_score": 0.8064296588301658
+  },
+  "review_evidence": {
+    "positive_snippets": [
+      "I had a wonderful stay at this hotel. The rooms were clean, comfortable, and well maintained. The owner was incredibly kind, welcoming, and always ready to help, which made the stay even more special. You can truly feel the care and attention put into this place. I highly recommend this hotel and would happily stay here again.\nNear By New delhi railway station",
+      "I had a wonderful stay at this hotel. The rooms were clean, comfortable, and well maintained. Special thanks to the manager, Mr. Sajid Hussain, for his kind and helpful nature. He made sure everything was perfect.\nI am highly recommend this hotel to everyone\u2026",
+      "Great location. You get what you pay for. The room was clean. Friendly helpful service"
+    ],
+    "negative_snippets": [
+      "I want to be honest. The hotel was good, and the staff were very helpful, but it was not the best value for money. If you could book it at a lower price, it might be justified.\nThere were a few issues: there was no heating or air conditioning, and no proper ventilation, so we had to open the window. Because of that, the street noise was very noticeable. However, the staff did provide an extra heater, which was helpful. The toilet seat was unusually high, which could be uncomfortable for shorter guests as their feet may not touch the floor. Overall, it is a decent hotel, but it does not fully match what is shown in the pictures. It is okay for a one-night stay."
+    ]
+  },
+  "review_summary": "Based on 5 reviews.",
+  "positive_themes": {
+    "clean_rooms": 3,
+    "friendly_staff": 5,
+    "good_location": 2,
+    "good_food": 1,
+    "great_value": 1
+  },
+  "negative_themes": {
+    "noise": 1
+  }
+}

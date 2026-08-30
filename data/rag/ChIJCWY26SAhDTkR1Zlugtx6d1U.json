@@ -1,0 +1,48 @@
+{
+  "hotel_id": "ChIJCWY26SAhDTkR1Zlugtx6d1U",
+  "hotel_name": "Camp Wild Retreat At Aravali Valley",
+  "area": "Distt",
+  "budget_category": "Mid-Range",
+  "rating": 4.1,
+  "trust_score": 0.8600618713223163,
+  "travel_purpose_tags": [
+    "Leisure",
+    "Business"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "moderate",
+    "review_count": 5,
+    "positive_snippet_count": 3,
+    "negative_snippet_count": 0,
+    "positive_theme_count": 4,
+    "negative_theme_count": 0
+  },
+  "aspect_scores": {
+    "cleanliness": 0.9987818598747252,
+    "service": 0.999811589717865,
+    "location": 0.999777466058731,
+    "value_for_money": 0.5,
+    "staff_behavior": 0.9995648562908171
+  },
+  "recommendation_features": {
+    "popularity_score": 0.6718021408348259,
+    "rating_score": 4.1,
+    "sentiment_score": 0.9996212244033812
+  },
+  "review_evidence": {
+    "positive_snippets": [
+      "A truly memorable getaway! From the moment we arrived, we were impressed by how big, neat, and beautiful the property is. It\u2019s an adventure lover's paradise, boasting a huge selection of activities like zip lining, sky cycling, and rock climbing\u2014there's never a dull moment. The spacious rooms were a comfortable retreat. The food is simple, satisfying, and good, and the staff deserves special mention for their genuine warmth and friendly service. Highly recommend for a fun-filled family or group trip!",
+      "We stayed for one night during the first week of Oct 2025, it wan an amazing experience. Food was hygienic and tasty, lemon water welcome drink was too good.\n\nRoom was clean with split ACs.\n\nPool was v clean. The staffs , guides were v polite and offer excellent services.\nLots of activities. Morning trekking was breathtaking..\n\nIts highly recommended. ( Just see the time and season before going, that will make a lots of difference and ensure that the pool is cleaned., asking them to send u recent pic etc.)",
+      "My holiday at Camp Wild Retreat was amazing! \ud83c\udfd5\ufe0f The rooms were super comfy, the service was top-notch, and the location was just perfect for a getaway. Highly recommend! \u2728\ud83d\ude0a"
+    ],
+    "negative_snippets": []
+  },
+  "review_summary": "Based on 5 reviews.",
+  "positive_themes": {
+    "clean_rooms": 2,
+    "friendly_staff": 4,
+    "good_food": 4,
+    "good_location": 2
+  },
+  "negative_themes": {}
+}

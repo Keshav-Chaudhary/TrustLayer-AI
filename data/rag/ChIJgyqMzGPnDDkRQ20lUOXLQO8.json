@@ -1,0 +1,52 @@
+{
+  "hotel_id": "ChIJgyqMzGPnDDkRQ20lUOXLQO8",
+  "hotel_name": "Fabhotel Black Pepper",
+  "area": "I P Colony",
+  "budget_category": "Mid-Range",
+  "rating": 4.7,
+  "trust_score": 0.8121935447449773,
+  "travel_purpose_tags": [
+    "Leisure",
+    "Business",
+    "Family"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "moderate",
+    "review_count": 5,
+    "positive_snippet_count": 3,
+    "negative_snippet_count": 1,
+    "positive_theme_count": 5,
+    "negative_theme_count": 0
+  },
+  "aspect_scores": {
+    "cleanliness": 0.9997753500938416,
+    "service": 0.7499305296441889,
+    "location": 0.9997922778129578,
+    "value_for_money": 0.9998285472393036,
+    "staff_behavior": 0.9998051722844442
+  },
+  "recommendation_features": {
+    "popularity_score": 0.3713337812992298,
+    "rating_score": 4.7,
+    "sentiment_score": 0.7998961081902962
+  },
+  "review_evidence": {
+    "positive_snippets": [
+      "I recently stayed at FabHotel and I was really impressed with the overall experience. The rooms were clean, comfortable, and well-maintained, with all the essential amenities provided. The staff were exceptionally courteous and helpful, always ready to assist with a smile.\n\nThe check-in and check-out process was smooth and quick, and the location was perfect \u2014 close to major attractions, restaurants, and public transport.\n\nWhat stood out the most was the great value for money \u2014 the comfort and service you get for the price is truly unbeatable. I would definitely recommend this FabHotel to anyone visiting the area and will surely stay here again on my next trip!",
+      "Very impressed by the polite and efficient staff. Rooms are very clean,bed sheets very neat,washroom very good,soaps and towel provided.Rooms cleaned daily.Arjun,Raj and Rahul took great care of me. I came all the way from Kerala.\nGreat stay ...keep it up..",
+      "It was fantastic stay there. It is newly built property having wonderful interior. And most appraisable thing is cleanliness which is great first impression of hotel. We had 3 days stay and entire family enjoyed a lot.\nVery supportive and professional staff. Food was good and great value for money and service was attentive and efficient.\nUltimately everything about the hotel was exceptional."
+    ],
+    "negative_snippets": [
+      "Even though the rooms were new , the hospitality and facilities provided was very very poor . I booked for one week with breakfast. But there were no breakfast available and no nearest hotels also.. In the second  day morning I struggled a lot to get a breakfast with tea . I had to fought with the hotel owner to get the breakfast from third day onwards that's without tea . You have to walk 1.2 km to get your neat hotel otherwise depend nearby trolly walas . Room service is petty poor . No chair in the room. My advice to FAB group is to think twice before making  a contract with these type of fellows otherwise will be ruining your goodwill and trust.."
+    ]
+  },
+  "review_summary": "Based on 5 reviews.",
+  "positive_themes": {
+    "clean_rooms": 4,
+    "friendly_staff": 3,
+    "good_location": 2,
+    "great_value": 2,
+    "good_food": 2
+  },
+  "negative_themes": {}
+}

@@ -1,0 +1,52 @@
+{
+  "hotel_id": "ChIJ--FGZrMZDTkRnNnjWOLxdmI",
+  "hotel_name": "The Grand Hotel",
+  "area": "Sector 14",
+  "budget_category": "Mid-Range",
+  "rating": 3.8,
+  "trust_score": 0.6473238043310052,
+  "travel_purpose_tags": [
+    "Budget"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "moderate",
+    "review_count": 5,
+    "positive_snippet_count": 2,
+    "negative_snippet_count": 3,
+    "positive_theme_count": 4,
+    "negative_theme_count": 1
+  },
+  "aspect_scores": {
+    "cleanliness": 0.984307825565338,
+    "service": 0.333410473249387,
+    "location": 0.5,
+    "value_for_money": 0.4922457163556827,
+    "staff_behavior": 0.4999638584122294
+  },
+  "recommendation_features": {
+    "popularity_score": 0.4632832163578625,
+    "rating_score": 3.8,
+    "sentiment_score": 0.5968326518428512
+  },
+  "review_evidence": {
+    "positive_snippets": [
+      "Really appreciate their efforts stars dn make a hotel 5 star the staff n the service takes it to the top To all the staff over here thank you so much  thankyou grand bizz for ur warm welcome and hospitality...",
+      "The staff were friendly. The place is good for it's rate. About the food though I better not comment."
+    ],
+    "negative_snippets": [
+      "Nasty and dirty rooms bedsheets and pillow covers are  not cleaned. bad smell in the room. But the staffs are good. please don't waste money and your time in this hotel.",
+      "hi, very bad experience with bizzalo.. no good service .. poor response...very in co operative staff.. no hospitality.. waste of money and time .. i will never wanna visit again here. very worst experience with the bizzalo",
+      "Staff behavior is very bad and service is really slow\nWorthless please don\u2019t choose this hotel"
+    ]
+  },
+  "review_summary": "Based on 5 reviews.",
+  "positive_themes": {
+    "friendly_staff": 5,
+    "good_food": 1,
+    "clean_rooms": 1,
+    "great_value": 1
+  },
+  "negative_themes": {
+    "dirty_rooms": 1
+  }
+}

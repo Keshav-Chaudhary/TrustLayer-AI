@@ -1,0 +1,51 @@
+{
+  "hotel_id": "ChIJRz9E5sELDTkRP0iz7bKL2qA",
+  "hotel_name": "Fun Town Amusement And Water Park",
+  "area": "Bahadurgarh",
+  "budget_category": "Mid-Range",
+  "rating": 3.8,
+  "trust_score": 0.6307918585593315,
+  "travel_purpose_tags": [
+    "Budget"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "moderate",
+    "review_count": 5,
+    "positive_snippet_count": 2,
+    "negative_snippet_count": 3,
+    "positive_theme_count": 3,
+    "negative_theme_count": 1
+  },
+  "aspect_scores": {
+    "cleanliness": 0.000383306731237,
+    "service": 0.3335358328380001,
+    "location": 0.5,
+    "value_for_money": 0.000383306731237,
+    "staff_behavior": 0.3335358328380001
+  },
+  "recommendation_features": {
+    "popularity_score": 0.6805999565050507,
+    "rating_score": 3.8,
+    "sentiment_score": 0.4001374834479065
+  },
+  "review_evidence": {
+    "positive_snippets": [
+      "We celebrated Holi... Best place for get together, social gatherings, marriages and other functions. The food quality is very good. Thank you",
+      "Thank you to the entire staff and management team of Bahadurgarh Fun Town for the excellent arrangements during our school picnic. Your professionalism, safety measures, and warm support made the visit smooth and enjoyable for the children. We truly appreciate your hospitality.\ud83d\ude4f"
+    ],
+    "negative_snippets": [
+      "Extremely disappointed with the management and lack of transparency at Fun Town Rohtak.Poor communication and unprofessional management. We called 24 hours in advance to confirm water rides for a group of 22, only to arrive and find them closed. The staff\u2019s excuse was that they 'thought we would just adjust.' A basic swimming pool is not a substitute for promised water rides. We feel misled and the 'adjustment' offered was solely for their convenience, not ours.While the food was decent, it does not compensate for the fact that we were misled.Instead, I had 22 disappointed guests to answer to. Do not trust their verbal confirmations they prioritize bookings over honesty.\" Not recommended for group bookings",
+      "Very poor experience. They failed to provide the services promised on their contract. Communication was non-existent when things went wrong. Definitely would not recommend and will not be returning.",
+      "Very dissatisfied according to ticket price.other waterpark and amusement park are much better then it. Food quality is not good. Everyone didn't like the service pool and other things. In water park 3 pools are only there and 5 big slides in which 3 are not working and a waterpark have 8 or 9 pools but it has 3-4 only worst experience totally money waste. The washroom was not clean staff behaviour is not good boys change in a shutter not proper washroom there for girls. Overall very bad experience \ud83d\ude15"
+    ]
+  },
+  "review_summary": "Based on 5 reviews.",
+  "positive_themes": {
+    "good_food": 3,
+    "friendly_staff": 3,
+    "clean_rooms": 1
+  },
+  "negative_themes": {
+    "rude_staff": 1
+  }
+}

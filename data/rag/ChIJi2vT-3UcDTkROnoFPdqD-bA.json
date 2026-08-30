@@ -1,0 +1,53 @@
+{
+  "hotel_id": "ChIJi2vT-3UcDTkROnoFPdqD-bA",
+  "hotel_name": "Centaur Hotel New Delhi Airport",
+  "area": "nr. Indira Gandhi International Airport",
+  "budget_category": "Mid-Range",
+  "rating": 3.2,
+  "trust_score": 0.5000058881234022,
+  "travel_purpose_tags": [
+    "Budget"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "moderate",
+    "review_count": 5,
+    "positive_snippet_count": 1,
+    "negative_snippet_count": 3,
+    "positive_theme_count": 5,
+    "negative_theme_count": 2
+  },
+  "aspect_scores": {
+    "cleanliness": 0.0006999590477789,
+    "service": 0.333663617139488,
+    "location": 0.2512250261170265,
+    "value_for_money": 0.0001861282944446,
+    "staff_behavior": 0.0001861282944446
+  },
+  "recommendation_features": {
+    "popularity_score": 0.7393530201515939,
+    "rating_score": 3.2,
+    "sentiment_score": 0.2010363075911299
+  },
+  "review_evidence": {
+    "positive_snippets": [
+      "Attended a marriage function at Centaur Hotel, IGI. The property has a classic, PSU-era hotel feel \u2014 functional rather than luxurious, and very much like a classic airport hotel, which aligns with its role as a legacy airport property.\nOverall, it\u2019s a decent and comfortable choice for hosting large gatherings. The service was generally good and the food tasted nice. There were a few moments when plates and food took time to be replenished, but otherwise the arrangements were managed fairly well."
+    ],
+    "negative_snippets": [
+      "Worst hotel you can imagine. Broken toilet which could not fixed until next morning. They want guests to come down 3 floors and use common toilet in lobby! Peeling paint, plaster falling from ceiling, phone not working.  All this after charging 7k.  Most disappointing and disgusting experience you can experience.  Switched to a different hotel at midnight as we couldn't stay there anymore.",
+      "The oldest airport hotel managed by govt. And you can feel so when you arrive there. It's not at all visible form the road. No sign boards. Only Google can take you there. Lobby is big and beautiful but not well maintained. Rooms are very basic. Food also very average kind. There are four lifts out of which only one was working. That too was stuck for 20 minutes with guests inside. Not a good option.",
+      "DONT COME!!\n\nSo my friend booked me this place since I had to stay one day in Delhi and we thought it would be good since it is close to the airport. It was even hard to get there from the airport, easiest was to get a cab from the airport again.\n\nAfter reaching at around 12:30, they gave me a room. It was nice that they let me in earlier, but I didn\u2019t want to stay one second longer when I see the room. There were roaches, purgent smell and very old carpet. Bedsheets were also not clean. Elevators are not running and the room electricity is broken.\n\nSo i asked for another room. It was renovated and acceptable in terms of cleanliness, but I would definitely not come again. The service was okay, when you talk to them they usually help, but you have to request it.\n\nAlso the whole hotel is rundown and far away from the pictures advertised with. Unfortunately, i was so in rage that i didn\u2019t take pics of the 1st room.\n\nSo overall, i would definitely stay away and try another place, even though in the end the stay was acceptable after putting in the effort as a guest."
+    ]
+  },
+  "review_summary": "Based on 5 reviews.",
+  "positive_themes": {
+    "good_food": 2,
+    "clean_rooms": 2,
+    "good_location": 2,
+    "friendly_staff": 1,
+    "great_value": 1
+  },
+  "negative_themes": {
+    "dirty_rooms": 2,
+    "rude_staff": 1
+  }
+}

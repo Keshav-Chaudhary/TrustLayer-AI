@@ -1,0 +1,48 @@
+{
+  "hotel_id": "ChIJwzxOpWkcDTkRIODm_a6JlXA",
+  "hotel_name": "Novotel New Delhi Aerocity",
+  "area": "Aerocity",
+  "budget_category": "Mid-Range",
+  "rating": 4.6,
+  "trust_score": 0.9810037236226512,
+  "travel_purpose_tags": [
+    "Leisure",
+    "Business"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "moderate",
+    "review_count": 5,
+    "positive_snippet_count": 3,
+    "negative_snippet_count": 0,
+    "positive_theme_count": 4,
+    "negative_theme_count": 0
+  },
+  "aspect_scores": {
+    "cleanliness": 0.999867836634318,
+    "service": 0.9998658001422882,
+    "location": 0.9960718154907228,
+    "value_for_money": 0.5,
+    "staff_behavior": 0.9991070032119752
+  },
+  "recommendation_features": {
+    "popularity_score": 0.9286894145609428,
+    "rating_score": 4.6,
+    "sentiment_score": 0.9991070032119752
+  },
+  "review_evidence": {
+    "positive_snippets": [
+      "We have been very well looked after by all the staff at this great hotel. Laundry staff Ashwani and Mohit both very quick and helpful with laundry. Great range of interesting foods available at the buffet, with friendly and efficient service. Rashmi and other housekeeping staff do an amazing job of refreshing our room too. And a nice pool and gym to keep us active. Thank you all!!  \ud83d\ude03\nLinda",
+      "Had a wonderful stay at a 5-star hotel. The rooms were very clean, spacious, and comfortable. The staff was extremely polite and helpful, always ready to assist with a smile. The food was delicious and the service was excellent. The ambience and facilities like the pool, gym, and lounge made the experience even better. Overall, it was a luxurious and relaxing stay. Highly recommended!",
+      "I had a very good stay at Novotel Aerocity. Overall, everything met the usual ACCOR standard reliable, comfortable, and well managed.\nThe hotel itself is beautiful, modern, and very well maintained. The room was spacious and comfortable, making the stay even more enjoyable. The Aerocity area is also clean, organized, and pleasant, which adds to the overall experience.\nThe hotel staff were very helpful throughout my stay. A special mention to Sanayege (apologies if I misspelled the name), a waiter at the restaurant, he was genuinely friendly, attentive, and very helpful. His warm service truly made a difference.\nOverall, a great experience, and I would definitely consider staying here again."
+    ],
+    "negative_snippets": []
+  },
+  "review_summary": "Based on 5 reviews.",
+  "positive_themes": {
+    "friendly_staff": 5,
+    "good_food": 3,
+    "clean_rooms": 3,
+    "good_location": 1
+  },
+  "negative_themes": {}
+}

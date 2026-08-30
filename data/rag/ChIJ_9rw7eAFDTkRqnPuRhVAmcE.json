@@ -1,0 +1,47 @@
+{
+  "hotel_id": "ChIJ_9rw7eAFDTkRqnPuRhVAmcE",
+  "hotel_name": "Hotel O Blue Sky",
+  "area": "Paschim Vihar",
+  "budget_category": "Mid-Range",
+  "rating": 3.4,
+  "trust_score": 0.3817293966613727,
+  "travel_purpose_tags": [
+    "Budget"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "moderate",
+    "review_count": 5,
+    "positive_snippet_count": 0,
+    "negative_snippet_count": 3,
+    "positive_theme_count": 2,
+    "negative_theme_count": 1
+  },
+  "aspect_scores": {
+    "cleanliness": 0.5,
+    "service": 0.5,
+    "location": 0.0004692018846981,
+    "value_for_money": 0.0001990375021705,
+    "staff_behavior": 0.0002300623746122
+  },
+  "recommendation_features": {
+    "popularity_score": 0.358409522528563,
+    "rating_score": 3.4,
+    "sentiment_score": 0.0009422556438948
+  },
+  "review_evidence": {
+    "positive_snippets": [],
+    "negative_snippets": [
+      "delhi hotel o bhera residency near peeragarhi metro station\nI had booked a room through oyo app at 2 in the night. On reaching there the receptionist Monty sitting there refused to take the booking through app and said if you want a room then you will have to cancel it through app and make payment on the QR given by me, if not you can go. Now at 2 in the night I said where should I go for this. I had to make payment on the QR given by them. I told them that if you do not take the booking through oyo app then remove your location. On the contrary they started misbehaving with me and got the oyo booking cancelled.",
+      "This hotel is a scam. Booked online through Oyo, after seeing 2 rooms, I made online payment and the staff immediately denied me the room. Called Oyo customer care and they called the manager right in front of me and the manager denied about availability of the rooms and disconnected the call. Please avoid this hotel. They will ask you for the cash of their own charges and NOT what these online portal will show you like agoda, Oyo, etc. PLS avoid.",
+      "NOT RECOMMENDED TO GO HERE AT ALL. I unknowingly booked with payment in Agoda and found that the booking is invalid or fraudulent. I am seeking redressal and refund of the booking amount. The place is old and in a pathetic condition. Damp and moldy rooms. Bad beds and staff behaves badly too. No lift.\nDON'T BOOK YOUR STAY HERE \ud83d\udc4e\ud83d\udc4e\ud83d\udc4e"
+    ]
+  },
+  "review_summary": "Based on 5 reviews.",
+  "positive_themes": {
+    "good_location": 1,
+    "friendly_staff": 3
+  },
+  "negative_themes": {
+    "rude_staff": 1
+  }
+}

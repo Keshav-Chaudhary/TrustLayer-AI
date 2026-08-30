@@ -1,0 +1,51 @@
+{
+  "hotel_id": "ChIJNYCvH2QZDTkRjLl3MLSE4S0",
+  "hotel_name": "Trinity Corporate Suites",
+  "area": "Sector 21",
+  "budget_category": "Mid-Range",
+  "rating": 4.1,
+  "trust_score": 0.7032628983942948,
+  "travel_purpose_tags": [
+    "Leisure"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "moderate",
+    "review_count": 5,
+    "positive_snippet_count": 3,
+    "negative_snippet_count": 1,
+    "positive_theme_count": 4,
+    "negative_theme_count": 1
+  },
+  "aspect_scores": {
+    "cleanliness": 0.4949372378687258,
+    "service": 0.0005212958058109,
+    "location": 0.8469454646110535,
+    "value_for_money": 0.9997518658638,
+    "staff_behavior": 0.9129499793052672
+  },
+  "recommendation_features": {
+    "popularity_score": 0.5860251385594003,
+    "rating_score": 4.1,
+    "sentiment_score": 0.5653388832171913
+  },
+  "review_evidence": {
+    "positive_snippets": [
+      "Nearby business park and ICICI HDFC Bank office. The rooms are clean but you may notice some unharmful flying insectsat night when lights are off. Complimentary in room breakfast is offered. Day resturant is not available but it is literally next to Domions and few other bearby resturants. Oral hygine kit was provided on demand. Overall staff was helpful.",
+      "Everything\u2019s nice about this small, boutique business hotel!\n\nMy 3rd visit here & i would keep coming back.\n\nPrasenjit is extremely helpful as always.\nRupam helped to close the booking quite swiftly.\n\nLocation is right next to Candor Techspace.\nFood is something they can improve on - the stuffed paranthas have very less potato filling.\nWi-fi is not the smoothest, but sufficient - they probably need more routers & a higher bandwidth.\n\nPeople who\u2019re complaining about ACs not working during the day probably don\u2019t understand how centralised Aircon works.. hotel have given both overhead hitachi ACs and big centralised vents to control the airflow as per your needs. During the day you need to use the Centralised Aircon instead of overhead ones which in my opinion is sufficient.\n\nTip: while check-in, go for rooms with glass windows (all the ones towards the exterior side of the building).",
+      "Pretty old property, rooms are not maintained well and you get some smell\nReception is too good and nothing is renovated for past decade"
+    ],
+    "negative_snippets": [
+      "I had a very disappointing experience at this hotel. While booking, I clearly mentioned multiple times that I needed a room with windows due to health reasons. Despite that, I was given a room with no windows at all.\n\nThe room was extremely dusty and poorly maintained. The cleanliness standards were unacceptable \u2014 there was visible dust everywhere, and the ventilation was terrible. Because of this environment, my allergy got triggered and I even started developing throat irritation/infection during my stay.\n\nWhen you're staying for work, basic hygiene and proper ventilation are not luxuries \u2014 they are necessities. Unfortunately, the hotel did not take my request seriously even after repeated communication.\nI would strongly recommend to refrain from booking such hotels to future guests to , especially if you have allergies or health concerns.\n\nVery disappointed with the management and overall maintenance."
+    ]
+  },
+  "review_summary": "Based on 5 reviews.",
+  "positive_themes": {
+    "clean_rooms": 3,
+    "friendly_staff": 2,
+    "good_location": 2,
+    "good_food": 2
+  },
+  "negative_themes": {
+    "dirty_rooms": 1
+  }
+}

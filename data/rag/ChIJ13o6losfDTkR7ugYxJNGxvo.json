@@ -1,0 +1,49 @@
+{
+  "hotel_id": "ChIJ13o6losfDTkR7ugYxJNGxvo",
+  "hotel_name": "V Resorts Farm Stay Delhi",
+  "area": "Chhatarpur",
+  "budget_category": "Budget",
+  "rating": 3.9,
+  "trust_score": 0.6119120217521049,
+  "travel_purpose_tags": [
+    "Budget"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "rich",
+    "review_count": 5,
+    "positive_snippet_count": 3,
+    "negative_snippet_count": 2,
+    "positive_theme_count": 3,
+    "negative_theme_count": 0
+  },
+  "aspect_scores": {
+    "cleanliness": 0.5000770088954595,
+    "service": 0.0002956384269054,
+    "location": 0.5,
+    "value_for_money": 0.5,
+    "staff_behavior": 0.3399619151217241
+  },
+  "recommendation_features": {
+    "popularity_score": 0.5235387412652964,
+    "rating_score": 3.9,
+    "sentiment_score": 0.4040017775900196
+  },
+  "review_evidence": {
+    "positive_snippets": [
+      "I went there with my gf for my bday celebration on 28th July,18. The rooms were super clean and food was delicious. We had bf and lunch combo. They made arrangements for cake cutting (which we brought ourselves) in their beautiful garden. The staff is super helpful and courteous. It is a must visit if you want to lay back and relax in greenry and fresh air of nature. The bonsai plants/mini trees are cute. They can arrange candle light dinner and bonfire as well (based on the weather). The laneway to reach this farmhouse is all filled with greenry, you would get a blissful feeling once you are away from all the hush and fuss of delhi traffic and pollution.\n\nOverall a great experience with V resort Farmhouse and I recommend this place to all, for a beautiful day outing with your dear and loved ones.",
+      "Pros :\n-The number of rooms is just 3, meaning less      \tpeople, less crowd.\n-A very big area to explore, to have fun.\n-The quality of food is just too awesome!\n-There are many wild birds that you can spot\t\t\t               \tespecially some peahens.\n-Two extremely friendly dogs!!\n\nCons :\n-The main reason it lost a star -> the utter lack of maintenence. This place has so much potential but it is not maintained properly.\n-The lawn area should have more lights.\n\nP. S. Some comments here mentioned that the stray dogs here are very aggressive. Don't listen to them. Those dogs are extremely friendly, don't climb up on you and are very calm.",
+      "Services are very good specially Om Prakash..thank u so much to made our stay very comfortable. In summer days premium room have required powerful AC. Food was very delicious.(Only veg is available here). Bonsai is great and main attractive source of the resort."
+    ],
+    "negative_snippets": [
+      "Worst experience ever. This is my first time experience with v resort and I am very disappointed by the room service provided by them. AC is not working properly even after 5-6hours in night. The washroom nd bath tub is not cleaned, cockroach is lying in bath tub. After complaining about water kettle they provided the kettle. Room, bedsheets and washroom is not cleaned on daily basis. Care taker of resort is not even picking up the call even after calling for 4-5 times. Even the room booked is not given. They told to give welcome drink which is not provided. Till now after 10 days final bill or invoice is not received even after complaining to customer care.\n\nEven after your comment not received any final invoice till date.",
+      "Last year we went there, it was a good experience but this time it was very dissapointed. In breakfast they didn't have the basic items. Fan was not working in a room, after half day when we shifted to another room, it was filled with smoke. It was my B-Day. We hardly ate cake so we asked that staff boy to pack it n give it to us, but to my shocked when I checked at home it was just one piece left!!!  If they wanted to take they should have at least asked us!!  For each n everything they were saying sorry we don't have this, sorry we can't arrange this. First they say something then they don't do that n just say sorry. Acs were not cooling, it was so hot in room that I got headache. Whether it's food or facilities, nothing was managed and we just ended up hearing multiple sorrys ! Highly dissapointed!!"
+    ]
+  },
+  "review_summary": "Based on 5 reviews.",
+  "positive_themes": {
+    "clean_rooms": 2,
+    "friendly_staff": 3,
+    "good_food": 4
+  },
+  "negative_themes": {}
+}

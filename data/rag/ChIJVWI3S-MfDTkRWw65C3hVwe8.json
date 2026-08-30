@@ -1,0 +1,48 @@
+{
+  "hotel_id": "ChIJVWI3S-MfDTkRWw65C3hVwe8",
+  "hotel_name": "Housr 54 Suncity",
+  "area": "Sector 54",
+  "budget_category": "Mid-Range",
+  "rating": 4.3,
+  "trust_score": 0.5704199739626158,
+  "travel_purpose_tags": [
+    "Budget"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "moderate",
+    "review_count": 5,
+    "positive_snippet_count": 1,
+    "negative_snippet_count": 3,
+    "positive_theme_count": 3,
+    "negative_theme_count": 0
+  },
+  "aspect_scores": {
+    "cleanliness": 0.0077703027054667,
+    "service": 0.0011924322461708,
+    "location": 0.0077703027054667,
+    "value_for_money": 0.0045257266028783,
+    "staff_behavior": 0.3340665376745164
+  },
+  "recommendation_features": {
+    "popularity_score": 0.3811417720613274,
+    "rating_score": 4.3,
+    "sentiment_score": 0.2022147259442135
+  },
+  "review_evidence": {
+    "positive_snippets": [
+      "Housr Suncity 54 is a beautiful property with excellent services. A special thanks to the General Manager, Mr. Daksh, who truly treats every resident like family. His warm hospitality and willingness to help at every step make the stay not just comfortable but truly memorable."
+    ],
+    "negative_snippets": [
+      "There are bed bugs on the bed. Also, there is dampness on the wall. Management does not act swiftly on complaint. Quality of food provided is not good. It upsets the stomach.Electricity bill is exaggerated (50% more than normal).",
+      "In the name of premium they give you average service be it food or cleaning or security etc. The only premium is their rentals. They don\u2019t solve any issues quickly and sometimes they also lie that issue is solved and close the issue and you end up finding the issue still open. As soon I rented I found they reduced cleaning staff and security and even food quality has degraded drastically. If you are ready to pay electricity bill which is 40% to 50% expensive then other PG\u2019s do consider this so called premium PG provider. In less than 3 months I have seen their service degraded like bullet train. By the way we didn\u2019t had resident manager for long and now someone has joined. So be careful while considering their property. I also heard they behave like local home owners never return security deposit within 45 days and keep on avoiding follow ups.",
+      "HOUSR Suncity Sec 54\nThe immense troubles we are facing to get our security deposit back.\nIts been more than 4 months and still the deposit has not been returned, even after thousands of follow up with the area Manager Gagan Ramtani and Deepesh Kumar. The whole team has been ghosting me and giving me promised refund dates repeatedly getting missed without explanation. Why there\u2019s a delay? Is there any logical explanation to this major issue?\nHousr boasts of a safe and professional accommodation, but sadly in our experience its neither. I have pointed out to property managers about night guard drinking alcohol with outsiders on duty hours.\nThe managers incharge of the property and area are irresponsible and incompetent at their jobs except when taking the deposits or monthly rent.\n\nI demand my refund at the earliest and apology from Housr."
+    ]
+  },
+  "review_summary": "Based on 5 reviews.",
+  "positive_themes": {
+    "good_food": 2,
+    "clean_rooms": 1,
+    "friendly_staff": 1
+  },
+  "negative_themes": {}
+}

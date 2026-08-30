@@ -1,0 +1,52 @@
+{
+  "hotel_id": "ChIJ_cETkuP_DDkRhX8mgtJsk20",
+  "hotel_name": "Hotel O Stay Town",
+  "area": "Burari",
+  "budget_category": "Budget",
+  "rating": 3.4,
+  "trust_score": 0.5670191118802911,
+  "travel_purpose_tags": [
+    "Leisure"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "rich",
+    "review_count": 5,
+    "positive_snippet_count": 3,
+    "negative_snippet_count": 2,
+    "positive_theme_count": 4,
+    "negative_theme_count": 1
+  },
+  "aspect_scores": {
+    "cleanliness": 0.3334902562006998,
+    "service": 0.000328998605255,
+    "location": 0.99987530708313,
+    "value_for_money": 0.5,
+    "staff_behavior": 0.9998801946640016
+  },
+  "recommendation_features": {
+    "popularity_score": 0.3309666882836649,
+    "rating_score": 3.4,
+    "sentiment_score": 0.600005199748557
+  },
+  "review_evidence": {
+    "positive_snippets": [
+      "The amenities provided were decent, but could be improved for a better experience. The check-in process was satisfactory, although it could be made more efficient. The room was comfortable, but could use some updates. Overall, it was a pleasant stay at the hotel.",
+      "I had a fantastic stay at Hotel Stay Town in Burari, Delhi. The location is perfect\u2014close to Kashmiri Gate and Delhi University, making it easy to explore the city. The staff was friendly and helpful, and the rooms were clean and comfortable with all the essentials. The free Wi-Fi and in-room coffee/tea facilities were a nice touch. Overall, it was a pleasant experience, and I'd definitely stay here again. Highly recommended!",
+      "The room was top-notch, with all amenities one could ask for. The check-in experience was hassle-free, and the staff was welcoming. The food was absolutely delicious, and the variety offered was commendable. Overall, a fantastic experience! Highly recommend!"
+    ],
+    "negative_snippets": [
+      "Review Title: Extremely Unhygienic and Not Suitable for Families\n\nI had a very disappointing experience at this OYO flagship property. The room was in a terrible state \u2014 unclean bedsheets, stained pillow covers, and the bathroom was filthy. To make matters worse, we found used items and empty packets that indicated questionable activities may be taking place in the rooms.\n\nThis hotel seems to cater primarily to couples looking for short stays without proper ID verification, which raises serious safety and ethical concerns. Most guests appear to use the facility for just a couple of hours, and it\u2019s definitely not a place where you\u2019d feel comfortable bringing your family.\n\nI strongly advise anyone looking for a clean, safe, and respectable place to avoid this property altogether. OYO seriously needs to monitor such listings and ensure basic hygiene and safety standards are met.",
+      "Rooms and bedsheets remain dirty, not good at any service. Anytime, any random person can come and try to unlock your room's gate."
+    ]
+  },
+  "review_summary": "Based on 5 reviews.",
+  "positive_themes": {
+    "clean_rooms": 2,
+    "friendly_staff": 2,
+    "good_location": 1,
+    "good_food": 1
+  },
+  "negative_themes": {
+    "dirty_rooms": 2
+  }
+}

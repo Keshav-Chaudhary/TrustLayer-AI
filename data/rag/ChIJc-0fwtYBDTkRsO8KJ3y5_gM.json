@@ -1,0 +1,48 @@
+{
+  "hotel_id": "ChIJc-0fwtYBDTkRsO8KJ3y5_gM",
+  "hotel_name": "Hotel O By Oyo Anshun Residency",
+  "area": "Rohini",
+  "budget_category": "Budget",
+  "rating": 2.6,
+  "trust_score": 0.3148377492304707,
+  "travel_purpose_tags": [
+    "Budget"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "moderate",
+    "review_count": 5,
+    "positive_snippet_count": 0,
+    "negative_snippet_count": 3,
+    "positive_theme_count": 3,
+    "negative_theme_count": 1
+  },
+  "aspect_scores": {
+    "cleanliness": 0.0025424700579605,
+    "service": 0.0050249422201886,
+    "location": 0.5,
+    "value_for_money": 0.0042205325444228,
+    "staff_behavior": 0.0003163256333209
+  },
+  "recommendation_features": {
+    "popularity_score": 0.5415137935002718,
+    "rating_score": 2.6,
+    "sentiment_score": 0.0025424700579605
+  },
+  "review_evidence": {
+    "positive_snippets": [],
+    "negative_snippets": [
+      "Worst experience. I wait 1 hour for check in they were not accepting online booking.. They asked me money for check in,. I was already paid while book the room messy room smelly shower was not working no tobels no blanket of oyo branding. Not buckets in washroom no clean.. That was nightmare living there next day they changed room bcz I did complent 2,3 times in oyo that room was just ok ok interior but everything was same smelly, no blanket",
+      "Very disappointed with my stay. The room I was given was completely different from the pictures shown on the OYO app. The actual room was very small, dirty, and had gutkha stains on the walls. It was extremely unhygienic and uncomfortable to stay in.",
+      "Very bad experience in my whole life. Staff dealing not good. They use tp eat paan gutkha. Room has no lock. Ned sheets not clean. Mosquetoes everywhere. Very bad experience"
+    ]
+  },
+  "review_summary": "Based on 5 reviews.",
+  "positive_themes": {
+    "clean_rooms": 2,
+    "friendly_staff": 1,
+    "great_value": 1
+  },
+  "negative_themes": {
+    "dirty_rooms": 4
+  }
+}

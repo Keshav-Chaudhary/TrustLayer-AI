@@ -1,0 +1,51 @@
+{
+  "hotel_id": "ChIJA-zn7S77DDkRXJsksvK3hLw",
+  "hotel_name": "Hotel Rajpath Residency",
+  "area": "Kaushambi",
+  "budget_category": "Mid-Range",
+  "rating": 3.6,
+  "trust_score": 0.646453244920479,
+  "travel_purpose_tags": [
+    "Leisure"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "rich",
+    "review_count": 5,
+    "positive_snippet_count": 3,
+    "negative_snippet_count": 2,
+    "positive_theme_count": 3,
+    "negative_theme_count": 1
+  },
+  "aspect_scores": {
+    "cleanliness": 0.0008315515005961,
+    "service": 0.3272204123883663,
+    "location": 0.9998064637184144,
+    "value_for_money": 0.4996234624268253,
+    "staff_behavior": 0.3333594921180823
+  },
+  "recommendation_features": {
+    "popularity_score": 0.5853355812316818,
+    "rating_score": 3.6,
+    "sentiment_score": 0.5960690810054075
+  },
+  "review_evidence": {
+    "positive_snippets": [
+      "We did stay in hotel to attend relatives marriage and it was booked by them only. Food is excellent, staff is is very poor.\nReception phone never connect and room door locks are pathetic.\nBathroom are ill maintained and staff hardly respond your quarrys.",
+      "Best hotel in the price\nAnd osm behaviour all staff",
+      "Very Nice Hotel Near by Kaushambi Metro also food very good also they have Benquet for conference and other functions."
+    ],
+    "negative_snippets": [
+      "Pathetic experience, nobody take the onus to serve the guest.Basic eminities are missing.Food quality is very poor. Even the property manager(Manish Aggarwal) is so rude that he doesn\u2019t know the basic courtesy. We are all ladies guest ,if google have negative rating would it be 5 black stars.Not allowing guests to meet and charged additional Rs 500/-each for our 2 guests.Room service is available on4 5 calls and atleast 2 hrs delayed.\nNot recommended for anything. They just fooled you to take the money that\u2019s it.",
+      "He seems to be bit smart to reply to a genuine review which seems to be no where closer to a decent reply. Please stop reply as copy paste. We haven\u2019t misplaced any bag in your property neither we have complained to it to you. We genuinely have a service issue and it is well described in my previous review. Please rectify that and then reply"
+    ]
+  },
+  "review_summary": "Based on 5 reviews.",
+  "positive_themes": {
+    "friendly_staff": 2,
+    "good_food": 3,
+    "good_location": 1
+  },
+  "negative_themes": {
+    "rude_staff": 1
+  }
+}

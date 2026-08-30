@@ -1,0 +1,49 @@
+{
+  "hotel_id": "ChIJu9d5CfDjDDkRCegi4jcwD24",
+  "hotel_name": "Fabhotel Jpm The Grand Bella",
+  "area": "Chittaranjan Park",
+  "budget_category": "Mid-Range",
+  "rating": 4.0,
+  "trust_score": 0.754775646062402,
+  "travel_purpose_tags": [
+    "Leisure"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "moderate",
+    "review_count": 5,
+    "positive_snippet_count": 3,
+    "negative_snippet_count": 1,
+    "positive_theme_count": 4,
+    "negative_theme_count": 0
+  },
+  "aspect_scores": {
+    "cleanliness": 0.6777294278144835,
+    "service": 0.5166557729244231,
+    "location": 0.9989466965198516,
+    "value_for_money": 0.5,
+    "staff_behavior": 0.6777294278144835
+  },
+  "recommendation_features": {
+    "popularity_score": 0.5293994757998772,
+    "rating_score": 4.0,
+    "sentiment_score": 0.8062163352966308
+  },
+  "review_evidence": {
+    "positive_snippets": [
+      "I stayed at this hotel for one day, and the service was absolutely perfect. The staff was polite, professional, and always ready to help. The room was clean, comfortable, and well maintained. Overall, it was a smooth, pleasant, and truly satisfying stay.",
+      "Stayed there for 2 nights. Perfect place. Rooms are quite good and the best part is it's in walking distance from CR Park Market.",
+      "The location is too good i must say that , the room was spacious well maintained had a perfect stay here"
+    ],
+    "negative_snippets": [
+      "Starting with the reception there was a girl which makes it couple to make checkin that was the only good thing i liked. Staff was not sure and no followup because we had to ask the room for us. Nobody escort med us to the room to tell about the room amenities. After entering the room saw that low ceiling which you can touch by taking little jump. Low level ceiling fan is there if you are 5'5\" tall and raise the arm  may be you will loose your hand.\nAC was not working seems just only the box is there and fan is blowing wind like normal ceiling fan does.\nBathroom was fine. Nobody even gave water bottle and no mini bar was there.\nWashroom was in fine condition. You have a balcony that you can open if AC and fan is not working properly.\nNo any phone number available for contacting to reception if you find any fault in the room or else to call reception. The locality was good and you can go by car park the if you find a space but u can see problem in that also while reversing. The locked gate makes it one sided opened, so the way u have come again you have to go back that side. I took room for 3 hours but I left in 1 hour. To make reservation was easy and staff is flexible and you can negotiate with them. I will say if in the summer you are going take a look of the room first and then book it even if you have to give 200 or 300 extra."
+    ]
+  },
+  "review_summary": "Based on 5 reviews.",
+  "positive_themes": {
+    "clean_rooms": 2,
+    "friendly_staff": 3,
+    "good_location": 1,
+    "good_food": 1
+  },
+  "negative_themes": {}
+}

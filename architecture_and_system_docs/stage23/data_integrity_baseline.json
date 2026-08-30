@@ -1,0 +1,23 @@
+{
+  "csv": {
+    "file_path": "D:\\Side_Projects\\0_Independent_Project\\NewBackend_start\\data\\exports\\final_hotel_dataset.csv",
+    "sha256": "9f3bf74289439522e54593891e3a5426e81ca79e7f99bcdd33615a004e4cfdd8",
+    "row_count": 1661,
+    "unique_hotel_ids_count": 1661
+  },
+  "json": {
+    "file_path": "D:\\Side_Projects\\0_Independent_Project\\NewBackend_start\\data\\exports\\batch_debug_results.json",
+    "sha256": "90f36f1644e1d351667a9384e78fb5852c413c7ca570feb12c635d0d3ac15c77",
+    "run_count": 3,
+    "run_ids": [
+      "6f2067f6-50ec-4df4-a86c-aa8e560c303b",
+      "6cf49254-7678-4cf0-878d-4adfb528fa6e",
+      "4a2d8629-573d-45d1-b0e1-208175207740"
+    ]
+  },
+  "chromadb": {
+    "dir_path": "D:\\Side_Projects\\0_Independent_Project\\NewBackend_start\\data\\vector_store",
+    "collection_name": "hotel_knowledge",
+    "document_count": 7910
+  }
+}

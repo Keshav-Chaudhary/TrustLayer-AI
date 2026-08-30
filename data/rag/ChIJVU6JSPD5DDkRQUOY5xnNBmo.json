@@ -1,0 +1,44 @@
+{
+  "hotel_id": "ChIJVU6JSPD5DDkRQUOY5xnNBmo",
+  "hotel_name": "Hotel O By Oyo Foji Guest House",
+  "area": "Loni",
+  "budget_category": "Budget",
+  "rating": 2.7,
+  "trust_score": 0.2545215268075068,
+  "travel_purpose_tags": [
+    "Budget"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "sparse",
+    "review_count": 4,
+    "positive_snippet_count": 1,
+    "negative_snippet_count": 3,
+    "positive_theme_count": 0,
+    "negative_theme_count": 0
+  },
+  "aspect_scores": {
+    "cleanliness": 0.5,
+    "service": 0.5,
+    "location": 0.5,
+    "value_for_money": 0.5,
+    "staff_behavior": 0.5
+  },
+  "recommendation_features": {
+    "popularity_score": 0.1935748254816269,
+    "rating_score": 2.7,
+    "sentiment_score": 0.003781367811219
+  },
+  "review_evidence": {
+    "positive_snippets": [
+      "Good"
+    ],
+    "negative_snippets": [
+      "There is no room connected with Oyo so plz don't go at this place,very bad area of gaziabad,,if Oyo have disconnected their services with foji guest house then why didn't they uploaded it on their website,,people will be fooled by seeing lower prices.",
+      "This hotel is closed permanently but bookings are still open, fraudulent bookings are still being made.\nThis is what happened to us tonight.",
+      "No hotel there so don't book this hotel"
+    ]
+  },
+  "review_summary": "Based on 4 reviews.",
+  "positive_themes": {},
+  "negative_themes": {}
+}

@@ -1,0 +1,54 @@
+{
+  "hotel_id": "ChIJH9rmCoypDTkRE9KvTD1AIoA",
+  "hotel_name": "Hotel Orbit Haveli",
+  "area": "Narela Landmark:- 3 Towers On building",
+  "budget_category": "Mid-Range",
+  "rating": 3.8,
+  "trust_score": 0.6370128552183204,
+  "travel_purpose_tags": [
+    "Leisure",
+    "Family"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "moderate",
+    "review_count": 5,
+    "positive_snippet_count": 2,
+    "negative_snippet_count": 3,
+    "positive_theme_count": 5,
+    "negative_theme_count": 1
+  },
+  "aspect_scores": {
+    "cleanliness": 0.9996488392353058,
+    "service": 0.4785211960552259,
+    "location": 0.9777367413043976,
+    "value_for_money": 0.9997803568840028,
+    "staff_behavior": 0.7390850176452659
+  },
+  "recommendation_features": {
+    "popularity_score": 0.422934464355772,
+    "rating_score": 3.8,
+    "sentiment_score": 0.591413423686754
+  },
+  "review_evidence": {
+    "positive_snippets": [
+      "Had a great stay at Hotel Orbit Haveli (OYO) in Narela. The room was clean, spacious, and exactly like the photos. Staff was polite and helpful, and check-in was smooth. The place has a nice traditional vibe but feels modern and comfy. Food was decent and the location is easy to reach. Great value for money \u2013 would definitely stay again!",
+      "This hotel was nice. Staff and service were good. But the location wasn't cool for night, it's gives you spooky type feeling because of dark outside."
+    ],
+    "negative_snippets": [
+      "Clean, cozy hotel, friendly staff, great spot. Wi-Fi fast, breakfast average. Minor noise issue, but four-star experience. Will return!",
+      "STAY HERE ONLY IF YOU WANT TO RUIN YOUR TRIP. THEY ARE TOTALLY FRAUDSTERS. THEY DIDN'T HAVE PHONES IN THEIR ROOM. MANAGERS ARE TOO  ARROGANT EVEN THEY KICKED OUT ONE FAMILY AT 11:00 PM IN THE NIGHT IN FRONT OF ME WHEN I WAS CHECKING IN. THEY LOVE HARASSING THEIR GUESTS AND THROWING OUT FAMILIES AT 11:00 PM AT NIGHT OUT OF THEIR HOTEL AND SAYING WE CAN'T GIVE YOU ROOM ANYMORE. SMOKING IS ALSO DONE BY THE MANAGER HIMSELF IN FRONT OF GUESTS AND BROKEN TOILETS AND NO STAFF FOR CLEANING. THEY ARE TOTALLY FRAUD. ALL GOOD REVIEWS ARE BEING POSTED BY THE MANAGER HIMSELF HERE. AFTER READING THIS IF YOU STILL STAY HERE, BE READY FOR DIRT, BROKEN TOILETS, MOSQUITOES, NO DUSTBIN, NO WATER, NO ROOM SERVICE, AND IF THEY DON'T LIKE YOU BE READY TO BE THROWN OUT OF THE HOTEL AT NIGHT SPECIALLY WHEN YOU ARE WITH FAMILY.",
+      "This is not a hotel or guest house. This is the place where criminal spend there nights with hotel owner. This place is not safe for family. Police should take some action against them. I spend a night in this hotel and it was a horrific experience."
+    ]
+  },
+  "review_summary": "Based on 5 reviews.",
+  "positive_themes": {
+    "clean_rooms": 3,
+    "friendly_staff": 4,
+    "good_location": 2,
+    "great_value": 1,
+    "good_food": 2
+  },
+  "negative_themes": {
+    "noise": 1
+  }
+}

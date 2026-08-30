@@ -1,0 +1,135 @@
+# ==============================================================================
+# TrustLayer-AI .gitignore
+# ==============================================================================
+
+# --- Python & Bytecode ---
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+share/python-wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+
+# --- Testing & Coverage ---
+.pytest_cache/
+.coverage
+.coverage.*
+.cache
+nosetests.xml
+coverage.xml
+htmlcov/
+.tox/
+.nox/
+.hypothesis/
+
+# --- Virtual Environments ---
+venv/
+.venv/
+env/
+ENV/
+env.bak/
+venv.bak/
+
+# --- Environment Variables & Secrets ---
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+*.pem
+*.key
+*.cert
+*.crt
+# Keep configuration template tracked
+!.env.example
+
+# --- Node.js & Next.js Frontend ---
+frontend/node_modules/
+frontend/.next/
+frontend/out/
+frontend/build/
+frontend/.turbo/
+frontend/tsconfig.tsbuildinfo
+frontend/*.log
+node_modules/
+.next/
+out/
+build/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+.pnpm-debug.log*
+
+# --- Databases & Vector Stores (Generated Artifacts) ---
+data/*.db
+data/*.db-journal
+data/*.sqlite
+data/*.sqlite3
+data/vector_store/
+*.sqlite3
+data/exports/batch_debug_results.json
+data/diffs/
+data/runs/
+
+# --- LaTeX Build Intermediates (Preserves .tex, .bib, .sty, and final .pdf) ---
+latext_files/*.aux
+latext_files/*.bbl
+latext_files/*.blg
+latext_files/*.log
+latext_files/*.out
+latext_files/*.toc
+latext_files/*.lof
+latext_files/*.lot
+latext_files/*.synctex.gz
+latext_files/*.fdb_latexmk
+latext_files/*.fls
+latext_files/*.nav
+latext_files/*.snm
+latext_files/*.vrb
+
+# --- IDEs, Editors & OS Files ---
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+[Dd]esktop.ini
+
+# Visual Studio Code
+.vscode/*
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+!.vscode/extensions.json
+*.code-workspace
+
+# JetBrains (PyCharm / WebStorm)
+.idea/
+*.iml
+*.iws
+
+# Sublime / Vim
+*.sublime-project
+*.sublime-workspace
+*.swp
+*.swo
+*~

@@ -1,0 +1,53 @@
+{
+  "hotel_id": "ChIJ5RheowbkDDkRtDC1TjcYz1w",
+  "hotel_name": "Hotel Kundan Palace",
+  "area": "Jasola Vihar",
+  "budget_category": "Luxury",
+  "rating": 3.8,
+  "trust_score": 0.6333465263029512,
+  "travel_purpose_tags": [
+    "Leisure"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "moderate",
+    "review_count": 5,
+    "positive_snippet_count": 2,
+    "negative_snippet_count": 3,
+    "positive_theme_count": 5,
+    "negative_theme_count": 1
+  },
+  "aspect_scores": {
+    "cleanliness": 0.9997542500495912,
+    "service": 0.2501473480006098,
+    "location": 0.999759078025818,
+    "value_for_money": 0.4999996488040779,
+    "staff_behavior": 0.5000209861755138
+  },
+  "recommendation_features": {
+    "popularity_score": 0.6927111279256347,
+    "rating_score": 3.8,
+    "sentiment_score": 0.4000706596008967
+  },
+  "review_evidence": {
+    "positive_snippets": [
+      "Excellent Stay at Hotel Kundan Palace, New Delhi\n\nI had a wonderful experience staying at Hotel Kundan Palace, New Delhi. From the moment I checked in, the staff behavior was extremely polite, professional, and helpful. Every staff member was cooperative and always ready to assist with a smile, which truly made the stay comfortable and stress-free.\n\nThe hotel environment is calm, neat, and well-maintained. The rooms were very clean, hygienic, and properly sanitized. Regular housekeeping and fresh linens made the stay pleasant. The washrooms were also spotless and well maintained.\n\nIn terms of cost, the hotel offers great value for money. The room rates are reasonable compared to the quality of service, cleanliness, and location.\n\nOverall, I am very satisfied with the hygiene, cleanliness, cooperative service, and peaceful environment of this hotel. I would definitely recommend Hotel Kundan Palace to anyone looking for a safe, clean, and affordable stay in New Delhi. I will surely choose this hotel again on my next visit. Special thanks to Bijoy Da and Gopy Da. \u2764\ufe0f",
+      "It is a best hotel near hospital. The rooms are very beautiful and have the facilities for cooking. The hotel manager and receptionist were helpful."
+    ],
+    "negative_snippets": [
+      "One of the worst hotels I have ever stayed in. The management\u2019s behaviour is extremely unprofessional, and they have no manners while talking to customers. I strongly advise everyone to avoid this hotel.\n\nEspecially the manager, Gopi \u2014 his behaviour is very rude, disrespectful, and completely unacceptable. He even argued and behaved aggressively with customers instead of resolving issues.\n\nNever stay at this hotel. It\u2019s not worth your money or peace of mind.",
+      "One of the worst hotels I have ever stayed in. The management has very bad behaviour towards customers and they have no manners while talking to them. I would suggest never staying in this hotel. Especially Gopi, who is the manager, is extremely rude, has no manners, and was even ready to fight with a customer and asked us to check out. Very bad behaviour from this person, Gopi.",
+      "The worst hotel i ever seen in my life and they are not good in service,food they didn't mention that unmarried couple are not available on this hotel and pepele off outside the office are more worst then hotel"
+    ]
+  },
+  "review_summary": "Based on 5 reviews.",
+  "positive_themes": {
+    "clean_rooms": 1,
+    "friendly_staff": 2,
+    "good_location": 2,
+    "great_value": 2,
+    "good_food": 1
+  },
+  "negative_themes": {
+    "rude_staff": 2
+  }
+}

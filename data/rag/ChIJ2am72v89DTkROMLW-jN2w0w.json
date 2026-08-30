@@ -1,0 +1,50 @@
+{
+  "hotel_id": "ChIJ2am72v89DTkROMLW-jN2w0w",
+  "hotel_name": "Hotel Ajay Residency",
+  "area": "Sector 84",
+  "budget_category": "Mid-Range",
+  "rating": 3.9,
+  "trust_score": 0.7349104906532854,
+  "travel_purpose_tags": [
+    "Leisure",
+    "Family"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "rich",
+    "review_count": 5,
+    "positive_snippet_count": 3,
+    "negative_snippet_count": 2,
+    "positive_theme_count": 3,
+    "negative_theme_count": 0
+  },
+  "aspect_scores": {
+    "cleanliness": 0.9995933175086976,
+    "service": 0.9908667802810668,
+    "location": 0.9908667802810668,
+    "value_for_money": 0.9995933175086976,
+    "staff_behavior": 0.495536153888679
+  },
+  "recommendation_features": {
+    "popularity_score": 0.5915271225654928,
+    "rating_score": 3.9,
+    "sentiment_score": 0.7441996953391936
+  },
+  "review_evidence": {
+    "positive_snippets": [
+      "Food was fantastic and also thank to delivery on time.. this is 2nd time to order for a Team Dinner... Overall is Good \ud83d\udc4d Team is very happy to eat food....",
+      "The hotel is reasonable and in good location. They have 24hrs of food service and we have been served at 1AM n the food was good. In order to attract more customers, they will have to re-do the bathrooms n toilets as it looks not well maintained. The service at reception desk was great, friendly n helpful.",
+      "This is a budget hotel rather than 3* hotel . It is   motel kind of hotel   where one can stay here before reaching Delhi mid night. This is ok with hot water , western style bathroom, AC facility etc. Food is good which should be most positive about this hotel."
+    ],
+    "negative_snippets": [
+      "worst experience. after reaching there around 2:00 Am in night. they won't permit for check-in booking & payment was already done.still they are asking for 2000 extra. staff are useless. Not recommended. worst hotel with no safety no security.",
+      "If possible will give 0 start. Even oyo is better this"
+    ]
+  },
+  "review_summary": "Based on 5 reviews.",
+  "positive_themes": {
+    "good_food": 3,
+    "friendly_staff": 2,
+    "good_location": 1
+  },
+  "negative_themes": {}
+}

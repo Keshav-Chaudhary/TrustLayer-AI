@@ -1,0 +1,50 @@
+{
+  "hotel_id": "ChIJE_C2GxfjDDkR-hXZcO33uF0",
+  "hotel_name": "Hotel Samrat Residency",
+  "area": "Bhogal",
+  "budget_category": "Mid-Range",
+  "rating": 3.9,
+  "trust_score": 0.4757989503167601,
+  "travel_purpose_tags": [
+    "Budget"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "moderate",
+    "review_count": 5,
+    "positive_snippet_count": 0,
+    "negative_snippet_count": 3,
+    "positive_theme_count": 5,
+    "negative_theme_count": 1
+  },
+  "aspect_scores": {
+    "cleanliness": 0.0003607678518164,
+    "service": 0.0018678007181733,
+    "location": 0.0002433959452901,
+    "value_for_money": 0.0002380985315539,
+    "staff_behavior": 0.0007813325937604
+  },
+  "recommendation_features": {
+    "popularity_score": 0.488444492767926,
+    "rating_score": 3.9,
+    "sentiment_score": 0.0007683365343836
+  },
+  "review_evidence": {
+    "positive_snippets": [],
+    "negative_snippets": [
+      "This hotel was very poor in terms of hygiene, hospitality, location, food, value for money, facilities and accommodation. The rooms were not clean, the hotel staff were not friendly, the food was pathetic, the bathroom was not clean, the TV was outdated with a poor quality relay, the air conditioner was not working and there were no face and hand towels and definitely NOT value for money. The location of this hotel is also in a poor.\nPlease do not be lured by the pictures posted by this hotel. I will NOT recommend this hotel.",
+      "Samrat Residency is located in a rather shady and hard-to-reach area. The hotel itself feels quite dodgy \u2014 not ideal for families at all. The rooms are tiny, the furniture is crawling with cockroaches, and it seems like pest control hasn\u2019t been done in ages. Some rooms have ACs locked at a fixed temperature, which you can\u2019t adjust. Honestly, I have no idea how this place managed to get such good reviews \u2014 it\u2019s completely undeserved.",
+      "Pathetic service, arrogant behaviour from the person who is running this hotel. This person doesn\u2019t stand on his words and will b Very very rude and speak politely when other customers are around. Think 100 times before booking this hotel."
+    ]
+  },
+  "review_summary": "Based on 5 reviews.",
+  "positive_themes": {
+    "clean_rooms": 2,
+    "friendly_staff": 3,
+    "good_location": 1,
+    "great_value": 2,
+    "good_food": 1
+  },
+  "negative_themes": {
+    "rude_staff": 2
+  }
+}

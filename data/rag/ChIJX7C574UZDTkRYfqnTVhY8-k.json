@@ -1,0 +1,51 @@
+{
+  "hotel_id": "ChIJX7C574UZDTkRYfqnTVhY8-k",
+  "hotel_name": "Nook Inn & Suites",
+  "area": "Sector 25",
+  "budget_category": "Budget",
+  "rating": 4.5,
+  "trust_score": 0.7662381915964062,
+  "travel_purpose_tags": [
+    "Budget"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "rich",
+    "review_count": 5,
+    "positive_snippet_count": 3,
+    "negative_snippet_count": 2,
+    "positive_theme_count": 3,
+    "negative_theme_count": 1
+  },
+  "aspect_scores": {
+    "cleanliness": 0.4997498586308211,
+    "service": 0.5001098115608329,
+    "location": 0.5,
+    "value_for_money": 0.999126136302948,
+    "staff_behavior": 0.9992963075637816
+  },
+  "recommendation_features": {
+    "popularity_score": 0.5803601322866748,
+    "rating_score": 4.5,
+    "sentiment_score": 0.5998371638415847
+  },
+  "review_evidence": {
+    "positive_snippets": [
+      "I recently organized a wedding party at Hotel Nook Inn Suites, and I must say, it was an absolutely fantastic experience! The hotel took care of every detail with perfection, ensuring a smooth and well-organized event. Every guest at the party appreciated the seamless arrangements, delicious food, and impeccable cleanliness.\nthat everything was in place before the function began. Their dedication and professionalism truly made the event stress-free and enjoyable. If you\u2019re looking for a venue that offers top-notch service and an unforgettable experience, Hotel Nook is the perfect choice!",
+      "My experience was amazing with the property. I celebrated my baby\u2019s 1st birthday there and it was fabulous. Starting from the booking price, manager behaviour (he helps us in all the way), rooms was clean and perfect. Food was too tasty.my guests like the food soo much. Overall it was a great experience.",
+      "Im from philippines,i came here for exam,\nIts good and nice to stay,safe and friendly people ."
+    ],
+    "negative_snippets": [
+      "Never want to give this bad experience. But I have a pathetic experience with them.. Decoration was very bad. All the decoration stuff and flowers was dirty.. they told me that they will clean all the things and givee the perfect decoration but there is nothing..\n\nAnd the entrance decoration is very poor. Very few lights and very dull arrangement.\n\nAnd I am having a only 50 guest they donot serve atleast that much icecream also.\n\nDidn't recommend and suggest any one to book them and make your big day worst.. and ruined they Beautiful moments.",
+      "\u274c Disappointed with the Venue Management \u274c\nI booked this venue for my sister's wedding, and I\u2019m very disappointed with the service. Snacks were served at 9 PM and dinner started only at 10:30 PM \u2014 way too late for such an important occasion. Guests were waiting, and it created a very uncomfortable situation for us. The overall coordination and time management were very poor.\nNot recommended if you\u2019re expecting professional service for your big day."
+    ]
+  },
+  "review_summary": "Based on 5 reviews.",
+  "positive_themes": {
+    "clean_rooms": 3,
+    "good_food": 2,
+    "friendly_staff": 1
+  },
+  "negative_themes": {
+    "dirty_rooms": 1
+  }
+}

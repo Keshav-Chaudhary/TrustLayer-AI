@@ -1,0 +1,53 @@
+{
+  "hotel_id": "ChIJBevGfo4ZDTkRVZgGThgWOhM",
+  "hotel_name": "Lime Tree Hotel Pulkit Gurgaon Artemis Hospital, Nearest Millennium City Centre Metro Station",
+  "area": "Gurugram",
+  "budget_category": "Mid-Range",
+  "rating": 4.7,
+  "trust_score": 0.8719172442778987,
+  "travel_purpose_tags": [
+    "Leisure",
+    "Business"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "moderate",
+    "review_count": 5,
+    "positive_snippet_count": 3,
+    "negative_snippet_count": 1,
+    "positive_theme_count": 5,
+    "negative_theme_count": 1
+  },
+  "aspect_scores": {
+    "cleanliness": 0.5000838099513202,
+    "service": 0.7499397277133539,
+    "location": 0.9998542666435242,
+    "value_for_money": 0.5,
+    "staff_behavior": 0.9998348206281662
+  },
+  "recommendation_features": {
+    "popularity_score": 0.6520831586266501,
+    "rating_score": 4.7,
+    "sentiment_score": 0.7999264144338667
+  },
+  "review_evidence": {
+    "positive_snippets": [
+      "I had a wonderful stay at Lime Tree Hotel. The service was excellent and impressively fast, making the entire experience very smooth and comfortable. The location is convenient, and the rooms were clean, well-maintained, and very comfortable.\n\nThe staff were extremely professional and attentive, always ready to assist with a smile. The food at the hotel was delicious, with a variety of options that catered to different tastes.\n\nI would like to especially appreciate the warm and courteous hospitality of the manager, Mr. Harish, who made our stay even more pleasant with his kind and professional manner.\n\nOverall, Lime Tree Hotel exceeded my expectations, and I highly recommend it for anyone looking for a comfortable and enjoyable stay.",
+      "Nice big rooms,good experience maintained,few rooms might need minor revamp but overall a wonderful place with great food . Maneger sudhansh very helpful",
+      "Nice stay location was Good . Food also good. Housekeeping staff nice very fast service and both manager"
+    ],
+    "negative_snippets": [
+      "Don't book this hotel by mistake also. They don't maintain, no service at all. The dining hall, kitchen, so called chefs are so dirty, even they serve you food which are fallen on the ground. The road infront is always having water logging. No coordination between staffs. Charges ... based on their infra are not worthy at all."
+    ]
+  },
+  "review_summary": "Based on 5 reviews.",
+  "positive_themes": {
+    "clean_rooms": 1,
+    "friendly_staff": 5,
+    "good_location": 2,
+    "good_food": 4,
+    "great_value": 1
+  },
+  "negative_themes": {
+    "dirty_rooms": 1
+  }
+}

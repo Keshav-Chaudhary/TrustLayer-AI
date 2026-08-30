@@ -1,0 +1,46 @@
+{
+  "hotel_id": "ChIJw1-SozIZDTkRl1rQPEknUFw",
+  "hotel_name": "Cozystays",
+  "area": "Sector 53",
+  "budget_category": "Budget",
+  "rating": 4.9,
+  "trust_score": 0.8949038852921114,
+  "travel_purpose_tags": [
+    "Business"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "moderate",
+    "review_count": 5,
+    "positive_snippet_count": 3,
+    "negative_snippet_count": 0,
+    "positive_theme_count": 3,
+    "negative_theme_count": 0
+  },
+  "aspect_scores": {
+    "cleanliness": 0.9997994601726532,
+    "service": 0.9996635019779204,
+    "location": 0.5,
+    "value_for_money": 0.5,
+    "staff_behavior": 0.9990096886952718
+  },
+  "recommendation_features": {
+    "popularity_score": 0.336139675368766,
+    "rating_score": 4.9,
+    "sentiment_score": 0.9992708563804626
+  },
+  "review_evidence": {
+    "positive_snippets": [
+      "\u2b50\u2b50\u2b50\u2b50\u2b50 Highly Recommended!l\nHad a fantastic stay ! The staff was welcoming, the rooms were clean and comfortable. The breakfast was delicious, and the service was outstanding. Will definitely stay here again!",
+      "Amazing experience, staff was so good rooms were clean and food also having a good taste. Comfortable stay highly recommend\ud83d\udc4d\ud83c\udffb",
+      "Not gonna lie everything was so perfect whether it's food, service, cleanliness I really enjoyed my stay. Much recommended!!!!"
+    ],
+    "negative_snippets": []
+  },
+  "review_summary": "Based on 5 reviews.",
+  "positive_themes": {
+    "clean_rooms": 3,
+    "friendly_staff": 3,
+    "good_food": 4
+  },
+  "negative_themes": {}
+}

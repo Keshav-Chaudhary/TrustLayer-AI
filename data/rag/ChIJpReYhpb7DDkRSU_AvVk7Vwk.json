@@ -1,0 +1,42 @@
+{
+  "hotel_id": "ChIJpReYhpb7DDkRSU_AvVk7Vwk",
+  "hotel_name": "Hotel O By Oyo Sun Star Guest House",
+  "area": "Delhi",
+  "budget_category": "Budget",
+  "rating": 3.7,
+  "trust_score": 0.372663940200052,
+  "travel_purpose_tags": [
+    "Budget"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "sparse",
+    "review_count": 1,
+    "positive_snippet_count": 0,
+    "negative_snippet_count": 1,
+    "positive_theme_count": 1,
+    "negative_theme_count": 0
+  },
+  "aspect_scores": {
+    "cleanliness": 0.5,
+    "service": 0.5,
+    "location": 0.5,
+    "value_for_money": 0.5,
+    "staff_behavior": 0.0004341282474342
+  },
+  "recommendation_features": {
+    "popularity_score": 0.1290498836544179,
+    "rating_score": 3.7,
+    "sentiment_score": 0.0004341282474342
+  },
+  "review_evidence": {
+    "positive_snippets": [],
+    "negative_snippets": [
+      "Bad behaviour in staff and no privacy\nBy showing another room, they give a useless room and then show bullying.\nAvoiding this hotel\n3rd class room and bad toilet"
+    ]
+  },
+  "review_summary": "Based on 1 reviews.",
+  "positive_themes": {
+    "friendly_staff": 1
+  },
+  "negative_themes": {}
+}

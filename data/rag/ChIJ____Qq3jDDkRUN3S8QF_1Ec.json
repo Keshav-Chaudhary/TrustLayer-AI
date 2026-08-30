@@ -1,0 +1,54 @@
+{
+  "hotel_id": "ChIJ____Qq3jDDkRUN3S8QF_1Ec",
+  "hotel_name": "Hotel Amar Inn By Quadis",
+  "area": "Jal Vihar",
+  "budget_category": "Budget",
+  "rating": 4.3,
+  "trust_score": 0.6967447865255341,
+  "travel_purpose_tags": [
+    "Budget"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "moderate",
+    "review_count": 5,
+    "positive_snippet_count": 2,
+    "negative_snippet_count": 3,
+    "positive_theme_count": 4,
+    "negative_theme_count": 3
+  },
+  "aspect_scores": {
+    "cleanliness": 0.0017928673551068,
+    "service": 0.5054985343012959,
+    "location": 0.5016132486052811,
+    "value_for_money": 0.0098824130036518,
+    "staff_behavior": 0.4044362472981447
+  },
+  "recommendation_features": {
+    "popularity_score": 0.6717337678507843,
+    "rating_score": 4.3,
+    "sentiment_score": 0.4044362472981447
+  },
+  "review_evidence": {
+    "positive_snippets": [
+      "Good hotel with good staff\nI stayed for 3 nights everything was too good\nEven there were many foreigner staying in this hotel.\nThe guy at the reception was too friendly and was always smiling. Best staff I would say and best hotel to stay I would recommend",
+      "Excellent service, staff is really good, near market area walking distance, so convenient and reliable, definitely I will recommend to opt!"
+    ],
+    "negative_snippets": [
+      "This is hands down the worst hotel I have ever stayed in. Calling this place a hotel is an insult to real hotels.\n\nThe room was filthy, poorly maintained, and smelled terrible. Bedsheets were dirty, the bathroom looked like it hadn\u2019t been cleaned in ages, and everything felt broken or neglected. I didn\u2019t feel safe or comfortable for a single minute.\n\nThe staff were shockingly rude and completely unhelpful. Any request felt like a burden to them. Zero professionalism, zero respect for guests.\n\nThere was constant noise, no peace, and no basic facilities working properly. I paid good money for stress, discomfort, and frustration.\n\nThis hotel ruined my stay and wasted my time and money. I would strongly warn anyone thinking of booking here: DON\u2019T. Save yourself from this nightmare.\n\nWorst experience ever. Never coming back.",
+      "Bathroom was very small, tap water was very very slow. Service is poor because of limited staff. No intercom in the room. The water cattle was there but no relevant power ports at the table to plug it in. The receptionist took my mobile and did 5 star review by himself, after completing the first night. Location is good",
+      "To expensive account according to the price according to the room. Giger and tap water was coming very slow. I wont recommend you this hotel. I was good but not worth it accordingly to the price. Staff was kind and polite and helpful."
+    ]
+  },
+  "review_summary": "Based on 5 reviews.",
+  "positive_themes": {
+    "friendly_staff": 5,
+    "good_location": 2,
+    "clean_rooms": 1,
+    "great_value": 1
+  },
+  "negative_themes": {
+    "dirty_rooms": 1,
+    "rude_staff": 1,
+    "noise": 1
+  }
+}

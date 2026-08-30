@@ -1,0 +1,50 @@
+{
+  "hotel_id": "ChIJjeAJQbbdDDkRRcIeFMXXeRo",
+  "hotel_name": "Magpie Tourist Resort",
+  "area": "Sector 16A",
+  "budget_category": "Luxury",
+  "rating": 3.8,
+  "trust_score": 0.7336262457759466,
+  "travel_purpose_tags": [
+    "Budget"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "moderate",
+    "review_count": 5,
+    "positive_snippet_count": 2,
+    "negative_snippet_count": 3,
+    "positive_theme_count": 1,
+    "negative_theme_count": 2
+  },
+  "aspect_scores": {
+    "cleanliness": 0.2452079416107153,
+    "service": 0.5,
+    "location": 0.5,
+    "value_for_money": 0.9880732893943788,
+    "staff_behavior": 0.5
+  },
+  "recommendation_features": {
+    "popularity_score": 0.7297433038277928,
+    "rating_score": 3.8,
+    "sentiment_score": 0.6896969342546072
+  },
+  "review_evidence": {
+    "positive_snippets": [
+      "Ek num hotel value for money and give you a another level experience",
+      "Good place to dine and bar , good parking space , everything is fine"
+    ],
+    "negative_snippets": [
+      "My experience at Magpie Tourist Resort was adequate. The facilities were present, and I found the overall environment to be acceptable. However, there were a few aspects that could be improved upon to enhance the stay.",
+      "Recently me and my team visit magpie resort for a wedding shoot. The rooms was way to short for 2 people, the stairs was covered in dust. And lighting condition was very dull",
+      "Washroom were dirty, All sanitary fittings were hanging, There was no mosquito repellent in the room."
+    ]
+  },
+  "review_summary": "Based on 5 reviews.",
+  "positive_themes": {
+    "great_value": 1
+  },
+  "negative_themes": {
+    "parking_issues": 1,
+    "dirty_rooms": 1
+  }
+}

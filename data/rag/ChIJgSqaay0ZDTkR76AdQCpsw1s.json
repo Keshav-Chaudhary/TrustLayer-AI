@@ -1,0 +1,48 @@
+{
+  "hotel_id": "ChIJgSqaay0ZDTkR76AdQCpsw1s",
+  "hotel_name": "Saltstayz Premier Sector 42 - Golf Course Road",
+  "area": "Sector 42",
+  "budget_category": "Budget",
+  "rating": 4.8,
+  "trust_score": 0.945297595442396,
+  "travel_purpose_tags": [
+    "Leisure",
+    "Business"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "moderate",
+    "review_count": 5,
+    "positive_snippet_count": 3,
+    "negative_snippet_count": 0,
+    "positive_theme_count": 4,
+    "negative_theme_count": 0
+  },
+  "aspect_scores": {
+    "cleanliness": 0.9998334348201752,
+    "service": 0.99966641664505,
+    "location": 0.9994418621063232,
+    "value_for_money": 0.5,
+    "staff_behavior": 0.99966641664505
+  },
+  "recommendation_features": {
+    "popularity_score": 0.6349756230544532,
+    "rating_score": 4.8,
+    "sentiment_score": 0.99966641664505
+  },
+  "review_evidence": {
+    "positive_snippets": [
+      "The hotel was clean, well-maintained, and had a very pleasant atmosphere.\nI would especially like to give a special mention to Front Office Mr. Arpit Singh. He was very polite.\nThanks to the excellent service and supportive staff, I  recommend this hotel to anyone looking for a pleasant and hassle-free stay.",
+      "Overall I like the hotel and the stay and it is very quiet place with no disturbance of usual traffic sound.\nStaffs good and kind in responding to the queries and also to customers request.\nRestraunt is very decent with limited quantity of items and good quality food at both morning and night and they have in-room dining service as well. Toiletries are provided on demand but limited options.\nHeera Singh who is managing the kitchen is very friendly and supportive and ensures every guest is taken care.\nI have given 5 star rating only because of service I got from the hotel and the approach road is not good for 300 metres because of construction work happening near by, otherwise the property is very much easily accessible from the main Golf Course Road.\nNICE and GOOD PLACE TO STAY.\nThis is my honest feedback and thanks to SALTSTAYZ.",
+      "A great place to stay and location is accessible as well. Clean and spacious room and bathroom, tasteful offering and a beautiful breakfast. Staff is quite chivalrous and hospitable who make one feel at ease. Two people who particularly stood out were Mr Heera and Mr Ashish, it\u2019s time the hospitality industry creates people like them. It was Taj like service. Definitely coming here again."
+    ],
+    "negative_snippets": []
+  },
+  "review_summary": "Based on 5 reviews.",
+  "positive_themes": {
+    "clean_rooms": 2,
+    "friendly_staff": 5,
+    "good_location": 2,
+    "good_food": 4
+  },
+  "negative_themes": {}
+}

@@ -1,0 +1,48 @@
+{
+  "hotel_id": "ChIJzZI0VEkZDTkR29_RofPvWQE",
+  "hotel_name": "Saltstayz Premier - Near Golf Course Road & Sector 57",
+  "area": "Sector 57",
+  "budget_category": "Budget",
+  "rating": 4.8,
+  "trust_score": 0.8914953397510295,
+  "travel_purpose_tags": [
+    "Leisure",
+    "Business"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "moderate",
+    "review_count": 5,
+    "positive_snippet_count": 3,
+    "negative_snippet_count": 0,
+    "positive_theme_count": 4,
+    "negative_theme_count": 0
+  },
+  "aspect_scores": {
+    "cleanliness": 0.9998689889907836,
+    "service": 0.9998807907104492,
+    "location": 0.9998689889907836,
+    "value_for_money": 0.0071514719165861,
+    "staff_behavior": 0.7516857652226463
+  },
+  "recommendation_features": {
+    "popularity_score": 0.6795367760999621,
+    "rating_score": 4.8,
+    "sentiment_score": 0.8013224576599896
+  },
+  "review_evidence": {
+    "positive_snippets": [
+      "We recently hosted our event at this hotel and banquet hall, and the experience was absolutely wonderful. The entire function was organized beautifully and executed smoothly from start to finish.\n\nA special thanks to Mr. Rohit Tiwari, who was extremely helpful, professional, and attentive throughout the planning and execution. He ensured that every arrangement was taken care of perfectly and went above and beyond to make our event memorable.\n\nThe hospitality, ambiance, and overall management were excellent. Everything was well-coordinated, and our guests were truly impressed.\n\nHighly recommended for anyone looking to host a seamless and fabulous event!",
+      "Had a wonderful time at the hotel. Was there for a get together with college friends and all went well.\n\n\u25aa\ufe0fThe rooms are spacious and well appointed.\n\u25aa\ufe0fThe TV's are smart, so you can log into your OTT's and watch at pleasure.\n\u25aa\ufe0fEspecially impressed with the toiletries. Biotique herbals has done a good job in creating the range of hand wash, body wash & shampoo. The bergamot and patchouli fragrance is very uplifting & refreshing.\n\nSpecial mention for the staff, very accommodating to a customers needs and as flexible as they can be.\n\nGreat job Salt Stayz!!\n\nTill we meet again!!",
+      "I had a wonderful stay at Saltstayz in Sector 57, Gurugram. The rooms were clean, comfortable, and well-maintained. The staff was friendly and always ready to help. The location is excellent, with everything easily accessible. Overall, a great experience \u2014 I would definitely recommend this hotel for a pleasant and comfortable stay."
+    ],
+    "negative_snippets": []
+  },
+  "review_summary": "Based on 5 reviews.",
+  "positive_themes": {
+    "friendly_staff": 4,
+    "clean_rooms": 2,
+    "good_location": 1,
+    "good_food": 2
+  },
+  "negative_themes": {}
+}

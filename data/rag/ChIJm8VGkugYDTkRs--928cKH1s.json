@@ -1,0 +1,48 @@
+{
+  "hotel_id": "ChIJm8VGkugYDTkRs--928cKH1s",
+  "hotel_name": "Park Plaza Gurugram",
+  "area": "Sector 43",
+  "budget_category": "Mid-Range",
+  "rating": 4.3,
+  "trust_score": 0.9123053966604008,
+  "travel_purpose_tags": [
+    "Leisure",
+    "Business"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "moderate",
+    "review_count": 5,
+    "positive_snippet_count": 3,
+    "negative_snippet_count": 0,
+    "positive_theme_count": 4,
+    "negative_theme_count": 0
+  },
+  "aspect_scores": {
+    "cleanliness": 0.999697357416153,
+    "service": 0.9997699856758118,
+    "location": 0.9998531341552734,
+    "value_for_money": 0.5,
+    "staff_behavior": 0.9997743666172028
+  },
+  "recommendation_features": {
+    "popularity_score": 0.7921725004159809,
+    "rating_score": 4.3,
+    "sentiment_score": 0.9997918605804444
+  },
+  "review_evidence": {
+    "positive_snippets": [
+      "Excellent Stay at Park Plaza Gurgaon!\n\nI had a wonderful experience at Park Plaza Gurgaon. The hotel offers a perfect blend of comfort, elegance, and warm hospitality. The rooms are spacious, clean, and well-maintained with all modern amenities. The housekeeping team ensures everything is spotless and comfortable.\n\nThe front desk and staff were extremely polite, professional, and always ready to help with a smile. The breakfast buffet was delicious with a great variety of options to choose from. The restaurant service was equally impressive \u2014 attentive and courteous.\n\nThe location is another big plus \u2014 centrally situated and easily accessible to business hubs and shopping areas. The overall atmosphere of the hotel is calm, classy, and welcoming.",
+      "Surprisingly pleasant experience, rooms are big and spacious, service is great and food is good as well. Conveniently located in NCR very near major business and commercial hubs. Recommended for a business travel stay or personal likewise",
+      "Good services and clean rooms. Breakfast menu was good.\n\nFront desk Payal helped in quick check in / check out process.\n\nVery helpful staffs."
+    ],
+    "negative_snippets": []
+  },
+  "review_summary": "Based on 5 reviews.",
+  "positive_themes": {
+    "clean_rooms": 2,
+    "friendly_staff": 4,
+    "good_location": 2,
+    "good_food": 4
+  },
+  "negative_themes": {}
+}

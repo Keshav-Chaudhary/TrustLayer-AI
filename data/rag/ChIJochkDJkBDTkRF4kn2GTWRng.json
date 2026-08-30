@@ -1,0 +1,52 @@
+{
+  "hotel_id": "ChIJochkDJkBDTkRF4kn2GTWRng",
+  "hotel_name": "Sr Residency Delhi",
+  "area": "Rohini",
+  "budget_category": "Mid-Range",
+  "rating": 4.1,
+  "trust_score": 0.6268627913790752,
+  "travel_purpose_tags": [
+    "Budget"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "moderate",
+    "review_count": 5,
+    "positive_snippet_count": 2,
+    "negative_snippet_count": 3,
+    "positive_theme_count": 3,
+    "negative_theme_count": 2
+  },
+  "aspect_scores": {
+    "cleanliness": 0.5000383668375433,
+    "service": 0.5000623875093879,
+    "location": 0.5,
+    "value_for_money": 0.5000102816557046,
+    "staff_behavior": 0.2501391068726661
+  },
+  "recommendation_features": {
+    "popularity_score": 0.4747456150886466,
+    "rating_score": 4.1,
+    "sentiment_score": 0.4000585353875067
+  },
+  "review_evidence": {
+    "positive_snippets": [
+      "My stay here is really good. The owner spent money on jus the required things for 90% people. He seems to have good knowledge on what is actually required in a hotel room.\nAt the same time, it's pocket friendly.\nThank you very much for this service.\n\nCheers",
+      "Very nice facility and good staffs.\nWell maintained, clean and mordernized room.\nVery reasonable rate."
+    ],
+    "negative_snippets": [
+      "Worst rental experience ever. I booked the room 2 weeks in advance, yet was suddenly asked to vacate so they could give it to a higher-paying guest. Zero maintenance, dirty surroundings specially utensils , no bathroom slippers , filthy kitchen utensils and complaints are ignored. Management is rude and completely unprofessional. Avoid this place at all costs.",
+      "Worst experience. Mrs.Sunita goyal is very rude with a huge attitude problem lady. Lack of staff member. No facility is provided. The room rent is too high according to facilities given. Its not a place worth going back to.",
+      "The madam whomsoever she is is very rude.\nThe staff is not proper.\nServices are not proper.\nNot a family friendly hotel the staff members are not good.\nNot giving a second chance to this hotel"
+    ]
+  },
+  "review_summary": "Based on 5 reviews.",
+  "positive_themes": {
+    "friendly_staff": 4,
+    "clean_rooms": 1,
+    "great_value": 1
+  },
+  "negative_themes": {
+    "dirty_rooms": 1,
+    "rude_staff": 3
+  }
+}

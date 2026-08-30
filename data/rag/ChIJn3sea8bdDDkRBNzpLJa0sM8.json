@@ -1,0 +1,48 @@
+{
+  "hotel_id": "ChIJn3sea8bdDDkRBNzpLJa0sM8",
+  "hotel_name": "Hotel O By Oyo Royal Inn",
+  "area": "Apartment",
+  "budget_category": "Budget",
+  "rating": 3.4,
+  "trust_score": 0.4463865834953308,
+  "travel_purpose_tags": [
+    "Budget"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "moderate",
+    "review_count": 5,
+    "positive_snippet_count": 0,
+    "negative_snippet_count": 3,
+    "positive_theme_count": 3,
+    "negative_theme_count": 1
+  },
+  "aspect_scores": {
+    "cleanliness": 0.0002710199478314,
+    "service": 0.0003039685301093,
+    "location": 0.0003616093308664,
+    "value_for_money": 0.9915618300437928,
+    "staff_behavior": 0.0001927215489558
+  },
+  "recommendation_features": {
+    "popularity_score": 0.3660129152098967,
+    "rating_score": 3.4,
+    "sentiment_score": 0.1985332914366153
+  },
+  "review_evidence": {
+    "positive_snippets": [],
+    "negative_snippets": [
+      "Worst place to stay, rooms are really dirty, stains on walls, open wires, broken windows and also staff behaviour is worse, tone of voice is not nice. And not a safe place to stay as they provide rooms to unmarried couple on hourly basis. So might be a security issue if you stay here",
+      "I booked the room through oyo and they denied the service when I reached there. Saying that they can't provide the stay for the night. There are no transport facilities near there and it's very hard to find an auto,uber or anything from there.",
+      "Very poor service and they want us to pay additional amount for the room and also not providing better rooms"
+    ]
+  },
+  "review_summary": "Based on 5 reviews.",
+  "positive_themes": {
+    "friendly_staff": 1,
+    "good_location": 1,
+    "great_value": 1
+  },
+  "negative_themes": {
+    "dirty_rooms": 1
+  }
+}

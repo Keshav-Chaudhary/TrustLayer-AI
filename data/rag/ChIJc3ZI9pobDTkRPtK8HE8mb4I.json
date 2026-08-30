@@ -1,0 +1,52 @@
+{
+  "hotel_id": "ChIJc3ZI9pobDTkRPtK8HE8mb4I",
+  "hotel_name": "Airport Hotel Park Blue Near Iicc Yashobhoomi",
+  "area": "Kapas Hera",
+  "budget_category": "Mid-Range",
+  "rating": 4.4,
+  "trust_score": 0.8549721528966636,
+  "travel_purpose_tags": [
+    "Leisure",
+    "Business"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "moderate",
+    "review_count": 5,
+    "positive_snippet_count": 3,
+    "negative_snippet_count": 1,
+    "positive_theme_count": 4,
+    "negative_theme_count": 1
+  },
+  "aspect_scores": {
+    "cleanliness": 0.9997469186782838,
+    "service": 0.9997366070747375,
+    "location": 0.976424902677536,
+    "value_for_money": 0.5,
+    "staff_behavior": 0.9842204252878824
+  },
+  "recommendation_features": {
+    "popularity_score": 0.474176256655733,
+    "rating_score": 4.4,
+    "sentiment_score": 0.9904187202453614
+  },
+  "review_evidence": {
+    "positive_snippets": [
+      "I stayed here after my flight was rescheduled. At first, I was a bit upset because I had to wait another 24 hrs for my flight. However, staying here gave me some time to have some peace and quiet. The food was great and service was spectacular! Also, very clean and I appreciate that.",
+      "I had a good experience at this place. As an tourist, I always wanted a WiFi, and they didn't mind for me to use it. such a friendly staff! the place was cozy and comfortable. I also had lunch and the food was very delicious! hopefully this review helps other people's to find the best hotel on this area!",
+      "I recently stayed at Hotel Airport Delhi and had a very pleasant experience. The location is excellent, just a few minutes away from the airport, which made my travel hassle-free. The rooms were clean, comfortable, and well-maintained with all the necessary amenities. The staff was polite, professional, and always ready to help with a smile. I especially appreciated the quick check-in and check-out process, which saved me a lot of time. The in-house food service was tasty and hygienic. Overall, it is a perfect choice for both short and long stays near the airport. Highly recommended for travelers!"
+    ],
+    "negative_snippets": [
+      "Room lock was broken for 2 out of 8 rooms we booked. Shower was broken. Toilet flush kept leaking all night. No parking space. Not sure how these guys got their star rating. Only positive is the location close to the wedding venue.\n\nThe staff is the biggest strength of this hotel. Very professional, polite and accommodating.\n\nEdit: They asked 700 per head for breakfast buffet menu that had idli sambhar/pratha sabji/Bread butter/ jam/cornflakes and boiled eggs as option \ud83e\udd23\ud83e\udd23"
+    ]
+  },
+  "review_summary": "Based on 5 reviews.",
+  "positive_themes": {
+    "clean_rooms": 2,
+    "good_food": 4,
+    "friendly_staff": 3,
+    "good_location": 2
+  },
+  "negative_themes": {
+    "parking_issues": 1
+  }
+}

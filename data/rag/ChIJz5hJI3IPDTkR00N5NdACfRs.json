@@ -1,0 +1,49 @@
+{
+  "hotel_id": "ChIJz5hJI3IPDTkR00N5NdACfRs",
+  "hotel_name": "Magnet Residency",
+  "area": "Najafgarh",
+  "budget_category": "Mid-Range",
+  "rating": 4.8,
+  "trust_score": 0.8571062386819257,
+  "travel_purpose_tags": [
+    "Leisure"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "moderate",
+    "review_count": 5,
+    "positive_snippet_count": 3,
+    "negative_snippet_count": 1,
+    "positive_theme_count": 4,
+    "negative_theme_count": 0
+  },
+  "aspect_scores": {
+    "cleanliness": 0.7995826290687547,
+    "service": 0.5,
+    "location": 0.9993966668844224,
+    "value_for_money": 0.5,
+    "staff_behavior": 0.5000352379283867
+  },
+  "recommendation_features": {
+    "popularity_score": 0.5204639357873668,
+    "rating_score": 4.8,
+    "sentiment_score": 0.7995826290687547
+  },
+  "review_evidence": {
+    "positive_snippets": [
+      "Best hotel in najafgarh neat and clean room near nangli metro station good staff best behaviour rooms are also clean and good",
+      "Neat and clean rooms for stay couple entry are very safe and good behaviour location near nangli metro station easy to find",
+      "Best hotel for stay neat and clean rooms near nangli metro station najafgarh ye likh k submit kr do."
+    ],
+    "negative_snippets": [
+      "worst experience ever, room and washroom wasn't cleaned and the services were worst, they mentioned that breakfast was included while booking but after asking they denied that it's just mentioned for showcase, staff was not so helpful and i won't recommend to anyone to ever visit this property. WORST EXPERIENCE"
+    ]
+  },
+  "review_summary": "Based on 5 reviews.",
+  "positive_themes": {
+    "clean_rooms": 5,
+    "friendly_staff": 2,
+    "good_location": 4,
+    "good_food": 1
+  },
+  "negative_themes": {}
+}

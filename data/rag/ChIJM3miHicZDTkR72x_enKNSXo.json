@@ -1,0 +1,47 @@
+{
+  "hotel_id": "ChIJM3miHicZDTkR72x_enKNSXo",
+  "hotel_name": "Hotel O Uk House Residency",
+  "area": "Sector 53",
+  "budget_category": "Mid-Range",
+  "rating": 4.5,
+  "trust_score": 0.8508083984799426,
+  "travel_purpose_tags": [
+    "Business",
+    "Family"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "moderate",
+    "review_count": 5,
+    "positive_snippet_count": 3,
+    "negative_snippet_count": 0,
+    "positive_theme_count": 3,
+    "negative_theme_count": 0
+  },
+  "aspect_scores": {
+    "cleanliness": 0.9998786449432372,
+    "service": 0.9998172521591188,
+    "location": 0.5,
+    "value_for_money": 0.9997592568397522,
+    "staff_behavior": 0.9997945626576742
+  },
+  "recommendation_features": {
+    "popularity_score": 0.3779858829355023,
+    "rating_score": 4.5,
+    "sentiment_score": 0.9998281955718994
+  },
+  "review_evidence": {
+    "positive_snippets": [
+      "Top-notch hospitality from check-in to goodbye,\nClean, comfy rooms that truly satisfy.\nThe food was a treat, full of flavor and care,\nA stay so perfect, nothing could compare.",
+      "Best se best privacy and\nBest food quality,\nNice service,\nWell furnishedand cleaness ,\nGood behavior and cooperative staff\nVery fair price to stay in .\nOverall nice and amazing experience to stay here in UK house.",
+      "Warm welcomes and service that shines,\nClean rooms with elegant designs.\nFood that tempts you for one more bite,\nA perfect stay, pure delight"
+    ],
+    "negative_snippets": []
+  },
+  "review_summary": "Based on 5 reviews.",
+  "positive_themes": {
+    "clean_rooms": 3,
+    "good_food": 5,
+    "friendly_staff": 3
+  },
+  "negative_themes": {}
+}

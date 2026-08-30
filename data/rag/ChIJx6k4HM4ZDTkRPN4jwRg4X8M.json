@@ -1,0 +1,50 @@
+{
+  "hotel_id": "ChIJx6k4HM4ZDTkRPN4jwRg4X8M",
+  "hotel_name": "Fabhotel Red Inn",
+  "area": "Sector 15",
+  "budget_category": "Budget",
+  "rating": 3.8,
+  "trust_score": 0.5729652259307375,
+  "travel_purpose_tags": [
+    "Leisure"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "moderate",
+    "review_count": 5,
+    "positive_snippet_count": 2,
+    "negative_snippet_count": 3,
+    "positive_theme_count": 4,
+    "negative_theme_count": 0
+  },
+  "aspect_scores": {
+    "cleanliness": 0.0023385777603834,
+    "service": 0.9998441934585572,
+    "location": 0.9992146492004396,
+    "value_for_money": 0.0052715307101607,
+    "staff_behavior": 0.5022430899553001
+  },
+  "recommendation_features": {
+    "popularity_score": 0.4067510860676074,
+    "rating_score": 3.8,
+    "sentiment_score": 0.4014529611216858
+  },
+  "review_evidence": {
+    "positive_snippets": [
+      "Good Avg hotel... location good... near by Rajeev chowk.. staff behaviour good \ud83d\udc4d\ud83d\ude0a",
+      "Nice hotel on main road, Service is also good."
+    ],
+    "negative_snippets": [
+      "I got chance to stay with this hotel this week..  The photos at fabhotel site are different. The rooms are quite small. few are just too small. gyser installed are small. u may get 3 litr hot. water. lift will be switched on only at check in and check out for saving electricity. bed sheet are not clean u may find some spots easily. overall Was not happy after paying around 1500.",
+      "I had requested for an early check-in and the customer care personnel said it would be provided subject to availability. Which I agreed.\nAfter landing up at the hotel, I was asked to pay extra for an early check-in.\nWhich I thought was strange cause I've never had to pay extra EVER at any hotel.\nI paid anyway cause I was there at 10 am.\nBut if a payment needs to be made for early check-in then it should probably be mentioned there. I did t mind paying but someone else who maybe on a budget may not want to and a prior knowledge would be helpful.",
+      "Rooms are too small than the shown in the images. WiFi were not working. Lift was not available. Water bottle which was given at the first time, that was unsealed. Only puri bhaji provided in the breakfast. The coffee served without sugar."
+    ]
+  },
+  "review_summary": "Based on 5 reviews.",
+  "positive_themes": {
+    "friendly_staff": 2,
+    "good_location": 1,
+    "clean_rooms": 1,
+    "good_food": 1
+  },
+  "negative_themes": {}
+}

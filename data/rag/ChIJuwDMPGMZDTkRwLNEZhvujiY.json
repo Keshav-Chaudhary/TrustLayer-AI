@@ -1,0 +1,54 @@
+{
+  "hotel_id": "ChIJuwDMPGMZDTkRwLNEZhvujiY",
+  "hotel_name": "Hotel Imperial Park",
+  "area": "Sector 45",
+  "budget_category": "Mid-Range",
+  "rating": 4.2,
+  "trust_score": 0.6704899592369788,
+  "travel_purpose_tags": [
+    "Budget"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "moderate",
+    "review_count": 5,
+    "positive_snippet_count": 2,
+    "negative_snippet_count": 3,
+    "positive_theme_count": 4,
+    "negative_theme_count": 3
+  },
+  "aspect_scores": {
+    "cleanliness": 0.5003782220737776,
+    "service": 0.0002878421801142,
+    "location": 0.5,
+    "value_for_money": 0.9994473457336426,
+    "staff_behavior": 0.3332040385575965
+  },
+  "recommendation_features": {
+    "popularity_score": 0.6168799199763136,
+    "rating_score": 4.2,
+    "sentiment_score": 0.4003796333214268
+  },
+  "review_evidence": {
+    "positive_snippets": [
+      "The hotel is affordable and better than a Three star hotel. It has all the facilities, there is no restriction except u cannot bring outside food, they have fast internet as well as per your needs. Hot water provision. They have diner as well you can order upto 12 pm, overall it's a nice place to stay for 3-4 days affordable as well and staff is well behaved. If you pay them nice theyll clean your car as well. Good parking space. Go for it I would say.....",
+      "Coming from a Hotelier Background I love the stay , each and everything was perfect, staffs are really amazing, perfect ambience, very clean rooms , everything was perfect, must recommend in this price"
+    ],
+    "negative_snippets": [
+      "My stay at this hotel last night was profoundly disappointing and utterly unacceptable. The room cleanliness was appalling; the carpets were visibly stained, and surfaces were dusty, showing a clear failure in housekeeping standards. The washroom was particularly shocking, with dirty toilet seat, making it feel unsanitary and unusable. To make matters worse, when I attempted to report these serious issues to the staff, I was met with a total lack of concern, demonstrating a severe lack of professionalism and basic customer service. Due to the shocking lack of hygiene and the unprofessional behavior of the team, I would strongly caution anyone against staying here.",
+      "Dirty bedsheet\nDirty room\nCan shift u to other rooms as per their requirement\nNo towels\nDirty toilet\nThe images shown in photos are all edited once\nSolo travelers feel unsafe.",
+      "My stay at this hotel was extremely disappointing. I requested towels and had to wait for over two hours, yet no one bothered to deliver them. Even at the time of checkout (after two and a half hours!), there were still no towels provided. The service is absolutely pathetic \u2014 basic amenities like towels should never be an issue in any hotel. Poor management, careless staff, and zero customer care. I would not recommend this place to anyone."
+    ]
+  },
+  "review_summary": "Based on 5 reviews.",
+  "positive_themes": {
+    "clean_rooms": 3,
+    "friendly_staff": 4,
+    "great_value": 1,
+    "good_food": 1
+  },
+  "negative_themes": {
+    "parking_issues": 1,
+    "dirty_rooms": 2,
+    "rude_staff": 1
+  }
+}

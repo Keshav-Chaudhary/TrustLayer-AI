@@ -1,0 +1,51 @@
+{
+  "hotel_id": "ChIJCfft_zQZDTkR-d687pw4YUI",
+  "hotel_name": "Staayz Premium, Gurugram - Hotel & Studio Apartments",
+  "area": "Market",
+  "budget_category": "Mid-Range",
+  "rating": 3.9,
+  "trust_score": 0.6331688251556598,
+  "travel_purpose_tags": [
+    "Budget"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "moderate",
+    "review_count": 5,
+    "positive_snippet_count": 0,
+    "negative_snippet_count": 3,
+    "positive_theme_count": 4,
+    "negative_theme_count": 3
+  },
+  "aspect_scores": {
+    "cleanliness": 0.4846679504407802,
+    "service": 0.4916820216312771,
+    "location": 0.6568706193938851,
+    "value_for_money": 0.5,
+    "staff_behavior": 0.2505976068641757
+  },
+  "recommendation_features": {
+    "popularity_score": 0.6380705828793656,
+    "rating_score": 3.9,
+    "sentiment_score": 0.3942740406724624
+  },
+  "review_evidence": {
+    "positive_snippets": [],
+    "negative_snippets": [
+      "Cleaning service was good, room cleaning person was so polite that you can ask them to change each and everything in the room. They are sweetest person in the hotel. Hotel is just 2km from the DLF downtown. Autos and Swiggy are easily accessible. Empty plates are chargeable. Enjoyed the stay.",
+      "This is the worst hotel I stayed in. I will never ever recommend it to anyone.\nI stayed from 14th to 16th July 2025. I was offered a room full of smoke. The doors of the room open and close with huge difficulty. The reception staff are the worst of the lot. On day 1,  I requested for sharing the menu on WhatsApp they did not care to do it . I waited for half an hour. After reminding over the phone they took sweet 10 minutes. I had already reached the reception. I was tired and frustrated and wanted to take some rest and have food at the hotel. But this staff had other ideas. They ensured that I should find some good dhaba which I eventually did. I had taken room with complimentary breakfast, next morning I booked breakfast through their whatsapp link , after 10 minutes asked the reception how much time they take to deliver the breakfast. I was told 20-25 minutes. One hour passed , no one came. So , fuming i went to the reception to check the issue. They said I selected the two items but they could not see my order. The reason, they never explained me that I have to add the two items in a cart and from there I should proceed. I asked them many of the guests might be doing the mistake which I did so why they never cared to explain how to order through their link. There was no answer. It was getting clearer and louder they never wanted to serve complimentary breakfast. Same night, i had some issues with the tv but no one acted immediately. Since I had to go out for dinner, so I reminded and requested for it so one guy accompanied and resolved the issue. I asked for the towel, but it never came. My humble request to the owner, how come you are ignorant to all this . How come you have a staff who does not even understand customer or customer service.  Only , the cleaning staff is doing their duty well.  I had booked my hotel through goibibo. Request them tonot to list such bad hotels. I wish there was 0 or negative rating for service.",
+      "Have stayed multiple times. Quality is going down day by day. Bed bugs, cockroaches in quite a few rooms along with a lot of mould. The staff is nice, but unfortunately things are beyond their control. The wifi is also weird, either signal would be less or there wouldn't be any speed. Room 216 is absolutely filled with cockroaches and bed bugs. Most rooms are always booked because of the location."
+    ]
+  },
+  "review_summary": "Based on 5 reviews.",
+  "positive_themes": {
+    "clean_rooms": 3,
+    "friendly_staff": 4,
+    "good_food": 2,
+    "good_location": 2
+  },
+  "negative_themes": {
+    "noise": 2,
+    "dirty_rooms": 1,
+    "rude_staff": 1
+  }
+}

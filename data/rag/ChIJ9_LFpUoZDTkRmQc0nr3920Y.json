@@ -1,0 +1,51 @@
+{
+  "hotel_id": "ChIJ9_LFpUoZDTkRmQc0nr3920Y",
+  "hotel_name": "Capital O By Oyo Esscon House Near Payal Cinema",
+  "area": "Sector 23A",
+  "budget_category": "Budget",
+  "rating": 3.3,
+  "trust_score": 0.6611440951493471,
+  "travel_purpose_tags": [
+    "Leisure"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "moderate",
+    "review_count": 5,
+    "positive_snippet_count": 3,
+    "negative_snippet_count": 1,
+    "positive_theme_count": 4,
+    "negative_theme_count": 1
+  },
+  "aspect_scores": {
+    "cleanliness": 0.6664378441152318,
+    "service": 0.0003169169358443,
+    "location": 0.9994983077049256,
+    "value_for_money": 0.5,
+    "staff_behavior": 0.9997378786404928
+  },
+  "recommendation_features": {
+    "popularity_score": 0.53638828910612,
+    "rating_score": 3.3,
+    "sentiment_score": 0.7997472641931381
+  },
+  "review_evidence": {
+    "positive_snippets": [
+      "Hi Sir,\nMy name is Deep. I design clean, modern and high-quality websites for hotels, guest houses and OYO-listed properties.\n\nI recently came across Super Capital O Esscon House Near Payal Cinema and really liked your property, rooms and overall guest experience. I can create a professional website for your hotel that showcases your rooms, amenities, location and services in a premium way.\n\nA dedicated website will help you:\n\u2022 Get more direct & commission-free bookings\n\u2022 Build a more trustworthy and premium online image\n\u2022 Highlight rooms, photos & amenities clearly\n\u2022 Add Google Map, WhatsApp Chat & Inquiry Form\n\u2022 Improve your online presence and visibility\n\nTo show you my work quality, I can share a hotel website I have already built.\nIf you like the design, I can create a customised website specially for Esscon House.\n\nLet me know if I can share the link with you.\n\nThanks,\nDeep",
+      "I am visiting this place for almost 6 years now, one of the best experiences i have had during all my stays, staff is very cordial and welcoming, Owner of the property is also very helpful and warm, the location of this Hotel is one of its main USP, its near Ansal Plaza Mall and Global Foyer Mall and many other eating joints are also im vicinity, Columbia Hospital is also near for any medical purpose, so you get almost everything of need around this Hotel, Rooms are spacious and clean, there is excellent and fast complimentary Internet connectivity provided by Hotel....Overall one of the best hotels you can",
+      "One of the best hotel in this area. Owner is very cooperative with guest.Staff is also very helpfull. I recommend this hotel to everyone."
+    ],
+    "negative_snippets": [
+      "I was staying with my mother.\n\nThe replaced room provided had table and sofa in a broken state. Dirty almirah and bathroom hanging rails. Dirty and reused plastic bottles were used to deliver \"RO\" water. Smoke filled rooms.\n\nThe reception guy misbehaved with me and my mother and abused us too whenever we asked for anything and complained about it and he said his mind is not stable( i am attaching photos of his long hair). The floor sweeper also misbehaved.\n\nWe have checked out early. Worst experience by oyo.\n\nRavi Gupta"
+    ]
+  },
+  "review_summary": "Based on 5 reviews.",
+  "positive_themes": {
+    "clean_rooms": 2,
+    "good_location": 2,
+    "great_value": 1,
+    "friendly_staff": 3
+  },
+  "negative_themes": {
+    "dirty_rooms": 1
+  }
+}

@@ -1,0 +1,52 @@
+{
+  "hotel_id": "ChIJnSdHCZYDDTkR_BE827TPifk",
+  "hotel_name": "Hotel Royal Saffron By Majesta Stays",
+  "area": "New Delhi",
+  "budget_category": "Budget",
+  "rating": 4.7,
+  "trust_score": 0.6646163029593454,
+  "travel_purpose_tags": [
+    "Budget"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "moderate",
+    "review_count": 5,
+    "positive_snippet_count": 1,
+    "negative_snippet_count": 3,
+    "positive_theme_count": 4,
+    "negative_theme_count": 2
+  },
+  "aspect_scores": {
+    "cleanliness": 0.075566776737105,
+    "service": 0.075566776737105,
+    "location": 0.2251553237438202,
+    "value_for_money": 0.5,
+    "staff_behavior": 0.2506389155605574
+  },
+  "recommendation_features": {
+    "popularity_score": 0.5090206992249477,
+    "rating_score": 4.7,
+    "sentiment_score": 0.24554219719721
+  },
+  "review_evidence": {
+    "positive_snippets": [
+      "Great stay as always\u2026. Veryy good staff behaviour towards guests by miss manpreet kaur."
+    ],
+    "negative_snippets": [
+      "I had booked this hotel for two nights, but due to an unexpected medical emergency, I had to vacate the property within a day. I clearly explained the situation to the hotel staff and requested a refund for the unused second night.\nUnfortunately, the hotel showed no consideration despite the genuine emergency. They claimed that a refund was initiated on 25th January 2026 at 2:47 PM, but since I checked out at 2:49 PM, they later communicated to the MMT team that they were not liable to process the refund. What is more concerning is that they are attempting to misrepresent the situation by implying that MMT is responsible for the delay or denial of the refund, even though they had initially indicated confirmation.\nI even requested that they deduct minimum cancellation charges from the remaining amount, but instead, the hotel chose to take advantage of the situation and deny the refund altogether.\nThis behavior is highly unprofessional and misleading. I would strongly advise future guests to be cautious, as the hotel lacks empathy and transparency when it comes to genuine customer issues.",
+      "Mr.Adarsh that's for you as you fooled us....\ud83d\udc4e\ud83c\udd7e\ufe0f\nMy experience was worst and I think all the family members and my guest also has the same worst experience here. The service was awful...we had to carry out own luggage many times there was no bell boy....water bottles which was mentioned in our plan had to be requested for....no cleaning of rooms and washroom until we tab after them....they had promised to provide kettles, tea and coffee pouches but in my 3 days stay I did not even see them in our 15 rooms.\nThey just know how to lie while taking the bookings and once you enter there is no facility provide. The organizer was literally running after them asking to provide water bottles and other services which they promised for....on our breakfast, the things which were mentioned were not provided at all.... really 0 ratings to the hotel and their services. Don't be fooled by what they promise while booking.\nMr.Adarsh who took the booking and took advance payment in one go was not there a single day during the stay and he didn't receive a call once ....the staff kept on lying that he is busy, will come after some time, is in a meeting and also not well.....very well done Mr.Adarsh Sharma....you can go to this level was never expected. The bride to be who planned and organised every thing was seen running after them which is actually so herat breaking....\nMy sincere request to everyone don't do any booking for making your guests stay in this hotel....A big Zero to them\ud83d\udc4e\ud83c\udd7e\ufe0f\nThose who are giving 5 stars are fake reviews and some of them are even given by their own staff members....Ms.Manpreet don't try to act smart....",
+      "Very bad experience..do not book this hotel for any stay.Booked 15 rooms for 3 days but very bad Hotel management, no clean bedsheets and pillow provided. Basic things like Kettle and toiletries were not there , asked multiple times for kettle then it was provided. Breakfast menu that was decided while booking was not provided. Even staff behaviour was not good, no hospitality. AC remote was not working and even didn\u2019t have telephone in some rooms to call at reception.\nThey\u2019ll agree to whatever you say at time of booking but later will not provide even basic services!!"
+    ]
+  },
+  "review_summary": "Based on 5 reviews.",
+  "positive_themes": {
+    "friendly_staff": 4,
+    "clean_rooms": 3,
+    "good_food": 3,
+    "good_location": 1
+  },
+  "negative_themes": {
+    "rude_staff": 1,
+    "dirty_rooms": 1
+  }
+}

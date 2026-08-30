@@ -1,0 +1,50 @@
+{
+  "hotel_id": "ChIJH6vik5r9DDkRwaLCMAtRMBM",
+  "hotel_name": "Amitabh Guest House",
+  "area": "Kamla Nagar",
+  "budget_category": "Mid-Range",
+  "rating": 4.0,
+  "trust_score": 0.6888777205630607,
+  "travel_purpose_tags": [
+    "Leisure"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "rich",
+    "review_count": 5,
+    "positive_snippet_count": 3,
+    "negative_snippet_count": 2,
+    "positive_theme_count": 4,
+    "negative_theme_count": 0
+  },
+  "aspect_scores": {
+    "cleanliness": 0.0013101673102937,
+    "service": 0.9996943473815918,
+    "location": 0.9993329644203186,
+    "value_for_money": 0.9993329644203186,
+    "staff_behavior": 0.0013539172941818
+  },
+  "recommendation_features": {
+    "popularity_score": 0.5284479532367805,
+    "rating_score": 4.0,
+    "sentiment_score": 0.6003017773618922
+  },
+  "review_evidence": {
+    "positive_snippets": [
+      "I had a wonderful experience during my stay here. The service provided was appreciated. Food too was upto the mark. Charges were reasonable too. I would definitely stay here again whenever I visit.",
+      "Only affordable property near the University North campus in Dehli. The owner is a great person and very supportive.",
+      "Ravi and Pulak both take care of guest very warmly. I had stayed multiple times and my experience is very good.\n\nProf. Manoj Chhaparia"
+    ],
+    "negative_snippets": [
+      "I visited the place for a business exhibition. This place has a banquet hall like setting. The food is tasty but washroom is not properly clean. AC was also not working properly or due to the crowd it felt so.",
+      "Rooms have 40 years old facilities. Lacks basic amenities: Stinky rooms, no exhaust in bathroom, geyser problem, etc.\n\nInstead of improving the facilities, the manager is argumentative.\n\nTarrif is very high and unreasonable, around 2000+ per night.\n\nNo refund policies.\n\nI strongly do not recommend this hotel."
+    ]
+  },
+  "review_summary": "Based on 5 reviews.",
+  "positive_themes": {
+    "good_food": 2,
+    "good_location": 1,
+    "great_value": 1,
+    "clean_rooms": 1
+  },
+  "negative_themes": {}
+}

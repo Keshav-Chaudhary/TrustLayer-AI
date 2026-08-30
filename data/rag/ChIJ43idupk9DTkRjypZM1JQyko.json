@@ -1,0 +1,49 @@
+{
+  "hotel_id": "ChIJ43idupk9DTkRjypZM1JQyko",
+  "hotel_name": "Bougainvillea Farm By Under My Roof In Gurgaon | 3Bhk Pet & Budget Friendly Farm With Pool",
+  "area": "Gurugram",
+  "budget_category": "Budget",
+  "rating": 4.2,
+  "trust_score": 0.7371400970665406,
+  "travel_purpose_tags": [
+    "Budget"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "moderate",
+    "review_count": 5,
+    "positive_snippet_count": 3,
+    "negative_snippet_count": 1,
+    "positive_theme_count": 4,
+    "negative_theme_count": 0
+  },
+  "aspect_scores": {
+    "cleanliness": 0.5,
+    "service": 0.4999353424500441,
+    "location": 0.5,
+    "value_for_money": 0.5,
+    "staff_behavior": 0.5001312331150984
+  },
+  "recommendation_features": {
+    "popularity_score": 0.3309666882836649,
+    "rating_score": 4.2,
+    "sentiment_score": 0.7998950773791875
+  },
+  "review_evidence": {
+    "positive_snippets": [
+      "We had wonderful experience hosting a family get-together recently in December! People and service are nice with quick attention to requirements.\n\nOnly bath area could be better in terms of being cleaner and curtain covered!",
+      "Had a wonderful time at the farm stay! The staff were extremely helpful and welcoming, which made the experience even more enjoyable. The overall atmosphere was peaceful and relaxing, and everything was well taken care of. A great place to unwind and reconnect with nature. Would definitely recommend to others!",
+      "Amazing place to relax, delicious food, and very welcoming hosts. Will definitely visit again!"
+    ],
+    "negative_snippets": [
+      "We had high hopes for our visit, but the experience was nothing short of frustrating. We had placed an order for food while booking, specifically so we wouldn\u2019t have to wait upon arrival. However, when we reached the farm, the staff seemed completely unaware of our order. They casually informed us that nothing had been prepared and they needed to go out and buy ingredients. This alone took nearly two hours, and we were still left waiting for our food.\n\nTrying to get updates was another ordeal\u2014calls went unanswered. When I finally found a staff member and asked about our food, his response was, \u201cJisko order diya hai usse pucho\u201d (ask the person you placed the order with). When we finally got the paneer tikka, we requested mint dip, which took another 30 minutes to arrive. To top it off, we received the wrong dishes for some of our orders. While the food itself was decent and tasty, the overall service was terrible.\n\nThe worst part? I had an early flight and had booked a cab to leave at 6 AM. Only then did I realize that someone had locked the main gate from the outside. It took me 20-25 minutes to wake up the staff, who then disappeared to find the keys from another servant before finally unlocking the gate. Shockingly, there was no guard on-site. Locking the main entrance without any supervision is not only careless but dangerous. What if there had been a medical emergency?\n\nOverall, the mismanagement, lack of basic hospitality, and unresponsive staff made the entire experience incredibly disappointing. Would not recommend until they seriously improve their operations."
+    ]
+  },
+  "review_summary": "Based on 5 reviews.",
+  "positive_themes": {
+    "clean_rooms": 2,
+    "friendly_staff": 3,
+    "good_food": 3,
+    "good_location": 1
+  },
+  "negative_themes": {}
+}

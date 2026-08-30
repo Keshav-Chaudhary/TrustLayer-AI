@@ -1,0 +1,50 @@
+{
+  "hotel_id": "ChIJJbbr8_T_DDkR-ofOseudRO4",
+  "hotel_name": "Spot On 69908 Hotel Blue Heart",
+  "area": "Loni",
+  "budget_category": "Mid-Range",
+  "rating": 3.1,
+  "trust_score": 0.4135933573429604,
+  "travel_purpose_tags": [
+    "Leisure"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "moderate",
+    "review_count": 5,
+    "positive_snippet_count": 1,
+    "negative_snippet_count": 3,
+    "positive_theme_count": 3,
+    "negative_theme_count": 1
+  },
+  "aspect_scores": {
+    "cleanliness": 0.0002642441540956,
+    "service": 0.0141702201217412,
+    "location": 0.9985570311546326,
+    "value_for_money": 0.5,
+    "staff_behavior": 0.9985570311546326
+  },
+  "recommendation_features": {
+    "popularity_score": 0.3927931857069744,
+    "rating_score": 3.1,
+    "sentiment_score": 0.2028934617410413
+  },
+  "review_evidence": {
+    "positive_snippets": [
+      "Hospitality Is Verh Good Staff Behaviour is too good and Good location safely for me"
+    ],
+    "negative_snippets": [
+      "Stayed for 2 days with family members for a marriage purpose. Service is pathetic no water in bathrooms called 5 times in 2days for water. No one in Canteen to serve water or tea. Room lighting were not proper we complained about it but no action was taken. A lot more but still stayed there so that bride's family don't feel shame",
+      "No words to explain very bad dairy lower quailty  .\u0964\u0964\u0964\u0964 And soo soo I dont like realy this tipe place",
+      "Very bad condition,  cleaning zero, room dirty,  bed sheets not clean. Worst experience"
+    ]
+  },
+  "review_summary": "Based on 5 reviews.",
+  "positive_themes": {
+    "friendly_staff": 1,
+    "good_location": 1,
+    "clean_rooms": 1
+  },
+  "negative_themes": {
+    "dirty_rooms": 1
+  }
+}

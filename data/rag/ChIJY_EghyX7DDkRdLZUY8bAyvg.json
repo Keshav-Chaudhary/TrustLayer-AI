@@ -1,0 +1,49 @@
+{
+  "hotel_id": "ChIJY_EghyX7DDkRdLZUY8bAyvg",
+  "hotel_name": "Comfort Inn Grand",
+  "area": "Kaushambi",
+  "budget_category": "Budget",
+  "rating": 4.4,
+  "trust_score": 0.7951330532367984,
+  "travel_purpose_tags": [
+    "Budget"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "moderate",
+    "review_count": 5,
+    "positive_snippet_count": 3,
+    "negative_snippet_count": 1,
+    "positive_theme_count": 4,
+    "negative_theme_count": 0
+  },
+  "aspect_scores": {
+    "cleanliness": 0.9998481273651124,
+    "service": 0.9995502829551696,
+    "location": 0.500107269253931,
+    "value_for_money": 0.5,
+    "staff_behavior": 0.6666732303080304
+  },
+  "recommendation_features": {
+    "popularity_score": 0.4786365020058283,
+    "rating_score": 4.4,
+    "sentiment_score": 0.799886958108982
+  },
+  "review_evidence": {
+    "positive_snippets": [
+      "The hotel is situated next to a metro station which is so accessible to go to different places. Hospitality is good and food is also nice. My Overall experience have been great.",
+      "10 room's I booked for weeding function from 3rd Feb to 5th feb.Very coperative staff good hygienic room's delicious food.My special thanks to Mr Om .",
+      "I recently had the pleasure of staying at the Comfort Inn hotel for 5 days, and I must say it was a wonderful experience! The buffet spread was excellent, with a wide variety of delicious options to suit every taste.\n\nBut what really made my stay stand out was the exceptional staff behavior. The team was friendly, courteous, and always willing to go the extra mile to ensure my comfort and convenience.\n\nThe rooms were clean and comfortable, and the hotel's amenities were well-maintained. Overall, I would highly recommend the Comfort Inn hotel to anyone looking for a relaxing and enjoyable stay."
+    ],
+    "negative_snippets": [
+      "Location is convenient but staff is not co-operative and hospitality and respect to guests is zero. Moreover food quality is very poor. Not recommended at all if u want peaceful stay with good quality food"
+    ]
+  },
+  "review_summary": "Based on 5 reviews.",
+  "positive_themes": {
+    "good_food": 4,
+    "friendly_staff": 3,
+    "clean_rooms": 1,
+    "good_location": 1
+  },
+  "negative_themes": {}
+}

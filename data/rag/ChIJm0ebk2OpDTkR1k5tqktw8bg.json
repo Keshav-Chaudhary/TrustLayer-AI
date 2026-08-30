@@ -1,0 +1,49 @@
+{
+  "hotel_id": "ChIJm0ebk2OpDTkR1k5tqktw8bg",
+  "hotel_name": "Oyo New Era Deluxe",
+  "area": "Narela",
+  "budget_category": "Budget",
+  "rating": 3.4,
+  "trust_score": 0.4537293273036991,
+  "travel_purpose_tags": [
+    "Budget"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "moderate",
+    "review_count": 5,
+    "positive_snippet_count": 0,
+    "negative_snippet_count": 3,
+    "positive_theme_count": 3,
+    "negative_theme_count": 2
+  },
+  "aspect_scores": {
+    "cleanliness": 0.0003479290753602,
+    "service": 0.0017085041617974,
+    "location": 0.5,
+    "value_for_money": 0.9965477585792542,
+    "staff_behavior": 0.0017085041617974
+  },
+  "recommendation_features": {
+    "popularity_score": 0.3968120751380856,
+    "rating_score": 3.4,
+    "sentiment_score": 0.2010154414805583
+  },
+  "review_evidence": {
+    "positive_snippets": [],
+    "negative_snippets": [
+      "Bad ambience and Room quality also not good, Though they charge high rates. Rooms are not good",
+      "Not enough big room, unsanitary lots of mosquito and huge no of inappropriate things under the bed",
+      "poor and space small not air like cage to close suffocation staff roud loud not any management oyo service hell in this space  .....\netc"
+    ]
+  },
+  "review_summary": "Based on 5 reviews.",
+  "positive_themes": {
+    "friendly_staff": 1,
+    "great_value": 1,
+    "clean_rooms": 1
+  },
+  "negative_themes": {
+    "noise": 1,
+    "dirty_rooms": 1
+  }
+}

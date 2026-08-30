@@ -1,0 +1,52 @@
+{
+  "hotel_id": "ChIJOWkXrRcbDTkROW7di1XMXsA",
+  "hotel_name": "Hotel O By Oyo Surya Palace",
+  "area": "Palam",
+  "budget_category": "Budget",
+  "rating": 3.6,
+  "trust_score": 0.617121334356615,
+  "travel_purpose_tags": [
+    "Leisure"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "rich",
+    "review_count": 5,
+    "positive_snippet_count": 3,
+    "negative_snippet_count": 2,
+    "positive_theme_count": 4,
+    "negative_theme_count": 1
+  },
+  "aspect_scores": {
+    "cleanliness": 0.335373201019441,
+    "service": 0.9992719292640686,
+    "location": 0.7774971425533295,
+    "value_for_money": 0.5,
+    "staff_behavior": 0.6402502703713253
+  },
+  "recommendation_features": {
+    "popularity_score": 0.5731520260319349,
+    "rating_score": 3.6,
+    "sentiment_score": 0.512254201201722
+  },
+  "review_evidence": {
+    "positive_snippets": [
+      "VERY CAREING GRT STAFF ALWAYS JST LIKE FAMLY I STAY IN THIS HOTEL MANY TME I FEEL LIVE JST LIKE MY HOME ALWAYS STAFF CARE VERY MUCH EACH TME I FEEL REALAX TESAN FREE WHEN EVER I STAY IN SURYA PLACE HOTEL JST FEEL HM STAFF ARRANG NICE FOOD BREAKFAST  LUNCH DINNER  HOTEL NEAR EVERY FACILTY NEAR BY JST LIKE WALKG WHAT U U WNT U BUY IT IT UN COMFOTABLE PLACE I NVR FEEL I STAY IN HOTEL I FEEL IT MY HOME ROOM WITH GOUSE FACILY I GV FUL 10 OUT 10 STAR THIS SURYA PLACE HOTEL ALWAYS IT GRT EXPERACE IT VWRY CAREING PEOPLE WHOLE SURYA PLACE STAFF ATOMFEAR  REALAX",
+      "In every floor 2 rooms are bigger than the third one. Usually the rooms with last digit as 3 is the smallest. For example. 203,303,403 are the smallest rooms in surya palace. The rest of the rooms are quite spacious. The staffs are super friendly and always at your service. I stayed here for 6 days and booked nearly 7-8 rooms daily. Overall I can comfortably give 5 stars for this place.",
+      "Staff behaviour is very nice special the Aishwarya mam is best here location is also very near by the metro n main road room r also very clean higiene washroom r clean n ac r perfectly smooth working and quick check in without any waitings.all services r available in this hotel like wifi room service lunch dinner directly served in your room. This is the best hotel in dwarka sec7."
+    ],
+    "negative_snippets": [
+      "Very bad room very dirty  o the bed present bed bugs (khatmal )  very bad very very bad my right hand fully injured with khatmal bite\u2019s \ud83d\ude21\ud83d\ude21\ud83d\ude21",
+      "This one is 4 point something rated on oyo.... The rating doesn't fit. The quilt n pillow covers were not clean, we asked them to change it, they denied. We asked them for it pretty late, so I am not sure if that was unreasonable of us. Apart from the other things that we ignored, this we can't.... the room stinked. The air coming from the ac was stinking. They  sprayed room freshener, but the effect didn't last long. The rest of the night we just managed. The staff was however good. They were polite and of good services otherwise. So maybe for a discounted \u20b9600 room one can ignore everything else, but how do you breathe in a stinking room?"
+    ]
+  },
+  "review_summary": "Based on 5 reviews.",
+  "positive_themes": {
+    "friendly_staff": 4,
+    "good_location": 3,
+    "good_food": 1,
+    "clean_rooms": 2
+  },
+  "negative_themes": {
+    "dirty_rooms": 1
+  }
+}

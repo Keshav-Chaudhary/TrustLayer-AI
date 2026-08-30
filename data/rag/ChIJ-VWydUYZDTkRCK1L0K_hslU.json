@@ -1,0 +1,47 @@
+{
+  "hotel_id": "ChIJ-VWydUYZDTkRCK1L0K_hslU",
+  "hotel_name": "Golden Place Hotel",
+  "area": "Sector 38",
+  "budget_category": "Mid-Range",
+  "rating": 4.1,
+  "trust_score": 0.7458378691232664,
+  "travel_purpose_tags": [
+    "Family"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "moderate",
+    "review_count": 5,
+    "positive_snippet_count": 3,
+    "negative_snippet_count": 0,
+    "positive_theme_count": 4,
+    "negative_theme_count": 0
+  },
+  "aspect_scores": {
+    "cleanliness": 0.9987978041172028,
+    "service": 0.5,
+    "location": 0.5,
+    "value_for_money": 0.9995799660682678,
+    "staff_behavior": 0.9992516040802002
+  },
+  "recommendation_features": {
+    "popularity_score": 0.422934464355772,
+    "rating_score": 4.1,
+    "sentiment_score": 0.8075119853019714
+  },
+  "review_evidence": {
+    "positive_snippets": [
+      "Good rooms but basic amenities and no room cleaning after check in also if you use tissue bring your own",
+      "The hotel is good and the staff is good they have their own car and Hello Banta and drivers Faisali Vipen Thank you all so much",
+      "Hostel mostly hosts the guests from nearby Medanta Medicity Hospital. Satish, the owner is helpful yet mostly busy. Try befriending with co-manager Pankaj there, He is street smart and gem of a person. Try befriending him in person - he would solve most of the problem for you. Room were clean, book advance for the room with the ventilation. Take care of the check out time - it's 11:00 am everyday."
+    ],
+    "negative_snippets": []
+  },
+  "review_summary": "Based on 5 reviews.",
+  "positive_themes": {
+    "clean_rooms": 3,
+    "friendly_staff": 3,
+    "good_location": 1,
+    "good_food": 1
+  },
+  "negative_themes": {}
+}

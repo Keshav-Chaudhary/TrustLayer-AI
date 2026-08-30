@@ -1,0 +1,52 @@
+{
+  "hotel_id": "ChIJByYe3LL9DDkRVpIn7noONz0",
+  "hotel_name": "Hotel O By Oyo Vcr Inn",
+  "area": "Mandu",
+  "budget_category": "Budget",
+  "rating": 3.2,
+  "trust_score": 0.4904957863065705,
+  "travel_purpose_tags": [
+    "Leisure"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "moderate",
+    "review_count": 5,
+    "positive_snippet_count": 2,
+    "negative_snippet_count": 3,
+    "positive_theme_count": 3,
+    "negative_theme_count": 2
+  },
+  "aspect_scores": {
+    "cleanliness": 0.0019655112409963,
+    "service": 0.4999414247868116,
+    "location": 0.9985311031341552,
+    "value_for_money": 0.9985311031341552,
+    "staff_behavior": 0.0004243583825881
+  },
+  "recommendation_features": {
+    "popularity_score": 0.3954916301108739,
+    "rating_score": 3.2,
+    "sentiment_score": 0.4004689950379542
+  },
+  "review_evidence": {
+    "positive_snippets": [
+      "Among residential properties on a leafy street, this functional budget hotel is 3 km from both a metro station and Shastri Park, and 8 km from the Red Fort.\nThe simple, warmly decorated rooms provide air conditioning and flat-screen TVs. All come with en suite wet rooms.\nAmenities include a low-key dining area, and a furnished garden with bamboo cabanas.",
+      "Food is good. Rooftop they have created a good ambiance and I ordered the following -\n1. Steamed Paneer momo\n2. Paneer Tikka\n3. Daal Makhani\n4. Shahi Paneer\n5. Lacchha Parantha\n6. Malai Chaap\n\nFood was good with service 4/5."
+    ],
+    "negative_snippets": [
+      "\u201cTerrible Experience \u201d\nStayed there for 3 days. Not even a single day housekeeping came to clean the room.\n\nWashroom was not clean, Shower was Broken. No Toiletries provided. Dirty Towel.\n\nOur room was on 4th floor but their elevator was not working. We need to carry our luggage through stairs. No help from the staff.",
+      "This hotel provided a terrible experience. I've never stayed in a worse hotel. The hotel check-in process went smoothly. There was only a smart tv in a 10x10 ft room that was connected to the hotel wifi but was not working. There were no door mats or other amenities such as an electric kettle, glasses, tea or coffee arrangements, wifi that was not working, soap and shampoo in the bathroom, and so on. They offer filter water in a broken seal bislari bottle and charge Rs. 20 for sealed pack mineral water. Awful experience.",
+      "This is the Worst experience of my life\nI \u200b\u200bbooked this hotel online for 2 persons at 731, on reaching hotel at 7.30 pm Hotel Staff were told that we have to take room for rs 1200 we talked to hotel then they asked to give room for last rs 1000 after that i gave them rs 1000  Took the room because it was late night and could not go anywhere, after that we went to the room and found that the AC was not working, for which we asked the hoteliers, the answer was that they do not have AC rooms around 9 pm.  Talked to the owner of the hotel at 9:30 pm, he assured that there is a room but there is a couple in it and after they leave, they will give us another room.  couple went after that room was given whose flash was not working.\nSo we put up with the hassle till midnight plus the rudeness of the hotel reception"
+    ]
+  },
+  "review_summary": "Based on 5 reviews.",
+  "positive_themes": {
+    "good_food": 1,
+    "clean_rooms": 1,
+    "friendly_staff": 2
+  },
+  "negative_themes": {
+    "dirty_rooms": 1,
+    "rude_staff": 1
+  }
+}

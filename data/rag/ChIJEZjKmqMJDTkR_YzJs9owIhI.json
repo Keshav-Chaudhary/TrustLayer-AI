@@ -1,0 +1,46 @@
+{
+  "hotel_id": "ChIJEZjKmqMJDTkR_YzJs9owIhI",
+  "hotel_name": "Themis Farmhouse \u2013 A Luxury Poolside Farm Stay: Delhi Ncr",
+  "area": "Delhi",
+  "budget_category": "Budget",
+  "rating": 4.7,
+  "trust_score": 0.8897164078414294,
+  "travel_purpose_tags": [
+    "Business"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "moderate",
+    "review_count": 5,
+    "positive_snippet_count": 3,
+    "negative_snippet_count": 0,
+    "positive_theme_count": 3,
+    "negative_theme_count": 0
+  },
+  "aspect_scores": {
+    "cleanliness": 0.999863624572754,
+    "service": 0.9998481273651124,
+    "location": 0.5,
+    "value_for_money": 0.5,
+    "staff_behavior": 0.9998684326807658
+  },
+  "recommendation_features": {
+    "popularity_score": 0.4358587231264387,
+    "rating_score": 4.7,
+    "sentiment_score": 0.9998653173446655
+  },
+  "review_evidence": {
+    "positive_snippets": [
+      "It was a very nice experience staying at Themis. I would especially like to appreciate Mr. Sunil ji, Arun ji, and your chef. Everyone was very decent, polite, and attended to us very well.\nWe really liked the way they took care of us and served good food. Overall, we had a very pleasant experience at your property, and I would love to visit again with my family in the future.They also took very good care of our pets. For that as well, I would like to thank you.\nOverall wonderful experience \u2728\ufe0f \u2728\ufe0f\ud83d\udc4c\ud83d\udc4c\ud83d\udc4c",
+      "Had a great stay at Themis Farm House, Gurgaon. The place is peaceful and perfect for a quick escape from the city.\n\nThe food was fresh and delicious. Enjoyed the tractor ride, horse riding, and indoor games like table tennis, carrom, and foosball. The swimming pool was clean, and the poolside projector made evenings fun. The bonfire added a nice cozy touch.\n\nOverall, a well-maintained property and a lovely experience. Would definitely recommend. \ud83d\ude0a",
+      "Really enjoyed our time at Themis Farmhouse with family.  The property is designed thoughtfully and every age group in family could find some activity to do and enjoy. Food is excellent, and the staff is the key, super helpful. Definitely recommend!"
+    ],
+    "negative_snippets": []
+  },
+  "review_summary": "Based on 5 reviews.",
+  "positive_themes": {
+    "friendly_staff": 3,
+    "good_food": 4,
+    "clean_rooms": 2
+  },
+  "negative_themes": {}
+}

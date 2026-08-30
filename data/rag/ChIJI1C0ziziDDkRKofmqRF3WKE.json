@@ -1,0 +1,50 @@
+{
+  "hotel_id": "ChIJI1C0ziziDDkRKofmqRF3WKE",
+  "hotel_name": "The Athena Hotel",
+  "area": "New Friends Colony",
+  "budget_category": "Mid-Range",
+  "rating": 3.8,
+  "trust_score": 0.5630739179053842,
+  "travel_purpose_tags": [
+    "Budget"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "moderate",
+    "review_count": 5,
+    "positive_snippet_count": 1,
+    "negative_snippet_count": 3,
+    "positive_theme_count": 3,
+    "negative_theme_count": 1
+  },
+  "aspect_scores": {
+    "cleanliness": 0.5,
+    "service": 0.2519483051728456,
+    "location": 0.5,
+    "value_for_money": 0.0060900156386196,
+    "staff_behavior": 0.0012814842630177
+  },
+  "recommendation_features": {
+    "popularity_score": 0.6585282157178736,
+    "rating_score": 3.8,
+    "sentiment_score": 0.2025984583422541
+  },
+  "review_evidence": {
+    "positive_snippets": [
+      "Excellent front officeservice and housekeeping maintained on daily room service....."
+    ],
+    "negative_snippets": [
+      "It\u2019s a simple affordable hotel. Value for money was decent, however the hotel can improve on multiple fronts, including service. The hotel access key wasn\u2019t working properly. Had a cockroach situation in the room which killed my appetite for ordering food.\n\nThe place is located in new friends colony and was very easy to move around in Delhi",
+      "They charge extra even if you come 10 minutes before check-in time. We had to pay 200 rs extra since they only allow check-in at 2 pm and we had to leave urgently for some work.\n\nAlso no person available to help with luggage. I had to do 2 rounds to get the luggage to the room.\n\nThey also refused to provide extra blanket.\nApart from that rooms were okay.",
+      "If you are tourist this place is not suitable for you. Service is not good.If you give clothes for laundry. They will return you only ironing without washing and keep lying that it was washed."
+    ]
+  },
+  "review_summary": "Based on 5 reviews.",
+  "positive_themes": {
+    "great_value": 1,
+    "good_food": 1,
+    "friendly_staff": 1
+  },
+  "negative_themes": {
+    "rude_staff": 1
+  }
+}

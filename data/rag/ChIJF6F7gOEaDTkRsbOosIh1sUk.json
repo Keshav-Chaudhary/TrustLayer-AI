@@ -1,0 +1,51 @@
+{
+  "hotel_id": "ChIJF6F7gOEaDTkRsbOosIh1sUk",
+  "hotel_name": "Welcomhotel By Itc Hotels, Dwarka, New Delhi",
+  "area": "New Delhi",
+  "budget_category": "Luxury",
+  "rating": 4.5,
+  "trust_score": 0.8455681801162093,
+  "travel_purpose_tags": [
+    "Budget"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "moderate",
+    "review_count": 5,
+    "positive_snippet_count": 3,
+    "negative_snippet_count": 1,
+    "positive_theme_count": 4,
+    "negative_theme_count": 1
+  },
+  "aspect_scores": {
+    "cleanliness": 0.5000656445336062,
+    "service": 0.7499627570068697,
+    "location": 0.5000656445336062,
+    "value_for_money": 0.00031636148924,
+    "staff_behavior": 0.5062055365560809
+  },
+  "recommendation_features": {
+    "popularity_score": 0.9456869360576206,
+    "rating_score": 4.5,
+    "sentiment_score": 0.6049360097502359
+  },
+  "review_evidence": {
+    "positive_snippets": [
+      "Just had an incredible stay at ITC Hotel Dwarka Sector 10, and it exceeded every expectation! From the moment I arrived, the warm welcome by the staff set the perfect tone. The rooms are spacious, impeccably clean, and packed with modern amenities \u2013 the plush bedding and stunning city views made unwinding a breeze.Dining was a highlight: the buffet at the restaurant offered an incredible mix of Indian and international flavors, all fresh and flavorful. Loved the rooftop pool area for a relaxing dip after a long day exploring Dwarka. Location is prime \u2013 super close to the metro and malls, yet peaceful.Service was top-notch; special shoutout to the concierge for seamless arrangements. If you're in Delhi NCR, this is your go-to for luxury and comfort. Will be back soon!",
+      "We visited Welcomhotel by ITC Hotels, Dwarka on 1 March for a function. Although we didn\u2019t stay in a room, our overall experience at the hotel was very good.\nThe arrangements for the function were excellent and everything was well managed. The ambience of the hotel is beautiful and well maintained.\nThe food and management were very good, and the staff was polite, cooperative, and professional. Everything was handled smoothly which made the event very enjoyable for us.\nOverall, it was a great experience and we really liked the hospitality of the hotel. \ud83d\udc4d\ud83d\ude0a Mr. Rajkumar Tyagi",
+      "We had an exceptional experience at Kebab n Kurries ITC Welcomhotel Dwarka while hosting one of our very senior global business leader. From the very beginning, we felt warmly welcomed and everything was flawlessly executed. The menu was exquisite, reflecting culinary finesse and meticulous attention to detail.\n\nThe service was remarkable, gracious, seamlessly coordinated, and deeply committed to guest satisfaction, embodying the highest standards of luxury hospitality. A special appreciation and mention to Chef Yashpal and F&B Service team for orchestrating such a refined culinary and guest experience.\n\nThey deliver not just a meal, but a truly memorable dining journey. Highly recommended for those seeking an elevated and bespoke culinary experience.\n\nThis property is a great epitome of hospitality and they know how to create an astronomical and phenomenal guest experience right from top management to the last person on the ground.\n\nShall repeat and recommend for sure..."
+    ],
+    "negative_snippets": [
+      "Check in: Process was slow and hotel was severely under staffed at 1am to handle that many bookings , they took an hour to locate our booking ( system was down) , we booked airport pick up& that arrived late to the airport. While we made this reservation from Australia ; they promised us a high floor room , made it sound like we will be looked after as we booked a lot of extras and inclusions ,but we were given a horrible room and everything promised was not delivered.\n\nThe place is visibly dated & not well maintained, realistically should be rated a 2.5 star internationally for the standard of service , the presentation of the room and hotel . Curtains were stained and very dirty. Linen was dirty. Air con vents were so dusty, mouldy wall in the bathroom, toilet paper was an old roll and some had moss. Pool area is a 3/10.\n\nRoom type : Studio Suite (52m2) . Supposed to be a Comfortable room but was very disappointed with the state of the room & how it was presented.\n\nDining: Poorly organised, they have many staff but no one is working efficiently. It\u2019s a lot of standing and walking around like they are busy but no actual work is being done. No plates/ cups at stations, food not topped up for the buffet. Poor continental selection ,food is not suitable for international guests.\n\nReviews : The good reviews for the hotel on the sites are probably as fake as their photos of the premise on the website.\nThe restaurants are shown to look well presented, but they are actually poorly ventilated, disorganised and not clean.\n\nCustomer Complaints & management :I raised all our issues to staff members ,no resolution. Asked to speak to the duty manager . Finally after about 3 hrs later they connect me to them but by then it\u2019s of no use to us as we are leaving tmrw. They tried to solve the issue but honestly a refund would have been better at this stage.\n\nWe thought we reserved the best room with half board included so we will be well taken care of. It was the worst decision to book here. A very disappointing start to our holiday. For the price we paid, we are better off in any other international chain as there would be a guarantee with the standard of service. ITC welcome falls short of their brand and identity."
+    ]
+  },
+  "review_summary": "Based on 5 reviews.",
+  "positive_themes": {
+    "clean_rooms": 2,
+    "friendly_staff": 4,
+    "good_location": 1,
+    "good_food": 3
+  },
+  "negative_themes": {
+    "dirty_rooms": 1
+  }
+}

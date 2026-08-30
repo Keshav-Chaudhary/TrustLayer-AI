@@ -1,0 +1,54 @@
+{
+  "hotel_id": "ChIJYYEN1ewHDTkRc3o8PiMnX34",
+  "hotel_name": "Super Hotel O Raas Near Hira Sweet",
+  "area": "Laxmi Nagar",
+  "budget_category": "Mid-Range",
+  "rating": 3.5,
+  "trust_score": 0.6078997665414276,
+  "travel_purpose_tags": [
+    "Leisure",
+    "Business"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "rich",
+    "review_count": 5,
+    "positive_snippet_count": 3,
+    "negative_snippet_count": 2,
+    "positive_theme_count": 5,
+    "negative_theme_count": 1
+  },
+  "aspect_scores": {
+    "cleanliness": 0.99909245967865,
+    "service": 0.99909245967865,
+    "location": 0.9994567334651948,
+    "value_for_money": 0.5000434103130829,
+    "staff_behavior": 0.7497404090536293
+  },
+  "recommendation_features": {
+    "popularity_score": 0.4606791356859033,
+    "rating_score": 3.5,
+    "sentiment_score": 0.5999989297008141
+  },
+  "review_evidence": {
+    "positive_snippets": [
+      "Specific Staff Praise: Highlighting staff by name creates a personal, high-quality review.\nDetailed Comfort Notes: Mentioning the quality of beds, linens, and room cleanliness.\nLocation and Amenities: Describing proximity to attractions and specific, enjoyable amenities like spas, pools, or breakfast buffets.\nConstructive Feedback: Balanced reviews that mention a minor issue but still highly recommend the property",
+      "Service Quality: Courteous, helpful, and responsive staff.\nCleanliness & Comfort: Clean rooms, comfortable bedding, and functional bathrooms.\nLocation: Convenience regarding nearby restaurants, attractions, or transport.\nValue: Whether the experience matched the price point.\nAmenities: Quality of Wi-Fi, breakfast, pool, or spa facilities.",
+      "Good \ud83d\udc4d hotel \ud83c\udfe8 best price \ud83d\ude01 osm rooms and the staff was very helpful"
+    ],
+    "negative_snippets": [
+      "Experience is not good.\nStaffs are greedy . I booked on oyo app but when I reach on property they ask for double charge, they did not agree with oyo price.So please confirm rate on call before going there\nDon't choose this hotel",
+      "On 20th sept i booked 1 room for 1 guest for rupee 1028 through oyo application..when i reached there for check-in the receptionist Mr gaurav told me that they will not provide the check-in as the price was very low and they told me that they will only provide rooms in 1800-1900. Then i called customer care and i was on call with him for 40-50 mints they tried to help me they told me that they are trying to connect with property manager and at last they told me that ACs are not working so they will not provide the room..this is really  disheartening the behaviour or the staff was very unprofessional..pls dont go there"
+    ]
+  },
+  "review_summary": "Based on 5 reviews.",
+  "positive_themes": {
+    "clean_rooms": 2,
+    "friendly_staff": 5,
+    "good_location": 2,
+    "good_food": 2,
+    "great_value": 1
+  },
+  "negative_themes": {
+    "rude_staff": 1
+  }
+}

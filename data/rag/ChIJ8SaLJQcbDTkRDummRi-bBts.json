@@ -1,0 +1,50 @@
+{
+  "hotel_id": "ChIJ8SaLJQcbDTkRDummRi-bBts",
+  "hotel_name": "Vivanta New Delhi, Dwarka",
+  "area": "New Delhi",
+  "budget_category": "Mid-Range",
+  "rating": 4.4,
+  "trust_score": 0.951736881395795,
+  "travel_purpose_tags": [
+    "Leisure",
+    "Business"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "moderate",
+    "review_count": 5,
+    "positive_snippet_count": 3,
+    "negative_snippet_count": 0,
+    "positive_theme_count": 4,
+    "negative_theme_count": 1
+  },
+  "aspect_scores": {
+    "cleanliness": 0.9997721314430236,
+    "service": 0.9998080333073934,
+    "location": 0.9997881054878236,
+    "value_for_money": 0.5,
+    "staff_behavior": 0.9998080333073934
+  },
+  "recommendation_features": {
+    "popularity_score": 0.9150530570878216,
+    "rating_score": 4.4,
+    "sentiment_score": 0.9997979402542114
+  },
+  "review_evidence": {
+    "positive_snippets": [
+      "We had a lovely experience at the property as it\u2019s centrally located and we got a good deal on our anniversary. They were happy to help as they offered us a complimentary cake and decorated our room with rose petals.\n\nThe breakfast and dinner spread were amazing as we are loved the food and hospitality altogether.\n\nWe have stayed in The Roseate in Samalkha and Aerocity, Pullman, Andaz, and Novotel in Aerocity, JW in Juhu, The Lalit in Mumbai and other Taj properties. Out of all these this was justified for what we paid.\n\nMy wife didn\u2019t like breakfast spread but I liked it because I got what I wanted.\n\nThe gym is a must visit as I have been to other 5 star gyms but this one was nearly and nicely maintained with all the weights for a hardcore gym lover.\n\nThe spa was relaxing and I have put a detailed review in a separate section.\n\nOverall, it was a nice experience.\n\nI would suggest to book it on a weekday as you can strike a good deal!",
+      "Good service provide by Mr tarun at tipple bar. He was very helpful in the bar section. His behavior was very polite. The management of this hotel is very good and clean environment. All staff and coordinator was good in behavior. I am fully satisfied with this hotel service and With Mr Tarun was the best \ud83d\udc4d\ud83d\udcafEven I highly recommend my close one to choose this for the TripAdvisor",
+      "I recently visited Vivanta, Dwarka for IEEE APSCON 2026 where I presented my startup.\nThe overall experience was quite good. The conference halls were spacious and well managed, and the event setup felt organized and professional.\nRegistration and coordination were smooth, and the environment was comfortable for networking and presentations.\nThe location is also convenient, especially for people traveling from outside Delhi.\nOverall, it was a positive experience and the venue was well suited for a professional tech and startup event."
+    ],
+    "negative_snippets": []
+  },
+  "review_summary": "Based on 5 reviews.",
+  "positive_themes": {
+    "good_location": 2,
+    "good_food": 2,
+    "clean_rooms": 2,
+    "friendly_staff": 2
+  },
+  "negative_themes": {
+    "dirty_rooms": 1
+  }
+}

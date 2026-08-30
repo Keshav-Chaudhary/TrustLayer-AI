@@ -1,0 +1,46 @@
+{
+  "hotel_id": "ChIJ8SvdaJsLDTkR_ZJVxtepIE4",
+  "hotel_name": "Oyo 67648 Funtown Resort",
+  "area": "Main",
+  "budget_category": "Budget",
+  "rating": 3.3,
+  "trust_score": 0.5496126479108321,
+  "travel_purpose_tags": [
+    "Budget"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "moderate",
+    "review_count": 3,
+    "positive_snippet_count": 2,
+    "negative_snippet_count": 1,
+    "positive_theme_count": 2,
+    "negative_theme_count": 0
+  },
+  "aspect_scores": {
+    "cleanliness": 0.0003595886519178,
+    "service": 0.0003595886519178,
+    "location": 0.5,
+    "value_for_money": 0.5,
+    "staff_behavior": 0.9998612403869628
+  },
+  "recommendation_features": {
+    "popularity_score": 0.2143472170767782,
+    "rating_score": 3.3,
+    "sentiment_score": 0.6648597696718449
+  },
+  "review_evidence": {
+    "positive_snippets": [
+      "Look like five star hotel",
+      "Good place to stay. nice staff."
+    ],
+    "negative_snippets": [
+      "Pathetic, Blunder. over charging everything. Not clean or hygienic. Service is as much delay that u will fall asleep of waiting."
+    ]
+  },
+  "review_summary": "Based on 3 reviews.",
+  "positive_themes": {
+    "friendly_staff": 1,
+    "clean_rooms": 1
+  },
+  "negative_themes": {}
+}

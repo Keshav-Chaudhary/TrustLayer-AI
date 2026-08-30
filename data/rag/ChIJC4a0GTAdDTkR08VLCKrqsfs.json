@@ -1,0 +1,54 @@
+{
+  "hotel_id": "ChIJC4a0GTAdDTkR08VLCKrqsfs",
+  "hotel_name": "Hotel Iconic",
+  "area": "Mahipalpur",
+  "budget_category": "Mid-Range",
+  "rating": 4.5,
+  "trust_score": 0.7682061751067297,
+  "travel_purpose_tags": [
+    "Leisure"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "rich",
+    "review_count": 5,
+    "positive_snippet_count": 3,
+    "negative_snippet_count": 2,
+    "positive_theme_count": 5,
+    "negative_theme_count": 2
+  },
+  "aspect_scores": {
+    "cleanliness": 0.4993788803985807,
+    "service": 0.3336779310096365,
+    "location": 0.99885493516922,
+    "value_for_money": 0.999664306640625,
+    "staff_behavior": 0.6666801469400525
+  },
+  "recommendation_features": {
+    "popularity_score": 0.5897290193403213,
+    "rating_score": 4.5,
+    "sentiment_score": 0.5997596403234638
+  },
+  "review_evidence": {
+    "positive_snippets": [
+      "I had a great experience at the Hotel Iconic. The room was clean and Wifi and hot water were provided. Moreover, the place was calm and silent, even though it's surrounded by shops and restaurants.\nThe stuff was kind and professional and booked me a night taxi to the airport. I could also check-out late, during the night.\nI recommend this staying if you need a quiet room close to the airport.",
+      "Being a Bombay girl traveling alone in Delhi, I was initially feeling a bit unsafe, but this hotel completely changed that for me. The staff were extremely courteous, supportive, and attentive, and their behavior made me feel genuinely secure throughout my stay. Their professionalism and constant willingness to help gave me a lot of comfort, and because of them, my experience in Delhi turned out to be much better than I had expected. I would definitely recommend this hotel, especially for solo female travelers.\nThank you Staff and owner\ud83d\ude4f",
+      "This is a surprisingly good place to stay if you need somewhere close to the airport. Neha at reception was pleasant and very accommodating. The men who were on reception in the morning were quite rude, but all in all I had a good stay here. The room service butter chicken is worth trying too."
+    ],
+    "negative_snippets": [
+      "DON'T STAY IN THIS HOTEL.\nDon't be fooled by the number of good reviews as we were. I don't know if they are fake or what the deal is. This was one of the worst experiences I have ever had.\n\nThe room was filthy, the bedsheets had stains all over them, and we weren't even given towels. Everything was disgusting, and we didn't want to touch anything.\n\nIn addition to that, the friends we traveled with had another room booked. We arrived at the hotel at 4 AM and were told only one room was ready, they claimed they were still \"preparing\" the other one. They made our friends wait for ONE MORE HOUR. Just two minutes before they finally gave them the room, they saw someone check out. It was very clear that they gave them this person's room and clearly hadn't even changed the bedsheets from the previous guest.\n\nIf you are still unsure, know that you can hear everything going on inside the hotel from the room. There is no way to rest, and you can hear cars outside honking at all hours.\n\nPlease, don't stay in this hotel, you will regret it.",
+      "The hotel overcharged for food and the quality was bad enough that it made us feel sick. The rooms felt dingy and uncomfortable with no windows or natural light, no fans, AC only in some rooms, and bedsheets with cigarette burns. The only positive was the service desk staff, she was very kind and helpful."
+    ]
+  },
+  "review_summary": "Based on 5 reviews.",
+  "positive_themes": {
+    "clean_rooms": 1,
+    "good_location": 2,
+    "friendly_staff": 2,
+    "great_value": 1,
+    "good_food": 1
+  },
+  "negative_themes": {
+    "rude_staff": 1,
+    "dirty_rooms": 1
+  }
+}

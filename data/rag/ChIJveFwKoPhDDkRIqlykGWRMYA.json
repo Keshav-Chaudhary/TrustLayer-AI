@@ -1,0 +1,51 @@
+{
+  "hotel_id": "ChIJveFwKoPhDDkRIqlykGWRMYA",
+  "hotel_name": "Manya Residency Near Dlf Avenue Saket",
+  "area": "Saket",
+  "budget_category": "Mid-Range",
+  "rating": 3.1,
+  "trust_score": 0.3999468947019038,
+  "travel_purpose_tags": [
+    "Business"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "moderate",
+    "review_count": 5,
+    "positive_snippet_count": 1,
+    "negative_snippet_count": 3,
+    "positive_theme_count": 4,
+    "negative_theme_count": 1
+  },
+  "aspect_scores": {
+    "cleanliness": 0.0148561740206787,
+    "service": 0.9997283816337584,
+    "location": 0.50221235351637,
+    "value_for_money": 0.0170785118825733,
+    "staff_behavior": 0.9997283816337584
+  },
+  "recommendation_features": {
+    "popularity_score": 0.3226247091360448,
+    "rating_score": 3.1,
+    "sentiment_score": 0.2068992948858067
+  },
+  "review_evidence": {
+    "positive_snippets": [
+      "It has a great service at a great location and about this hotele is like i liked it very much oerosnally they are very polite natured persons not like others i recommend to all my friends go n book this hotel every night if u are the fun lover and for couples this hotel is amazing ...\nI am happy with the services of this property............ I liked it very much ."
+    ],
+    "negative_snippets": [
+      "It is located in Saket IGNOU road and it is a hybrid PG and HOSTEL and OYO so I have stayed there many times..\n\nThe drainage problems in bathroom\nNo TV  available in many rooms\nCleanliness is 0 there\nThey will ask you about the money and will charge you however no services at all.\n\nThe rooms are big\nThey provide you WiFi\n24*7 Electricity available\nNearby necessities are there for sure.\n\n6/10 Recommended only if you make last moment plans..\n\nPrices- 800-1000/-",
+      "It's a hybrid between a hotel and a PG, bustling with random college students. While you do get reasonable value for your money at this hotel, the accessibility of its location leaves something to be desired.",
+      "What the show in their page and reality is like gold and coal.unhygenic untruthful and depressing.the only reason that i stayed here was because i couldn't find any hotels nearby ignou all of a sudden and i was in a hurry"
+    ]
+  },
+  "review_summary": "Based on 5 reviews.",
+  "positive_themes": {
+    "friendly_staff": 1,
+    "good_location": 4,
+    "clean_rooms": 2,
+    "great_value": 1
+  },
+  "negative_themes": {
+    "dirty_rooms": 1
+  }
+}

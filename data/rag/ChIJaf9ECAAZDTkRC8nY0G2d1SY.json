@@ -1,0 +1,52 @@
+{
+  "hotel_id": "ChIJaf9ECAAZDTkRC8nY0G2d1SY",
+  "hotel_name": "Qotel Signature - Golf Course Road",
+  "area": "Sector 53",
+  "budget_category": "Mid-Range",
+  "rating": 4.7,
+  "trust_score": 0.7295466000495,
+  "travel_purpose_tags": [
+    "Leisure"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "moderate",
+    "review_count": 5,
+    "positive_snippet_count": 2,
+    "negative_snippet_count": 3,
+    "positive_theme_count": 4,
+    "negative_theme_count": 1
+  },
+  "aspect_scores": {
+    "cleanliness": 0.0013186281042483,
+    "service": 0.3343456823495216,
+    "location": 0.9996728897094728,
+    "value_for_money": 0.0005917269736528,
+    "staff_behavior": 0.999653458595276
+  },
+  "recommendation_features": {
+    "popularity_score": 0.581629146476342,
+    "rating_score": 4.7,
+    "sentiment_score": 0.4006525603006594
+  },
+  "review_evidence": {
+    "positive_snippets": [
+      "1 felt well taken care of during my time here; the housekeeping team kept the room tidy and comfortable. The staff were respectful and attentive to small requirements. Manoj at the front office assisted politely and professionally.",
+      "The hotel is based in a location named Golf Course Road which is a hub of a lot of food joints where you can enjoy the local food as well a world cuisines. Room tarriff are reasonable priced , services are prompt and staff are friendly. I had a great stay. Will visit again when I come to gurgaon again with family."
+    ],
+    "negative_snippets": [
+      "Room decent sized and clean with clean washrooms with good water pressure. Quiet too. Okay for a quick stay.\n\nCon:Hard mattress and washed but stained wornout sheets. Their key cards was not working so they were opening rooms with master card! Also Google suggests a word approach road that is broken. Easier to walk to highway a few hundred metres and then book cabs.\nDon't book the breakfast.. It is a waste of money. Time was 7:30 and at 8:20 when I went for breakfast they were like we don't have milk to give coffee. Breakfast was plain paratha and aloo. Nothing else.",
+      "1) AC was not working properly.\n2) TV was not working\nHad to call multiple times to get someone from reception to come check ac and tv.\n\nAlthough room was clean and well lit. Washroom was also clean. Towels were clean and dry.",
+      "I am disappointed with my recent stay at your hotel. The room was poorly maintained, dirty bedsheets, marked walls and no towels provided. I was also informed that all rooms were booked for a wedding hence, Separate card for access for room was unavailable.\n\nEven though my stay was on an hourly basis, basic cleanliness and service standards are expected, especially from a 4-star hotel. Unfortunately, my experience was unsatisfactory, and I do not plan to visit again."
+    ]
+  },
+  "review_summary": "Based on 5 reviews.",
+  "positive_themes": {
+    "clean_rooms": 4,
+    "friendly_staff": 2,
+    "good_location": 1,
+    "good_food": 2
+  },
+  "negative_themes": {
+    "dirty_rooms": 1
+  }
+}

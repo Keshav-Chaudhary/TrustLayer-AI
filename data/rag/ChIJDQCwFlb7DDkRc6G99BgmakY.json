@@ -1,0 +1,52 @@
+{
+  "hotel_id": "ChIJDQCwFlb7DDkRc6G99BgmakY",
+  "hotel_name": "East Inn Hotel",
+  "area": "Preet Vihar",
+  "budget_category": "Budget",
+  "rating": 4.2,
+  "trust_score": 0.769550880169143,
+  "travel_purpose_tags": [
+    "Leisure",
+    "Business"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "moderate",
+    "review_count": 5,
+    "positive_snippet_count": 3,
+    "negative_snippet_count": 1,
+    "positive_theme_count": 4,
+    "negative_theme_count": 1
+  },
+  "aspect_scores": {
+    "cleanliness": 0.6665363386758448,
+    "service": 0.9996796250343324,
+    "location": 0.9980365435282388,
+    "value_for_money": 0.0002752767468336,
+    "staff_behavior": 0.9996947248776754
+  },
+  "recommendation_features": {
+    "popularity_score": 0.4849500948560417,
+    "rating_score": 4.2,
+    "sentiment_score": 0.7988270685367752
+  },
+  "review_evidence": {
+    "positive_snippets": [
+      "Had a really pleasant stay here. The biggest advantage is the location\u2014the hotel is right next to the Blue Line metro station, which makes traveling around the city extremely easy. \ud83d\ude87\n\nThere\u2019s also a mall nearby, along with plenty of cafes, restaurants, and small eateries within walking distance, so finding good food or a place to relax was never a problem. Everything you need is just around the corner. \u2615\ud83c\udf7d\ufe0f\n\nThe rooms were clean, comfortable, and well maintained, and the staff was polite and helpful throughout the stay. Overall, it\u2019s a great place if you want a comfortable stay in a prime, well-connected area. I\u2019d definitely recommend it and would happily stay here again.",
+      "very good facility in this service renge.. service & hospitality is the most valuable and important thing here.. feel like home.\nstaff service and owners coordinations are really appreciable.",
+      "Prompt service provided. Appreciated. Neat and clean rooms and especially washrooms. Staff is helpful and location is very prime."
+    ],
+    "negative_snippets": [
+      "One of the worst hotels I\u2019ve stayed in, especially for the price (\u20b92000).\nThe room was extremely dirty \u2014 walls had spit marks and stains that made it hard to even eat inside. The bathroom flush was broken too.\nOverall, a very disappointing experience.\nThe hotel should seriously consider cleaning and repainting the rooms before renting them out."
+    ]
+  },
+  "review_summary": "Based on 5 reviews.",
+  "positive_themes": {
+    "clean_rooms": 3,
+    "friendly_staff": 3,
+    "good_location": 2,
+    "good_food": 1
+  },
+  "negative_themes": {
+    "dirty_rooms": 1
+  }
+}

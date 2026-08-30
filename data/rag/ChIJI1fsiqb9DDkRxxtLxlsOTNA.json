@@ -1,0 +1,49 @@
+{
+  "hotel_id": "ChIJI1fsiqb9DDkRxxtLxlsOTNA",
+  "hotel_name": "Maidens Hotel",
+  "area": "New Delhi",
+  "budget_category": "Mid-Range",
+  "rating": 4.5,
+  "trust_score": 0.8780179473488101,
+  "travel_purpose_tags": [
+    "Business"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "moderate",
+    "review_count": 5,
+    "positive_snippet_count": 3,
+    "negative_snippet_count": 0,
+    "positive_theme_count": 4,
+    "negative_theme_count": 1
+  },
+  "aspect_scores": {
+    "cleanliness": 0.9998289346694946,
+    "service": 0.7641837550327182,
+    "location": 0.6856353618204594,
+    "value_for_money": 0.5,
+    "staff_behavior": 0.7642123503610492
+  },
+  "recommendation_features": {
+    "popularity_score": 0.7887724534629817,
+    "rating_score": 4.5,
+    "sentiment_score": 0.8112554512917995
+  },
+  "review_evidence": {
+    "positive_snippets": [
+      "This property near ISBT Kashmere Gate has an old-world fort-style charm combined with five-star hospitality. Though it\u2019s a bit far from the airport, the warm welcome from the staff makes you feel at home right away. There\u2019s ample parking space, and the rooms are spacious, neat, and well-maintained. Room service is prompt and courteous. The open park area is a nice touch, especially for family gatherings or functions. Overall, my stay was comfortable and satisfactory.\n\nWhat adds to the appeal is the heritage feel of the architecture, which sets it apart from modern glass-and-steel hotels. Many guests also appreciate the colonial-era ambiance, as this property (Maidens Hotel, built in 1903) is one of Delhi\u2019s oldest luxury hotels, offering a blend of history and modern amenities. It features an outdoor pool, a fitness center, and a charming courtyard caf\u00e9, making it not just a stay but an experience steeped in tradition.",
+      "If you are anxious about travel to Delhi with a toddler who has never set foot in the country, this is your place to be. My toddler ate all the meals here, drank their RO purified water, and even had some cut salads and fruits and did well with no health issues. What made the whole experience absolutely fantastic was the hospitality. Everyone was very professional, pleasant and just happy! The restaurant also modified food and made some dishes for my toddler and offered to pack food for my kid's journey out of Delhi. The grounds are massive and we spent so many hours just walking around. It also felt less smoggy than rest of the city.\nMy special thanks to the GM Prachi ji, Jashan Ji, Sudhanshu ji and all the staff for being so kind and accommodating our needs.\nI cannot imagine staying anywhere else in Delhi.\nThank you!\n\nPS: Not all rooms have windows that open to the outside. I would suggest to call ahead to book one.",
+      "I would like to add a disclaimer that this is a review for the staff, specifically the front office and the supervisor of that night, Rachit Verma, as they merit one.\n\nWe arrived shortly late at night due to unforeseen slowdowns during our travel and rushed to check in.\n\nUnfortunately, our troubles of the day continues as we realized that we made our booking on the wrong day... one month in advance.\n\nThe hotel was already at full capacity and we were greatly disappointed. Despite the situation, the staff was exceptional in making sure we were given guidance and attention during this time.\n\nWe managed to find another booking quickly and this would have escalated to something dismal were it not for the staff's patience and experience.\n\nWe were definitely looking forward to spending time in the Maidens Hotel as it is a terrific location. We will surely make another attempt during travels to India's capital city. This time, with proper dates and knowledge that a stellar staff is there to provide us with quality service."
+    ],
+    "negative_snippets": []
+  },
+  "review_summary": "Based on 5 reviews.",
+  "positive_themes": {
+    "clean_rooms": 2,
+    "friendly_staff": 4,
+    "good_location": 3,
+    "good_food": 2
+  },
+  "negative_themes": {
+    "parking_issues": 1
+  }
+}

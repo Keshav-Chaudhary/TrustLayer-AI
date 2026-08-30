@@ -1,0 +1,46 @@
+{
+  "hotel_id": "ChIJda6QOks8DTkRSYPBnAZZFs8",
+  "hotel_name": "Savoy Suites, Manesar",
+  "area": "Imt Manesar",
+  "budget_category": "Mid-Range",
+  "rating": 4.5,
+  "trust_score": 0.9371860911183544,
+  "travel_purpose_tags": [
+    "Business"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "moderate",
+    "review_count": 5,
+    "positive_snippet_count": 3,
+    "negative_snippet_count": 0,
+    "positive_theme_count": 3,
+    "negative_theme_count": 0
+  },
+  "aspect_scores": {
+    "cleanliness": 0.9998584985733032,
+    "service": 0.9998730023701986,
+    "location": 0.5,
+    "value_for_money": 0.5,
+    "staff_behavior": 0.9998695850372314
+  },
+  "recommendation_features": {
+    "popularity_score": 0.7840231647661507,
+    "rating_score": 4.5,
+    "sentiment_score": 0.999876880645752
+  },
+  "review_evidence": {
+    "positive_snippets": [
+      "\u2b50\u2b50\u2b50\u2b50\u2b50\nAn exceptional dining experience with top-notch food quality and elegant presentation. Every dish was perfectly cooked, rich in flavor, and thoughtfully prepared. Heartfelt compliments to Chef Manish and all kitchen team for the outstanding culinary excellence. Truly a memorable experience and service was very fast Ajay is  very nice person  and we will definitely visit again.borgwarner team",
+      "\u2b50\u2b50\u2b50\u2b50\u2b50\nThe food was really delicious and well presented.  dish was fresh and perfectly balanced in taste. Special thanks to Chef Manish and his team for such a wonderful culinary experience. Overall, it was a great dining experience and highly recommended.thanks to all",
+      "Very good stay at the Savoy Suites Manesar!\n\nThe rooms are surprisingly big and have all the amenities.\nFood is good and the hospitality staff is very decent and polite.\n\nThank you !"
+    ],
+    "negative_snippets": []
+  },
+  "review_summary": "Based on 5 reviews.",
+  "positive_themes": {
+    "good_food": 4,
+    "friendly_staff": 2,
+    "clean_rooms": 1
+  },
+  "negative_themes": {}
+}

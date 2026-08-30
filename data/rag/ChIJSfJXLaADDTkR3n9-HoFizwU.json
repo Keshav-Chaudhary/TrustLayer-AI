@@ -1,0 +1,50 @@
+{
+  "hotel_id": "ChIJSfJXLaADDTkR3n9-HoFizwU",
+  "hotel_name": "Hotel Baba`S Inn",
+  "area": "New Delhi",
+  "budget_category": "Budget",
+  "rating": 4.4,
+  "trust_score": 0.6332779055350336,
+  "travel_purpose_tags": [
+    "Leisure"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "moderate",
+    "review_count": 5,
+    "positive_snippet_count": 2,
+    "negative_snippet_count": 3,
+    "positive_theme_count": 4,
+    "negative_theme_count": 0
+  },
+  "aspect_scores": {
+    "cleanliness": 0.0003083901247009,
+    "service": 0.5,
+    "location": 0.9996380805969238,
+    "value_for_money": 0.4999644734780304,
+    "staff_behavior": 0.0008727607200853
+  },
+  "recommendation_features": {
+    "popularity_score": 0.3166168302341184,
+    "rating_score": 4.4,
+    "sentiment_score": 0.4005851080757566
+  },
+  "review_evidence": {
+    "positive_snippets": [
+      "Best hotel in pitampura near by City park hotel .\nI recommend this property Affordable price",
+      "Best hotel in pitampura near by City Park hotel . Good \ud83e\udd1d Deals\nHappy Recommended.\n# Specially Mr.Ankit"
+    ],
+    "negative_snippets": [
+      "Guys rooms are okayish\nStaf is not friendly\nDon't contact on whatsapp or other ,prices differ,no early checking facility,  even on booking did not allow me to keep luggage\nAlso was helpless need to find some other place early morning",
+      "Last Saturday we stay in, Roam space good but washroom not clean and not working properly.it's waste of money to stay here.",
+      "Fraud hotel plz stay away we had a very bad experience they denied to give us room in last moment, already booked hotel 4-5 days in advance"
+    ]
+  },
+  "review_summary": "Based on 5 reviews.",
+  "positive_themes": {
+    "good_location": 2,
+    "great_value": 1,
+    "friendly_staff": 1,
+    "clean_rooms": 1
+  },
+  "negative_themes": {}
+}

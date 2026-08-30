@@ -1,0 +1,54 @@
+{
+  "hotel_id": "ChIJD6eyOWkEDTkRa5DoupugiDg",
+  "hotel_name": "Parkash'S Bed And Breakfast",
+  "area": "New Delhi",
+  "budget_category": "Mid-Range",
+  "rating": 3.8,
+  "trust_score": 0.584089441897136,
+  "travel_purpose_tags": [
+    "Budget"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "moderate",
+    "review_count": 5,
+    "positive_snippet_count": 2,
+    "negative_snippet_count": 3,
+    "positive_theme_count": 4,
+    "negative_theme_count": 3
+  },
+  "aspect_scores": {
+    "cleanliness": 0.0006078926526242,
+    "service": 0.0007460289634764,
+    "location": 0.0007460289634764,
+    "value_for_money": 0.0017085708677768,
+    "staff_behavior": 0.3336719372406757
+  },
+  "recommendation_features": {
+    "popularity_score": 0.4864637837128357,
+    "rating_score": 3.8,
+    "sentiment_score": 0.3831786433293018
+  },
+  "review_evidence": {
+    "positive_snippets": [
+      "A good Air BNB for accommodation upto 16 personnwl. Rates are reasonable.  You can also get quality food cooked from three. Only parking is the problem. Metro is also about 1 km.",
+      "Excellent property, very supportive and polite host.We use to come here almost every month and we get homely feeling.Higly recommended place."
+    ],
+    "negative_snippets": [
+      "Most pathetic place \u2026. Accepted the place is not expensive, and it convenient with the location\u2026 but full of mosquitoes ( I felt mosquitoes are complimentary in this budget) along with dirty and dusty washroom and bedroom area .Moreover the owner  seems polite before the booking but in real he is too arrogant and unprofessional. I booked the room and  paid the advance however when I checked in, it was full of mosquitoes. I called to owner and instead of resolving the issue he started argument and non stop nonsense talks. Unfortunately I had to leave the room in the middle of the night. Even after informing him in advance that I am going to check in, he made me wait outside on the road for 15 mins.. Such a horrible experience\nNever ever book this place..",
+      "Full of mosquitoes. Not clean. Kitchen has broken cabinets. We were offered 1st floor but found out that it was second and third.\nRooms doesn\u2019t have keys. We were there for wedding. It was a huge mistake. I would suggest to go around and check other properties in the neighbour they have better prices and rooms are much nicer. Our friends left because of the mosquitoes. Owner is arrogant. Parking is not convenient. Overcharged",
+      "The only thing that I liked about the stay was sufficient beds for the guests!\n\nI doubt if one can beat the price for the beds available at the property. But then this happened as I was offered an extra room since AC was not functional in the other one. Technically I used both the rooms.\n\nThe reason for giving 2 stars can be read in reviews posted by other visitors, I would prefer not spend time to write same points."
+    ]
+  },
+  "review_summary": "Based on 5 reviews.",
+  "positive_themes": {
+    "good_food": 1,
+    "friendly_staff": 2,
+    "good_location": 2,
+    "clean_rooms": 1
+  },
+  "negative_themes": {
+    "parking_issues": 2,
+    "dirty_rooms": 1,
+    "rude_staff": 1
+  }
+}

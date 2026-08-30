@@ -1,0 +1,48 @@
+{
+  "hotel_id": "ChIJc4BAbZoJDTkRKKZrpsVFBFw",
+  "hotel_name": "Hotel Beatific Epsilon",
+  "area": "Bahadurgarh",
+  "budget_category": "Mid-Range",
+  "rating": 4.6,
+  "trust_score": 0.9133025169513808,
+  "travel_purpose_tags": [
+    "Leisure",
+    "Business"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "moderate",
+    "review_count": 5,
+    "positive_snippet_count": 3,
+    "negative_snippet_count": 0,
+    "positive_theme_count": 4,
+    "negative_theme_count": 0
+  },
+  "aspect_scores": {
+    "cleanliness": 0.999797910451889,
+    "service": 0.9998270869255066,
+    "location": 0.999833126862844,
+    "value_for_money": 0.5,
+    "staff_behavior": 0.999842663606008
+  },
+  "recommendation_features": {
+    "popularity_score": 0.6093053797472605,
+    "rating_score": 4.6,
+    "sentiment_score": 0.9998286247253418
+  },
+  "review_evidence": {
+    "positive_snippets": [
+      "Good hotel with clean rooms and a comfortable stay. Staff is polite and helpful, and the overall atmosphere is pleasant. Location is convenient, and services are satisfactory. A little improvement in amenities or food options would make it even better. Overall, a nice place to stay. \ud83d\udc4d\ud83c\udfe8",
+      "Is a good hotel with a good location. Service is good and people is very kind. They have a very good food and options in case you prefer no too spicy.",
+      "The place was very clean. The service was quick and the food was as good as you'll find in a week established hotel chain. Must stay if you're around to attend an event."
+    ],
+    "negative_snippets": []
+  },
+  "review_summary": "Based on 5 reviews.",
+  "positive_themes": {
+    "clean_rooms": 2,
+    "friendly_staff": 3,
+    "good_location": 3,
+    "good_food": 4
+  },
+  "negative_themes": {}
+}

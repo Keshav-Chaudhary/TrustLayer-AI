@@ -1,0 +1,53 @@
+{
+  "hotel_id": "ChIJ3VQnN78ZDTkRmGxqa1UL0eo",
+  "hotel_name": "Saltstayz Express - Golf Course Road & Dlf Phase-1",
+  "area": "Sector 28",
+  "budget_category": "Budget",
+  "rating": 4.7,
+  "trust_score": 0.6904195801550463,
+  "travel_purpose_tags": [
+    "Leisure"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "moderate",
+    "review_count": 5,
+    "positive_snippet_count": 1,
+    "negative_snippet_count": 3,
+    "positive_theme_count": 5,
+    "negative_theme_count": 2
+  },
+  "aspect_scores": {
+    "cleanliness": 0.3350643638793067,
+    "service": 0.9997729659080504,
+    "location": 0.9997729659080504,
+    "value_for_money": 0.0002035410434473,
+    "staff_behavior": 0.3335617646613778
+  },
+  "recommendation_features": {
+    "popularity_score": 0.6968752427050666,
+    "rating_score": 4.7,
+    "sentiment_score": 0.2011830194562207
+  },
+  "review_evidence": {
+    "positive_snippets": [
+      "\ud83c\udf1f\ud83c\udf1f\ud83c\udf1f\ud83c\udf1f\ud83c\udf1f Excellent Stay at SaltStayz Express Keepi!\nI had an amazing experience staying at SaltStayz Express Sector 28 ! The property was super clean, well-maintained, and had a very welcoming vibe from the moment I checked in.\nThe rooms were spotless, cozy, and equipped with everything needed for a comfortable stay.\nA big shoutout to Manager Suraj and Mukesh \u2014 both went above and beyond to make sure my stay was smooth and enjoyable. Their hospitality and attention to detail truly stood out! Whether it was quick room service, helpful local suggestions, or just their friendly attitude, they made the entire experience top-notch.\n\nIf you\u2019re looking for a place that combines great service, hospitality, and cleanliness, I\u2019d 100% recommend SaltStayz Express near cyber city . Definitely a place I\u2019d love to revisit!"
+    ],
+    "negative_snippets": [
+      "Very disappointing stay. The room had a strong damp smell, poor ventilation, and was not clean. Bedsheets appeared unhygienic, and the overall moisture made the stay uncomfortable. The staff\u2019s behavior was also unsettling. Even after requesting for the room change, I was not provided with a cleaner/better room.\nUnfortunately, I fell sick afterward, likely due to the unhygienic conditions.\nWould never recommend this hotel to anyone.",
+      "Here\u2019s a refined, clear, and professional version, keeping the frustration intact but making it impactful:\n\nI booked the room for an hourly stay only to freshen up and get ready for the office, but the experience was extremely disappointing. The room and washroom were filthy, with visible marks and stains all over the walls. It took nearly 30 minutes just to get an iron.\n\nNone of the basic toiletries were provided\u2014no towels, drinking water, toilet paper, dental kit, shower gel, or even handwash. When I turned on the shower, the water sprayed straight onto the roof, making it unusable. I then tried to take a bucket bath, only to find that the mug was missing.\n\nIn less than an hour, the sheer lack of basic facilities and responsiveness made the stay incredibly irritating and frustrating.",
+      "The manager sahil / suraj was very unprofessional. Had a very wrong attitude. Asked us to get out & have breakfast just because we wanted an extra piece of bread & was more than ready to pay for it. Never coming to salt stays again, neither are my people."
+    ]
+  },
+  "review_summary": "Based on 5 reviews.",
+  "positive_themes": {
+    "clean_rooms": 3,
+    "friendly_staff": 2,
+    "good_location": 2,
+    "good_food": 1,
+    "great_value": 1
+  },
+  "negative_themes": {
+    "dirty_rooms": 2,
+    "rude_staff": 1
+  }
+}

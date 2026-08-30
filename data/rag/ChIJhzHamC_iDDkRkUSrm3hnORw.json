@@ -1,0 +1,48 @@
+{
+  "hotel_id": "ChIJhzHamC_iDDkRkUSrm3hnORw",
+  "hotel_name": "Rockland Hotel Panchsheel Enclave",
+  "area": "Panchsheel Enclave",
+  "budget_category": "Mid-Range",
+  "rating": 4.0,
+  "trust_score": 0.8370621823680848,
+  "travel_purpose_tags": [
+    "Leisure",
+    "Business"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "moderate",
+    "review_count": 5,
+    "positive_snippet_count": 3,
+    "negative_snippet_count": 0,
+    "positive_theme_count": 4,
+    "negative_theme_count": 0
+  },
+  "aspect_scores": {
+    "cleanliness": 0.9996468623479208,
+    "service": 0.9998012483119963,
+    "location": 0.9998085796833038,
+    "value_for_money": 0.5,
+    "staff_behavior": 0.999821960926056
+  },
+  "recommendation_features": {
+    "popularity_score": 0.6260321281207478,
+    "rating_score": 4.0,
+    "sentiment_score": 0.999711549282074
+  },
+  "review_evidence": {
+    "positive_snippets": [
+      "Hello every1. Everything about the Hotel is simply awesome. The hospitality, food, room service, Facilities in the room - all amenities are very good. Also the metro station is just 50mtrs from here... So you can commute to any place im Delhi very easily. I was here to attend a workshop at AIIMS delhi. I selected this hotel which is about 5-6km from AIIMS after reading the reviews as I was sceptical about the nearby AIIMS options after reading their reviews. Prices are comparable to other 3-4* places which offers good services and amenities. I booked the hotel for 3 days over phone and the Manager made it easy for me. The staff is also very cooperative.",
+      "I had a great stay at the Rockland. The room was very clean and it has a great shower. The bed mattress could have been more comfortable, but otherwise I had a good time.",
+      "The stay was really comfortable. The location is also excellent and safe. It\u2019s right next to chirag delhi gate 2 metro station and close to everywhere. The food is also great. Will definitely recommend this place to everyone and also stay here myself for all my visits to delhi.\nThe staff is also really professional and helpful."
+    ],
+    "negative_snippets": []
+  },
+  "review_summary": "Based on 5 reviews.",
+  "positive_themes": {
+    "friendly_staff": 3,
+    "good_location": 2,
+    "good_food": 3,
+    "clean_rooms": 3
+  },
+  "negative_themes": {}
+}

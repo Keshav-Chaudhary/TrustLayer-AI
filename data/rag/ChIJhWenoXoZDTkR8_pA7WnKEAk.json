@@ -1,0 +1,48 @@
+{
+  "hotel_id": "ChIJhWenoXoZDTkR8_pA7WnKEAk",
+  "hotel_name": "Sunrise Guest House",
+  "area": "Sector 12",
+  "budget_category": "Mid-Range",
+  "rating": 4.0,
+  "trust_score": 0.6263604670212088,
+  "travel_purpose_tags": [
+    "Budget"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "moderate",
+    "review_count": 5,
+    "positive_snippet_count": 0,
+    "negative_snippet_count": 3,
+    "positive_theme_count": 3,
+    "negative_theme_count": 1
+  },
+  "aspect_scores": {
+    "cleanliness": 0.4974072513577994,
+    "service": 0.6648880201973952,
+    "location": 0.5,
+    "value_for_money": 0.9943133592605592,
+    "staff_behavior": 0.500046482135076
+  },
+  "recommendation_features": {
+    "popularity_score": 0.5355059145983454,
+    "rating_score": 4.0,
+    "sentiment_score": 0.3996438620728441
+  },
+  "review_evidence": {
+    "positive_snippets": [],
+    "negative_snippets": [
+      "Very bad service for all and everything\nBad clean in room not also any privacy",
+      "Exceptional service and outstanding quality. Knowledgeable, friendly staff went above and beyond to ensure complete satisfaction. Seamless experience from start to finish. Unique products/offerings that exceed industry standards. Impeccable attention to detail and commitment to customer needs. Highly recommend to anyone seeking a premier [type of business] with unparalleled excellence.",
+      "Very unhygienic room not any cleaning at any side windows is opened not any privacy very bad i suggest dont use this hotel fir any purpose"
+    ]
+  },
+  "review_summary": "Based on 5 reviews.",
+  "positive_themes": {
+    "clean_rooms": 3,
+    "friendly_staff": 1,
+    "great_value": 1
+  },
+  "negative_themes": {
+    "rude_staff": 1
+  }
+}

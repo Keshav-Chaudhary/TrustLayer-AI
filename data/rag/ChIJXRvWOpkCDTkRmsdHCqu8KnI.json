@@ -1,0 +1,49 @@
+{
+  "hotel_id": "ChIJXRvWOpkCDTkRmsdHCqu8KnI",
+  "hotel_name": "Hotel Pablas International",
+  "area": "Karol Bagh",
+  "budget_category": "Mid-Range",
+  "rating": 3.5,
+  "trust_score": 0.6333509988082332,
+  "travel_purpose_tags": [
+    "Leisure",
+    "Business"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "moderate",
+    "review_count": 5,
+    "positive_snippet_count": 3,
+    "negative_snippet_count": 2,
+    "positive_theme_count": 2,
+    "negative_theme_count": 0
+  },
+  "aspect_scores": {
+    "cleanliness": 0.6661927496995,
+    "service": 0.9996916651725768,
+    "location": 0.9994943141937256,
+    "value_for_money": 0.000367699743947,
+    "staff_behavior": 0.9996916651725768
+  },
+  "recommendation_features": {
+    "popularity_score": 0.5798109282536353,
+    "rating_score": 3.5,
+    "sentiment_score": 0.6003514778974932
+  },
+  "review_evidence": {
+    "positive_snippets": [
+      "recently I had a week long stay in this property with pleasant experience. rooms were extra neat and tidy. we got everyday room cleaning service and the bathroom was sanitized.\nA business friendly hotel situated in the vicinity of karol bagh market. Staff in the reception were friendly and helpful",
+      "Had one night stay and it was decent, surprisingly rooms were clean. Batheooms were even more (seem they got renovated). Recommended for decent stay",
+      "From the moment we arrived, Hotel Pablas International impressed us with its elegance and charm. The staff went above and beyond to make our stay enjoyable, from the swift check-in process to the personalized service throughout our stay. The dining options were fantastic, and we loved every meal."
+    ],
+    "negative_snippets": [
+      "The worst experience i have here. They charged extra for everything. The when I was checking out then they created a drama there,nd asking for extra money.they were showing a bedsheet which is not clean obviously when a person staying in your hotel then it will not there responsibility to clean it,they were showing a bedsheet in front of everyone nd that was so humiliating. They charge it anyway.",
+      "I booked a super deluxe room from  Goibibo. They denied my check in and asked me to take 2 small rooms and also pay extra charges"
+    ]
+  },
+  "review_summary": "Based on 5 reviews.",
+  "positive_themes": {
+    "clean_rooms": 3,
+    "friendly_staff": 2
+  },
+  "negative_themes": {}
+}

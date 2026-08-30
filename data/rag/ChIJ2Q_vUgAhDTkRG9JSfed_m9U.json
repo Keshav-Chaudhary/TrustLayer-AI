@@ -1,0 +1,46 @@
+{
+  "hotel_id": "ChIJ2Q_vUgAhDTkRG9JSfed_m9U",
+  "hotel_name": "Grand Mantram Resort",
+  "area": "Gurugram",
+  "budget_category": "Luxury",
+  "rating": 4.3,
+  "trust_score": 0.8392629667262053,
+  "travel_purpose_tags": [
+    "Business"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "moderate",
+    "review_count": 5,
+    "positive_snippet_count": 3,
+    "negative_snippet_count": 0,
+    "positive_theme_count": 3,
+    "negative_theme_count": 0
+  },
+  "aspect_scores": {
+    "cleanliness": 0.9998401204744974,
+    "service": 0.9998166859149932,
+    "location": 0.5,
+    "value_for_money": 0.5,
+    "staff_behavior": 0.9998782873153688
+  },
+  "recommendation_features": {
+    "popularity_score": 0.4487191123827044,
+    "rating_score": 4.3,
+    "sentiment_score": 0.9998183131217956
+  },
+  "review_evidence": {
+    "positive_snippets": [
+      "We are absolutely gushing over our wedding at grand mantram. It was the perfect setting for our big day. They truly made feel like  vip experience.. The stuff was really helping. Decor what is stunning beyond are expectation .. Thanks samarya. For making beautiful day. It's my brother wedding.. There is no doubt in my mind. I want host my own wedding in grand mantram next year. Experience was so impressive I've ready to decided this is the place of  my  big  day.. Love grand Mantram for Decor. Thanks samarya..",
+      "We had booked Grand Mantram Gwal pahari for our daughter's wedding.\nWe had booked this place for 2 days.\nHad South and North Indian wedding functions . Manju was a great help all the time. She is very caring. Samaira was overall in charge who took care of all our needs. Our friends and family appreciated the deco food and functions. The rooms were very nice .  Bathrooms need more attention to keep dry.\nOur youngsters enjoyed haldi and Sangeet  functions a lot. Overall the food and deco were appreciated by friends and family. Thanks to Mantram.",
+      "Grand Mantram Resort is an absolutely perfect venue for a wedding. The property is stunning, with beautiful open spaces and elegant d\u00e9cor that create a magical wedding atmosphere. Every event felt well-organized and smooth, from the ceremonies to the celebrations.\nThe staff was extremely professional, cooperative, and attentive to every detail, making sure everything ran flawlessly. The food was outstanding\u2014delicious, well-presented, and loved by all the guests. The rooms were comfortable and clean, providing a pleasant stay for family and friends.\nOverall, Grand Mantram Resort made the wedding truly special and stress-free. It\u2019s an ideal destination for anyone looking for a beautiful venue, excellent service, and unforgettable wedding memories."
+    ],
+    "negative_snippets": []
+  },
+  "review_summary": "Based on 5 reviews.",
+  "positive_themes": {
+    "good_food": 4,
+    "clean_rooms": 3,
+    "friendly_staff": 2
+  },
+  "negative_themes": {}
+}

@@ -1,0 +1,52 @@
+{
+  "hotel_id": "ChIJFXSOmqDdDDkRvjkhVVsePg0",
+  "hotel_name": "Hotel Orchid",
+  "area": "New Industrial Township",
+  "budget_category": "Mid-Range",
+  "rating": 3.4,
+  "trust_score": 0.566209191691446,
+  "travel_purpose_tags": [
+    "Budget"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "rich",
+    "review_count": 5,
+    "positive_snippet_count": 3,
+    "negative_snippet_count": 2,
+    "positive_theme_count": 4,
+    "negative_theme_count": 1
+  },
+  "aspect_scores": {
+    "cleanliness": 0.50041630276246,
+    "service": 0.4975823403219692,
+    "location": 0.5006866922485642,
+    "value_for_money": 0.9941218495368958,
+    "staff_behavior": 0.7488212521129753
+  },
+  "recommendation_features": {
+    "popularity_score": 0.3282682438797654,
+    "rating_score": 3.4,
+    "sentiment_score": 0.5992655679117889
+  },
+  "review_evidence": {
+    "positive_snippets": [
+      "Its a good budget hotel, service is really good but rooms need some maintenance. But if you are looking for pocket friendly accommodation its one of good choice",
+      "Perfect stay & staff is very cooperative and punctual. Room neat & clean.",
+      "Location is perfect. Staff is very cooperative. Food quality very good. Nice Hotel for stay."
+    ],
+    "negative_snippets": [
+      "So many times I have stayed in this hotel for their location but very disappointed with their recent so called G.M. He has kept our room keys with him. Requested for cleaning the room but useless. The bed covers and towel was not washed for many days. The wash room was full of sands .For every single seconds we felt insecure for his rude behavior. At last the police came to solve the issues and we switched to another hotel near by it.\nDO NOT STAY HERE UNTIL ONE IS OUT OF CHOICE",
+      "Very Bad service Hotel they stop AC to save electricity bills not wifi , very bad service no clean"
+    ]
+  },
+  "review_summary": "Based on 5 reviews.",
+  "positive_themes": {
+    "friendly_staff": 3,
+    "clean_rooms": 3,
+    "good_location": 2,
+    "good_food": 1
+  },
+  "negative_themes": {
+    "rude_staff": 2
+  }
+}

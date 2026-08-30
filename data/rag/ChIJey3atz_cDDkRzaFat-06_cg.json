@@ -1,0 +1,53 @@
+{
+  "hotel_id": "ChIJey3atz_cDDkRzaFat-06_cg",
+  "hotel_name": "Hotel Delite Grand",
+  "area": "New Industrial Township",
+  "budget_category": "Mid-Range",
+  "rating": 4.0,
+  "trust_score": 0.7447556673020773,
+  "travel_purpose_tags": [
+    "Leisure",
+    "Business"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "rich",
+    "review_count": 5,
+    "positive_snippet_count": 3,
+    "negative_snippet_count": 2,
+    "positive_theme_count": 4,
+    "negative_theme_count": 1
+  },
+  "aspect_scores": {
+    "cleanliness": 0.6665750830046212,
+    "service": 0.9992611606915792,
+    "location": 0.9990727007389067,
+    "value_for_money": 0.5,
+    "staff_behavior": 0.9992611606915792
+  },
+  "recommendation_features": {
+    "popularity_score": 0.7751364258331616,
+    "rating_score": 4.0,
+    "sentiment_score": 0.6109853164060042
+  },
+  "review_evidence": {
+    "positive_snippets": [
+      "I stayed here for two nights and had a comfortable experience overall. The highlight of my stay was definitely the housekeeping service. The room was kept neat and fresh every day, and the toilet/bathroom was spotless throughout my stay. Towels were changed on time, toiletries were well-stocked, and everything was cleaned with proper attention to detail.\n\nThe staff was polite and responsive whenever I needed anything. Overall, it was a pleasant stay\u2014just a few small improvements needed, but the cleanliness and housekeeping were truly excellent. I\u2019d happily stay here again!",
+      "I stayed here for one day, and although the hotel is quite far from the main area, the services were really satisfying. The staff were polite, helpful, and always responsive. The housekeeping was excellent\u2014the room was clean and well-maintained, and the toilet/bathroom was spotless during my stay.\n\nSecurity was good, and the food quality was also nice. Overall, despite the distance, the service, cleanliness, and staff cooperation made the stay pleasant.I'm looking forward toward coming again",
+      "Very nice room and service of staff location is at prime place.\n\nBest part is heater in room is available at cold season"
+    ],
+    "negative_snippets": [
+      "The place is structurally fine but house keeping leaves much to be desired. The sheets had hair from previous occupant, there were no towels until I asked for them and soaps from previous users had not been removed.",
+      "Room was so poor. Unclean bathroom. Flush was broken. AC remote damaged. Excuse given to me that previous visitor might have damaged. Booked in advance, yet they say that they don't have any room. Over all very bad experience. I had to take the room only because I reached very late in evening and was so tired due to long drive and can't try another hotel."
+    ]
+  },
+  "review_summary": "Based on 5 reviews.",
+  "positive_themes": {
+    "clean_rooms": 3,
+    "friendly_staff": 3,
+    "good_food": 1,
+    "good_location": 1
+  },
+  "negative_themes": {
+    "dirty_rooms": 1
+  }
+}

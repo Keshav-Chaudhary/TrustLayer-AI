@@ -1,0 +1,51 @@
+{
+  "hotel_id": "ChIJZQCmAjEZDTkRwrCenXr9HJ4",
+  "hotel_name": "Fabhotel Amrit Luxury Inn",
+  "area": "Sector 21",
+  "budget_category": "Budget",
+  "rating": 4.8,
+  "trust_score": 0.8273329326069829,
+  "travel_purpose_tags": [
+    "Leisure"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "moderate",
+    "review_count": 5,
+    "positive_snippet_count": 3,
+    "negative_snippet_count": 1,
+    "positive_theme_count": 4,
+    "negative_theme_count": 1
+  },
+  "aspect_scores": {
+    "cleanliness": 0.9998247027397156,
+    "service": 0.7502632411487866,
+    "location": 0.9998247027397156,
+    "value_for_money": 0.5,
+    "staff_behavior": 0.667089518198433
+  },
+  "recommendation_features": {
+    "popularity_score": 0.379577200550308,
+    "rating_score": 4.8,
+    "sentiment_score": 0.8001863695913926
+  },
+  "review_evidence": {
+    "positive_snippets": [
+      "I had stayed here for 2 days and the staff was extremely supportive during my stay.\nA special thanks to the staff who was sitting at the reception.\nRooms were clean and spacious.\nFood was also good.\nLocation is also accessible to most of the IT candour tech SEZ companies.\nHad a good and comfortable stay over-all.",
+      "I've been there for 3 days, the service and room facilities are awesome. Breakfast and dinner were also good. Reasonable rate too.",
+      "Beautiful property. Very helpful staff. Highly recommend"
+    ],
+    "negative_snippets": [
+      "Rooms are great, very neat and looks as advertised, however there\u2019s a huge flaw and that\u2019s the service, had to wait 3 hours for a bottle of water and had to call multiple times for a door mat! The staffs are least interested in helping with any requirements and rude. Great place to stay but staff service needs to be improved!"
+    ]
+  },
+  "review_summary": "Based on 5 reviews.",
+  "positive_themes": {
+    "clean_rooms": 2,
+    "friendly_staff": 3,
+    "good_location": 1,
+    "good_food": 3
+  },
+  "negative_themes": {
+    "rude_staff": 1
+  }
+}

@@ -1,0 +1,53 @@
+{
+  "hotel_id": "ChIJE36DOowgDTkRLAxRjfgu7bk",
+  "hotel_name": "The Lalit Mangar",
+  "area": "Dera Mandi",
+  "budget_category": "Mid-Range",
+  "rating": 4.4,
+  "trust_score": 0.7831333382423973,
+  "travel_purpose_tags": [
+    "Budget"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "rich",
+    "review_count": 5,
+    "positive_snippet_count": 3,
+    "negative_snippet_count": 2,
+    "positive_theme_count": 4,
+    "negative_theme_count": 2
+  },
+  "aspect_scores": {
+    "cleanliness": 0.0005046725273132,
+    "service": 0.0011643318575806,
+    "location": 0.0005046725273132,
+    "value_for_money": 0.5,
+    "staff_behavior": 0.6003908693091944
+  },
+  "recommendation_features": {
+    "popularity_score": 0.721463198935417,
+    "rating_score": 4.4,
+    "sentiment_score": 0.6003908693091944
+  },
+  "review_evidence": {
+    "positive_snippets": [
+      "We stayed at Lalit Mangar on the 8th of January, and our experience was truly memorable from start to finish.\nMS. SUMAN was extremely helpful and offered us the best possible deal for the rooms, making the entire booking process smooth and pleasant.\n\nThe property is absolutely stunning, well-maintained, and surrounded by serene natural beauty. A special mention to MR. PRAVER SHARMA, who went out of his way to assist us with every little detail. From ensuring a hassle-free check-in to accommodating our late check-out, his hospitality and dedication truly stood out.\n\nThe restaurant experience was equally impressive. The restaurant (MR.MANI)graciously arranged our dinner exactly as per our requested timings and thoughtfully set up a gas fire, adding warmth and comfort to the evening. The food was exceptional in taste, well-presented, and thoroughly enjoyable.\nBreakfast the next morning offered a lavish and wide spread, catering to all preferences and setting a perfect start to the day.\n\nOverall, the staff was extremely humble, polite, and attentive, always ready to help with a smile. Their warm hospitality made us feel genuinely welcomed and well cared for throughout our stay.\n\nSuggestions for Lalit Mangar:\nTo further enhance the guest experience, it would be wonderful to have a dedicated garden area and a swimming pool within the property. Adding a few more recreational activities would make the stay even more engaging. Having some friendly pets around could also add a charming and homely touch to the overall ambiance.\n\nWe truly enjoyed our stay and look forward to visiting again.",
+      "Beautiful Stay. Just what we were looking for. Pleasant and peaceful experience. The hospitality tops the charts- such a warm staff especially Mr. Prawer who has been very gentle and has helped us to settle in the property. Kudos Guys. Look forward to see you again.",
+      "Our experience at Lalit was exceptional. The property itself is truly remarkable. Their host Prawer was very warm and friendly with the kids. We enjoyed our stay there.."
+    ],
+    "negative_snippets": [
+      "Our recent stay at The Lalit Mangar from 20th February for one night, which was meant to celebrate our 10th anniversary, was unfortunately not in line with the expectations one associates with a property of this standing.\nThe in-room dining experience started on a weak note, with a Chicken Caesar Salad that lacked the basic elements of the dish, though it was promptly replaced after feedback.\n\nMore concerning, however, was the discovery of a mouse in our room late at night. While the housekeeping team did respond and eventually shifted us to another room around 2 AM, the incident understandably caused significant discomfort and loss of rest on what was meant to be a special occasion.\n\nThe following morning, early noise from wedding preparations further disrupted our sleep. The senior staff did apologise and extended a complimentary gesture at breakfast, which we appreciated.\n\nHowever, the overall experience fell short of the comfort and reassurance we had hoped for, especially given the significance of the occasion. We hope the management takes these concerns seriously.",
+      "Whilst the hotel has a beautiful location, surrounded by lush greens and built in sandstone, that is the only thing it has going for them. Everything else in this hotel is in desperate need of improvement\n\nMaintenance - the room cleanliness left a lot to be desired, with stains in the bathroom and dust in places.\n\nFood - The food quality was extremely poor. They did not have a basic iced americano and we got chowmein aglio e olio instead of spaghetti aglio e olio. We were also served chicken tikka pieces in Chilli Chicken.\n\nService - The front office staff hospitality was abhorrible. We had an extremely unpleasant and unsettling incident where one staff member made attempts to intimidate our children in absence of the parents. Not only did this incident leave our kids extremely scared, absolutely no attempts were made thereafter at ownership or corrective action  by the hotel staff.\n\nAll in all, please avoid this hotel like the plague. There are many other beautiful options in and around Delhi for staycation. I would definitely not be staying at any Lalit properties going forward!"
+    ]
+  },
+  "review_summary": "Based on 5 reviews.",
+  "positive_themes": {
+    "friendly_staff": 5,
+    "good_food": 3,
+    "clean_rooms": 1,
+    "good_location": 1
+  },
+  "negative_themes": {
+    "noise": 1,
+    "dirty_rooms": 1
+  }
+}

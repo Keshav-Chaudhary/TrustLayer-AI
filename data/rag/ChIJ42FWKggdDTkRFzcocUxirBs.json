@@ -1,0 +1,51 @@
+{
+  "hotel_id": "ChIJ42FWKggdDTkRFzcocUxirBs",
+  "hotel_name": "Hotel Diamond Airport",
+  "area": "Mahipalpur - Rangpuri Rd",
+  "budget_category": "Mid-Range",
+  "rating": 4.6,
+  "trust_score": 0.635336695803186,
+  "travel_purpose_tags": [
+    "Budget"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "moderate",
+    "review_count": 5,
+    "positive_snippet_count": 1,
+    "negative_snippet_count": 3,
+    "positive_theme_count": 4,
+    "negative_theme_count": 1
+  },
+  "aspect_scores": {
+    "cleanliness": 0.0004137468058615,
+    "service": 0.3336468771546302,
+    "location": 0.0004519518406596,
+    "value_for_money": 0.0005469673051265,
+    "staff_behavior": 0.9998466968536376
+  },
+  "recommendation_features": {
+    "popularity_score": 0.5012416416592678,
+    "rating_score": 4.6,
+    "sentiment_score": 0.2006215908739249
+  },
+  "review_evidence": {
+    "positive_snippets": [
+      "The best hotel I have stayed in till date, its work is as per its name, the best Delhi hotel, that is, the facilities of this hotel are so good that I was happy. Their staff is very good. Their service was also good and their staff behaves well. I am very happy with the facilities of this hotel and the behavior of their staff. I suggest you all to check out this hotel. Or stay kr are I am very happy with the hotel and the hotel is familiar go and checkout hotel and give review"
+    ],
+    "negative_snippets": [
+      "Do not book this property, it is fake. It is actually the Hotel Diamond Inn 1.2 km away. The photos on Agoda/Google do not match the actual hotel \u2014 the front desk admitted they use photos from a different property \u2014 and the listed location is inaccurate. While it is a budget hotel, it is not what is advertised and feels very misleading. Reviews I believe are mostly fake. They also attempted to charge me for breakfast despite my Agoda confirmation clearly including it. I have reported this listing to Agoda and Google due to the misrepresentation and to have the listing removed.",
+      "This hotel doesn't exist.  I sent a message when I showed up here with my bags, only to have them tell me it was a hotel a half mile away.  So, after arriving there, it's completely different from the photos.  The check-in process was chaotic.  I saw at least 5 cockroaches crawling through my room.  Oh, and the water coming from the faucets in the restroom definitely smelled like raw sewage, which was a first on my India adventure.  Would not recommend and do not believe the sparkling reviews, yikes.",
+      "I have been travelling full time for the last 5 months and frequently for the past 12 years and this place is the dirtiest i\u2019ve ever seen. Hotel is absolutely disgusting.\n\nRight when we entered our room, the bathroom and toilet seat were soaking wet and there was a wet tissue sitting on the sink counter. Door handle in the bathroom was broken off. Towels had brown stains all over it and the sheets clearly had not been washed. They smelled of body odour and had stains all over. When we asked for new bedding they brought another comforter with even more stains. They also were unable to bring us new pillowcases because their laundry was closed? We called the reception again and they told us we called the \u201cwrong number\u201d and hung up. Rooms also have 0 soundproofing, the room next to us was blasting music and screaming all night. After they quieted down, I could even hear them cracking their fingers.\n\nWe also did laundry service with the hotel, the clothes came back unwashed but ironed and folded. Stains were exactly the same as when we gave them the clothes, looked like they hadn\u2019t even put water on it.\n\nI already had lower expectations going into this booking because of the price but nothing could\u2019ve prepared me for how unclean our room was. I have stayed in hostel bunk beds nicer than this. I could go on but please do yourself a favour and find somewhere else to stay."
+    ]
+  },
+  "review_summary": "Based on 5 reviews.",
+  "positive_themes": {
+    "friendly_staff": 1,
+    "good_location": 1,
+    "good_food": 1,
+    "clean_rooms": 1
+  },
+  "negative_themes": {
+    "dirty_rooms": 3
+  }
+}

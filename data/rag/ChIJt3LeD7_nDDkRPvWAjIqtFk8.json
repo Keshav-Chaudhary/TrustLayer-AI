@@ -1,0 +1,48 @@
+{
+  "hotel_id": "ChIJt3LeD7_nDDkRPvWAjIqtFk8",
+  "hotel_name": "Hotel O Veer Palace",
+  "area": "New Delhi",
+  "budget_category": "Luxury",
+  "rating": 2.6,
+  "trust_score": 0.2402045859981411,
+  "travel_purpose_tags": [
+    "Budget"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "moderate",
+    "review_count": 3,
+    "positive_snippet_count": 1,
+    "negative_snippet_count": 2,
+    "positive_theme_count": 2,
+    "negative_theme_count": 1
+  },
+  "aspect_scores": {
+    "cleanliness": 0.0002472533669788,
+    "service": 0.0002472533669788,
+    "location": 0.5,
+    "value_for_money": 0.0008994511445052,
+    "staff_behavior": 0.5
+  },
+  "recommendation_features": {
+    "popularity_score": 0.1935748254816269,
+    "rating_score": 2.6,
+    "sentiment_score": 0.000573352255742
+  },
+  "review_evidence": {
+    "positive_snippets": [
+      "Good"
+    ],
+    "negative_snippets": [
+      "The amenities were disappointing, the check-in experience was a total mess and the food was tasteless. I regret staying at this hotel. Definitely not recommended.\nHe is giving me used room, badsheet not chenge, room and washroom not cleaned and he is saying why u paying online, u paying directly then we give better service..\nVery bad experience",
+      "It is just a soyo room hotel\nHad come for exam purpose\nAsked to leave in 7 hrs because they had booked \"ghapa ghap\" client\nFull money was charged"
+    ]
+  },
+  "review_summary": "Based on 3 reviews.",
+  "positive_themes": {
+    "clean_rooms": 1,
+    "good_food": 1
+  },
+  "negative_themes": {
+    "bad_food": 1
+  }
+}

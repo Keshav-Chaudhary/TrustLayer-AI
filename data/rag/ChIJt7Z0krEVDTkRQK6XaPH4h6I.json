@@ -1,0 +1,52 @@
+{
+  "hotel_id": "ChIJt7Z0krEVDTkRQK6XaPH4h6I",
+  "hotel_name": "Yaduvanshi Farm & Resort",
+  "area": "Khaintawas",
+  "budget_category": "Luxury",
+  "rating": 4.5,
+  "trust_score": 0.8071367686245566,
+  "travel_purpose_tags": [
+    "Leisure",
+    "Family"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "moderate",
+    "review_count": 5,
+    "positive_snippet_count": 3,
+    "negative_snippet_count": 1,
+    "positive_theme_count": 4,
+    "negative_theme_count": 1
+  },
+  "aspect_scores": {
+    "cleanliness": 0.9998836517333984,
+    "service": 0.9998133778572084,
+    "location": 0.9998133778572084,
+    "value_for_money": 0.7423075437545776,
+    "staff_behavior": 0.6676044930548718
+  },
+  "recommendation_features": {
+    "popularity_score": 0.7034264710645534,
+    "rating_score": 4.5,
+    "sentiment_score": 0.6459844749886543
+  },
+  "review_evidence": {
+    "positive_snippets": [
+      "I recently visited Yaduvanshi Farm & Resort and had an amazing experience! The place is surrounded by beautiful greenery and offers a very peaceful environment away from the city rush. The resort is well-maintained, clean, and perfect for spending quality time with family and friends.\n\nThe lawns are spacious and great for parties, celebrations, and photoshoots. The swimming pool and activity areas make the experience even more enjoyable. The staff was very polite and helpful, and the food was delicious with great quality.\n\nIf you are looking for a perfect place for a weekend getaway, family picnic, birthday party, or pre-wedding shoot, I highly recommend Yaduvanshi Farm & Resort. It\u2019s a great destination to relax, celebrate, and create wonderful memories. Definitely worth visiting!",
+      "We went to Yaduvanshi for a day outing and honestly had a great time. The welcome was warm with a small rajtilak and refreshing drinks. The place has a very rustic, natural vibe \u2014 open fields, greenery and a lot of small thoughtful activities that keep everyone engaged.\n\nWe tried pottery, traditional games, a mud bath session and spent some time in the pool as well. What really stood out was the peaceful environment; you can hear birds, sit under the trees and just slow down a bit.\nThe highlight for us was their long zipline \u2014 the view from the top during sunset was amazing and totally worth it.\n\nThe staff managing the activities was friendly and ensured everything was done safely.\nFood was homely and good with a huge dinning area, and the overall experience felt relaxed and family-friendly. A nice countryside break if you want to disconnect from the city noise for a day.",
+      "Been there to enjoy Holi, their DJ, food, and activities are great. But lookout for mobile waterproof cover sellers they keep on increasing price by hour. Real cutthroats."
+    ],
+    "negative_snippets": [
+      "Positive Points:\n\nThe food quality and taste were good. Breakfast, lunch, live snacks, and evening snacks were well prepared and satisfying.\n\nThe zip line activity was good and properly managed compared to other activities.\n\nNegative Points:\n\nThe staff and manager behavior was very disappointing. Once we entered the resort after making full payment, there was no positive response or proper interaction from anyone. Overall, it was a very bad experience in terms of hospitality.\n\nBefore making payment, it is very important to enquire whether school student groups are present or not. If school students are there, you will not enjoy even 10% of your trip due to overcrowding and noise.\n\nKids\u2019 activities and activity areas are very small and outdated, offering very limited engagement.\n\nMost activities are only for name sake, such as camel ride, horse ride, and tractor ride \u2014 just one very small round. Outside, we can enjoy better rides for \u20b950 with more satisfaction.\n\nThere is no staff available to guide or assist at most activities. Except for the zip line, no one was there to help or manage properly.\n\nFinal Verdict: We felt that only the food quality and taste justified the amount paid. Apart from that, the overall experience did not meet expectations."
+    ]
+  },
+  "review_summary": "Based on 5 reviews.",
+  "positive_themes": {
+    "clean_rooms": 1,
+    "friendly_staff": 3,
+    "great_value": 2,
+    "good_food": 5
+  },
+  "negative_themes": {
+    "noise": 2
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "hotel_id": "ChIJY009gVIXDTkR68MwDX50jN8",
+  "hotel_name": "Flagship Star Residency",
+  "area": "Sector 93",
+  "budget_category": "Mid-Range",
+  "rating": 4.1,
+  "trust_score": 0.6253819780658889,
+  "travel_purpose_tags": [
+    "Budget"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "sparse",
+    "review_count": 5,
+    "positive_snippet_count": 3,
+    "negative_snippet_count": 1,
+    "positive_theme_count": 1,
+    "negative_theme_count": 0
+  },
+  "aspect_scores": {
+    "cleanliness": 0.5,
+    "service": 0.5,
+    "location": 0.5,
+    "value_for_money": 0.0001835334551287,
+    "staff_behavior": 0.9986371397972108
+  },
+  "recommendation_features": {
+    "popularity_score": 0.3309666882836649,
+    "rating_score": 4.1,
+    "sentiment_score": 0.4912697268700867
+  },
+  "review_evidence": {
+    "positive_snippets": [
+      "Nice place\nWell behave staff...",
+      "Small rooms,, ac not working",
+      "In Sector 91 Gurugram"
+    ],
+    "negative_snippets": [
+      "Very bad hotel total waste of money\nI'll give only 1*\nOnly this type"
+    ]
+  },
+  "review_summary": "Based on 5 reviews.",
+  "positive_themes": {
+    "friendly_staff": 1
+  },
+  "negative_themes": {}
+}

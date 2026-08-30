@@ -1,0 +1,51 @@
+{
+  "hotel_id": "ChIJ1xyjNmH5DDkR74Qi8mkqu6Q",
+  "hotel_name": "Oyo 84166 Hotel Dream",
+  "area": "Loni Dehat",
+  "budget_category": "Budget",
+  "rating": 4.1,
+  "trust_score": 0.5561030882474264,
+  "travel_purpose_tags": [
+    "Leisure"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "moderate",
+    "review_count": 5,
+    "positive_snippet_count": 2,
+    "negative_snippet_count": 3,
+    "positive_theme_count": 2,
+    "negative_theme_count": 2
+  },
+  "aspect_scores": {
+    "cleanliness": 0.0004755716363433,
+    "service": 0.633452758193016,
+    "location": 0.9984808564186096,
+    "value_for_money": 0.5,
+    "staff_behavior": 0.5
+  },
+  "recommendation_features": {
+    "popularity_score": 0.3603693804661761,
+    "rating_score": 4.1,
+    "sentiment_score": 0.2545218108047266
+  },
+  "review_evidence": {
+    "positive_snippets": [
+      "Rooms were okay with basic facilities, room service was also okay but it's located on the service lane and there was a lot of traffic noise even at night.",
+      "Its really good for rooms service location"
+    ],
+    "negative_snippets": [
+      "How many charges for 4-5 Hours tell me now half day",
+      "Bad services .toilet is block and not clean",
+      "I suggested don't go anyone"
+    ]
+  },
+  "review_summary": "Based on 5 reviews.",
+  "positive_themes": {
+    "good_location": 1,
+    "clean_rooms": 1
+  },
+  "negative_themes": {
+    "noise": 1,
+    "rude_staff": 1
+  }
+}

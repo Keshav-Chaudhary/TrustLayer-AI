@@ -1,0 +1,47 @@
+{
+  "hotel_id": "ChIJn90fB-IjDTkRa2h_IqLdOBk",
+  "hotel_name": "Gilmore Stays | Homestay |",
+  "area": "Sector 69",
+  "budget_category": "Budget",
+  "rating": 4.7,
+  "trust_score": 0.8885545596120566,
+  "travel_purpose_tags": [
+    "Leisure",
+    "Family"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "moderate",
+    "review_count": 5,
+    "positive_snippet_count": 3,
+    "negative_snippet_count": 0,
+    "positive_theme_count": 3,
+    "negative_theme_count": 0
+  },
+  "aspect_scores": {
+    "cleanliness": 0.9997708916664124,
+    "service": 0.5,
+    "location": 0.9996234178543092,
+    "value_for_money": 0.9996234178543092,
+    "staff_behavior": 0.9997915824254354
+  },
+  "recommendation_features": {
+    "popularity_score": 0.4305378570371057,
+    "rating_score": 4.7,
+    "sentiment_score": 0.9997708916664124
+  },
+  "review_evidence": {
+    "positive_snippets": [
+      "Gilmore Stays is a great choice for solo travellers seeking comfort, safety, and convenience. The rooms are clean, well-maintained, and cozy, with all the essentials provided. The staff is friendly and helpful, making check-in smooth and hassle-free. Located in a quiet yet accessible area, it's easy to get around. Ideal for those looking for a peaceful and budget-friendly stay.",
+      "Gilmore Stays is an excellent choice for business travelers. The accomm comfortable, tions are clean, thoughtfully equipped with everything needed for a productive stay-strong Wi-Fi, workspaces, and convenient check-in options. The locations are well-connected, making commuting to meetings or city centers easy. The quiet environment and reliable amenities make it a stress-free experience. Highly recommended for professionals looking for a smooth and efficient stay.",
+      "Really good place! Comfortable and clean room. The building was really nice and secure. The staff was helpful and was always around making sure everything was all right."
+    ],
+    "negative_snippets": []
+  },
+  "review_summary": "Based on 5 reviews.",
+  "positive_themes": {
+    "clean_rooms": 5,
+    "friendly_staff": 3,
+    "good_location": 1
+  },
+  "negative_themes": {}
+}

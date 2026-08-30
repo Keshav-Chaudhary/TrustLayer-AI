@@ -1,0 +1,52 @@
+{
+  "hotel_id": "ChIJCyc2Pa_mDDkRFDjbRorrdGg",
+  "hotel_name": "Hira Palace",
+  "area": "&E",
+  "budget_category": "Luxury",
+  "rating": 4.1,
+  "trust_score": 0.7785527538818482,
+  "travel_purpose_tags": [
+    "Leisure",
+    "Business"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "moderate",
+    "review_count": 5,
+    "positive_snippet_count": 3,
+    "negative_snippet_count": 1,
+    "positive_theme_count": 4,
+    "negative_theme_count": 1
+  },
+  "aspect_scores": {
+    "cleanliness": 0.5001347824290859,
+    "service": 0.9998082915941874,
+    "location": 0.999739110469818,
+    "value_for_money": 0.999739110469818,
+    "staff_behavior": 0.9998082915941874
+  },
+  "recommendation_features": {
+    "popularity_score": 0.5880636830925053,
+    "rating_score": 4.1,
+    "sentiment_score": 0.7999666040879674
+  },
+  "review_evidence": {
+    "positive_snippets": [
+      "Very happy to have stayed at Hira Palace.  The best hotel to be.  Would recommend to anyone visiting India New Delhi,  to make Hira palace their place for accommodation. Located at Sarita Vihar The management are very friendly together with other staff members.",
+      "Best hotel in the area.\nAbove all, appreciate the friendly staff and reception. Very thankful to the entire team throughout my 10 days of stay.",
+      "Our experience at Hotel Hira Palace has been wonderful.  The security,  safety and comfort are guaranteed. The food is hygienic and tasty."
+    ],
+    "negative_snippets": [
+      "Worst hotel experience I've ever done in my entire life, avoid this dirty place \ud83d\udc4f"
+    ]
+  },
+  "review_summary": "Based on 5 reviews.",
+  "positive_themes": {
+    "friendly_staff": 3,
+    "good_food": 1,
+    "clean_rooms": 1,
+    "good_location": 1
+  },
+  "negative_themes": {
+    "dirty_rooms": 1
+  }
+}

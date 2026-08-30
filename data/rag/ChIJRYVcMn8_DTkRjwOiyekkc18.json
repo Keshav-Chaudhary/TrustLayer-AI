@@ -1,0 +1,50 @@
+{
+  "hotel_id": "ChIJRYVcMn8_DTkRjwOiyekkc18",
+  "hotel_name": "Jps Palm Inn",
+  "area": "Manesar",
+  "budget_category": "Budget",
+  "rating": 4.6,
+  "trust_score": 0.8904585271120349,
+  "travel_purpose_tags": [
+    "Leisure",
+    "Business",
+    "Family"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "moderate",
+    "review_count": 5,
+    "positive_snippet_count": 3,
+    "negative_snippet_count": 0,
+    "positive_theme_count": 5,
+    "negative_theme_count": 0
+  },
+  "aspect_scores": {
+    "cleanliness": 0.9998576045036316,
+    "service": 0.9998499602079391,
+    "location": 0.9998346567153932,
+    "value_for_money": 0.9995863835016886,
+    "staff_behavior": 0.9998629887898765
+  },
+  "recommendation_features": {
+    "popularity_score": 0.5020917828517661,
+    "rating_score": 4.6,
+    "sentiment_score": 0.9997026920318604
+  },
+  "review_evidence": {
+    "positive_snippets": [
+      "Probably, one of the decent places in Manesar, Gurgaon, surrounded by industries and roads lined with trucks.\nIn the murky smog of Delhi, it is really difficult to tell.\nIt has a restaurant attached below called Kesari Sweets, which has some amazing food.\nThe rooms are good and spacious and open into an internal courtyard, which smokers can use.\nFor 4k, it is a bit pricey, but it's NCR and everything is expensive, particularly land. Breakfast is also very good and served at Kesari Sweets and can be booked with the room.",
+      "\"A Fantastic Stay at Hotel JPS Palm Inn,\nRecently, Me and my  team stayed at Hotel JPS Palm Inn for two nights, and the experience was exceptional. The staff were very polite, and the cleanliness of the hotel was great. The team especially loved the food, noting the quality was excellent and tasty. The overall service was very good, making for an enjoyable and hassle-free stay. Highly recommended for team outings or business trips!\"\nI have some suggestion for them.",
+      "I had an excellent experience at the hotel. The service was outstanding, and the staff were very professional and friendly. The room was clean, comfortable, and well-maintained with all the necessary amenities. I truly appreciate the hospitality and attention to detail. Overall, it was a wonderful stay"
+    ],
+    "negative_snippets": []
+  },
+  "review_summary": "Based on 5 reviews.",
+  "positive_themes": {
+    "good_food": 2,
+    "clean_rooms": 3,
+    "friendly_staff": 3,
+    "good_location": 1,
+    "great_value": 2
+  },
+  "negative_themes": {}
+}

@@ -1,0 +1,50 @@
+{
+  "hotel_id": "ChIJFdnp4hTdDDkR_KMLdSsdEUU",
+  "hotel_name": "Via The Grand Palace",
+  "area": "New Industrial Township",
+  "budget_category": "Luxury",
+  "rating": 3.6,
+  "trust_score": 0.4795242644789007,
+  "travel_purpose_tags": [
+    "Budget"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "moderate",
+    "review_count": 5,
+    "positive_snippet_count": 0,
+    "negative_snippet_count": 3,
+    "positive_theme_count": 4,
+    "negative_theme_count": 2
+  },
+  "aspect_scores": {
+    "cleanliness": 0.000485235247955,
+    "service": 0.3332739122027608,
+    "location": 0.4998127592043601,
+    "value_for_money": 0.0002321744832443,
+    "staff_behavior": 0.5000381768913938
+  },
+  "recommendation_features": {
+    "popularity_score": 0.3941521852236946,
+    "rating_score": 3.6,
+    "sentiment_score": 0.2003064119053305
+  },
+  "review_evidence": {
+    "positive_snippets": [],
+    "negative_snippets": [
+      "Very bad experience with the hotel due to some issues like bathroom tab leaked , bedsheet and pillow cover is so dirty , wifi not working, room service not good ,when I entered the room , it's so smelly\nMy all over experience with the hotel is very  bad.",
+      "I normally don't provide bad reviews but I was forced to write this review. There are better hotels in the price range. Rooms are cramped and not at all hygienic. Glasses had moulds in them. Dirty toilet and basin, hazardous geyser with electric hanging out and water dripping simultaneously. Foul damp smell from the toilet. No proper room service. You need to tell them an ample number of times before they even provide you a bottle of  water. They cannot accommodate guest requests for a simple cup of tea. No room cleaning despite a week's stay. Tv didn't work. Didn't fix the set-top box or remote even after requesting several times, until we finally stopped asking. If possible avoid this place, there are far better options at the price range. FabHotel should remove this hotel from their listing. They are ruining their own reputation..",
+      "Pathetic Stay at the hotel. The owner and staff was rude. Problems in water supply and internet connection and electricity connection are too frequent. Owner assured to extend stay for 5 hours if we pay half amount of the day. But at last moment he refused. When I asked him about booking the hotel room for 1 more day he asked us to leave. This is the most awful experience I have ever had."
+    ]
+  },
+  "review_summary": "Based on 5 reviews.",
+  "positive_themes": {
+    "clean_rooms": 1,
+    "friendly_staff": 2,
+    "good_location": 1,
+    "good_food": 1
+  },
+  "negative_themes": {
+    "dirty_rooms": 3,
+    "rude_staff": 1
+  }
+}

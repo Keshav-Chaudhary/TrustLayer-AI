@@ -1,0 +1,50 @@
+{
+  "hotel_id": "ChIJlyMMChcHDTkRR-fZqsAQqLc",
+  "hotel_name": "Spot On 29024 Jageer Palace",
+  "area": "Puth Khurd",
+  "budget_category": "Luxury",
+  "rating": 3.7,
+  "trust_score": 0.4999989133261467,
+  "travel_purpose_tags": [
+    "Budget"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "moderate",
+    "review_count": 5,
+    "positive_snippet_count": 1,
+    "negative_snippet_count": 3,
+    "positive_theme_count": 2,
+    "negative_theme_count": 2
+  },
+  "aspect_scores": {
+    "cleanliness": 0.0012106641952413,
+    "service": 0.0001975998457055,
+    "location": 0.5,
+    "value_for_money": 0.0093523510634743,
+    "staff_behavior": 0.5
+  },
+  "recommendation_features": {
+    "popularity_score": 0.4219388418856267,
+    "rating_score": 3.7,
+    "sentiment_score": 0.2042905647947918
+  },
+  "review_evidence": {
+    "positive_snippets": [
+      "This time I see you soon as they are\ud83c\udfe9\ud83c\udfe9\ud83c\udfe9 zone ruuuuutt"
+    ],
+    "negative_snippets": [
+      "Value for money.\nBut not expected about quality and test.",
+      "Room are so dirty. I never suggest any one to go here.all good reviews are fake they take customers phone and write reviews by self.thats why all reviews are almost same.",
+      "Very .. expensive. And also dirty no senetization. No cleanness in room ..if you entrened in room start vomiting because of room condition and toilets .. water not coming there ... Very very shameful..."
+    ]
+  },
+  "review_summary": "Based on 5 reviews.",
+  "positive_themes": {
+    "great_value": 1,
+    "clean_rooms": 1
+  },
+  "negative_themes": {
+    "dirty_rooms": 2,
+    "rude_staff": 1
+  }
+}

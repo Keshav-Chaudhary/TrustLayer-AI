@@ -1,0 +1,53 @@
+{
+  "hotel_id": "ChIJT9rE5V_9DDkRMhhHsDLqGkY",
+  "hotel_name": "Hotel Harsha International",
+  "area": "Paharganj",
+  "budget_category": "Mid-Range",
+  "rating": 3.8,
+  "trust_score": 0.5969815894172166,
+  "travel_purpose_tags": [
+    "Budget"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "moderate",
+    "review_count": 5,
+    "positive_snippet_count": 2,
+    "negative_snippet_count": 3,
+    "positive_theme_count": 4,
+    "negative_theme_count": 2
+  },
+  "aspect_scores": {
+    "cleanliness": 0.5000857753620949,
+    "service": 0.9998115003108978,
+    "location": 0.5000432191300205,
+    "value_for_money": 0.9998115003108978,
+    "staff_behavior": 0.5000857753620949
+  },
+  "recommendation_features": {
+    "popularity_score": 0.5016676827397029,
+    "rating_score": 3.8,
+    "sentiment_score": 0.4134515543235466
+  },
+  "review_evidence": {
+    "positive_snippets": [
+      "All is well, for management staff and owner also , Neat and clean, low price, Best rooms",
+      "I recently had the pleasure of staying at this hotel, and I must say, it was an exceptional experience.\nThe staff member Shobhit Singh  and Rishi were incredibly friendly, helpful, and went above and beyond to ensure my stay was comfortable.\nThe room was spotlessly clean, spacious, and well-appointed with all the necessary amenities.\n\nThe hotel's location was perfect, within walking distance to all major attractions.\n\nGiven the high quality of service, amenities, and location, I found the hotel to be excellent value for money.\n\nI would highly recommend this hotel to anyone looking for a comfortable and enjoyable stay. Rating: 5/5 stars.\n\nIf you're seeking a top-notch hotel experience, look no further! This hotel exceeded my expectations in every way."
+    ],
+    "negative_snippets": [
+      "Hi\nVery disappointing stay at Hotel Harsha International.\nI stayed here for 3 days and faced multiple issues. Hot water was not available at all, the bathroom lock was not working, and the blanket provided was extremely dirty. On top of that, the staff was very rude and unhelpful. Overall, it was an uncomfortable and unpleasant experience. I would not recommend this hotel to others.",
+      "Things like are Good but It was better if bedsheets were changed with cleaned one. You may find cockroach roaming. Otherwise, people on duty listen to their customers.",
+      "I stayed at Harsha International Hotel on the night of January 11th, and my experience was unfortunately very disappointing for several reasons:\n\nPoor Location and Accessibility:\nThe hotel is located on a narrow, congested, and poorly maintained street, making it very challenging to find. The lack of proper signage or directions further added to the frustration of locating the property.\n\nUnhygienic Conditions:\nThe cleanliness standards were unacceptable. The towel provided in the room, as well as the bedsheet and blanket, were visibly dirty and seemed not to have been cleaned or replaced in a long time. This level of hygiene is far below acceptable standards and raises serious concerns about guest safety and comfort.\n\nLack of Basic Amenities:\nThe hotel failed to provide essential amenities that every traveler expects. There was no small handwash soap, which are basic necessities for any guest. Even there is no towel,  further highlighting the lack of attention to guest needs.\n\nInadequate Room Size and Comfort:\nThe room was extremely small, offering minimal space and making the stay uncomfortable. The cramped environment left little room for movement or relaxation, detracting from the overall experience.\n\nUnsuitable for Families:\nThe area surrounding the hotel is not ideal for families. It felt unsafe and unwelcoming, making it unsuitable for guests traveling with children or elderly family members.\n\nOverall, my stay at Harsha Hotel did not meet even the most basic expectations. The lack of cleanliness, essential amenities, and a family-friendly environment, combined with the poor location, makes this property far from ideal for any traveler. There is an urgent need for improvement across all aspects to provide a satisfactory guest experience."
+    ]
+  },
+  "review_summary": "Based on 5 reviews.",
+  "positive_themes": {
+    "clean_rooms": 4,
+    "friendly_staff": 4,
+    "good_location": 2,
+    "great_value": 1
+  },
+  "negative_themes": {
+    "dirty_rooms": 2,
+    "rude_staff": 1
+  }
+}

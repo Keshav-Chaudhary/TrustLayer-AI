@@ -1,0 +1,50 @@
+{
+  "hotel_id": "ChIJLbvB2x4dDTkR3qHyJO5FV-g",
+  "hotel_name": "Hotel Sky Wood At Airport",
+  "area": "Mahipalpur",
+  "budget_category": "Mid-Range",
+  "rating": 4.0,
+  "trust_score": 0.4816223689677858,
+  "travel_purpose_tags": [
+    "Budget"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "moderate",
+    "review_count": 5,
+    "positive_snippet_count": 0,
+    "negative_snippet_count": 3,
+    "positive_theme_count": 4,
+    "negative_theme_count": 2
+  },
+  "aspect_scores": {
+    "cleanliness": 0.0003380770795046,
+    "service": 0.0003593370929592,
+    "location": 0.0004901476689458,
+    "value_for_money": 0.0004923429708772,
+    "staff_behavior": 0.0006135158473625
+  },
+  "recommendation_features": {
+    "popularity_score": 0.4538312100203575,
+    "rating_score": 4.0,
+    "sentiment_score": 0.0004299780237487
+  },
+  "review_evidence": {
+    "positive_snippets": [],
+    "negative_snippets": [
+      "DO NOT book here, it is a scam. They cancel your booking the day before your stay and then book you into another one of theirs. This is so that they don't have to pay the commission to booking.com. That doesn't affect me, but what did, is the fact that the hotel we were put into was absolutely disgusting. It was 7-8 kms away from the airport, instead of in the airport complex, (and we had a very early morning start) but more important was that we had elderly people with us and we were on the 3rd floor and there was no lift. Also it was disgustingly filthy, no towels, no restaurant, not the room configurations we asked for, therefore we had to pay for another room. DO NOT BOOK HERE.",
+      "This hotel doesn\u2019t even deserve one star. We stayed in the room for less than an hour before discovering multiple unacceptable issues: the bed linen was dirty with suspicious stains, and the beds were infested with insects \u2013 specifically bed bugs. We immediately informed the staff that we did not wish to stay, even though the reception insisted on moving us to another room or even to another hotel. We refused, as our trust in the hygiene and standards of the place was completely gone after what we had seen.\n\nWe did not receive a refund, and to make matters worse, the hotel cancelled our booking so we couldn\u2019t even leave a review on Booking.com. Without a doubt, this is the most unprofessional place we have ever experienced \u2013 we left without our money, but with bed bugs as an unwanted souvenir.",
+      "Avoid at all costs! Firstly it is not near the airport, incredibly unclean, dirt and hairs all over the sheets! Man on the front desk tried to charge us extra.\nWe booked this hotel as had good reviews on booking.com but they are clearly all fake.\nName of hotel doesn\u2019t match the name on booking.com!\nWe left immediately as we didn\u2019t feel safe and the room was so dirty."
+    ]
+  },
+  "review_summary": "Based on 5 reviews.",
+  "positive_themes": {
+    "friendly_staff": 1,
+    "clean_rooms": 1,
+    "good_location": 1,
+    "good_food": 1
+  },
+  "negative_themes": {
+    "dirty_rooms": 4,
+    "rude_staff": 1
+  }
+}

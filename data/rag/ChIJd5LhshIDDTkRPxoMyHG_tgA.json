@@ -1,0 +1,52 @@
+{
+  "hotel_id": "ChIJd5LhshIDDTkRPxoMyHG_tgA",
+  "hotel_name": "Twamev Rajouri Garden By The Arrow",
+  "area": "New Delhi",
+  "budget_category": "Mid-Range",
+  "rating": 4.7,
+  "trust_score": 0.8458382537397058,
+  "travel_purpose_tags": [
+    "Budget"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "moderate",
+    "review_count": 5,
+    "positive_snippet_count": 3,
+    "negative_snippet_count": 1,
+    "positive_theme_count": 3,
+    "negative_theme_count": 3
+  },
+  "aspect_scores": {
+    "cleanliness": 0.0006099092424847,
+    "service": 0.0006099092424847,
+    "location": 0.0006099092424847,
+    "value_for_money": 0.0006099092424847,
+    "staff_behavior": 0.666782629074684
+  },
+  "recommendation_features": {
+    "popularity_score": 0.5293994757998772,
+    "rating_score": 4.7,
+    "sentiment_score": 0.799974162329454
+  },
+  "review_evidence": {
+    "positive_snippets": [
+      "Good hotel and manegar rustam was too good person I have ever mate thank you Mr rustam and hotel twamev for lovely stay",
+      "Good hotel and good sarvice very nice rooms",
+      "Good hotel and good rooms and very very good staff"
+    ],
+    "negative_snippets": [
+      "What on earth was this? This was, without a doubt, the most horrific and humiliating hotel experience of my life. From the very beginning, everything felt wrong. The receptionist was shockingly rude and unprofessional. The moment he realized we were a couple, his attitude visibly changed. We were told to wait unnecessarily, even though it had already been clearly agreed that we would be arriving early in the morning. There was absolutely no coordination between the night and day reception staff \u2014 it was complete chaos.\n\nTo make matters worse, we were charged more than the amount that had been confirmed the day before our arrival. When we questioned it, there was no proper explanation \u2014 just dismissive behavior. The rooms were filthy and in terrible condition. It looked as though they hadn\u2019t been cleaned in days. There was no cleaning staff available. The beds were broken, unstable, and made loud, disturbing noises with the slightest movement. The bed sheets were torn and unacceptably dirty.\n\nAt the end of February, when temperatures hover around 28\u201330\u00b0C, the hotel provided thick, heavy blankets \u2014 completely illogical. The air conditioner was practically useless and provided no real cooling or comfort.\n\nI have stayed in many hotels before, but this experience was nothing short of a nightmare. My partner is usually very understanding and cooperative, but even she was deeply frustrated and disappointed this time.\n\nIf you value your comfort, dignity, and hard-earned money, please stay far away from this place.\n\nGo to hell Twamev Hotel..."
+    ]
+  },
+  "review_summary": "Based on 5 reviews.",
+  "positive_themes": {
+    "friendly_staff": 3,
+    "clean_rooms": 1,
+    "great_value": 1
+  },
+  "negative_themes": {
+    "dirty_rooms": 1,
+    "rude_staff": 1,
+    "noise": 1
+  }
+}

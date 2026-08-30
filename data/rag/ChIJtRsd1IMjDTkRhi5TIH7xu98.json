@@ -1,0 +1,51 @@
+{
+  "hotel_id": "ChIJtRsd1IMjDTkRhi5TIH7xu98",
+  "hotel_name": "Octave Nirvana Suites",
+  "area": "Sector 50",
+  "budget_category": "Mid-Range",
+  "rating": 4.4,
+  "trust_score": 0.6372019579747737,
+  "travel_purpose_tags": [
+    "Budget"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "moderate",
+    "review_count": 5,
+    "positive_snippet_count": 2,
+    "negative_snippet_count": 3,
+    "positive_theme_count": 3,
+    "negative_theme_count": 1
+  },
+  "aspect_scores": {
+    "cleanliness": 0.0010212904744548,
+    "service": 0.0434490056844272,
+    "location": 0.5007071833824738,
+    "value_for_money": 0.0856651440262794,
+    "staff_behavior": 0.9997865557670592
+  },
+  "recommendation_features": {
+    "popularity_score": 0.5964152635823635,
+    "rating_score": 4.4,
+    "sentiment_score": 0.2263522767636459
+  },
+  "review_evidence": {
+    "positive_snippets": [
+      "I am from Nepal,Wonderful and best stay 28 days in your hotel.service and staffs are good but some points are I complain\nKnock door at mid night 1 am\nPaying by Nepali Visa card is not accept.\nCash pay also is not accepted.\nPlz.reply  thank",
+      "It was a great stay with absolutely cooperative staff. The location of the accommodation is very good as it is at the centre of the city and every amenity is nearby."
+    ],
+    "negative_snippets": [
+      "Extremely bad experience. I went for booking a room for 2 days with my father. The reception guy seemed disinterested. While inspecting the room, I requested that could you please change the sheets, they do not look fresh. He denied and constantly argued against our request. He was like if you don\u2019t book the room, that\u2019s fine but sheet wouldn\u2019t be changed at all cost. Receptionists like these eat up a good hotel business.",
+      "The rooms were very dirty ! We asked them to change it but they didn't. Even TV and toilet paper was not provided ! Worst experience pls don't visit it. There are far better hotels than this",
+      "Room was not proper clean\ud83d\ude1e Poor room service.\nMain thing waiting at front dest 30 minutes no one on reception."
+    ]
+  },
+  "review_summary": "Based on 5 reviews.",
+  "positive_themes": {
+    "friendly_staff": 2,
+    "good_location": 1,
+    "clean_rooms": 1
+  },
+  "negative_themes": {
+    "dirty_rooms": 1
+  }
+}

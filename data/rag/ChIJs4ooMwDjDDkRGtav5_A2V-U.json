@@ -1,0 +1,49 @@
+{
+  "hotel_id": "ChIJs4ooMwDjDDkRGtav5_A2V-U",
+  "hotel_name": "The Meriton",
+  "area": "Kalkaji",
+  "budget_category": "Mid-Range",
+  "rating": 4.5,
+  "trust_score": 0.7639672996908707,
+  "travel_purpose_tags": [
+    "Budget"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "moderate",
+    "review_count": 5,
+    "positive_snippet_count": 3,
+    "negative_snippet_count": 1,
+    "positive_theme_count": 4,
+    "negative_theme_count": 0
+  },
+  "aspect_scores": {
+    "cleanliness": 0.5601188763976097,
+    "service": 0.6240168081480079,
+    "location": 0.5000812154903542,
+    "value_for_money": 0.5,
+    "staff_behavior": 0.5300590379483765
+  },
+  "recommendation_features": {
+    "popularity_score": 0.5334139206362926,
+    "rating_score": 4.5,
+    "sentiment_score": 0.6240168081480079
+  },
+  "review_evidence": {
+    "positive_snippets": [
+      "This hotel is in the middle of everything.  Close to shopping, restaurants  and public transportation. Room was the issue\nThe staff is very professional and friendly.  Meenu and  Naziya were fantastic at breakfast,  always smiling and providing great service.\nUpon check in, we were upgraded to the\nPresidential suite which was fabulous but after settling in ,we got a call from the front desk that the AC was not working. How do u upgrade a guest and dont know ur service is not working in the hotel.\nWe have travel to 118 countries and never had a accommodation where the room foes not have a window. There was no windows in our room and the bathroom fan was running all night with no switch to turn off",
+      "Great accomodation to stay at, very near to the White Lotus temple! It\u2019s right off a near main road so you will hear honking, but that\u2019s as expected in India!\n\nThe rooms are very nice, comfortable bedding and good pressure showers.\n\nThe service is great, always happy to help, especially at breakfast. Meenu and Muan provided exceptional service, attending to requests with a smile and were very kind. The breakfast food selection is great.\nWould recommend!",
+      "I had a wonderful experience at Hotel Meriton. The rooms were very clean, spacious, and well maintained, with comfortable bedding and all the necessary amenities. Housekeeping did a great job in keeping everything neat throughout the stay.\nA special mention to the receptionist Mr. Imran, who was extremely polite, professional, and helpful. From smooth check-in to addressing our queries, his hospitality truly made our stay comfortable and welcoming.\nThe entire staff was courteous, cooperative, and always ready to help, which reflects the high standards of service at this hotel.\nOverall, Hotel Meriton offers great comfort, excellent service, and warm hospitality. Highly recommended, and I would definitely choose to stay here again."
+    ],
+    "negative_snippets": [
+      "Our stay at Hotel Meriton was quite disappointing and did not meet expectations.\n\nTo start with, the check-in time is 2 PM. We called in advance to request an early check-in, but the response we received was simply, \u201cSir, check-in is at 2 PM.\u201d When we asked again if any early check-in was possible, the call was transferred to another person who repeated the same thing without offering any assistance or flexibility. As per suggestion from our Driver, We ended up having lunch at a nearby restaurant and returned around 2:30 PM. The check-in process then took another 30 minutes, and even after that our room was still not ready and hadn\u2019t been cleaned. To make up for it, we were upgraded from a Junior Suite to the Empress Suite.\n\nThe Empress Suite was spacious, almost like a 1BHK, but the layout and design were not practical. The TV in the living area is placed so far from the sofa that it\u2019s difficult to operate or watch comfortably. The bedroom TV catches the signal, but the living room TV does not work properly. There is no phone in the hall, so if someone calls the room while you\u2019re in the living area, you cannot hear it. The room also had no proper window or view\u2014it felt very closed and packed.\n\nRoom service was below expectations. We requested slippers, but they never arrived. The doorbell in the room was non-functional, so when we ordered food and asked for room service, the staff knocked and left because we couldn\u2019t hear them while watching TV in the living room. The food quality and presentation were also disappointing. The aloo kulcha was served without any proper accompaniment. The dal khichdi came without curd or raita. The masala papad was served with the papad and masala separately, so we had to assemble it ourselves.\n\nBreakfast the next morning was also not pleasant. Breakfast timing was until 10:30 AM, and we went at 9:45 AM, yet most of the items were already finished and not replenished. The pav for pav bhaji was extremely hard, idli was available but the sambar was finished, poha was cold, and the boiled corn tasted off. It felt like the breakfast service had already wrapped up before time.\n\nThe hotel entrance is very small and can accommodate only one vehicle at a time, with no proper space to move around. Additionally, the hotel is very close to the metro line, and throughout the day we could constantly hear the sound of trains passing, which made it difficult to relax.\n\nOverall, while the room upgrade was appreciated, the lack of readiness at check-in, poor room service, maintenance issues, and disappointing food and breakfast experience made our stay underwhelming. With better service coordination and attention to detail, the hotel could improve significantly."
+    ]
+  },
+  "review_summary": "Based on 5 reviews.",
+  "positive_themes": {
+    "friendly_staff": 4,
+    "good_location": 3,
+    "good_food": 3,
+    "clean_rooms": 2
+  },
+  "negative_themes": {}
+}

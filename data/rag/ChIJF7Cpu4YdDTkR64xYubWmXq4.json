@@ -1,0 +1,50 @@
+{
+  "hotel_id": "ChIJF7Cpu4YdDTkR64xYubWmXq4",
+  "hotel_name": "Hotel Veer Palace",
+  "area": "Safdarjung Enclave",
+  "budget_category": "Luxury",
+  "rating": 4.0,
+  "trust_score": 0.5061385083279614,
+  "travel_purpose_tags": [
+    "Budget"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "moderate",
+    "review_count": 5,
+    "positive_snippet_count": 0,
+    "negative_snippet_count": 3,
+    "positive_theme_count": 4,
+    "negative_theme_count": 2
+  },
+  "aspect_scores": {
+    "cleanliness": 0.0002754228306002,
+    "service": 0.0002492019702912,
+    "location": 0.5,
+    "value_for_money": 0.000228473516472,
+    "staff_behavior": 0.0002537527761887
+  },
+  "recommendation_features": {
+    "popularity_score": 0.5693272578840848,
+    "rating_score": 4.0,
+    "sentiment_score": 0.0002754228306002
+  },
+  "review_evidence": {
+    "positive_snippets": [],
+    "negative_snippets": [
+      "Pathetic. No cleanliness, poor old unclean torn linens and beds. The linen isnt changed after the previous guests checkout, it is just re arranged. The rooms reek of dirty smell, im unsure whether its  due to smoking/alcohol but its just masked with some cheap room freshener.\nNo hot water facility.\nNo proper service.\nFULL OF COCKROACHES.",
+      "Worst hotel ever. Stayed here for 2 days and it was a horrible experience. Rooms were dirty, bathroom hand shower was broken, and there was a bad smell in the room. Cockroaches were present which is completely unacceptable. No proper facilities or basic maintenance. Totally unhygienic and not worth the money. Do not recommend at all.",
+      "Absolutely Appalling \u2013 A Nightmare Stay You Should Avoid at All Costs\nThis has been, without a doubt, the worst hotel experience we\u2019ve had in decades, and that's saying a lot. From the moment we checked in, it was a disaster in every sense.\n\u2022 The beds were infested with cockroaches, crawling through torn mattresses with stuffing spilling out \u2014 it felt like staying in a pest-ridden storage unit rather than a hotel room.\n\u2022 The air conditioning was completely non-functional, leaving the room humid, suffocating, and impossible to rest in \u2014 especially for a family traveling with children.\n\u2022 There was no hot water in the bathrooms, making even basic hygiene a struggle.\n\u2022 To make matters worse, there is no restaurant on-site, and the hotel offers no proper food service despite being advertised as a full-service facility.\n\u2022 The staff was extremely unprofessional, rude, and combative \u2014 rather than addressing our concerns, they responded with arguments and complete indifference.\n\u2022 We had paid extra for a \u201cbreakfast included\u201d option, only to be told we\u2019re allowed a single cold sandwich while everything else is chargeable \u2014 an absolute scam and false advertising.\n\u2022 TV switches didn\u2019t work, most amenities were broken or in disrepair, and the room itself was in shambles.\nThis wasn\u2019t just disappointing \u2014 it was borderline uninhabitable and a health hazard. I would never recommend this property to anyone. It was humiliating and distressing to subject my family to such conditions on what was supposed to be a relaxing trip.\nAvoid this place at all costs \u2014 the management is careless, the facilities are deteriorated beyond repair, and it\u2019s an outright disgrace to the hospitality industry."
+    ]
+  },
+  "review_summary": "Based on 5 reviews.",
+  "positive_themes": {
+    "clean_rooms": 3,
+    "great_value": 2,
+    "friendly_staff": 1,
+    "good_food": 1
+  },
+  "negative_themes": {
+    "dirty_rooms": 4,
+    "rude_staff": 1
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "hotel_id": "ChIJtYj0-CfdDDkRAGrPizQfakk",
+  "hotel_name": "Hotel Apj Grand",
+  "area": "New Industrial Township",
+  "budget_category": "Mid-Range",
+  "rating": 4.4,
+  "trust_score": 0.7344464758745556,
+  "travel_purpose_tags": [
+    "Leisure"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "rich",
+    "review_count": 5,
+    "positive_snippet_count": 3,
+    "negative_snippet_count": 2,
+    "positive_theme_count": 4,
+    "negative_theme_count": 0
+  },
+  "aspect_scores": {
+    "cleanliness": 0.5239997282624244,
+    "service": 0.0482167154550552,
+    "location": 0.9997827410697936,
+    "value_for_money": 0.5,
+    "staff_behavior": 0.7618884332478046
+  },
+  "recommendation_features": {
+    "popularity_score": 0.4786365020058283,
+    "rating_score": 4.4,
+    "sentiment_score": 0.6096723787137307
+  },
+  "review_evidence": {
+    "positive_snippets": [
+      "Clean rooms, polite staff, and a comfortable stay make this hotel a good choice for travelers. The location is convenient and the overall experience is smooth and pleasant. I also recommend a Google 360\u00b0 Virtual Tour to showcase the hotel interiors on Google Maps and attract more guests.\n\u2014 Karan Singh, Google Local Guide & Google-trusted 360\u00b0 Virtual Tour Photographer",
+      "We visited to delhi for friends marriage ceremony and stayed in this hotel for 2 nights. Behaviour of staff at desk was good. Though checking time is  12.00 at noon but they allowed us for very early checking (around 8.30 am) without any questing. Rooms were not so bad its just ok ok type. If you are staying for one or two night then you can go for this hotel. Rooms were not so large. Ac was there but it was window AC and to some extend broken. Bathroom was large enough and clean but shower was broken. Gate  of the bathroom was not closing properly. Hotel room was quite silent. It is very close to main road easily you can get auto or cab.",
+      "Very good and economical hotel to stay. Very helpful staff. Stayed fox six days. Everything is good including food. Only drawback is upto morning 10, you will never get tea atleast. But after that, you can get all food until night 1100 . If you have morning patiennce, it's a good place."
+    ],
+    "negative_snippets": [
+      "Normal rooms are small , but suit rooms are really good. Good owner and staff",
+      "Worst hotel as they don't know how to talk with the clients. We booked a room through Oyo and they denied for room and also misbehave with us..\n\nAlso they don't know how to talk with girls I think he must also behave same with his daughters.\n\nI saw good rating but I don't know where they get this rating I think fake\n\nDon't ever book this hotel\ud83d\udc4f"
+    ]
+  },
+  "review_summary": "Based on 5 reviews.",
+  "positive_themes": {
+    "clean_rooms": 2,
+    "friendly_staff": 4,
+    "good_location": 2,
+    "good_food": 1
+  },
+  "negative_themes": {}
+}

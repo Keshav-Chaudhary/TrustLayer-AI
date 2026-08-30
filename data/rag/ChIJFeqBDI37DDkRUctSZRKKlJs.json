@@ -1,0 +1,40 @@
+{
+  "hotel_id": "ChIJFeqBDI37DDkRUctSZRKKlJs",
+  "hotel_name": "Hotel O Samrat",
+  "area": "Loni",
+  "budget_category": "Mid-Range",
+  "rating": 4.7,
+  "trust_score": 0.5056569725356431,
+  "travel_purpose_tags": [
+    "Budget"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "sparse",
+    "review_count": 1,
+    "positive_snippet_count": 1,
+    "negative_snippet_count": 0,
+    "positive_theme_count": 0,
+    "negative_theme_count": 0
+  },
+  "aspect_scores": {
+    "cleanliness": 0.5,
+    "service": 0.5,
+    "location": 0.5,
+    "value_for_money": 0.5,
+    "staff_behavior": 0.5
+  },
+  "recommendation_features": {
+    "popularity_score": 0.1290498836544179,
+    "rating_score": 4.7,
+    "sentiment_score": 0.0006176911992952
+  },
+  "review_evidence": {
+    "positive_snippets": [
+      "How can I contact you...your number is showing unavailable"
+    ],
+    "negative_snippets": []
+  },
+  "review_summary": "Based on 1 reviews.",
+  "positive_themes": {},
+  "negative_themes": {}
+}

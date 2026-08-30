@@ -1,0 +1,51 @@
+{
+  "hotel_id": "ChIJGUDZB-YfDTkRTOuIuy7EK9Q",
+  "hotel_name": "Hotel Rivasa Regency",
+  "area": "Chhatarpur",
+  "budget_category": "Mid-Range",
+  "rating": 4.3,
+  "trust_score": 0.7266307598370849,
+  "travel_purpose_tags": [
+    "Business"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "moderate",
+    "review_count": 5,
+    "positive_snippet_count": 3,
+    "negative_snippet_count": 1,
+    "positive_theme_count": 3,
+    "negative_theme_count": 2
+  },
+  "aspect_scores": {
+    "cleanliness": 0.333641700951072,
+    "service": 0.9998449087142944,
+    "location": 0.5,
+    "value_for_money": 0.5000797409447841,
+    "staff_behavior": 0.7499619672016705
+  },
+  "recommendation_features": {
+    "popularity_score": 0.5187107801377314,
+    "rating_score": 4.3,
+    "sentiment_score": 0.6001254636095836
+  },
+  "review_evidence": {
+    "positive_snippets": [
+      "Everything is excellent, rooms are clean and hotel staff is available for help any time.",
+      "Very good hotel and hotel staff\nI am very happy stay in hotel\nHotel manager nd hotel receptionist is very polite and supportive and very good person \u2764\ufe0f\u263a\ufe0f",
+      "It is better but the food of the menu is little bitt more and the toilet was good at all but the problem is the tap of the washroom or not properly working"
+    ],
+    "negative_snippets": [
+      "It is one of the most useless hotel one can imagine. Staff is arrogant and un-cooperative Bed linen and towels are dirty. No water available for drinking neither any kettle provided in the room . Curtains have stains and holes in them. Chair cushions have stains and holes in them. Food supplied is under coocked.\nThey stopped my guest from check in as the payment for next day stay was due. Arrival date was paid.Which was asked 2 hours ago. Late night few drunker Man were sitting in their lobby and making lewd comments on the ladies of our family which terrified them and they decided to go back to their cities without attending wedding functions. Attitude of staff is devoid of assitance and support. They are rude and shameless. We vacated all the rooms next day and didn't utilized the room for which we forced to pay the previous days. Is any government agency looking at it? It is shame that people are being robbed of their money in daylight but action taken against them."
+    ]
+  },
+  "review_summary": "Based on 5 reviews.",
+  "positive_themes": {
+    "clean_rooms": 1,
+    "friendly_staff": 4,
+    "good_food": 2
+  },
+  "negative_themes": {
+    "dirty_rooms": 1,
+    "rude_staff": 1
+  }
+}

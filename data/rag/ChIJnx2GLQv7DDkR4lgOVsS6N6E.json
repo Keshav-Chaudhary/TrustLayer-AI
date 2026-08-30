@@ -1,0 +1,49 @@
+{
+  "hotel_id": "ChIJnx2GLQv7DDkR4lgOVsS6N6E",
+  "hotel_name": "Hotel Golden Residency",
+  "area": "Sahibabad",
+  "budget_category": "Mid-Range",
+  "rating": 3.4,
+  "trust_score": 0.5239160226196152,
+  "travel_purpose_tags": [
+    "Budget"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "moderate",
+    "review_count": 5,
+    "positive_snippet_count": 1,
+    "negative_snippet_count": 3,
+    "positive_theme_count": 2,
+    "negative_theme_count": 1
+  },
+  "aspect_scores": {
+    "cleanliness": 0.0059596728533506,
+    "service": 0.5,
+    "location": 0.5,
+    "value_for_money": 0.5,
+    "staff_behavior": 0.5
+  },
+  "recommendation_features": {
+    "popularity_score": 0.4349927651275838,
+    "rating_score": 3.4,
+    "sentiment_score": 0.3955531736108241
+  },
+  "review_evidence": {
+    "positive_snippets": [
+      "With OYO at the realm of affair the two venues of Spot On in Naya Gaon have put the visitors and guests on right spot. One being deluxe accomodation and other being budgeted allocation has kept the dealership in buisness."
+    ],
+    "negative_snippets": [
+      "Hotel golden residency is a pathetic hotel I suggest people don't book that hotel. I book that hotel through agoda and I paid the tarif online but when I reach that hotel they people denied my booking and they said they don't register on agoda and they said if I want a room they I have to pay 900 rupees all they are bunch of crook.. don't book any property through agoda. that site is pathetic don't trust agoda.",
+      "Very very bad room. Do not visit with your family , friends, or couple. No cleanliness.. Very bad arrangements nothing shown as same as in image. Worst hotel ever.",
+      "They have dirty rooms. These people do not give room to online paid people. There is no AC in the room dont these people pick up anyone's call Their owner has forbidden them to give room to online paid people. I had online paid booking here, these people did not give room because of online paid I had to make an offline booking again \ud83d\ude21\ud83d\ude21"
+    ]
+  },
+  "review_summary": "Based on 5 reviews.",
+  "positive_themes": {
+    "good_location": 1,
+    "clean_rooms": 1
+  },
+  "negative_themes": {
+    "dirty_rooms": 1
+  }
+}

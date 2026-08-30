@@ -1,0 +1,44 @@
+{
+  "csv": {
+    "path": "data/exports/final_hotel_dataset.csv",
+    "sha256": "eca959c788d9535feea5ed1b11efb249988c60b6bfb7b4bb41ef33e50bad1e2e",
+    "row_count": 1661,
+    "unique_hotel_ids_count": 1661
+  },
+  "json": {
+    "path": "data/exports/batch_debug_results.json",
+    "sha256": "02729ffc92fbcd6b870bd40223e9514a8af2140af4b48a3e7b02ccb58f904265",
+    "run_count": 20
+  },
+  "chromadb": {
+    "path": "data/vector_store",
+    "collection_name": "hotel_knowledge",
+    "document_count": 7910,
+    "manifest": {
+      "chroma.sqlite3": {
+        "size": 51064832,
+        "sha256": "5c27201035ce3dd57a262cf53d4dfb237086ad70926428ab85dffa18cb52dbef"
+      },
+      "6dc54ed8-c3ca-4e3e-916b-d6e845c9f403\\data_level0.bin": {
+        "size": 13257160,
+        "sha256": "b2117d1b941e6e86bc1d7512c5fd75a2088cc879c9461a216a5507763af86a91"
+      },
+      "6dc54ed8-c3ca-4e3e-916b-d6e845c9f403\\header.bin": {
+        "size": 100,
+        "sha256": "d6bca09d7cef21a003b0121aa0bf3097e6a1c3f99345f3e7c4927b59425f18a8"
+      },
+      "6dc54ed8-c3ca-4e3e-916b-d6e845c9f403\\index_metadata.pickle": {
+        "size": 696236,
+        "sha256": "c519610f4d79bb3ebe2dc2480c6f252e35f12028dd018dca49680164e8b5c3e8"
+      },
+      "6dc54ed8-c3ca-4e3e-916b-d6e845c9f403\\length.bin": {
+        "size": 31640,
+        "sha256": "561a141fed3c8b8beffa7ffec1f510185db45ce2b051e07367c46954042c86e2"
+      },
+      "6dc54ed8-c3ca-4e3e-916b-d6e845c9f403\\link_lists.bin": {
+        "size": 66796,
+        "sha256": "bce4b7d456d9b8179e3e55cf3c08aed785411e935933cc81cdc850a2397531b6"
+      }
+    }
+  }
+}

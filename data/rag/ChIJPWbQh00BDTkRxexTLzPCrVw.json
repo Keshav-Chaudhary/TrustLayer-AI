@@ -1,0 +1,51 @@
+{
+  "hotel_id": "ChIJPWbQh00BDTkRxexTLzPCrVw",
+  "hotel_name": "Hotel O Mayur Palace",
+  "area": "Alipur",
+  "budget_category": "Luxury",
+  "rating": 3.5,
+  "trust_score": 0.4840010152682982,
+  "travel_purpose_tags": [
+    "Budget"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "moderate",
+    "review_count": 5,
+    "positive_snippet_count": 1,
+    "negative_snippet_count": 3,
+    "positive_theme_count": 3,
+    "negative_theme_count": 2
+  },
+  "aspect_scores": {
+    "cleanliness": 0.0004385963402455,
+    "service": 0.0195156540721654,
+    "location": 0.5,
+    "value_for_money": 0.5,
+    "staff_behavior": 0.9997978806495668
+  },
+  "recommendation_features": {
+    "popularity_score": 0.4712760278948164,
+    "rating_score": 3.5,
+    "sentiment_score": 0.2045890057401266
+  },
+  "review_evidence": {
+    "positive_snippets": [
+      "Hotel Mayur Palace is awesome place for stay. There is hassle free check in and check out facility. Hotel staff are very humble and polite. I experience full support from hotel staff.\nVery peaceful place for stay."
+    ],
+    "negative_snippets": [
+      "Never book any hotel with Agoda. They don't even provide you proper customer support. I was waiting like hell before hotel gates during midnight winters. Hotel owner advised me for not paying through websites and than provided me a room without any blanket. I had to leave the place early in the next morning. I tried for warm water but got shocks twice with Water heater and managed with cold water during mid November in delhi. I paid so much for my one mistake that I will never forget the experience.",
+      "There's no kitchen in the hotel. They get you parathas from somewhere outside. The breakfast was provided very late, at around 10:15-10:45.\n\nWi-Fi is there and the room service is made available immediately.",
+      "Pathetic.\nNo bedsheets or pillow cover.\nNo comfortor provided in delhi winters.\nBathroom ceiling was mouldy and sleeping.\nBuckets and mugs have never been cleaned.\nGeyser that's rushed, broken and noisey of switched on"
+    ]
+  },
+  "review_summary": "Based on 5 reviews.",
+  "positive_themes": {
+    "friendly_staff": 1,
+    "good_food": 1,
+    "clean_rooms": 2
+  },
+  "negative_themes": {
+    "noise": 1,
+    "dirty_rooms": 1
+  }
+}

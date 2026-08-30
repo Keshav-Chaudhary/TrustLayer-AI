@@ -1,0 +1,51 @@
+{
+  "hotel_id": "ChIJYfbuyGUbDTkREm2SGwov630",
+  "hotel_name": "Hotel Castle Grand",
+  "area": "Dwarka",
+  "budget_category": "Mid-Range",
+  "rating": 3.8,
+  "trust_score": 0.5181498191329789,
+  "travel_purpose_tags": [
+    "Leisure",
+    "Family"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "moderate",
+    "review_count": 5,
+    "positive_snippet_count": 1,
+    "negative_snippet_count": 3,
+    "positive_theme_count": 3,
+    "negative_theme_count": 1
+  },
+  "aspect_scores": {
+    "cleanliness": 0.9997978806495668,
+    "service": 0.2501601203584869,
+    "location": 0.9997978806495668,
+    "value_for_money": 0.9997978806495668,
+    "staff_behavior": 0.5000703585974406
+  },
+  "recommendation_features": {
+    "popularity_score": 0.4509444728626801,
+    "rating_score": 3.8,
+    "sentiment_score": 0.2001785826607374
+  },
+  "review_evidence": {
+    "positive_snippets": [
+      "The hotel is within walking distance of Yashobhoomi. The road outside isn\u2019t in great condition, but that\u2019s common across Delhi, especially during the rainy season.\n\nThe rooms are fine, with all basic amenities like TV, wardrobe, AC, Wi-Fi, and hot/cold water in the washroom. Washroom need a little maintenance, but if you face any problem, the staff or owner fixes it immediately.\n\nThe service is excellent\u2014very responsive, almost like concierge-level help.\n\nOverall, it\u2019s a very good option to stay near Yashobhoomi. The price is reasonable, rooms are decent, and the service is outstanding."
+    ],
+    "negative_snippets": [
+      "I had booked this hotel through agoda. When I went to property they refused my bookings . I had shown to confirm code. E mail.  Nothing worked. I had to face lots of inconvenience to search for another place.  They had taken booking by taking extra amount.  So unprofessional dumb hotel management.",
+      "The food was good as a starter. The main course was not very special. The worst part was the service staff. Our first and last Event  at this place, the worst service in the event.",
+      "Worst service they are given in on 100 personal gethering.  No proper food. Un hygien . Not recommended even for small kitty party"
+    ]
+  },
+  "review_summary": "Based on 5 reviews.",
+  "positive_themes": {
+    "friendly_staff": 2,
+    "good_location": 1,
+    "good_food": 2
+  },
+  "negative_themes": {
+    "rude_staff": 2
+  }
+}

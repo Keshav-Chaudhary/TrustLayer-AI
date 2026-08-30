@@ -1,0 +1,54 @@
+{
+  "hotel_id": "ChIJ87NRphjiDDkRMh3igGPGQUg",
+  "hotel_name": "Beyond Hotel",
+  "area": "Malviya Nagar",
+  "budget_category": "Mid-Range",
+  "rating": 3.9,
+  "trust_score": 0.6130596017532399,
+  "travel_purpose_tags": [
+    "Budget"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "moderate",
+    "review_count": 5,
+    "positive_snippet_count": 2,
+    "negative_snippet_count": 3,
+    "positive_theme_count": 5,
+    "negative_theme_count": 2
+  },
+  "aspect_scores": {
+    "cleanliness": 0.5017054451054719,
+    "service": 0.9993176460266112,
+    "location": 0.0002760831266641,
+    "value_for_money": 0.0002760831266641,
+    "staff_behavior": 0.5017179166898131
+  },
+  "recommendation_features": {
+    "popularity_score": 0.532807470194446,
+    "rating_score": 3.9,
+    "sentiment_score": 0.4014195727097103
+  },
+  "review_evidence": {
+    "positive_snippets": [
+      "It's decent place to stay in South Delhi. I do appreciate the service and dedication of the staff and polite behaviour . Hygiene and sanitation is maintained well. Mask and gloves are used by staff. I will recommend to my friends to avail facilities over there. Keep it up. I wishing them all the very best for better hospitality and performance of management.",
+      "The Hotel is very clean, the food was tasty and the staff was very very good. Definitely recommend for solo stays"
+    ],
+    "negative_snippets": [
+      "I stayed at this hotel for a day on 2nd February 2024 on a visit to Delhi with my husband. Not recommended for families or married couples since the ambience isn't great. We had to switch the room after check-in since the flush wasn't working. The room smelled of cigarettes. The staff personnel who gave us towels were extremely rude and moody. The only good thing was that it was located close to Malviya Nagar metro station. The breakfast was not that great. Definitely not worth the price that we paid.",
+      "3rd class hotel and manager. When I entered the room I was greeted by small cockroachs. The blankets were very dirty. Small dark rooms, all the time gives you negative scary thoughts. No sink cover, small flies enters the room through that hole.\n\nTheir check out time is 12 pm. If you leave by 2 pm, entire hotel people will come and force you to pay next days payment. You have to pay for full day payment for 2 hour extra.",
+      "The rooms are pathetic. There\u2019s moss all over on the seats of the chairs inside the room. The menu is sticky and absolutely dirty. The bathroom flush was broken. There were cockroaches in the room and washroom. There was a leakage in the washroom and the whole room smelled really bad."
+    ]
+  },
+  "review_summary": "Based on 5 reviews.",
+  "positive_themes": {
+    "friendly_staff": 3,
+    "clean_rooms": 1,
+    "good_food": 2,
+    "good_location": 1,
+    "great_value": 1
+  },
+  "negative_themes": {
+    "dirty_rooms": 3,
+    "rude_staff": 1
+  }
+}

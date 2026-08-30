@@ -1,0 +1,51 @@
+{
+  "hotel_id": "ChIJC_BtMAmsDTkR0zDkFj0klCs",
+  "hotel_name": "Tdi Club Retreat Kundli Hotel",
+  "area": "Kundli",
+  "budget_category": "Mid-Range",
+  "rating": 4.0,
+  "trust_score": 0.7759173914552776,
+  "travel_purpose_tags": [
+    "Budget"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "moderate",
+    "review_count": 5,
+    "positive_snippet_count": 3,
+    "negative_snippet_count": 1,
+    "positive_theme_count": 3,
+    "negative_theme_count": 2
+  },
+  "aspect_scores": {
+    "cleanliness": 0.5,
+    "service": 0.9998751878738404,
+    "location": 0.0008819131180644,
+    "value_for_money": 0.0008819131180644,
+    "staff_behavior": 0.5003748550079763
+  },
+  "recommendation_features": {
+    "popularity_score": 0.6380705828793656,
+    "rating_score": 4.0,
+    "sentiment_score": 0.8000351196154952
+  },
+  "review_evidence": {
+    "positive_snippets": [
+      "This review is regarding restaurant the cabana. Food is delicious. Rahul served us. He was really humble and served us well. I was with my 1 year old daughter. He brought kid friendly food also on special demand. Loved the service and food.",
+      "Had Lunch with family.\nGreat experience on Service and Food as always. Chinese food is the best here.\n\nRahul took great care of us .\n\nAll the best.",
+      "The food served was delicious. The service by Mr. Rahul was very good. I enjoyed my dinner."
+    ],
+    "negative_snippets": [
+      "This is as honest i can get :\nHotel itself isnt that bad. Rooms were really good and well maintained. Location is good aswell with the underground parking a little dingy but thats it. restaurant had great food.\nWhat ruined the stay for us was the unprofessionalism of the staff.\n\nI specially called the hotel and asked them to reserve 4 rooms for 2 nights. The rate that was provided was said to be \"PER ROOM\" as I agree its my mistake aswell that i didnt confirm the rates per nightly, neither was this in written yet what really pissed me off is the attitude of the staff. Lobby manager ANSHU was the one i talked to, when i reached the hotel he greeted me and knew i had the reservation. I asked him the final price and he gave me X amount as the final price. After settling in I had gone down to the lobby and he asked me as to how many nights im staying and I told him 2 nights, absolutely 0 conversation happened after that. At the end of our 2 nights we were told the rate given to us was for 1 night and not 2 and we had to pay for the remaining tariff. I tried to reason with them and even talked to the manager but he simply walked away and didnt even try to talk to me. I believe his name is Manish. This all could've been avoided if the communication was a bit more transparent which is of fault from both sides, mine aswell. But the way it was handled from the staff being extremely unhelpful just ruined the stay for us. I would not recommend staying at this place since I saw more reviews like this. LEARN FROM MY MISTAKE."
+    ]
+  },
+  "review_summary": "Based on 5 reviews.",
+  "positive_themes": {
+    "friendly_staff": 2,
+    "good_food": 5,
+    "good_location": 1
+  },
+  "negative_themes": {
+    "rude_staff": 1,
+    "parking_issues": 1
+  }
+}

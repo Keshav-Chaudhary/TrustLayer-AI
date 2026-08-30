@@ -1,0 +1,53 @@
+{
+  "hotel_id": "ChIJXUHMYQ_fDDkRaJWmhG4TZa4",
+  "hotel_name": "Hotel O Badkhal Lake Formerly Lake View",
+  "area": "Sanjay Gandhi Memorial Nagar",
+  "budget_category": "Mid-Range",
+  "rating": 3.6,
+  "trust_score": 0.5609974769627204,
+  "travel_purpose_tags": [
+    "Budget"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "moderate",
+    "review_count": 5,
+    "positive_snippet_count": 2,
+    "negative_snippet_count": 3,
+    "positive_theme_count": 5,
+    "negative_theme_count": 1
+  },
+  "aspect_scores": {
+    "cleanliness": 0.3334929335202711,
+    "service": 0.500074215917266,
+    "location": 0.500063308267272,
+    "value_for_money": 0.9998427629470824,
+    "staff_behavior": 0.6666637315938715
+  },
+  "recommendation_features": {
+    "popularity_score": 0.4769888516730629,
+    "rating_score": 3.6,
+    "sentiment_score": 0.4004496867652051
+  },
+  "review_evidence": {
+    "positive_snippets": [
+      "I recently stayed at your property and had a pleasant experience overall. The check-in process was smooth, and the staff was courteous, helpful, and attentive throughout the stay. The room was clean, comfortable, and well-maintained, with all the basic amenities provided.\n\nThe housekeeping team did a great job, and the hygiene standards were impressive. I also appreciated the prompt service whenever I requested anything. The food quality was good, and the dining area was neat and welcoming.",
+      "I had an overall impressive experience. The rooms were neat, comfortable, and well-kept. The staff maintained a professional and courteous attitude throughout the stay. The location was convenient, which added ease to the entire visit.\nA smooth, comfortable, and value-for-money stay. Truly recommended."
+    ],
+    "negative_snippets": [
+      "Rooms are dusty. Everywhere too much dust. Geyser not working. No TV. Even window of the room was slightly open. Not able to completely lock. Cold winds kept coming whole night. Bedsheet and quilt cover too dirty stinking. Even after requesting for room change but they didn't change. Neither they even provide water bottle nor towel. Even to take bath in the morning I had to go and ask for bucket from other room. And take bath with cold water. Do not recommend.",
+      "I stayed at Super Hotel O Badkhal Lake (Formerly Lake View) and it was a deeply disappointing experience. The hotel was extremely dirty\u2014no proper cleaning, filthy toilets, and a strong unpleasant smell throughout. The room was very small and nothing like the photos shown online, which felt deceptive.\nBreakfast was supposedly included, but it never arrived. The staff kept repeating, \u201cI\u2019ve sent the boy, it will come in minutes,\u201d yet nothing came even after waiting a long time. This kind of service is unacceptable.\nOverall, the hotel failed on cleanliness, honesty, and basic hospitality. I would strongly advise others to avoid this place unless serious improvements are made.\nI would not recommend this hotel to anyone looking for a comfortable or hygienic stay. The management seriously needs to improve the standards and be honest in their listings.",
+      "No towels. No water bottle. No hot water, and geyser wasn't working.\n\nHotel didn't send towel, didn't get geyser working or allow shower in another room, didn't give hot water in a bucket, despite asking multiple times.\n\nBooking ID HZYY0931\n\nI sent my driver here, but won't be sending him next time.\n\nThe person at counter - Ajay Duggal, took payment on his UPI, and then marked the room as no-show too"
+    ]
+  },
+  "review_summary": "Based on 5 reviews.",
+  "positive_themes": {
+    "clean_rooms": 3,
+    "friendly_staff": 3,
+    "good_food": 2,
+    "good_location": 1,
+    "great_value": 1
+  },
+  "negative_themes": {
+    "dirty_rooms": 2
+  }
+}

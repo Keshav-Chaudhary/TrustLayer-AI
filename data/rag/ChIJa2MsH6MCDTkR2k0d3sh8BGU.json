@@ -1,0 +1,51 @@
+{
+  "hotel_id": "ChIJa2MsH6MCDTkR2k0d3sh8BGU",
+  "hotel_name": "Hotel Madonna",
+  "area": "New Delhi",
+  "budget_category": "Mid-Range",
+  "rating": 3.6,
+  "trust_score": 0.6532567023704651,
+  "travel_purpose_tags": [
+    "Leisure",
+    "Business"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "rich",
+    "review_count": 5,
+    "positive_snippet_count": 3,
+    "negative_snippet_count": 2,
+    "positive_theme_count": 4,
+    "negative_theme_count": 0
+  },
+  "aspect_scores": {
+    "cleanliness": 0.7509286121930926,
+    "service": 0.9998311003049216,
+    "location": 0.9998354315757751,
+    "value_for_money": 0.336550598964095,
+    "staff_behavior": 0.9998306334018706
+  },
+  "recommendation_features": {
+    "popularity_score": 0.6086342174052636,
+    "rating_score": 3.6,
+    "sentiment_score": 0.6018612537533043
+  },
+  "review_evidence": {
+    "positive_snippets": [
+      "We were in Delhi for a week for attending an interview with US Embassy staying in Hotel Madonna situated at Old Rajendernagar, Karol bagh, New Delhi and our stay was a memorable one.\n\nThe excellent hospitality by all the staff, friendly assistance for our local needs are commendable .\nRoom we stayed was so spacious , neat having flat screen cable, mini fridge and all other comfortable amenities . The attached bathroom was also equally spacious and well maintained. Counter staff Mr Yadav/ Tripati in particular were so courteous/ prompt and were exceptional hosts .\n\nWe recommend those who look for a reasonably budgeted complaint free short stay in central New Delhi to choose this hotel and enjoy their hospitality.\n\nSincere thanks for making our stay pleasant.\n\nNCS Mayya & N Padmini",
+      "Hotel Madonna in Karol Bagh, Delhi, offers comfortable rooms, friendly staff, and great service. The location is convenient, close to markets and metro stations. Rooms are clean and well-maintained with all basic amenities. Ideal for both business and leisure travelers looking for a pleasant and budget-friendly stay in Delhi.",
+      "Stayed here for about 5 days to attend a friend's wedding. It's a 2 or 3 star property, But they really try to do everything in their grasp to ensure the guests are happy. Cleanliness is quite good. They clean the rooms everyday.\n\nEveryone from the front desk to the room boys, always have a pleasant smile and make sure you're stay is quite comfortable. Mostly single day travellers choose this place for its vicinity to most places in the city.\n\nIt's Close by to Karol Bagh metro station which makes it very easy to get around the city and helps you beat the crazy traffic (usual in Delhi). Thank you Team Madonna for making our stay in Delhi a pleasant one."
+    ],
+    "negative_snippets": [
+      "The worst hotel I have been to. They lied to me at first they charged rs. 1900 for 2 nights but when I was going to pay the final half amount they said that rs 1900 is for 1 night and it was (without food). They did this on purpose and we didn't have any recordings also to prove that we are right. When we told them that you charged rs 1900 for 2 nights he started abusing us and got into our privacy. Don't go here these people are big fools.\n\nAlso there are so many hotels which cost less then this and is genuinely nice and has good furniture but this has old furniture and should not be costing so huge amount at this price still if you want to go here its at your own risk.",
+      "We booked one room for Rs 2700.The room was fine but there was not a single pair of slippers for bathroom.On enquiring they told us that for slippers (which normally should be by default in every room) they will charge Rs 100 . Why should I pay Rs 100 more when I have to stay there for only one night.?\nAlso,I ordered cheese paratha (high cost in menu) but instead they gave paneer paratha."
+    ]
+  },
+  "review_summary": "Based on 5 reviews.",
+  "positive_themes": {
+    "clean_rooms": 3,
+    "friendly_staff": 2,
+    "good_location": 1,
+    "good_food": 1
+  },
+  "negative_themes": {}
+}

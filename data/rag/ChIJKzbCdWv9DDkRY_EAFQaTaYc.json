@@ -1,0 +1,51 @@
+{
+  "hotel_id": "ChIJKzbCdWv9DDkRY_EAFQaTaYc",
+  "hotel_name": "Hotel Dreamland Dx Pahargnj",
+  "area": "Multani Dhanda",
+  "budget_category": "Mid-Range",
+  "rating": 4.2,
+  "trust_score": 0.6037156510247508,
+  "travel_purpose_tags": [
+    "Budget"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "moderate",
+    "review_count": 5,
+    "positive_snippet_count": 1,
+    "negative_snippet_count": 3,
+    "positive_theme_count": 3,
+    "negative_theme_count": 2
+  },
+  "aspect_scores": {
+    "cleanliness": 0.0004219386610202,
+    "service": 0.0004219386610202,
+    "location": 0.0003973611746914,
+    "value_for_money": 0.5,
+    "staff_behavior": 0.3335096421263491
+  },
+  "recommendation_features": {
+    "popularity_score": 0.6020768687548681,
+    "rating_score": 4.2,
+    "sentiment_score": 0.2009525144821964
+  },
+  "review_evidence": {
+    "positive_snippets": [
+      "Most holistic experience, all support staff are very cooperative, healthy atmosphere cleanes and particularly front manager JOYATI is eversmling, and her innocence feel good to consumer."
+    ],
+    "negative_snippets": [
+      "Extremely disappointing and unhygienic stay. Initially, I was allotted a room on the ground floor which was extremely stinky. The washroom was dirty and completely untidy. When I raised the issue during check-in, the staff member who assisted us asked us to \u201ckindly adjust for one night\u201d and promised that we would be shifted to a different room the next morning.\n\nHowever, the next morning that person was not there. When I spoke to the hotel manager and requested a room change as promised, her first response was to ask, What\u2019s wrong with the previous room? I had to explain that the washroom was so dirty that we couldn\u2019t even use it.\n\nAfter this discussion, we were finally given another room which turned out to be even worse. There were roaches crawling on the bed, the dustbin didn\u2019t even have a garbage bag, and the washroom had no water. When I informed the helper about all of this, his response was shockingly casual. He simply said this is normal here.\n\nThe level of hygiene and service here is unacceptable. If anyone enjoys staying in dirty, unhygienic conditions with careless management, then this is the place for you. Otherwise, avoid this hotel.",
+      "We stayed here for 4 days, and for about more than 3 days the T.V. didn't work....\nAnd the location of this hotel is also too congested \ud83d\ude15 Also, the AC and Geyser\ndidn't work.... The Geyser worked for 1 day after our complaint... But the AC!! Never!!\nAnd there were roaches and bedbugs everywhere in the hotel!",
+      "Terrible Experience \u2013 Highly Unsafe and Unhygienic \u274c\u274c\u274c\n\nI had an extremely disappointing and unpleasant stay at this hotel. The staff was incredibly rude and unprofessional throughout our visit. Shockingly, some of them appeared to be intoxicated while on duty, which is absolutely unacceptable.\n\nThey charged us extra for almost everything, with unnecessary fines and hidden fees that were never mentioned upfront. Our room was in a filthy condition \u2014 it had cockroaches, and despite multiple complaints, the staff responded with arrogance and even misbehaved with us.\n\nThere was no room service provided even once during our entire stay. When we requested drinking water, we were told to fetch it ourselves. This level of negligence and disrespect is alarming.\n\nOverall, the environment felt unsafe, unsanitary, and extremely poorly managed. I strongly advise others not to stay here under any circumstances."
+    ]
+  },
+  "review_summary": "Based on 5 reviews.",
+  "positive_themes": {
+    "clean_rooms": 2,
+    "friendly_staff": 3,
+    "good_location": 2
+  },
+  "negative_themes": {
+    "dirty_rooms": 2,
+    "rude_staff": 1
+  }
+}

@@ -1,0 +1,51 @@
+{
+  "hotel_id": "ChIJgdyQHisbDTkRlN7jaSGm6Zw",
+  "hotel_name": "Hotel Janvi Palace",
+  "area": "New Delhi",
+  "budget_category": "Luxury",
+  "rating": 4.2,
+  "trust_score": 0.6037439323542928,
+  "travel_purpose_tags": [
+    "Budget"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "moderate",
+    "review_count": 5,
+    "positive_snippet_count": 2,
+    "negative_snippet_count": 3,
+    "positive_theme_count": 3,
+    "negative_theme_count": 1
+  },
+  "aspect_scores": {
+    "cleanliness": 0.5,
+    "service": 0.0002755789464571,
+    "location": 0.0002565520699135,
+    "value_for_money": 0.5002217016517534,
+    "staff_behavior": 0.6668640669280043
+  },
+  "recommendation_features": {
+    "popularity_score": 0.3032955993753565,
+    "rating_score": 4.2,
+    "sentiment_score": 0.4002286717353854
+  },
+  "review_evidence": {
+    "positive_snippets": [
+      "The member and staff were very humble and supportive. I was there to attend a event of mother's day marathon and even they provided me concession on price. Thank you much \ud83d\ude4f",
+      "Owner and staff is very friendly. Price is cheap as compared  to other nearby hotels . Enjoyed the stay!!"
+    ],
+    "negative_snippets": [
+      "Worst service don't go by make my trip booking they don't accept it and do not provide rooms and unsafe location shdy stuff",
+      "Made a online booking via brevistay for 6hrs paying 783rs. On reaching hotel they denied online booking, after talking to cc of brevistay they finally agreed to provide room after 40min. But this time i denied to take there room. The hotel staff has no professionalism, they want online booking but not a online paid hotel. If you want to waste your time and money you can book this property. If both are precious to you then better stay away from such cheap minded and rude staffed property",
+      "Booked it online mistakenly through Agoda at a convenient price, was turned down stating that they can't see the booking. Asked me to call Agoda cx service, couldn't get through. Had to look for another hotel nearby at around midnight."
+    ]
+  },
+  "review_summary": "Based on 5 reviews.",
+  "positive_themes": {
+    "friendly_staff": 3,
+    "good_location": 3,
+    "great_value": 2
+  },
+  "negative_themes": {
+    "rude_staff": 1
+  }
+}

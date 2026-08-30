@@ -1,0 +1,52 @@
+{
+  "hotel_id": "ChIJtR4NW0jcDDkRUETZGgY6mIY",
+  "hotel_name": "Ginger Faridabad",
+  "area": "New Industrial Township",
+  "budget_category": "Mid-Range",
+  "rating": 4.0,
+  "trust_score": 0.7860668618698883,
+  "travel_purpose_tags": [
+    "Budget"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "moderate",
+    "review_count": 5,
+    "positive_snippet_count": 2,
+    "negative_snippet_count": 3,
+    "positive_theme_count": 4,
+    "negative_theme_count": 1
+  },
+  "aspect_scores": {
+    "cleanliness": 0.6872827126644552,
+    "service": 0.5868559697022041,
+    "location": 0.5,
+    "value_for_money": 0.7325946688652039,
+    "staff_behavior": 0.930228903889656
+  },
+  "recommendation_features": {
+    "popularity_score": 0.7611387695511939,
+    "rating_score": 4.0,
+    "sentiment_score": 0.7498019229620695
+  },
+  "review_evidence": {
+    "positive_snippets": [
+      "I had a very pleasant stay at your hotel. The rooms were clean, comfortable, and well-maintained. The staff was courteous, professional, and always ready to help - Vanshika, tarun. The food was excellent, with great taste, quality, and variety. Overall, the hospitality and service were outstanding. Thank you for making my stay enjoyable. I would highly recommend your hotel.",
+      "I had an amazing stay here. The entire staff was extremely warm and welcoming. A special mention to Neha and Deepika for making the whole process smooth, easy, and completely hassle-free. Their helpful and friendly approach truly made a difference. I would definitely love to stay here again!"
+    ],
+    "negative_snippets": [
+      "I recently stayed for one night at Ginger Faridabad and overall, the experience was average and did not quite justify the room tariff charged. While I understand that business hotels in this area can be priced on the higher side, the facilities and service standards should match the cost, which unfortunately was not the case during my stay.\n\nThe room itself was fairly basic and average in terms of comfort and maintenance. Cleanliness could definitely be improved. There were no towels available in the bathroom upon check-in, which was inconvenient. Additionally, the bathroom drains were clogged, leading to water accumulation during bathing and creating an unpleasant experience. Such issues should ideally be checked and resolved before allotting the room to guests.\n\nAnother concern was that the television in the room was not working. When I informed the service team, the response was quite slow. While the staff was polite, the delay in addressing these basic issues affected the overall comfort of the stay.\n\nOn a positive note, the restaurant food was not bad. The taste and quality were decent, and that was one aspect that met expectations.\n\nOverall, the property has potential, but improvements in maintenance, room readiness, and service responsiveness are necessary to truly match the tariff being charged.",
+      "Stayed at Ginger Faridabad and overall had a decent experience. The hotel is well located and suitable for short business or family stays. The staff is polite, cooperative, and check-in/check-out was smooth.\n\nRooms on the 4th floor are well maintained, clean, and comfortable, offering a better stay experience. However, rooms on the 2nd floor clearly need renovation, as the interiors and fittings feel old and worn out.\n\nThe buffet breakfast tastes good, but the variety is limited. They should definitely increase the number of food options, especially for guests staying multiple days.\n\nBasic amenities are available, and housekeeping is satisfactory. If you plan to stay here, I recommend requesting a room on the 4th floor.\n\nOverall, a comfortable stay with room for improvement in room upgrades and breakfast variety.",
+      "It's again nice experience with Ginger but I noticed that as per city the maintenance vary somewhere it's fully clean hygienic and somewhere need to improve at faridabad overall is good but cleaniness is low.\n\nIn rooms washrooms door is open that's why smell is all around.\nWhether it's ok or but they use cloth seperator for shower and I found it unhygienic if there is glass or something else it would be great.\n\nFood and service is good."
+    ]
+  },
+  "review_summary": "Based on 5 reviews.",
+  "positive_themes": {
+    "clean_rooms": 4,
+    "friendly_staff": 4,
+    "good_food": 4,
+    "good_location": 1
+  },
+  "negative_themes": {
+    "dirty_rooms": 1
+  }
+}

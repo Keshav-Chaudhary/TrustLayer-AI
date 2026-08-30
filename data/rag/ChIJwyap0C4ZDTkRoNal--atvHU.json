@@ -1,0 +1,52 @@
+{
+  "hotel_id": "ChIJwyap0C4ZDTkRoNal--atvHU",
+  "hotel_name": "Grand Vitara Gurgaon",
+  "area": "Sector 46",
+  "budget_category": "Mid-Range",
+  "rating": 4.2,
+  "trust_score": 0.604074693392451,
+  "travel_purpose_tags": [
+    "Budget"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "moderate",
+    "review_count": 5,
+    "positive_snippet_count": 1,
+    "negative_snippet_count": 3,
+    "positive_theme_count": 4,
+    "negative_theme_count": 2
+  },
+  "aspect_scores": {
+    "cleanliness": 0.0370209382672328,
+    "service": 0.9998682737350464,
+    "location": 0.5,
+    "value_for_money": 0.0014048059820196,
+    "staff_behavior": 0.5011937749804929
+  },
+  "recommendation_features": {
+    "popularity_score": 0.5711585919664239,
+    "rating_score": 4.2,
+    "sentiment_score": 0.2226900729525368
+  },
+  "review_evidence": {
+    "positive_snippets": [
+      "The best hotel I\u2019ve ever been privileged enough to stay at. Gorgeous building, and it only gets more breathtaking when you walk in. Weather was so pleasant slight drizzle and slight sunshine. High quality rooms and high quality service. Overall, I had a great experience. The staff was incredibly helpful, and the amenities were great. Will definately look forward to come back again soon."
+    ],
+    "negative_snippets": [
+      "Do not stay in this PG. It may be listed as a PG, but the services are extremely disappointing. The Wi-Fi barely works, the food is below average, and the power backup is rarely switched on. Many appliances remain non-functional despite repeated requests. The tap water smells at times, not even clean enough to wash utensils and the water supply randomly shuts off.\n\nWhat\u2019s worse is the owner\u2019s behaviour regarding the security deposit. He will go to any extent to avoid returning it, outright lying and ignoring messages.",
+      "Do not go to this PG. It\u2019s a terrible place. The food is bad, the blankets are dirty, and they do not refund your security deposit. The owner, Sahil, will come up with a hundred excuses and refuse to return your money. Avoid this place at all costs.",
+      "I booked their roof top. It was great for the price but the staff was a little rude. The lift wasn't working and they made us climb 5 floors every time our food or anything was delivered. The rooms are decent but lack basic amenities like tissue rolls, hand towels, etc. However, what more can you expect for that price?"
+    ]
+  },
+  "review_summary": "Based on 5 reviews.",
+  "positive_themes": {
+    "friendly_staff": 2,
+    "clean_rooms": 2,
+    "good_food": 3,
+    "good_location": 1
+  },
+  "negative_themes": {
+    "dirty_rooms": 2,
+    "rude_staff": 1
+  }
+}

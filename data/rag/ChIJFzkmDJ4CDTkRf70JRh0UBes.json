@@ -1,0 +1,54 @@
+{
+  "hotel_id": "ChIJFzkmDJ4CDTkRf70JRh0UBes",
+  "hotel_name": "Hotel Sky Rich International",
+  "area": "New Delhi",
+  "budget_category": "Mid-Range",
+  "rating": 3.9,
+  "trust_score": 0.6927579649120781,
+  "travel_purpose_tags": [
+    "Leisure"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "rich",
+    "review_count": 5,
+    "positive_snippet_count": 3,
+    "negative_snippet_count": 2,
+    "positive_theme_count": 4,
+    "negative_theme_count": 3
+  },
+  "aspect_scores": {
+    "cleanliness": 0.9998325109481812,
+    "service": 0.9988259673118592,
+    "location": 0.9978194236755372,
+    "value_for_money": 0.5,
+    "staff_behavior": 0.6666637351833439
+  },
+  "recommendation_features": {
+    "popularity_score": 0.6102369510599138,
+    "rating_score": 3.9,
+    "sentiment_score": 0.5996045920182951
+  },
+  "review_evidence": {
+    "positive_snippets": [
+      "We did stayed in this hotel for 4 nights in Dec 2025. And we would like to say that the service,stay and food was above our expectation. The person in charge of the Kitchen is so quick to make delicious foods.We thank him for the support he has given in providing excellant food,even though if it was the complimentary break fast or the la carte.The hotel and its rooms are neat and tidy. Although it is in the middle of the town but its little hidden away from the noise and thus it makes its location also much calm in the night. It is true that there is no space for car parking and even the road in front is very thin. Thanks",
+      "Nice place to stay and visit many places in Delhi. Nicely maintained rooms and very good staff caring customers to their fullest satisfaction.",
+      "A nice hotel with courteous staff and prompt response. Rooms are clean and spacious with good quality Wifi"
+    ],
+    "negative_snippets": [
+      "The hotel services are pathetic. Hotel is located in a by ally which makes it extremely inconvenient. Their check in services are very bad handled, staff is rude and uncooperative.\nNot an ideal place to stay.",
+      "Disappointing Stay\n\nUnfortunately, my experience at this hotel was subpar. The building is old and outdated, with inadequate facilities. The rooms don't match the photos on booking sites, and the beds are uncomfortable. To make matters worse, there are better hotels in the same area at similar prices. Overall, it felt like staying in a dharamshala. Would not recommend."
+    ]
+  },
+  "review_summary": "Based on 5 reviews.",
+  "positive_themes": {
+    "clean_rooms": 2,
+    "good_location": 2,
+    "good_food": 1,
+    "friendly_staff": 3
+  },
+  "negative_themes": {
+    "noise": 1,
+    "parking_issues": 1,
+    "rude_staff": 1
+  }
+}

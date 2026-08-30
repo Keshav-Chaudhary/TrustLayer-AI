@@ -1,0 +1,49 @@
+{
+  "hotel_id": "ChIJL5ffIAf5DDkRmJFyFnI0A6A",
+  "hotel_name": "Spot On Blue Heart Guest House",
+  "area": "Chauhan Patti",
+  "budget_category": "Mid-Range",
+  "rating": 3.9,
+  "trust_score": 0.4467380744001267,
+  "travel_purpose_tags": [
+    "Budget"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "moderate",
+    "review_count": 5,
+    "positive_snippet_count": 3,
+    "negative_snippet_count": 1,
+    "positive_theme_count": 2,
+    "negative_theme_count": 1
+  },
+  "aspect_scores": {
+    "cleanliness": 0.0002009189047385,
+    "service": 0.5,
+    "location": 0.5,
+    "value_for_money": 0.0002009189047385,
+    "staff_behavior": 0.0002009189047385
+  },
+  "recommendation_features": {
+    "popularity_score": 0.3522695076021969,
+    "rating_score": 3.9,
+    "sentiment_score": 0.0004639346589101
+  },
+  "review_evidence": {
+    "positive_snippets": [
+      "AC Rooms Not Abviable\nPerfect in Winter Season \ud83d\ude1c\ud83d\ude1c",
+      "Amazing",
+      "Nyc hotel"
+    ],
+    "negative_snippets": [
+      "The condition of the room was very bad, and even the bed sheets were dirty and smelled bad. I told their staff to change them, but he said they cannot be changed. There was neither an AC nor a TV in the room, even though everything was shown in the photos. My first experience itself was terrible, and the washroom was also not clean. Staying here was just a waste of money."
+    ]
+  },
+  "review_summary": "Based on 5 reviews.",
+  "positive_themes": {
+    "clean_rooms": 1,
+    "friendly_staff": 1
+  },
+  "negative_themes": {
+    "dirty_rooms": 1
+  }
+}

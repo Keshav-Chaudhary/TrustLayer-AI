@@ -1,0 +1,52 @@
+{
+  "hotel_id": "ChIJh5Fhbsj7DDkRVWFOMmVGyy8",
+  "hotel_name": "Hotel O L'Elegant Hotel & Banquet By Ace Manor",
+  "area": "Sahibabad",
+  "budget_category": "Mid-Range",
+  "rating": 2.7,
+  "trust_score": 0.3382873085587628,
+  "travel_purpose_tags": [
+    "Budget"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "moderate",
+    "review_count": 5,
+    "positive_snippet_count": 1,
+    "negative_snippet_count": 3,
+    "positive_theme_count": 4,
+    "negative_theme_count": 2
+  },
+  "aspect_scores": {
+    "cleanliness": 0.0003502916079014,
+    "service": 0.0007866856176406,
+    "location": 0.5004098289646207,
+    "value_for_money": 0.0007866856176406,
+    "staff_behavior": 0.0012681080649296
+  },
+  "recommendation_features": {
+    "popularity_score": 0.2918825720663544,
+    "rating_score": 2.7,
+    "sentiment_score": 0.2007963643874972
+  },
+  "review_evidence": {
+    "positive_snippets": [
+      "It was wonderful hotel with awesome ambience. The hotel is situated at a very good location, we can access every available public transport very easily and quickly. The best part about the hotel was the cleanliness and lavish interiors. I also went to city forest to explore as it was nearby. It was an amazing experience here."
+    ],
+    "negative_snippets": [
+      "If you book this hotel using OYO application then you will not get any kind of respect from the hotel manager or staff.\n\nI visited here with my family and booked this hotel for 3 nights from the OYO application. The original cost was 12k+ for 2 rooms for 3 nights but OYO offers me to pay only half of the amount like 6k.\n\nWhen I reached the hotel, the manager was saying we would not allow you to check in. I know the amount which I paid was less as compared to the original amount but this was not my mistake. It was the business relationship between OYO and Hotels why I should face issues.\n\nEvery day the manager is like \"Sir aap checkout kb kr rhe ho\". It was a very insulting feeling. The rooms were okay but not cleaned, the location was not good for family and the service was third class. No one picks up your phone call at reception or in a restaurant.\n\nTotally disappointed.",
+      "Worst hotel. I booked from oyo and they refused to make us stay as they can\u2019t give hotels at that price. As we had no other option nearby and it was 4:00 in the morning we had to again book the rooms at 1200 as they said. Overall it costed me 3880rs for 1 day stay for 2 rooms as they didn\u2019t considered oyo booking at all. Rooms were good but Bad service and very bad behaviour of the staff. Also, they lied that they would send the bill on whatsapp later which still they haven\u2019t after so many calls. So, BIG BIG NO for the hotel. They\u2019re fraud!!! Very bad experience!!!!!!",
+      "It was the worst experience in this hotel. Too much dirty, the toilet was bad. Even though they provide food at their disposal, I did not get that experience in any hotel.  I booked this through @oyo and gave me fake information about the hotel. They show a swimming pool in OYO and MMT but it is fake. They don't have a swimming pool. Making fool by these so-called reputed websites."
+    ]
+  },
+  "review_summary": "Based on 5 reviews.",
+  "positive_themes": {
+    "clean_rooms": 2,
+    "good_location": 3,
+    "friendly_staff": 3,
+    "good_food": 1
+  },
+  "negative_themes": {
+    "rude_staff": 2,
+    "dirty_rooms": 1
+  }
+}

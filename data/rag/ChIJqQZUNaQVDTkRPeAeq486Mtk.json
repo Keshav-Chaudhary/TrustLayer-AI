@@ -1,0 +1,51 @@
+{
+  "hotel_id": "ChIJqQZUNaQVDTkRPeAeq486Mtk",
+  "hotel_name": "Achal Farm",
+  "area": "Sadhrana Bamripur",
+  "budget_category": "Mid-Range",
+  "rating": 4.2,
+  "trust_score": 0.6936982834421022,
+  "travel_purpose_tags": [
+    "Leisure"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "rich",
+    "review_count": 5,
+    "positive_snippet_count": 3,
+    "negative_snippet_count": 2,
+    "positive_theme_count": 3,
+    "negative_theme_count": 1
+  },
+  "aspect_scores": {
+    "cleanliness": 0.0002515947562642,
+    "service": 0.5,
+    "location": 0.9997854828834534,
+    "value_for_money": 0.0006546117947436,
+    "staff_behavior": 0.3335638964781537
+  },
+  "recommendation_features": {
+    "popularity_score": 0.4296207085978143,
+    "rating_score": 4.2,
+    "sentiment_score": 0.5979627325898036
+  },
+  "review_evidence": {
+    "positive_snippets": [
+      "We had a good experience at Achal Farm. The place is spacious and enjoyable, perfect for gatherings. However, the swimming pool doesn\u2019t have a proper filtration system \u2014 they simply fill it with water and drain it out the next morning using a motor, which could definitely be improved. Food options are available, but it would have been better if they offered a proper package arrangement for meals. Overall, the place is nice and we enjoyed a lot, just a few improvements could make it even better.",
+      "A nice place to stay and enjoy with family.\nA peaceful location in between fields.\nAlso the owner of the farm is very polite and provides the farm at very easy prices.",
+      "I really enjoyed my stay plus theres a lot of space and the pool had warm water which made things even better"
+    ],
+    "negative_snippets": [
+      "I strongly advise against visiting this farm due to the unprofessional and distressing experience we had. Throughout our stay, the staff's behavior was completely inappropriate and made us feel uncomfortable, but the situation worsened at checkout when they suddenly demanded extra money that was never disclosed or agreed upon. This establishment lacks integrity and basic hospitality standards, so I recommend you save yourself the stress and book elsewhere.",
+      "My recent visit to achal farms was extremely disappointing and would not recommend this place t anyone. It failed to meet basic standards of safe and hygiene. Another major concern was lack of safety measures. The owner behaviour was surprisingly rude and unprofessional instead of addressing concern the response felt dismissive and disrespectful. Too many hidden charges were there. So be cautious before going there"
+    ]
+  },
+  "review_summary": "Based on 5 reviews.",
+  "positive_themes": {
+    "good_food": 1,
+    "friendly_staff": 2,
+    "good_location": 1
+  },
+  "negative_themes": {
+    "rude_staff": 2
+  }
+}

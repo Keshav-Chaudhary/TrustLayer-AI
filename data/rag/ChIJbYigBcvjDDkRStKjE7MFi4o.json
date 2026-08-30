@@ -1,0 +1,51 @@
+{
+  "hotel_id": "ChIJbYigBcvjDDkRStKjE7MFi4o",
+  "hotel_name": "Jpm White House Bed & Breakfast",
+  "area": "East of Kailash",
+  "budget_category": "Mid-Range",
+  "rating": 4.0,
+  "trust_score": 0.7372060816468977,
+  "travel_purpose_tags": [
+    "Budget"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "moderate",
+    "review_count": 5,
+    "positive_snippet_count": 3,
+    "negative_snippet_count": 1,
+    "positive_theme_count": 4,
+    "negative_theme_count": 1
+  },
+  "aspect_scores": {
+    "cleanliness": 0.6669550059984127,
+    "service": 0.6669897555063168,
+    "location": 0.66698625870049,
+    "value_for_money": 0.0012909527868032,
+    "staff_behavior": 0.8001203607767821
+  },
+  "recommendation_features": {
+    "popularity_score": 0.4559389939601579,
+    "rating_score": 4.0,
+    "sentiment_score": 0.8001203607767821
+  },
+  "review_evidence": {
+    "positive_snippets": [
+      "I had such a relaxing and enjoyable stay at this hotel! From the moment I arrived, the staff made me feel welcome and taken care of. The room was super clean, cozy, and had everything I needed for a comfortable stay. I especially loved the peaceful atmosphere and how quiet it was at night perfect for a good night\u2019s sleep.\n\nThe location was also really convenient, with easy access to nearby attractions and restaurants. The hotel team was always smiling and ready to help, which made the whole experience even better.\n\nHonestly, it felt like a home away from home. I\u2019d definitely recommend this place to anyone looking for a comfortable and friendly stay. Can\u2019t wait to come back again",
+      "This place is so nice and beautiful I'm visiting this beautiful hotel since 2022 and their service superbly amazing and the staff is so cooperative and nice specially Mt Rohit host of this property is so nice and gentleman\nThank you team jpm for welcoming me everytime",
+      "Best hotel in this beautiful area of kailash colony very near to metro station and staff is super amazing specially the host Rohit he is superly amazing and very kind and helpful toward guest\nMust recommend\nThank you team Jpm"
+    ],
+    "negative_snippets": [
+      "Don't get fooled by photos and the Google location !! Yes it's in GK. But total waste of money.\n\"ROOMS ARE IN BASEMENT WITH POOR VENTILATION. BE AWARE OF IT !!\"\nFamily suite is OK. Deluxe room had terrible smell coming in washrooms.\nDespite asking the staff repeated times, no action was taken.\nComing to service..it's worst. No proper receptionist who can communicate professionally. There are 2 service boys who don't take any request seriously. Despite our request to get us the breakfast early so that we can leave airport on time, when we woke at 8am, they were still sleeping.\nBreakfast service is terrible !!"
+    ]
+  },
+  "review_summary": "Based on 5 reviews.",
+  "positive_themes": {
+    "clean_rooms": 2,
+    "friendly_staff": 5,
+    "good_location": 3,
+    "good_food": 1
+  },
+  "negative_themes": {
+    "dirty_rooms": 1
+  }
+}

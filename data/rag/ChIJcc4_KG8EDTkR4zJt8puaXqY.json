@@ -1,0 +1,52 @@
+{
+  "hotel_id": "ChIJcc4_KG8EDTkR4zJt8puaXqY",
+  "hotel_name": "Club Platinum Resort",
+  "area": "Rohtak - Delhi Rd",
+  "budget_category": "Luxury",
+  "rating": 4.3,
+  "trust_score": 0.824898917195392,
+  "travel_purpose_tags": [
+    "Business"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "moderate",
+    "review_count": 5,
+    "positive_snippet_count": 3,
+    "negative_snippet_count": 1,
+    "positive_theme_count": 4,
+    "negative_theme_count": 2
+  },
+  "aspect_scores": {
+    "cleanliness": 0.5000703480473021,
+    "service": 0.999495267868042,
+    "location": 0.5,
+    "value_for_money": 0.9998539686203004,
+    "staff_behavior": 0.7498706354017486
+  },
+  "recommendation_features": {
+    "popularity_score": 0.6812197311884699,
+    "rating_score": 4.3,
+    "sentiment_score": 0.7997955618950072
+  },
+  "review_evidence": {
+    "positive_snippets": [
+      "\u2b50\u2b50\u2b50\u2b50\u2b50 Wonderful stay & great hospitality\n\nWe had an amazing time at this resort. The booking was affordable, and the overall experience was truly wonderful. The staff were extremely helpful and available at all times\u2014even late at night\u2014which made us feel very well taken care of.\n\nThe rooms were clean, the resort was green and spacious, and our group of 6 adults and 5 kids enjoyed it a lot, especially the kids. The Adventure Park activities were fun. The water park was closed due to winter, but the infrastructure looks very good.\n\nA special thanks to a very helpful Bengali staff member. The owner Mr. Chaddha personally checked in for feedback, which we really appreciated. We were also given a complimentary JBL Bluetooth speaker, which was a great gesture.\n\nSuggestion: Bathrooms should be rechecked once for better maintenance.\n\nOverall, a great family-friendly resort and highly recommended!",
+      "We had a really pleasant stay at the Club Platinum resort. The service and food quality were excellent and truly deserve full marks. Special thanks to Mr. Azhar \u2014 he was very nice, supportive, and always willing to help, which made our experience even better.\n\nOverall, it was a great stay. There is just a very small scope for improvement in cleanliness in a few areas, but it did not affect our overall experience. Would definitely recommend this place.",
+      "One of the best resort for party vibes, we had spend the times with kiddos. Seriously it is very nice place for kids and adults well. Staff well cooperative and food taste was also awesome."
+    ],
+    "negative_snippets": [
+      "This is literally pathetic resort to visit we have visited first time in this property and the experience was very bad.\nInexperienced staff, their manager Udit was very sweet over the call but the moment we checked-in his behaviour was very rude.\nbed bugs are there, washrooms were dirty.\n\nAlso we have checked in at 5pm in the evening & they asked us to check out at 9am in the morning itself.\n\nFood is also not good, they have totally ruined our weekend experience.\n\nSmelly pillow, dirty washroom & room services was also pathetic."
+    ]
+  },
+  "review_summary": "Based on 5 reviews.",
+  "positive_themes": {
+    "clean_rooms": 3,
+    "friendly_staff": 4,
+    "great_value": 1,
+    "good_food": 4
+  },
+  "negative_themes": {
+    "dirty_rooms": 1,
+    "rude_staff": 1
+  }
+}

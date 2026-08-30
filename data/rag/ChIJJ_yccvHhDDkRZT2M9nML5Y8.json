@@ -1,0 +1,50 @@
+{
+  "hotel_id": "ChIJJ_yccvHhDDkRZT2M9nML5Y8",
+  "hotel_name": "Golden Keys Inn",
+  "area": "New Delhi",
+  "budget_category": "Budget",
+  "rating": 4.0,
+  "trust_score": 0.7089386017566223,
+  "travel_purpose_tags": [
+    "Budget"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "rich",
+    "review_count": 5,
+    "positive_snippet_count": 3,
+    "negative_snippet_count": 2,
+    "positive_theme_count": 4,
+    "negative_theme_count": 0
+  },
+  "aspect_scores": {
+    "cleanliness": 0.5,
+    "service": 0.6672909440627942,
+    "location": 0.0029754233546554,
+    "value_for_money": 0.003822787432,
+    "staff_behavior": 0.7504190491163172
+  },
+  "recommendation_features": {
+    "popularity_score": 0.6215684547174328,
+    "rating_score": 4.0,
+    "sentiment_score": 0.6010997967794538
+  },
+  "review_evidence": {
+    "positive_snippets": [
+      "MRs.Anjali was an expert Sure \ud83d\ude0a Here are a few ready-to-use breakfast feedback options\u2014pick the vibe you need or tweak them:\nPositive & Polite\nThe breakfast was fresh and well prepared. I especially enjoyed the variety and the taste. A great start to the day\u2014thank you!\nBalanced (Positive + Suggestion)\nBreakfast was enjoyable and nicely presented. The food tasted good, though a bit more variety or warmer items would make it even better.\nShort & Simple\nBreakfast was good and satisfying. Everything was fresh and tasty.\nConstructive Feedback\nThe breakfast was decent, but a few items were cold and the options were limited. Improving variety and temperature would really enhance the experience.\nVery Casual\nBreakfast was nice\u2014fresh food and good flavors. Would love to see a few more options next time!\nIf this is for a hotel review, school, office cafeteria, or a feedback form, tell me where it\u2019s going and how formal you want it\u2014I\u2019ll tailor it perfectly. \ud83c\udf73\u2615",
+      "I had a wonderful stay at this hotel. The hospitality was outstanding and the service was very prompt. A special thanks to the staff for being so professional and helpful especially komal Aparna and Chandni. Truly a great place to stay",
+      "Amazing hospitality! The service is quick, and the hotel environment is very pleasant. Everything was perfect! Housekeeping staff is good Sahil and Aparna provide good service"
+    ],
+    "negative_snippets": [
+      "Just had to book for a night stay during my travel. Location of the property is good and accessible. But the condition of rooms is not very good and not maintained properly. Wifi found not working. Food was pathetic. Staff was good and very polite. But staff can't solve everything on their own. Property own and management has to take initiative to improve the property.",
+      "Other than the location\nThere\u2019s no meaning to stay in this hotel.\nBy its looks and interior design it was OYO townhouse for sure.\nFood is also 2 star better order from outside don\u2019t go for the menu it may look cheaper but not worthy.\nKettles, room sizes, services all not upto the mark.\nDon\u2019t go for this hotel for more than 1.5k bucks. Room sizes are very small. Only suite rooms are good but they have kept them for 4K which also doesn\u2019t justify the worth."
+    ]
+  },
+  "review_summary": "Based on 5 reviews.",
+  "positive_themes": {
+    "friendly_staff": 4,
+    "good_food": 3,
+    "good_location": 2,
+    "great_value": 1
+  },
+  "negative_themes": {}
+}

@@ -1,0 +1,50 @@
+{
+  "hotel_id": "ChIJwXk9hdr9DDkR2FSvNa9XuIo",
+  "hotel_name": "Kaushal Palace Hotel",
+  "area": "Paharganj",
+  "budget_category": "Luxury",
+  "rating": 3.7,
+  "trust_score": 0.5115663290729999,
+  "travel_purpose_tags": [
+    "Budget"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "moderate",
+    "review_count": 5,
+    "positive_snippet_count": 1,
+    "negative_snippet_count": 3,
+    "positive_theme_count": 3,
+    "negative_theme_count": 1
+  },
+  "aspect_scores": {
+    "cleanliness": 0.0015586197841912,
+    "service": 0.5,
+    "location": 0.5003087241493631,
+    "value_for_money": 0.0015586197841912,
+    "staff_behavior": 0.3340586893609724
+  },
+  "recommendation_features": {
+    "popularity_score": 0.4818468137076482,
+    "rating_score": 3.7,
+    "sentiment_score": 0.2006085525092202
+  },
+  "review_evidence": {
+    "positive_snippets": [
+      "I have stayed at Hotel Kaushal Palace for 3 nights with my family and totally loved our stay, satisfied with the hospitality provided and staff behaviour. Also, the location of the hotel is good which includes a number of restaurants nearby."
+    ],
+    "negative_snippets": [
+      "It is not a family hotel, the way to hotel is also a garbage place, it has too much smell. The rooms are too bad in condition, I stayed in room 201 which has ac facility but it only get switched on, the temp was constant at 25 after changing several remotes too. It only have one wall fan with no rotation. The TV in the room also don't have recharge. Rest rooms are more bad than this. The behaviour of staff is also not upto the mark, they delays everything and hotel don't have its own kitchen. Online it has cheap rate but it also provides money to cab and auto drivers. Beware of that fraud too. Finally it's a 2/10 hotel. You can visit nearby other hotels after having a check. Highly suggtion to have a full check before paying.",
+      "I booked this hotel online without knowing that it is located near a red-light area. I was traveling with my family, so it was not a suitable or comfortable place for us to stay. When I requested a refund, the staff denied it, which was disappointing. I\u2019m writing this review so that other families don\u2019t face the same situation. Please check the location carefully before booking.",
+      "Worst experience I have got from this hotel . All promises they have made before check in , results to be lie . Not gonna suggest it to anyone . I will definitely ruin your hotel staying experience."
+    ]
+  },
+  "review_summary": "Based on 5 reviews.",
+  "positive_themes": {
+    "friendly_staff": 3,
+    "good_location": 4,
+    "great_value": 1
+  },
+  "negative_themes": {
+    "dirty_rooms": 1
+  }
+}

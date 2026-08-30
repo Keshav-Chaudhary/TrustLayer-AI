@@ -1,0 +1,52 @@
+{
+  "hotel_id": "ChIJf6Yq7tHjDDkR9wn1DIoV_GM",
+  "hotel_name": "Virohaa Hotel New Delhi",
+  "area": "Nehru Place",
+  "budget_category": "Mid-Range",
+  "rating": 4.2,
+  "trust_score": 0.8565201278069422,
+  "travel_purpose_tags": [
+    "Leisure",
+    "Business"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "moderate",
+    "review_count": 5,
+    "positive_snippet_count": 3,
+    "negative_snippet_count": 1,
+    "positive_theme_count": 4,
+    "negative_theme_count": 1
+  },
+  "aspect_scores": {
+    "cleanliness": 0.5,
+    "service": 0.990778386592865,
+    "location": 0.9997666478157043,
+    "value_for_money": 0.5,
+    "staff_behavior": 0.9960955858230592
+  },
+  "recommendation_features": {
+    "popularity_score": 0.5979388624635016,
+    "rating_score": 4.2,
+    "sentiment_score": 0.9960955858230592
+  },
+  "review_evidence": {
+    "positive_snippets": [
+      "I had my guests to stay here and feedback from them is very good.\n\nThis was third time my different guests have stayed here.\n.\nRooms are spacious_ staff is very very courteous. Special mention to Rinki who made the stay special as we put a cake and flower before the guests checked in as it was one of guests birthday and that was truly memorable.\n\nRakesh also along with other staff were very helpful.\n\nIf morning tea in winters can be served before 7.30 _ that would he great as that element was missing.\n\nRest all very good including breakfast offering",
+      "Was greeted by lovely Rinky at reception check in quick and easy then the friendly Rahul took my bags to my room. The room was spacious with a great walk in shower and nice hot water. Bed was more comfortable than I thought. My room was at front but I didn't notice traffic noise. Room was cleaned daily with fresh fluffy towels.Breakfast was sufficient with a good selection.\n\nI think its a bit overpriced for the standard of the hotel as its looking a bit tired and dated.",
+      "I stayed here for a period of 8 nights. The rooms were specious. The staff was courteous and helpful. Rinky and Yash made the cheickin and checkout very smooth and effortless. The breakfast served was good and rahul was always their to help. The best of the hotel was also the location as it right near nehruplace and the nehru enclave and nehru place metro are both very accessible. Kudos to house keeping staff sanjay and kumaras well for keeping the room as per my preference ."
+    ],
+    "negative_snippets": [
+      "We had a pleasant stay overall. I must specifically commend the Front Office team for their excellent hospitality; the check-in process was smooth, and the staff was incredibly welcoming and helpful throughout our visit. It is also a very kids-friendly property, and my children really enjoyed their time here.\nHowever, to make this a true 5-star experience, a few updates are needed. The breakfast menu felt a bit limited and could use more variety. Additionally, the in-room amenities (such as toiletries and coffee/tea supplies) were quite basic and could be improved to match the quality of the service. We would love to visit again and see these improvements!"
+    ]
+  },
+  "review_summary": "Based on 5 reviews.",
+  "positive_themes": {
+    "friendly_staff": 5,
+    "good_food": 4,
+    "clean_rooms": 1,
+    "good_location": 1
+  },
+  "negative_themes": {
+    "noise": 1
+  }
+}

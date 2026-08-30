@@ -1,0 +1,52 @@
+{
+  "hotel_id": "ChIJZyIlaxwZDTkRlnVSGo9liHo",
+  "hotel_name": "Paras Inn",
+  "area": "Sector 33",
+  "budget_category": "Budget",
+  "rating": 4.4,
+  "trust_score": 0.8170808342550158,
+  "travel_purpose_tags": [
+    "Budget"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "moderate",
+    "review_count": 5,
+    "positive_snippet_count": 3,
+    "negative_snippet_count": 1,
+    "positive_theme_count": 4,
+    "negative_theme_count": 2
+  },
+  "aspect_scores": {
+    "cleanliness": 0.9997439682483672,
+    "service": 0.5004855229053646,
+    "location": 0.5,
+    "value_for_money": 0.5,
+    "staff_behavior": 0.7500688201980665
+  },
+  "recommendation_features": {
+    "popularity_score": 0.581629146476342,
+    "rating_score": 4.4,
+    "sentiment_score": 0.8000178032554686
+  },
+  "review_evidence": {
+    "positive_snippets": [
+      "It was a great experience staying at Paras Inn. We stayed there for 10 days. The staff was very polite, including housekeeping and restaurant staff. The room size was a little small, but it was very neat and clean. The buffet breakfast was good\u2014limited items, but sufficient and tasty. There is also a big car parking area available. Overall, the experience was great \ud83d\udc4d\ud83c\udffb",
+      "\u2b50\ufe0f\u2b50\ufe0f\u2b50\ufe0f\u2b50\ufe0f\u2b50\ufe0f\n\nI had an excellent stay at this hotel. The accommodation was top-notch \u2014 spacious, clean, and very well maintained. The rooms are designed for comfort, with modern amenities and cozy interiors that make you feel at home. The housekeeping staff ensures everything is spotless and well-arranged.\n\nThe food was equally impressive. The restaurant serves a wide variety of dishes, each prepared with great taste and quality. From breakfast to dinner, every meal was fresh, flavorful, and beautifully presented. The service staff were polite, attentive, and always ready to help.\n\nOverall, this hotel offers the perfect blend of comfort and hospitality. If you\u2019re looking for the best accommodation along with delicious food, this is definitely the place to stay.",
+      "It's very neet and clean rooms.. Facility is very good . Food charges are Lil bit Higher than compared But overall I am very happy with hotel cleanliness."
+    ],
+    "negative_snippets": [
+      "Mosquitoes in the room the entire stay. The furniture and bed have sharp edges \u2014 I hurt myself multiple times. Check-in, check-out, and cafeteria policies are unnecessarily rigid and inconvenient. Front desk staff were particularly unfriendly and unhelpful.\n\nOverall, the experience felt less like a hotel and more like staying in a hostel run by an unreasonable warden. Would not recommend."
+    ]
+  },
+  "review_summary": "Based on 5 reviews.",
+  "positive_themes": {
+    "clean_rooms": 4,
+    "friendly_staff": 4,
+    "good_food": 3,
+    "good_location": 1
+  },
+  "negative_themes": {
+    "parking_issues": 1,
+    "rude_staff": 1
+  }
+}

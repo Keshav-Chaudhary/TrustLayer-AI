@@ -1,0 +1,52 @@
+{
+  "hotel_id": "ChIJn4Wvaj_dDDkR0OOyRUrFYsk",
+  "hotel_name": "Hotel O Dsg Residency",
+  "area": "Ajronda",
+  "budget_category": "Mid-Range",
+  "rating": 3.2,
+  "trust_score": 0.4980213368174702,
+  "travel_purpose_tags": [
+    "Budget"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "moderate",
+    "review_count": 5,
+    "positive_snippet_count": 2,
+    "negative_snippet_count": 3,
+    "positive_theme_count": 3,
+    "negative_theme_count": 2
+  },
+  "aspect_scores": {
+    "cleanliness": 0.4981449582264758,
+    "service": 0.5001450814888813,
+    "location": 0.500270224903943,
+    "value_for_money": 0.000572185817873,
+    "staff_behavior": 0.3994876681128517
+  },
+  "recommendation_features": {
+    "popularity_score": 0.4323454830297744,
+    "rating_score": 3.2,
+    "sentiment_score": 0.3994876681128517
+  },
+  "review_evidence": {
+    "positive_snippets": [
+      "I'm fully satisfied and give five stars rating because rooms very clean and hygiene. And one more things staff is very humble im stay hare five days for my company work",
+      "Very approachable hotel location for me and most important staff service is good and very friendly"
+    ],
+    "negative_snippets": [
+      "Room Not Provided \u2013 Very Bad Experience (18 Feb 2026)\n\nI booked a room through Agoda with a confirmed reservation. When I reached the hotel O DSG Residency Sector 20A, Near Neelam Ajronda Chowk, Mathura road Faridabad Haryana on 18 February 2026, the manager refused to provide the room. Instead, he demanded almost three times the confirmed booking price.\n\nEven after showing my booking confirmation, they denied accommodation at the agreed rate. This is completely unprofessional and unacceptable behavior.\n\nBecause of this, I faced serious inconvenience and had to struggle to find another place at the last minute.\n\nI strongly do NOT recommend this hotel O DSG Residency Sector 20A Faridabad Haryana Please be careful before booking.",
+      "I had made an online booking and the day before arrival, I called the hotel saying I'll check in late, around 9:30-10 PM. They agreed but when I reached hotel for check in they said there were no available rooms only because they wanted me to pay more than what I had booked for. The owner was very unprofessional, rude and was unbothered. I had recieved absolutely no message or notification saying my booking is cancelled (they didn't cancel it) but the hotel denied giving me a room to stay saying I don't care you can claim your refund and find another hotel. I am a student who had come for an exam and the day before exam they did this to me. And for what I saw environment of that hotel was shady and unpleasant. It was a very bad experience. I don't recommend this hotel to anyone.",
+      "Not valuable to money\nExtra money demand\nNot hygiene\nRoom and bed sheet are very dirty and smell\nService are not good\nConversation of hotel manager are not good\nSo pls request to you don't come in this hotel \ud83c\udfe8"
+    ]
+  },
+  "review_summary": "Based on 5 reviews.",
+  "positive_themes": {
+    "clean_rooms": 1,
+    "friendly_staff": 2,
+    "good_location": 2
+  },
+  "negative_themes": {
+    "rude_staff": 2,
+    "dirty_rooms": 1
+  }
+}

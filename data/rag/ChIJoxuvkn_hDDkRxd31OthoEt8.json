@@ -1,0 +1,44 @@
+{
+  "hotel_id": "ChIJoxuvkn_hDDkRxd31OthoEt8",
+  "hotel_name": "Hotel O My Comfortable",
+  "area": "Tughlakabad",
+  "budget_category": "Mid-Range",
+  "rating": 2.3,
+  "trust_score": 0.2522040399516456,
+  "travel_purpose_tags": [
+    "Budget"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "sparse",
+    "review_count": 5,
+    "positive_snippet_count": 0,
+    "negative_snippet_count": 3,
+    "positive_theme_count": 1,
+    "negative_theme_count": 0
+  },
+  "aspect_scores": {
+    "cleanliness": 0.5,
+    "service": 0.0015800745459273,
+    "location": 0.5,
+    "value_for_money": 0.0016130859730764,
+    "staff_behavior": 0.000735339456393
+  },
+  "recommendation_features": {
+    "popularity_score": 0.4286944341535564,
+    "rating_score": 2.3,
+    "sentiment_score": 0.0064377524540759
+  },
+  "review_evidence": {
+    "positive_snippets": [],
+    "negative_snippets": [
+      "It was the worst experience\ud83d\ude1e\u2639\ufe0f. The staff here is not good at all.\nAt the time of booking, I confirmed twice with customer care that if I wanted to check in at 10 a.m. in the morning, I would be able to do so. They clearly said yes, it would be possible.\nHowever, when I reached the hotel, the staff was sleeping and told me that check-in would only be allowed at 12 noon and not before that.\nI would never prefer to visit such a \ud83d\ude21place again.",
+      "Badly staff,no respect .when you booked online price is less,after you enter the hotel they are arguing to pay extra money.it was happened with today I was booked that hotel by oyo.after that I booked other hotel .",
+      "I get the worst experience ever in my life the room is so disgusting. The staff behaviour is too bad"
+    ]
+  },
+  "review_summary": "Based on 5 reviews.",
+  "positive_themes": {
+    "friendly_staff": 3
+  },
+  "negative_themes": {}
+}

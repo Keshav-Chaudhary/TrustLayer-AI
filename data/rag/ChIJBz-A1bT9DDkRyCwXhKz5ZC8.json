@@ -1,0 +1,49 @@
+{
+  "hotel_id": "ChIJBz-A1bT9DDkRyCwXhKz5ZC8",
+  "hotel_name": "Hotel Nirmal Mahal",
+  "area": "Paharganj",
+  "budget_category": "Mid-Range",
+  "rating": 3.9,
+  "trust_score": 0.6179304687353778,
+  "travel_purpose_tags": [
+    "Leisure"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "moderate",
+    "review_count": 5,
+    "positive_snippet_count": 2,
+    "negative_snippet_count": 3,
+    "positive_theme_count": 3,
+    "negative_theme_count": 0
+  },
+  "aspect_scores": {
+    "cleanliness": 0.500042392181058,
+    "service": 0.5000281696775346,
+    "location": 0.9998675584793092,
+    "value_for_money": 0.5,
+    "staff_behavior": 0.679261593768994
+  },
+  "recommendation_features": {
+    "popularity_score": 0.5463717555348572,
+    "rating_score": 3.9,
+    "sentiment_score": 0.4076438466145191
+  },
+  "review_evidence": {
+    "positive_snippets": [
+      "Hotel rooms are near and clean and staff also very good. Overall experience was amazing",
+      "I recently stayed at Hotel Nirmal mahal in Delhi Paharganj and had a fantastic experience. The hotel's location is ideal, with easy access to Nearest Metro Ramakrishna ashram Marg metro and New Delhi Railway station  and local attractions. The rooms were clean, spacious, and well-maintained, offering a comfortable stay.\n\nThe staff was exceptionally courteous and attentive, always ready to assist with a smile. The service was prompt, and the hospitality made us feel right at home.\n\nThe ambiance of the hotel is both peaceful and inviting, making it a perfect place to relax after a day of exploring Delhi. Overall, Hotel Nirmal mahal exceeded my expectations, and I would highly recommend it to anyone visiting the area. I look forward to staying here again on my next trip!"
+    ],
+    "negative_snippets": [
+      "No hygiene, there is no proper ventilation in the room. Very congested rooms , also blankets and pillows with bad odour. The management is poor , they don't even provide the dental kit for free, you need to pay even 10 rs for the colgate toothpaste. Bad experience. Not recommended for family and couple. Room stinks. Lift doesn't work properly.",
+      "The hotel is very old, and the room provided was not clean.  There was dampness and mold on the ceiling and walls, which was completely unhygienic.  Water was also constantly dripping in the bathroom due to dampness, making the hotel unsuitable for staying in.",
+      "Property is very nice. But their TV doesn't work. If we have to ask for the tv staff says we can give free channels only. If you are calling that we have to book room, TV is working . Staff says they are sold out, but booking shows online. Rather th\n\nThey do not even provide just a TV to Guest. Unbelievable and unexpected."
+    ]
+  },
+  "review_summary": "Based on 5 reviews.",
+  "positive_themes": {
+    "clean_rooms": 3,
+    "friendly_staff": 3,
+    "good_location": 2
+  },
+  "negative_themes": {}
+}

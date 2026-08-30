@@ -1,0 +1,50 @@
+{
+  "hotel_id": "ChIJwdp9bzADDTkRt_4Txb3SJn4",
+  "hotel_name": "Sarovar Portico Naraina",
+  "area": "Naraina",
+  "budget_category": "Mid-Range",
+  "rating": 4.1,
+  "trust_score": 0.8735953609598252,
+  "travel_purpose_tags": [
+    "Leisure",
+    "Business",
+    "Family"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "moderate",
+    "review_count": 5,
+    "positive_snippet_count": 3,
+    "negative_snippet_count": 0,
+    "positive_theme_count": 5,
+    "negative_theme_count": 0
+  },
+  "aspect_scores": {
+    "cleanliness": 0.9995897114276886,
+    "service": 0.9995450377464294,
+    "location": 0.9995312889417012,
+    "value_for_money": 0.999736189842224,
+    "staff_behavior": 0.9996418476104736
+  },
+  "recommendation_features": {
+    "popularity_score": 0.7353997829939201,
+    "rating_score": 4.1,
+    "sentiment_score": 0.9996418476104736
+  },
+  "review_evidence": {
+    "positive_snippets": [
+      "Dear Team,\n\nI recently stayed at your hotel and would like to share my feedback.\n\nOverall, the stay was pleasant. The location of the hotel is convenient, and the staff members were polite and cooperative throughout my visit. Check-in and check-out were smooth, and the room was reasonably comfortable.\n\nHowever, there are a few areas where improvement would help enhance the guest experience. The room cleanliness could be improved, especially in the bathroom area. Additionally, the response time for room service was slower than expected.\n\nThat said, I appreciate the efforts of the staff and believe that with a few improvements, the experience can be much better. I hope this feedback is taken constructively.\n\nThank you for your hospitality.\n\nKind regards,\nShakib Jamal",
+      "It's a very nice property in close proximity to Har ki paudi and the Railway Station. Very nice rooms and other amenities. It is the best hotel in for any Hindu rituals. Very courteous staff Pushpa and overall we had a very comfortable stay.",
+      "Excellent Stay at Sarovar Portico Naraina, Delhi \u2013 Highly Recommend for Budget Travelers!\nI stayed for one night at Sarovar Portico Naraina in Delhi with my friend and guests from Canada \ud83c\udde8\ud83c\udde6 . The rooms matched the price perfectly \u2013very good value, a bit old but perfectly okay and clean.\nBreakfast was a highlight: high quality with plenty of vegetarian and veg options, fully delicious and enjoyable Service was outstanding and  all staff were super supportive and hospitable.\nAt such a cheap price, this hotel is highly recommended. Great experience overall"
+    ],
+    "negative_snippets": []
+  },
+  "review_summary": "Based on 5 reviews.",
+  "positive_themes": {
+    "clean_rooms": 4,
+    "friendly_staff": 5,
+    "good_location": 2,
+    "great_value": 2,
+    "good_food": 2
+  },
+  "negative_themes": {}
+}

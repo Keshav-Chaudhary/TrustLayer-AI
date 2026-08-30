@@ -1,0 +1,46 @@
+{
+  "hotel_id": "ChIJrcVbzE3fDDkR0ONLilZcnO0",
+  "hotel_name": "Oyo Far338 Hotel Shree Krishna",
+  "area": "Main Road",
+  "budget_category": "Budget",
+  "rating": 4.0,
+  "trust_score": 0.4761584650570857,
+  "travel_purpose_tags": [
+    "Budget"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "sparse",
+    "review_count": 5,
+    "positive_snippet_count": 1,
+    "negative_snippet_count": 3,
+    "positive_theme_count": 1,
+    "negative_theme_count": 0
+  },
+  "aspect_scores": {
+    "cleanliness": 0.5,
+    "service": 0.5,
+    "location": 0.0005839304649271,
+    "value_for_money": 0.5,
+    "staff_behavior": 0.5
+  },
+  "recommendation_features": {
+    "popularity_score": 0.3660129152098967,
+    "rating_score": 4.0,
+    "sentiment_score": 0.0418495761114172
+  },
+  "review_evidence": {
+    "positive_snippets": [
+      "Beautiful"
+    ],
+    "negative_snippets": [
+      "There is no building like a hotel, worst location,",
+      "Nice but not good",
+      "Not good"
+    ]
+  },
+  "review_summary": "Based on 5 reviews.",
+  "positive_themes": {
+    "good_location": 1
+  },
+  "negative_themes": {}
+}

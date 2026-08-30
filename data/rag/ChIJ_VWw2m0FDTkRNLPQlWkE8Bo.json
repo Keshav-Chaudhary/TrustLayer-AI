@@ -1,0 +1,49 @@
+{
+  "hotel_id": "ChIJ_VWw2m0FDTkRNLPQlWkE8Bo",
+  "hotel_name": "Hotel Shyam Residency",
+  "area": "Mundka",
+  "budget_category": "Mid-Range",
+  "rating": 2.9,
+  "trust_score": 0.3048273511236172,
+  "travel_purpose_tags": [
+    "Budget"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "moderate",
+    "review_count": 5,
+    "positive_snippet_count": 0,
+    "negative_snippet_count": 3,
+    "positive_theme_count": 3,
+    "negative_theme_count": 2
+  },
+  "aspect_scores": {
+    "cleanliness": 0.0002406798230367,
+    "service": 0.0002687735250219,
+    "location": 0.0002125861210515,
+    "value_for_money": 0.0002125861210515,
+    "staff_behavior": 0.0002406798230367
+  },
+  "recommendation_features": {
+    "popularity_score": 0.3101942966885136,
+    "rating_score": 2.9,
+    "sentiment_score": 0.0003791117720538
+  },
+  "review_evidence": {
+    "positive_snippets": [],
+    "negative_snippets": [
+      "I had a very disappointing experience. The condition of the room was terrible\u2014dirty, poorly maintained, and definitely not as advertised. The staff was unhelpful and rude, showing no concern for guest comfort. This place feels like a complete scam. The photos are misleading, and the room was far from clean or livable. I strongly advise others to avoid this place. It was a waste of money and a very unpleasant stay.This place is a complete scam and highly unsafe, especially for women.\n\nStay away\u2014this is not a trustworthy or safe place to book.",
+      "This hotel has very poor rooms and services the toilets are bad the rooms are dusty and they never changes the bedsheets.\nIf you are hoping to stay here please atleast check under the best sheets they may have lot of bugs under it. Overall I hated my stay there. Please don't go there...",
+      "One of the worst hotel in the world.... If you booked before going hotel ...it's \ud83d\udcaf if you go there for check in they will not give you room ....they will tell no room vacant...if you pay them double only they will give room .... No reception is there .... Road infront hotel under construction.... In that area u will get smell of gutter also...the hotel manager is very rude....once again it's a full package of scam ... One more advice don't book this hotel from oyo ."
+    ]
+  },
+  "review_summary": "Based on 5 reviews.",
+  "positive_themes": {
+    "clean_rooms": 1,
+    "friendly_staff": 1,
+    "great_value": 1
+  },
+  "negative_themes": {
+    "dirty_rooms": 2,
+    "rude_staff": 2
+  }
+}

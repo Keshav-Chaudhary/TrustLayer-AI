@@ -1,0 +1,50 @@
+{
+  "hotel_id": "ChIJz6cFNNcDDTkR2sR2snMfXUM",
+  "hotel_name": "Ramada By Wyndham New Delhi Pitampura",
+  "area": "New Delhi",
+  "budget_category": "Mid-Range",
+  "rating": 3.8,
+  "trust_score": 0.6349179119123874,
+  "travel_purpose_tags": [
+    "Budget"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "moderate",
+    "review_count": 5,
+    "positive_snippet_count": 1,
+    "negative_snippet_count": 3,
+    "positive_theme_count": 3,
+    "negative_theme_count": 1
+  },
+  "aspect_scores": {
+    "cleanliness": 0.5,
+    "service": 0.0033409197349101,
+    "location": 0.5,
+    "value_for_money": 0.0011810129508376,
+    "staff_behavior": 0.4680523821734823
+  },
+  "recommendation_features": {
+    "popularity_score": 0.7381879259243195,
+    "rating_score": 3.8,
+    "sentiment_score": 0.3746781083289533
+  },
+  "review_evidence": {
+    "positive_snippets": [
+      "Had a great dining experience at Ramada Hotel Pitampura. The ambiance is elegant and comfortable, the food is delicious with authentic flavors, and the presentation is impressive. The staff is courteous, attentive, and ensures a pleasant experience throughout. Overall, a perfect place for family dinners or business meetings. Highly recommended!"
+    ],
+    "negative_snippets": [
+      "I had booked 2 rooms from 02.01.26 to 04.01.26. The other confirmation number is 90055EE057429. My grievance is that I have been charger extra while checking out. My total bill was approximately 29,300 INR. However, while making the booking, I had received a final amount of approximately 20,200 INR. The hotel manager admitted to confusion regarding my billing amount as well as I unfortunately had made a couple of cancellations and re-bookings from the same email account within a 48 hour period. He showed me bills where they had randomly decided to select an amount as they weren\u2019t sure which one was applicable in my case. The reason for my cancellations and re modifications to my booking was I could see an offer at the time from Ramada about joining the reward program and getting a discount of 1000+ INR per night, which I chose at the time and hence my bill went down to approximately 20,200 INR during booking. The hotel manager could not see this discount in his system, so he applied the higher rate. I request you to kindly look into this matter and refund me the excess amount. Our stay was also unfortunately not pleasant as the hotel staff was rude to us on 2 occasions and there were several arguments. I have heard great things about Ramada, the hotel chain belonging to the premier category and i hopeful that you will look into this matter and be fair. I must also add that i had booked an extra mattress for 1 guest for 1 night amounting to 1500 INR extra, please take that into consideration as well. Thank you.",
+      "We have booked here for our daughters mehndi.\nDecoration and lighting was good.\nFlowers decoration was ok and flowers were very sad not at all fresh.\nThe swing design we shared to make the same was not even 20% closed to the one they designed.  Fabrics they used was different from what we suggested.\nSoft drinks was not fizzy and other beverages were not tasty. Food and snacks were amazing and serving was good. Staff was good. Cooling of air conditioning wasn\u2019t enough effective.",
+      "Worst rooms. I booked it online from Germany. I was tired after travel but when arrived here, i was so disappointed to see the room. I wasn't in a condition to argue, left my heavy luggage here and went to another hotel, stayed there at night and came back here next morning to pick up my luggage. Please don't waste your time, energy and money by booking this. You would get a better room than this in any random hotel nearby. Please don't book this hotel."
+    ]
+  },
+  "review_summary": "Based on 5 reviews.",
+  "positive_themes": {
+    "friendly_staff": 4,
+    "good_food": 3,
+    "good_location": 1
+  },
+  "negative_themes": {
+    "rude_staff": 1
+  }
+}

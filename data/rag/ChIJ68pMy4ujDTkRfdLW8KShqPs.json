@@ -1,0 +1,47 @@
+{
+  "hotel_id": "ChIJ68pMy4ujDTkRfdLW8KShqPs",
+  "hotel_name": "Hotel White Castle Kharkhoda",
+  "area": "Barona",
+  "budget_category": "Mid-Range",
+  "rating": 4.7,
+  "trust_score": 0.8557976530812738,
+  "travel_purpose_tags": [
+    "Leisure",
+    "Business"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "moderate",
+    "review_count": 5,
+    "positive_snippet_count": 3,
+    "negative_snippet_count": 0,
+    "positive_theme_count": 3,
+    "negative_theme_count": 0
+  },
+  "aspect_scores": {
+    "cleanliness": 0.999795377254486,
+    "service": 0.991849422454834,
+    "location": 0.991849422454834,
+    "value_for_money": 0.5,
+    "staff_behavior": 0.999795377254486
+  },
+  "recommendation_features": {
+    "popularity_score": 0.2788721589039871,
+    "rating_score": 4.7,
+    "sentiment_score": 0.9982088804244996
+  },
+  "review_evidence": {
+    "positive_snippets": [
+      "I highly recommend Hotel white Castel kharkhoda because of its clean and comfortable rooms, top-notch amenities, and attentive staff\ud83d\udc4c\ud83d\udc4c\ud83d\udc4c",
+      "Very nice hotel and all staffs are well trained.",
+      "Good service\nFor corporate guests to IMT Kharkhoda\nNear maruti plant\nBest part having pickup drop facility to maruti plant"
+    ],
+    "negative_snippets": []
+  },
+  "review_summary": "Based on 5 reviews.",
+  "positive_themes": {
+    "clean_rooms": 1,
+    "friendly_staff": 2,
+    "good_location": 1
+  },
+  "negative_themes": {}
+}

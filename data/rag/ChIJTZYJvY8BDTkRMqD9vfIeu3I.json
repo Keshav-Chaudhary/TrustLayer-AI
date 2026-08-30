@@ -1,0 +1,49 @@
+{
+  "hotel_id": "ChIJTZYJvY8BDTkRMqD9vfIeu3I",
+  "hotel_name": "Skymax Hotel",
+  "area": "Rohini",
+  "budget_category": "Mid-Range",
+  "rating": 4.9,
+  "trust_score": 0.9428015889635016,
+  "travel_purpose_tags": [
+    "Leisure",
+    "Business",
+    "Family"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "moderate",
+    "review_count": 5,
+    "positive_snippet_count": 3,
+    "negative_snippet_count": 0,
+    "positive_theme_count": 4,
+    "negative_theme_count": 0
+  },
+  "aspect_scores": {
+    "cleanliness": 0.999831477801005,
+    "service": 0.9998383820056916,
+    "location": 0.999835580587387,
+    "value_for_money": 0.999822437763214,
+    "staff_behavior": 0.999831199645996
+  },
+  "recommendation_features": {
+    "popularity_score": 0.5604959411985173,
+    "rating_score": 4.9,
+    "sentiment_score": 0.9998294472694396
+  },
+  "review_evidence": {
+    "positive_snippets": [
+      "I had a great experience at the Airbnb I stayed in. The apartment was incredibly spacious and equipped with all the necessary kitchen appliances. The bed was very comfortable, ensuring a good night's sleep.\n\nWhat truly made this place exceptional was the staff. They were incredibly accommodating and helpful throughout my stay. Upon arrival, they surprised me with personalized gifts including a diary, pen, and card holder, all bearing my name. Their responsiveness was outstanding; they would reply to my messages instantly and went above and beyond to assist with anything I needed. They even offered to pick up items for me and provided scooter rides when requested.\n\nOverall, it was a wonderful stay and I am truly grateful for the exceptional service. Thank you so much!",
+      "The room had a huge, comfortable bed. The owner of the hotel was very kind and brought personalised cups for us all which was very touching.\n\nThe absolute best thing about this hotel though was the staff. They truly were amazing. They did everything for us including taking us out to buy things, even offering to walk with us when we first arrived because Delhi was quite overwhelming at first. When I got sick they were very concerned and looked after me. They all truly went above and beyond without ever once wishing to be rewarded for their kindness. Wonderful people \u2665\ufe0f",
+      "We had a wonderful stay! The location was perfect for sightseeing, and the hotel staff made us feel at home. The room was spotless and spacious, with crisp bed sheets and all the amenities we needed, including a water boiler and safe deposit box. The mattress was incredibly comfortable, and the decor was tasteful. I highly recommend it\u201d\n\nRaj Bhardwaj"
+    ],
+    "negative_snippets": []
+  },
+  "review_summary": "Based on 5 reviews.",
+  "positive_themes": {
+    "friendly_staff": 5,
+    "clean_rooms": 3,
+    "good_location": 2,
+    "great_value": 1
+  },
+  "negative_themes": {}
+}

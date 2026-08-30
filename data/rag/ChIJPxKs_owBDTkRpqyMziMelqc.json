@@ -1,0 +1,46 @@
+{
+  "hotel_id": "ChIJPxKs_owBDTkRpqyMziMelqc",
+  "hotel_name": "Hotel Shri Sai Deluxe - 1 Min From Adarsh Nagar Metro I Couple, Business And Family Friendly I Budget Hotel In Adarsh Nagar",
+  "area": "New Delhi",
+  "budget_category": "Budget",
+  "rating": 4.5,
+  "trust_score": 0.8550853597173897,
+  "travel_purpose_tags": [
+    "Business",
+    "Family"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "moderate",
+    "review_count": 5,
+    "positive_snippet_count": 3,
+    "negative_snippet_count": 0,
+    "positive_theme_count": 2,
+    "negative_theme_count": 0
+  },
+  "aspect_scores": {
+    "cleanliness": 0.99981090426445,
+    "service": 0.9998108545939128,
+    "location": 0.5,
+    "value_for_money": 0.9997603297233582,
+    "staff_behavior": 0.99982351064682
+  },
+  "recommendation_features": {
+    "popularity_score": 0.3981140517963074,
+    "rating_score": 4.5,
+    "sentiment_score": 0.999815022945404
+  },
+  "review_evidence": {
+    "positive_snippets": [
+      "I recently stayed at this hotel during a business trip, and I must say it exceeded my expectations in every way.\nCheck-in & Service: The staff were exceptionally courteous, efficient, and attentive, making the entire process seamless.\nRoom Quality: Spacious, spotless, and thoughtfully designed with ancient amenities.\nBestest hotel Shri Sai deluxe in Adarsh Nagar,delhi budget friendly",
+      "I recently stayed at this hotel and honestly it was such a wonderful experience from start to finish. The moment I entered, the ambience felt so calm, clean, and welcoming. The staff was extremely polite, friendly, and always ready to help with a smile. Their hospitality truly made the stay even more comfortable.",
+      "My wife and I had a truly wonderful stay at this hotel from the we arrived,the staff made us feel warmly welcomed and well taken care of. The professionalism,kindness and genuine hospitality stood out throughout our visit. Bestest hotel in adarsh nagar delhi\nWe highly recommend this hotel to couples and anyone looking for outstanding service and welcoming atmosphere."
+    ],
+    "negative_snippets": []
+  },
+  "review_summary": "Based on 5 reviews.",
+  "positive_themes": {
+    "clean_rooms": 2,
+    "friendly_staff": 4
+  },
+  "negative_themes": {}
+}

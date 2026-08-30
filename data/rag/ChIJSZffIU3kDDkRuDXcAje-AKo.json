@@ -1,0 +1,53 @@
+{
+  "hotel_id": "ChIJSZffIU3kDDkRuDXcAje-AKo",
+  "hotel_name": "Hotel P.K. Residency",
+  "area": "Sector 27",
+  "budget_category": "Mid-Range",
+  "rating": 3.9,
+  "trust_score": 0.7055010905044833,
+  "travel_purpose_tags": [
+    "Leisure"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "rich",
+    "review_count": 5,
+    "positive_snippet_count": 3,
+    "negative_snippet_count": 2,
+    "positive_theme_count": 5,
+    "negative_theme_count": 1
+  },
+  "aspect_scores": {
+    "cleanliness": 0.5,
+    "service": 0.4998685078098788,
+    "location": 0.9994448721408844,
+    "value_for_money": 0.5036873938515781,
+    "staff_behavior": 0.7497382589317567
+  },
+  "recommendation_features": {
+    "popularity_score": 0.6674650917017039,
+    "rating_score": 3.9,
+    "sentiment_score": 0.6013942511141067
+  },
+  "review_evidence": {
+    "positive_snippets": [
+      "Stayed here recently and overall had a pleasant experience. The hotel\u2019s location in Sector 27 is super convenient \u2014 close to shopping, metro, and restaurants, which made getting around Noida easy. Rooms were comfortable and the staff were polite and helpful throughout our stay. The breakfast was nice and the restaurant served good food. While some areas feel a bit dated and could use some renovation, it didn\u2019t take away from a comfortable stay. Good choice if you\u2019re looking for a well-located and affordable hotel in Noida",
+      "This is the first time I am facing such situation that staying at a hotel in Delhi. Many a hotel they are giving freely. Here at I have to pay an extra price for drinking water and the bottle cost actually 20 rs but they taken from us 33 while checking out.  They kept snacks packet also there fortunately me and my colleague didn't take if so for that also we have to get it payed. First of all it appears so embarassing don't you?.",
+      "The overall experience was really amazing. The staff was so helpful and kind. Special mention to the receptionist Nitesh sharma, he is such a kind and humble one."
+    ],
+    "negative_snippets": [
+      "Very Poor Experience at PK Residency\n\nI stayed at PK Residency, and my experience was extremely disappointing.\n\nThe lift was not working, and there was no prior information about it.\n\nThe staff was unprofessional and uncooperative, and proper service was not provided.\n\nCleanliness was very poor throughout the property.\n\nThe breakfast buffet was completely cold, and there was no staff available to assist or even take feedback.\n\nWhen we ordered food, the staff inside the kitchen were arguing among themselves about who would prepare the order, which was very uncomfortable and unprofessional to witness.\nAnd worst thing is that if someone is giving genuine review they are blaiming to the reviewer.\n\nOverall, this hotel fails to meet even basic hospitality standards. I do not recommend this place to anyone and suggest management take immediate corrective",
+      "Booked this hotel from Agoda.\nLocation and service was fine.\nFood is Good.\nPlease check and confirm the room category you booked and you have been alloted.\nStaff was polite."
+    ]
+  },
+  "review_summary": "Based on 5 reviews.",
+  "positive_themes": {
+    "friendly_staff": 4,
+    "good_location": 2,
+    "great_value": 1,
+    "good_food": 3,
+    "clean_rooms": 1
+  },
+  "negative_themes": {
+    "rude_staff": 1
+  }
+}

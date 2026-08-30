@@ -1,0 +1,48 @@
+{
+  "hotel_id": "ChIJ09LJrqwHDTkR6EUOtQ_cFqg",
+  "hotel_name": "Hotel Blue Daimond Rohini",
+  "area": "New Delhi",
+  "budget_category": "Mid-Range",
+  "rating": 4.4,
+  "trust_score": 0.7495743326927558,
+  "travel_purpose_tags": [
+    "Business",
+    "Family"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "moderate",
+    "review_count": 5,
+    "positive_snippet_count": 3,
+    "negative_snippet_count": 1,
+    "positive_theme_count": 2,
+    "negative_theme_count": 0
+  },
+  "aspect_scores": {
+    "cleanliness": 0.9996028542518616,
+    "service": 0.999829798936844,
+    "location": 0.5,
+    "value_for_money": 0.9998507499694824,
+    "staff_behavior": 0.99981752038002
+  },
+  "recommendation_features": {
+    "popularity_score": 0.2637433020525564,
+    "rating_score": 4.4,
+    "sentiment_score": 0.8003509102854878
+  },
+  "review_evidence": {
+    "positive_snippets": [
+      "Reasonable price and wonderful service by hotel staff all things are working thanku hotel blue Diamond for this service",
+      "Nice experience with this hotel and night Manager also good behaviour",
+      "Rooms and washroom neet and clean maneger very sweet"
+    ],
+    "negative_snippets": [
+      "please don\u2019t share your personal no . hotel wale massage krte hai girls please apna no. mt do"
+    ]
+  },
+  "review_summary": "Based on 5 reviews.",
+  "positive_themes": {
+    "friendly_staff": 1,
+    "clean_rooms": 1
+  },
+  "negative_themes": {}
+}

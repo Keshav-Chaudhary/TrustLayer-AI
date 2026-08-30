@@ -1,0 +1,52 @@
+{
+  "hotel_id": "ChIJERGjA9qrDTkRDLW8qze8P0I",
+  "hotel_name": "Hotel Sudhir",
+  "area": "Sector 58",
+  "budget_category": "Mid-Range",
+  "rating": 3.5,
+  "trust_score": 0.5790186947532028,
+  "travel_purpose_tags": [
+    "Budget"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "moderate",
+    "review_count": 5,
+    "positive_snippet_count": 2,
+    "negative_snippet_count": 3,
+    "positive_theme_count": 3,
+    "negative_theme_count": 2
+  },
+  "aspect_scores": {
+    "cleanliness": 0.000247455725912,
+    "service": 0.499855378177017,
+    "location": 0.0662834793329238,
+    "value_for_money": 0.0662834793329238,
+    "staff_behavior": 0.6884225855271021
+  },
+  "recommendation_features": {
+    "popularity_score": 0.6050639639748128,
+    "rating_score": 3.5,
+    "sentiment_score": 0.4132182260160334
+  },
+  "review_evidence": {
+    "positive_snippets": [
+      "Budget friendly\nSome far away from Nagpur railway station",
+      "Please have your experience once, it is a good room, very good staff and cleanliness is very good"
+    ],
+    "negative_snippets": [
+      "We started taking hotel laundry service from Sudhir Hotel, but the experience was very disappointing. Some guest laundry items went missing, and we clearly informed them that if those clothes were found, we would return everything. After almost 20 days, we received the missing items and immediately handed them back.\n\nEven after that, the owner (Mandeep) refused to release our payment, saying the clothes were returned after a month. This is completely unfair because we still returned everything as soon as we got it.\n\nOur experience was unprofessional and caused a lot of inconvenience. Not recommended at all",
+      "The rooms of this hotel is very much dirty and smells badly. There is no proper maintenance of hygiene and rats were moving here and there. There were a lot of mosquito in the room.",
+      "Tidy rooms, kind staff, great city spot. Wi-Fi works, breakfast decent. Elevator slow, but four-star comfort. Will stay again!"
+    ]
+  },
+  "review_summary": "Based on 5 reviews.",
+  "positive_themes": {
+    "friendly_staff": 3,
+    "clean_rooms": 2,
+    "good_food": 1
+  },
+  "negative_themes": {
+    "rude_staff": 1,
+    "dirty_rooms": 1
+  }
+}

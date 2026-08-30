@@ -1,0 +1,51 @@
+{
+  "hotel_id": "ChIJ_____1DcDDkRKENDYcDWJ98",
+  "hotel_name": "Star City",
+  "area": "Sector 15A",
+  "budget_category": "Mid-Range",
+  "rating": 3.8,
+  "trust_score": 0.7726653605588846,
+  "travel_purpose_tags": [
+    "Leisure",
+    "Business",
+    "Family"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "moderate",
+    "review_count": 5,
+    "positive_snippet_count": 3,
+    "negative_snippet_count": 1,
+    "positive_theme_count": 4,
+    "negative_theme_count": 0
+  },
+  "aspect_scores": {
+    "cleanliness": 0.998759225010872,
+    "service": 0.9998117983341216,
+    "location": 0.9992617964744568,
+    "value_for_money": 0.997706651687622,
+    "staff_behavior": 0.9984221855799356
+  },
+  "recommendation_features": {
+    "popularity_score": 0.4494668257487076,
+    "rating_score": 3.8,
+    "sentiment_score": 0.998911201953888
+  },
+  "review_evidence": {
+    "positive_snippets": [
+      "Room are spacious and clean good service and nearby metro station",
+      "Lovely and clean hotel. Friendly staff who are happy to help. Room service is also super fast and easy to use. Would recommend this hotel.",
+      "Very gud option as budget hotel with neat & clean rooms. home type food, friendly staff & easy to reach."
+    ],
+    "negative_snippets": [
+      "Staff are very nice, professional, helpful, kind\nPrice is good, they offer good food.\nLocation is OK, 1km to metro station, 1.3km to the sector 15 market. Clean and calm. Most of the rooms has old furniture, beds are not so comfy, bathrooms are old, but they have few renovated rooms for higher price."
+    ]
+  },
+  "review_summary": "Based on 5 reviews.",
+  "positive_themes": {
+    "clean_rooms": 4,
+    "good_location": 3,
+    "friendly_staff": 3,
+    "good_food": 3
+  },
+  "negative_themes": {}
+}

@@ -1,0 +1,48 @@
+{
+  "hotel_id": "ChIJjXIMuls9DTkRhBhavLC_ajo",
+  "hotel_name": "Holiday Inn Gurugram Sector 90 By Ihg",
+  "area": "Gurugram",
+  "budget_category": "Budget",
+  "rating": 4.3,
+  "trust_score": 0.9098563733974352,
+  "travel_purpose_tags": [
+    "Leisure",
+    "Business"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "moderate",
+    "review_count": 5,
+    "positive_snippet_count": 3,
+    "negative_snippet_count": 0,
+    "positive_theme_count": 4,
+    "negative_theme_count": 0
+  },
+  "aspect_scores": {
+    "cleanliness": 0.9997179905573528,
+    "service": 0.9997408092021942,
+    "location": 0.9996508955955504,
+    "value_for_money": 0.5,
+    "staff_behavior": 0.9998205304145812
+  },
+  "recommendation_features": {
+    "popularity_score": 0.7806884965618124,
+    "rating_score": 4.3,
+    "sentiment_score": 0.9997717022895812
+  },
+  "review_evidence": {
+    "positive_snippets": [
+      "Had a great experience at Holiday Inn once again. I had stayed there earlier in April 2025. Great ambience and excellent service by the staff. Like last time, we got an upgrade for our room. Room service was excellent and we were promptly provided with an extra chair on request.\n\nBreakfast spread is delectable, and most of the staff there is very courteous and helpful. Teresa recognised us from our last trip and went the extra mile to make us comfortable. Head Chef Prakash Yadav, Restaurant Manager Vinay, Restaurant Beverage manager Krishan Kumar made it a point to go to each guest to make them feel welcome. The apple jalebis merit a special mention.\n\nSpecial thanks to reservation supervisor Amrita Gharti for all her help in making our stay a memorable one.\nCheckin was super easy and smooth thanks to Swati. And so was the late check out courtesy Akanksha.\nHighly recommended",
+      "We stayed here two nights while visiting Delhi and New Delhi as a tourist. The food is good, the rooms were clean. Unfortunately, we didn't had the opportunity to try the pool. The view from the restaurant is a stunning view! \ud83c\udf03",
+      "I had a pleasant and comfortable stay overall. The rooms were good, clean, and well maintained, with neatly arranged amenities. The food was tasty, and the breakfast buffet had a good spread with plenty of options to choose from.\nThe ambience inside the hotel is nice and well managed, making the stay enjoyable once you\u2019re in. The entrance of the hotel looks okay, though it doesn\u2019t fully reflect how good the interiors and facilities are.\nOverall, the stay was good and comfortable, and I would consider visiting again."
+    ],
+    "negative_snippets": []
+  },
+  "review_summary": "Based on 5 reviews.",
+  "positive_themes": {
+    "friendly_staff": 1,
+    "good_food": 4,
+    "clean_rooms": 3,
+    "good_location": 1
+  },
+  "negative_themes": {}
+}

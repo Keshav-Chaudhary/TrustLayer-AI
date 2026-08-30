@@ -1,0 +1,52 @@
+{
+  "hotel_id": "ChIJI5Qg-hYeDTkRJPOLBw0uKeQ",
+  "hotel_name": "Lilywhite Hotel",
+  "area": "Chhatarpur",
+  "budget_category": "Mid-Range",
+  "rating": 4.0,
+  "trust_score": 0.7995771644328848,
+  "travel_purpose_tags": [
+    "Leisure",
+    "Business"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "moderate",
+    "review_count": 5,
+    "positive_snippet_count": 3,
+    "negative_snippet_count": 1,
+    "positive_theme_count": 3,
+    "negative_theme_count": 2
+  },
+  "aspect_scores": {
+    "cleanliness": 0.5,
+    "service": 0.999855488538742,
+    "location": 0.99978369474411,
+    "value_for_money": 0.0002100556594086,
+    "staff_behavior": 0.7499261818702507
+  },
+  "recommendation_features": {
+    "popularity_score": 0.749497826611771,
+    "rating_score": 4.0,
+    "sentiment_score": 0.7999089258810272
+  },
+  "review_evidence": {
+    "positive_snippets": [
+      "Our experience at Lily White Hotel, Chhatarpur for my daughter\u2019s wedding on 30th November 2025 was truly outstanding. The entire event was managed with remarkable professionalism and care by Mr. Aamir Khan and his team. From the beautiful d\u00e9cor to the seamless coordination of every ceremony, everything exceeded our expectations.The hospitality extended by the staff was warm and genuine, making all our guests feel comfortable and well-attended. The food was delicious, the arrangements were elegant, and every detail was handled with perfection.A special thanks to Mr. Aamir Khan for his exceptional management and personal attention to every aspect of the celebration. His dedication ensured that our daughter\u2019s wedding became a memorable and joyous occasion for our family and friends.Highly recommended for anyone looking for a venue that combines beauty, excellent service, and flawless event management!\n\nAjay Kumar",
+      "One of the best banquet halls in Delhi! \ud83c\udf89\nWe attended a family function at LilyWhite Hotel, Chattarpur, and everything \u2014 from the food to the lighting \u2014 was top-notch. The ambiance gives a luxurious feel, and the management team was super helpful throughout the event. Great venue for corporate and family celebrations in South Delhi. \ud83d\udc4f",
+      "Had an amazing experience at LilyWhite Hotel, Chattarpur! \ud83c\udf3f\nThe banquet hall is spacious, beautifully decorated, and perfect for any event. The staff was very professional and managed everything smoothly from start to finish. The location in South Delhi is easily accessible, and parking was not an issue at all. Highly recommended for weddings or parties in Chattarpur! \ud83d\udcab"
+    ],
+    "negative_snippets": [
+      "I was extremely disappointed with the banquet services and staff. During the event, The staff were extremely rude and absolutely pathetic in the way they treated guests. If you choose gold plating instead of silver, they don\u2019t even provide the small snack plates. When guests asked for a small plate for items like aloo Tikki, the staff told them to take a full \u20b92 k meal plate just to have a \u20b950 aloo Tikki or Chowmein. On top of that, they are only focused on making money. During the booking they promised many things, but once the event started, none of those promises were kept. Their behavior was unprofessional, disrespectful, and completely unacceptable. Overall, it left a very bad impression on all the guests. Their attitude and behavior ruined the entire experience. I would not recommend this banquet team to anyone looking for professionalism, reliability, or basic customer care."
+    ]
+  },
+  "review_summary": "Based on 5 reviews.",
+  "positive_themes": {
+    "friendly_staff": 4,
+    "good_food": 3,
+    "good_location": 1
+  },
+  "negative_themes": {
+    "parking_issues": 1,
+    "rude_staff": 1
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "hotel_id": "ChIJR72LhAciDTkRwAKmjg0lFv4",
+  "hotel_name": "Tulip Residency",
+  "area": "Sector 55",
+  "budget_category": "Mid-Range",
+  "rating": 1.0,
+  "trust_score": 0.0,
+  "travel_purpose_tags": [
+    "Budget"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "sparse",
+    "review_count": 1,
+    "positive_snippet_count": 0,
+    "negative_snippet_count": 1,
+    "positive_theme_count": 1,
+    "negative_theme_count": 2
+  },
+  "aspect_scores": {
+    "cleanliness": 0.5,
+    "service": 0.0003816752578131,
+    "location": 0.5,
+    "value_for_money": 0.5,
+    "staff_behavior": 0.0003816752578131
+  },
+  "recommendation_features": {
+    "popularity_score": 0.0645249418272089,
+    "rating_score": 1.0,
+    "sentiment_score": 0.0003816752578131
+  },
+  "review_evidence": {
+    "positive_snippets": [],
+    "negative_snippets": [
+      "One of the most pathetic travel experiences of my life \u2014 thanks to both Tulip Residency and MakeMyTrip.\nIf you want stress, humiliation, and harassment, this combination is perfect.\n\nI had a fully prepaid 7-day booking confirmed by MakeMyTrip. But when I reached Tulip Residency, the hotel was completely shut. The main door was locked like some abandoned property. Not a single staff member was present. I stood on the road with all my luggage for 40 minutes like an idiot because of their incompetence.\n\nWhen I finally managed to get in through a back door, I encountered a sleepy, rude, shamelessly disrespectful caretaker, annoyed that I disturbed his afternoon nap. Instead of helping a guest who paid in advance, he denied my entry, refused to acknowledge my booking, and behaved as if I was trespassing.\nAbsolutely disgusting attitude.\n\nThis hotel is unprofessional, unreliable, unsafe and completely unfit for guests. Tulip Residency should be blacklisted from all platforms.\n\nBut MakeMyTrip is equally responsible.\n\nAfter Tulip Residency threw me out, I spent 1.5 hours on calls with multiple MMT executives, standing on the road under the sun with all my luggage. They kept passing the issue around like it was a game. No urgency, no ownership, nothing.\n\nFinally, after wasting more than 2 hours of my day, they shifted me to another hotel 2 km away \u2014 and I had to pay for the taxi myself. Their so-called \u201ccompensation\u201d was a basic, tasteless veg thali, which was an insult more than a gesture.\n\nMakeMyTrip claims to ensure safety and comfort, but in reality I was left stranded, stressed, and humiliated because of their lack of coordination and terrible vendor management.\n\nBoth Tulip Residency and MakeMyTrip are responsible for ruining my day and causing unnecessary mental and physical harassment.\nI will never trust this property again \u2014 and MMT seriously needs to fix its customer support and hotel verification process.\n\nTravelers beware. If you want peace of mind, avoid this hotel \u2014 and don\u2019t blindly trust MMT\u2019s listings."
+    ]
+  },
+  "review_summary": "Based on 1 reviews.",
+  "positive_themes": {
+    "friendly_staff": 1
+  },
+  "negative_themes": {
+    "rude_staff": 1,
+    "bad_food": 1
+  }
+}

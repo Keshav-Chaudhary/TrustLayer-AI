@@ -1,0 +1,45 @@
+{
+  "hotel_id": "ChIJSS6OdLcFDTkRIf0z1kCxSfw",
+  "hotel_name": "Udupi Hotel",
+  "area": "New Delhi",
+  "budget_category": "Mid-Range",
+  "rating": 4.5,
+  "trust_score": 0.780240344994173,
+  "travel_purpose_tags": [
+    "Budget"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "moderate",
+    "review_count": 5,
+    "positive_snippet_count": 3,
+    "negative_snippet_count": 0,
+    "positive_theme_count": 2,
+    "negative_theme_count": 0
+  },
+  "aspect_scores": {
+    "cleanliness": 0.5,
+    "service": 0.5166432298719883,
+    "location": 0.5,
+    "value_for_money": 0.5,
+    "staff_behavior": 0.8065388217568398
+  },
+  "recommendation_features": {
+    "popularity_score": 0.336139675368766,
+    "rating_score": 4.5,
+    "sentiment_score": 0.8065388217568398
+  },
+  "review_evidence": {
+    "positive_snippets": [
+      "Execellent food excellent staff. Even 5star hotel fails in terms of service",
+      "Veri nice hotel and supportive staff",
+      "Good atmosphere fully sefty And couple Friendly"
+    ],
+    "negative_snippets": []
+  },
+  "review_summary": "Based on 5 reviews.",
+  "positive_themes": {
+    "friendly_staff": 5,
+    "good_food": 1
+  },
+  "negative_themes": {}
+}

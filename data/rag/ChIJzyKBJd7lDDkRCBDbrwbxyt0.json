@@ -1,0 +1,47 @@
+{
+  "hotel_id": "ChIJzyKBJd7lDDkRCBDbrwbxyt0",
+  "hotel_name": "Hotel O Sathguru Residency Near New Ashok Nagar Metro Station",
+  "area": "New Ashok Nagar",
+  "budget_category": "Mid-Range",
+  "rating": 3.4,
+  "trust_score": 0.4367114419920264,
+  "travel_purpose_tags": [
+    "Budget"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "moderate",
+    "review_count": 5,
+    "positive_snippet_count": 0,
+    "negative_snippet_count": 3,
+    "positive_theme_count": 2,
+    "negative_theme_count": 1
+  },
+  "aspect_scores": {
+    "cleanliness": 0.0008758171364509,
+    "service": 0.0034912785049527,
+    "location": 0.0004713403031928,
+    "value_for_money": 0.0016847708029672,
+    "staff_behavior": 0.5
+  },
+  "recommendation_features": {
+    "popularity_score": 0.6163854178116852,
+    "rating_score": 3.4,
+    "sentiment_score": 0.0012927539472002
+  },
+  "review_evidence": {
+    "positive_snippets": [],
+    "negative_snippets": [
+      "Rooms is good but washroom is too smelly and unhinged they charged me 350 extra cost overall very bad experience kindly look another one.......",
+      "Very bad experience. This OYO property is not at all suitable for family occupancy but is being used more as couples 2-3 hrs stay for their private purpose. Location is horrible, rooms very dirty, broken furniture, commode cover missing. Horrible behaviour of the owner.\nAfter lot of argument and initiative of my family members, the room was cleaned, bedsheets changed and overall it was made ready for family stay.\nI am really very unhappy and not satisfied with the OYO Call Centre lady who just in order to close the sale, promoted me the property, even after being repeatedly told to suggest a property which would be suitable for family.",
+      "Rooms have small cockroaches,\nbathrooms have knobs rusted,\ngeyser was switched on and only light glows, when drained cold water for 25-30 min, no hot water.\nNone came to help for luggage during check out, I had huge luggage which I had to carry.\nOwner says, no one is there and I cannot come leaving reception. But while I was bringing luggage and loading on my bike he was with me seeing me sweating.\nAttitude of OYO business, has made them as our business is fixed. Customer  come or goes it doesn't matter attitude."
+    ]
+  },
+  "review_summary": "Based on 5 reviews.",
+  "positive_themes": {
+    "clean_rooms": 1,
+    "good_location": 2
+  },
+  "negative_themes": {
+    "dirty_rooms": 3
+  }
+}

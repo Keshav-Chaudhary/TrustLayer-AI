@@ -1,0 +1,48 @@
+{
+  "hotel_id": "ChIJDdqRm4vnDDkRVPs6i90nqM4",
+  "hotel_name": "Triom Hotel",
+  "area": "Pul Pehladpur",
+  "budget_category": "Mid-Range",
+  "rating": 3.8,
+  "trust_score": 0.4557086284916095,
+  "travel_purpose_tags": [
+    "Budget"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "moderate",
+    "review_count": 5,
+    "positive_snippet_count": 0,
+    "negative_snippet_count": 3,
+    "positive_theme_count": 2,
+    "negative_theme_count": 2
+  },
+  "aspect_scores": {
+    "cleanliness": 0.004387657623738,
+    "service": 0.0010556531779002,
+    "location": 0.0002755388268269,
+    "value_for_money": 0.0014733238349435,
+    "staff_behavior": 0.0025033941492438
+  },
+  "recommendation_features": {
+    "popularity_score": 0.4552416887252435,
+    "rating_score": 3.8,
+    "sentiment_score": 0.0015995741356163
+  },
+  "review_evidence": {
+    "positive_snippets": [],
+    "negative_snippets": [
+      "During Check in Hotel Reception Staff said Fake price mentioned for getting bookings on Booking.com and later they Demanding additionally 300/- more for Check in also they abusing OYO Management. Finally they not ready to give room as per booking invoice and I left from Reception. Hotel completely unsecured on reception they have unprofessional guys to handle harassment activity with guest.",
+      "It was pathetic hotel, if you book from OYO don't go there, they are not accepting OYO booking as they have internal issue with billing from OYO. Worst Hotel of Delhi Not Recommended specially couples as hotel management are street boys not secured.",
+      "It was pathetic hotel, if you book from Booking.com don't go there, they are not accepting booking as they have internal issue with billing from Booking.com also Worst hotel of Delhi for family not secured.they demanding more money during check in out of booking."
+    ]
+  },
+  "review_summary": "Based on 5 reviews.",
+  "positive_themes": {
+    "friendly_staff": 1,
+    "good_location": 1
+  },
+  "negative_themes": {
+    "rude_staff": 1,
+    "dirty_rooms": 1
+  }
+}

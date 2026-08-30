@@ -1,0 +1,48 @@
+{
+  "hotel_id": "ChIJ95pIbxIMDTkRS4oadXUcB64",
+  "hotel_name": "Hotel Daiwa Avenue 37",
+  "area": "Sector 37",
+  "budget_category": "Mid-Range",
+  "rating": 3.4,
+  "trust_score": 0.5740983315933552,
+  "travel_purpose_tags": [
+    "Budget"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "moderate",
+    "review_count": 5,
+    "positive_snippet_count": 3,
+    "negative_snippet_count": 1,
+    "positive_theme_count": 3,
+    "negative_theme_count": 0
+  },
+  "aspect_scores": {
+    "cleanliness": 0.9997079968452454,
+    "service": 0.0747796446084976,
+    "location": 0.5,
+    "value_for_money": 0.5,
+    "staff_behavior": 0.5194210229674354
+  },
+  "recommendation_features": {
+    "popularity_score": 0.3410402707054878,
+    "rating_score": 3.4,
+    "sentiment_score": 0.6154784177429974
+  },
+  "review_evidence": {
+    "positive_snippets": [
+      "Nice hotel with a pleasant experience, surrounded mostly by Japanese guests. Most of the hotel staff are from Uttarakhand. However, the chef was not as good as expected, and the management should look into this. Also, the breakfast options were very limited.",
+      "Superb experience of stay , staff is courteous and very friendly they are excellent team\n\nRanbir Ji and Shalini ji helped us a lot , thanks to food team they all took care of us\n\nGreat place to stay",
+      "Had a nice stay at Hotel Daiwa. Rooms are very clean and food is very good though options are limited."
+    ],
+    "negative_snippets": [
+      "Unfortunately, this hotel didn't meet expectations. The Room were very cold  and no heater was provided despite requeat. Group of guests drank alcohal in their rooms and shouted /sang songs in corridor till 2.30 night making it difficult to sleep. Staff were unhelful when issue was reported. Food was good but overall not  recommeded for family stay. Stayed with family on 15th Jan 26."
+    ]
+  },
+  "review_summary": "Based on 5 reviews.",
+  "positive_themes": {
+    "friendly_staff": 4,
+    "good_food": 4,
+    "clean_rooms": 1
+  },
+  "negative_themes": {}
+}

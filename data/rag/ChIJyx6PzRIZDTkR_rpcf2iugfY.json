@@ -1,0 +1,47 @@
+{
+  "hotel_id": "ChIJyx6PzRIZDTkR_rpcf2iugfY",
+  "hotel_name": "Roswell Inn",
+  "area": "DLF Phase IV",
+  "budget_category": "Budget",
+  "rating": 4.7,
+  "trust_score": 0.8780820061349883,
+  "travel_purpose_tags": [
+    "Leisure",
+    "Business"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "moderate",
+    "review_count": 5,
+    "positive_snippet_count": 3,
+    "negative_snippet_count": 0,
+    "positive_theme_count": 3,
+    "negative_theme_count": 0
+  },
+  "aspect_scores": {
+    "cleanliness": 0.9998813072840372,
+    "service": 0.9998713334401448,
+    "location": 0.9998751878738404,
+    "value_for_money": 0.5,
+    "staff_behavior": 0.9998766899108886
+  },
+  "recommendation_features": {
+    "popularity_score": 0.3811417720613274,
+    "rating_score": 4.7,
+    "sentiment_score": 0.9998766899108886
+  },
+  "review_evidence": {
+    "positive_snippets": [
+      "I had a truly pleasant stay at Roswell inn Hotel.The Hospitality was exceptional -   every staff members was warm, welcoming and always ready to help with a genuine smile . there professionalism blended beautiful ly with empathy and character, making the entire experience feel personal and comfortable.\nHighly recommend Roswell inn to anyone looking for a stay filled with comfort,warmth,and outstanding hospitality!",
+      "The hotel staff were incredibly warm and welcoming their professionalism and courtesy made our stay truly enjoyable from check-in to check-out every interaction was pleasant and efficient they went out of their way to ensure our needs were met making us feel right at home the services provided were top notch including prompt room service efficient laundry facilities and service behavior and attention to detail specially sanika was very polite and sweet.",
+      "The staff is wonderful! The food is delicious.The room are nice.Comfortable beds.clean.all of staff were kind and very helpful.Highly recommend!"
+    ],
+    "negative_snippets": []
+  },
+  "review_summary": "Based on 5 reviews.",
+  "positive_themes": {
+    "friendly_staff": 4,
+    "clean_rooms": 3,
+    "good_food": 2
+  },
+  "negative_themes": {}
+}

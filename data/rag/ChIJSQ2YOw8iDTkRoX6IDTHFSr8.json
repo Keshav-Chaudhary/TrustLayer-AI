@@ -1,0 +1,54 @@
+{
+  "hotel_id": "ChIJSQ2YOw8iDTkRoX6IDTHFSr8",
+  "hotel_name": "Hotel Mulberry Retreat",
+  "area": "Sector 57",
+  "budget_category": "Mid-Range",
+  "rating": 3.9,
+  "trust_score": 0.680316885736812,
+  "travel_purpose_tags": [
+    "Leisure"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "moderate",
+    "review_count": 5,
+    "positive_snippet_count": 2,
+    "negative_snippet_count": 3,
+    "positive_theme_count": 5,
+    "negative_theme_count": 2
+  },
+  "aspect_scores": {
+    "cleanliness": 0.4805624216387513,
+    "service": 0.4895052946230862,
+    "location": 0.9965278506278992,
+    "value_for_money": 0.0003684845869429,
+    "staff_behavior": 0.0005832685274071
+  },
+  "recommendation_features": {
+    "popularity_score": 0.5638248947327972,
+    "rating_score": 3.9,
+    "sentiment_score": 0.5915509372251109
+  },
+  "review_evidence": {
+    "positive_snippets": [
+      "Best place for get to gather, hosting party.Food is really amazing.The best part is the owner himself is very gud.",
+      "Fab mulberry hotel is a nice place to stay with. The best part about this hotel is they don't change the rate and have a fixed rate. Even if you're getting a cheaper rate online they ask you to get a cheaper rate online and book it online. If you're getting a higher rate online they still ask you if it's up to the guest if they book online or offline. They would not change the offline rate.\n\nFor instance in my case the studio which I booked was for fixed offline rate 1600, when on the day one I booked online it was for 1500 n I booked it for two days, on the third day I was getting 2100 for the same room but they gave me a fixed offline rate of 1600. This proves that they have fixed rates on business ethics. They are also very strict with guest policy and allow guests only after submission of guest id proof.\n\nToilets are clean n tidy. In the studio they have one two seater couch, 1 centre table, 1 stool, small dining table for two, a study table with chair. 1 tv, a bed with two side tables.\n\nA wardrobe, a microwave, an electric kettle, a small kitchen set up and a big balcony plus plus breakfast is complimentary. Everything is priced at \u20b91600 including taxes.\n\nThe reception service can improve and there is a room for improvement."
+    ],
+    "negative_snippets": [
+      "This property has now been converted into a paying guest (PG) facility, managed by a company called HelloWorld, which holds the property on lease. Unfortunately, my experience has been extremely disappointing. The staff here seems untrained and unprofessional, and the PG manager, Mr. Amit Dhariwal, is particularly unhelpful. He is rude, only interested in taking your money, and disappears when any issues arise. He barely visits the property and completely ignores guest concerns.\n\nThe HelloWorld management is irresponsible, and I would highly recommend avoiding this place if you\u2019re considering staying here. I wish I could give zero stars, but since that\u2019s not possible, I\u2019m giving one star. In reality, they deserve a negative rating. Stay elsewhere if you can.",
+      "The property is nice but needs some renovations in terms of paint and accessories, especially all the Matress in each and every room, they are just completely finished.\n\nYou need to change them and some kind of white wash, otherwise service was perfect, food is perfect, location is perfect.",
+      "No cleaning everywhere except reception which was underground. No security. Property manager doesn't care about customer. Unhygenic place. Rooms are big & have all things working in kitchen but they are highly dirty."
+    ]
+  },
+  "review_summary": "Based on 5 reviews.",
+  "positive_themes": {
+    "good_food": 3,
+    "clean_rooms": 2,
+    "great_value": 1,
+    "friendly_staff": 1,
+    "good_location": 1
+  },
+  "negative_themes": {
+    "rude_staff": 1,
+    "dirty_rooms": 1
+  }
+}

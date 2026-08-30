@@ -1,0 +1,48 @@
+{
+  "hotel_id": "ChIJ13hb8gyrDTkRwoJ7oZSQY5g",
+  "hotel_name": "Sahib Farms & Resorts",
+  "area": "Bakhtawarpur",
+  "budget_category": "Luxury",
+  "rating": 4.5,
+  "trust_score": 0.8202497363966409,
+  "travel_purpose_tags": [
+    "Budget"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "moderate",
+    "review_count": 5,
+    "positive_snippet_count": 3,
+    "negative_snippet_count": 1,
+    "positive_theme_count": 3,
+    "negative_theme_count": 0
+  },
+  "aspect_scores": {
+    "cleanliness": 0.999886393547058,
+    "service": 0.5161182321608067,
+    "location": 0.5,
+    "value_for_money": 0.5,
+    "staff_behavior": 0.9998027384281158
+  },
+  "recommendation_features": {
+    "popularity_score": 0.5245415137652918,
+    "rating_score": 4.5,
+    "sentiment_score": 0.8063420906662941
+  },
+  "review_evidence": {
+    "positive_snippets": [
+      "We stayed at this beautiful property while attending a wedding here, and it exceeded every expectation. The setting was stunning and impeccably maintained, with a relaxed yet elegant atmosphere that made the entire experience feel special from the moment we arrived.\n\nWhat truly set this place apart, though, was the food\u2014it was genuinely above and beyond. Every meal was thoughtfully prepared, beautifully presented, and absolutely delicious, easily rivaling top-tier restaurants. The quality, variety, and attention to detail were outstanding.\n\nThe staff were warm, attentive, and incredibly professional, making sure everything ran seamlessly while still feeling personal and welcoming. It was the perfect venue for a wedding and an unforgettable place to stay. I wouldn\u2019t hesitate to recommend this property to anyone looking for something truly exceptional",
+      "I recently visited Sahib Farms for my niece\u2019s wedding, and it was truly a memorable experience. The overall atmosphere was warm, welcoming and beautifully managed.\n\nThe rooms were spacious and clean. The food deserves a special mention \u2014 every meal was incredibly delicious. The d\u00e9cor for the wedding functions was elegant and perfectly matched with the theme. Very thoughtfully done, creating a perfect ambience for every ceremony.\n\nThe hospitality was great. The staff was polite, supportive and always ready to help. Every moment in the wedding was smooth and enjoyable.\n\nKudos to the entire team for making the celebration of our family so special and memorable. I would highly recommend this resort for weddings and family gatherings \u2014 a wonderful experience overall.",
+      "The best place for destination wedding.\nspecial thanks to.sahil,(owner),dhruv (photographer and manager)and mr Praveen ( owner) for making my dream come true for doing such grand arrangement in my daughters wedding that all the guests were so much happy and amazed.\neach and everything,rooms,decor,dj, cutlery etc etc was out of the world.\nthey are all so down to earth that anytime you can approach any of the these guys and consider your work is done.\nI highly recommend Sahib farms and resorts for any kind of function.\nI have already booked for my son's wedding which might happen five yrs from now :).\nSpecial thanks to Mr Praveen who actually took care of me like his sister.\nThree cheers to the sahib team.\nI wish them lot of success in future."
+    ],
+    "negative_snippets": [
+      "Cons: Negative first. Rates for food was not only higher side but the unreasonable side. I mean tawa roti of Rs. 59, it was just a loot. No rate card or food menu pasted in the kitchen. They would charge you anything for the food.\n\nPros: I think I would give this rating of 3 only because of service and room quality. The place was all good smalll and green. Swimming pool was small but well maintained."
+    ]
+  },
+  "review_summary": "Based on 5 reviews.",
+  "positive_themes": {
+    "friendly_staff": 3,
+    "good_food": 4,
+    "clean_rooms": 1
+  },
+  "negative_themes": {}
+}

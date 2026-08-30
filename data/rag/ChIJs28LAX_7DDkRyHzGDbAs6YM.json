@@ -1,0 +1,53 @@
+{
+  "hotel_id": "ChIJs28LAX_7DDkRyHzGDbAs6YM",
+  "hotel_name": "Park Plaza Delhi Cbd Shahdara",
+  "area": "Shahdara",
+  "budget_category": "Mid-Range",
+  "rating": 4.2,
+  "trust_score": 0.906780218911282,
+  "travel_purpose_tags": [
+    "Leisure",
+    "Business"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "rich",
+    "review_count": 5,
+    "positive_snippet_count": 3,
+    "negative_snippet_count": 2,
+    "positive_theme_count": 4,
+    "negative_theme_count": 1
+  },
+  "aspect_scores": {
+    "cleanliness": 0.9997375011444092,
+    "service": 0.9997072666883468,
+    "location": 0.999439299106598,
+    "value_for_money": 0.5,
+    "staff_behavior": 0.9996997863054276
+  },
+  "recommendation_features": {
+    "popularity_score": 0.8287785788945798,
+    "rating_score": 4.2,
+    "sentiment_score": 0.999736487865448
+  },
+  "review_evidence": {
+    "positive_snippets": [
+      "Lovly relaxed atmosphere at this hotel. Rooms are nice. Food delicious! From a wide range of choice at the evening buffet to a delightful array for breakfast. Great omlette! Manisha was a tremendous help with breakfast, providing guidance with a smile. Thank you Manisha x\n\nLovely buffet last night, very helpful man whose name we did not collect due to travel fatigue, but he was great.\n\nThe only negative comment we have is that the location is not ideal for us as first time visitors to Delhi. One way around this may be to offer a shuttle service to the metro.",
+      "My wife and I stayed in Park Plaza Delhi CBD Hotel for 2 nights during our Golden Triangle Tour by Lumle Holidays. We had a nice and spotless well maintained room on the 7th floor. The staff was very attentive, helpful  and friendly.\nIt was incredible dining experience in the hotel restaurant. The food was perfectly prepared with nice presentation. Gunjan, who was our server during breakfasts was very attentive and made great recommendations.\nOverall it was a great hotel experience.\nHighly recommend!",
+      "Hari Om Restaurant provided excellent service, and we are extremely happy with our experience. The staff was very courteous, attentive, and made sure all our needs were met. The ambiance was pleasant, and the food was delicious and freshly prepared. Overall, our visit was truly enjoyable, and we highly recommend Hari Om Restaurant to anyone looking for great service, tasty food, and a welcoming atmosphere.\"\nThank you so much.....Hariom"
+    ],
+    "negative_snippets": [
+      "I recently stayed at Hotel Park Plaza, Shahdara, and overall, it was a very pleasant and comfortable experience. The staff, housekeeping team, and reception deserve a special mention \u2014 they were warm, attentive, and ensured that I was well taken care of throughout my stay. Every request was handled promptly, and their professionalism truly added to the comfort of my visit.\n\nThat said, there are a couple of areas where I feel the hotel can significantly improve. The quality of food stands out as the biggest opportunity \u2014 both variety and taste could be enhanced to match the otherwise high standards of the property. A more diverse menu and better flavour profile would go a long way in elevating the overall guest experience.\n\nAdditionally, the hygiene of the common areas needs attention. The carpets appear worn-out and dirty, and certain spots \u2014 especially around the windows in the restaurant \u2014 have noticeable dust accumulation. Improving cleanliness in these shared spaces will greatly enhance the ambience and first impression.\n\nOverall, it was a comfortable stay with great service, and with a few improvements in food quality and common-area hygiene, the hotel can truly shine.",
+      "I would like to sincerely appreciate the excellent service provided during breakfast and room service. A special thanks to Mukul, Manisha, and Sanjeev for their politeness, prompt assistance, and attention to detail. They made the experience truly pleasant and comfortable. Their dedication and hospitality reflect great professionalism. Keep up the wonderful work!"
+    ]
+  },
+  "review_summary": "Based on 5 reviews.",
+  "positive_themes": {
+    "friendly_staff": 5,
+    "good_location": 1,
+    "good_food": 5,
+    "clean_rooms": 2
+  },
+  "negative_themes": {
+    "dirty_rooms": 1
+  }
+}

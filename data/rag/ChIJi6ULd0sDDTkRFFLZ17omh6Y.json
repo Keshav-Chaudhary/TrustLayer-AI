@@ -1,0 +1,52 @@
+{
+  "hotel_id": "ChIJi6ULd0sDDTkRFFLZ17omh6Y",
+  "hotel_name": "Fabhotel A One Pitampura Inn",
+  "area": "New Delhi",
+  "budget_category": "Budget",
+  "rating": 4.5,
+  "trust_score": 0.7186601604833879,
+  "travel_purpose_tags": [
+    "Leisure"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "moderate",
+    "review_count": 5,
+    "positive_snippet_count": 2,
+    "negative_snippet_count": 3,
+    "positive_theme_count": 3,
+    "negative_theme_count": 2
+  },
+  "aspect_scores": {
+    "cleanliness": 0.4922842892956396,
+    "service": 0.4845354453718755,
+    "location": 0.9683758616447448,
+    "value_for_money": 0.5,
+    "staff_behavior": 0.0001870254491223
+  },
+  "recommendation_features": {
+    "popularity_score": 0.3660129152098967,
+    "rating_score": 4.5,
+    "sentiment_score": 0.5936078479251592
+  },
+  "review_evidence": {
+    "positive_snippets": [
+      "Our stay was made even more wonderful by the comfortable bed, clean bathroom, and thoughtful touches throughout the hotel room.",
+      "The hotel room's tasteful furnishings and serene atmosphere made it an ideal space to unwind after a day of exploring the city."
+    ],
+    "negative_snippets": [
+      "The moment we entered the hotel it was stinking like rotten eggs rite next to the reception. We had to change our room twice because of uncleaned bedsheets and dirty stained pillows some of which were oil and even blood.\n\nLater on the room we received was still dirty.\n1. Commode seat had blood stains, used tissues in the commode and used towel on the washroom door.\n2. Entire room was chilly and had a bad odour.\n3. Walls were dirty, previous guests have spit on the walls.\n4.TV screen was damaged even had to ask water at the reception twice.\n5. Room was also infested with cockroaches.\n6. Wooden floor panel were broken. Ceiling lights were broken. Floor was dirty and sticky and a lot of places has cigarette burns even on the bedsheet.\n\nPlaces like these should upload actual recent photos rather than using fake, beautified photos or photos that have been taken a lifetime back when the place was opened.\n\nThis is my second encounter with fab hotels, earlier booking was also from agoda regarding the cleanliness and hygiene issue.\n\nI demand a 100% refund with immediate effect, awaiting feedback.",
+      "Please see this place twice before, considering as they have quite dirty and not well maintained room\nThe location is good as it is in the heart of the town of Pritam Pura. Moreover, they have parking facility and the service is very satisfactory, but I must say avoid going with couple and family.",
+      "UNCLEAN.\nWhy are there so many cockroaches?\n\nBad maintenence of rooms.\nTorn bedsheets, pillow covers.\nThey failed to clean even the mirror even after being told twice. Lazy. Very lazy staff"
+    ]
+  },
+  "review_summary": "Based on 5 reviews.",
+  "positive_themes": {
+    "clean_rooms": 3,
+    "good_location": 1,
+    "friendly_staff": 1
+  },
+  "negative_themes": {
+    "dirty_rooms": 3,
+    "parking_issues": 1
+  }
+}

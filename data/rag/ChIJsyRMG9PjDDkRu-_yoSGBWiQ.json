@@ -1,0 +1,49 @@
+{
+  "hotel_id": "ChIJsyRMG9PjDDkRu-_yoSGBWiQ",
+  "hotel_name": "Townhouse By Oyo Cr Park Near Lotus Temple",
+  "area": "Chittaranjan Park",
+  "budget_category": "Budget",
+  "rating": 3.5,
+  "trust_score": 0.4506978104293109,
+  "travel_purpose_tags": [
+    "Budget"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "moderate",
+    "review_count": 5,
+    "positive_snippet_count": 0,
+    "negative_snippet_count": 3,
+    "positive_theme_count": 4,
+    "negative_theme_count": 1
+  },
+  "aspect_scores": {
+    "cleanliness": 0.0015350728984533,
+    "service": 0.0007867532306893,
+    "location": 0.0024775911879259,
+    "value_for_money": 0.0039998083375394,
+    "staff_behavior": 0.0026007129927165
+  },
+  "recommendation_features": {
+    "popularity_score": 0.619553701560202,
+    "rating_score": 3.5,
+    "sentiment_score": 0.0013524420763132
+  },
+  "review_evidence": {
+    "positive_snippets": [],
+    "negative_snippets": [
+      "This place was a complete letdown. \ud83d\udc4e The rooms were dismal, service was non-existent,but the location is gr8. wouldn't recommend it to anyone. \ud83e\udd22",
+      "This is one of the worst places we have ever stayed.it is nothing like what it shows on google. room stinks. Very dirty bedroom/bathroom .dirty bedsheets and pillow cover.No hot water, intercom not working. Worst room service. Complimentary breakfast was given 1 hour after asking for it. While checking out, they asked extra charges for \"complimentary breakfast\". Door latches were not proper. there was a hole in the door through which they opened the door because the card wasnt working.",
+      "Pathetic hotel.\nReception staff Mohit is terrible at customer service. First he added extra amount for booking room then he gave a shitty room when I complaints he told me talk to Oyo get your refund and we can shift you to other hotel. Firstly they give you room with no TV working no AC working and threaten you to shift knowing it is waste of time.\nMahipalpur staff is better than this hotel specially this guy Mohit being a female I would say he doesn\u2019t have basic manners to talk to a women.\nNOT SAFE FOR WOMEN"
+    ]
+  },
+  "review_summary": "Based on 5 reviews.",
+  "positive_themes": {
+    "good_location": 2,
+    "good_food": 2,
+    "friendly_staff": 2,
+    "clean_rooms": 1
+  },
+  "negative_themes": {
+    "dirty_rooms": 3
+  }
+}

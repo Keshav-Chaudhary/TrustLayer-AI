@@ -1,0 +1,48 @@
+{
+  "hotel_id": "ChIJf6e9W1IDDTkRjU22Y7Hx3lU",
+  "hotel_name": "Oyo Hotel Golden Key Inn",
+  "area": "Rohini",
+  "budget_category": "Budget",
+  "rating": 3.1,
+  "trust_score": 0.3177621137845411,
+  "travel_purpose_tags": [
+    "Budget"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "moderate",
+    "review_count": 5,
+    "positive_snippet_count": 1,
+    "negative_snippet_count": 3,
+    "positive_theme_count": 1,
+    "negative_theme_count": 1
+  },
+  "aspect_scores": {
+    "cleanliness": 0.0014537243405357,
+    "service": 0.5,
+    "location": 0.5,
+    "value_for_money": 0.5,
+    "staff_behavior": 0.0006896812459065
+  },
+  "recommendation_features": {
+    "popularity_score": 0.2456693548613046,
+    "rating_score": 3.1,
+    "sentiment_score": 0.0006048218965588
+  },
+  "review_evidence": {
+    "positive_snippets": [
+      "Good \ud83d\udc4d"
+    ],
+    "negative_snippets": [
+      "A Big No for this  \u274c\u274c\u274c\n\nI want to do ratings in minus \u2796\nReason is\n\nThe room is so dingy and looks creepy as well as not good for the stay.\n\n2. Surrounding also not well everywhere spread  empty bottles of alcohol.\n\n3 very disappointed \u2639\ufe0f\n\n4 . When I. Said to upgrade my room into better one so they're said that you have to shift the room with same specifications but the condition were also will be the same . I attached some pictures .",
+      "Worst place to stay. Very rude Behaviour and No room services. Ask Extra charges after you confirm your booking via OYO. Suggest the couples do not stay here.",
+      "I had worst experience of staying there. Staff of this hotel is very unprofessional, there was nothing in washroom and when asked they said to take it from different floor and room. They were not responsible for their customers. Don't stay even in emergency also."
+    ]
+  },
+  "review_summary": "Based on 5 reviews.",
+  "positive_themes": {
+    "friendly_staff": 2
+  },
+  "negative_themes": {
+    "rude_staff": 3
+  }
+}

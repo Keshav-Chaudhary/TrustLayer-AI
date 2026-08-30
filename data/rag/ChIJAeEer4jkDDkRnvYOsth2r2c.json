@@ -1,0 +1,48 @@
+{
+  "hotel_id": "ChIJAeEer4jkDDkRnvYOsth2r2c",
+  "hotel_name": "Holiday Inn New Delhi Mayur Vihar Noida, An Ihg Hotel",
+  "area": "New Delhi",
+  "budget_category": "Budget",
+  "rating": 4.5,
+  "trust_score": 0.9676116376549428,
+  "travel_purpose_tags": [
+    "Business",
+    "Family"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "moderate",
+    "review_count": 5,
+    "positive_snippet_count": 3,
+    "negative_snippet_count": 0,
+    "positive_theme_count": 4,
+    "negative_theme_count": 0
+  },
+  "aspect_scores": {
+    "cleanliness": 0.9998602072397867,
+    "service": 0.9998564720153807,
+    "location": 0.5,
+    "value_for_money": 0.9998738765716552,
+    "staff_behavior": 0.999857932329178
+  },
+  "recommendation_features": {
+    "popularity_score": 0.9270962315197456,
+    "rating_score": 4.5,
+    "sentiment_score": 0.9998599529266358
+  },
+  "review_evidence": {
+    "positive_snippets": [
+      "This hotel provides a very good service. The staff here is so friendly. Specially ms  rakhi , she is so sweet and kind . I love the way how she interacts with the customer. She defines what a real customer service is..",
+      "\u201cI had a wonderful experience with the service! The team was professional, responsive especially Rakhi mam and very attentive to my needs. Everything was handled smoothly and efficiently, and the quality exceeded my expectations. I really appreciated the friendly attitude and timely delivery. Highly recommended for anyone looking for reliable and excellent service!\u201d",
+      "I recently had breakfast at the Holiday Inn in Mayur Vihar, and it was easily the highlight of my morning. The meal was served at Caf\u00e9 on 3, which has a lovely, upscale ambiance with peaceful views of the outdoor pool.\nThe breakfast buffet is incredibly expansive and caters to every palate.\n\nWhat truly stood out was the hospitality. The staff was attentive without being intrusive; special thanks to the team for their polite and helpful service throughout the meal. The restaurant was clean, well-organized, and provided a very relaxing environment to start the day."
+    ],
+    "negative_snippets": []
+  },
+  "review_summary": "Based on 5 reviews.",
+  "positive_themes": {
+    "friendly_staff": 4,
+    "clean_rooms": 3,
+    "good_food": 2,
+    "great_value": 1
+  },
+  "negative_themes": {}
+}

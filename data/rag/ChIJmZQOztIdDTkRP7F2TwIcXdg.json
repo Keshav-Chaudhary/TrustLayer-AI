@@ -1,0 +1,48 @@
+{
+  "hotel_id": "ChIJmZQOztIdDTkRP7F2TwIcXdg",
+  "hotel_name": "Jmd Residency",
+  "area": "Vasant Kunj",
+  "budget_category": "Mid-Range",
+  "rating": 4.4,
+  "trust_score": 0.8957145308610756,
+  "travel_purpose_tags": [
+    "Business",
+    "Family"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "moderate",
+    "review_count": 5,
+    "positive_snippet_count": 3,
+    "negative_snippet_count": 0,
+    "positive_theme_count": 4,
+    "negative_theme_count": 0
+  },
+  "aspect_scores": {
+    "cleanliness": 0.9998397827148438,
+    "service": 0.9998638232549032,
+    "location": 0.5,
+    "value_for_money": 0.999797523021698,
+    "staff_behavior": 0.9998638232549032
+  },
+  "recommendation_features": {
+    "popularity_score": 0.6515749327223179,
+    "rating_score": 4.4,
+    "sentiment_score": 0.99985488653183
+  },
+  "review_evidence": {
+    "positive_snippets": [
+      "Staff is really friendly and efficient. They accommodated every request we had, from late breakfasts to extra towels to an infinite amount of water bottles. The chef Henry is amazing, great food and service, always smiling and happy to help. Our room was clean, but the bathroom could be cleaner. The neighbourhood is pretty safe and walkable. Overall we had an amazing experience and would highly recommend. I want to thank the hotel manager Rajendra Soni for a great organisation and making everything run smoothly.",
+      "JMD Residency offers one of the best rooms with excellent cleanliness and comfort. The hospitality is truly outstanding. Manager Mr. Rajendra Kumar Soni is extremely professional, polite, and always ready to help, making the stay smooth and pleasant.\nMr. Vikas also deserves special appreciation for his supportive and friendly nature.\n\nThe food is very tasty, fresh, and well-prepared. Overall, a wonderful experience with great service, comfortable rooms, and delicious food.\nHighly recommended for a comfortable and memorable stay in Delhi!",
+      "Staffs were very sweet with all of us! I loved the breakfast, especially the gem and omelettes. The rooms were very beautiful and organized. Very satisfied with my experience here. I give thanks to Rajendra Kumar Soni!"
+    ],
+    "negative_snippets": []
+  },
+  "review_summary": "Based on 5 reviews.",
+  "positive_themes": {
+    "clean_rooms": 2,
+    "friendly_staff": 4,
+    "good_food": 5,
+    "great_value": 1
+  },
+  "negative_themes": {}
+}

@@ -1,0 +1,52 @@
+{
+  "hotel_id": "ChIJi6djbFgaDTkRSlSm1pL_cEI",
+  "hotel_name": "Green Lotus Residency",
+  "area": "New Delhi",
+  "budget_category": "Mid-Range",
+  "rating": 3.8,
+  "trust_score": 0.7471490010614507,
+  "travel_purpose_tags": [
+    "Family"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "moderate",
+    "review_count": 5,
+    "positive_snippet_count": 3,
+    "negative_snippet_count": 1,
+    "positive_theme_count": 5,
+    "negative_theme_count": 1
+  },
+  "aspect_scores": {
+    "cleanliness": 0.9998710950215658,
+    "service": 0.9996919631958008,
+    "location": 0.66658523735047,
+    "value_for_money": 0.9998660087585448,
+    "staff_behavior": 0.666764369176235
+  },
+  "recommendation_features": {
+    "popularity_score": 0.6280222474351204,
+    "rating_score": 3.8,
+    "sentiment_score": 0.7998963776626624
+  },
+  "review_evidence": {
+    "positive_snippets": [
+      "I stayed in this hotel for two nights. To tell you the truth, I really liked the food, the service and the location. If I ever stay in Delhi again, I would like to stay in this hotel only. Thank you so much!",
+      "Absolutely amazing experience! The staff was incredibly welcoming, the rooms were spotless and beautifully maintained, and the food was delicious. The location was perfect, and the service exceeded all expectations. Highly recommend this hotel to anyone looking for comfort and quality!\u201d",
+      "Had a wonderful stay here! The room was clean and comfortable, and the staff was polite and helpful throughout. Great value for money and a very relaxing atmosphere. Would definitely come back again.\u201d"
+    ],
+    "negative_snippets": [
+      "The rooms were far below the standard expected of a 3-star hotel, and the reviews online appear to be misleading. I had a very unpleasant experience, as the front office manager was rude and behaved in an unprofessional, intimidating manner. I ended up forfeiting the four days of advance room rent and left the hotel within 30 minutes of checking in.\n\nLift here was also not working and I had to carry my luggage 2 floors up. No heating system in the room.\n\nIf anyone is visiting the Yashobhoomi Convention Center, I strongly advise against staying in this hotel or similar category properties around Dwarka. Instead, look for accommodation near Delhi Airport \u2014 there are several reliable options available there."
+    ]
+  },
+  "review_summary": "Based on 5 reviews.",
+  "positive_themes": {
+    "good_location": 3,
+    "good_food": 3,
+    "clean_rooms": 3,
+    "friendly_staff": 2,
+    "great_value": 1
+  },
+  "negative_themes": {
+    "rude_staff": 1
+  }
+}

@@ -1,0 +1,53 @@
+{
+  "hotel_id": "ChIJAQAAAKHThDkROOHqJK8SqEQ",
+  "hotel_name": "Lemon Tree Hotel Kaushambi",
+  "area": "Kaushambi",
+  "budget_category": "Mid-Range",
+  "rating": 4.1,
+  "trust_score": 0.7669540603723606,
+  "travel_purpose_tags": [
+    "Budget"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "moderate",
+    "review_count": 5,
+    "positive_snippet_count": 3,
+    "negative_snippet_count": 1,
+    "positive_theme_count": 5,
+    "negative_theme_count": 2
+  },
+  "aspect_scores": {
+    "cleanliness": 0.5259072445333004,
+    "service": 0.5259072445333004,
+    "location": 0.6838778232534727,
+    "value_for_money": 0.500021919455321,
+    "staff_behavior": 0.5259072445333004
+  },
+  "recommendation_features": {
+    "popularity_score": 0.8179864890764142,
+    "rating_score": 4.1,
+    "sentiment_score": 0.6103300615533953
+  },
+  "review_evidence": {
+    "positive_snippets": [
+      "Excellent experience.\nNikhil was so helping and caring.\nEvery day he used to ask for any thing I desired to have in my Breakfast & dinner.\nFood is great.\nIt has been really comfortable stay with such people caring you.\nEvery reason to stay again here in my next visits.",
+      "We organised Birthday party in this Hotel and taken 5 room.\nFoods were so delicious, decoration was also very nice as well as support of all Staffs were outstanding.\n\nThere is very nice place for booking any events as well as Location concern.",
+      "Lemon Tree Hotel offers a perfect blend of comfort, cleanliness, and cheerful hospitality. The ambience is bright and welcoming, staying true to the brand\u2019s signature theme of freshness and positivity. Rooms are well-maintained, spacious, and equipped with all essential amenities like comfortable beds, clean bathrooms, and good Wi-Fi.\n\nThe staff are polite, professional, and always ready to help \u2014 their friendly attitude really enhances the stay experience. The restaurant serves a good variety of dishes, both Indian and continental, with an emphasis on quality and presentation. Breakfast buffets are particularly enjoyable.\n\nThe location of most Lemon Tree properties is convenient \u2014 close to business hubs or malls \u2014 making it a solid choice for both business and leisure travelers.\n\nPros:\n\nClean, comfortable rooms\n\nExcellent service and staff behavior\n\nTasty, well-presented food\n\nGood value for money\n\nCons:\n\nSlightly limited parking at some locations\n\nRoom service can be a bit slow during peak hours\n\nOverall:\nA reliable mid-range hotel chain that delivers consistent comfort and quality with a cheerful vibe. Great for short business trips or weekend getaways."
+    ],
+    "negative_snippets": [
+      "Worst experience. There was excessive noise from neighboring rooms throughout the night, making it impossible to sleep. The mattress quality was extremely poor and uncomfortable. The hotel feels very old and is in urgent need of major improvements. This property does not meet Lemon Tree standards at all. The food quality was also disappointing, with very limited and below-average options. Overall, not worth the price and highly unsatisfactory."
+    ]
+  },
+  "review_summary": "Based on 5 reviews.",
+  "positive_themes": {
+    "good_food": 4,
+    "friendly_staff": 3,
+    "good_location": 3,
+    "clean_rooms": 2,
+    "great_value": 2
+  },
+  "negative_themes": {
+    "parking_issues": 1,
+    "noise": 1
+  }
+}

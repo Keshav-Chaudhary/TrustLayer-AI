@@ -1,0 +1,50 @@
+{
+  "hotel_id": "ChIJIbuMAirnDDkR1HtuJqkJsPY",
+  "hotel_name": "Hotel O By Oyo The Moon Residency",
+  "area": "Sector 39",
+  "budget_category": "Budget",
+  "rating": 3.3,
+  "trust_score": 0.5351563922334579,
+  "travel_purpose_tags": [
+    "Budget"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "moderate",
+    "review_count": 5,
+    "positive_snippet_count": 2,
+    "negative_snippet_count": 3,
+    "positive_theme_count": 4,
+    "negative_theme_count": 0
+  },
+  "aspect_scores": {
+    "cleanliness": 0.4999948308395687,
+    "service": 0.0002709909022086,
+    "location": 0.5,
+    "value_for_money": 0.0111936368048191,
+    "staff_behavior": 0.5026542486884864
+  },
+  "recommendation_features": {
+    "popularity_score": 0.5403989321082416,
+    "rating_score": 3.3,
+    "sentiment_score": 0.4021806121862027
+  },
+  "review_evidence": {
+    "positive_snippets": [
+      "Room is spacious and hygienic. staff behaviour is helpful and polite",
+      "Rooms are spacious and clean. Staff behaviour is helpful and polite"
+    ],
+    "negative_snippets": [
+      "One of the worst hotel experience ever.The rooms on the second floor had cracks in the ceiling, washrooms are very shabby and water overflowed into the bedroom, each time someone took a shower. My family stayed there for 3 nights and the rooms were never cleaned, only service provided on Day 1 was dusty molded towels & bottled water.The management seems least bothered about service or feedback.\nThey tend to tactfully show the rooms on the first floor as sample which are in better condition than the ones above.Never again...",
+      "Worst quality of service, no hygiene, washrooms are too small, bedsheets were torn and zero maintenance and also there was a huge amount of garbage under the beds and staff was very impolite.",
+      "Beautiful rooms. Mini fridge available in rooms. Spacious rooms. Staff was polite. Pleasant stay during my OYO booking. Just try to improve food services. Waited around 1 hour for just a cup of tea. Also there were not any paid channels available on dish TV. So no use of TV.  Try to understand if someone is booking a room worth 2k bucks, they expect to atleast have proper television facility to be available."
+    ]
+  },
+  "review_summary": "Based on 5 reviews.",
+  "positive_themes": {
+    "friendly_staff": 4,
+    "clean_rooms": 2,
+    "great_value": 1,
+    "good_food": 1
+  },
+  "negative_themes": {}
+}

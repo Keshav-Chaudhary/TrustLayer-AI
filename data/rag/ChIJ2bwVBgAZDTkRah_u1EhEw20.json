@@ -1,0 +1,46 @@
+{
+  "hotel_id": "ChIJ2bwVBgAZDTkRah_u1EhEw20",
+  "hotel_name": "Hotel Radiance Inn",
+  "area": "Sector 38",
+  "budget_category": "Budget",
+  "rating": 4.9,
+  "trust_score": 0.8970194453895141,
+  "travel_purpose_tags": [
+    "Business"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "moderate",
+    "review_count": 5,
+    "positive_snippet_count": 3,
+    "negative_snippet_count": 0,
+    "positive_theme_count": 3,
+    "negative_theme_count": 0
+  },
+  "aspect_scores": {
+    "cleanliness": 0.999786138534546,
+    "service": 0.9996500015258788,
+    "location": 0.5,
+    "value_for_money": 0.5,
+    "staff_behavior": 0.999183475971222
+  },
+  "recommendation_features": {
+    "popularity_score": 0.3456957314342286,
+    "rating_score": 4.9,
+    "sentiment_score": 0.99953111410141
+  },
+  "review_evidence": {
+    "positive_snippets": [
+      "A very nice hotel\u2014clean, peaceful, and well-maintained. Staff was friendly and the stay was comfortable",
+      "Rooms are really comfi, clean.\nStaffs are very supportive.\n\nOverall, reliable service.",
+      "Good hotel in that area and room are  clean and food are very good \ud83d\udcaf\ud83d\udcaf"
+    ],
+    "negative_snippets": []
+  },
+  "review_summary": "Based on 5 reviews.",
+  "positive_themes": {
+    "clean_rooms": 4,
+    "friendly_staff": 3,
+    "good_food": 2
+  },
+  "negative_themes": {}
+}

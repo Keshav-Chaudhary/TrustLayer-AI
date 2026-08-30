@@ -1,0 +1,49 @@
+{
+  "hotel_id": "ChIJqXNAFM4JDTkRv9fJ8SQ8ADM",
+  "hotel_name": "Red Huts Continental",
+  "area": "Delhi",
+  "budget_category": "Mid-Range",
+  "rating": 4.6,
+  "trust_score": 0.8660440096968589,
+  "travel_purpose_tags": [
+    "Leisure"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "rich",
+    "review_count": 5,
+    "positive_snippet_count": 3,
+    "negative_snippet_count": 2,
+    "positive_theme_count": 3,
+    "negative_theme_count": 0
+  },
+  "aspect_scores": {
+    "cleanliness": 0.5,
+    "service": 0.999834418296814,
+    "location": 0.9985920786857604,
+    "value_for_money": 0.5,
+    "staff_behavior": 0.5003881650627591
+  },
+  "recommendation_features": {
+    "popularity_score": 0.6871426353573505,
+    "rating_score": 4.6,
+    "sentiment_score": 0.7998111684108153
+  },
+  "review_evidence": {
+    "positive_snippets": [
+      "This is one of the best restaurant experience in Bahadurgarh I have ever had .\nThe food was delicious and the service was impacted.\nThe decor was modern and the background music was making the atmosphere pleasant.\nOverall I really enjoyed going there \ud83d\ude0a\ud83d\udc4c\ud83c\udffb\ud83d\udc4c\ud83c\udffb\ud83d\udc4c\ud83c\udffb\ud83d\udc9e",
+      "We had a birthday celebration of my daughter at Red hut they are wonderful host best food and everything is best they have provided, made our day special.\nThanks to their complete team.\nThanks Bhuvan ji for being a wonderful host.",
+      "Visited last Sunday and the Chole Bhature were genuinely delicious! The flavors feel perfectly Indian and authentic. It's ideal for a family outing and the prices are wonderfully pocket-friendly. Highly recommend!"
+    ],
+    "negative_snippets": [
+      "Although it is a sweet shop Good bakery products of Polka also available.\nDelicious pani puri.\nVery close to brigadier hoshiar Singh metro station",
+      "Worst behaviour of receptionist and staff\nDon't work properly and don't allow to sit after payment.\nI will pay 1400 for spoiled food \ud83e\udd22\ud83e\udd2e and after payment they said u don't allow to sit anymore .\nVery greedy and selfish behaviour of receptionist .\nI Never come to this place in future and not recommend to anyone."
+    ]
+  },
+  "review_summary": "Based on 5 reviews.",
+  "positive_themes": {
+    "good_food": 5,
+    "friendly_staff": 2,
+    "good_location": 1
+  },
+  "negative_themes": {}
+}

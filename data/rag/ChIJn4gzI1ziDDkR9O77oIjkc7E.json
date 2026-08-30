@@ -1,0 +1,50 @@
+{
+  "hotel_id": "ChIJn4gzI1ziDDkR9O77oIjkc7E",
+  "hotel_name": "Skylink Suites",
+  "area": "South Delhi",
+  "budget_category": "Mid-Range",
+  "rating": 4.4,
+  "trust_score": 0.8015309780315854,
+  "travel_purpose_tags": [
+    "Leisure"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "moderate",
+    "review_count": 5,
+    "positive_snippet_count": 3,
+    "negative_snippet_count": 1,
+    "positive_theme_count": 3,
+    "negative_theme_count": 1
+  },
+  "aspect_scores": {
+    "cleanliness": 0.9995093941688538,
+    "service": 0.9979939063390096,
+    "location": 0.9992504715919496,
+    "value_for_money": 0.5,
+    "staff_behavior": 0.5
+  },
+  "recommendation_features": {
+    "popularity_score": 0.5105787241053805,
+    "rating_score": 4.4,
+    "sentiment_score": 0.7986456482321955
+  },
+  "review_evidence": {
+    "positive_snippets": [
+      "It's nice home stay. They give us best services. But they haven't kitchen in their apartment. Anyway everything was super cool there.",
+      "I came here to Delhi for my new workplace and booked this hotel. Excellent service and clean rooms. I would recommend it for your stay in South Delhi.",
+      "Very pleasant n peaceful place, only requires room service like cleaning, some hot plate n basic requirements needs in case of a small family with a baby than food n milk need to prepared, some rack to dry clothes etc rest all service good"
+    ],
+    "negative_snippets": [
+      "Very unclean toilets, no toothbrush in room, no room slippers..\nThey ask you to pay during check-in but don\u2019t even care to give you receipts."
+    ]
+  },
+  "review_summary": "Based on 5 reviews.",
+  "positive_themes": {
+    "clean_rooms": 4,
+    "good_food": 1,
+    "good_location": 1
+  },
+  "negative_themes": {
+    "dirty_rooms": 1
+  }
+}

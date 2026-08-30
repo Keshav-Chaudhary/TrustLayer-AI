@@ -1,0 +1,47 @@
+{
+  "hotel_id": "ChIJR-WL4m3iDDkR4jurspZOnwQ",
+  "hotel_name": "Townhouse Green Park Residency 1",
+  "area": "Green Park",
+  "budget_category": "Mid-Range",
+  "rating": 2.8,
+  "trust_score": 0.3231436154031195,
+  "travel_purpose_tags": [
+    "Budget"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "moderate",
+    "review_count": 5,
+    "positive_snippet_count": 0,
+    "negative_snippet_count": 3,
+    "positive_theme_count": 2,
+    "negative_theme_count": 1
+  },
+  "aspect_scores": {
+    "cleanliness": 0.5,
+    "service": 0.0023823764640837,
+    "location": 0.5,
+    "value_for_money": 0.0023823764640837,
+    "staff_behavior": 0.0038607642636633
+  },
+  "recommendation_features": {
+    "popularity_score": 0.4552416887252435,
+    "rating_score": 2.8,
+    "sentiment_score": 0.002757584635401
+  },
+  "review_evidence": {
+    "positive_snippets": [],
+    "negative_snippets": [
+      "I had two days booking through OYO over the phone on behalf of my friend. I paid 25% for the booking as advance. My friend went there for the treatment of his daughter at AIIMS Delhi and badly needed a shelter on an emergency basis. Once he reached there, they offered a room with a common toilet. That is the worst thing he could have expected at that moment. Quality and cleanliness were so horrible, he immediately left the hotel and found a different staying option. Moreover, a four-story building doesn't have a lift.\n\nThat 25% advanced amount is for forfeited - very obvious. Attached the booking details.",
+      "Rooms are messy, bed was broken, photos , don't go with photo on oyo, if in oyo it showe 900 rs for room then they do something from there end, while paying at room the payment will be showing 1600 and was asked by the hotel guys",
+      "I have never see such kind of horrible hotel in my life ,\nThe walls, bed and airconditioner i have no words to describe what kind of experience i had\nEven the water bottles they are giving is not seal pack,\nToo be very honest you should sleep on road rater thn sleeping in this hotel.\nMoreover, the rude behaviour of the staff is unacceptable"
+    ]
+  },
+  "review_summary": "Based on 5 reviews.",
+  "positive_themes": {
+    "clean_rooms": 2,
+    "friendly_staff": 2
+  },
+  "negative_themes": {
+    "rude_staff": 1
+  }
+}

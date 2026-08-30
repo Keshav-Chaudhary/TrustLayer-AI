@@ -1,0 +1,49 @@
+{
+  "hotel_id": "ChIJ7Xa0GEEcDTkRE39X-CgUsG0",
+  "hotel_name": "Hotel O Marina",
+  "area": "Mahipalpur",
+  "budget_category": "Mid-Range",
+  "rating": 2.9,
+  "trust_score": 0.3681100095478293,
+  "travel_purpose_tags": [
+    "Budget"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "moderate",
+    "review_count": 5,
+    "positive_snippet_count": 0,
+    "negative_snippet_count": 3,
+    "positive_theme_count": 3,
+    "negative_theme_count": 2
+  },
+  "aspect_scores": {
+    "cleanliness": 0.0015774007333674,
+    "service": 0.5,
+    "location": 0.5,
+    "value_for_money": 0.0020082003029528,
+    "staff_behavior": 0.0003159547050017
+  },
+  "recommendation_features": {
+    "popularity_score": 0.6063153768790331,
+    "rating_score": 2.9,
+    "sentiment_score": 0.0013167330704163
+  },
+  "review_evidence": {
+    "positive_snippets": [],
+    "negative_snippets": [
+      "Worse experience I have ever had with a hotel. I booked on booking.com they had two addresses on there. Both were wrong and I only found out after getting a uber to each one. The hotel staff were rude. I called booking.com and instead of being helped or compensated they cancelled my reservation. It was already 8pm and we had to find a room in short notice. I do not recommend this hotel to any one. The owner admitted to booking.com that they were having issues with the address on their platform and instead of making things right , they cancelled my reservation and left us in the middle of no where.",
+      "I did my booking from booking.com, the rooms looked super clean and nice online but when we checked in we were shock to see the state in which the rooms were kept. They had renovation work going on and the rooms were with dust and smelling of paint. Total disappointment and waste of money.",
+      "I booked a hotel through Booking.com, but the experience was very disappointing. The actual price at the hotel was higher than what was shown during booking. The rooms were dirty, smelled bad, and none of the TVs were working. On top of that, the hotel staff charged extra for basic services. This was completely different from what was promised online."
+    ]
+  },
+  "review_summary": "Based on 5 reviews.",
+  "positive_themes": {
+    "friendly_staff": 3,
+    "clean_rooms": 3,
+    "good_food": 1
+  },
+  "negative_themes": {
+    "rude_staff": 1,
+    "dirty_rooms": 3
+  }
+}

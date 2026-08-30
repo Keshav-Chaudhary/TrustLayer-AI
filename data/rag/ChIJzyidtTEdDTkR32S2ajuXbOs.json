@@ -1,0 +1,52 @@
+{
+  "hotel_id": "ChIJzyidtTEdDTkR32S2ajuXbOs",
+  "hotel_name": "Hotel Mayda Residency By Mayda Hospitality Pvt. Ltd.",
+  "area": "Mahipalpur",
+  "budget_category": "Mid-Range",
+  "rating": 4.3,
+  "trust_score": 0.5468317170897572,
+  "travel_purpose_tags": [
+    "Budget"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "moderate",
+    "review_count": 5,
+    "positive_snippet_count": 1,
+    "negative_snippet_count": 3,
+    "positive_theme_count": 4,
+    "negative_theme_count": 2
+  },
+  "aspect_scores": {
+    "cleanliness": 0.0577053587864308,
+    "service": 0.08195238688495,
+    "location": 0.0762555537512525,
+    "value_for_money": 0.0112204002216458,
+    "staff_behavior": 0.0509966318010507
+  },
+  "recommendation_features": {
+    "popularity_score": 0.4758739902810327,
+    "rating_score": 4.3,
+    "sentiment_score": 0.0651254367723594
+  },
+  "review_evidence": {
+    "positive_snippets": [
+      "It's a VFM propositioned hotel. Initially, the room we were alloted had some issues, but they resolved it by changing our rooms. The hotel has free WiFi, which is important because the area has poor data speeds. The staff were helpful and overall, the hotel is much preferred due to its location (near the airport) and relatively quiet surroundings."
+    ],
+    "negative_snippets": [
+      "Budget hotel but you get what you pay for. Don't believe the 4* rating. The rooms smell of smoke and there's a good chance we left there with bed bugs. Find an alternative if possible",
+      "Room ok but toilet is not clean. Staff behavior is not good enough",
+      "Their restaurant is dirty .\nOne of the staffs spit to the washroom from outside while we were having breakfast.\nVery disappointed.\nThe rooms are clean but the washroom , some times the flush is not working.\nThe room service is good and  they are responding for every request from us."
+    ]
+  },
+  "review_summary": "Based on 5 reviews.",
+  "positive_themes": {
+    "friendly_staff": 4,
+    "good_location": 1,
+    "clean_rooms": 2,
+    "good_food": 1
+  },
+  "negative_themes": {
+    "dirty_rooms": 2,
+    "rude_staff": 1
+  }
+}

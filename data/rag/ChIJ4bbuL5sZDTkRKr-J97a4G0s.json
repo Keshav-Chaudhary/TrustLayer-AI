@@ -1,0 +1,52 @@
+{
+  "hotel_id": "ChIJ4bbuL5sZDTkRKr-J97a4G0s",
+  "hotel_name": "The Leaf Studio Hospitalities",
+  "area": "Sector 38",
+  "budget_category": "Mid-Range",
+  "rating": 4.7,
+  "trust_score": 0.8491486675924658,
+  "travel_purpose_tags": [
+    "Leisure"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "moderate",
+    "review_count": 5,
+    "positive_snippet_count": 3,
+    "negative_snippet_count": 1,
+    "positive_theme_count": 4,
+    "negative_theme_count": 2
+  },
+  "aspect_scores": {
+    "cleanliness": 0.5000018215432647,
+    "service": 0.5,
+    "location": 0.9989927411079408,
+    "value_for_money": 0.5000324881330016,
+    "staff_behavior": 0.999853014945984
+  },
+  "recommendation_features": {
+    "popularity_score": 0.545313905360443,
+    "rating_score": 4.7,
+    "sentiment_score": 0.799740625868435
+  },
+  "review_evidence": {
+    "positive_snippets": [
+      "Well clean rooms, all required facility available, food quality is good. Good for stay.",
+      "It was an amazing experience for me. I usually come here when ever I come to office... highly recommended for stay.",
+      "Deep cleaning and big  room\nAnd location is very good\nNear medanta hospital"
+    ],
+    "negative_snippets": [
+      "Worst experience\nI stayed at this hotel and it was a complete disappointment. The room was dirty, walls stained, lock broken, and door handle damaged \u2014 making me feel unsafe.\nI ordered pasta and Hakka noodles; the pasta was cold, tasteless, and not fresh, and the noodles weren\u2019t much better.\nA total waste of money. I would never recommend this place to anyone."
+    ]
+  },
+  "review_summary": "Based on 5 reviews.",
+  "positive_themes": {
+    "clean_rooms": 3,
+    "good_food": 1,
+    "good_location": 1,
+    "friendly_staff": 1
+  },
+  "negative_themes": {
+    "dirty_rooms": 1,
+    "bad_food": 1
+  }
+}

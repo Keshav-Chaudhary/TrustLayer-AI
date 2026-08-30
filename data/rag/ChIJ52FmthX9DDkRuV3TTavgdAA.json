@@ -1,0 +1,55 @@
+{
+  "hotel_id": "ChIJ52FmthX9DDkRuV3TTavgdAA",
+  "hotel_name": "Le Roi Delhi Hotel, Paharganj",
+  "area": "Paharganj",
+  "budget_category": "Mid-Range",
+  "rating": 3.9,
+  "trust_score": 0.7271943068993177,
+  "travel_purpose_tags": [
+    "Leisure"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "rich",
+    "review_count": 5,
+    "positive_snippet_count": 3,
+    "negative_snippet_count": 2,
+    "positive_theme_count": 5,
+    "negative_theme_count": 3
+  },
+  "aspect_scores": {
+    "cleanliness": 0.5000489677222504,
+    "service": 0.6665555136520803,
+    "location": 0.9997223913669586,
+    "value_for_money": 0.6664941804726064,
+    "staff_behavior": 0.6664941804726064
+  },
+  "recommendation_features": {
+    "popularity_score": 0.7716015259615397,
+    "rating_score": 3.9,
+    "sentiment_score": 0.599964668371831
+  },
+  "review_evidence": {
+    "positive_snippets": [
+      "Had a wonderful stay at Le ROI Delhi Hotel! \u2b50\nThe location is extremely convenient, especially for travelers since it's very close to New Delhi Railway Station. The rooms were clean, comfortable, and well-maintained. The staff was polite, helpful, and always ready to assist with anything we needed. Check-in and check-out were smooth, and the overall service was excellent.\n\nThe hotel also offers good amenities and the value for money is great for anyone visiting Delhi. I would definitely recommend this hotel to travelers looking for a comfortable and convenient stay in the city. Looking forward to staying here again!\n\n\u2b50\u2b50\u2b50\u2b50\u2b50",
+      "It was nice to stay in the hotel. Felt safe. Room was spacious and tidy. Good room service. Checkin and checkout was easy. Hotel is located close to both railway station and metro and hence good connectivity. Hotel is located in a crowded and live street.",
+      "It was comfortable stay and staff are highly cooperative. Room was clean. If you don\u2019t prefer hustle bustle of Pagar Gunj it\u2019s not for you, however, I come from core of Kathmandu, it looked like my own place. Breakfast was good. Price of BF and room are also fair given the cost of living of Delhi."
+    ],
+    "negative_snippets": [
+      "This was one of the worst hotel stays we have ever experienced. The hotel completely failed to meet even the most basic standards of cleanliness, hygiene, and hospitality.\nTo begin with, the bedding condition was disgusting. The blanket provided was torn, the bedsheet was dusty, and the bed liner was filthy, covered with visible stains and spots. After sleeping on this bed, we developed rashes, which clearly shows how unhygienic and unsafe the bedding was. This is absolutely unacceptable and poses a serious health concern.\nThe room facilities were another major letdown. The hotel website clearly mentions that rooms are equipped with a kettle and fridge, but neither was available in our room. This is false advertising and misleading for guests. The handwash bottle in the washroom was dirty and sticky, making us question whether the bathroom had been cleaned at all.\nBasic amenities were not provided proactively. No drinking water was kept in the room, and we had to ask for it explicitly, which should never be the case in any hotel. Even after repeated disappointments, the service continued to get worse. The TV connection was cut off before our checkout time, which is extremely unprofessional and inconvenient for guests who are still staying in the room.\nThe behavior of the receptionist was equally disappointing. Instead of being polite or helpful, the receptionist was rude, uncooperative, and lacked basic courtesy. There was no apology or concern shown when we raised issues, which reflects very poor customer service and management attitude.\nOverall, this hotel shows complete disregard for guest comfort, hygiene, and honest service. It is not worth the money, time, or stress. I would strongly advise travelers to avoid this place unless they want to risk their health and deal with extremely poor service. This hotel does not deserve a recommendation under any circumstances.",
+      "This is not a hotel for tourists and the whole area is unsafe and dirty. Very loud. I can't sleep because the street is extremely loud. The photos in Booking and the web are fake, nothing looks as they say. If you are out off toalet paper and ask the housekeeper he will never bring you. The breakfast is clean, indian not European. The bathroom in my room is terrible with mold. The power switch is not working. I would never come if I wasn't with the group. Never."
+    ]
+  },
+  "review_summary": "Based on 5 reviews.",
+  "positive_themes": {
+    "clean_rooms": 5,
+    "friendly_staff": 3,
+    "good_location": 3,
+    "great_value": 2,
+    "good_food": 2
+  },
+  "negative_themes": {
+    "dirty_rooms": 2,
+    "rude_staff": 1,
+    "noise": 1
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "hotel_id": "ChIJa5dF22oZDTkRQ2KjgHaw2d8",
+  "hotel_name": "Stay Studio Hotel & Residences",
+  "area": "Palam Vihar",
+  "budget_category": "Budget",
+  "rating": 4.6,
+  "trust_score": 0.8876967792945902,
+  "travel_purpose_tags": [
+    "Business",
+    "Family"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "moderate",
+    "review_count": 5,
+    "positive_snippet_count": 3,
+    "negative_snippet_count": 0,
+    "positive_theme_count": 4,
+    "negative_theme_count": 0
+  },
+  "aspect_scores": {
+    "cleanliness": 0.9998575448989868,
+    "service": 0.9998375773429872,
+    "location": 0.5,
+    "value_for_money": 0.9475120306015016,
+    "staff_behavior": 0.98937646150589
+  },
+  "recommendation_features": {
+    "popularity_score": 0.5045965926282034,
+    "rating_score": 4.6,
+    "sentiment_score": 0.98937646150589
+  },
+  "review_evidence": {
+    "positive_snippets": [
+      "I recently stayed at this hotel with a wedding group and had a truly wonderful experience. While the property itself is beautiful, it was the exceptional hospitality that made my visit stand out.\nEfficient Check-in: A huge thank you to the Reception Manager for the seamless check-in process. Their professional attitude and welcoming nature immediately made me feel at home. It\u2019s rare to see such smooth management right at the entrance.\nOutstanding Night Service: I want to give a special shout-out to the Night Manager. Their attention to detail and willingness to assist with my requests during the late hours was incredible. Knowing there is someone so reliable on duty at night made my stay very comfortable.\nOverall Experience: The rooms were pristine, the ambiance was relaxing, and the entire staff seemed dedicated to guest satisfaction",
+      "\u200bI recently stayed at this hotel, and while the facilities were great, the highlight of my experience was undoubtedly the hospitality provided by the manager, Mr. Jitender.\n\u200bWhat made the stay exceptional:\n\u200bExceptional Leadership: It is rare to find a manager as proactive and dedicated as Jitender. He ensures the entire floor runs like clockwork, and his presence makes you feel like a valued guest rather than just a room number.\n\u200bPersonalized Attention: Jitender went out of his way to check in on us regularly, ensuring every request was met promptly. His attention to detail is truly impressive.\n\u200bProfessional & Welcoming: He carries a perfect balance of professionalism and warmth. Whether it was a quick query about the local area or a specific service request, he handled everything with a smile and efficiency.",
+      "Had a wonder stay at this hotel . The hospitality was excellent and the staff was extremely polite  courtesy and room was very clean and food was very fast the breakfast was really good with a nice variety and the amenities were top - notch  making the stay ."
+    ],
+    "negative_snippets": []
+  },
+  "review_summary": "Based on 5 reviews.",
+  "positive_themes": {
+    "friendly_staff": 4,
+    "great_value": 1,
+    "clean_rooms": 2,
+    "good_food": 1
+  },
+  "negative_themes": {}
+}

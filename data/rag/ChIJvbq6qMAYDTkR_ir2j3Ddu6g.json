@@ -1,0 +1,51 @@
+{
+  "hotel_id": "ChIJvbq6qMAYDTkR_ir2j3Ddu6g",
+  "hotel_name": "Lime Tree Hotel Sushant Lok Gurgaon At Iffco Metro Close To Leisure Valley , Sector 29",
+  "area": "Gurgaon",
+  "budget_category": "Mid-Range",
+  "rating": 4.5,
+  "trust_score": 0.7184535530319149,
+  "travel_purpose_tags": [
+    "Budget"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "moderate",
+    "review_count": 5,
+    "positive_snippet_count": 2,
+    "negative_snippet_count": 3,
+    "positive_theme_count": 3,
+    "negative_theme_count": 1
+  },
+  "aspect_scores": {
+    "cleanliness": 0.9992300271987916,
+    "service": 0.5,
+    "location": 0.3337254352130306,
+    "value_for_money": 0.5,
+    "staff_behavior": 0.4997406153706834
+  },
+  "recommendation_features": {
+    "popularity_score": 0.6550755888630876,
+    "rating_score": 4.5,
+    "sentiment_score": 0.4002518132911064
+  },
+  "review_evidence": {
+    "positive_snippets": [
+      "Hotel room is fully furnished and attached with balcony. Facilitated with all basic needs. Sunshine enter with bright room. Good mannered receptionist. Highly recommend.",
+      "It was great experience at lime tree hotel. Staff is very friendly . Conditions of the rooms match with the prices.Bathroom are properly clean. Near metro connectvity."
+    ],
+    "negative_snippets": [
+      "Scam Experience. Avoid\nWe booked this property through Booking.com and paid a token amount. After payment, we were told the booked property was not available and were pushed to accept a different property far from the original location.\nWe refused and were assured a refund, but were completely ignored and never refunded.\nWhen we posted an honest public review, we were blackmailed into taking it down instead of our issue being resolved.\nHighly unprofessional and unethical. Proceed with extreme caution.",
+      "Pathetic condition of room. Staff is useless, they don\u2019t even provide bottled water bottle, basic cutlery.\nIt was totally unhygienic. Pictures posted online are a scam. If you want to book, try to use option pay at hotel, so that you can yourself check the room condition first.",
+      "UNETHICAL EXPERIENCE. AVOID\nWe booked through Booking.com and paid a token amount. After payment, we were informed the booked property was not available and were pushed to accept a different property far from the original location.\nWe refused and were promised a refund, but were later ignored and never refunded.\nAfter posting an honest review, we were blackmailed and pressured to take it down instead of our issue being resolved.\nVery unprofessional and unethical conduct."
+    ]
+  },
+  "review_summary": "Based on 5 reviews.",
+  "positive_themes": {
+    "clean_rooms": 1,
+    "friendly_staff": 2,
+    "good_location": 3
+  },
+  "negative_themes": {
+    "rude_staff": 2
+  }
+}

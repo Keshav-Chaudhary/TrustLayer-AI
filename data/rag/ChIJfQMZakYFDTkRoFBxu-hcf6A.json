@@ -1,0 +1,51 @@
+{
+  "hotel_id": "ChIJfQMZakYFDTkRoFBxu-hcf6A",
+  "hotel_name": "Hotel O By Oyo Dwarka Metro",
+  "area": "Dwarka",
+  "budget_category": "Budget",
+  "rating": 4.3,
+  "trust_score": 0.5347902228354758,
+  "travel_purpose_tags": [
+    "Budget"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "moderate",
+    "review_count": 5,
+    "positive_snippet_count": 0,
+    "negative_snippet_count": 3,
+    "positive_theme_count": 4,
+    "negative_theme_count": 3
+  },
+  "aspect_scores": {
+    "cleanliness": 0.0005875500016069,
+    "service": 0.0002521270944271,
+    "location": 0.0004418070020619,
+    "value_for_money": 0.0002521270944271,
+    "staff_behavior": 0.0002521270944271
+  },
+  "recommendation_features": {
+    "popularity_score": 0.5154694146898892,
+    "rating_score": 4.3,
+    "sentiment_score": 0.0009859110577963
+  },
+  "review_evidence": {
+    "positive_snippets": [],
+    "negative_snippets": [
+      "I booked this hotel for two days through Agoda. At the time of booking, the room and amenities looked good on Agoda. But when I arrived, the hotel was completely different from what was shown online.\n\nFirst, the receptionist smelled strongly of alcohol and seemed drunk around 4 PM. The whole hotel smelled of cigarettes and alcohol, and it felt like many people there were intoxicated.\n\nMy tariff included breakfast, but they did not serve it even once during my stay. Every time I asked for breakfast, they kept asking the same question: \u201cIs breakfast included in your tariff?\u201d and then ignored the request.\n\nWhen I checked the room at check-in, I found the bathroom and the room very dirty. The bed had stains that looked like sperm and vaginal discharge. When I asked them to change the pillow and bedsheet, those also had similar stains. It was a terrible experience for me.\n\nMost of the people coming to this hotel seemed to be intoxicated or couples coming for hookups. This place is not safe for families or single women, especially since even the receptionist was drunk.\n\nMy suggestion is that the hotel itself is a separate issue, but people should avoid booking hotels through Agoda.",
+      "Go there only when you need a private room for typical OYO job. It looks like there was a recent fire accident, they were covering up those things. Pillow bed geycer toilet everything is bad bad quality. There is a mirror in washroom placed in wierd location.Made it suspesious. initially they gave me a room which had no TV no ac no geycer. They changed my room after escalating to OYO. I made a big mistake of booking in this hotel.",
+      "Not a place for business, leisure or any kind of stay. It is a place for what an oyo is meant for. Although all your calls will be answered for sure. Don\u2019t go by the pictures on any of the social portals. Call it any thing but not a hotel please. Lodge I think would be a perfect word for this place, and in that case I would still rate it 3 stars for the affordability quotient."
+    ]
+  },
+  "review_summary": "Based on 5 reviews.",
+  "positive_themes": {
+    "good_food": 1,
+    "good_location": 1,
+    "friendly_staff": 1,
+    "great_value": 1
+  },
+  "negative_themes": {
+    "dirty_rooms": 2,
+    "rude_staff": 1,
+    "noise": 1
+  }
+}

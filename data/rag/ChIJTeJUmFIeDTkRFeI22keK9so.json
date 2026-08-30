@@ -1,0 +1,52 @@
+{
+  "hotel_id": "ChIJTeJUmFIeDTkRFeI22keK9so",
+  "hotel_name": "Roomshala 183 Hotel Aroma Chattarpur",
+  "area": "DLF Farms",
+  "budget_category": "Mid-Range",
+  "rating": 4.7,
+  "trust_score": 0.7961254297117336,
+  "travel_purpose_tags": [
+    "Business",
+    "Family"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "moderate",
+    "review_count": 5,
+    "positive_snippet_count": 3,
+    "negative_snippet_count": 1,
+    "positive_theme_count": 4,
+    "negative_theme_count": 1
+  },
+  "aspect_scores": {
+    "cleanliness": 0.9998384714126588,
+    "service": 0.9996604919433594,
+    "location": 0.5000587271497352,
+    "value_for_money": 0.9996604919433594,
+    "staff_behavior": 0.7498544537447742
+  },
+  "recommendation_features": {
+    "popularity_score": 0.2958444386389672,
+    "rating_score": 4.7,
+    "sentiment_score": 0.7998588151473087
+  },
+  "review_evidence": {
+    "positive_snippets": [
+      "had an amazing experience during my stay at this hotel. From the moment checked in, the staff were incredibly welcoming and helpful. The room was spotless, well-maintained, and had all the amenities needed for a relaxing stay. The bed was super comfortable, and especially appreciated the peaceful ambiance throughout the property. The location was perfect close to major attractions yet tucked away enough to enjoy some quiet time. The food served was fresh and delicious, and the breakfast spread had great variety.",
+      "I stayed in hotel the staff was very polite which make our stay comfortable",
+      "Lovely hotel like the vibe so much"
+    ],
+    "negative_snippets": [
+      "Wrong location and staff very rude. Also wrong rooms pictures shown on google. Do not recommend. No cold water or glasses available."
+    ]
+  },
+  "review_summary": "Based on 5 reviews.",
+  "positive_themes": {
+    "clean_rooms": 2,
+    "friendly_staff": 4,
+    "good_location": 2,
+    "good_food": 1
+  },
+  "negative_themes": {
+    "rude_staff": 1
+  }
+}

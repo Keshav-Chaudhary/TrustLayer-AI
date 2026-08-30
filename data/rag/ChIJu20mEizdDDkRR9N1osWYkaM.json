@@ -1,0 +1,48 @@
+{
+  "hotel_id": "ChIJu20mEizdDDkRR9N1osWYkaM",
+  "hotel_name": "Crown Ceremonies",
+  "area": "New Industrial Township",
+  "budget_category": "Mid-Range",
+  "rating": 4.4,
+  "trust_score": 0.6178700894840631,
+  "travel_purpose_tags": [
+    "Leisure"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "moderate",
+    "review_count": 5,
+    "positive_snippet_count": 1,
+    "negative_snippet_count": 3,
+    "positive_theme_count": 3,
+    "negative_theme_count": 0
+  },
+  "aspect_scores": {
+    "cleanliness": 0.5,
+    "service": 0.2503553989590728,
+    "location": 0.9998685121536256,
+    "value_for_money": 0.0005176945608885,
+    "staff_behavior": 0.0002520833513699
+  },
+  "recommendation_features": {
+    "popularity_score": 0.5445125533795373,
+    "rating_score": 4.4,
+    "sentiment_score": 0.2003607300808653
+  },
+  "review_evidence": {
+    "positive_snippets": [
+      "I wanted to take a moment to share my gratitude for the wonderful experience we had at the location for my parents' golden jubilee celebration.\n\nInitially, I was a bit hesitant about organizing the function there, but I am so glad we went ahead with it. The food and decoration arranged by the Crown team were simply marvelous!\n\nMr. Negi and his team provided exceptional hospitality to our relatives and friends, ensuring that everyone felt comfortable and enjoyed the day. It was clear that they were dedicated to making our event a success, and everything went smoothly as planned.\n\nThank you once again for your outstanding service. We truly appreciate the hard work and effort put in by the team to create such a memorable occasion.\n\nVineet Arora\nFunction date - 25 Jan afternoon"
+    ],
+    "negative_snippets": [
+      "EXTREMELY DISSAPOINTING EXPERIENCE \u2013 FRAUD PEOPLE RUNNING THIS HOTEL\n\nWe booked this hotel for our wedding cocktail function for a total package of \u20b91.2 lakhs, which included rooms, lunch, and the cocktail event. About 20 days before the function, we informed the hotel that we wanted to cancel the lunch and requested that the amount be adjusted toward additional rooms so the total package value would remain the same. Despite several discussions, this was not accommodated.\n\nWithout informing us in advance, the management shifted our cocktail booking from the larger banquet hall to a smaller one and allocated the bigger space to another party. We were left with no alternative at that point.\n\nOn top of that, we were charged \u20b928,000 for lunch that we never availed. The justification given was that a caf\u00e9 space had been blocked for us, even though we were told it would remain empty and it typically operates later in the day. Despite not using the lunch service at all, we were billed for it.\n\nThe food quality did not meet expectations. Under the non-veg package, non-vegetarian items were available only for a short duration before they stopped being served. Overall arrangements and coordination were poorly handled.\n\nWe have all invoices and documentation to support these statements. Sharing this review so others can make an informed decision before booking.",
+      "Rs. 28,000 CHARGE FOR A MEAL WE NEVER HAD! Worst HOTEL EVEN SEEN!\n\nWe reserved this hotel for our wedding cocktail event under a \u20b91.2 lakh package that included rooms, lunch, and the evening function. Nearly three weeks before the event, we requested cancellation of the lunch and asked for the value to be adjusted toward additional rooms so the overall package amount remained unchanged. Despite early intimation and multiple conversations, the request was declined.\n\nWhat was even more upsetting was that our cocktail function was moved from the larger banquet hall to a smaller one without prior notice. We later found out the bigger hall had been allotted elsewhere. At that stage, we had no option but to proceed.\n\nWe were also billed \u20b928,000 for a lunch service we never used. The explanation provided was that a caf\u00e9 space had been reserved for us, even though we did not utilize it. Charging for a service that wasn\u2019t availed is completely unreasonable.\n\nThe catering and arrangements were below expectations. Non-vegetarian items under our selected plan were available only briefly before being discontinued. Overall coordination and hospitality standards were lacking.\n\nWe have proper billing records and communication to back this up. Sharing this experience so others are cautious before making bookings here.",
+      "Worst hotel of Faridabad! DO NOT BOOK\n\nWe booked this hotel for our wedding cocktail and the total quotation given to us was for 1.2 lacs for rooms, lunch and cocktail. Due to some issue, we requested the hotel manager to remove lunch for us 20 days prior and we will adjust the same by taking more rooms so the total remains 1.2 lacs.\n\nThe hotel manager Kapil is probably the worst hotel manager I have seen in the hotel industry. First, he changed our cocktail banquet from big to small and gave it to someone else without even telling us to maximize profits and left us with no option but to take the smaller banquet.\nSecond, even after multiple conversations, he and the owner of the hotel denied adjusting for our cancelled lunch to other services and BILLED US 28k rupees for lunch which we never availed from hotel.\n\nLiterally these guys charged us 28k for NO SERVICE. The excuse was they blocked title cafe for us for lunch which ironically opens at 6pm in evening and the hotel manager Kapil told us it\u2019s anyway empty so if you want you can have lunch at Titli cafe.\n\nSuch bad people in this industry, including the owner  Who LITERALLY CHARGED US 28k and BILLED US FOR LUNCH WHICH WE NEVER AVAILED.\n\nI hope these 28k they charged us costs them 28lacs someday and they get dejavu of what they did with us. I have all the invoices to attach as proof if the hotel manager Kapil or the owner denies any of it.\n\nThe food was poor quality, we had non veg plan where Nov veg was just served for one hr and then just vanished. The arrangement was bad as well.\n\nDon\u2019t spend your hard earned money by booking this hotel who don\u2019t even know how to operate in the hospitality industry an charging people even when they dont avail any service."
+    ]
+  },
+  "review_summary": "Based on 5 reviews.",
+  "positive_themes": {
+    "good_location": 2,
+    "good_food": 4,
+    "great_value": 2
+  },
+  "negative_themes": {}
+}

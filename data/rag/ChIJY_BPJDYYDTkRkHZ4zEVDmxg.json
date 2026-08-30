@@ -1,0 +1,52 @@
+{
+  "hotel_id": "ChIJY_BPJDYYDTkRkHZ4zEVDmxg",
+  "hotel_name": "Shama Tourist Complex",
+  "area": "Civil Lines",
+  "budget_category": "Mid-Range",
+  "rating": 4.1,
+  "trust_score": 0.763718714149936,
+  "travel_purpose_tags": [
+    "Leisure"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "moderate",
+    "review_count": 5,
+    "positive_snippet_count": 3,
+    "negative_snippet_count": 1,
+    "positive_theme_count": 3,
+    "negative_theme_count": 3
+  },
+  "aspect_scores": {
+    "cleanliness": 0.000261049659457,
+    "service": 0.5,
+    "location": 0.9957833290100098,
+    "value_for_money": 0.998279333114624,
+    "staff_behavior": 0.7485444797057426
+  },
+  "recommendation_features": {
+    "popularity_score": 0.5201159360789595,
+    "rating_score": 4.1,
+    "sentiment_score": 0.7987696371856146
+  },
+  "review_evidence": {
+    "positive_snippets": [
+      "Best place near bus station, courtesy staff.",
+      "It was just sudden plan, but turns out to be a great evening together with Friends.",
+      "Value for money restaurant and bar. Ample parking. Co-operative staff."
+    ],
+    "negative_snippets": [
+      "Rooms are poorly maintained. Fans, AC doesn't work properly. Charging points are very less as half of them are out of order. No wiper, matt in the bathrooms, toilet seats are dirty, taps don't work properly.\nStaff is rude as hell, specially the waiter on day shift. He behaves like he is doing us a favor.\nBed sheets are dirty, room walls have seepage. Electricity cuts are hell big here, we were getting ready for a function & there was no electricity, they don't switch on the power backup very easily.\nIt is a disaster if you you are planning to stay here with family specially in summers.\nPlease avoid as much as possible."
+    ]
+  },
+  "review_summary": "Based on 5 reviews.",
+  "positive_themes": {
+    "friendly_staff": 3,
+    "good_location": 1,
+    "great_value": 1
+  },
+  "negative_themes": {
+    "parking_issues": 1,
+    "dirty_rooms": 1,
+    "rude_staff": 1
+  }
+}

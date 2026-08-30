@@ -1,0 +1,48 @@
+{
+  "hotel_id": "ChIJ788UkOAeDTkR1IXMH3KeYTY",
+  "hotel_name": "Luxera",
+  "area": "Aya Nagar",
+  "budget_category": "Mid-Range",
+  "rating": 4.1,
+  "trust_score": 0.802421308847409,
+  "travel_purpose_tags": [
+    "Budget"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "moderate",
+    "review_count": 5,
+    "positive_snippet_count": 3,
+    "negative_snippet_count": 1,
+    "positive_theme_count": 3,
+    "negative_theme_count": 0
+  },
+  "aspect_scores": {
+    "cleanliness": 0.9998407363891602,
+    "service": 0.5030913241207599,
+    "location": 0.5,
+    "value_for_money": 0.5,
+    "staff_behavior": 0.9996025363604228
+  },
+  "recommendation_features": {
+    "popularity_score": 0.6987360671801403,
+    "rating_score": 4.1,
+    "sentiment_score": 0.8009980514645576
+  },
+  "review_evidence": {
+    "positive_snippets": [
+      "I attended an event here and it was a decent experience. Specifically i liked the layout of this hotel the main Hall, the park everything is just where it is supposed to be... The place is nice but there is scope of improvement in staff professionality, No complaints.",
+      "The general environment and set up is exceptionally good. The place is neat and clean. Dining is having wide range of food. The staff in particular Shri Vivekanand Chaudhary served and looked after all the guests. I recommend this property needs a visit.",
+      "Attended a family function few days ago. The ambiance, food and the staff all were top notch . The hotel manager Mr Vivekanand himself took care of each and everything"
+    ],
+    "negative_snippets": [
+      "Pathetic sales service by Mr Kundan.He called me on 29- 12 -2025 evening that venue is availaible for specific two dates & when i visited personally to see venue after some time he told both dates got booked within a span of 2 hours.\n\nWhen you guys have not venue why you call people unnecessarily."
+    ]
+  },
+  "review_summary": "Based on 5 reviews.",
+  "positive_themes": {
+    "friendly_staff": 3,
+    "clean_rooms": 1,
+    "good_food": 3
+  },
+  "negative_themes": {}
+}

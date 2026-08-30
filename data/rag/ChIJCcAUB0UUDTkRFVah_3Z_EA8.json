@@ -1,0 +1,47 @@
+{
+  "hotel_id": "ChIJCcAUB0UUDTkRFVah_3Z_EA8",
+  "hotel_name": "Bird Sanctuary",
+  "area": "Sultanpur",
+  "budget_category": "Mid-Range",
+  "rating": 3.9,
+  "trust_score": 0.6730223850019357,
+  "travel_purpose_tags": [
+    "Leisure"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "sparse",
+    "review_count": 5,
+    "positive_snippet_count": 3,
+    "negative_snippet_count": 2,
+    "positive_theme_count": 1,
+    "negative_theme_count": 0
+  },
+  "aspect_scores": {
+    "cleanliness": 0.5,
+    "service": 0.5,
+    "location": 0.9997858107089996,
+    "value_for_money": 0.5,
+    "staff_behavior": 0.5
+  },
+  "recommendation_features": {
+    "popularity_score": 0.2918825720663544,
+    "rating_score": 3.9,
+    "sentiment_score": 0.7499821076271473
+  },
+  "review_evidence": {
+    "positive_snippets": [
+      "Sultanpur Bird Sanctuary near Gurugram delighted with migratory birds in winter wetlands. Trails and watchtowers good for spotting. Diverse species, peaceful ambiance. Educational displays nice. Cons seasonal best, mosquitoes, facilities basic. Entry low. Solid birding destination.",
+      "Location was perfect. Summer vacation for nice place.",
+      "Wah"
+    ],
+    "negative_snippets": [
+      "Nothing to watch anything\u2026 there are hardly few sparrows in muds and they don\u2019t care about your presence. It is not maintained",
+      "Amazing room"
+    ]
+  },
+  "review_summary": "Based on 5 reviews.",
+  "positive_themes": {
+    "good_location": 2
+  },
+  "negative_themes": {}
+}

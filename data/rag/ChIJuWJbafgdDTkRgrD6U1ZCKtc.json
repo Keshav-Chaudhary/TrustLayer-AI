@@ -1,0 +1,51 @@
+{
+  "hotel_id": "ChIJuWJbafgdDTkRgrD6U1ZCKtc",
+  "hotel_name": "Pride Plaza Aerocity",
+  "area": "Aerocity",
+  "budget_category": "Mid-Range",
+  "rating": 4.8,
+  "trust_score": 0.947796043144844,
+  "travel_purpose_tags": [
+    "Business"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "moderate",
+    "review_count": 5,
+    "positive_snippet_count": 3,
+    "negative_snippet_count": 1,
+    "positive_theme_count": 4,
+    "negative_theme_count": 1
+  },
+  "aspect_scores": {
+    "cleanliness": 0.9998062998056412,
+    "service": 0.7999111404933501,
+    "location": 0.6666063849988859,
+    "value_for_money": 0.0003305032441858,
+    "staff_behavior": 0.749922393624729
+  },
+  "recommendation_features": {
+    "popularity_score": 0.9463551507718048,
+    "rating_score": 4.8,
+    "sentiment_score": 0.7999111404933501
+  },
+  "review_evidence": {
+    "positive_snippets": [
+      "I recently stayed at Pride Plaza Hotel Aerocity and had a wonderful experience. The check-in process was smooth and efficient, with the front desk staff being quick and professional.\nAt the restaurant, the service was excellent. A special mention to Arjun, Poonam and Omri for being attentive, courteous, and prompt throughout. Their hospitality truly enhanced the dining experience.\nHousekeeping was equally impressive. Ms. Rana did a great job maintaining the room, ensuring everything was clean and comfortable.\nOverall, it was a great stay, and the above staff members truly deserve appreciation for their outstanding service.",
+      "I\u2019m truly grateful to have met Arjun, who welcomed me with such warm hospitality and ensured that I was comfortable throughout my stay. The room was very clean and hygienic. His excellent service truly deserves recognition and should be rewarded by the hotel management.\n\nThank you so much! Definitely will be back again!",
+      "We had a wonderful stay at Pride Plaza Hotel, Aerocity. The location near the Delhi airport is extremely convenient, especially for travelers with early or late flights.\n\nThe rooms were very clean, well-maintained, and comfortable, making it easy to relax after a long journey. Housekeeping did a great job throughout our stay.\n\nWhat truly stood out, though, was the service and hospitality. The staff was consistently polite, attentive, and always ready to help with a smile.\n\nA special thanks to Chef Sophia, whose hospitality made our dining experience exceptional. She was warm, welcoming, and went out of her way to ensure everything was perfect. The food was delicious, with a great variety and excellent taste \u2014 definitely one of the highlights of our stay.\n\nOverall, a fantastic experience. We would happily stay here again and highly recommend this hotel to anyone visiting Delhi."
+    ],
+    "negative_snippets": [
+      "NO , NO , NO.\nDont book here ,\nWe are paying around INR 26,000 per night for this room. At this price, we expected a good room and respectful behavior from the staff. Instead, the room given to us is very average and does not match the amount we are paying. The quality of the room and service is not acceptable for this price.\n\nThe behavior of your staff has also been very rude and arrogant. They are not helpful and do not speak properly. We have already raised these issues during the stay, but no one has taken proper action so far. The problems are still continuing.\n\nWe also came to know that similar rooms are now being given to other guests for around INR 11,000 to 12,000 per night. Charging us almost double and still giving a poor room and bad service is unfair."
+    ]
+  },
+  "review_summary": "Based on 5 reviews.",
+  "positive_themes": {
+    "clean_rooms": 4,
+    "friendly_staff": 4,
+    "good_location": 2,
+    "good_food": 2
+  },
+  "negative_themes": {
+    "rude_staff": 1
+  }
+}

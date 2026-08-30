@@ -1,0 +1,47 @@
+{
+  "hotel_id": "ChIJufECNbAfDTkRsAyk2MG1b1w",
+  "hotel_name": "Hotel O Met City",
+  "area": "Gurugram",
+  "budget_category": "Mid-Range",
+  "rating": 3.9,
+  "trust_score": 0.5771572848451002,
+  "travel_purpose_tags": [
+    "Budget"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "sparse",
+    "review_count": 5,
+    "positive_snippet_count": 2,
+    "negative_snippet_count": 3,
+    "positive_theme_count": 1,
+    "negative_theme_count": 0
+  },
+  "aspect_scores": {
+    "cleanliness": 0.5,
+    "service": 0.5,
+    "location": 0.5,
+    "value_for_money": 0.5,
+    "staff_behavior": 0.3334443667699815
+  },
+  "recommendation_features": {
+    "popularity_score": 0.3660129152098967,
+    "rating_score": 3.9,
+    "sentiment_score": 0.4000845657981699
+  },
+  "review_evidence": {
+    "positive_snippets": [
+      "I like it  Very Nice",
+      "Good hotel & best staff"
+    ],
+    "negative_snippets": [
+      "i have done my booking through oyo app and these guys denied to give me a room to stay . they said all rooms are full . worst experience",
+      "Worst Behaviour of staff , Water Heater not working and no good response from manager.",
+      "But the staff is not good ....short tempered and does not know the way how to talk politely"
+    ]
+  },
+  "review_summary": "Based on 5 reviews.",
+  "positive_themes": {
+    "friendly_staff": 3
+  },
+  "negative_themes": {}
+}

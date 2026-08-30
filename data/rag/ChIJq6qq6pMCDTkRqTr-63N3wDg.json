@@ -1,0 +1,51 @@
+{
+  "hotel_id": "ChIJq6qq6pMCDTkRqTr-63N3wDg",
+  "hotel_name": "Hotel Pals Inn",
+  "area": "Patel Nagar",
+  "budget_category": "Budget",
+  "rating": 4.0,
+  "trust_score": 0.81410592349826,
+  "travel_purpose_tags": [
+    "Business"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "moderate",
+    "review_count": 5,
+    "positive_snippet_count": 3,
+    "negative_snippet_count": 1,
+    "positive_theme_count": 4,
+    "negative_theme_count": 1
+  },
+  "aspect_scores": {
+    "cleanliness": 0.5,
+    "service": 0.9998458623886108,
+    "location": 0.5,
+    "value_for_money": 0.9998602867126464,
+    "staff_behavior": 0.9964930415153505
+  },
+  "recommendation_features": {
+    "popularity_score": 0.5646928713109803,
+    "rating_score": 4.0,
+    "sentiment_score": 0.9686508297920228
+  },
+  "review_evidence": {
+    "positive_snippets": [
+      "One of the best hotels/inn I have stayed. Hospitality, neatness, quality of food as well as staff behaviour is simply superb. The GM of the Hotel/Inn Mr. Arvinder Singh is so humble and kind and has answers to all your queries. I will surely recommend people visiting Delhi to stay and enjoy this 5 star like service at very reasonable and affordable prices.",
+      "This hotel is classified as a 3 star but should be much higher ! The people here are absolutely wonderful and go beyond the normal requirements and excel in providing excellent service. The owner, front desk staff, porters, and room service  are always available and ready to assist in anything that you  require. My first impression of not sure was totally wrong ! People here have made me and my partner feel at home and comfortable. Thank you. I will make this hotel my first choice every time I visit Delhi.",
+      "I am so thankful that I could stay during my time in Delhi at the Pals Inn. Especially the Manager Arvinder Singh and his team made me feel safe and well taken care of even though I was alone and quite stranded. I had lost my passport in Delhi and without his help and going the extra mile my stay would have been so much harder.\nFor instance I could stay there longer on short notice. He helped me with paperwork, the authorities, logistics, transportation and lent me his computer. He was even an emotional support. The food is also very good at Pals Inn and can be tailored to your Special wishes.\nAgainst all the odds being there made my time enjoyable and I have learnt so much. The hospitality and kindness I have experienced was truly remarkable and I will take These memories everywhere I go. I can't thank Avinder Singh enough!!! May you, your family and your work truly be blessed!!!"
+    ],
+    "negative_snippets": [
+      "Good to stay but there is no parking at hotel so so not good not bad rating for hotel 10 to 5 only"
+    ]
+  },
+  "review_summary": "Based on 5 reviews.",
+  "positive_themes": {
+    "clean_rooms": 1,
+    "friendly_staff": 3,
+    "great_value": 1,
+    "good_food": 3
+  },
+  "negative_themes": {
+    "parking_issues": 1
+  }
+}

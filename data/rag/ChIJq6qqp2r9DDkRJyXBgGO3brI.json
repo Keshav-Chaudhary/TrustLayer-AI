@@ -1,0 +1,50 @@
+{
+  "hotel_id": "ChIJq6qqp2r9DDkRJyXBgGO3brI",
+  "hotel_name": "Hotel Roma Deluxe",
+  "area": "Paharganj",
+  "budget_category": "Mid-Range",
+  "rating": 2.8,
+  "trust_score": 0.4166278171293786,
+  "travel_purpose_tags": [
+    "Budget"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "moderate",
+    "review_count": 5,
+    "positive_snippet_count": 1,
+    "negative_snippet_count": 3,
+    "positive_theme_count": 3,
+    "negative_theme_count": 1
+  },
+  "aspect_scores": {
+    "cleanliness": 0.2004396498436108,
+    "service": 0.0002497587120159,
+    "location": 0.5,
+    "value_for_money": 0.9998480081558228,
+    "staff_behavior": 0.9998480081558228
+  },
+  "recommendation_features": {
+    "popularity_score": 0.5982406125286485,
+    "rating_score": 2.8,
+    "sentiment_score": 0.2004396498436108
+  },
+  "review_evidence": {
+    "positive_snippets": [
+      "Roma Hotel blends warmth and comfort perfectly \u2014 spotless rooms, attentive staff, and peaceful vibes make every stay feel effortlessly relaxing. Truly a hidden gem worth revisiting."
+    ],
+    "negative_snippets": [
+      "the room is really dirty there is no hot water the switch bords are not working only 1 is working i complained he said you book online so we cant help you in that we asked for 1 more blanket as we r 2 people in room and the blanket they give is small and very thin he said we dont have any more. Really bad hotel and service",
+      "Poor experience. We have booked 4 rooms and its not like the picture shown . Rats are running from 2 rooms and there is a big window size hole in ac room and they just covered it with a curtain. If u are looking a good clean room \" Roma dx \" is not for you.",
+      "Our experience was too bad infact this hotel has nice exterior only but the interior arrangements was tooo baddddd  we faced too bad smell and bed was dirty in face the whole set was smelling to bad and Washroom seat was unhygienic as well"
+    ]
+  },
+  "review_summary": "Based on 5 reviews.",
+  "positive_themes": {
+    "clean_rooms": 2,
+    "friendly_staff": 1,
+    "great_value": 1
+  },
+  "negative_themes": {
+    "dirty_rooms": 3
+  }
+}

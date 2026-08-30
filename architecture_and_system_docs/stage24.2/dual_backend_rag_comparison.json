@@ -1,0 +1,166 @@
+{
+  "total_queries": 20,
+  "top1_parity_count": 20,
+  "queries": [
+    {
+      "query": "clean hotels in Delhi",
+      "csv_chroma_top_hotel": "Hotel Aerostar Grand",
+      "postgres_pgvec_top_hotel": "Hotel Aerostar Grand",
+      "top1_match": true,
+      "top5_overlap_count": 5,
+      "status": "PASS"
+    },
+    {
+      "query": "budget stay in Delhi NCR",
+      "csv_chroma_top_hotel": "Homestay Near Isbt Kashmiri Gate & Metro | Private Rooms & Dorms",
+      "postgres_pgvec_top_hotel": "Homestay Near Isbt Kashmiri Gate & Metro | Private Rooms & Dorms",
+      "top1_match": true,
+      "top5_overlap_count": 5,
+      "status": "PASS"
+    },
+    {
+      "query": "luxury hotel near Mahipalpur",
+      "csv_chroma_top_hotel": "Radisson Blu Plaza Hotel, Delhi Airport",
+      "postgres_pgvec_top_hotel": "Radisson Blu Plaza Hotel, Delhi Airport",
+      "top1_match": true,
+      "top5_overlap_count": 1,
+      "status": "PASS"
+    },
+    {
+      "query": "hotels close to Indira Gandhi International airport",
+      "csv_chroma_top_hotel": "Radisson Blu Plaza Hotel, Delhi Airport",
+      "postgres_pgvec_top_hotel": "Radisson Blu Plaza Hotel, Delhi Airport",
+      "top1_match": true,
+      "top5_overlap_count": 5,
+      "status": "PASS"
+    },
+    {
+      "query": "cheap hotels under 2000 in Delhi",
+      "csv_chroma_top_hotel": "Hotel Hr Residency",
+      "postgres_pgvec_top_hotel": "Hotel Hr Residency",
+      "top1_match": true,
+      "top5_overlap_count": 5,
+      "status": "PASS"
+    },
+    {
+      "query": "5 star luxury stay in Delhi",
+      "csv_chroma_top_hotel": "Rich Star Guest House",
+      "postgres_pgvec_top_hotel": "Rich Star Guest House",
+      "top1_match": true,
+      "top5_overlap_count": 5,
+      "status": "PASS"
+    },
+    {
+      "query": "highest rated hotels with 4.5 rating",
+      "csv_chroma_top_hotel": "Hotel D K Residency",
+      "postgres_pgvec_top_hotel": "Hotel D K Residency",
+      "top1_match": true,
+      "top5_overlap_count": 5,
+      "status": "PASS"
+    },
+    {
+      "query": "hotel with free wifi and swimming pool",
+      "csv_chroma_top_hotel": "Sky Inn By Twamev",
+      "postgres_pgvec_top_hotel": "Sky Inn By Twamev",
+      "top1_match": true,
+      "top5_overlap_count": 5,
+      "status": "PASS"
+    },
+    {
+      "query": "business hotel in Gurugram",
+      "csv_chroma_top_hotel": "Evergreen Resort Aravali",
+      "postgres_pgvec_top_hotel": "Evergreen Resort Aravali",
+      "top1_match": true,
+      "top5_overlap_count": 5,
+      "status": "PASS"
+    },
+    {
+      "query": "family friendly stay in Noida",
+      "csv_chroma_top_hotel": "Hotel O New Star Rooms",
+      "postgres_pgvec_top_hotel": "Hotel O New Star Rooms",
+      "top1_match": true,
+      "top5_overlap_count": 1,
+      "status": "PASS"
+    },
+    {
+      "query": "hotels in Mumbai",
+      "csv_chroma_top_hotel": "Hotel Anand Bhawan",
+      "postgres_pgvec_top_hotel": "Hotel Anand Bhawan",
+      "top1_match": true,
+      "top5_overlap_count": 5,
+      "status": "PASS"
+    },
+    {
+      "query": "beach resort in Goa",
+      "csv_chroma_top_hotel": "Terrace Garden Room",
+      "postgres_pgvec_top_hotel": "Terrace Garden Room",
+      "top1_match": true,
+      "top5_overlap_count": 5,
+      "status": "PASS"
+    },
+    {
+      "query": "tech stay in Bangalore",
+      "csv_chroma_top_hotel": "Radisson Blu Towers Kaushambi Delhi Ncr",
+      "postgres_pgvec_top_hotel": "Radisson Blu Towers Kaushambi Delhi Ncr",
+      "top1_match": true,
+      "top5_overlap_count": 5,
+      "status": "PASS"
+    },
+    {
+      "query": "hotels in Pune",
+      "csv_chroma_top_hotel": "Jaypee Siddharth - 5 Star Luxury Hotels In Delhi",
+      "postgres_pgvec_top_hotel": "Jaypee Siddharth - 5 Star Luxury Hotels In Delhi",
+      "top1_match": true,
+      "top5_overlap_count": 5,
+      "status": "PASS"
+    },
+    {
+      "query": "heritage hotel in Jaipur",
+      "csv_chroma_top_hotel": "De Pavilion Hotel, Delhi",
+      "postgres_pgvec_top_hotel": "De Pavilion Hotel, Delhi",
+      "top1_match": true,
+      "top5_overlap_count": 5,
+      "status": "PASS"
+    },
+    {
+      "query": "hotels in NonExistentCity999",
+      "csv_chroma_top_hotel": "Radisson Blu Plaza Hotel, Delhi Airport",
+      "postgres_pgvec_top_hotel": "Radisson Blu Plaza Hotel, Delhi Airport",
+      "top1_match": true,
+      "top5_overlap_count": 5,
+      "status": "PASS"
+    },
+    {
+      "query": "hotel near Aerocity",
+      "csv_chroma_top_hotel": "Holiday Inn New Delhi Int'L Airport, An Ihg Hotel",
+      "postgres_pgvec_top_hotel": "Holiday Inn New Delhi Int'L Airport, An Ihg Hotel",
+      "top1_match": true,
+      "top5_overlap_count": 3,
+      "status": "PASS"
+    },
+    {
+      "query": "hotel with high cleanliness score",
+      "csv_chroma_top_hotel": "Hotel D K Residency",
+      "postgres_pgvec_top_hotel": "Hotel D K Residency",
+      "top1_match": true,
+      "top5_overlap_count": 5,
+      "status": "PASS"
+    },
+    {
+      "query": "hotel for solo traveler in Karol Bagh",
+      "csv_chroma_top_hotel": "Alaya Stays By Elivaas Emperor Palms - Hotel In Delhi",
+      "postgres_pgvec_top_hotel": "Alaya Stays By Elivaas Emperor Palms - Hotel In Delhi",
+      "top1_match": true,
+      "top5_overlap_count": 5,
+      "status": "PASS"
+    },
+    {
+      "query": "hotel near Connaught Place",
+      "csv_chroma_top_hotel": "The Park",
+      "postgres_pgvec_top_hotel": "The Park",
+      "top1_match": true,
+      "top5_overlap_count": 5,
+      "status": "PASS"
+    }
+  ]
+}

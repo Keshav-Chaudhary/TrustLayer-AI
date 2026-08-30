@@ -1,0 +1,53 @@
+{
+  "hotel_id": "ChIJ86e0i6sjDTkRzMsqrb9fdGU",
+  "hotel_name": "Saltstayz Premier - Golf Course Extension Road",
+  "area": "Sector 62",
+  "budget_category": "Budget",
+  "rating": 4.5,
+  "trust_score": 0.6635552072595607,
+  "travel_purpose_tags": [
+    "Budget"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "moderate",
+    "review_count": 5,
+    "positive_snippet_count": 1,
+    "negative_snippet_count": 3,
+    "positive_theme_count": 5,
+    "negative_theme_count": 2
+  },
+  "aspect_scores": {
+    "cleanliness": 0.0007715450289348,
+    "service": 0.2503087193326791,
+    "location": 0.5006235679029487,
+    "value_for_money": 0.0005619029980152,
+    "staff_behavior": 0.2505126312753418
+  },
+  "recommendation_features": {
+    "popularity_score": 0.6965614565194599,
+    "rating_score": 4.5,
+    "sentiment_score": 0.2005224856198764
+  },
+  "review_evidence": {
+    "positive_snippets": [
+      "My stay at Saltstayz Premier was absolutely fantastic! \u2728 The rooms were incredibly comfortable and well-maintained. The service was top-notch, with friendly and attentive staff always ready to help. \ud83d\ude0a Plus, the location was perfect for exploring. I highly recommend it! \ud83d\udcaf Will definitely be back. \ud83c\udf1f"
+    ],
+    "negative_snippets": [
+      "Stayed at this hotel for 3 nights and unfortunately the overall experience was quite poor. The room initially allotted to me had a bad smell; although they changed the room after request, the issues didn\u2019t end there. The showers were not functioning properly and the bedding did not feel clean or well maintained.\n\nService is one of the biggest concerns \u2014 whenever i called for assistance, the response was extremely slow and staff seemed unwilling to help. Even the breakfast experience was disappointing; the food did not feel fresh and service again was lacking.\n\nI also ordered peas pulao from the kitchen, which unfortunately had a foul smell and was not edible. Overall, the hotel needs significant improvement in hygiene, food quality, and customer service before it can be recommended.",
+      "Had an appalling experience at Saltstayz \u201cPremier\u201d golf extension road. We checked in at 10 pm just to spend the night and leave early morning. We paid Rs. 11k for 2 rooms and were expecting a clean property if nothing else for that sum. First of all, BED BUGS! I couldnt sleep all night due to this. And then flush in our room was broken and they said the maintenance guy is unavailable to fix it. Then we tried ordering food, they took our order but then after 30 mins called to say it wont be possible. And then to top things off, they rang our door at 2:30 am at night to make us sign something, when asked why this couldn\u2019t wait until morning, they had us confused with a wedding party that was also staying that night. Ignore this property, not worth even 2k let alone 5k per night. Bed bugs in itself is good enough reason to avoid this, the property is falling apart.",
+      "I had very pathetic experience here. Checked in and checked out all within 30 mins. Rooms had strong smoking smell. Layout of the room felt very weird. This place felt very unsafe for families and couples. The area and hotel itself had very shady vibe. The staff\u2019s behaviour also felt kinda off and rude. I checked old reviews to make sure I was at the right place and not got some scammy location but to my absolute horror, this place had many reviews pointing out the same experience that we had. I stayed at other properties of saltstayz yet had much much better experience."
+    ]
+  },
+  "review_summary": "Based on 5 reviews.",
+  "positive_themes": {
+    "friendly_staff": 4,
+    "good_location": 2,
+    "clean_rooms": 3,
+    "good_food": 2,
+    "great_value": 1
+  },
+  "negative_themes": {
+    "dirty_rooms": 2,
+    "rude_staff": 1
+  }
+}

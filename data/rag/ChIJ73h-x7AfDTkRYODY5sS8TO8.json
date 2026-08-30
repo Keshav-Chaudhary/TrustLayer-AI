@@ -1,0 +1,52 @@
+{
+  "hotel_id": "ChIJ73h-x7AfDTkRYODY5sS8TO8",
+  "hotel_name": "Fabhotel Rivlet Residency - Hotel In Dlf Phase 3, Gurgaon",
+  "area": "Sector 24",
+  "budget_category": "Mid-Range",
+  "rating": 4.6,
+  "trust_score": 0.5771620941060669,
+  "travel_purpose_tags": [
+    "Budget"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "moderate",
+    "review_count": 5,
+    "positive_snippet_count": 1,
+    "negative_snippet_count": 3,
+    "positive_theme_count": 3,
+    "negative_theme_count": 3
+  },
+  "aspect_scores": {
+    "cleanliness": 0.0028824984910897,
+    "service": 0.0006926472997292,
+    "location": 0.5,
+    "value_for_money": 0.0003264986298745,
+    "staff_behavior": 0.0007929216299089
+  },
+  "recommendation_features": {
+    "popularity_score": 0.5261891640980573,
+    "rating_score": 4.6,
+    "sentiment_score": 0.0016488072404171
+  },
+  "review_evidence": {
+    "positive_snippets": [
+      "All good except the bathroom door was getting locked (jammed). parking was outside premises ,looks little risky"
+    ],
+    "negative_snippets": [
+      "It was worst experience. It is not hotel, It is PG or Guest house. Unskilled and unprofessional staff. Fan and intercom phone not working. Breakfast and water not getting served on time. Complete waste of money.\nVisit properly before booking online.",
+      "Staff was supportive, check in was smooth but Rooms are not as shown in photos,rooms are so smelly, and bed sheets need to be cleaned skirtings are broken they have to just take care of that",
+      "Very poor staff . Nobody is visiting their hotel so if by chance you go there they will start asking money for everything . 500 per peson for early stay . Extra money for dental kit extra money for towel . Staf is very very rude they dont know how to talk to their guest . Guy named akash was speaking very badly and gave a very bad treatment till the very end.please never book them"
+    ]
+  },
+  "review_summary": "Based on 5 reviews.",
+  "positive_themes": {
+    "friendly_staff": 4,
+    "good_food": 1,
+    "clean_rooms": 1
+  },
+  "negative_themes": {
+    "parking_issues": 1,
+    "rude_staff": 2,
+    "dirty_rooms": 2
+  }
+}

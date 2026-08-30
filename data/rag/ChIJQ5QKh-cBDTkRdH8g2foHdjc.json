@@ -1,0 +1,54 @@
+{
+  "hotel_id": "ChIJQ5QKh-cBDTkRdH8g2foHdjc",
+  "hotel_name": "Gallivanto Inn - Rohini",
+  "area": "Rohini",
+  "budget_category": "Budget",
+  "rating": 4.5,
+  "trust_score": 0.8192293398912506,
+  "travel_purpose_tags": [
+    "Leisure",
+    "Business",
+    "Family"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "moderate",
+    "review_count": 5,
+    "positive_snippet_count": 3,
+    "negative_snippet_count": 1,
+    "positive_theme_count": 5,
+    "negative_theme_count": 1
+  },
+  "aspect_scores": {
+    "cleanliness": 0.7499154028046178,
+    "service": 0.7999051425256767,
+    "location": 0.9998058676719666,
+    "value_for_money": 0.6666003620290818,
+    "staff_behavior": 0.9998240868250527
+  },
+  "recommendation_features": {
+    "popularity_score": 0.5293994757998772,
+    "rating_score": 4.5,
+    "sentiment_score": 0.7999051425256767
+  },
+  "review_evidence": {
+    "positive_snippets": [
+      "Review of Gallivanto Inn\n\nGallivanto Inn is a comfortable and welcoming place to stay, offering a pleasant experience for travelers looking for both relaxation and convenience. The rooms are clean, well-maintained, and equipped with all the basic amenities needed for a comfortable stay. The beds are cozy, and the peaceful atmosphere makes it ideal for families as well as business travelers.\n\nThe staff at Gallivanto Inn are polite, helpful, and always ready to assist with any requests, which adds a personal touch to the overall experience. The service is prompt, and they make sure guests feel at home throughout their stay.\n\nThe location is another advantage, as it provides easy access to nearby attractions, restaurants, and transport facilities. Whether you\u2019re visiting for leisure or work, the inn offers good value for money with its reasonable pricing and quality service",
+      "Comfortable Rooms*: Guests praise the clean, spacious, and well-equipped rooms with modern amenities.\n- *Excellent Service*: The staff is friendly, attentive, and helpful, making check-in and check-out a breeze.\n- *Delicious Food*: The hotel's restaurant serves tasty breakfast and dinner options, with some guests even praising the chilli chicken.\n- *Convenient Location*: The hotel is near Rohini Metro Station, making it easy to explore the city.\n- *Value for Money*: Guests feel the hotel offers great value for its price, with some even recommending it for families\noverall, Gallivanto Inn seems like a solid choice for your Delhi stay \u00b9 \u00b2 \u00b3.",
+      "Had an amazing experience in the hotel. We booked 2 rooms both with breakfast and the food and service was very good. Gaurav and Raj ji very welcoming and coperating. Will recommend it for others."
+    ],
+    "negative_snippets": [
+      "My stay was absolutely not good. The room quality as well as the service was nowhere close to what we expected for the price we paid. We did not feel it was worth the money at all.\n\nThe bed sheets were dirty, and even the towel we requested was also unclean. Overall, the basic hygiene and maintenance were very poor. This made the stay quite uncomfortable for us."
+    ]
+  },
+  "review_summary": "Based on 5 reviews.",
+  "positive_themes": {
+    "clean_rooms": 4,
+    "friendly_staff": 4,
+    "good_location": 3,
+    "great_value": 3,
+    "good_food": 2
+  },
+  "negative_themes": {
+    "dirty_rooms": 1
+  }
+}

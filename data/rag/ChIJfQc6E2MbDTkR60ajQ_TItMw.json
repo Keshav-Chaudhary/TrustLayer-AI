@@ -1,0 +1,53 @@
+{
+  "hotel_id": "ChIJfQc6E2MbDTkR60ajQ_TItMw",
+  "hotel_name": "Hotel Grand Inn",
+  "area": "New Delhi",
+  "budget_category": "Budget",
+  "rating": 4.2,
+  "trust_score": 0.7240605538197685,
+  "travel_purpose_tags": [
+    "Leisure"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "rich",
+    "review_count": 5,
+    "positive_snippet_count": 3,
+    "negative_snippet_count": 2,
+    "positive_theme_count": 4,
+    "negative_theme_count": 2
+  },
+  "aspect_scores": {
+    "cleanliness": 0.6690737401756147,
+    "service": 0.9998373985290528,
+    "location": 0.7517478313529864,
+    "value_for_money": 0.5,
+    "staff_behavior": 0.6667638000217266
+  },
+  "recommendation_features": {
+    "popularity_score": 0.5670389014279129,
+    "rating_score": 4.2,
+    "sentiment_score": 0.6015173895168118
+  },
+  "review_evidence": {
+    "positive_snippets": [
+      "My recent stay at Hotel Grand Inn was an absolute pleasure. The rooms were clean, comfortable, and well-appointed, providing a perfect retreat after a day of work/sightseeing. The hotel amenities were great, and the location was convenient.\n\nWhat truly made our stay memorable, however, was the outstanding service. A special mention must go to Mr. Sanjay Thakur. His professionalism, attentive nature, and genuine warmth were exceptional. He went above and beyond to ensure all our needs were met, offering helpful local recommendations and attending to every detail with a smile. His dedication is a true asset to Hotel Grand Inn.\n\nI highly recommend Hotel Grand Inn to anyone seeking a comfortable stay with service that feels personal and thoughtful. We will definitely be returning!\n\nSuggestion for the Management: Please recognize and appreciate Mr. Sanjay Thakur. Employees like him are what build loyal guests.",
+      "Absolutely loved my stay! The rooms were spotless, modern, and super comfortable. Staff was incredibly friendly and went above and beyond to make us feel welcome. The location was perfect\u2014close to everything but still peaceful. Would highly recommend this hotel to anyone visiting the area!",
+      "Room is designed very well perfect, services can be more better but it's perfect if you prefer private they don't distrub you. Well for location I'm not too impress but manageable."
+    ],
+    "negative_snippets": [
+      "The hotel is located in a very poor location. Right next to open gutter.\nNo proper parking arrangements for 4 wheeler\nRoom was spacious but lacking basic hygeine. Saw a mouse roaming freely in the room. Food was served quickly and was good. Hotel needs to take care of their laundry as the fresh towel and bedsheets had a smell to them",
+      "The behavior of the hotel staff was very bad. There is a lot of dirt outside the hotel.\nThis hotel is not at all what it appears to be or it is a very bad hotel.\nWe had booked through MakeMyTrip but when we reached there we were not given a room and were harassed for two-three hours. Then we even called the police. After that the solution was found."
+    ]
+  },
+  "review_summary": "Based on 5 reviews.",
+  "positive_themes": {
+    "clean_rooms": 2,
+    "friendly_staff": 3,
+    "good_location": 4,
+    "good_food": 1
+  },
+  "negative_themes": {
+    "dirty_rooms": 1,
+    "parking_issues": 1
+  }
+}

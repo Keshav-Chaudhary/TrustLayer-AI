@@ -1,0 +1,51 @@
+{
+  "hotel_id": "ChIJ1bSHNgLjDDkR4txUN5dzXiM",
+  "hotel_name": "Flagship Hotel Max Near Samaypur Badli Metro Station",
+  "area": "Bhalswa",
+  "budget_category": "Mid-Range",
+  "rating": 4.0,
+  "trust_score": 0.5999766118064085,
+  "travel_purpose_tags": [
+    "Budget"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "rich",
+    "review_count": 5,
+    "positive_snippet_count": 3,
+    "negative_snippet_count": 2,
+    "positive_theme_count": 2,
+    "negative_theme_count": 2
+  },
+  "aspect_scores": {
+    "cleanliness": 0.4960137092275545,
+    "service": 0.9998499155044556,
+    "location": 0.5,
+    "value_for_money": 0.5,
+    "staff_behavior": 0.4945085775980261
+  },
+  "recommendation_features": {
+    "popularity_score": 0.2637433020525564,
+    "rating_score": 4.0,
+    "sentiment_score": 0.4981220024492359
+  },
+  "review_evidence": {
+    "positive_snippets": [
+      "A clean and hygienic hotel ..staff is incredibly mannered...and aminities and services are tooo...good..\u2763\ufe0f\u2763\ufe0f",
+      "Very nice",
+      "Good service"
+    ],
+    "negative_snippets": [
+      "Very bad experience & very rude behaviour from staff & doing some illegal work also",
+      "Rooms are filthy and the toilets are not cleaned and the bedsheets were not changed...."
+    ]
+  },
+  "review_summary": "Based on 5 reviews.",
+  "positive_themes": {
+    "clean_rooms": 2,
+    "friendly_staff": 2
+  },
+  "negative_themes": {
+    "rude_staff": 1,
+    "dirty_rooms": 1
+  }
+}

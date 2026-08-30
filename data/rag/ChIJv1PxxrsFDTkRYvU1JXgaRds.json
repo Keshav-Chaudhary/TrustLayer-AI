@@ -1,0 +1,49 @@
+{
+  "hotel_id": "ChIJv1PxxrsFDTkRYvU1JXgaRds",
+  "hotel_name": "Hotel Prithvi Residency",
+  "area": "Nawada",
+  "budget_category": "Mid-Range",
+  "rating": 3.4,
+  "trust_score": 0.4269283804724055,
+  "travel_purpose_tags": [
+    "Budget"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "moderate",
+    "review_count": 5,
+    "positive_snippet_count": 1,
+    "negative_snippet_count": 3,
+    "positive_theme_count": 2,
+    "negative_theme_count": 1
+  },
+  "aspect_scores": {
+    "cleanliness": 0.5,
+    "service": 0.0044581138063222,
+    "location": 0.0021573313279077,
+    "value_for_money": 0.0021964053157716,
+    "staff_behavior": 0.0041081793606281
+  },
+  "recommendation_features": {
+    "popularity_score": 0.2690641681418895,
+    "rating_score": 3.4,
+    "sentiment_score": 0.2021764560136944
+  },
+  "review_evidence": {
+    "positive_snippets": [
+      "Best hotel dwarka mod"
+    ],
+    "negative_snippets": [
+      "Never ever go to this place! I booked a stay for two days from OYO I had already done the full payment, but when I went to the reception of the hotel. There was one uncle who was asking for extra Rs.700 even after I paid the full amount. They knew we had paid full but were acting as if we havent paid and there is still balance to be paid. They said will only give checkin if you pay extra",
+      "That was my bad experience with OYO hotels I planed a small party on 2nd May night and checkout on 3rd may and i done my advance payment which was 769rs. Then I received a call from OYO customer care services that our hotel is full you have to change the hotel and cancelled the booking from our hotel then one of my friend visite the hotel and she said I have a booking under the name of vikas and we maid the payment through OYO APP but they said we cannot allow 3 people in a single room if you want to stey in a single room you have to pay extra cash, is this looking good and my money is not refund till now please refund my money ASAP.",
+      "First of all the location on goggle map is wrong don't go there it's wrong\nThe owner is very rude and very bad nature and all the facilities listed is wrong and\nI read a review saying the owner demands extra money on arrival it's true he does demand extra money over complete online booking and did not allow check in 30 minute before and sir in the reception the rest of the time"
+    ]
+  },
+  "review_summary": "Based on 5 reviews.",
+  "positive_themes": {
+    "good_location": 2,
+    "great_value": 1
+  },
+  "negative_themes": {
+    "rude_staff": 1
+  }
+}

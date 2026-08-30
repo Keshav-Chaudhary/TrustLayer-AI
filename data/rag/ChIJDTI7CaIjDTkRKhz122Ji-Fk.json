@@ -1,0 +1,48 @@
+{
+  "hotel_id": "ChIJDTI7CaIjDTkRKhz122Ji-Fk",
+  "hotel_name": "Hilton Gurugram Baani City Centre",
+  "area": "Sector 63",
+  "budget_category": "Mid-Range",
+  "rating": 4.7,
+  "trust_score": 0.9376403356954364,
+  "travel_purpose_tags": [
+    "Leisure",
+    "Business"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "moderate",
+    "review_count": 5,
+    "positive_snippet_count": 3,
+    "negative_snippet_count": 0,
+    "positive_theme_count": 4,
+    "negative_theme_count": 0
+  },
+  "aspect_scores": {
+    "cleanliness": 0.999727100133896,
+    "service": 0.9997322261333466,
+    "location": 0.99986732006073,
+    "value_for_money": 0.5,
+    "staff_behavior": 0.99980328977108
+  },
+  "recommendation_features": {
+    "popularity_score": 0.6612469266544017,
+    "rating_score": 4.7,
+    "sentiment_score": 0.9998181462287904
+  },
+  "review_evidence": {
+    "positive_snippets": [
+      "We had a wonderful dining experience for Lunch at the restaurant at Hilton. The food was excellent, but what truly made the evening exceptional was the service. Yogesh and Nadeem went above and beyond to ensure we were comfortable and well taken care of throughout our visit. They were attentive, professional, and genuinely warm, making us feel welcomed from start to finish. Their attention to detail and friendly approach really elevated the entire experience. Kudos to the team; this is hospitality done right. Highly recommended!",
+      "I had a wonderful stay at Hilton Gurugram, and the hospitality here truly stands out. The hotel is beautiful, well-maintained, and very comfortable.\n\nI would especially like to appreciate Monika, the receptionist. She is an amazing person\u2014extremely kind, polite, and professional. From the moment I arrived, she made me feel very welcome with her warm smile and helpful nature. She handled everything so smoothly and patiently, which made my stay even more pleasant.\n\nPeople like Monika truly represent the high standards of Hilton. Thank you for such a lovely experience. I will definitely recommend this hotel and would love to stay here again.",
+      "Great Hotel! Well appointed rooms and spacious and clean!\nStaff went out of their way to help me out due to a booking oversight. Special mention to front desk staff Nomita and chef Harsha for taking Special interest in ensuring i was comfortable."
+    ],
+    "negative_snippets": []
+  },
+  "review_summary": "Based on 5 reviews.",
+  "positive_themes": {
+    "friendly_staff": 4,
+    "good_food": 3,
+    "clean_rooms": 2,
+    "good_location": 1
+  },
+  "negative_themes": {}
+}

@@ -1,0 +1,52 @@
+{
+  "hotel_id": "ChIJyfblicYYDTkRYmMn8f1coPg",
+  "hotel_name": "Hotel Premium Nest - Hotel In Sushant Lok 1, Gurgaon",
+  "area": "Sushant Lok Phase I",
+  "budget_category": "Mid-Range",
+  "rating": 3.8,
+  "trust_score": 0.6186019192095449,
+  "travel_purpose_tags": [
+    "Leisure"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "moderate",
+    "review_count": 5,
+    "positive_snippet_count": 2,
+    "negative_snippet_count": 3,
+    "positive_theme_count": 4,
+    "negative_theme_count": 1
+  },
+  "aspect_scores": {
+    "cleanliness": 0.3347717449263048,
+    "service": 0.5024261637590826,
+    "location": 0.9998005032539368,
+    "value_for_money": 0.9998005032539368,
+    "staff_behavior": 0.9998005032539368
+  },
+  "recommendation_features": {
+    "popularity_score": 0.6207441246058331,
+    "rating_score": 3.8,
+    "sentiment_score": 0.4018335124594159
+  },
+  "review_evidence": {
+    "positive_snippets": [
+      "I stayed here with my mother for 10 days while visiting Max Hospital for her treatment. The hotel was very clean, peaceful, and budget-friendly \u2014 perfect for a comfortable and worry-free stay. The staff were polite, helpful, and always ready to assist whenever needed.\n\nAs a Bangladeshi \ud83c\udde7\ud83c\udde9 traveler, I truly appreciated the safe and welcoming environment. It\u2019s close to Max Hospital and easily accessible to nearby shops and restaurants. I highly recommend this hotel to anyone visiting Gurugram for medical or personal purposes.",
+      "Good hospitality and responses from reception and customer care service. I had an early check in and people at hotel were supportive to arrange a room in urgency."
+    ],
+    "negative_snippets": [
+      "I used to stay here 3 - 4 times in a year. the servide used to be good here, but from last 2 visits i observed the servise has got degraded. you need call the reception 2 to 3 times for a small service also.\n1. The room which was given this time has no intercomm connection, the exhaust fan in the bath room was not working.\n2. Room was also not properly cleaned.\n3. slow room service.\n\n4. Food was ok.",
+      "For an amount of \u20b91300 per day, customers expect a good and clean room. The room shown in the MakeMyTrip pictures looked good, but the actual room condition was different and not as expected. The room quality needs improvement.",
+      "Worst experience in this hotel.\n1. Room not clean when I'm reaching even after 5 o'clock.\n2. Minaral water not provide and when at the time of check-out receptionist charge extra for the same.\n3. Insects present on a bed.\n4. Dirty walls.\n5. Unclean washroom.\n6. Geyser not working.\n7. Broken switches.\n8. Main door not close properly.\n9. Washroom door open even after too much force apply for closing"
+    ]
+  },
+  "review_summary": "Based on 5 reviews.",
+  "positive_themes": {
+    "clean_rooms": 4,
+    "friendly_staff": 1,
+    "good_location": 1,
+    "good_food": 1
+  },
+  "negative_themes": {
+    "dirty_rooms": 1
+  }
+}

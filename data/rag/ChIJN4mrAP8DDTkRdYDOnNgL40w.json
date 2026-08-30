@@ -1,0 +1,49 @@
+{
+  "hotel_id": "ChIJN4mrAP8DDTkRdYDOnNgL40w",
+  "hotel_name": "J60 Suites",
+  "area": "Ashok Vihar",
+  "budget_category": "Mid-Range",
+  "rating": 4.4,
+  "trust_score": 0.7173865849951276,
+  "travel_purpose_tags": [
+    "Budget"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "moderate",
+    "review_count": 5,
+    "positive_snippet_count": 2,
+    "negative_snippet_count": 3,
+    "positive_theme_count": 3,
+    "negative_theme_count": 0
+  },
+  "aspect_scores": {
+    "cleanliness": 0.999884843826294,
+    "service": 0.4167535153537756,
+    "location": 0.5,
+    "value_for_money": 0.5,
+    "staff_behavior": 0.3335877057591763
+  },
+  "recommendation_features": {
+    "popularity_score": 0.5128679332392954,
+    "rating_score": 4.4,
+    "sentiment_score": 0.533379304211121
+  },
+  "review_evidence": {
+    "positive_snippets": [
+      "The rooms are excellent and clean. The amenities are really great including a microwave with complementary snacks and beverages. Nidhi is remarkable in assisting the guests. Just the food menu can be diversified and improved upon. Overall a very pleasant stay.",
+      "Had a wonderful 3-day stay at J60 Suites. The rooms were comfortable, clean, and well-maintained, making our stay truly relaxing. A special thanks to Mr. Anshuman and the entire staff for their warm hospitality and exceptional service. The food was delicious and thoughtfully prepared, adding to the overall experience. Truly grateful for the care and attention throughout our stay\u2014highly recommended!"
+    ],
+    "negative_snippets": [
+      "My wife and I stayed here during our visit to Delhi. While the room itself was satisfactory, our experience with billing and customer service has been extremely disappointing.\n\nDue to a technical error on their booking website, two transactions were processed for the same dates. The website displayed an error message during payment, which led us to believe the first transaction had failed. As a result, a second booking was made. However, only one room was required and only one room was used.\n\nDespite raising the issue immediately and providing all supporting documentation, the hotel has not been prompt or helpful in resolving the duplicate charge.\n\nAs we are traveling, we do not have the time to continuously follow up in person. However, we will be formally escalating this matter to the National Consumer Helpline and other appropriate authorities. We will not be letting this issue go unresolved.\n\nThis situation could have been handled quickly and professionally, but the lack of timely response has been disappointing",
+      "1. Rooms are Good, I mean very Good. Well maintained with good upkeep.\n2. Room service can be improved more\n3. The kitchen menu seems standard. Same menu daily. Need to keep variations.\n4. The CARD MACHINE was not functioning. Therefore those without ONLINE PAYMENT methods has to use Cash only. People tend to use Credit Card. Hence what is the use of credit card.\n5. Customes should be given option to Pay later. Here was told to pay full amount before hand.\n6. Overall a good hotel in ashok vihar.\nThanks for Team J60 for a good experience.\nBest of luck",
+      "We stayed at J60 Hotel with a large group, booking 10 rooms for 3 days and 3 nights. Unfortunately, the experience at checkout completely ruined what could have been an acceptable stay.\n\nThe hotel charged us 2000 as \u201cdamage charges\u201d for a broken toilet seat, which is completely unreasonable. Toilet seats do not break under normal use unless they are already old, weak, or of poor quality. It is extremely unlikely that a guest would knowingly or intentionally break a toilet seat.\n\nWhat makes this even more frustrating is that a member of the hotel\u2019s service team had stepped on the toilet pot while fixing the geyser in the room. This could very well be the actual reason for the damage, yet the hotel chose to blame the guest and impose an inflated charge instead of taking responsibility.\n\nNo decent hotel charges guests for such minor, wear-and-tear issues, and 2000 is an absurd amount for a toilet seat. Despite repeated follow-ups, the hotel has refused to refund the amount, showing very poor customer service and an unwillingness to act fairly.\n\nBecause of this behavior, I would not recommend this hotel to anyone, especially families or group travelers. Be prepared for arbitrary charges at checkout with no accountability. We will definitely not be returning, nor recommending this property to others."
+    ]
+  },
+  "review_summary": "Based on 5 reviews.",
+  "positive_themes": {
+    "clean_rooms": 2,
+    "good_food": 2,
+    "friendly_staff": 2
+  },
+  "negative_themes": {}
+}

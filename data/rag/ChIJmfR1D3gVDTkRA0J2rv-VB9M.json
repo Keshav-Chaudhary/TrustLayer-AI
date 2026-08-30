@@ -1,0 +1,45 @@
+{
+  "hotel_id": "ChIJmfR1D3gVDTkRA0J2rv-VB9M",
+  "hotel_name": "Oyo Hotel Rajhans",
+  "area": "Manesar",
+  "budget_category": "Budget",
+  "rating": 4.7,
+  "trust_score": 0.8719253726399308,
+  "travel_purpose_tags": [
+    "Budget"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "moderate",
+    "review_count": 5,
+    "positive_snippet_count": 3,
+    "negative_snippet_count": 0,
+    "positive_theme_count": 2,
+    "negative_theme_count": 0
+  },
+  "aspect_scores": {
+    "cleanliness": 0.9998559951782228,
+    "service": 0.5,
+    "location": 0.5,
+    "value_for_money": 0.5,
+    "staff_behavior": 0.9998510777950288
+  },
+  "recommendation_features": {
+    "popularity_score": 0.3522695076021969,
+    "rating_score": 4.7,
+    "sentiment_score": 0.9998276591300964
+  },
+  "review_evidence": {
+    "positive_snippets": [
+      "Awesome experience and also good staff behaviour",
+      "I stay here for 5 days, and the staff is really good 24/7 with all amenities, hotel owner Mr Happy is very polite and humble",
+      "The hotel is very good the staff is good and the room is also clean I stayed there for 15 days very good experience thank you very much"
+    ],
+    "negative_snippets": []
+  },
+  "review_summary": "Based on 5 reviews.",
+  "positive_themes": {
+    "friendly_staff": 4,
+    "clean_rooms": 1
+  },
+  "negative_themes": {}
+}

@@ -1,0 +1,49 @@
+{
+  "hotel_id": "ChIJYWObOR_lDDkRC3aMeHig0Mw",
+  "hotel_name": "Iidl Suites",
+  "area": "Mayur Vihar",
+  "budget_category": "Mid-Range",
+  "rating": 4.2,
+  "trust_score": 0.8337971909094514,
+  "travel_purpose_tags": [
+    "Budget"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "moderate",
+    "review_count": 5,
+    "positive_snippet_count": 3,
+    "negative_snippet_count": 1,
+    "positive_theme_count": 4,
+    "negative_theme_count": 0
+  },
+  "aspect_scores": {
+    "cleanliness": 0.666950223618187,
+    "service": 0.5004931655130349,
+    "location": 0.0011447601718828,
+    "value_for_money": 0.9993127286434174,
+    "staff_behavior": 0.7998959170421586
+  },
+  "recommendation_features": {
+    "popularity_score": 0.7854050079358023,
+    "rating_score": 4.2,
+    "sentiment_score": 0.7998959170421586
+  },
+  "review_evidence": {
+    "positive_snippets": [
+      "Located at a sweet spot around the best of 5 stars giving them a run for their money with their phenomenal and oh so welcoming friendly staff, I stayed here for 3 days and I have no complaints whatsoever they are so reliable, I lost my pearl ring and I mentioned it casually to Manish on the concierge, Akhil there helped me with my bags. Please give them all a pay rise for working with such integrity. Love IIDL Suites, I\u2019d prefer staying here again!",
+      "\u2b50\u2b50\u2b50\u2b50\u2b50 Excellent stay at IIDL Suites, Mayur Vihar, Delhi. The check-in experience was smooth, quick, and completely hassle-free, making the start of our stay very comfortable. The hotel and room exceeded expectations \u2014 spacious, clean, well-maintained, and thoughtfully designed for a relaxing stay. Food and beverage quality was impressive, with fresh, hygienic, and well-prepared meals, along with prompt room service. The staff behaviour was outstanding; everyone was polite, cooperative, and genuinely helpful throughout our stay. Safety and security arrangements were excellent, providing complete peace of mind, especially for families. Overall, a very satisfying and value-for-money stay, and I would definitely recommend this hotel and choose it again in the future.",
+      "We stayed here for a month, and it truly felt like a home away from home. The suite was spacious, clean, and thoughtfully designed, with a well-equipped kitchenette\u2014perfect for both business and family stays.\nA special mention goes to the housekeeping team, especially Mukesh, for maintaining impeccable cleanliness and ensuring every comfort was taken care of. His friendly attitude made a real difference throughout our stay.\nAll staff members, including the security team, were consistently polite and welcoming\u2014always greeting us with a smile. The breakfast spread was fresh, varied, and satisfying, and the kids really enjoyed the play area."
+    ],
+    "negative_snippets": [
+      "My stay at IIDL Suites in Mayur Vihar, New Delhi, was marred by a serious invasion of privacy that left me feeling unsafe and disrespected. Although I had deliberately opted out of housekeeping service (no \"Clean my room\" request selected, and no need for it that day), a male housekeeping staff member entered my occupied room uninvited and without proper announcement.\n\nI caught him in the act inside the room and immediately asked him to leave. His lame excuse? He claimed he rang the doorbell three times, got no answer, and decided he had the \"right\" to let himself in anyway\u2014for housekeeping that I hadn't even requested! This isn't just poor training; it's a blatant disregard for basic guest privacy and boundaries. No waiting for permission and just assuming entry is fine because the guest didn't respond. In what world does that make sense for a supposed \"luxury\" serviced apartment?\n\nWhen I reported this disturbing incident to the front desk receptionist, their response was infuriating: they shrugged it off as \"routine\" practice. No apology, no concern for my discomfort, no assurance that it wouldn't happen again or that the staff would be corrected. Instead, they defended the behavior as normal! It's shocking that the management at IIDL Suites allows\u2014and even normalizes\u2014such intrusions, treating a paying guest's explicit preference for privacy as \"optional\".\n\nShame on the management for cultivating this cavalier attitude toward guest safety and respect. In any professional hotel, especially one rebranded from Fraser Suites and trying to position itself as upscale, staff should never enter an occupied room without clear permission, particularly when service hasn't been requested. A simple acknowledgment of the mistake and an apology could have salvaged the situation, but their indifference speaks volumes about their priorities: apparently, \"routine\" violations trump customer comfort.\n\nThis property's history of rebranding (from Fraser Suites to IIDL) suggests ongoing issues, and if they continue tolerating this kind of incompetent, boundary-ignoring staff without accountability, it's no wonder they struggle to maintain a strong reputation.\n\nIf you prioritize your personal privacy, feeling secure in your room, and being treated with basic courtesy, strongly avoid IIDL Suites. There are far better hotels in Delhi that actually understand hospitality and respect guest requests. Save yourself the frustration and book elsewhere!"
+    ]
+  },
+  "review_summary": "Based on 5 reviews.",
+  "positive_themes": {
+    "friendly_staff": 5,
+    "clean_rooms": 3,
+    "great_value": 1,
+    "good_food": 2
+  },
+  "negative_themes": {}
+}

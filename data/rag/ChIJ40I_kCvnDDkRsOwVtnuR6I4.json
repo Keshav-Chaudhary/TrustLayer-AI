@@ -1,0 +1,50 @@
+{
+  "hotel_id": "ChIJ40I_kCvnDDkRsOwVtnuR6I4",
+  "hotel_name": "Goldfinch Hotel Delhi Ncr",
+  "area": "Sector 39",
+  "budget_category": "Mid-Range",
+  "rating": 4.0,
+  "trust_score": 0.8550276527813218,
+  "travel_purpose_tags": [
+    "Leisure",
+    "Business",
+    "Family"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "moderate",
+    "review_count": 5,
+    "positive_snippet_count": 3,
+    "negative_snippet_count": 0,
+    "positive_theme_count": 5,
+    "negative_theme_count": 0
+  },
+  "aspect_scores": {
+    "cleanliness": 0.9510714610417684,
+    "service": 0.9510714610417684,
+    "location": 0.9990314543247224,
+    "value_for_money": 0.9990314543247224,
+    "staff_behavior": 0.9510714610417684
+  },
+  "recommendation_features": {
+    "popularity_score": 0.759154401100616,
+    "rating_score": 4.0,
+    "sentiment_score": 0.9672739148139954
+  },
+  "review_evidence": {
+    "positive_snippets": [
+      "Amazing stay! Rooms were super clean, spacious, and very comfortable. Staff was extremely polite, helpful, and always ready to assist. Food quality was excellent with great variety, and service was quick. Location is also very convenient. Overall, a smooth and pleasant experience, felt truly value for money. Highly recommended, will definitely visit again!",
+      "Food served at Banjara was yummy. Specially home made chicken prepared my Chef MR. Jitendra Singh Rawat. Served by Mr.Sushil. Mr.  Sudip has excellent skills of hospitality. Keep it up!\nHowever, room cleanliness requires more efforts.",
+      "The hotel is good and offers clean and well-organized accommodations. The facilities met my expectations perfectly, and the staff try to help solve any issues, despite the language barrier.\n\nMy criticism concerns their capacity to handle a large number of guests. During the day, it\u2019s common to experience power fluctuations, and on more than one occasion I had problems with the water supply. In one instance, I had to call the reception because there was no water to finish my shower. Despite the inconvenience, they resolved it quickly."
+    ],
+    "negative_snippets": []
+  },
+  "review_summary": "Based on 5 reviews.",
+  "positive_themes": {
+    "clean_rooms": 4,
+    "friendly_staff": 3,
+    "good_location": 2,
+    "great_value": 2,
+    "good_food": 2
+  },
+  "negative_themes": {}
+}

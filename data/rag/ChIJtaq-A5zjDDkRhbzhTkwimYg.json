@@ -1,0 +1,50 @@
+{
+  "hotel_id": "ChIJtaq-A5zjDDkRhbzhTkwimYg",
+  "hotel_name": "Bloom Hotel - Gk2",
+  "area": "Greater Kailash",
+  "budget_category": "Mid-Range",
+  "rating": 4.6,
+  "trust_score": 0.9197604023150208,
+  "travel_purpose_tags": [
+    "Leisure",
+    "Business",
+    "Family"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "moderate",
+    "review_count": 5,
+    "positive_snippet_count": 3,
+    "negative_snippet_count": 0,
+    "positive_theme_count": 5,
+    "negative_theme_count": 0
+  },
+  "aspect_scores": {
+    "cleanliness": 0.9997195154428482,
+    "service": 0.9998769760131836,
+    "location": 0.9998680353164672,
+    "value_for_money": 0.9998680353164672,
+    "staff_behavior": 0.9997259616851808
+  },
+  "recommendation_features": {
+    "popularity_score": 0.6398215400849993,
+    "rating_score": 4.6,
+    "sentiment_score": 0.9997259616851808
+  },
+  "review_evidence": {
+    "positive_snippets": [
+      "Bloom Hotel GK 2 is a fantastic place to stay in South Delhi. The rooms are spotless, modern, and thoughtfully designed, with comfortable beds and bright interiors that instantly lift your mood. The staff is courteous, professional, and always ready to help with a smile. Check-in and check-out are smooth and hassle-free. The location is excellent, close to markets, cafes, and public transport, making it convenient for both business and leisure travelers. The breakfast is fresh and well-prepared, offering good variety.Bloom Hotel GK 2 delivers great value, comfort, and a pleasant experience. Highly recommended for a relaxing stay.",
+      "My experience at Bloom Hotel GK-2 was amazing. Vivek is a very kind and professional person who manages everything smoothly. Anjali is also very helpful and friendly at the front desk. The housekeeping team did a fantastic job in keeping the rooms neat and clean. Sheker ji was always polite and ready to help whenever needed. The staff truly makes this hotel feel welcoming and comfortable. I really enjoyed my stay and would definitely visit again.",
+      "First time in delhi with tour and i Had a wonderful stay at Bloom Hotel GK-2. The rooms were clean and comfortable, and the service was excellent. Special thanks to Vivek at the front desk very polite, helpful, and professional. He made the check out process smooth and ensured everything was perfect. I will come again."
+    ],
+    "negative_snippets": []
+  },
+  "review_summary": "Based on 5 reviews.",
+  "positive_themes": {
+    "clean_rooms": 4,
+    "friendly_staff": 5,
+    "good_location": 1,
+    "great_value": 1,
+    "good_food": 2
+  },
+  "negative_themes": {}
+}

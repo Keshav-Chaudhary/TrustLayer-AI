@@ -1,0 +1,51 @@
+{
+  "hotel_id": "ChIJ_5Hg9YIFDTkRXwEXjrDM4mM",
+  "hotel_name": "The Royal Retreat Hotel",
+  "area": "Paschim Vihar",
+  "budget_category": "Mid-Range",
+  "rating": 4.2,
+  "trust_score": 0.7440415911251848,
+  "travel_purpose_tags": [
+    "Family"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "moderate",
+    "review_count": 5,
+    "positive_snippet_count": 3,
+    "negative_snippet_count": 1,
+    "positive_theme_count": 3,
+    "negative_theme_count": 2
+  },
+  "aspect_scores": {
+    "cleanliness": 0.9943499167760214,
+    "service": 0.6421321649298383,
+    "location": 0.5,
+    "value_for_money": 0.9701929489771524,
+    "staff_behavior": 0.9634730219841005
+  },
+  "recommendation_features": {
+    "popularity_score": 0.3900141789323282,
+    "rating_score": 4.2,
+    "sentiment_score": 0.7821619641152211
+  },
+  "review_evidence": {
+    "positive_snippets": [
+      "Respected Guest\nYour warmly welcome The Royal Retreat\nMust Try once\nBest Room affordable price\nHygiene our strongest piller\nEasy check in - check out out process\nLift, parking, Smart TV,AC, geyser , power back up and wifi also with 5G speed\n100% safety assurance\nEasy to approach through Google map and Public Transport",
+      "This hotel is generally have a heaven\nThe best hotel in paschim vihar\nGood staff and genuinely good behavior nice person rooms are so good and neat and clean\nA UNIT OF ALVISH HOTELS \u2764",
+      "Nice room fast service best nature clean and ke liye rooms best price photo full safety"
+    ],
+    "negative_snippets": [
+      "I had a stay in this hotel last weekend and by mistake i left my silver chain in hotel room and after checkout when i asked them to please search for my chain and give me my belonging, hence they denied to give me it back and told me that there is no silver chain left in that room and i was asked to leave the hotel premises. Very bad service not acceptable at all. Please whoever is planning to stay in this hotel be aware of theft and please know they give a poor service."
+    ]
+  },
+  "review_summary": "Based on 5 reviews.",
+  "positive_themes": {
+    "great_value": 1,
+    "clean_rooms": 2,
+    "friendly_staff": 2
+  },
+  "negative_themes": {
+    "parking_issues": 2,
+    "rude_staff": 1
+  }
+}

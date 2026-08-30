@@ -1,0 +1,51 @@
+{
+  "hotel_id": "ChIJJfVl6mnfDDkRF7gDYYhtgvE",
+  "hotel_name": "Aravali Marriott Resort & Spa, Delhi Ncr",
+  "area": "Faridabad",
+  "budget_category": "Luxury",
+  "rating": 4.3,
+  "trust_score": 0.5321609231027518,
+  "travel_purpose_tags": [
+    "Budget"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "moderate",
+    "review_count": 5,
+    "positive_snippet_count": 1,
+    "negative_snippet_count": 3,
+    "positive_theme_count": 3,
+    "negative_theme_count": 2
+  },
+  "aspect_scores": {
+    "cleanliness": 0.1371825227251974,
+    "service": 0.0004101809026905,
+    "location": 0.5,
+    "value_for_money": 0.5,
+    "staff_behavior": 0.0003438073617871
+  },
+  "recommendation_features": {
+    "popularity_score": 0.4209324557207723,
+    "rating_score": 4.3,
+    "sentiment_score": 0.0557693351875058
+  },
+  "review_evidence": {
+    "positive_snippets": [
+      "It's in outskirts.. if u r coming in any function, either come from your own vehicle or in rental cab as you will not get any cab facility here neither thru Ola/Uber/Rapido nor from resort."
+    ],
+    "negative_snippets": [
+      "This property has rated itself as a 5-star establishment/ luxe property in booking sites, which raises a serious question for the management: are you truly aware of the standards, facilities, and hospitality expected from a 5-star property?\n\n1. Corporate Events vs. Family Guests\nIf there is a corporate event scheduled, families should not be made to suffer because of it. Loud DJ music continued until 12:15 AM, and it was only after I called the reception at least five times that the volume was addressed. I am not against corporate events, but there should be proper planning. If a property is reserved for corporate gatherings on a particular day or during certain hours, then families with children should either be informed in advance or such bookings should be avoided during that time.\n\n2. Midnight Menu Service\nThe service was extremely slow, and the food quality was average at best (5/10). The response I received was simply: \u201cSorry sir, there are multiple orders, please manage.\u201d This is not the level of service one expects from a 5-star property.\n\n3. Dining Service\nAround 10 PM, a large family group of about 20 people arrived, and the staff completely forgot about my order. I had to wait 20 minutes, after which my request was finally served with a brief apology.\n\n4. Premium Room with Private Sit-Out\nThe room advertised as premium came with several shortcomings:\n- No bathtub, which is usually standard in premium rooms.\n- No exhaust ventilation in the bathroom, causing it to become unpleasant after a few hours.\n- The private sit-out was practically unusable due to monkeys roaming around.\n\n5. Indoor Kids\u2019 Play Area\nThe kids\u2019 indoor play area was unclean and poorly maintained, with floor mats visibly dirty and blackened.\n\nInitially, to compensate for the inconvenience caused by the corporate event, the staff offered a room upgrade.\nHowever, the real question is \u2014 is that enough to justify the overall experience?\n\nDear Management, not every guest can simply forget their experience in exchange for an upgrade or a few complimentary gestures. Guest experience and family comfort are non-negotiable, especially when you claim to operate as a 5-star property.",
+      "We hosted our wedding ceremony at Marriott Resorts, Aravalli, and unfortunately, our experience with the hospitality was disappointing.\nThe overall coordination and support from the hotel management did not meet expectations. The team was often uncooperative, and even small requests required lengthy discussions. Responses were slow, sometimes taking an entire day, which added unnecessary stress during an important event.\nWe had specifically booked Jain food for every function, yet it was not provided at the very first function, causing inconvenience to our guests.\nRoom service was unsatisfactory, and basic requests during functions were handled inefficiently. For example, arranging something as simple as extra plates took around 15 minutes, leaving guests waiting. Attempts to reach higher management also went unanswered.\nA wedding is a once-in-a-lifetime occasion, and we expected a smoother and more supportive experience from a property of this reputation. Sadly, the service standards did not reflect that.",
+      "The rooms were very untidy, sheets were stained, drinking glasses had lipstick stains, luggage pi k up from room took 30 mins , simple requests like safety pins ,  and aids could not be met . On the whole a  very bad experience . Overpriced a d overhyped property . Not recommended at all."
+    ]
+  },
+  "review_summary": "Based on 5 reviews.",
+  "positive_themes": {
+    "clean_rooms": 2,
+    "friendly_staff": 1,
+    "good_food": 2
+  },
+  "negative_themes": {
+    "dirty_rooms": 2,
+    "noise": 1
+  }
+}

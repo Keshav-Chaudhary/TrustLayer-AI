@@ -1,0 +1,49 @@
+{
+  "hotel_id": "ChIJeW9TomIBDTkRLs8ZjvIZbhY",
+  "hotel_name": "Hotel O Sunshine",
+  "area": "Rohini",
+  "budget_category": "Mid-Range",
+  "rating": 3.9,
+  "trust_score": 0.6759645826320945,
+  "travel_purpose_tags": [
+    "Budget"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "moderate",
+    "review_count": 5,
+    "positive_snippet_count": 3,
+    "negative_snippet_count": 1,
+    "positive_theme_count": 2,
+    "negative_theme_count": 1
+  },
+  "aspect_scores": {
+    "cleanliness": 0.9981006979942322,
+    "service": 0.5000324363500113,
+    "location": 0.5,
+    "value_for_money": 0.0002518524706829,
+    "staff_behavior": 0.9992612997690836
+  },
+  "recommendation_features": {
+    "popularity_score": 0.2313194968117582,
+    "rating_score": 3.9,
+    "sentiment_score": 0.7995794461166952
+  },
+  "review_evidence": {
+    "positive_snippets": [
+      "Best place to relax... Room is clean & managed.....\nStaff is cooperative.....",
+      "Nice room and Good staff",
+      "Sweet room and Good staff\nService is best"
+    ],
+    "negative_snippets": [
+      "Very bad service.\nNo towel, never cleaning.\nWest of money."
+    ]
+  },
+  "review_summary": "Based on 5 reviews.",
+  "positive_themes": {
+    "clean_rooms": 2,
+    "friendly_staff": 3
+  },
+  "negative_themes": {
+    "rude_staff": 1
+  }
+}

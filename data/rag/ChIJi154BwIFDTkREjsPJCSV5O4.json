@@ -1,0 +1,48 @@
+{
+  "hotel_id": "ChIJi154BwIFDTkREjsPJCSV5O4",
+  "hotel_name": "Fabhotel Twamev",
+  "area": "Uttam Nagar",
+  "budget_category": "Mid-Range",
+  "rating": 3.9,
+  "trust_score": 0.4659920705537613,
+  "travel_purpose_tags": [
+    "Budget"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "moderate",
+    "review_count": 5,
+    "positive_snippet_count": 0,
+    "negative_snippet_count": 3,
+    "positive_theme_count": 2,
+    "negative_theme_count": 2
+  },
+  "aspect_scores": {
+    "cleanliness": 0.0005474767385748,
+    "service": 0.5,
+    "location": 0.5,
+    "value_for_money": 0.0005050103500252,
+    "staff_behavior": 0.0010343267349526
+  },
+  "recommendation_features": {
+    "popularity_score": 0.4417048473159236,
+    "rating_score": 3.9,
+    "sentiment_score": 0.0011896471143699
+  },
+  "review_evidence": {
+    "positive_snippets": [],
+    "negative_snippets": [
+      "I recently travelled from Dehradun to Delhi with my friend and had a booking at FabHotel Twamev. During check-in, my friend (18 years old) was allowed, but I was denied entry as I am 17 years old.\nWhile I understand that hotels may have internal policies regarding age, what was completely unacceptable was the extremely harsh, rude, and disrespectful behaviour of the staff. There was zero sense of professionalism and absolutely no polite communication. We tried to talk calmly and understand the situation, but the staff spoke arrogantly and made no effort to explain things respectfully.\nFor clarity:\nThere is NO LAW in India that says a 17-year-old boy cannot travel or stay at a hotel. Minors are legally allowed to travel freely within the country. This is purely a hotel policy, not a legal restriction \u2014 something the staff failed to explain properly and instead chose to behave rudely.\nHospitality is not just about rules, it\u2019s about how you treat guests. Even if denying check-in, basic courtesy and respect are expected, which was completely missing here.\nVery disappointing experience. I would not recommend this hotel, especially if you expect decent behaviour and professional staff.\n\n(At last no refund was done and was thrown out...)",
+      "Absolutely Did \"NOT\" Like this Place, Its only meant for couples ..... i mean to be very clear that its meant for only couple who wants privacy for few hours only, everything which you can compromise for a hotel stay is in proper place.\nI checked-In around 11:30pm and made an online booking over internet hence had no option to go around so late hence it was my last resort since i did my online booking and fallen prey to the visual images shared on Agoda Portal, Family People please avoid and Single Traveler's please avoid.",
+      "the room waa not the aame aa they are showing in the google website photos. Bathroom lock was not working and the room were so pathetic we didn\u2019t stay their we check out the minute we step in"
+    ]
+  },
+  "review_summary": "Based on 5 reviews.",
+  "positive_themes": {
+    "friendly_staff": 1,
+    "clean_rooms": 1
+  },
+  "negative_themes": {
+    "rude_staff": 1,
+    "dirty_rooms": 1
+  }
+}

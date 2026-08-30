@@ -1,0 +1,53 @@
+{
+  "hotel_id": "ChIJ5bXEImgdDTkRTcDcVIVTblg",
+  "hotel_name": "Hotel Classic Plaza At Delhi Airport",
+  "area": "Mahipalpur",
+  "budget_category": "Mid-Range",
+  "rating": 4.2,
+  "trust_score": 0.6388360084167979,
+  "travel_purpose_tags": [
+    "Budget"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "moderate",
+    "review_count": 5,
+    "positive_snippet_count": 2,
+    "negative_snippet_count": 3,
+    "positive_theme_count": 5,
+    "negative_theme_count": 1
+  },
+  "aspect_scores": {
+    "cleanliness": 0.3337124399840832,
+    "service": 0.5,
+    "location": 0.5005579981516348,
+    "value_for_money": 0.9970510005950928,
+    "staff_behavior": 0.999858856201172
+  },
+  "recommendation_features": {
+    "popularity_score": 0.4676721011727747,
+    "rating_score": 4.2,
+    "sentiment_score": 0.4006361142732203
+  },
+  "review_evidence": {
+    "positive_snippets": [
+      "An excellent stay! The hotel offers clean and spacious rooms, attentive staff, and a welcoming atmosphere. The amenities were top-notch, and the location was convenient very close to the airport. Highly recommended for both business and leisure travelers!",
+      "We needed a stay near airport to spend few hours. This was a decent place, around 10-15 min drive (taxi). We were promised a quadruple room (two double beds) but there are no such room in entire hotel. Had to adjust 4 ppl on three beds. But still it was nice decent experience. Looking at the cheap cost, couldn't have expected too much anyways!"
+    ],
+    "negative_snippets": [
+      "not where near the airport and, with absolute certainty, the worst room i\u2019ve been stayed at. hairs, dirty sheets with stains everywhere, no toilet paper, no soaps \u2026 also, be prepared since they only take cash",
+      "The beds are comfortable and that\u2019s the extent of the positive news. There is no fitness center, spa or restaurant on site. To get the free breakfast, I had to walk a considerable distance to a nearby hotel.  There is no hot water for a shower.  The terrace barely holds one chair as you look into the wall of a building. No towels, slippers, electric kettle. The hotel is exaggerating its amenities to make it appear that it\u2019s offering more than it has. In addition, it\u2019s supposed to be a smoke free facility, and while it\u2019s better than some, people are still smoking. You must pass through a metal detector to enter hotel though I doubt it works.",
+      "They sent me to a different hotel on check in - Classic paradise across the road. They tried charging me an extra 500r as \u2018tax\u2019 I showed them the booking.com payment where it is already included so then they changed their mind and said it\u2019s early check in fee. The room was very dirty and nothing like the pictures. Toilet seat detached with dried pee on the seat and black mold on the lid. Hair on the pillow. Shower only worked when you held it pulled out so could only use one hand to wash myself."
+    ]
+  },
+  "review_summary": "Based on 5 reviews.",
+  "positive_themes": {
+    "clean_rooms": 1,
+    "friendly_staff": 1,
+    "good_location": 4,
+    "great_value": 1,
+    "good_food": 1
+  },
+  "negative_themes": {
+    "dirty_rooms": 2
+  }
+}

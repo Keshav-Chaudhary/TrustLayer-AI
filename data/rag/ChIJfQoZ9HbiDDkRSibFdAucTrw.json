@@ -1,0 +1,51 @@
+{
+  "hotel_id": "ChIJfQoZ9HbiDDkRSibFdAucTrw",
+  "hotel_name": "Hotel Corporate Point",
+  "area": "Near Hyatt Hotel",
+  "budget_category": "Mid-Range",
+  "rating": 3.8,
+  "trust_score": 0.7412699349634624,
+  "travel_purpose_tags": [
+    "Budget"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "moderate",
+    "review_count": 5,
+    "positive_snippet_count": 3,
+    "negative_snippet_count": 1,
+    "positive_theme_count": 4,
+    "negative_theme_count": 1
+  },
+  "aspect_scores": {
+    "cleanliness": 0.0002191215316997,
+    "service": 0.6666384587539748,
+    "location": 0.5,
+    "value_for_money": 0.0002191215316997,
+    "staff_behavior": 0.7492210008094844
+  },
+  "recommendation_features": {
+    "popularity_score": 0.6012055068832813,
+    "rating_score": 3.8,
+    "sentiment_score": 0.7993469983251998
+  },
+  "review_evidence": {
+    "positive_snippets": [
+      "Was a really nice experience staying here with the family. The staff are really friendly and service was good. Special mentions to Mr Avnish for his warm gestures.",
+      "Have a nice staying with this hotel. Have great experience. Staff are too much haelping and have always positive attitude",
+      "I stayed with family and such a nice hotel . Cleanliness, quality of food and services are extremely good. Jain food also made very tasty.All staff and Manager is cooperative. Really having good experience."
+    ],
+    "negative_snippets": [
+      "I had one of the worst experiences at this hotel. There is no sense of privacy or security \u2014 staff attempted to enter the room without proper notice or permission under the pretense of deliveries. This behavior made me feel extremely unsafe.\n\nThe cleanliness and hygiene standards are unacceptable. I encountered bed bugs and cockroaches in the room. The cutlery provided was dirty and poorly maintained, making it impossible to use safely.\n\nDespite these serious issues, the hotel charges rates comparable to a 4-star property, which is completely unjustified given the poor quality of service and facilities.\n\nI strongly advise others to avoid this hotel. It is not safe, not clean, and certainly not worth the price. Stay here at your own risk."
+    ]
+  },
+  "review_summary": "Based on 5 reviews.",
+  "positive_themes": {
+    "friendly_staff": 5,
+    "clean_rooms": 2,
+    "good_food": 1,
+    "great_value": 1
+  },
+  "negative_themes": {
+    "dirty_rooms": 1
+  }
+}

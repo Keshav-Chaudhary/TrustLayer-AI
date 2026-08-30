@@ -1,0 +1,48 @@
+{
+  "hotel_id": "ChIJB_YlZ60DDTkRk6N2H6cp11Q",
+  "hotel_name": "Hotel O Sushma Ssadan",
+  "area": "Ashok Vihar",
+  "budget_category": "Mid-Range",
+  "rating": 2.6,
+  "trust_score": 0.306703014400204,
+  "travel_purpose_tags": [
+    "Budget"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "moderate",
+    "review_count": 5,
+    "positive_snippet_count": 0,
+    "negative_snippet_count": 3,
+    "positive_theme_count": 2,
+    "negative_theme_count": 2
+  },
+  "aspect_scores": {
+    "cleanliness": 0.0014237933937692,
+    "service": 0.0003893394896294,
+    "location": 0.5,
+    "value_for_money": 0.0003893394896294,
+    "staff_behavior": 0.0007832559058442
+  },
+  "recommendation_features": {
+    "popularity_score": 0.5050075858502767,
+    "rating_score": 2.6,
+    "sentiment_score": 0.0013826204813085
+  },
+  "review_evidence": {
+    "positive_snippets": [],
+    "negative_snippets": [
+      "Pathetic...\nPlease don't go..\nIt's the worst experience\nI went to stay overnight and couldn't even stay for more than 2 hours. The room stinks and full of bad odour.\nThe AC is very old no cooling. No locks in bathroom. Even mattresses were worst with no comfort.\nAvoid.....!!!",
+      "Worst rooms. Very unhygienic. Bad smells from the room. Washrooms were very dirty. Very bad behaviour of staff. Non cooperative staff.\nI booked the hotel a week ago as Oyo offered a discount on booking. I travelled  to this non-hotel facility and was with my mom. I called the caretaker multiple times before reaching the facility but he did not pick the call.when we reached the place not hotel, caretaker denied us to entertain us, as the booking was at a discounted price. I called Oyo and still he refused to entertain us. Oyo was also not able to transfer my booking to other hotels. As I was with my mom and had a long journey I asked the caretaker to give the room at whatever rate he offers for the room. On checking multiple rooms that were very dirty and unhygienic. I finally chose a room. The bathroom was dirty so I asked them to clean it and provide clean pillow covers. There was no wifi and ac in the rooms. All the switches were not working or broken.\nI waited 1 hour, hoping they would clean the room and provide pillow covers and asked multiple times for the same. But no service was provided. And then,  I decided to search for another hotel,. And within an hour I left this place and shifted to the new hotel. I had the worst  experience and will suggest all the people not to book this place. And also go through the reviews before booking any hotel.",
+      "One of the most dirty room.  Not even a single match with picture. Wash room smells like hell. Lots of disturbance from other room management team did not even care about other room.. Can't even sleep till 5am. The party like bar.   Don't even go this place. Totally waste of money.."
+    ]
+  },
+  "review_summary": "Based on 5 reviews.",
+  "positive_themes": {
+    "clean_rooms": 2,
+    "friendly_staff": 2
+  },
+  "negative_themes": {
+    "dirty_rooms": 3,
+    "rude_staff": 1
+  }
+}

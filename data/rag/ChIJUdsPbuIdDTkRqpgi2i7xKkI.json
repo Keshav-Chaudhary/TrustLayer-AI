@@ -1,0 +1,49 @@
+{
+  "hotel_id": "ChIJUdsPbuIdDTkRqpgi2i7xKkI",
+  "hotel_name": "Hotel Park Tree Igi Airport",
+  "area": "Mahipalpur",
+  "budget_category": "Mid-Range",
+  "rating": 4.2,
+  "trust_score": 0.5567396284309154,
+  "travel_purpose_tags": [
+    "Budget"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "moderate",
+    "review_count": 5,
+    "positive_snippet_count": 0,
+    "negative_snippet_count": 3,
+    "positive_theme_count": 4,
+    "negative_theme_count": 1
+  },
+  "aspect_scores": {
+    "cleanliness": 0.5,
+    "service": 0.0002270836218182,
+    "location": 0.0002136370312655,
+    "value_for_money": 0.0002296274396939,
+    "staff_behavior": 0.0007472263023373
+  },
+  "recommendation_features": {
+    "popularity_score": 0.6818967509986825,
+    "rating_score": 4.2,
+    "sentiment_score": 0.0004987203486961
+  },
+  "review_evidence": {
+    "positive_snippets": [],
+    "negative_snippets": [
+      "It is the worst property to stay . First of all the rooms were not same as shown in the images . They themselves denied that we don\u2019t have that room and we can shift you to some other hotel . The other hotel was almost 500m away. It was also not that good . The service was very poor. Their kitchen was almost 100m away. They didn\u2019t even provide water .\nAnd in morning we need to go 100 m away for the buffet which we booked . All the meal was chilled and there were only 4 meal in buffet including khichdi.\nI sincerely request you all to save your money and book some good hotels because we all deserve the best and not this shit .",
+      "I would strongly advise against trusting this hotel with your booking. Even after making full payment and receiving a confirmed reservation, they may still deny your stay at the last minute, claiming \u201cmaintenance issues.\u201d Instead, they shift you to an alternate property that is significantly worse in quality and experience.\n\nFrom my experience, this appears to be a deliberate practice \u2014 especially when room prices increase closer to the stay date. It feels like confirmed bookings made at lower rates are intentionally moved to accommodate higher-paying guests.\n\nVery disappointing and highly unprofessional service. Book here at your own risk.",
+      "Had very bad rooms, not cleaned at all! Dont ever give them your mobile for even 2 minutes, they post their own review of 5 stars without even asking you! They mentioned they have bathtubs in each room but they dont have any bathtub! Even room quality was very bad & they took 1000 rupees extra for giving a better room which was costing only extra 300 rupees while booking on MMT!! They should not have posted my review by themselves without even asking me or telling me! Work of a very bad receptionist!"
+    ]
+  },
+  "review_summary": "Based on 5 reviews.",
+  "positive_themes": {
+    "clean_rooms": 2,
+    "friendly_staff": 2,
+    "good_location": 2,
+    "good_food": 1
+  },
+  "negative_themes": {
+    "rude_staff": 3
+  }
+}

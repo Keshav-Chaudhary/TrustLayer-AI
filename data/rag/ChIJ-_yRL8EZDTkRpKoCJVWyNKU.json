@@ -1,0 +1,53 @@
+{
+  "hotel_id": "ChIJ-_yRL8EZDTkRpKoCJVWyNKU",
+  "hotel_name": "Blue Moon Residency",
+  "area": "Sector 53",
+  "budget_category": "Mid-Range",
+  "rating": 4.7,
+  "trust_score": 0.7591586549104907,
+  "travel_purpose_tags": [
+    "Family"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "rich",
+    "review_count": 5,
+    "positive_snippet_count": 3,
+    "negative_snippet_count": 2,
+    "positive_theme_count": 5,
+    "negative_theme_count": 1
+  },
+  "aspect_scores": {
+    "cleanliness": 0.9998403787612916,
+    "service": 0.3268527463272524,
+    "location": 0.5,
+    "value_for_money": 0.9796903133392334,
+    "staff_behavior": 0.5001375284191454
+  },
+  "recommendation_features": {
+    "popularity_score": 0.4277588502624594,
+    "rating_score": 4.7,
+    "sentiment_score": 0.596048085403163
+  },
+  "review_evidence": {
+    "positive_snippets": [
+      "\"A good review is one which is not requested by hosts to be posted.\" Will be posting an honest feedback.\n\n- Had a great stay for a couple of weeks.\nRooms 9/10\nService 9/10 (Special credits to Mr Param who has been a great host and is always there to help)\nFood 9.5/10\nLaundry 6/10 (They've already started working on the feedback, hopefully will be 9/10 soon)\nValue for money - 9/10\n*Overall 9/10*",
+      "This is places one of the finest places in Gurgaon for your weekend stay.\nRooms are clean and the staff is exceptional.\nThe rooms were serviced on time and my stay of 28 days was seamless and grateful.\n\nThe dinner buffet and the breakfast option is good enough to keep you satiated and not miss delicious food.\n\nI strongly recommend you to plan your next stay here.",
+      "I stayed there for at least a month and it was a very good experience. The food, the house keeping and the services they provide everything were excellent. Especially our manager Mr. Rohit he was very coordinating and guided me every time whenever i need any help. It was first time staying outside my home but due to rohit sir I didn\u2019t really miss my home because he provided me everything i want. Thanks Rohit sir and team"
+    ],
+    "negative_snippets": [
+      "I stayed there for 5-6 days and I gave my shirt for laundry but till the day of check out I didn't received my shirt, they are simply saying you will get it and they have given me some number to contact but till today no response, not picking the call.\nGuy's be aware of this hotel they are unprofessional and very bad service and bad hospitality, even I mail and what's app to the General manager regarding but not any effort and respond.\nI have suffered 5 days because of your carelessness.",
+      "I stayed in the hotel for nearly 1 week, all the front office staff was very bad in service, they are not taking enough care about the needs and wants of the guest and if we ask for anything like water, iron box it's takes time for a longer. I asked 4 times for iron box. The staffs was also irresponsible for providing the cab service. Over all the experience was too bad."
+    ]
+  },
+  "review_summary": "Based on 5 reviews.",
+  "positive_themes": {
+    "great_value": 1,
+    "good_food": 3,
+    "clean_rooms": 1,
+    "friendly_staff": 2,
+    "good_location": 1
+  },
+  "negative_themes": {
+    "rude_staff": 1
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "hotel_id": "ChIJXeSnHXIHDTkRprqwYbtYCHg",
+  "hotel_name": "Hotel O Shiva Hotel",
+  "area": "Delhi 48",
+  "budget_category": "Mid-Range",
+  "rating": 4.8,
+  "trust_score": 0.8651944955460062,
+  "travel_purpose_tags": [
+    "Leisure"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "sparse",
+    "review_count": 1,
+    "positive_snippet_count": 1,
+    "negative_snippet_count": 0,
+    "positive_theme_count": 2,
+    "negative_theme_count": 0
+  },
+  "aspect_scores": {
+    "cleanliness": 0.5,
+    "service": 0.5,
+    "location": 0.9998437166213988,
+    "value_for_money": 0.5,
+    "staff_behavior": 0.9998437166213988
+  },
+  "recommendation_features": {
+    "popularity_score": 0.2580997673088359,
+    "rating_score": 4.8,
+    "sentiment_score": 0.9998437166213988
+  },
+  "review_evidence": {
+    "positive_snippets": [
+      "Good hotel and best location helpful staff very nice stay\ud83d\ude42\u2764\ufe0f\u2764\ufe0f"
+    ],
+    "negative_snippets": []
+  },
+  "review_summary": "Based on 1 reviews.",
+  "positive_themes": {
+    "friendly_staff": 1,
+    "good_location": 1
+  },
+  "negative_themes": {}
+}

@@ -1,0 +1,51 @@
+{
+  "hotel_id": "ChIJUQAAACQCDTkROgV0toDmdlM",
+  "hotel_name": "Traditional Inn",
+  "area": "New Delhi",
+  "budget_category": "Budget",
+  "rating": 3.8,
+  "trust_score": 0.665751473236172,
+  "travel_purpose_tags": [
+    "Budget"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "rich",
+    "review_count": 5,
+    "positive_snippet_count": 3,
+    "negative_snippet_count": 2,
+    "positive_theme_count": 3,
+    "negative_theme_count": 1
+  },
+  "aspect_scores": {
+    "cleanliness": 0.7504996400675736,
+    "service": 0.5000131346459966,
+    "location": 0.5,
+    "value_for_money": 0.5,
+    "staff_behavior": 0.5006201565702213
+  },
+  "recommendation_features": {
+    "popularity_score": 0.5445125533795373,
+    "rating_score": 3.8,
+    "sentiment_score": 0.6004390120855533
+  },
+  "review_evidence": {
+    "positive_snippets": [
+      "Small and good hotel with very co-operative staff clean rooms and reasonable prices a person must visit i strongly recommend.\nThe best staff service",
+      "Stay with family very neat and clean room ,peaceful atmosphere friendly staff  you can take Cab or private transport at door step recommendable property.",
+      "I was there for a corporate stay .\nHad a good time homely food and clean rooms.."
+    ],
+    "negative_snippets": [
+      "Worst experience ever.\nThis hotel was booked for guests arriving from another state for a marriage, and the experience was extremely disappointing. At the time of check-in, the staff demanded upfront payment in front of the guests, which was highly unprofessional and made both the guests and myself very uncomfortable.\nOn top of that, the receptionist was very rude and disrespectful in behaviour. There was absolutely no sense of hospitality or courtesy \u2014 nothing you would expect from a place calling itself a hotel or a \u201ctraditional inn.\u201d\nOverall, very poor service and completely unsuitable for hosting guests, especially for important occasions like a wedding. I would not recommend this place to anyone.",
+      "Overpriced, Floor Cleaned, Bed unhygienic (lots of hairs were there\ud83e\udd22), Bathroom Okay but pipes leaking a lot;\nWi-Fi available but the manager changes password immediately after telling_simply unavailable for use"
+    ]
+  },
+  "review_summary": "Based on 5 reviews.",
+  "positive_themes": {
+    "clean_rooms": 4,
+    "friendly_staff": 3,
+    "good_food": 1
+  },
+  "negative_themes": {
+    "rude_staff": 1
+  }
+}

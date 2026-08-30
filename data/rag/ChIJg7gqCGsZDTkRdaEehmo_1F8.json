@@ -1,0 +1,53 @@
+{
+  "hotel_id": "ChIJg7gqCGsZDTkRdaEehmo_1F8",
+  "hotel_name": "Lime Tree Hotel Nearby 32Nd Avenue | Sector 15 Gurgaon | Hotel Near Udyog Vihar Gurgaon",
+  "area": "Sector 15 Part 2",
+  "budget_category": "Mid-Range",
+  "rating": 4.8,
+  "trust_score": 0.8195097742781023,
+  "travel_purpose_tags": [
+    "Leisure"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "rich",
+    "review_count": 5,
+    "positive_snippet_count": 3,
+    "negative_snippet_count": 2,
+    "positive_theme_count": 5,
+    "negative_theme_count": 1
+  },
+  "aspect_scores": {
+    "cleanliness": 0.5012823169818148,
+    "service": 0.3344292883023929,
+    "location": 0.9998243749141692,
+    "value_for_money": 0.5012823169818148,
+    "staff_behavior": 0.600583746668417
+  },
+  "recommendation_features": {
+    "popularity_score": 0.6422000499959715,
+    "rating_score": 4.8,
+    "sentiment_score": 0.600583746668417
+  },
+  "review_evidence": {
+    "positive_snippets": [
+      "Had a very comfortable stay at Lime Tree Hotel near 32nd Avenue, Sector 15 Gurgaon. The property is well maintained, clean, and located in a very convenient area close to Udyog Vihar and 32nd Avenue, which makes it perfect for both business and leisure travelers.\n\nThe rooms were spacious, neat, and equipped with all the necessary amenities. The staff was extremely polite, professional, and always ready to help, which made the overall experience even better.\n\nThe location is excellent with easy access to restaurants, offices, and major roads in Gurgaon. I would definitely recommend this hotel to anyone looking for a comfortable and affordable stay in Gurgaon. Looking forward to staying here again on my next visit. \ud83d\udc4d",
+      "I stayed at Lime tree Hotel near 32nd avenue for a week. The ambiance and the rooms were superb, the services and the staff was very nice and pleasant especially ASHOK KUMAR ji and RAVI KUMAR ji were very respectful and adorable staff i have meet in Lime tree hotel. Overall experience was very fabulous\n\nFoods :-\nThe food service given by them were very hygienic and healthy.\nThe food was very tasty and healthy.",
+      "Great experience overall. The staff were polite, attentive, and always ready to help with a smile. From check-in to check-out, everything was handled smoothly. Their professionalism and warm behavior really made the stay comfortable and enjoyable. Would happily stay here again"
+    ],
+    "negative_snippets": [
+      "I stayed here for two days, and the overall experience was just average. The management and staff need to learn a bit of humility & social skills.\n\nFrom check-in to check-out, their behavior was consistently cold and unwelcoming.\n\nThe in-house food is unreasonably expensive, and outside food is not allowed whenever their kitchen is open. This is something you should be aware of in advance. Even if you raise concerns, they may accommodate you once or twice, but the same behavior continues.\n\nThe rooms are decent, slightly above average but there is nothing particularly impressive. They are clean and tidy, as expected. The amenities are basic, similar to what you find in most places. The rooms are also quite small and lack proper ventilation. I had to keep the balcony door open for airflow, which can be uncomfortable at night for some people.\nRegardless of the room category you choose, the management seriously needs to train their staff on proper guest interaction and behavior.\n\nThe only food thing was Good Quality food but then it's unreasonably expensive. The staff at the reception needs to be trained.",
+      "Only stay here if you want to get food poisoning by eating food from their in-house restaurant -\nThe hotel forcefully restricted us from ordering food from outside and insisted that we eat only from their in-house restaurant. This was not communicated clearly at the time of booking and felt very unreasonable and uncomfortable. Guests should have the freedom to choose their food, especially when staying for such a short duration.\n\nUnfortunately, the food we were forced to eat caused serious health issues. We ordered simple items like pakoda and dal chawal, but the oil used was clearly stale or of very poor quality. That same night and the following day, both my husband and I suffered badly. My husband got a severe food infection, and I experienced intense stomach pain, nausea, and a horrible after-taste that lasted for days.\n\nIt has now been three days, and I am still dealing with stomach discomfort and weakness. This kind of experience is unacceptable from a hotel, especially when guests are not even allowed alternatives. Food safety and guest well-being should be a priority, not forced dependency.\nI stayed at this hotel in Gurgaon for one day with my husband. At first, everything seemed fine \u2014 the room was decent, and the staff appeared polite. However, our overall experience turned extremely unpleasant because of one very serious issue that I feel people should know about before booking.\n\nBecause of this extremely unpleasant and unhealthy experience, I do not feel comfortable returning to this hotel and would strongly advise management to reconsider such policies and improve food quality. This was truly disappointing and distressing."
+    ]
+  },
+  "review_summary": "Based on 5 reviews.",
+  "positive_themes": {
+    "clean_rooms": 2,
+    "friendly_staff": 5,
+    "good_location": 2,
+    "great_value": 1,
+    "good_food": 3
+  },
+  "negative_themes": {
+    "bad_food": 1
+  }
+}

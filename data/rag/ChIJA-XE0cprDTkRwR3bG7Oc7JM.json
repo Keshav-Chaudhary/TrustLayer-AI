@@ -1,0 +1,46 @@
+{
+  "hotel_id": "ChIJA-XE0cprDTkRwR3bG7Oc7JM",
+  "hotel_name": "Flagship Hotel Parvesh",
+  "area": "Nikhar Colony",
+  "budget_category": "Mid-Range",
+  "rating": 4.7,
+  "trust_score": 0.864999802542966,
+  "travel_purpose_tags": [
+    "Business"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "moderate",
+    "review_count": 5,
+    "positive_snippet_count": 3,
+    "negative_snippet_count": 0,
+    "positive_theme_count": 3,
+    "negative_theme_count": 0
+  },
+  "aspect_scores": {
+    "cleanliness": 0.999862551689148,
+    "service": 0.9998595714569092,
+    "location": 0.5,
+    "value_for_money": 0.5,
+    "staff_behavior": 0.999862551689148
+  },
+  "recommendation_features": {
+    "popularity_score": 0.3196692287282864,
+    "rating_score": 4.7,
+    "sentiment_score": 0.9998538345098495
+  },
+  "review_evidence": {
+    "positive_snippets": [
+      "Hiii\nVery nice room and service and all facilities I'm happy stay this hotel\nThanks Mr. Parvesh Kumar",
+      "Very nice hotal room and workers best \ud83d\udcaf",
+      "Nice staff and all the clear and clean room. With all amenities."
+    ],
+    "negative_snippets": []
+  },
+  "review_summary": "Based on 5 reviews.",
+  "positive_themes": {
+    "clean_rooms": 1,
+    "friendly_staff": 1,
+    "good_food": 1
+  },
+  "negative_themes": {}
+}

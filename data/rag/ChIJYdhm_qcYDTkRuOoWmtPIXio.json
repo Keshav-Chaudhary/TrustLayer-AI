@@ -1,0 +1,46 @@
+{
+  "hotel_id": "ChIJYdhm_qcYDTkRuOoWmtPIXio",
+  "hotel_name": "Hotel Arena",
+  "area": "Sector 57",
+  "budget_category": "Mid-Range",
+  "rating": 2.2,
+  "trust_score": 0.1812322638066317,
+  "travel_purpose_tags": [
+    "Budget"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "moderate",
+    "review_count": 4,
+    "positive_snippet_count": 0,
+    "negative_snippet_count": 3,
+    "positive_theme_count": 1,
+    "negative_theme_count": 1
+  },
+  "aspect_scores": {
+    "cleanliness": 0.0002520742418709,
+    "service": 0.0002520742418709,
+    "location": 0.5,
+    "value_for_money": 0.5,
+    "staff_behavior": 0.0002520742418709
+  },
+  "recommendation_features": {
+    "popularity_score": 0.1667945549845492,
+    "rating_score": 2.2,
+    "sentiment_score": 0.0002520742418709
+  },
+  "review_evidence": {
+    "positive_snippets": [],
+    "negative_snippets": [
+      "I was stay last night my experience was very bad and pathetic un hygiene room too much Cockroach on my bad service staff are very bad\nStop everybody very very very poor",
+      "I was stay last night my experience was very bad and pathetic un hygiene room  too much Cockroach on my bad service staff are very bad",
+      "Very bad"
+    ]
+  },
+  "review_summary": "Based on 4 reviews.",
+  "positive_themes": {
+    "friendly_staff": 2
+  },
+  "negative_themes": {
+    "rude_staff": 2
+  }
+}

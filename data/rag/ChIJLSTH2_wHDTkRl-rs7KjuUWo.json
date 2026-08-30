@@ -1,0 +1,47 @@
+{
+  "hotel_id": "ChIJLSTH2_wHDTkRl-rs7KjuUWo",
+  "hotel_name": "Hotel O Shree Shyam Residency",
+  "area": "Budh Vihar",
+  "budget_category": "Mid-Range",
+  "rating": 3.8,
+  "trust_score": 0.6860726991417522,
+  "travel_purpose_tags": [
+    "Family"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "moderate",
+    "review_count": 5,
+    "positive_snippet_count": 3,
+    "negative_snippet_count": 1,
+    "positive_theme_count": 2,
+    "negative_theme_count": 0
+  },
+  "aspect_scores": {
+    "cleanliness": 0.9995355606079102,
+    "service": 0.6664268966997041,
+    "location": 0.5,
+    "value_for_money": 0.9991752505302428,
+    "staff_behavior": 0.7997815726092086
+  },
+  "recommendation_features": {
+    "popularity_score": 0.3410402707054878,
+    "rating_score": 3.8,
+    "sentiment_score": 0.7997815726092086
+  },
+  "review_evidence": {
+    "positive_snippets": [
+      "Best service room are very neat and clean staff members also cooperate with us nice place to stay for couples",
+      "Best room at reasonable price neat and clean rooms and washroom also staff was to cooperative I love the service",
+      "Room is so neat and clean\ud83d\udc4c\nHotel staff is very polite and well behaved"
+    ],
+    "negative_snippets": [
+      "Very bad experience  staff service There is no drinking water here, you will have to pay a separate service charge for the bottle"
+    ]
+  },
+  "review_summary": "Based on 5 reviews.",
+  "positive_themes": {
+    "clean_rooms": 3,
+    "friendly_staff": 5
+  },
+  "negative_themes": {}
+}

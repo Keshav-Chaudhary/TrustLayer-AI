@@ -1,0 +1,52 @@
+{
+  "hotel_id": "ChIJMzJPXKkjDTkRj4J1rgUw_A4",
+  "hotel_name": "Townhouse Cloud Bay, Near Genpact, Sector-69, Gurgaon",
+  "area": "Sector 69",
+  "budget_category": "Mid-Range",
+  "rating": 4.3,
+  "trust_score": 0.7431417047529941,
+  "travel_purpose_tags": [
+    "Business"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "rich",
+    "review_count": 5,
+    "positive_snippet_count": 3,
+    "negative_snippet_count": 2,
+    "positive_theme_count": 4,
+    "negative_theme_count": 1
+  },
+  "aspect_scores": {
+    "cleanliness": 0.9998812079429626,
+    "service": 0.9997283816337584,
+    "location": 0.5004098755307494,
+    "value_for_money": 0.0006958145240787,
+    "staff_behavior": 0.9998302658398946
+  },
+  "recommendation_features": {
+    "popularity_score": 0.5962615231451273,
+    "rating_score": 4.3,
+    "sentiment_score": 0.6001764853135682
+  },
+  "review_evidence": {
+    "positive_snippets": [
+      "Our family stay at this hotel \ud83d\udc68\u200d\ud83d\udc69\u200d\ud83d\udc67\u200d\ud83d\udc66 was truly delightful \ud83c\udf1f. From the moment we checked in, the service and hospitality were warm and welcoming \ud83d\ude4f\ud83d\udc90. The food quality was excellent \ud83c\udf7d\ufe0f\ud83d\udc4c and exactly as shown in the pictures \ud83d\udcf8, which made us feel assured about our choice.\n\nThe rooms were well-maintained \ud83d\udecf\ufe0f with daily cleaning \ud83e\uddf9 done as per our request, keeping everything fresh and comfortable. Facilities like AC \u2744\ufe0f, fridge \ud83e\uddca, table & chairs \ud83e\ude91 were all available, which added to our convenience and comfort.\n\nWe felt very much at home during our stay \ud83c\udfe1\ud83d\udc96. The staff was polite, attentive, and always ready to help \ud83e\udd1d\ud83d\ude0a. Such thoughtful service made our family trip extra special.\n\nOverall, it was a perfect experience \u2728 and we would definitely love to visit again. Highly recommended for families looking for comfort, cleanliness, and quality service! \u2b50\ud83c\udf38",
+      "\u2b50\ufe0f\u2b50\ufe0f\u2b50\ufe0f\u2b50\ufe0f\u2b50\ufe0f\nAmazing Stay at Hotel Cloud Bay!\nI had a wonderful experience at Hotel Cloud Bay. The rooms were clean, spacious, and beautifully maintained. The staff was extremely polite and helpful, always ready to assist with a smile. The food was delicious, with plenty of options for every taste. The location is perfect \u2014 peaceful yet close to main attractions. Overall, it\u2019s a great place for a relaxing and comfortable stay. Highly recommend it to anyone visiting the area.",
+      "I had a wonderful stay at Hotel Cloud Bay. The rooms were very clean, spacious, and well-maintained. The environment was peaceful, and everything was properly managed, which made my stay very comfortable.\n\nThe staff was polite, professional, and always ready to help. The owner was also very good and polite, always checking if everything was fine, and helping in every way possible. The food was perfect \u2014 tasty, fresh, and served well.\n\nIn every way, the hotel was excellent, and I had no complaints at all. Overall, it was a great experience, and I would definitely recommend Hotel Cloud Bay to everyone. I would love to visit again!"
+    ],
+    "negative_snippets": [
+      "Price was charged more from what was told while booking on the call on Oyo customer care.\nMore over there was no towel in the room.\nThe matress was very poor quality. With springs and so noisy.",
+      "I booked this hotel online at a reasonable price. When I arrived, the receptionist asked if I had booked online and if I had paid the booking price online. I confirmed both, and he seemed a bit angry. He then explained at length how he was not satisfied with customers making online payments for discounts, as it meant a cost to him. He even implied he might deny my booking and not allow me to check in.\nAfter listening to him for about 15 to 20 minutes, I finally received my keys. I took two water bottles from him and went to my room.\n\nMy recommendation for future guests:\nIf you are planning to visit this hotel, it's best to check availability and pay directly at the hotel instead of booking or paying online. Based on my experience, they might create issues if your booking and payment are made online.\n\nOverall, the room was quite small but acceptable for one or two nights at a reasonable price. The hotel's location is about 1.5 km off the main road, making it a bit difficult to locate."
+    ]
+  },
+  "review_summary": "Based on 5 reviews.",
+  "positive_themes": {
+    "clean_rooms": 3,
+    "friendly_staff": 3,
+    "good_food": 3,
+    "good_location": 2
+  },
+  "negative_themes": {
+    "noise": 3
+  }
+}

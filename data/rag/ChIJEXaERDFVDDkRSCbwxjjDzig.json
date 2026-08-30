@@ -1,0 +1,51 @@
+{
+  "hotel_id": "ChIJEXaERDFVDDkRSCbwxjjDzig",
+  "hotel_name": "Anandam Farm",
+  "area": "Jhangola",
+  "budget_category": "Mid-Range",
+  "rating": 4.5,
+  "trust_score": 0.844062908379673,
+  "travel_purpose_tags": [
+    "Leisure",
+    "Business",
+    "Family"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "moderate",
+    "review_count": 5,
+    "positive_snippet_count": 3,
+    "negative_snippet_count": 1,
+    "positive_theme_count": 4,
+    "negative_theme_count": 0
+  },
+  "aspect_scores": {
+    "cleanliness": 0.9955817262331644,
+    "service": 0.999816596508026,
+    "location": 0.9998318254947662,
+    "value_for_money": 0.9994757771492004,
+    "staff_behavior": 0.9996706446011862
+  },
+  "recommendation_features": {
+    "popularity_score": 0.3501294176361872,
+    "rating_score": 4.5,
+    "sentiment_score": 0.9972562670707704
+  },
+  "review_evidence": {
+    "positive_snippets": [
+      "This stay is absolutely value for money. All the amenties were well in place and clean. The caretaker Sonu is really helpful.",
+      "Best place for a short outing with friends .Great view surrounded by nature , good ambience , Great hospitality. Sonu (Helper ) was very attentive , helpful and kind . Ankit ( the owner ) was the kindest person ever , truly appreciate him for being so welcoming, thoughtful and being so helpful ,driving us all the way to our cab destination. Thank you so much for having us , would love to visit again soon !! :)",
+      "Pros:\nSurrounding nature is good. Good view from balcony. Air is clean.\nLiving area was well-spacious, naturally lit and clean.\nService was good. Readily available for any kind of help.\n\nCons:\nPool could be bit bigger.\n\nOverall good experience."
+    ],
+    "negative_snippets": [
+      "The place is nice but understaffed, not very clean, you can't use the quilts. Washroom not very clean, utensils are broken. Place is sweet with an essence of proper farm. Food delivery is an issue although Zomato delivers but make sure to keep something in option for food."
+    ]
+  },
+  "review_summary": "Based on 5 reviews.",
+  "positive_themes": {
+    "clean_rooms": 3,
+    "friendly_staff": 4,
+    "great_value": 1,
+    "good_food": 1
+  },
+  "negative_themes": {}
+}

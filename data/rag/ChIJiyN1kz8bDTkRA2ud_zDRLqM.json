@@ -1,0 +1,51 @@
+{
+  "hotel_id": "ChIJiyN1kz8bDTkRA2ud_zDRLqM",
+  "hotel_name": "Treebo Galaxy Rooms",
+  "area": "New Delhi",
+  "budget_category": "Mid-Range",
+  "rating": 3.7,
+  "trust_score": 0.5507131186517759,
+  "travel_purpose_tags": [
+    "Budget"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "moderate",
+    "review_count": 5,
+    "positive_snippet_count": 1,
+    "negative_snippet_count": 3,
+    "positive_theme_count": 4,
+    "negative_theme_count": 1
+  },
+  "aspect_scores": {
+    "cleanliness": 0.0008523137657902,
+    "service": 0.340461150665457,
+    "location": 0.0014885762939229,
+    "value_for_money": 0.3340095614936824,
+    "staff_behavior": 0.3336139756526488
+  },
+  "recommendation_features": {
+    "popularity_score": 0.659858651840757,
+    "rating_score": 3.7,
+    "sentiment_score": 0.2046347694122232
+  },
+  "review_evidence": {
+    "positive_snippets": [
+      "We had a good experience at this hotel. Our family stayed for 5 days and everything went smoothly. The complimentary breakfast was nice, drinking water was provided free of cost throughout our stay. Hot showers were available 24/7. Special thanks to Mr. Sachin and the staff for being so attentive and prompt in fulfilling our requests. Initially, the bedsheets provided were not up to the mark, but when we asked for a change, they immediately replaced them without any hesitation.\nOverall, the service was good, and the staff were courteous and helpful. We truly would recommend this hotel to others."
+    ],
+    "negative_snippets": [
+      "The room we stayed in looked like hadn't been dusted for months. It was stinking and for the amount they charged was so tiny.\n\nAlso the location was so secluded and between an industrial area. The mentioned area on maps is far from the hotel\n\nThe amenities was pathetic, they gave us used bathroom slippers and the floor was really dirty.\n\nWould not recommend at all at such a price, there are far better hotels available at the same prices.",
+      "We had very bad experience at this place. Staff is not supportive and cooperative.\nAfter previous checkout , they had not change the bedsheets , pillow cover and quilt cover as well .\nThe air conditioner is also not working. The bathroom is so dirty. The floor was so dirty. I suggest to not choose this place for stay.",
+      "Totally different photos and rooms from online site..gave one star for rooms for nothing\u2026there is no kettle in room..A.C was not working.. fan was not even working..fan was very dirty as well..told staff about this issues but they were not responded properly..bedsheet was not even cleaned ..told them 5-6 time for A.C and everything but they were not answering properly..later next night I told them to change my room but they started arguing with me ..was about to call head office and night staff gave me another room after 20 minutes of argument..Breakfast was okay but  way expensive as 5 star hotel..I won\u2019t recommend anyone..they took breakfast payment on someone else\u2019s account..not in hotel account..very bad experience..I wish i will stay away from these kind of hotels in future..3 star for service only for that night staff guy.."
+    ]
+  },
+  "review_summary": "Based on 5 reviews.",
+  "positive_themes": {
+    "friendly_staff": 3,
+    "good_food": 3,
+    "good_location": 1,
+    "clean_rooms": 2
+  },
+  "negative_themes": {
+    "dirty_rooms": 3
+  }
+}

@@ -1,0 +1,52 @@
+{
+  "hotel_id": "ChIJh11bAXrjDDkR9tb-KG0AsUU",
+  "hotel_name": "Hotel O Smart Stay Hotel",
+  "area": "Landmark",
+  "budget_category": "Budget",
+  "rating": 4.2,
+  "trust_score": 0.6505389884036186,
+  "travel_purpose_tags": [
+    "Leisure"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "rich",
+    "review_count": 5,
+    "positive_snippet_count": 3,
+    "negative_snippet_count": 2,
+    "positive_theme_count": 3,
+    "negative_theme_count": 2
+  },
+  "aspect_scores": {
+    "cleanliness": 0.500412591121858,
+    "service": 0.9977993369102478,
+    "location": 0.9987894296646118,
+    "value_for_money": 0.5,
+    "staff_behavior": 0.3340622886316851
+  },
+  "recommendation_features": {
+    "popularity_score": 0.223219623947779,
+    "rating_score": 4.2,
+    "sentiment_score": 0.6002859773812815
+  },
+  "review_evidence": {
+    "positive_snippets": [
+      "The location it self was very good the atmosphere of the hotel was very excellent The rooms were very clean and stylish there was no noise in the hotel it was very peaceful there the service of staff vas very friendly",
+      "Best location",
+      "Clean rooms"
+    ],
+    "negative_snippets": [
+      "Unfriendly hotel staff, dirty rooms",
+      "Horrible experience at hotel smart stay malviya nagar. Hotel smart stay.. just the name is smart.\nHorrible staff... After checking in I found that used condom. Dustbin full of garbage.\nToilet stinks so dirty toilet \ud83d\udebd.\nThey didn't change the pillow. After arguing they changed the bed. Later I came from outside and the paan wala bhaiya said that the hotel is on Oyo.\nOyo is Oyo. Just you understand.\n\ud83d\ude02"
+    ]
+  },
+  "review_summary": "Based on 5 reviews.",
+  "positive_themes": {
+    "clean_rooms": 2,
+    "friendly_staff": 3,
+    "good_location": 2
+  },
+  "negative_themes": {
+    "noise": 1,
+    "dirty_rooms": 2
+  }
+}

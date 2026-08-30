@@ -1,0 +1,53 @@
+{
+  "hotel_id": "ChIJKxVFie8CDTkRIgB2qqYMcOs",
+  "hotel_name": "Hotel Amrapali Grand - New Delhi , Patel Nagar , 4 Star Hotels",
+  "area": "East Patel Nagar",
+  "budget_category": "Mid-Range",
+  "rating": 4.2,
+  "trust_score": 0.7683426761673282,
+  "travel_purpose_tags": [
+    "Leisure"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "moderate",
+    "review_count": 5,
+    "positive_snippet_count": 2,
+    "negative_snippet_count": 3,
+    "positive_theme_count": 5,
+    "negative_theme_count": 1
+  },
+  "aspect_scores": {
+    "cleanliness": 0.547708810219774,
+    "service": 0.664175754917475,
+    "location": 0.9924578666687012,
+    "value_for_money": 0.4995469542336649,
+    "staff_behavior": 0.7302179684241613
+  },
+  "recommendation_features": {
+    "popularity_score": 0.7202932573848838,
+    "rating_score": 4.2,
+    "sentiment_score": 0.6381446606712415
+  },
+  "review_evidence": {
+    "positive_snippets": [
+      "We recently celebrated a party here and everything was beautifully arranged! The decoration, planning, and coordination were all on point. The food was absolutely awesome tasty, fresh, and enjoyed by everyone. Great service and a perfect venue for special celebrations. Highly recommended!",
+      "Good staff and clean rooms\nValue for money\nCentrally located, close to metro and karol Bagh"
+    ],
+    "negative_snippets": [
+      "Decent Stay with Scope for Improvement\n\nStayed at Hotel Amrapali Grand, Patel Nagar from 25th to 28th October 2025. It\u2019s a decent hotel with basic amenities and a good location right on the main road, close to Rajendra Place Metro Station (Blue Line). Public transport \u2014 bus, taxi, auto, and metro \u2014 is easily accessible.\n\nPros:\n\nConvenient location with easy connectivity.\nHousekeeping staff (especially on the first floor) were prompt and kept the rooms clean.\nRooms have electric kettle, tea/coffee setup, and bathrooms are equipped with dental kits, soap, and shampoo.\nTowels changed daily.\nBreakfast spread is good, and the tea and coffee taste excellent.\n\nCons:\n\nBeing on the main road, there\u2019s continuous traffic noise.\nDisturbance from other guests late at night \u2014 despite complaining thrice, it wasn\u2019t resolved.\nReception staff were not very welcoming and a bit slow to respond.\nThere is no place to sit in the reception, like a couch or a sofa could be better as soon as you enter with luggage.\nBreakfast quality could be improved \u2014 good variety but average taste.\nCleanliness and room service could be better.\nFaced issues with checkout date and advance payment, but staff did rectify both quickly once pointed out.\n\nOverall, it\u2019s a reasonably priced hotel suitable for a short 1\u20132 night stay, especially for those prioritising location and basic comfort over luxury.",
+      "Writing this review after my 3 days stay (club room)\n\nRoom was spacious. Staff were curtious. Celing fan and exhaust fan in the washroom make lot of noise, there are some sort of flies in the room. washroom stinks a bit when ever you keep the room closed and come back.\n\nFood - complimentary breakfast - nothing tasted good other than poori and sabji.\n\nIn room dining - food was good, however felt overpriced for the taste and quality.\n\nStaff - most of the staff and welcoming and greet you with a smile.",
+      "Very disappointing experience at Hotel Amrapali Grand. The room was not clean, and we even found cockroaches \u2014 totally unacceptable for a place claiming to be a 4-star hotel. The hygiene and maintenance were poor, and the overall service didn\u2019t meet basic standards. Definitely not worth the money."
+    ]
+  },
+  "review_summary": "Based on 5 reviews.",
+  "positive_themes": {
+    "good_food": 3,
+    "clean_rooms": 3,
+    "friendly_staff": 3,
+    "good_location": 2,
+    "great_value": 2
+  },
+  "negative_themes": {
+    "noise": 2
+  }
+}

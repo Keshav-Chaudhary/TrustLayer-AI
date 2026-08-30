@@ -1,0 +1,50 @@
+{
+  "hotel_id": "ChIJr-UiyxHhDDkR9jmGwVikkO4",
+  "hotel_name": "Hotel O By Oyo Crowninn",
+  "area": "Anangpur",
+  "budget_category": "Budget",
+  "rating": 3.3,
+  "trust_score": 0.5003289446805617,
+  "travel_purpose_tags": [
+    "Budget"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "moderate",
+    "review_count": 5,
+    "positive_snippet_count": 2,
+    "negative_snippet_count": 3,
+    "positive_theme_count": 4,
+    "negative_theme_count": 0
+  },
+  "aspect_scores": {
+    "cleanliness": 0.0001943254173966,
+    "service": 0.0002177127607865,
+    "location": 0.5,
+    "value_for_money": 0.0002177127607865,
+    "staff_behavior": 0.0006116337390267
+  },
+  "recommendation_features": {
+    "popularity_score": 0.379577200550308,
+    "rating_score": 3.3,
+    "sentiment_score": 0.4002327681926544
+  },
+  "review_evidence": {
+    "positive_snippets": [
+      "Assess the use of fresh, high-quality, and locally sourced ingredients, along with excellent flavor and skilled cooking techniques.",
+      "Good hotel nice rooms stay totaly good"
+    ],
+    "negative_snippets": [
+      "The place was extremely bad, and the staff had the worst behavior I\u2019ve ever seen. The worst thing was that during online booking they asked for my phone and gave a rating themselves\u2014I don\u2019t even know what they did because my rating is not showing anywhere. I paid in cash, and they said they didn\u2019t have change and would return it at checkout. Even then, they only returned some money after I kept asking again and again, otherwise they wouldn\u2019t have given it back at all. The AC wasn\u2019t working, the room wasn\u2019t clean, and in the bathroom people had even spit after chewing tobacco. I want this hotel to be removed from the listing, otherwise a heavy penalty should be imposed because their only purpose is to trouble the guests. This was the worst experience ever.\nlike a proper complaint to the booking platform/hotel management?",
+      "My parents stayed there as my brother was writing an exam nearby .We talked to the manager two days back that we will do a early check in as my brother was writing an exam in manav international so he said ok do check in early\nBut as they arrive around 10am they dint let them check in before 12pm even when the hotel was almost empty. Oyo hotel was mess altogether\nAt the time of the booking we booked the room with buffet breakfast and they said kitchen doesnt work here since a long time .\nSo ya a completely no no",
+      "Absolutely pathetic experience\nI had already booked the room still the owner charged me more money in cash.\nAnd the service was disgusting.\nRooms were not hygienic at all .\nAll in all worst oyo I've ever stayed at.\nI will rate this hotel 0\nNothing was okay there..\nEvery single thing was pathetic.\nFraud hotel ."
+    ]
+  },
+  "review_summary": "Based on 5 reviews.",
+  "positive_themes": {
+    "clean_rooms": 1,
+    "friendly_staff": 1,
+    "good_location": 1,
+    "good_food": 1
+  },
+  "negative_themes": {}
+}

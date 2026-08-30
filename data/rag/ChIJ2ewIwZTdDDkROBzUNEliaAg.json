@@ -1,0 +1,54 @@
+{
+  "hotel_id": "ChIJ2ewIwZTdDDkROBzUNEliaAg",
+  "hotel_name": "The Comfort Stay | Budget Stay In Sector 28 Faridabad Near Metro",
+  "area": "Sector 28",
+  "budget_category": "Budget",
+  "rating": 3.9,
+  "trust_score": 0.7102980169201442,
+  "travel_purpose_tags": [
+    "Leisure",
+    "Family"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "rich",
+    "review_count": 5,
+    "positive_snippet_count": 3,
+    "negative_snippet_count": 2,
+    "positive_theme_count": 5,
+    "negative_theme_count": 1
+  },
+  "aspect_scores": {
+    "cleanliness": 0.9997605681419371,
+    "service": 0.0036528597120195,
+    "location": 0.9938207268714904,
+    "value_for_money": 0.8674372434616089,
+    "staff_behavior": 0.9095650712649028
+  },
+  "recommendation_features": {
+    "popularity_score": 0.472446984385614,
+    "rating_score": 3.9,
+    "sentiment_score": 0.7464416958857327
+  },
+  "review_evidence": {
+    "positive_snippets": [
+      "I came for a business meeting in Faridabad, and was in search of a budget hotel nearby my workplace. Comfort stay fulfilled the purpose with clean and spacious rooms with helpful staff round the clock. The hotel gives you the experience of the neighbourhood of newly planned residential zone of faridabad with wide roads and fronts. So go for it for a peaceful guest house experience.",
+      "Hotel is just an Average with the silence mode around you at this location, hut the person (I am missing his name-an old age guy) is just superb to serving you with his best n by his soul : believe me you should have to try the food, prepared by him is just YUMMY n he will take care of you till the time you're their and will try to give you the 110%...\n\nHats off to such staff - who actually deserves more than their paid amt. (In monetary terms) and we all should have to learn the Devotion towards our works (whatever it is).\n.\nBest Regards\nRitesh Sapra",
+      "Excellent place... very Neat and clean and well managed.. Very spacious rooms... Dedicated  living and dining area... Parking also available.."
+    ],
+    "negative_snippets": [
+      "This is not a bad place to stay but it's someone's home converted to homestay.\nDo not expect service like a hotel. Do not expect bed and mattress like a hotel, do not expect water bottles like a hotel. Do not expect accuracy or experience but only expect one or two night stay and move out.\nI repeat nothing is bad as such but its still slightly awkward.\nIf someone if walking outside your room, you'll hear every footstep and even if someone is talking in the basement, its audible.\nIf you are visiting Faridabad for an official visit, you may consider it just remember, its awkward \ud83d\ude10",
+      "Comfort stay may be improved better towels,  toiletries , beddings. Charges etc. Not a value for money but the people are very homely n friendly. Nearby no restaurant as well. Bit isolated."
+    ]
+  },
+  "review_summary": "Based on 5 reviews.",
+  "positive_themes": {
+    "clean_rooms": 2,
+    "friendly_staff": 3,
+    "good_location": 3,
+    "good_food": 1,
+    "great_value": 1
+  },
+  "negative_themes": {
+    "parking_issues": 1
+  }
+}

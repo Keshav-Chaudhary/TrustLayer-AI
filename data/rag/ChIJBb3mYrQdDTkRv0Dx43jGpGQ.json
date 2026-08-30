@@ -1,0 +1,52 @@
+{
+  "hotel_id": "ChIJBb3mYrQdDTkRv0Dx43jGpGQ",
+  "hotel_name": "Hotel Urban Tree",
+  "area": "Mahipalpur",
+  "budget_category": "Mid-Range",
+  "rating": 4.6,
+  "trust_score": 0.6697543842240854,
+  "travel_purpose_tags": [
+    "Budget"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "moderate",
+    "review_count": 5,
+    "positive_snippet_count": 1,
+    "negative_snippet_count": 3,
+    "positive_theme_count": 5,
+    "negative_theme_count": 1
+  },
+  "aspect_scores": {
+    "cleanliness": 0.0079844432184472,
+    "service": 0.0006865858449599,
+    "location": 0.0084881089860572,
+    "value_for_money": 0.0005973253864794,
+    "staff_behavior": 0.3337523539472992
+  },
+  "recommendation_features": {
+    "popularity_score": 0.6540887618099113,
+    "rating_score": 4.6,
+    "sentiment_score": 0.2066015030955895
+  },
+  "review_evidence": {
+    "positive_snippets": [
+      "It was very nice staying at Urban Tree Hotel. Their hospitality was excellent, and the staff were courteous and helpful throughout our stay. The rooms were comfortable and well-maintained, making our stay truly pleasant and relaxing. Overall, it was a wonderful experience, and I would be happy to stay here again."
+    ],
+    "negative_snippets": [
+      "Pretty hard to find even with GPS. The last road is very narrow and you best believe us if we tell you there is NO parking space as they mentioned.\nIt's just a tiny cellar with a steep incline and just about space for one car (see photos).\n\nWe had two rooms. One of the room's toilet flush was not working.\nNot all blankets are in a good condition. Clean, Yes...but quite old.\n\nHot water was available. 24/7 food availability from next door restaurant was nice (and the rotis and masala paneer were good).\n\nIf you travel with a family, perhaps best to spend a little more (2k + per room) and stay in a nicer area.",
+      "Misleading Amenities & \"The Iron\" Incident\nService Denial: When I requested an iron for my clothes, the staff flatly denied it. Their excuse was that \"it\u2019s not a good iron and your clothes might get spoiled.\" This is a basic amenity for any hotel; it felt like a lazy excuse to avoid providing service.\n\nFalse Advertising: Don\u2019t be fooled by the listed amenities. What you see on the booking sites is not what you get in the room.\n\nCheck-in & Room Issues\nInflexible Early Check-in: I arrived at 4:00 AM. Despite a full pre-payment on MakeMyTrip, they charged me an extra \u20b91,000 for a few hours and didn't even include breakfast for that morning.\n\nRoom Relocation: I was forced to change rooms at 11:00 AM because a \"large group\" was arriving. They clearly value bulk bookings over individual guests.\n\nBad Bathroom Design: The room was average, but the bathroom had a structural pillar right in front of the commode. It\u2019s impossible to sit straight.\n\nNo Housekeeping: I stayed for 5 days and housekeeping never showed up once. Only soap and shampoo were provided; no dental kits.\n\nThe Dining \"Scam\"\nNo Buffet: They advertise a buffet at reception for \u20b9250, but it doesn't exist. It\u2019s strictly room service with extreme limits.\n\nStrict Portions: You get exactly one item (e.g., just one plate of Poori Bhaji). I skipped breakfast one day, but they refused to give me two plates the next day, demanding extra payment instead.\n\nDinner Disappointment: The \"Non-Veg Thali\" is just a Veg Thali with two tiny pieces of chicken. Pre-paying for meals here is a total waste of money.\n\nHidden Charges & One Positive\nWater: I was charged for 2 extra bottles of water despite only consuming 5 bottles in 5 days.\n\nAirport Drop: The only good thing was the complimentary airport drop, though they initially tried to tell me it would be an extra charge.",
+      "Overall room looks good but little old one.\nFood quality is not upto the marks I ordered manchurian dal makhni and tava roti so manchurian was not cooked. Dal makhni and roti was good.\nLittle inside from road a small street but not so far from road."
+    ]
+  },
+  "review_summary": "Based on 5 reviews.",
+  "positive_themes": {
+    "friendly_staff": 3,
+    "clean_rooms": 1,
+    "good_food": 3,
+    "good_location": 1,
+    "great_value": 1
+  },
+  "negative_themes": {
+    "parking_issues": 1
+  }
+}

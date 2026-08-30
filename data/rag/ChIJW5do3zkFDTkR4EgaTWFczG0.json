@@ -1,0 +1,51 @@
+{
+  "hotel_id": "ChIJW5do3zkFDTkR4EgaTWFczG0",
+  "hotel_name": "Tony Inn Hotel",
+  "area": "New Delhi",
+  "budget_category": "Budget",
+  "rating": 4.1,
+  "trust_score": 0.587737014646277,
+  "travel_purpose_tags": [
+    "Budget"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "rich",
+    "review_count": 5,
+    "positive_snippet_count": 3,
+    "negative_snippet_count": 2,
+    "positive_theme_count": 3,
+    "negative_theme_count": 1
+  },
+  "aspect_scores": {
+    "cleanliness": 0.5,
+    "service": 0.009724526964419,
+    "location": 0.5182606000453233,
+    "value_for_money": 0.0015531686367467,
+    "staff_behavior": 0.5001035331515594
+  },
+  "recommendation_features": {
+    "popularity_score": 0.5792584648304031,
+    "rating_score": 4.1,
+    "sentiment_score": 0.2077483887376729
+  },
+  "review_evidence": {
+    "positive_snippets": [
+      "Recently I had an opportunity to stay at this place. The rooms are good and the food excellent. Buffet at the basement is sumptuous and filling. Waiters and attendants are friendly and helpful. Location is a plus point with very near to Outer Ring Road. Would definitely recommend it.",
+      "I visited Delhi, it was late at night, many hotels didn't provide late night check in, so find this hotel on Google maps. Called them, they accepted checkin at 1 am.\nPrices where average. Service was good. But rooms were bit unhygienic.\nThere were gutka shots on a was\nRoom size was average.\nI would suggest try some online sites for better price",
+      "A wonderful and comfortable hotel with reasonably sized rooms. The hotel was great in every factor but the location had abundance of mosquitos. You won't be able to utter a word without tasting a mosquito which will have flown into your mouth.\nOverall, the hotel rooms and service are legendary, but the breakfast was not too good."
+    ],
+    "negative_snippets": [
+      "Pathetic pathetic pathetic!\nThe hospitality of this place is so poor that I cannot even explain.\nI kept a cake at the reception and asked the waiters to bring it when it was time.\nThe waiters never went and we were delusional that they will. I had to go after 20 mins to bring it myself.\nThen I wanted to have coffee but the cups were over. I asked the waiter to bring me a cup. Not only did he not bring it. He closed thr machine saying that it is lunchtime. They could not even give me one cup of coffee.\nThen I asked them to still give it to me.\nThat coffee never came.\nIs that the kind of hospitality they show?",
+      "This was hands down the worst hotel experience I\u2019ve ever had. Despite having a fully prepaid reservation, I was shockingly denied check-in simply because I\u2019m an international traveler. This policy was never mentioned anywhere during the booking process, which makes it feel deceptive. The staff were unhelpful and dismissive, showing zero concern for the situation.\n\nNot only was I left without a place to stay, but I also lost the full amount I paid\u2014no refund, no apology, nothing. It\u2019s incredibly frustrating, especially given how many positive reviews this hotel has on Trip.com. I can only assume some of them are misleading or not reflective of reality.\n\nThe customer service was appalling, and the management clearly doesn\u2019t care about guest experience. I strongly urge others to avoid this hotel, especially international travelers. Don\u2019t be fooled by the photos or the ratings online\u2014what you see is definitely not what you get."
+    ]
+  },
+  "review_summary": "Based on 5 reviews.",
+  "positive_themes": {
+    "friendly_staff": 2,
+    "good_location": 2,
+    "good_food": 2
+  },
+  "negative_themes": {
+    "rude_staff": 1
+  }
+}

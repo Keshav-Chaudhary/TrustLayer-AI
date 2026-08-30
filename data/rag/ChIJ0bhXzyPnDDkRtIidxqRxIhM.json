@@ -1,0 +1,48 @@
+{
+  "hotel_id": "ChIJ0bhXzyPnDDkRtIidxqRxIhM",
+  "hotel_name": "Hotel View - A Boutique Hotel",
+  "area": "New Delhi",
+  "budget_category": "Mid-Range",
+  "rating": 4.2,
+  "trust_score": 0.822876571730562,
+  "travel_purpose_tags": [
+    "Leisure",
+    "Business"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "moderate",
+    "review_count": 5,
+    "positive_snippet_count": 3,
+    "negative_snippet_count": 0,
+    "positive_theme_count": 4,
+    "negative_theme_count": 0
+  },
+  "aspect_scores": {
+    "cleanliness": 0.9998658498128256,
+    "service": 0.9998502731323242,
+    "location": 0.9998499751091005,
+    "value_for_money": 0.5,
+    "staff_behavior": 0.9998658498128256
+  },
+  "recommendation_features": {
+    "popularity_score": 0.4341186759487797,
+    "rating_score": 4.2,
+    "sentiment_score": 0.9998574733734132
+  },
+  "review_evidence": {
+    "positive_snippets": [
+      "We stayed at The View Hotel for 3 nights and had a truly pleasant experience. The hotel is conveniently located near the main road and close to a flyover, yet it still offers a peaceful and quiet atmosphere, which was perfect for a relaxing stay. Our room was very comfortable\u2014everything from the bed to the carpet was clean and cozy. The TV, air conditioning, and all other amenities worked perfectly. The hotel entrance is also impressive and welcoming. The natural surroundings added a lovely touch to the overall vibe. The food was excellent with a great variety, and the staff were friendly and attentive. Facilities were modern and well-maintained. Highly recommended for anyone looking for comfort, good service, and easy access to the city!",
+      "Location and service is good. Properly cleaned and food is also good.",
+      "Pleasant stay and helpful staff with clean rooms."
+    ],
+    "negative_snippets": []
+  },
+  "review_summary": "Based on 5 reviews.",
+  "positive_themes": {
+    "clean_rooms": 4,
+    "friendly_staff": 3,
+    "good_location": 2,
+    "good_food": 2
+  },
+  "negative_themes": {}
+}

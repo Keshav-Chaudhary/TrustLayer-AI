@@ -1,0 +1,52 @@
+{
+  "hotel_id": "ChIJ13uwGBMBDTkREGuDRst9C8s",
+  "hotel_name": "Qotel Comfort Church House Rohini Sector 15",
+  "area": "Rohini",
+  "budget_category": "Mid-Range",
+  "rating": 4.5,
+  "trust_score": 0.7128549104280956,
+  "travel_purpose_tags": [
+    "Budget"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "moderate",
+    "review_count": 5,
+    "positive_snippet_count": 2,
+    "negative_snippet_count": 3,
+    "positive_theme_count": 3,
+    "negative_theme_count": 2
+  },
+  "aspect_scores": {
+    "cleanliness": 0.334770111333152,
+    "service": 0.2514182843769958,
+    "location": 0.5000258450818365,
+    "value_for_money": 0.5,
+    "staff_behavior": 0.5000025694680517
+  },
+  "recommendation_features": {
+    "popularity_score": 0.6274736906704526,
+    "rating_score": 4.5,
+    "sentiment_score": 0.401104825179209
+  },
+  "review_evidence": {
+    "positive_snippets": [
+      "Staff is really cooperative and kind personality and room was also very comfortable and clean ...and they have Good food service also",
+      "The room was beautiful and comfortable with all modern amenities such as Free WiFi , TV and air conditioning\nThe view from the room also stunning giving me a great view of the city"
+    ],
+    "negative_snippets": [
+      "This hotel is by far the worst place to stay, even for a single day. I came here with my family to attend my sister\u2019s wedding, and because it was peak season and all other hotels were fully booked, we had no option but to choose this one. Unfortunately, the experience was extremely disappointing. The staff and the overall management were terrible. The bathroom door locks didn\u2019t work, the staff was impolite, and the breakfast service was extremely poor\u2014we had to place an order three hours in advance just to get a cup of tea. They were outright rude.\n\nThe mattresses and bedsheets were dirty, and room service took an unbelievable 4\u20135 hours. The staff showed no cooperation at all. Even the lift wasn\u2019t working, which was embarrassing for us in front of our relatives and friends. One relative even had to go to the kitchen to heat her own food because there was no staff or resources available. It was truly a horrible experience.",
+      "Rooms were not clean. Could not sleep well whole night because the guy at reception kept playing music and watching reels whole night. Also when I told them I have a meeting they didn\u2019t lower the volume. It seems someone keeps playing music on his phone 24 hours.",
+      "I had made a booking for Maxx Inn hotel through Make My Trip on 17 Aug 2025. I am from Punjab and had to come to Delhi for some urgent work. Due to my train departing early, I reached their hotel at 9 o'clock. First, without taking details from me, they kept me waiting at their reception for 2 hours saying that these people will check-in at 12 o'clock.\nI had done my booking through make my trip and an executive at the reception refused to check-in by saying that my booking is with fab hotels whereas they themselves have registered their hotels in the name of fab hotels with make my trip but booking through make my trip is taken globally in which fab hotels have no role to play, still the customers were really harassed and I lodged a complaint on mmt, thanks for mmt services, they got me a better hotel than that in time. I would never recommend FAB HOTEL MAXXIN and CHURCH HOUSE, sector 15, Rohini. Neither do they know how to talk to anyone at the reception nor do they know how to handle customers. They speak so rudely that you keep quiet just for the sake of our dignity. I will never come to this hotel and I don't even like to give it a rating."
+    ]
+  },
+  "review_summary": "Based on 5 reviews.",
+  "positive_themes": {
+    "clean_rooms": 2,
+    "friendly_staff": 2,
+    "good_food": 2
+  },
+  "negative_themes": {
+    "dirty_rooms": 1,
+    "rude_staff": 2
+  }
+}

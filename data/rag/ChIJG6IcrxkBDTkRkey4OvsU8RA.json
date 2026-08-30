@@ -1,0 +1,49 @@
+{
+  "hotel_id": "ChIJG6IcrxkBDTkRkey4OvsU8RA",
+  "hotel_name": "Hotel The Param Continental",
+  "area": "Libaspur",
+  "budget_category": "Mid-Range",
+  "rating": 4.5,
+  "trust_score": 0.536116251306148,
+  "travel_purpose_tags": [
+    "Budget"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "moderate",
+    "review_count": 5,
+    "positive_snippet_count": 0,
+    "negative_snippet_count": 3,
+    "positive_theme_count": 3,
+    "negative_theme_count": 2
+  },
+  "aspect_scores": {
+    "cleanliness": 0.0017956167575903,
+    "service": 0.0003680332883959,
+    "location": 0.5,
+    "value_for_money": 0.5,
+    "staff_behavior": 0.0012698875507339
+  },
+  "recommendation_features": {
+    "popularity_score": 0.3968120751380856,
+    "rating_score": 4.5,
+    "sentiment_score": 0.0009137431799899
+  },
+  "review_evidence": {
+    "positive_snippets": [],
+    "negative_snippets": [
+      "The washrooms are not clean, some of them even has a broken handle. There are balconies but you dont wanna go there because it's very dirty. The staff was kinda helpful but not that much. Mitt a great experience.",
+      "DON'T BOOK\nBooked hotel rooms through a online platform, but on arrival the hotel blatantly denied having any booking. The staff claimed the property was previously listed but said they could not honor the reservation. They refused to give any written confirmation of the issue, which is extremely suspicious and unprofessional.\nThe behavior of the staff was rude, dismissive, and irresponsible, leaving us stranded despite a confirmed booking. This shows a complete lack of basic hospitality and accountability.\nStrongly advise against booking this hotel. Save yourself the stress and harassment.",
+      "Extremely Unprofessional, Abusive & Unacceptable Behavior\n\nWe had confirmed bookings for 8th, 9th, and 10th for 13 rooms at Hotel The Param Continental. After reaching the hotel to review the rooms and space, the staff flatly denied any booking, stating they had no record from any site and had not received any payment.\n\nThe situation escalated when the staff started misbehaving and verbally abusing us. We were told things like \u201cgo and do whatever you can\u201d, which is completely unacceptable, disrespectful, and unprofessional. The tone, language, and attitude used towards us and our members were shocking and humiliating.\n\nThis is not how any hotel should treat its guests, especially those with group bookings. The behavior reflects poor management, lack of training, and zero accountability. Denying confirmed bookings is bad enough \u2014 verbal abuse crosses all limits.\n\nBecause of this hotel\u2019s actions, we faced serious inconvenience, stress, and waste of time. I strongly warn others to avoid this property, particularly for group or advance bookings."
+    ]
+  },
+  "review_summary": "Based on 5 reviews.",
+  "positive_themes": {
+    "clean_rooms": 2,
+    "friendly_staff": 3,
+    "good_food": 1
+  },
+  "negative_themes": {
+    "dirty_rooms": 2,
+    "rude_staff": 2
+  }
+}

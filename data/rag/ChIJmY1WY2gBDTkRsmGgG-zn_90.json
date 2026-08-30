@@ -1,0 +1,49 @@
+{
+  "hotel_id": "ChIJmY1WY2gBDTkRsmGgG-zn_90",
+  "hotel_name": "Hotel O Shipraj Inn",
+  "area": "Shalimar Bagh",
+  "budget_category": "Budget",
+  "rating": 4.5,
+  "trust_score": 0.7600528716125476,
+  "travel_purpose_tags": [
+    "Business"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "moderate",
+    "review_count": 5,
+    "positive_snippet_count": 3,
+    "negative_snippet_count": 1,
+    "positive_theme_count": 2,
+    "negative_theme_count": 1
+  },
+  "aspect_scores": {
+    "cleanliness": 0.6664421454964516,
+    "service": 0.9994128048419952,
+    "location": 0.5,
+    "value_for_money": 0.5,
+    "staff_behavior": 0.9992201626300812
+  },
+  "recommendation_features": {
+    "popularity_score": 0.2520918884069095,
+    "rating_score": 4.5,
+    "sentiment_score": 0.7992955384193919
+  },
+  "review_evidence": {
+    "positive_snippets": [
+      "Best part is service and hospitality.. Mr Rajat the owner knows how to take care of their clients and hospitality.. Family oriented. Will definitely suggest everyone for family stay and personal stay and if you are looking for small family function HOTEL SHIPRAJ is best place to depend on ....",
+      "Had a good experience with seamless checkin and the best part being about the privacy. Owner is really committed to privacy. No one can bother you at all. You can feel at home.",
+      "Very clean rooms , friendly staffs . No privacy issue. No disturbance at all. Overall nice stay."
+    ],
+    "negative_snippets": [
+      "Never, ever want to go again. They will lock you up inside the building, you can't go and come as per your convenience, parking on owner risk. They even don't provide bucket in washroom. No TV, No lights, stinky and it's better to avoid."
+    ]
+  },
+  "review_summary": "Based on 5 reviews.",
+  "positive_themes": {
+    "clean_rooms": 2,
+    "friendly_staff": 2
+  },
+  "negative_themes": {
+    "parking_issues": 1
+  }
+}

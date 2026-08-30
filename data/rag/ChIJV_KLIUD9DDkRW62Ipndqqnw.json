@@ -1,0 +1,53 @@
+{
+  "hotel_id": "ChIJV_KLIUD9DDkRW62Ipndqqnw",
+  "hotel_name": "Hotel Maharani Lodge",
+  "area": "Paharganj",
+  "budget_category": "Mid-Range",
+  "rating": 3.1,
+  "trust_score": 0.4825839403839224,
+  "travel_purpose_tags": [
+    "Budget"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "moderate",
+    "review_count": 5,
+    "positive_snippet_count": 2,
+    "negative_snippet_count": 3,
+    "positive_theme_count": 4,
+    "negative_theme_count": 2
+  },
+  "aspect_scores": {
+    "cleanliness": 0.0974630428439316,
+    "service": 0.4996462688723113,
+    "location": 0.6361688077449799,
+    "value_for_money": 0.0008716083539183,
+    "staff_behavior": 0.3185202080494491
+  },
+  "recommendation_features": {
+    "popularity_score": 0.6336464762826213,
+    "rating_score": 3.1,
+    "sentiment_score": 0.2585670606582425
+  },
+  "review_evidence": {
+    "positive_snippets": [
+      "The staff is very helpful and kind. Always helping directly when you call with the reception or if you ask something.\n\nThe location is very close to many attractions, so for new tourists it's very nice to visit these.\n\nIn this street you can find many restaurants, fruit/ fresh juice stalls. Also many pharmacies and beauty parlors/ hairdressers are available in the long Street.\n\nWhen you want warm water, just ask the reception to put the boiler on from downstairs and your water is boiling hot within 5 minutes.\n\nI highly recommend this hotel. Especially because the staff goes above expectations! I had to keep ice blocks in the freezer so I can keep some medicine between specific temperatures, I could just go upstairs and the staff there helped me putting or taking out of the freezer!\n\nPerfect stay! We extended by one day :D",
+      "The property offered good facilities and a convenient location for exploring the are. However the cleanliness fell short of expectations. the staff is decent but could improve. Hot water in the bathroom was reliable. Overall, a stay was mixed feelings."
+    ],
+    "negative_snippets": [
+      "Third class managers( both) don't know how to behave customer, the bathroom are soo small... One people cannot bath properly,room are ok ok... If necessary then only book...",
+      "Wrost hotel plzz don\u2019t visit..so cheap very bad experience ..stuff behaviour is so rude they don\u2019t knw  how to deal wth customers,room is to small n so dirty bathroom is very unclean..sometimes ac is not working .they need only money not good service.",
+      "Please don't visit this hotel if you want to stay away from scam the staff is not cooperative and they speak in very rude tone they final the price of room before visiting was 800 and after check out they charge another 100rs I have got scammed for 100rs it's not a big amount but scam is always a scam"
+    ]
+  },
+  "review_summary": "Based on 5 reviews.",
+  "positive_themes": {
+    "friendly_staff": 3,
+    "good_location": 2,
+    "clean_rooms": 2,
+    "great_value": 1
+  },
+  "negative_themes": {
+    "dirty_rooms": 1,
+    "rude_staff": 2
+  }
+}

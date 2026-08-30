@@ -1,0 +1,48 @@
+{
+  "hotel_id": "ChIJJZbTaLPiDDkR0iCsQ0HteV4",
+  "hotel_name": "The Park",
+  "area": "Connaught Place",
+  "budget_category": "Mid-Range",
+  "rating": 4.0,
+  "trust_score": 0.8351076410414338,
+  "travel_purpose_tags": [
+    "Leisure",
+    "Family"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "moderate",
+    "review_count": 5,
+    "positive_snippet_count": 3,
+    "negative_snippet_count": 0,
+    "positive_theme_count": 4,
+    "negative_theme_count": 0
+  },
+  "aspect_scores": {
+    "cleanliness": 0.9985583225886028,
+    "service": 0.6835299531618754,
+    "location": 0.7616116404533386,
+    "value_for_money": 0.995951771736145,
+    "staff_behavior": 0.7625952661037445
+  },
+  "recommendation_features": {
+    "popularity_score": 0.902510198718126,
+    "rating_score": 4.0,
+    "sentiment_score": 0.8092665672302246
+  },
+  "review_evidence": {
+    "positive_snippets": [
+      "Great location \u2013 perfect for first-time tourists. The area feels very safe to walk around at night, and it\u2019s easy to catch an Uber from the hotel without any hassle outside.\n\nThe lobby has a relaxed yet business-like atmosphere, which makes it feel calm and professional. The rooms are spacious, and the bed was very comfortable \u2013 I had a great night\u2019s sleep. I also liked that there were both soft and firm pillow options. The air conditioning works well too.\n\nThe breakfast buffet has a very good selection, including live egg and dosa stations, which was a nice touch.\n\nThe only downsides were that the hotel food and drinks are quite expensive \u2013 I paid \u00a325 for two glasses of wine and \u00a320 for a few kebabs and two small lassis. The hairdryer in the room isn\u2019t great, and the shower leaked slightly into the main bathroom area.\n\nOverall, I would stay here again because I know I\u2019ll sleep well and feel safe in this location.",
+      "Top notch location in the heart of New Delhi. The check in was fast. The room was very weird in its architecture and bed and did not provide me a sense of top star hotel. Maybe it\u2019s time for some refurbishing. Although it had all the amenities one need.\n\nI checked in around 1030 pm and ordered food. The service was quick to my liking.\n\nThe sleep quality was decent too, although I woke up late as I slept late. Unfortunately by the time I reached for the breakfast around 1025 am it was almost being cleared off. Thus cannot comment on the spread. I ordered an o letter , an americano and a few pieces of fruits which was left over. Infact had to fetch my own cutlery as the staff did not hand over after requesting twice.\n\nAnyway might be a good pick due to it\u2019s excellent locational advantage",
+      "Very comfortable rooms, really nice beds. The best bit about a stay in every hotel for us is attention to detail. The staff especially Harsh and Lham were absolutely great and I hope they continue to be seen and recognised for their hardwork by the team. Location cannot be beaten for anything, you are right there!!!!! From a Happy customer in Delhi\u2026"
+    ],
+    "negative_snippets": []
+  },
+  "review_summary": "Based on 5 reviews.",
+  "positive_themes": {
+    "good_location": 3,
+    "good_food": 4,
+    "friendly_staff": 4,
+    "clean_rooms": 2
+  },
+  "negative_themes": {}
+}

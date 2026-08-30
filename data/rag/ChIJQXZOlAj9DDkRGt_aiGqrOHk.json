@@ -1,0 +1,52 @@
+{
+  "hotel_id": "ChIJQXZOlAj9DDkRGt_aiGqrOHk",
+  "hotel_name": "Hotel Green Castle (Heritage Hotel Overlooking Two Protected Monuments)",
+  "area": "Kashmere Gate",
+  "budget_category": "Mid-Range",
+  "rating": 4.4,
+  "trust_score": 0.7750460869080895,
+  "travel_purpose_tags": [
+    "Budget"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "moderate",
+    "review_count": 5,
+    "positive_snippet_count": 3,
+    "negative_snippet_count": 1,
+    "positive_theme_count": 5,
+    "negative_theme_count": 1
+  },
+  "aspect_scores": {
+    "cleanliness": 0.6595971609155337,
+    "service": 0.6569189447909594,
+    "location": 0.4978707465343177,
+    "value_for_money": 0.9998764991760254,
+    "staff_behavior": 0.5082921865396202
+  },
+  "recommendation_features": {
+    "popularity_score": 0.6866194942226461,
+    "rating_score": 4.4,
+    "sentiment_score": 0.5982715155929327
+  },
+  "review_evidence": {
+    "positive_snippets": [
+      "Very Cooperative staff .. had a great experience with AZAM SIR . ALSO had a great experience at this hotel. The room was neat and comfortable, and the housekeeping was on point. The staff was very friendly and helpful throughout my stay. The food quality was also good. Overall, it was a pleasant and relaxing experience. Would definitely visit again!",
+      "Stayed for 2 weeks, hope this review helps everyone who's looking hotel stay.\n\nPros:\n1.Excellent central location, just about 100 meters from Kashmere Gate Metro Station, which connects three metro lines and is very convenient for travel.\n2.Friendly and cooperative hotel staff.\n3.Room was clean and well maintained.\n4.Outside food is allowed, which is a plus.\n5.Easy access to metro, buses, and nearby areas, making it a good choice for transit stays.\n\nOverall stay was comfortable with minor adjustments.\n\nCons\n1.Very low water pressure in the shower, which increases bathing time.\n2.The shower-to-tap switch is faulty; the knob needs to be held continuously, otherwise water flows back through the tap.\n3.A rat was seen roaming in the room and in common areas of the hotel. While not a major issue, it affects hygiene perception.\n4.Due to the nearby bus terminal, the area is quite noisy and the room soundproofing is poor.\n5.Electric kettle was not provided despite the room tariff being above \u20b92,500.\n\nOverall Experience A good stay mainly due to the prime location and cleanliness, but improvements are needed in room maintenance, noise insulation, and basic amenities to enhance guest comfort.",
+      "Excellent service and location for travelers\nLiked: The staff are great! I requested a room change from 102 to 111 due to noise, and they handled it instantly. The location is unbeatable for catching a bus or metro, as it's right by Kashmere Gate.\nDisliked: Some rooms (like 102) face a noisy road and construction site. The neighborhood itself is a bit rough around the edges and feels underdeveloped."
+    ],
+    "negative_snippets": [
+      "Overall stay was okay and suitable for a day or two if you can adjust with outside noise. Room service was good though and people who were attending the guests are also nice and customer centric!\n\nNoisy place due to the location which is near to ISBT Delhi. Rooms were not very clean and no proper dusting has been done, if we are paying 3500+ for a room then atleast we can except proper cleaned rooms.\n\nNext to Kashmere gate if someone is interested in historic stuff, visible from the property!"
+    ]
+  },
+  "review_summary": "Based on 5 reviews.",
+  "positive_themes": {
+    "clean_rooms": 4,
+    "friendly_staff": 4,
+    "good_food": 3,
+    "good_location": 4,
+    "great_value": 1
+  },
+  "negative_themes": {
+    "noise": 3
+  }
+}

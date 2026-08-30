@@ -1,0 +1,50 @@
+{
+  "hotel_id": "ChIJb9VeCNMYDTkRcs0Bfr8neXo",
+  "hotel_name": "Tribe Bespoke Hotel By Flxho",
+  "area": "Sector 26A",
+  "budget_category": "Mid-Range",
+  "rating": 4.9,
+  "trust_score": 0.8772148631852315,
+  "travel_purpose_tags": [
+    "Leisure"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "moderate",
+    "review_count": 5,
+    "positive_snippet_count": 3,
+    "negative_snippet_count": 1,
+    "positive_theme_count": 3,
+    "negative_theme_count": 1
+  },
+  "aspect_scores": {
+    "cleanliness": 0.5000076183059718,
+    "service": 0.5000076183059718,
+    "location": 0.9997137188911438,
+    "value_for_money": 0.5,
+    "staff_behavior": 0.9998788436253866
+  },
+  "recommendation_features": {
+    "popularity_score": 0.5519843480101899,
+    "rating_score": 4.9,
+    "sentiment_score": 0.7999303534976206
+  },
+  "review_evidence": {
+    "positive_snippets": [
+      "It\u2019s in a prime location with clean rooms. Love the reception area which gives off 90s kids vibes, with some books you can pick and read. One advantage of this place is that it\u2019s new and hence much cleaner with new TVs, kettles\nAlso the chai is amazing!",
+      "I had an absolutely wonderful experience during my stay at this hotel. From the moment I arrived, the staff made me feel genuinely welcomed with their warm hospitality and attention to detail. The room was incredibly comfortable- easily one of the best I\u2019ve stayed in.\n\nThe location is perfect, with easy access to nearby attractions,cybercity and airport.",
+      "I stayed here for the past 16 days and not for a second I felt out of home. The staff, each and everyone made me feel very welcomed and at home. Anything I requested was given to me and they are so warm and always full of smiles. A perfect definition of HOSPITALITY\nBest experience in hotel ."
+    ],
+    "negative_snippets": [
+      "I got to your hotel at 11 PM, and check-in was a nightmare. The system didn't even have my payment. After waiting, they took me to the room, but the power wouldn't turn on. The guy was trying to use a spoon to fix it! When I walked in, I saw a bucket of dirty water under a dripping AC, and a puddle on the bedside table. They made me sit there while the receptionist looked for another room. He came back and said the hotel was full, and I might have to stay in that gross room. No key \u2013 seriously? Don't you think those are basic things? Your team had all day to get things ready, instead of making me wait around at 11 PM. Honestly, I'm super disappointed."
+    ]
+  },
+  "review_summary": "Based on 5 reviews.",
+  "positive_themes": {
+    "clean_rooms": 1,
+    "good_location": 2,
+    "friendly_staff": 3
+  },
+  "negative_themes": {
+    "dirty_rooms": 1
+  }
+}

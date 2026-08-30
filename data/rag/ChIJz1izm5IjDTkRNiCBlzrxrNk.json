@@ -1,0 +1,49 @@
+{
+  "hotel_id": "ChIJz1izm5IjDTkRNiCBlzrxrNk",
+  "hotel_name": "Super Hotel O Coco Tree",
+  "area": "Sector 69",
+  "budget_category": "Mid-Range",
+  "rating": 4.2,
+  "trust_score": 0.4899648414634173,
+  "travel_purpose_tags": [
+    "Budget"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "moderate",
+    "review_count": 5,
+    "positive_snippet_count": 1,
+    "negative_snippet_count": 3,
+    "positive_theme_count": 2,
+    "negative_theme_count": 1
+  },
+  "aspect_scores": {
+    "cleanliness": 0.0050678229890763,
+    "service": 0.0033267761245951,
+    "location": 0.0050678229890763,
+    "value_for_money": 0.0046339547261595,
+    "staff_behavior": 0.0034292906057089
+  },
+  "recommendation_features": {
+    "popularity_score": 0.3641694923263474,
+    "rating_score": 4.2,
+    "sentiment_score": 0.0030195725441444
+  },
+  "review_evidence": {
+    "positive_snippets": [
+      "Before check in , take  confirmation\nTap , water , bedsheet , is in good condition. They have too much rooms .\nHotel management spend lot of money to provide facilities and all but ....what problem with Architect of building and supervisor of hotel  .i don't  know .\n\nMay be architect of building have taken * sasta Nasha*  during architecturing of building. \ud83d\ude06\n\nOverall experience was good for me"
+    ],
+    "negative_snippets": [
+      "Using abusive language.\nAsking for more money to stay.\nSaid that i recived less money from Airbnb if you want to stay pay me more money.\nI used the option pet friendly and mentioned 2 adults and 2 pets. After reaching there he said i can\u2019t allow and ask me to cancle the booking.\nThe host is onwer of building. I wasted my 2 hours there finding the solution but they don\u2019t care. He said me not to disturb him by calling him again.\nI was travelling from last 20 hours with 2 babies ( my pets).\nI haven\u2019t get any help from anyone.\nI wasted my time\nI wasted my money\nI got stressed out.\nHarrsement he abuse me and said i don\u2019t give a shit if you book for pets i don\u2019t care pets are not allowed in my premises.\nBut later on he said pay me extra money i can allow you to keep your pets on roof.\nI accept the option and he starts being greedy and ask for more money by staying you have go check out at this time other wise may be double amount.\nThis is the reason our country can\u2019t grow because of these fraudster, lair and greedy people",
+      "Don't ever book this property. I booked this property and just 30 mins before check-in, I got a call who informed me, I can't give rooms, there's some work going on & denied. Also, he said, talk to customer care and ask for refund, we are not answerable.\nAfter all this, there's no one at oyo helpline to resolve this issue.\nI am not going to book any oyo property ever in life.\nPathetic customer service.",
+      "Full night Ac not working is tha hotel room 1  room in1000 very bad service"
+    ]
+  },
+  "review_summary": "Based on 5 reviews.",
+  "positive_themes": {
+    "friendly_staff": 1,
+    "clean_rooms": 1
+  },
+  "negative_themes": {
+    "rude_staff": 2
+  }
+}

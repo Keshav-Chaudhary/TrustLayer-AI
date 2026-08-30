@@ -1,0 +1,48 @@
+{
+  "hotel_id": "ChIJu-834kAZDTkR5lRXhrM4Sm4",
+  "hotel_name": "Hotel O Meghna Residency",
+  "area": "Sector 12",
+  "budget_category": "Mid-Range",
+  "rating": 3.8,
+  "trust_score": 0.4665402196225546,
+  "travel_purpose_tags": [
+    "Budget"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "moderate",
+    "review_count": 5,
+    "positive_snippet_count": 0,
+    "negative_snippet_count": 3,
+    "positive_theme_count": 2,
+    "negative_theme_count": 2
+  },
+  "aspect_scores": {
+    "cleanliness": 0.0010104995453729,
+    "service": 0.0005771192372776,
+    "location": 0.0005177682032808,
+    "value_for_money": 0.0005771192372776,
+    "staff_behavior": 0.0099614473583642
+  },
+  "recommendation_features": {
+    "popularity_score": 0.4964217983810349,
+    "rating_score": 3.8,
+    "sentiment_score": 0.0080964519409462
+  },
+  "review_evidence": {
+    "positive_snippets": [],
+    "negative_snippets": [
+      "Nightmare Stay: Disgusting Conditions and Dismissive Service\n\nOur two-night stay at OYO Meghna Residency was nothing short of a nightmare. Forced into this establishment due to a last-minute cancellation by another hotel \u2013 a cancellation apparently triggered by the lack of an Aadhar card, a baffling requirement for tourists \u2013 we were greeted with appalling conditions, dismissive service, and dubious costs.\n\nDespite providing multiple forms of identification, including my license, marriage certificate, and passport, the check-in process was far from smooth. The room we were given reeked of an unpleasant odor, a clear sign of neglect. It seemed deserted, with no other guests in sight during our stay.\n\nThe state of the beds and mattresses was abysmal, with visible stains and dirt rendering them unfit for use. When I requested a replacement for the torn bed cover, I was met with resistance from the service staff, who tried to justify the filth rather than rectify it.\n\nBasic amenities like toilet paper and drinking water were luxuries we had to beg for repeatedly. Even when provided, the toilet paper was half-used and clearly recycled. Tap water in a dirty bottle was the closest we got to hydration, a testament to the hotel's disregard for guest comfort and well-being.\n\nIn addition to the appalling conditions, the costs incurred were dubious at best. Priced at 1500 INR per night (3000 INR for two nights), the value proposition was abysmal considering the substandard accommodations and lackluster service provided.\n\nTo add insult to injury, the receptionist exhibited a shocking level of rudeness and indifference towards our concerns. It became apparent that guest accommodation and satisfaction were not priorities for this establishment.\n\nEven with relatives in the vicinity, we were left to fend for ourselves, as the hotel displayed blatant apathy towards our plight. Constant calls from our relatives were necessary to prompt any semblance of service, highlighting the utter incompetence and neglect rampant at OYO Meghna Residency.\n\nIn summary, our experience at OYO Meghna Residency was a harrowing ordeal, marred by unsanitary conditions, indifferent service, and dubious costs. I strongly advise against subjecting oneself to such a dismal establishment, and urge prospective guests to seek accommodations elsewhere for a truly pleasant stay in India.",
+      "Leave staff , Mr vinod Tanwar running hotel on his bad attitude and behaviour, hotel will no grow up, there will be no returning customers , no growth no more manpower , rooms will be always dirty. U became any how much rich i know  u /owner cant control ur attitude but appoint staff who respect instead , and if u cant afford staff stop giving fake rich attitude.\nIt is hospitality , haat jod k chalti h hospitality not with attitude , recommend never visit if u are educated.",
+      "Never ever ever visit to this Oyo Property as this property doesn't have a good staff. The receptionist is a very rude person, actually i have a paid booking and he clearly said i will not give you any room then i said but i am so tired i need to sleep for sometime but he refused and said cancel that booking and book it now in front of me.\nThat person was extremely rude like infinity, he doesn't even know how to talk with a customer. I just don't know who lets him sit and handle the entrance\nEventually i need to find another hotel which was chaupal sector 14 and it was amazing with good staff..\nA SCREENSHOT ALSO SHOWS MY BOOKING OF THERE..."
+    ]
+  },
+  "review_summary": "Based on 5 reviews.",
+  "positive_themes": {
+    "friendly_staff": 3,
+    "great_value": 1
+  },
+  "negative_themes": {
+    "dirty_rooms": 3,
+    "rude_staff": 3
+  }
+}

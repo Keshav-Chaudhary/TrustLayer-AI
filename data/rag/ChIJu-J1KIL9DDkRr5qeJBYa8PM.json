@@ -1,0 +1,47 @@
+{
+  "hotel_id": "ChIJu-J1KIL9DDkRr5qeJBYa8PM",
+  "hotel_name": "Hotel O Dream Stay",
+  "area": "Delhi 50",
+  "budget_category": "Budget",
+  "rating": 3.4,
+  "trust_score": 0.4447341923953822,
+  "travel_purpose_tags": [
+    "Budget"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "moderate",
+    "review_count": 5,
+    "positive_snippet_count": 1,
+    "negative_snippet_count": 3,
+    "positive_theme_count": 2,
+    "negative_theme_count": 0
+  },
+  "aspect_scores": {
+    "cleanliness": 0.0002164889447158,
+    "service": 0.0012782696867361,
+    "location": 0.5,
+    "value_for_money": 0.4979080582197639,
+    "staff_behavior": 0.0012782696867361
+  },
+  "recommendation_features": {
+    "popularity_score": 0.3564075138935633,
+    "rating_score": 3.4,
+    "sentiment_score": 0.1997576765512348
+  },
+  "review_evidence": {
+    "positive_snippets": [
+      "My experience is very good rooms so better this price"
+    ],
+    "negative_snippets": [
+      "First of all the oyo room dream stay DEL 5042 building was locked from inside and the caretaker was insisting me to cancel booking which was paid booking ID ZIJB6407 and pay extra INR 750 however I have booking for INR 550 and he forced me to pay or get lost.",
+      "If there is an option of giving 0 stars or in -ive i would have chosen that\nHorrible place i paid for the day but couldn't  survived there for more than 30 mins..",
+      "It's very bad experience\nAC not working\nRooms are not that much clean\nAccording to price it's not worth it"
+    ]
+  },
+  "review_summary": "Based on 5 reviews.",
+  "positive_themes": {
+    "clean_rooms": 1,
+    "great_value": 1
+  },
+  "negative_themes": {}
+}

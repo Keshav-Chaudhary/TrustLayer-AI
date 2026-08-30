@@ -1,0 +1,50 @@
+{
+  "hotel_id": "ChIJF89697MFDTkRfrH0O-4wLtg",
+  "hotel_name": "Hotel O Mannat Bhera Enclave",
+  "area": "Paschim Vihar",
+  "budget_category": "Mid-Range",
+  "rating": 4.0,
+  "trust_score": 0.5916916036032207,
+  "travel_purpose_tags": [
+    "Leisure"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "moderate",
+    "review_count": 5,
+    "positive_snippet_count": 1,
+    "negative_snippet_count": 3,
+    "positive_theme_count": 2,
+    "negative_theme_count": 2
+  },
+  "aspect_scores": {
+    "cleanliness": 0.0011349458654876,
+    "service": 0.0005783644737675,
+    "location": 0.9998278617858888,
+    "value_for_money": 0.9997633099555968,
+    "staff_behavior": 0.2505925245350226
+  },
+  "recommendation_features": {
+    "popularity_score": 0.3713337812992298,
+    "rating_score": 4.0,
+    "sentiment_score": 0.4004266816191374
+  },
+  "review_evidence": {
+    "positive_snippets": [
+      "Good room. good familer staff.recommended to others .professional staff .location good ."
+    ],
+    "negative_snippets": [
+      "Room is very dirty staff is very rudly nd no customer service bedsheet washroom very dirty AC bhi kam nh krta khrb h",
+      "Worst hotel\nDon't book it please\nThe staff is so ignoring and rude\nNo basic facilities like towel, soap set\nWe asked for towel and bath kit thousands of time\nEverytime they ignore\nGeyser not working\nNo bucket in washroom\nLots of mosquitos\nArrogant behaviour of staff\nThey will just provide you room to sleep\nNothing else\nNo matter how much time you ask them for basic things\nNot offered a single water bottle\nI request you don't book it you will regret",
+      "Poor Customer Service\nRude or unhelpful front desk staff\nDifficulty getting issues resolved or receiving refunds\nUnprofessional behavior from management or staff"
+    ]
+  },
+  "review_summary": "Based on 5 reviews.",
+  "positive_themes": {
+    "friendly_staff": 4,
+    "good_location": 1
+  },
+  "negative_themes": {
+    "dirty_rooms": 1,
+    "rude_staff": 2
+  }
+}

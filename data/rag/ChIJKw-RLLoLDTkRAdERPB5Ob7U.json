@@ -1,0 +1,48 @@
+{
+  "hotel_id": "ChIJKw-RLLoLDTkRAdERPB5Ob7U",
+  "hotel_name": "Hotel Vc",
+  "area": "Bahadurgarh",
+  "budget_category": "Mid-Range",
+  "rating": 3.6,
+  "trust_score": 0.69536136339968,
+  "travel_purpose_tags": [
+    "Budget"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "moderate",
+    "review_count": 5,
+    "positive_snippet_count": 3,
+    "negative_snippet_count": 2,
+    "positive_theme_count": 2,
+    "negative_theme_count": 0
+  },
+  "aspect_scores": {
+    "cleanliness": 0.5,
+    "service": 0.4950220617465674,
+    "location": 0.5,
+    "value_for_money": 0.5,
+    "staff_behavior": 0.999624490737915
+  },
+  "recommendation_features": {
+    "popularity_score": 0.516562458327211,
+    "rating_score": 3.6,
+    "sentiment_score": 0.7952142847701907
+  },
+  "review_evidence": {
+    "positive_snippets": [
+      "It's old hotel, needs some maintenance in rooms & illumination to be improved a lot. Staff is fantastic, polite & always ready to help. Overall hotel is good if you can ignore certain flaws then it can be a good place.",
+      "It's very good hotel",
+      "Everything is gd food and service .gd nature . behaviour.etc it's gd good for business purpose.."
+    ],
+    "negative_snippets": [
+      "They hardly maintained rooms!!The walls ,washrooms,closets, Air-conditioner ,Geyser,TV, nothing was working properly. The hotel didn't have reputation in the town as said by localities and some govt.officers. They don't give any discounts as they promise.. so enquire everything before you check in, service taxes,luxury taxes. Only good thing was they provide good food.",
+      "Good option for night halt instead of Delhi. Have good food and tea/coffee options. Adjacent is a branch of Yes Bank and Mahindra, Tata and Renault workshops also."
+    ]
+  },
+  "review_summary": "Based on 5 reviews.",
+  "positive_themes": {
+    "friendly_staff": 1,
+    "good_food": 3
+  },
+  "negative_themes": {}
+}

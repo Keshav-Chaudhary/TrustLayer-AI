@@ -1,0 +1,50 @@
+{
+  "hotel_id": "ChIJZSlK1MrjDDkRjZgS3iDnj1w",
+  "hotel_name": "Hotel Le Cadre",
+  "area": "East of Kailash",
+  "budget_category": "Mid-Range",
+  "rating": 3.7,
+  "trust_score": 0.5459908686743887,
+  "travel_purpose_tags": [
+    "Budget"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "moderate",
+    "review_count": 5,
+    "positive_snippet_count": 1,
+    "negative_snippet_count": 3,
+    "positive_theme_count": 3,
+    "negative_theme_count": 1
+  },
+  "aspect_scores": {
+    "cleanliness": 0.0009319142554886,
+    "service": 0.0029457172883363,
+    "location": 0.2506608185212826,
+    "value_for_money": 0.0009319142554886,
+    "staff_behavior": 0.00107407028554
+  },
+  "recommendation_features": {
+    "popularity_score": 0.6415401700731959,
+    "rating_score": 3.7,
+    "sentiment_score": 0.2020457814331166
+  },
+  "review_evidence": {
+    "positive_snippets": [
+      "One of the best business hotel in South Delhi location."
+    ],
+    "negative_snippets": [
+      "Only good thing in this hotel is that the locaton of the hotel is near metro station. The rooms are full of smell. the behaviour of staff is also not good as when i compain about the TV they didnot resolve it untill a checked out afer 3 days. After my visit I came to know that many silmilar range hotles are available in this locality with more quality services and less cost.",
+      "The banquet hall in basement is sized for a small gathering of 50 people. The decor and service was decent. But be privy to the invoice they share and the GST they charge. They do not give proper bill, don't accept a print out sheet.",
+      "Have a very pathetic experience while staying in this disgusting hotel. Few issues are as under:\n1. Have TV but no dish recharge...\n2. Smelly rooms\n3. Bedsheets and blankets are filthy\n4. There are few staff members but no one is there to listen your concern.\n5. At the time of check out their printer doesnt work, you have to wait atleast 1 hour for bill with your luggage in the corridor.\nExcept location, near to metro ...this hotel is not worthy to stay even at free of cost."
+    ]
+  },
+  "review_summary": "Based on 5 reviews.",
+  "positive_themes": {
+    "good_location": 4,
+    "friendly_staff": 2,
+    "great_value": 1
+  },
+  "negative_themes": {
+    "dirty_rooms": 2
+  }
+}

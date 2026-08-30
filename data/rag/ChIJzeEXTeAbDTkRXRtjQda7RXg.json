@@ -1,0 +1,50 @@
+{
+  "hotel_id": "ChIJzeEXTeAbDTkRXRtjQda7RXg",
+  "hotel_name": "Calista Boutique Hotel Near Yashobhoomi",
+  "area": "Kapas Hera Estate",
+  "budget_category": "Mid-Range",
+  "rating": 4.6,
+  "trust_score": 0.7357897684350304,
+  "travel_purpose_tags": [
+    "Budget"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "rich",
+    "review_count": 5,
+    "positive_snippet_count": 3,
+    "negative_snippet_count": 2,
+    "positive_theme_count": 4,
+    "negative_theme_count": 0
+  },
+  "aspect_scores": {
+    "cleanliness": 0.3403829433955252,
+    "service": 0.3403880693949758,
+    "location": 0.5033560565207154,
+    "value_for_money": 0.9975371062755584,
+    "staff_behavior": 0.9983122944831848
+  },
+  "recommendation_features": {
+    "popularity_score": 0.3695937341215708,
+    "rating_score": 4.6,
+    "sentiment_score": 0.6032446085475385
+  },
+  "review_evidence": {
+    "positive_snippets": [
+      "The rooms are spacious and clean. Room service is decent. Breakfast options are nice. But the location is not that great",
+      "Excellent hotel with friendly and helpful staff \u2013 I really enjoyed my stay here. The entrance is through the nearby resort, followed by a left turn. The rooms were spacious and clean, including the bathroom, which was also quite large. All basic amenities were provided, making the stay comfortable and convenient.\"",
+      "What a wonderful experience!!\n\nGreat check in experience, staff was humble and incredible. Rooms were upto the mark, cleanliness was superb. In the terms of hospitality the management and overall experience is great. Entire staff was so kind and Shivam was incredible. This is one of the best and budget friendly property i ever visited at that location\n\nOverall Experience was great."
+    ],
+    "negative_snippets": [
+      "Rooms and washrooms are clean and spacious, although there is a lack of ventilation. They have a very laid back approach towards other services. Wifi connection is unstable and the internet is slow inside rooms. They only have 1 wheelchair for the entire calista resort complex, so you need to wait for an hour for it.",
+      "Very budget-friendly stay. Minor issues with shower and TV, but for the price, it\u2019s hard to complain. Good option if you\u2019re on a tight budget"
+    ]
+  },
+  "review_summary": "Based on 5 reviews.",
+  "positive_themes": {
+    "clean_rooms": 4,
+    "good_location": 3,
+    "good_food": 1,
+    "friendly_staff": 3
+  },
+  "negative_themes": {}
+}

@@ -1,0 +1,53 @@
+{
+  "hotel_id": "ChIJxzEBJLMZDTkR3JmM3HkM_qQ",
+  "hotel_name": "Tulalip Hotel",
+  "area": "Sector 14",
+  "budget_category": "Mid-Range",
+  "rating": 4.0,
+  "trust_score": 0.6301370485113365,
+  "travel_purpose_tags": [
+    "Budget"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "rich",
+    "review_count": 5,
+    "positive_snippet_count": 3,
+    "negative_snippet_count": 2,
+    "positive_theme_count": 4,
+    "negative_theme_count": 2
+  },
+  "aspect_scores": {
+    "cleanliness": 0.0034880800085375,
+    "service": 0.6685177548788488,
+    "location": 0.0034880800085375,
+    "value_for_money": 0.6664144242434608,
+    "staff_behavior": 0.0066430759616196
+  },
+  "recommendation_features": {
+    "popularity_score": 0.549729033603689,
+    "rating_score": 4.0,
+    "sentiment_score": 0.4019990108499769
+  },
+  "review_evidence": {
+    "positive_snippets": [
+      "I stayed in this hotel for three days. The price is somewhat expensive but the service and maintenance is good. They even added an complimentary tiffin in the price. Coming to food it is good. Overall i would recommend to stay if your searching in an around sector 14 it would be a great choice to stay.",
+      "Had stayed for a month for official reasons . Excellent service staff!! Good food!! The dish tv had issues had to get it changed at least twice if not more...ac at times emmited some foul smell n the room at hot water issues..also the hotel is located in a lane in between to highways,which is quite a remorted location..doesn't feel safe to step out post 10 at night..but not a deal breaker though.",
+      "Everything was perfect except the fact that they didn't serve food except for the complimentary breakfast. Everytime we asked for lunch or breakfast they asked us to order from outside which was a problem since it was raining heavily during our entire stay and most of the orders were either getting cancelled or were delivered very late also costed few more bucks for delivering in rain."
+    ],
+    "negative_snippets": [
+      "Old hotel, rooms are large and nice.\nexcellent hospitality at reception and room service.\nCustomized homely food.\nLimited parking.\nGood value for money.",
+      "Really dirty hotel. Room smelled of bug spray and the toiled was worse than a train station toilet. Smelled of old urine and the towels were moist and seemed only folded up, not really washed. Couldn't get out of here fast enough. Yes, it is really cheap but it's not worth it. Stretch your budget just a little bit and you can find way better places to stay near by."
+    ]
+  },
+  "review_summary": "Based on 5 reviews.",
+  "positive_themes": {
+    "good_food": 4,
+    "friendly_staff": 1,
+    "good_location": 2,
+    "great_value": 2
+  },
+  "negative_themes": {
+    "dirty_rooms": 2,
+    "parking_issues": 1
+  }
+}

@@ -1,0 +1,49 @@
+{
+  "hotel_id": "ChIJ10WSvbAbDTkR8nRvr9xv9cE",
+  "hotel_name": "Collection I Hotel",
+  "area": "New Delhi",
+  "budget_category": "Mid-Range",
+  "rating": 4.4,
+  "trust_score": 0.754966073985369,
+  "travel_purpose_tags": [
+    "Budget"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "rich",
+    "review_count": 5,
+    "positive_snippet_count": 3,
+    "negative_snippet_count": 2,
+    "positive_theme_count": 3,
+    "negative_theme_count": 0
+  },
+  "aspect_scores": {
+    "cleanliness": 0.9997641444206238,
+    "service": 0.5,
+    "location": 0.5,
+    "value_for_money": 0.5,
+    "staff_behavior": 0.9998085796833038
+  },
+  "recommendation_features": {
+    "popularity_score": 0.2877445657749879,
+    "rating_score": 4.4,
+    "sentiment_score": 0.8012498147785664
+  },
+  "review_evidence": {
+    "positive_snippets": [
+      "The place is very good environment is nice bed very comfortable. Every area is clean and tidy I will give 5 out of 5",
+      "Nice & cleaning is good, staff also supportive,\nI suggest must visit this place",
+      "I feel very good with all staff\nSpecially thanks to samar for good behavior"
+    ],
+    "negative_snippets": [
+      "Good for stay only. Nearby lots of restaurants and shopping centres available",
+      "all room not same"
+    ]
+  },
+  "review_summary": "Based on 5 reviews.",
+  "positive_themes": {
+    "clean_rooms": 2,
+    "friendly_staff": 2,
+    "good_location": 1
+  },
+  "negative_themes": {}
+}

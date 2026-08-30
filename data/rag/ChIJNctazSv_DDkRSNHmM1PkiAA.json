@@ -1,0 +1,46 @@
+{
+  "hotel_id": "ChIJNctazSv_DDkRSNHmM1PkiAA",
+  "hotel_name": "Hotel Sunlight",
+  "area": "Delhi=110084",
+  "budget_category": "Mid-Range",
+  "rating": 4.8,
+  "trust_score": 0.8856079555745856,
+  "travel_purpose_tags": [
+    "Business"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "moderate",
+    "review_count": 5,
+    "positive_snippet_count": 3,
+    "negative_snippet_count": 0,
+    "positive_theme_count": 3,
+    "negative_theme_count": 0
+  },
+  "aspect_scores": {
+    "cleanliness": 0.5,
+    "service": 0.9998018145561218,
+    "location": 0.5,
+    "value_for_money": 0.999704658985138,
+    "staff_behavior": 0.9997792541980745
+  },
+  "recommendation_features": {
+    "popularity_score": 0.3543615015642497,
+    "rating_score": 4.8,
+    "sentiment_score": 0.9996526956558228
+  },
+  "review_evidence": {
+    "positive_snippets": [
+      "Best hotel and best service \ud83e\udd70",
+      "Value for money\nStaff behaviour is good...",
+      "Good hotel \ud83c\udfe8 cleaning good"
+    ],
+    "negative_snippets": []
+  },
+  "review_summary": "Based on 5 reviews.",
+  "positive_themes": {
+    "friendly_staff": 2,
+    "great_value": 1,
+    "clean_rooms": 1
+  },
+  "negative_themes": {}
+}

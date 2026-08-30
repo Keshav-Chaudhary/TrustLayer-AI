@@ -1,0 +1,52 @@
+{
+  "hotel_id": "ChIJWRkUo-8DDTkRI5QgI0OqdsI",
+  "hotel_name": "Hotel Ornate Inn",
+  "area": "Rohini",
+  "budget_category": "Budget",
+  "rating": 3.6,
+  "trust_score": 0.5104323772592247,
+  "travel_purpose_tags": [
+    "Budget"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "moderate",
+    "review_count": 5,
+    "positive_snippet_count": 2,
+    "negative_snippet_count": 3,
+    "positive_theme_count": 3,
+    "negative_theme_count": 2
+  },
+  "aspect_scores": {
+    "cleanliness": 0.264173916861182,
+    "service": 0.0282790394267066,
+    "location": 0.5,
+    "value_for_money": 0.5,
+    "staff_behavior": 0.2504029453812108
+  },
+  "recommendation_features": {
+    "popularity_score": 0.5228641744469175,
+    "rating_score": 3.6,
+    "sentiment_score": 0.2113760801468742
+  },
+  "review_evidence": {
+    "positive_snippets": [
+      "Rooms were clean and spacious. But service was very slow. Rooms were not ready by the checkin time. Towel and toiletries were not provided in all the rooms. Hot water was not provided in the washroom in some rooms despite multiple complains. But food was good",
+      "Had a wonderful stay! The rooms were spotless, beautifully maintained, and very comfortable. The staff was polite and always ready to help. Highly recommended."
+    ],
+    "negative_snippets": [
+      "wouldn\u2019t recommend this place to anyone. Rooms were filthy with broken fixtures\u2014our bathroom tap wouldn\u2019t even turn off, and no one came to fix it. Worst part? There were random couples hanging around in the lobby and hallways, dressed inappropriately for a family setting. Bilkul family safe nahi hai. The staff also had zero manners; we were pestered for tips from the moment we arrived. Avoid at all costs if you\u2019re traveling with family. They staff have no member how to talk with their guests. It's very worst hotel for stay. It's look like an oyo without branding.",
+      "As a photographer I will never suggest you for this banquet. Very disappointed for service even manager they didn\u2019t provide any switch for charging the batteries even washroom so dirty",
+      "Worst experience at Hotel Ornate Inn.\nWent for food tasting for my Haldi booking and it was a disaster. Food tasted horrible, quantity was extremely small, and the owner\u2019s behaviour was rude and unacceptable. Zero professionalism and zero hospitality. Definitely not recommended for any event."
+    ]
+  },
+  "review_summary": "Based on 5 reviews.",
+  "positive_themes": {
+    "clean_rooms": 2,
+    "good_food": 2,
+    "friendly_staff": 2
+  },
+  "negative_themes": {
+    "dirty_rooms": 2,
+    "rude_staff": 1
+  }
+}

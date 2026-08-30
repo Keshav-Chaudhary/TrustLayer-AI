@@ -1,0 +1,49 @@
+{
+  "hotel_id": "ChIJUa9kJyUZDTkRCLz0DgmLSlY",
+  "hotel_name": "Hotel Indiyaah Inn",
+  "area": "Sector 25",
+  "budget_category": "Budget",
+  "rating": 4.6,
+  "trust_score": 0.9072177391989495,
+  "travel_purpose_tags": [
+    "Leisure",
+    "Business",
+    "Family"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "moderate",
+    "review_count": 5,
+    "positive_snippet_count": 3,
+    "negative_snippet_count": 0,
+    "positive_theme_count": 4,
+    "negative_theme_count": 0
+  },
+  "aspect_scores": {
+    "cleanliness": 0.9998439252376556,
+    "service": 0.9998592138290404,
+    "location": 0.9996706545352936,
+    "value_for_money": 0.999868392944336,
+    "staff_behavior": 0.999689483642578
+  },
+  "recommendation_features": {
+    "popularity_score": 0.5809061151631686,
+    "rating_score": 4.6,
+    "sentiment_score": 0.999689483642578
+  },
+  "review_evidence": {
+    "positive_snippets": [
+      "I had previously stayed in Paharganj, and I did not enjoy my time in Delhi there. It was very chaotic, transport to anywhere was very difficult, and I did not feel safe at any point.\n\nStaying here, by contrast, has been a dream. The roads seem more navigable, the hotel is located in a gated community it seems, and the staff made me feel very safe and were very helpful.\n\nThe hotel itself is beautiful inside, and they must be very proud of it.\n\nThe staff are very welcoming and helpful, and are a delight to talk to.\n\nStaying here has been a great experience of Delhi, and a very pleasant stay before catching my flight today.\n\nI would recommend to all looking for a pleasant and safe stay in Delhi, particularly either arriving from the airport or looking to depart.",
+      "Very central for our visit and to ambience mall.\nThe owner and staff are great with kids and accommodations, especially for laundry, extra beds/cots, heaters, and air purifiers. Good wifi for work. There's even a nice park nearby for the kids and walking.",
+      "Indiayaah Inn Hotel is a nice and comfortable place to stay. The rooms are clean, the staff is friendly, and the overall experience is pleasant and Near to Shikhanderpur Metro.  Good value for money and a convenient choice for travelers."
+    ],
+    "negative_snippets": []
+  },
+  "review_summary": "Based on 5 reviews.",
+  "positive_themes": {
+    "friendly_staff": 5,
+    "good_location": 2,
+    "clean_rooms": 2,
+    "great_value": 1
+  },
+  "negative_themes": {}
+}

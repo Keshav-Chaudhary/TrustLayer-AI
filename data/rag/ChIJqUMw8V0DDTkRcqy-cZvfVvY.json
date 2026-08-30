@@ -1,0 +1,51 @@
+{
+  "hotel_id": "ChIJqUMw8V0DDTkRcqy-cZvfVvY",
+  "hotel_name": "Hotel Park Residency - Pitampura, Delhi",
+  "area": "Pitampura",
+  "budget_category": "Mid-Range",
+  "rating": 3.8,
+  "trust_score": 0.6721344888193249,
+  "travel_purpose_tags": [
+    "Budget"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "rich",
+    "review_count": 5,
+    "positive_snippet_count": 3,
+    "negative_snippet_count": 2,
+    "positive_theme_count": 5,
+    "negative_theme_count": 0
+  },
+  "aspect_scores": {
+    "cleanliness": 0.9996641576290132,
+    "service": 0.6667375825539542,
+    "location": 0.5002104492450599,
+    "value_for_money": 0.5001700911961962,
+    "staff_behavior": 0.6667375825539542
+  },
+  "recommendation_features": {
+    "popularity_score": 0.5751036659325894,
+    "rating_score": 3.8,
+    "sentiment_score": 0.6000517108244822
+  },
+  "review_evidence": {
+    "positive_snippets": [
+      "Location and approach is bit odd. tasty  food.floor ,lifts  and  toilet cleanliness is poor.Restaurant area ambience  and lighting is bit too odd. Dining tables are not properly spaced.",
+      "Nice place, I truly enjoyed my stay here. The staffs were very friendly, from security to reception and canteen provided excellent service, and were extremely friendly.",
+      "It's definitely been the best hotel experience in Delhi so far. The service was always very quick and the staff, extremely friendly. The rooms were all neat and clean, and everything was better than I'd expected. Absolutely worth the price paid."
+    ],
+    "negative_snippets": [
+      "Few minor examples :- Disposables used to serve food . Very delayed room service , understaffed etc etc .. can go on .  Seems management is cash strapped and advised staff to curb on every facility. I had  booked the entire hotel for 2 days and few rooms for more than 3 days . Had my daughters marriage. Did not even bargain on rates etc . But they left no stone to ensure displeasure for such cheap activities . Even food is on the lower quality side .  My mistake as should have taken past reviews in consideration.",
+      "It\u2019s an excellent place for having 2/3 days in house family function. One can have Sangeet DJ in hall & marriage rituals at roof top & in halls. Rooms are large, very neat & clean with all the facilities viz., fridge, kettle, locker, Central air conditioning, 24 hours hot water facility. Bath rooms are large & very clean, hygienic."
+    ]
+  },
+  "review_summary": "Based on 5 reviews.",
+  "positive_themes": {
+    "clean_rooms": 3,
+    "good_location": 1,
+    "good_food": 2,
+    "friendly_staff": 3,
+    "great_value": 2
+  },
+  "negative_themes": {}
+}

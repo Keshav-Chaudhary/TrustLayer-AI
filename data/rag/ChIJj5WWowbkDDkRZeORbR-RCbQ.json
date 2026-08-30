@@ -1,0 +1,53 @@
+{
+  "hotel_id": "ChIJj5WWowbkDDkRZeORbR-RCbQ",
+  "hotel_name": "Hotel Rampal Palace",
+  "area": "Jasola Vihar",
+  "budget_category": "Luxury",
+  "rating": 3.6,
+  "trust_score": 0.5779622353136,
+  "travel_purpose_tags": [
+    "Budget"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "rich",
+    "review_count": 5,
+    "positive_snippet_count": 3,
+    "negative_snippet_count": 2,
+    "positive_theme_count": 4,
+    "negative_theme_count": 2
+  },
+  "aspect_scores": {
+    "cleanliness": 0.0007519307691836,
+    "service": 0.0002626424247864,
+    "location": 0.5000225725380005,
+    "value_for_money": 0.9997994303703308,
+    "staff_behavior": 0.3553829323985458
+  },
+  "recommendation_features": {
+    "popularity_score": 0.5372623782849241,
+    "rating_score": 3.6,
+    "sentiment_score": 0.4134412748797331
+  },
+  "review_evidence": {
+    "positive_snippets": [
+      "Hotel owner is very kind and helpful. Rest of staff also very kind. Room was very comfortable and affordable. Wifi worked very nice also. Location of hotel is good, plenty of shops, meds shop, and is right by Apollo hospital.\nI highly recommend this hotel.",
+      "Best hotel to stay with Family for tour or Medical Purpose. Very very well behaved employees and staffs. I really loved their hotel rooms and very much affordable!",
+      "The room is okay to stay for a short duration.. Staff behaviour is very polite and friendly but room maintenance is not up to the mark. The room I got didn't have a TV, the chair was broken and the toilet seat was shaking..\nRoutine maintenance is required by the owner.\nThank you for the nice stay."
+    ],
+    "negative_snippets": [
+      "\u2b50\u2606\u2606\u2606\u2606\n\nI had one of the worst experiences staying at Hotel Rampal Palace. The condition of the property is far below acceptable standards.\n\nRoom & Cleanliness:\nThe room allotted was in a very bad state. The bedsheets were dirty, torn, and clearly not changed for new guests. All the linen looked unhygienic, and the towels provided were old, rough, and in extremely poor condition. The room also had a strong foul smell, and despite raising the issue with reception, no proper solution was given. They just sent a housekeeping boy with a fragrance spray, which only masked the odor for a few minutes instead of fixing the root problem.\n\nHygiene & Maintenance:\nThe hotel shows no sense of cleanliness or hygiene. Dust and dirt were visible in corners, the washroom was not properly cleaned, and basic maintenance seemed completely ignored. Even outside the hotel, the surroundings were dirty and unkempt, creating a very unpleasant atmosphere before even stepping inside.\n\nStaff Behavior:\nThe reception staff was unhelpful and unfriendly. Rather than showing concern for guest comfort, they almost ignored my complaints. The attitude towards guests felt careless and unprofessional, which made the overall stay even worse.\n\nLocation & Clientele:\nMost of the hotel\u2019s clientele is linked to Apollo Hospital, which makes hygiene and cleanliness even more important. Patients and their families often stay here, and one would expect the property to maintain the highest standards of hygiene. Unfortunately, that is not the case. The lack of proper care and cleanliness is shocking, especially considering the type of guests who rely on this hotel.\n\nOverall Experience:\nThis hotel fails to meet even the most basic standards of hospitality. Poor hygiene, lack of proper maintenance, unclean surroundings, and rude staff make it a place I would never recommend. Guests deserve respect, cleanliness, and comfort\u2014unfortunately, Hotel Rampal Palace provides none of these. Very bad experience overall.",
+      "Scammer & fraud!!!\ud83d\udeab\u274c\n\nI don't want to give Even 1 star They robbed me! I was at the hospital when I called them they told me that they charge \u20b91000 per night when I reached there they told me it's \u20b91600 now. At this time you have no chance to go to other hotels you have to take the room and is so dirty eww bedsheet\nPls don't stay here they'll rob you like me"
+    ]
+  },
+  "review_summary": "Based on 5 reviews.",
+  "positive_themes": {
+    "friendly_staff": 4,
+    "good_location": 2,
+    "great_value": 2,
+    "clean_rooms": 1
+  },
+  "negative_themes": {
+    "dirty_rooms": 2,
+    "rude_staff": 1
+  }
+}

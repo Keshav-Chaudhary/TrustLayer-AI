@@ -1,0 +1,52 @@
+{
+  "hotel_id": "ChIJ3S7zfJ8CDTkRI1ahIlccS5o",
+  "hotel_name": "Fabhotel Marble Arch - Hotel In Karol Bagh, New Delhi",
+  "area": "Karol Bagh",
+  "budget_category": "Mid-Range",
+  "rating": 3.2,
+  "trust_score": 0.4203770237229542,
+  "travel_purpose_tags": [
+    "Budget"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "moderate",
+    "review_count": 5,
+    "positive_snippet_count": 0,
+    "negative_snippet_count": 3,
+    "positive_theme_count": 5,
+    "negative_theme_count": 3
+  },
+  "aspect_scores": {
+    "cleanliness": 0.0009573384959366,
+    "service": 0.0011737210443243,
+    "location": 0.0007289157438208,
+    "value_for_money": 0.0010369753581471,
+    "staff_behavior": 0.001131991816995
+  },
+  "recommendation_features": {
+    "popularity_score": 0.6652183620005838,
+    "rating_score": 3.2,
+    "sentiment_score": 0.0008725750783923
+  },
+  "review_evidence": {
+    "positive_snippets": [],
+    "negative_snippets": [
+      "Good location but the hotel was dirty. Very unmaintained hotel and room.  Our stay was on the 3rd floor, but the lift was not working. The condition of the room was pathetic, there wasn't one thing that didn't want a repair. The bead sheet and pillow cover was so dirty and stained. Don't believe the picture i think it's old years back, when it was started. I wished they did some basic maintenance.",
+      "It is a very old property, seriously needs to be renovated. No issues with the location or reh service. The hotel staff is really generous and supportive, no complaints at all. But the property itself is a huge mess, a very old building and rooms, the interiors doesn't give a feel of a hotel at all. The rooms do smell as well and the bathrooms are the worst smell. The hotel needs to be get cleaned every now and then feels more like a lodge rather than a hotel. It is not at all worth the money, should be listed around 500rs at max per day for this hotel. Also, they only have one type of room available so it's difficult they can upgrade you or not.\n\nFabHotel should rethink if they should own such a property, this property is just a renovation away from a big hot deal. Location is the perk.",
+      "Apart from the location, nothing about the stay was satisfactory. The property feels poorly maintained and does not meet basic hotel standards. Cleanliness was a major concern right from check-in. The bedsheets and linen were not changed prior to our arrival, which is unacceptable. They were replaced only after we specifically requested it, which should not be the case for any paying guest.\n\nOverall upkeep of the room was subpar and gave a very uncomfortable impression. The interiors do not feel welcoming, and the hygiene standards are well below expectations. The stay did not justify the price at all and felt more like a low-grade lodge rather than a hotel.\n\nThe location is the only positive aspect of this property. Other than that, the experience was disappointing and not worth the money. Significant improvements in cleanliness, maintenance, and basic service standards are required before this property can be recommended."
+    ]
+  },
+  "review_summary": "Based on 5 reviews.",
+  "positive_themes": {
+    "good_location": 4,
+    "clean_rooms": 2,
+    "friendly_staff": 4,
+    "great_value": 2,
+    "good_food": 1
+  },
+  "negative_themes": {
+    "dirty_rooms": 3,
+    "rude_staff": 1,
+    "bad_food": 1
+  }
+}

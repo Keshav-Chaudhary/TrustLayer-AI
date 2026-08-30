@@ -1,0 +1,52 @@
+{
+  "hotel_id": "ChIJGywLmWv9DDkRnxyK623ysBM",
+  "hotel_name": "Hotel Apple Villa @ Paharganj",
+  "area": "Paharganj",
+  "budget_category": "Mid-Range",
+  "rating": 4.0,
+  "trust_score": 0.4967168167111405,
+  "travel_purpose_tags": [
+    "Budget"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "moderate",
+    "review_count": 5,
+    "positive_snippet_count": 0,
+    "negative_snippet_count": 3,
+    "positive_theme_count": 5,
+    "negative_theme_count": 3
+  },
+  "aspect_scores": {
+    "cleanliness": 0.0020124712245887,
+    "service": 0.000567455208511,
+    "location": 0.0032887991110328,
+    "value_for_money": 0.0022973454809592,
+    "staff_behavior": 0.0032887991110328
+  },
+  "recommendation_features": {
+    "popularity_score": 0.5228641744469175,
+    "rating_score": 4.0,
+    "sentiment_score": 0.0017196833912748
+  },
+  "review_evidence": {
+    "positive_snippets": [],
+    "negative_snippets": [
+      "I stayed at this hotel before I returned to Israel. It's not a good hotel. The rooms and reception are neglected, the employees are not very nice, the clerk asked to see a Booking.com reception code that I received in the email. Only in retrospect, after I showed him the code, did I think why he asked for it, probably to cancel my reservation from their system or to try to steal my credit information (my card was not saved in the system, so it was impossible to harm me, at most he could have improved his personal situation somehow). At first he wanted to put me in a room on the first floor that was filled with mothballs (they use them to kill insects). After five minutes, I started to get a headache because of them and I told him that I couldn't stay in the room and asked to change. He resisted at first, saying that they would clean the room of the mothballs, but I insisted and then he offered me another room with fewer mothballs, and after I refused the second room as well, he put me up on the third floor and offered me a room with only two mothballs, so I agreed to stay in this room. After the clerk left, I collected the two pills with toilet paper and got rid of them, aired the room, and was relieved. But this is a place I would have avoided. The nearby Casa Central is much better, and in general it is better not to stay in this neighborhood and maybe give up Delhi altogether. New Delhi is the only place I have traveled to in the world that I do not want to return to (and I have traveled to over twenty different countries and hundreds of cities). Maybe if I stayed in a different neighborhood in Delhi and did not travel alone or with a local, it would be a different experience, but I have no desire to return to Delhi under any circumstances.",
+      "People who rated >2 stars must have been paid otherwise I can't explain.\nNormally I never leave a negative review but I hope that this will help all the people that searching for the next stay in Delhi.\n\n1) this hotel is in one of the worst part of Delhi, where the smell, noise, people screaming, cows mooing at night it's regular\n2) bedsheets had stains, I found hairs, I only hope there weren't any bedbugs..I wouldn't be surprised in case..\n3) the bathroom was not clean, and no amenities were given, toilet paper was missing for example\n4) although I paid for the breakfast, they only had one dish out of the entire list they show. Either you eat that or you don't have breakfast, unbelievable\n5) they haven't cleaned the room at all the day after\n\nThis is not how a 3 star hotel should be, or at least this is not a 3 star European standard hotel. And I paid more than 40\u20ac a night which is quite a lot for being in Delhi\nI wouldn't suggest to go although the receptionist we're all kind, which is maybe the only reason why they deserve 1/5 and not 0.",
+      "The bed was dusty. The hotel situated in a worst area beside the public toilet and you can smell it whenever you go out of the hotel.\nThe staffs are waiting to charge you for everything, like keeping your luggage for an hour in the reception.\nThe bathroom seems like you will get viral disease if you used it, it's very unhygienic.\nIt's the worst terrible time of my life booking that hotel.\nThey charged me 3000 rupees for 2 days where i don't feel like it worth even 400 rupees.\n\nIf you value your life, please don't book this hotel.\nThank you"
+    ]
+  },
+  "review_summary": "Based on 5 reviews.",
+  "positive_themes": {
+    "clean_rooms": 3,
+    "good_location": 3,
+    "good_food": 1,
+    "friendly_staff": 3,
+    "great_value": 1
+  },
+  "negative_themes": {
+    "dirty_rooms": 3,
+    "noise": 1,
+    "rude_staff": 1
+  }
+}

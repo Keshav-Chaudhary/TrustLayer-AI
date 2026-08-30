@@ -1,0 +1,54 @@
+{
+  "hotel_id": "ChIJl-ab2zzdDDkR3F9f6h1Sy4U",
+  "hotel_name": "Hotel Billionaire Inn",
+  "area": "New Industrial Township",
+  "budget_category": "Budget",
+  "rating": 4.1,
+  "trust_score": 0.6370907326662439,
+  "travel_purpose_tags": [
+    "Budget"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "moderate",
+    "review_count": 5,
+    "positive_snippet_count": 2,
+    "negative_snippet_count": 3,
+    "positive_theme_count": 4,
+    "negative_theme_count": 3
+  },
+  "aspect_scores": {
+    "cleanliness": 0.0001864793011918,
+    "service": 0.4999443094129673,
+    "location": 0.5,
+    "value_for_money": 0.0001864793011918,
+    "staff_behavior": 0.0003864150494336
+  },
+  "recommendation_features": {
+    "popularity_score": 0.5228641744469175,
+    "rating_score": 4.1,
+    "sentiment_score": 0.4000377141986972
+  },
+  "review_evidence": {
+    "positive_snippets": [
+      "Banquet hall is good service is good parking lot is also comfortable for vehicle and all \ud83d\ude0a\ud83d\udc4d",
+      "I organized my parent's 25 anniversary here, and they really met me expectations. The food, hospitality, decor, services, etc were amazing. They made everything easier for me. I really recommend this place now for every small and big events. Kudos to the team,  thank you again."
+    ],
+    "negative_snippets": [
+      "I had a really bad experience at this hotel. The room was not clean at all \u2014 bedsheets looked used, there was dust everywhere, and the bathroom hygiene was terrible. Definitely not what you expect when you pay for a hotel stay.\n\nThe food was equally disappointing. It was poorly cooked, tasteless, and felt unhygienic. Limited options and absolutely not worth the price. We couldn\u2019t even finish the meals.\n\nOverall, this hotel lacks cleanliness, quality food, and professional staff. I would not recommend this place to\nanyone and won\u2019t be coming back again",
+      "Wrost experience, Very bad service by the staff, Ruined special day with no music, left guest disappointed. I won't recommend this hotel for a special event at better choose carefully.",
+      "The basement of Billionaire inn is way too congested and there is no ventilation whatsoever.\nAttended an event here and the cockroaches were roaming around the buffet.\nDo visit before booking it for any event."
+    ]
+  },
+  "review_summary": "Based on 5 reviews.",
+  "positive_themes": {
+    "good_food": 2,
+    "clean_rooms": 1,
+    "friendly_staff": 2,
+    "great_value": 1
+  },
+  "negative_themes": {
+    "parking_issues": 1,
+    "bad_food": 1,
+    "rude_staff": 1
+  }
+}

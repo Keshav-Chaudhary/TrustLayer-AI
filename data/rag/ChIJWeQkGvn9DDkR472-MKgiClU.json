@@ -1,0 +1,47 @@
+{
+  "hotel_id": "ChIJWeQkGvn9DDkR472-MKgiClU",
+  "hotel_name": "Hotel North Campus",
+  "area": "Kamla Nagar",
+  "budget_category": "Mid-Range",
+  "rating": 4.5,
+  "trust_score": 0.7500978617177662,
+  "travel_purpose_tags": [
+    "Budget"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "moderate",
+    "review_count": 5,
+    "positive_snippet_count": 3,
+    "negative_snippet_count": 1,
+    "positive_theme_count": 2,
+    "negative_theme_count": 0
+  },
+  "aspect_scores": {
+    "cleanliness": 0.9997239708900452,
+    "service": 0.9997774660587312,
+    "location": 0.5000136441231007,
+    "value_for_money": 0.5,
+    "staff_behavior": 0.5
+  },
+  "recommendation_features": {
+    "popularity_score": 0.2045392263146805,
+    "rating_score": 4.5,
+    "sentiment_score": 0.799794564495096
+  },
+  "review_evidence": {
+    "positive_snippets": [
+      "Best life time experience and full security..must visit once to make lots of fun.",
+      "Good service and security",
+      "I stayed here happy with their  service and even i visited spa near this hotel I had an amazing experience at Blissful Spa in GTB Nagar. The ambiance is \u0936\u093e\u0902\u0924 and \u092c\u0947\u0939\u0926 relaxing, perfect to unwind after a hectic day. The therapists are skilled and professional, and the massage was incredibly soothing. The place is clean, hygienic, and well-maintained. Highly recommended for anyone looking for a premium spa experience!"
+    ],
+    "negative_snippets": [
+      "Guys this is a fake property firstly this is not physically available at the given location.\nSecondly they denied the booking over call and said they will not share the location of the hotel.\nEven Oyo customer support has not provided any assistance hence please avoid this fake property."
+    ]
+  },
+  "review_summary": "Based on 5 reviews.",
+  "positive_themes": {
+    "clean_rooms": 1,
+    "good_location": 2
+  },
+  "negative_themes": {}
+}

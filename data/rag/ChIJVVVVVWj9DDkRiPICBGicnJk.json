@@ -1,0 +1,48 @@
+{
+  "hotel_id": "ChIJVVVVVWj9DDkRiPICBGicnJk",
+  "hotel_name": "Vishal Hotel",
+  "area": "Paharganj",
+  "budget_category": "Mid-Range",
+  "rating": 3.5,
+  "trust_score": 0.4547446294263522,
+  "travel_purpose_tags": [
+    "Budget"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "moderate",
+    "review_count": 5,
+    "positive_snippet_count": 0,
+    "negative_snippet_count": 3,
+    "positive_theme_count": 3,
+    "negative_theme_count": 1
+  },
+  "aspect_scores": {
+    "cleanliness": 0.0323981333553092,
+    "service": 0.0001967635616892,
+    "location": 0.1576810628175735,
+    "value_for_money": 0.5,
+    "staff_behavior": 0.0534953645740945
+  },
+  "recommendation_features": {
+    "popularity_score": 0.5920115459323219,
+    "rating_score": 3.5,
+    "sentiment_score": 0.0323981333553092
+  },
+  "review_evidence": {
+    "positive_snippets": [],
+    "negative_snippets": [
+      "Very dirty hotel and very poor service washrooms, rooms , beds, insects all over the room",
+      "Staff is very irresponsible\nRooms are not clean\nNo working of geyser\nWashroom very dirty",
+      "Rooms are very dirty, Bathrooms are not at all clean full of bad smell, And moreover I booked a hotel through goibibo, intending to stay at Hotel Pink City. However, due to an goibibo app error, my booking was made for Hotel Vishal in New Delhi. From March 3 to 8, I checked into Hotel Vishal, and they verified my booking details before providing me with a room.\n\nLater after one hour that morning , the hotel staff informed me that while my voucher mentioned Hotel Vishal, the payment had been credited to Hotel Pink City. They asked me to vacate the room and move to Hotel Pink City. When I contacted Hotel Pink City, they confirmed receiving my payment and asked me to check in there.\n\nAs a result, I was unnecessarily charged \u20b91001 for 30 minutes stay at Hotel Vishal. Despite the mistake not being mine, they insisted that I pay, claiming I had occupied the room for hour, The staff was harsh in their approach, and I ended up losing \u20b91000 unnecessarily at both hotels."
+    ]
+  },
+  "review_summary": "Based on 5 reviews.",
+  "positive_themes": {
+    "clean_rooms": 3,
+    "friendly_staff": 3,
+    "good_location": 1
+  },
+  "negative_themes": {
+    "dirty_rooms": 4
+  }
+}

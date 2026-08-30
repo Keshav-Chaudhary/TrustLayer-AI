@@ -1,0 +1,47 @@
+{
+  "hotel_id": "ChIJQb2D4b8DDTkRq0dRnD7Y1VI",
+  "hotel_name": "Super Townhouse Grand Pacific Ocean",
+  "area": "Moti Nagar",
+  "budget_category": "Mid-Range",
+  "rating": 2.6,
+  "trust_score": 0.3248589315179827,
+  "travel_purpose_tags": [
+    "Budget"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "moderate",
+    "review_count": 5,
+    "positive_snippet_count": 0,
+    "negative_snippet_count": 3,
+    "positive_theme_count": 1,
+    "negative_theme_count": 2
+  },
+  "aspect_scores": {
+    "cleanliness": 0.000549054093426,
+    "service": 0.000249245946179,
+    "location": 0.5,
+    "value_for_money": 0.000555339946004,
+    "staff_behavior": 0.0006735595525241
+  },
+  "recommendation_features": {
+    "popularity_score": 0.5916888772779344,
+    "rating_score": 2.6,
+    "sentiment_score": 0.0005025720485718
+  },
+  "review_evidence": {
+    "positive_snippets": [],
+    "negative_snippets": [
+      "I was charged \u20b91200 extra without any valid reason.\nWhen I requested a 1-day extension, the hotel again charged:\n\u2022\t\u20b9300 for extension\n\u2022\t\u20b91200 additional charges\n\u2022\tTotal \u20b92700 taken for just 2 nights, despite the app showing a much lower price.\nEven after checking in at night, the hotel owner did not mark my check-in on the OYO app, creating further issues.\nThe hotel owner behaved in an extremely rude, aggressive, and abusive manner.\nMost seriously, the owner threatened me, saying \u201cPaise do warna marunga\u201d.\nThis is a criminal threat and made me feel unsafe.\nI was new to the city, it was night time, and due to safety concerns, I had no option but to pay under pressure.",
+      "The service is very bad, the staff has no manners to talk to, the rooms are very dirty, if you are a professional then never go to such a hotel, instead of staying in this hotel you should stay in a Dharamshala.",
+      "Rude manager staff. Room was bad. Bathroom flush was not working, bathroom door couldn't be locked knob broken. Bedsheet was dirty, blanket was torn."
+    ]
+  },
+  "review_summary": "Based on 5 reviews.",
+  "positive_themes": {
+    "friendly_staff": 2
+  },
+  "negative_themes": {
+    "rude_staff": 2,
+    "dirty_rooms": 2
+  }
+}

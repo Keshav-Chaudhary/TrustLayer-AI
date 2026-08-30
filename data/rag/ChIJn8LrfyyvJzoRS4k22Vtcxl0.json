@@ -1,0 +1,52 @@
+{
+  "hotel_id": "ChIJn8LrfyyvJzoRS4k22Vtcxl0",
+  "hotel_name": "Mosaic Hotel Noida",
+  "area": "Sector 18",
+  "budget_category": "Mid-Range",
+  "rating": 4.1,
+  "trust_score": 0.8752076524415724,
+  "travel_purpose_tags": [
+    "Leisure",
+    "Business",
+    "Family"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "moderate",
+    "review_count": 5,
+    "positive_snippet_count": 3,
+    "negative_snippet_count": 1,
+    "positive_theme_count": 5,
+    "negative_theme_count": 0
+  },
+  "aspect_scores": {
+    "cleanliness": 0.9997840523719788,
+    "service": 0.9980554382006328,
+    "location": 0.9997974038124084,
+    "value_for_money": 0.9945117235183716,
+    "staff_behavior": 0.9987532496452332
+  },
+  "recommendation_features": {
+    "popularity_score": 0.7443129726372935,
+    "rating_score": 4.1,
+    "sentiment_score": 0.9987532496452332
+  },
+  "review_evidence": {
+    "positive_snippets": [
+      "Highly appreciated to entire team including front desk or guide one more thing another's person name uma Shankar Ji was the best staff of the hotel also .God Blessed You  A lots. keep it up All the Best I definitely recommended to everyone come & for Wonderful time at the hotel. The Best hospitality. We love it very much  Big Thanks For the Everyone",
+      "Mosaic Hotel in Noida is a stylish and comfortable place to stay, especially for business travelers and families. The rooms are clean, well-maintained, and equipped with all modern amenities for a relaxing stay. The hotel is located in a prime area, making it very convenient to access nearby offices, shopping malls, and metro stations.\nThe staff is polite, professional, and always ready to assist, which makes the overall experience smooth and pleasant. The in-house restaurant serves good-quality food, and the ambience throughout the hotel is calm and welcoming.\nAs a Google Local Guide and Google-trusted 360\u00b0 Virtual Tour Photographer, I highly recommend Mosaic Hotel to get a Google 360\u00b0 Virtual Tour. It beautifully showcases the rooms, lobby, restaurant, and overall ambience, helping attract more guests and improving visibility on Google Search and Maps.\nHighly recommended for a comfortable and hassle-free stay in Noida",
+      "Its a very good hotel situated in Noida near Sector 18 Noida. The rooms are very cozy and comfortable. The food provided here is very good in taste and you will get a lot of options over here. The staffs have a very polite behaviour and are always ready to help.\nIf you are here in Noida for stay or business tour , do consider this hotel."
+    ],
+    "negative_snippets": [
+      "I recently stayed at Mosaic Hotel in Sector 18, Noida, and overall it was a decent experience.\n\nThe biggest advantage of this property is its location. Being right in the heart of Sector 18, everything is within walking distance \u2014 malls, markets, metro, and plenty of food options. For business or short leisure stays, you really can\u2019t ask for a more convenient spot.\n\nThe food was good \u2014 well-prepared, fresh, and satisfying. Breakfast had a reasonable spread and the taste was consistent. Nothing overly fancy, but definitely enjoyable.\n\nThe service was awesome. The staff was polite, attentive, and quick to respond to requests. Housekeeping was prompt and the front desk was helpful throughout the stay, which definitely added to the comfort factor.\n\nThe only downside is that the hotel doesn\u2019t have a gym, which can be a drawback for fitness-conscious travellers or longer stays.\n\nOverall, it\u2019s a comfortable and well-located hotel with great service and good food. If a gym isn\u2019t a priority for you, it\u2019s a solid choice in Sector 18."
+    ]
+  },
+  "review_summary": "Based on 5 reviews.",
+  "positive_themes": {
+    "friendly_staff": 5,
+    "clean_rooms": 1,
+    "good_location": 3,
+    "good_food": 4,
+    "great_value": 1
+  },
+  "negative_themes": {}
+}

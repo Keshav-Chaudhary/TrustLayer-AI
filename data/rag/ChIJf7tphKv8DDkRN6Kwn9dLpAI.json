@@ -1,0 +1,50 @@
+{
+  "hotel_id": "ChIJf7tphKv8DDkRN6Kwn9dLpAI",
+  "hotel_name": "Solitaire Hotel",
+  "area": "New Delhi",
+  "budget_category": "Mid-Range",
+  "rating": 3.7,
+  "trust_score": 0.5359622521279567,
+  "travel_purpose_tags": [
+    "Budget"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "moderate",
+    "review_count": 5,
+    "positive_snippet_count": 1,
+    "negative_snippet_count": 3,
+    "positive_theme_count": 3,
+    "negative_theme_count": 1
+  },
+  "aspect_scores": {
+    "cleanliness": 0.235932733874506,
+    "service": 0.5,
+    "location": 0.4710255319951102,
+    "value_for_money": 0.0014900122987455,
+    "staff_behavior": 0.0014900122987455
+  },
+  "recommendation_features": {
+    "popularity_score": 0.6141270635999418,
+    "rating_score": 3.7,
+    "sentiment_score": 0.188887726140092
+  },
+  "review_evidence": {
+    "positive_snippets": [
+      "I've stayed for 2 days. Checked in 24th December and checked out in 26the December 2025. Charged 2300 rupees per night including taxes, for 2 guest in one small room with attached washroom. Basic amenities like TV(no need), wifi password, hair dryer, geaser for hot water. They should clean the washroom properly. Otherwise everything is just okay.\nNearest metro station is laxmi nagar metro just few meters walking distance from the hotel."
+    ],
+    "negative_snippets": [
+      "Don\u2019t visit this hotel after checking reviews i found all reviews fake, this hotel provides really small rooms and unhygienic atmosphere, you will definitely hate this after visiting. Moreover, my bed was broken and bathroom was really dirty alot but room was not much dirty still you will not get good vibes. I will never recommend this hotel.",
+      "This hotel is described as extremely dirty,poorly managed with terrible staff behaviour and the rooms are filled with cockroach and bugs. Bathroom utility doesn't work at all. The price they charge doesn't meet the hotel requirement. I had Worst and horror experience at this hotel.",
+      "Room is clean but too small compared to the price they charge. Location wise best. Staffs behaved great but on the day we left, they didn't act respectful.  We had 2 heavy luggages to carry and asked the worker to carry them but he straightforward rejected. We asked thrice, and he just left without responding. Even the manager didn't bother."
+    ]
+  },
+  "review_summary": "Based on 5 reviews.",
+  "positive_themes": {
+    "clean_rooms": 2,
+    "good_location": 2,
+    "friendly_staff": 2
+  },
+  "negative_themes": {
+    "dirty_rooms": 2
+  }
+}

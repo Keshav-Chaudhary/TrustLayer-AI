@@ -1,0 +1,50 @@
+{
+  "hotel_id": "ChIJUVEwtnIfDTkRUKif-DLwqfg",
+  "hotel_name": "Oyo The Royal Villa",
+  "area": "Ghitorni",
+  "budget_category": "Budget",
+  "rating": 3.7,
+  "trust_score": 0.5422150248000009,
+  "travel_purpose_tags": [
+    "Business"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "moderate",
+    "review_count": 5,
+    "positive_snippet_count": 2,
+    "negative_snippet_count": 3,
+    "positive_theme_count": 2,
+    "negative_theme_count": 1
+  },
+  "aspect_scores": {
+    "cleanliness": 0.0006350302719511,
+    "service": 0.999514251947403,
+    "location": 0.5,
+    "value_for_money": 0.9993106126785278,
+    "staff_behavior": 0.999514251947403
+  },
+  "recommendation_features": {
+    "popularity_score": 0.3226247091360448,
+    "rating_score": 3.7,
+    "sentiment_score": 0.402821172575932
+  },
+  "review_evidence": {
+    "positive_snippets": [
+      "Excellent hotel for couple, family and friends available in good price and service waste really great staff behavior was cool I \u0920\u0940\u0915 this is best hotel in best price room  cleanings is very good and room was so big and spaceous",
+      "I Feel excellent in hotel Royal villa and have graet experience over there , staff was so coprative excellent service by Raaj they guys are awesome"
+    ],
+    "negative_snippets": [
+      "Dont fall for fake reviews. Absolute scammers, pathetic experience. I booked A room thru oyo for my SSB physicals. They declined me the room and asked to cancel the booking giving the reason that OYO doesn't give then share which I booked around for 700 , and rather offered that once I cancel the booking they will provide the room for 500. Even though booking was non refundable I agreed due to my constraints and cancelled the booking. After knowning that I cancelled the booking, they told me to pay 1400 for the same room stating its been booked online by someone else, now If you want it pay us 1400.\nIt was night around 9 pm and I had to report at ground early morning so anyhow I had booked room. Also the room were not in very good condition. I recommend don't ever check in here.",
+      "Reached around 8pm.eventhough paid full amount online, receptionist tried his best to make me pay already paid amount + gst, which I denied.\n\nAfter some time he agreed to provide room, which doesn't have an Air conditioner/geyser or any other amenities mentioned on oyo website. Untidy bathroom and a noisy ceiling fan, was the worst of all.\n\nPhotos attached for reference",
+      "Please avoid this place. I booked via Oyo app and paid amount instantly. Due to which initially he refused to give room but later agreed due to Oyo's Involvement. Quality of the room is very different compared to shown in images. Overall please avoid."
+    ]
+  },
+  "review_summary": "Based on 5 reviews.",
+  "positive_themes": {
+    "clean_rooms": 2,
+    "friendly_staff": 2
+  },
+  "negative_themes": {
+    "noise": 1
+  }
+}

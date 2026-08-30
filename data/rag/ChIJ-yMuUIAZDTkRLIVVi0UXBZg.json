@@ -1,0 +1,52 @@
+{
+  "hotel_id": "ChIJ-yMuUIAZDTkRLIVVi0UXBZg",
+  "hotel_name": "Skysuites Hotel",
+  "area": "Sector 45",
+  "budget_category": "Mid-Range",
+  "rating": 4.3,
+  "trust_score": 0.7414182524442943,
+  "travel_purpose_tags": [
+    "Leisure"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "rich",
+    "review_count": 5,
+    "positive_snippet_count": 3,
+    "negative_snippet_count": 2,
+    "positive_theme_count": 4,
+    "negative_theme_count": 1
+  },
+  "aspect_scores": {
+    "cleanliness": 0.6701247828702132,
+    "service": 0.5,
+    "location": 0.9983452558517456,
+    "value_for_money": 0.5052487459033728,
+    "staff_behavior": 0.3371011517010629
+  },
+  "recommendation_features": {
+    "popularity_score": 0.5860251385594003,
+    "rating_score": 4.3,
+    "sentiment_score": 0.601598793361336
+  },
+  "review_evidence": {
+    "positive_snippets": [
+      "We checked out from this hotel today (Room no-104), in Gurgaon, Haryana.\nA good and reasonable hotel, but lack basic amenities also (especially during extreme winters). No room-heaters during winters. They don't change bedsheet, neither ask to change ~ they expect us (customers) to go to them and plea them for changing and cleaning our rooms -- this shows lack of responsibility of them towards customers and lack of their duties. Very Unprofessional, untrained and rude staff. If we ask them to send anything to our room - they will take 1 hour approx to deliver in our room.\nKitchen is mostly closed by 10 pm in night. Food is ok and good, but too much costly. They Don't serve tea or breakfast before 8.15 am, if we ask them. Also, we have to opt for breakfast during the booking.\n\nThey have posted luxurious photos, but actually inside the room it's very low grade hotel and with less space rooms. But YES - what i really appreciated is the best balcony in my room with swing\ud83d\udc9d Really love and liked this vibe\ud83d\udc9a\ud83e\udee1 Also, as per the price ~ its nominal but they should provide basic amenities (especially during extreme winters and fog). Room is equipped with ACs and Geysers and basic toiletries were provided in the bathroom as well.\n\nHighly disappointed. But these issues can be fixed, if the hotel owner is ready to rectify these and take in-charge of all this.",
+      "I had a wonderful stay at this hotel. The room was spacious, well-maintained, and very clean, which made it extremely comfortable. The staff was also very helpful and courteous throughout my stay. I would definitely recommend this hotel to others.",
+      "Best place to stay within a budget of 2400. They provide complimentary breakfast, food  is very good. Room is  spacious, clean and well organized. bathroom is clean equipped with modern fittings. Balconies available in some rooms.  Highly recommended. Only the location is a bit inside the colony, but not an issue."
+    ],
+    "negative_snippets": [
+      "Very pathetic hotel. Do not have basic amenities. No heater during winter. They don't change bedsheet . Unprofessional and untrained staff. Kitchen is closed by 10 pm in night. Don't serve tea or breakfast before 8.15.\n\nThey have posted good photos but actually inside the room it's very low grade hotel.\n\nHighly disappointed.",
+      "Gym,table tennis and snooker is not there as shown in the pictures.They have converted it to a banquet hall.Rooms are small but decent.Balcony view is good.Rate is on the higher side compared to the services offered.Food option is available."
+    ]
+  },
+  "review_summary": "Based on 5 reviews.",
+  "positive_themes": {
+    "clean_rooms": 3,
+    "friendly_staff": 3,
+    "good_food": 4,
+    "good_location": 1
+  },
+  "negative_themes": {
+    "rude_staff": 2
+  }
+}

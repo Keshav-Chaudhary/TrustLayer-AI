@@ -1,0 +1,53 @@
+{
+  "hotel_id": "ChIJMxiT1OH9DDkRU1GuGjDKbsU",
+  "hotel_name": "The Grand Uddhav",
+  "area": "Paharganj",
+  "budget_category": "Mid-Range",
+  "rating": 4.0,
+  "trust_score": 0.6802835223763779,
+  "travel_purpose_tags": [
+    "Budget"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "rich",
+    "review_count": 5,
+    "positive_snippet_count": 3,
+    "negative_snippet_count": 2,
+    "positive_theme_count": 5,
+    "negative_theme_count": 1
+  },
+  "aspect_scores": {
+    "cleanliness": 0.0022053122520446,
+    "service": 0.4385348997078836,
+    "location": 0.6682681924042603,
+    "value_for_money": 0.0954630577471107,
+    "staff_behavior": 0.2982515048934147
+  },
+  "recommendation_features": {
+    "popularity_score": 0.7306920910113858,
+    "rating_score": 4.0,
+    "sentiment_score": 0.4385348997078836
+  },
+  "review_evidence": {
+    "positive_snippets": [
+      "Happy with this hotel,Its an excellent peaceful property for all kind of travellers. Its strict about any disturbances to travellers and are very caring like a home family member. Miss Kaur Mr Anish and all the reception personnel of the hotel are very perfect about making travellers have a comfortable stay\nEverything is perfect. Food of hotel is exceptional\nGreat location! The street is crazy busy and fun and very central. We had a lovely room, it was a haven from busy Delhi! Enjoyed a nice meal on the rooftop bar, the staff were great and there was a great choice! As female travellers we felt completely safe there!",
+      "The stay was good for the budget. Rooms were neat too. Hotel staff were accommodating. Only downside would be the room service food which was technically prepared outside the hotel in a small space right beside the main entrance which I found to be a lil odd and not the cleanest since the kitchen is right off of the road. Otherwise pretty good.",
+      "Booked this hotel for family trip. The rooms were good and well maintained. There were no windows in the room but still rooms were very well ventilated. The room service was good they cleaned the rooms almost daily and food was also good. There is a roof top restaurant we mostly had dinner there as it had cozy garden roof top ambience. My stay here was comfortable. Definitely recommend this hotel if someone wants to stay near the new Delhi railway station area."
+    ],
+    "negative_snippets": [
+      "I would not recommend this hotel based on my experience.\n\nHotel to Hospital journey\n\nThe check-in process was smooth and the room itself was decent. Room service staff were polite and responsive. However, there are serious shortcomings that overshadow these positives.\n\nThe hotel provides hot water only in the morning between 6 am and 12 pm. There is no hot water available at night, which is extremely inconvenient, especially during winters. This limitation was not clearly communicated at the time of booking.\n\nThe biggest disappointment was the restaurant. They advertise a rooftop restaurant, but it exists only in name. Service was extremely slow and unprofessional. Orders took anywhere between 45 minutes to one hour, with no accountability or clear communication from the staff. We were so frustrated that we decided to leave and eat outside, but the staff convinced us to stay and assured quick service.\n\nEventually, food was served after another long wait, but the quality was extremely poor. Every family member faced severe digestion issues, including vomiting. The situation was serious enough that we had to rush to the hospital the very next day. This was a disturbing and unacceptable experience.\n\nWe informed the reception about the food quality and the health issues caused. While they assured us that action would be taken, no one ever followed up or contacted us again.\n\nOverall, this stay caused stress, health issues, and disappointment. Due to poor restaurant hygiene, lack of accountability, and misleading claims, I would strongly advise others to avoid this hotel.",
+      "If you already know this location, you might be able to manage staying here \u2014 but if you\u2019re a first-timer in Delhi, never choose this place.\n\nIt\u2019s located in the middle of a very crowded local road. If you stand even for a second on or near the roadside, there is a 200% chance a bike or rickshaw will hit you. There are countless two-wheelers, people walking, running, cooking, eating, selling, buying \u2014 everything happens on the road itself. In the photos, the hotel looks like a five-star facility, but the moment you enter, you\u2019ll realise it\u2019s a complete mess.\n\nIf you\u2019re a foreigner who wants to experience the \u201craw\u201d side of India, this might be the place for you. But if you\u2019re someone visiting Delhi for the first time from outside the city, this experience might make you never want to return.\n\nNow, about the rooms: the booking price is around \u20b92,000\u2013\u20b93,000 and advertised as a \u201cpremium deluxe AC stay,\u201d but the rooms are actually very basic and worth maybe \u20b91,000 at best. The rooms are old, not soundproof at all, and you can hear constant honking, as well as staff laughing and talking throughout the night. They claim the kitchen is open at all times, but the options are very limited. No black tea or coffee during breakfast, and the breakfast itself is just for namesake \u2014 nothing proper.\n\nAll this could still be tolerated, but the front desk staff is not friendly at all, especially the older man who comes in the evening and the lady at the desk. They never smile \u2014 unless you\u2019re a foreigner. The older man always talks in Hindi, and often in a rude tone, as if we are staying there for free.\n\nI will never choose this place again, and I strongly advise non-Delhi natives not to stay here. You will end up hating this stay \u2014 and possibly the city itself."
+    ]
+  },
+  "review_summary": "Based on 5 reviews.",
+  "positive_themes": {
+    "friendly_staff": 4,
+    "good_location": 4,
+    "good_food": 5,
+    "clean_rooms": 2,
+    "great_value": 1
+  },
+  "negative_themes": {
+    "rude_staff": 2
+  }
+}

@@ -1,0 +1,49 @@
+{
+  "hotel_id": "ChIJbQ74MQkiDTkRYja2Bqk2fsE",
+  "hotel_name": "Ace Stayz Sector57 Gurugram",
+  "area": "Sector 57",
+  "budget_category": "Budget",
+  "rating": 4.7,
+  "trust_score": 0.79958621559435,
+  "travel_purpose_tags": [
+    "Leisure"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "moderate",
+    "review_count": 5,
+    "positive_snippet_count": 3,
+    "negative_snippet_count": 1,
+    "positive_theme_count": 4,
+    "negative_theme_count": 0
+  },
+  "aspect_scores": {
+    "cleanliness": 0.9998759627342224,
+    "service": 0.5030306780245154,
+    "location": 0.9998806715011596,
+    "value_for_money": 0.5,
+    "staff_behavior": 0.7514558833790942
+  },
+  "recommendation_features": {
+    "popularity_score": 0.3101942966885136,
+    "rating_score": 4.7,
+    "sentiment_score": 0.8011396489106117
+  },
+  "review_evidence": {
+    "positive_snippets": [
+      "Had a wonderful stay at this hotel. The rooms were clean, spacious, and well maintained. The staff was extremely polite and helpful throughout our stay. Breakfast had a good variety and tasted great. The location is perfect and easily accessible. Would definitely recommend and stay again!\u201d",
+      "> \u2b50\u2b50\u2b50\u2b50\u2b50\n\nHad an absolutely wonderful stay at this hotel. The property is truly luxurious, beautifully maintained, and spotlessly clean. From the moment we arrived, the staff made us feel extremely welcome with their polite, professional, and helpful attitude.\n\nThe rooms were comfortable, elegant, and well-kept, reflecting great attention to detail.  Everything was managed smoothly, making our stay completely relaxing and enjoyable.\n\nOverall, it was a perfect experience with exceptional hospitality. I would highly recommend this hotel to anyone looking for comfort, cleanliness, and top-class service. Definitely looking forward to staying here again! \ud83d\udc97\u270c\ud83d\ude0a",
+      "Excellent stay \u2013 highly recommended!\nI had a wonderful experience at this property. The place is well-maintained, clean, and thoughtfully designed, making the stay extremely comfortable."
+    ],
+    "negative_snippets": [
+      "I had a mixed experience at Aestay. On the positive side, the room was good, and the property itself is quite nice. I also want to commend the reception boy and the cleaning staff, as they were both professional and helpful during my stay.\n\nHowever, I was very disappointed by the misleading information regarding the facilities. When I booked, I was specifically told there would be a kitchen available. Upon arrival, there was no kitchen to be found.\n\nI tried to resolve this with the manager, Aaftab, who was the person who initially confirmed the kitchen facility to me. Unfortunately, he was unavailable, and despite calling him three times to discuss the issue, I received no response.\n\nWhile the staff on-site are great, the management needs to be more transparent and reachable. I would caution future guests to double-check amenities before arriving."
+    ]
+  },
+  "review_summary": "Based on 5 reviews.",
+  "positive_themes": {
+    "clean_rooms": 5,
+    "friendly_staff": 4,
+    "good_location": 1,
+    "good_food": 1
+  },
+  "negative_themes": {}
+}

@@ -1,0 +1,51 @@
+{
+  "hotel_id": "ChIJh7ypMCkZDTkRa9qZat_uAfQ",
+  "hotel_name": "Tavisha Villa Golf Course Road Mg Road Gurgaon",
+  "area": "Sector 26",
+  "budget_category": "Mid-Range",
+  "rating": 4.0,
+  "trust_score": 0.6370785720895838,
+  "travel_purpose_tags": [
+    "Leisure"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "rich",
+    "review_count": 5,
+    "positive_snippet_count": 3,
+    "negative_snippet_count": 2,
+    "positive_theme_count": 3,
+    "negative_theme_count": 1
+  },
+  "aspect_scores": {
+    "cleanliness": 0.000572471821215,
+    "service": 0.5001289657957385,
+    "location": 0.9998893737792968,
+    "value_for_money": 0.5,
+    "staff_behavior": 0.5010801033349708
+  },
+  "recommendation_features": {
+    "popularity_score": 0.5844663889823761,
+    "rating_score": 4.0,
+    "sentiment_score": 0.4005981220165268
+  },
+  "review_evidence": {
+    "positive_snippets": [
+      "The property is a 'Bed and Breakfast' setup operating from a private bunglow in a gated community of DLF Phase 1. It is located close to the intersection of MG Road and Golf Course Road in Gurgaon.\n\nThere are 4 kinds of rooms, with the Standard and Deluxe rooms being small innsize with a Queen bed. Premium Room and Junior Suite are larger, with a sofa also added\n\nThe property has limited parking for about 3 cars. Other cars have to park outside the property.\n\nThe rooms have basic necessities. My Deluxe room has an electric kettle, and a TV. The TV didn't work, though.\n\nBreakfast was disappointing. Although there is a good menu decided for each day, the actual breakfast was very limited. They have a reasonable menu for snacks and small meals.\n\nThe Staff was courteous, but a little lost/ untrained.",
+      "Amazing place, great for short stays or business trips, a home away from home set up , really humble staff",
+      "Very nice location the food was so delicious and the service is amazing"
+    ],
+    "negative_snippets": [
+      "This is not a professional hotel in my opinion. I stayed there last night and it wasn\u2019t a good experience at all. There were no towels in the washroom, the room didn\u2019t even have a telephone(there is one guy who gives you his cell phone number)  and the breakfast was horrendous, still having stomach aches, never again for me. Only book if there is no other option available . 2/5 at max .",
+      "Poor Service like each and every small daily uses thing nock everytime. Breakfast not give on time."
+    ]
+  },
+  "review_summary": "Based on 5 reviews.",
+  "positive_themes": {
+    "friendly_staff": 2,
+    "good_location": 2,
+    "good_food": 4
+  },
+  "negative_themes": {
+    "parking_issues": 1
+  }
+}

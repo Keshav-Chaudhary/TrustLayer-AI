@@ -1,0 +1,47 @@
+{
+  "hotel_id": "ChIJTZiw9_P9DDkRCKU-wU7cgV8",
+  "hotel_name": "Hotel Easy Stay Near East Azad Nagar Metro Station",
+  "area": "Shahdara",
+  "budget_category": "Budget",
+  "rating": 4.3,
+  "trust_score": 0.7999048181082158,
+  "travel_purpose_tags": [
+    "Business"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "moderate",
+    "review_count": 5,
+    "positive_snippet_count": 3,
+    "negative_snippet_count": 1,
+    "positive_theme_count": 2,
+    "negative_theme_count": 0
+  },
+  "aspect_scores": {
+    "cleanliness": 0.9998613595962524,
+    "service": 0.9996267557144164,
+    "location": 0.5,
+    "value_for_money": 0.5,
+    "staff_behavior": 0.9998004734516144
+  },
+  "recommendation_features": {
+    "popularity_score": 0.2637433020525564,
+    "rating_score": 4.3,
+    "sentiment_score": 0.9997722655534744
+  },
+  "review_evidence": {
+    "positive_snippets": [
+      "Best hotel in this area, very good staff behaviour",
+      "Hotel good and good service family stay \ud83d\udc4d",
+      "It felt really good here and everything is clean and everything is ok."
+    ],
+    "negative_snippets": [
+      "Good"
+    ]
+  },
+  "review_summary": "Based on 5 reviews.",
+  "positive_themes": {
+    "friendly_staff": 2,
+    "clean_rooms": 1
+  },
+  "negative_themes": {}
+}

@@ -1,0 +1,92 @@
+@import "tailwindcss";
+
+:root {
+  --background: #F8FAFC;
+  --foreground: #0F172A;
+  
+  --card: #FFFFFF;
+  --card-foreground: #0F172A;
+  
+  --primary: #2563EB;
+  --primary-foreground: #FFFFFF;
+  
+  --success: #16A34A;
+  --success-foreground: #FFFFFF;
+  
+  --warning: #EA580C;
+  --warning-foreground: #FFFFFF;
+  
+  --muted: #F1F5F9;
+  --muted-foreground: #475569;
+  
+  --border: #E2E8F0;
+  
+  --ai-panel: #072D62;
+  
+  --shadow-card: 0 1px 3px rgba(0, 0, 0, 0.08);
+  --shadow-hover: 0 8px 24px rgba(15, 23, 42, 0.12);
+  --shadow-modal: 0 20px 40px rgba(15, 23, 42, 0.18);
+}
+
+@theme inline {
+  --color-background: var(--background);
+  --color-foreground: var(--foreground);
+  --color-card: var(--card);
+  --color-card-foreground: var(--card-foreground);
+  --color-primary: var(--primary);
+  --color-primary-foreground: var(--primary-foreground);
+  --color-success: var(--success);
+  --color-success-foreground: var(--success-foreground);
+  --color-warning: var(--warning);
+  --color-warning-foreground: var(--warning-foreground);
+  --color-muted: var(--muted);
+  --color-muted-foreground: var(--muted-foreground);
+  --color-border: var(--border);
+  --color-ai-panel: var(--ai-panel);
+}
+
+body {
+  background: var(--background);
+  color: var(--foreground);
+  font-family: 'Inter', system-ui, sans-serif;
+}
+
+/* Custom Visual Utilities */
+.shadow-card {
+  box-shadow: var(--shadow-card);
+}
+
+.shadow-hover {
+  transition: box-shadow 200ms ease, transform 200ms ease;
+}
+.shadow-hover:hover {
+  box-shadow: var(--shadow-hover);
+  transform: translateY(-2px);
+}
+
+.shadow-modal {
+  box-shadow: var(--shadow-modal);
+}
+
+.transition-200 {
+  transition: all 200ms ease;
+}
+
+/* Typography styles */
+h1 {
+  font-size: 48px;
+  font-weight: 700;
+  line-height: 1.1;
+}
+
+h2 {
+  font-size: 32px;
+  font-weight: 700;
+  line-height: 1.2;
+}
+
+h3 {
+  font-size: 24px;
+  font-weight: 600;
+  line-height: 1.3;
+}

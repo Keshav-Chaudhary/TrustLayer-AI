@@ -1,0 +1,150 @@
+File Path,Stage,Purpose,Input Files,Output Files,External Dependencies,Runtime Dependency,Safe to Delete,Required for Full Pipeline,Required for Postgres,Required for Live API
+temp.py,UNKNOWN,Utility / Support,Data / API,Data / DB,None,False,True,False,False,False
+app/api/main.py,RUNTIME_BACKEND,"FastAPI backend, service layer, PostgreSQL repositories",Data / API,Data / DB,None,True,False,False,True,True
+app/api/routes.py,RUNTIME_BACKEND,"FastAPI backend, service layer, PostgreSQL repositories",Data / API,Data / DB,None,True,False,False,True,True
+app/api/search_routes.py,RUNTIME_BACKEND,"FastAPI backend, service layer, PostgreSQL repositories",Data / API,Data / DB,None,True,False,False,True,True
+app/api/v1/debug_routes.py,RUNTIME_BACKEND,"FastAPI backend, service layer, PostgreSQL repositories",Data / API,Data / DB,None,True,False,False,True,True
+app/api/v1/hotel_routes.py,RUNTIME_BACKEND,"FastAPI backend, service layer, PostgreSQL repositories",Data / API,Data / DB,None,True,False,False,True,True
+app/api/v1/recommend_routes.py,RUNTIME_BACKEND,"FastAPI backend, service layer, PostgreSQL repositories",Data / API,Data / DB,None,True,False,False,True,True
+app/api/v1/search_routes.py,RUNTIME_BACKEND,"FastAPI backend, service layer, PostgreSQL repositories",Data / API,Data / DB,None,True,False,False,True,True
+app/api/v1/system_routes.py,RUNTIME_BACKEND,"FastAPI backend, service layer, PostgreSQL repositories",Data / API,Data / DB,None,True,False,False,True,True
+app/config/config.py,RUNTIME_BACKEND,"FastAPI backend, service layer, PostgreSQL repositories",Data / API,Data / DB,None,True,False,False,True,True
+app/domain/models.py,RUNTIME_BACKEND,"FastAPI backend, service layer, PostgreSQL repositories",Data / API,Data / DB,None,True,False,False,True,True
+app/repositories/base.py,RUNTIME_BACKEND,"FastAPI backend, service layer, PostgreSQL repositories",Data / API,Data / DB,None,True,False,False,True,True
+app/repositories/db_schema.py,RUNTIME_BACKEND,"FastAPI backend, service layer, PostgreSQL repositories",Data / API,Data / DB,None,True,False,False,True,True
+app/repositories/embedding_repository.py,RUNTIME_BACKEND,"FastAPI backend, service layer, PostgreSQL repositories",Data / API,Data / DB,None,True,False,False,True,True
+app/repositories/factory.py,RUNTIME_BACKEND,"FastAPI backend, service layer, PostgreSQL repositories",Data / API,Data / DB,None,True,False,False,True,True
+app/repositories/hotel_repository.py,RUNTIME_BACKEND,"FastAPI backend, service layer, PostgreSQL repositories",Data / API,Data / DB,None,True,False,False,True,True
+app/repositories/pgvector_embedding_repository.py,RUNTIME_BACKEND,"FastAPI backend, service layer, PostgreSQL repositories",Data / API,Data / DB,Google Places API / SentenceTransformer,True,False,False,True,True
+app/repositories/postgres_hotel_repository.py,RUNTIME_BACKEND,"FastAPI backend, service layer, PostgreSQL repositories",Data / API,Data / DB,None,True,False,False,True,True
+app/repositories/postgres_trace_repository.py,RUNTIME_BACKEND,"FastAPI backend, service layer, PostgreSQL repositories",Data / API,Data / DB,None,True,False,False,True,True
+app/repositories/trace_repository.py,RUNTIME_BACKEND,"FastAPI backend, service layer, PostgreSQL repositories",Data / API,Data / DB,None,True,False,False,True,True
+app/repositories/__init__.py,RUNTIME_BACKEND,"FastAPI backend, service layer, PostgreSQL repositories",Data / API,Data / DB,None,True,False,False,True,True
+app/schemas/domain_models.py,RUNTIME_BACKEND,"FastAPI backend, service layer, PostgreSQL repositories",Data / API,Data / DB,None,True,False,False,True,True
+app/schemas/response_models.py,RUNTIME_BACKEND,"FastAPI backend, service layer, PostgreSQL repositories",Data / API,Data / DB,None,True,False,False,True,True
+app/services/cache_service.py,RUNTIME_BACKEND,"FastAPI backend, service layer, PostgreSQL repositories",Data / API,Data / DB,None,True,False,False,True,True
+app/services/citation_injector.py,RUNTIME_BACKEND,"FastAPI backend, service layer, PostgreSQL repositories",Data / API,Data / DB,None,True,False,False,True,True
+app/services/context_compressor.py,RUNTIME_BACKEND,"FastAPI backend, service layer, PostgreSQL repositories",Data / API,Data / DB,None,True,False,False,True,True
+app/services/data_integrity_service.py,RUNTIME_BACKEND,"FastAPI backend, service layer, PostgreSQL repositories",Data / API,Data / DB,None,True,False,False,True,True
+app/services/debug_service.py,RUNTIME_BACKEND,"FastAPI backend, service layer, PostgreSQL repositories",Data / API,Data / DB,None,True,False,False,True,True
+app/services/grounding_validator.py,RUNTIME_BACKEND,"FastAPI backend, service layer, PostgreSQL repositories",Data / API,Data / DB,None,True,False,False,True,True
+app/services/hotel_service.py,RUNTIME_BACKEND,"FastAPI backend, service layer, PostgreSQL repositories",Data / API,Data / DB,None,True,False,False,True,True
+app/services/llm_service.py,RUNTIME_BACKEND,"FastAPI backend, service layer, PostgreSQL repositories",Data / API,Data / DB,None,True,False,False,True,True
+app/services/prompt_orchestrator.py,RUNTIME_BACKEND,"FastAPI backend, service layer, PostgreSQL repositories",Data / API,Data / DB,None,True,False,False,True,True
+app/services/recommendation_service.py,RUNTIME_BACKEND,"FastAPI backend, service layer, PostgreSQL repositories",Data / API,Data / DB,None,True,False,False,True,True
+app/services/search_service.py,RUNTIME_BACKEND,"FastAPI backend, service layer, PostgreSQL repositories",Data / API,Data / DB,None,True,False,False,True,True
+app/utils/search_utils.py,RUNTIME_BACKEND,"FastAPI backend, service layer, PostgreSQL repositories",Data / API,Data / DB,None,True,False,False,True,True
+architecture_and_system_docs/stage24/PROJECT_FILE_INVENTORY.csv,UNKNOWN,Utility / Support,Data / API,Data / DB,None,False,True,False,False,False
+data/exports/final_dataset_schema.csv,UNKNOWN,Utility / Support,Data / API,Data / DB,None,False,True,False,False,False
+data/exports/final_hotel_dataset.csv,UNKNOWN,Utility / Support,Data / API,Data / DB,None,False,True,False,False,False
+data/processed/cleaned/delhi_hotels_cleaned.csv,UNKNOWN,Utility / Support,Data / API,Data / DB,None,False,True,False,False,False
+data/processed/cleaned/reviews_cleaned.csv,UNKNOWN,Utility / Support,Data / API,Data / DB,None,False,True,False,False,False
+data/processed/features/explainability_features.csv,UNKNOWN,Utility / Support,Data / API,Data / DB,None,False,True,False,False,False
+data/processed/features/hotel_features.csv,UNKNOWN,Utility / Support,Data / API,Data / DB,None,False,True,False,False,False
+data/processed/features/hotel_review_summary.csv,UNKNOWN,Utility / Support,Data / API,Data / DB,None,False,True,False,False,False
+data/processed/features/review_features.csv,UNKNOWN,Utility / Support,Data / API,Data / DB,None,False,True,False,False,False
+data/raw/google_places/delhi_hotels_raw.csv,UNKNOWN,Utility / Support,Data / API,Data / DB,None,False,True,False,False,False
+data/raw/reviews/reviews_raw.csv,UNKNOWN,Utility / Support,Data / API,Data / DB,None,False,True,False,False,False
+data/raw/synthetic_users/interactions.csv,UNKNOWN,Utility / Support,Data / API,Data / DB,None,False,True,False,False,False
+data/raw/synthetic_users/interactions_v2.csv,UNKNOWN,Utility / Support,Data / API,Data / DB,None,False,True,False,False,False
+data/raw/synthetic_users/users.csv,UNKNOWN,Utility / Support,Data / API,Data / DB,None,False,True,False,False,False
+milestones_and_evaluations/evaluation_queries.csv,UNKNOWN,Utility / Support,Data / API,Data / DB,None,False,True,False,False,False
+milestones_and_evaluations/retrieval_audit.csv,UNKNOWN,Utility / Support,Data / API,Data / DB,None,False,True,False,False,False
+scripts/audit_stage23_1.py,UNKNOWN,Utility / Support,Data / API,Data / DB,None,False,True,False,False,False
+scripts/audit_stage24_1.py,UNKNOWN,Utility / Support,Data / API,Data / DB,None,False,True,False,False,False
+scripts/audit_stage24_3.py,UNKNOWN,Utility / Support,Data / API,Data / DB,None,False,True,False,False,False
+scripts/brute_passwords.py,UNKNOWN,Utility / Support,Data / API,Data / DB,None,False,True,False,False,False
+scripts/check_pg_hba.py,UNKNOWN,Utility / Support,Data / API,Data / DB,None,False,True,False,False,False
+scripts/deploy_phase1_check.py,UNKNOWN,Utility / Support,Data / API,Data / DB,None,False,True,False,False,False
+scripts/deploy_stage24_4_phase14_17.py,UNKNOWN,Utility / Support,Data / API,Data / DB,None,False,True,False,False,False
+scripts/deploy_stage24_4_pipeline.py,UNKNOWN,Utility / Support,Data / API,Data / DB,None,False,True,False,False,False
+scripts/find_pgpass.py,UNKNOWN,Utility / Support,Data / API,Data / DB,None,False,True,False,False,False
+scripts/forensic_connection_trace.py,UNKNOWN,Utility / Support,Data / API,Data / DB,None,False,True,False,False,False
+scripts/forensic_db_check.py,UNKNOWN,Utility / Support,Data / API,Data / DB,None,False,True,False,False,False
+scripts/forensic_pg_check.py,UNKNOWN,Utility / Support,Data / API,Data / DB,None,False,True,False,False,False
+scripts/generate_audit_markdown.py,UNKNOWN,Utility / Support,Data / API,Data / DB,None,False,True,False,False,False
+scripts/generate_stage24_1_report.py,UNKNOWN,Utility / Support,Data / API,Data / DB,None,False,True,False,False,False
+scripts/generate_stage24_3_report.py,UNKNOWN,Utility / Support,Data / API,Data / DB,None,False,True,False,False,False
+scripts/generate_stage24_4_report.py,UNKNOWN,Utility / Support,Data / API,Data / DB,None,False,True,False,False,False
+scripts/generate_stage24_5_report.py,UNKNOWN,Utility / Support,Data / API,Data / DB,None,False,True,False,False,False
+scripts/generate_stage26_docs.py,UNKNOWN,Utility / Support,Data / API,Data / DB,None,False,True,False,False,False
+scripts/read_pg_hba_rules.py,UNKNOWN,Utility / Support,Data / API,Data / DB,None,False,True,False,False,False
+scripts/setup_pg_trust.py,UNKNOWN,Utility / Support,Data / API,Data / DB,None,False,True,False,False,False
+scripts/setup_postgres_password.py,UNKNOWN,Utility / Support,Data / API,Data / DB,None,False,True,False,False,False
+scripts/smoke_test.py,UNKNOWN,Utility / Support,Data / API,Data / DB,None,False,True,False,False,False
+scripts/test_pg_credentials.py,UNKNOWN,Utility / Support,Data / API,Data / DB,None,False,True,False,False,False
+scripts/test_pg_env_and_users.py,UNKNOWN,Utility / Support,Data / API,Data / DB,None,False,True,False,False,False
+scripts/update_metadata.py,UNKNOWN,Utility / Support,Data / API,Data / DB,None,False,True,False,False,False
+scripts/audit/full_project_audit.py,UNKNOWN,Utility / Support,Data / API,Data / DB,None,False,True,False,False,False
+scripts/audit/run_h10_audit.py,UNKNOWN,Utility / Support,Data / API,Data / DB,None,False,True,False,False,False
+scripts/audit/run_production_audit.py,UNKNOWN,Utility / Support,Data / API,Data / DB,None,False,True,False,False,False
+scripts/audit/run_production_audit_final.py,UNKNOWN,Utility / Support,Data / API,Data / DB,None,False,True,False,False,False
+scripts/cleaning/clean_hotel_metadata.py,2_PROCESSING,Clean raw metadata and review datasets,Data / API,Data / DB,None,False,False,True,False,False
+scripts/cleaning/clean_reviews.py,2_PROCESSING,Clean raw metadata and review datasets,Data / API,Data / DB,None,False,False,True,False,False
+scripts/collection/fetch_google_places.py,1_SOURCE_ACQUISITION,Fetch raw data from external APIs / synthetic generators,Data / API,Data / DB,Google Places API / SentenceTransformer,False,False,True,False,False
+scripts/collection/fetch_google_reviews.py,1_SOURCE_ACQUISITION,Fetch raw data from external APIs / synthetic generators,Data / API,Data / DB,Google Places API / SentenceTransformer,False,False,True,False,False
+scripts/evaluation/audit_report_gen.py,UNKNOWN,Utility / Support,Data / API,Data / DB,None,False,True,False,False,False
+scripts/evaluation/create_audit_nb.py,UNKNOWN,Utility / Support,Data / API,Data / DB,None,False,True,False,False,False
+scripts/evaluation/create_nb.py,UNKNOWN,Utility / Support,Data / API,Data / DB,None,False,True,False,False,False
+scripts/evaluation/eda_report.py,UNKNOWN,Utility / Support,Data / API,Data / DB,None,False,True,False,False,False
+scripts/evaluation/evaluate_recommenders.py,UNKNOWN,Utility / Support,Data / API,Data / DB,None,False,True,False,False,False
+scripts/evaluation/evaluate_stage_d.py,UNKNOWN,Utility / Support,Data / API,Data / DB,None,False,True,False,False,False
+scripts/evaluation/generate_diagnostics_nb.py,UNKNOWN,Utility / Support,Data / API,Data / DB,None,False,True,False,False,False
+scripts/evaluation/generate_notebooks.py,UNKNOWN,Utility / Support,Data / API,Data / DB,None,False,True,False,False,False
+scripts/evaluation/generate_reports.py,UNKNOWN,Utility / Support,Data / API,Data / DB,None,False,True,False,False,False
+scripts/evaluation/run_all_notebooks.py,UNKNOWN,Utility / Support,Data / API,Data / DB,None,False,True,False,False,False
+scripts/evaluation/schema_freeze.py,UNKNOWN,Utility / Support,Data / API,Data / DB,None,False,True,False,False,False
+scripts/explainability/audit_explainability_b1.py,UNKNOWN,Utility / Support,Data / API,Data / DB,None,False,True,False,False,False
+scripts/explainability/evaluate_explanations.py,UNKNOWN,Utility / Support,Data / API,Data / DB,None,False,True,False,False,False
+scripts/explainability/explainer.py,UNKNOWN,Utility / Support,Data / API,Data / DB,None,False,True,False,False,False
+scripts/ingestion/backfill_pgvector.py,7_STAGE26_INGESTION,"Validation, diff engine, dry-run approval, PostgreSQL apply, vector sync",Data / API,Data / DB,Google Places API / SentenceTransformer,True,False,True,True,True
+scripts/ingestion/bootstrap_postgres.py,7_STAGE26_INGESTION,"Validation, diff engine, dry-run approval, PostgreSQL apply, vector sync",Data / API,Data / DB,None,True,False,True,True,True
+scripts/ingestion/deduplicator.py,7_STAGE26_INGESTION,"Validation, diff engine, dry-run approval, PostgreSQL apply, vector sync",Data / API,Data / DB,None,True,False,True,True,True
+scripts/ingestion/diff_engine.py,7_STAGE26_INGESTION,"Validation, diff engine, dry-run approval, PostgreSQL apply, vector sync",Data / API,Data / DB,None,True,False,True,True,True
+scripts/ingestion/normalizer.py,7_STAGE26_INGESTION,"Validation, diff engine, dry-run approval, PostgreSQL apply, vector sync",Data / API,Data / DB,None,True,False,True,True,True
+scripts/ingestion/pipeline.py,7_STAGE26_INGESTION,"Validation, diff engine, dry-run approval, PostgreSQL apply, vector sync",Data / API,Data / DB,None,True,False,True,True,True
+scripts/ingestion/schema_contract.py,7_STAGE26_INGESTION,"Validation, diff engine, dry-run approval, PostgreSQL apply, vector sync",Data / API,Data / DB,None,True,False,True,True,True
+scripts/ingestion/selective_vector_sync.py,7_STAGE26_INGESTION,"Validation, diff engine, dry-run approval, PostgreSQL apply, vector sync",Data / API,Data / DB,Google Places API / SentenceTransformer,True,False,True,True,True
+scripts/nlp/analyze_sentiment.py,3_NLP,"Sentiment analysis, ABSA feature extraction & review aggregation",Data / API,Data / DB,None,False,False,True,False,False
+scripts/nlp/extract_absa_features.py,3_NLP,"Sentiment analysis, ABSA feature extraction & review aggregation",Data / API,Data / DB,None,False,False,True,False,False
+scripts/rag/audit_aspect_distribution.py,UNKNOWN,Utility / Support,Data / API,Data / DB,None,False,True,False,False,False
+scripts/rag/audit_hotel_documents.py,UNKNOWN,Utility / Support,Data / API,Data / DB,None,False,True,False,False,False
+scripts/rag/audit_review_evidence.py,UNKNOWN,Utility / Support,Data / API,Data / DB,None,False,True,False,False,False
+scripts/rag/build_hotel_documents.py,UNKNOWN,Utility / Support,Data / API,Data / DB,None,False,True,False,False,False
+scripts/rag/build_vector_store.py,UNKNOWN,Utility / Support,Data / API,Data / DB,Google Places API / SentenceTransformer,False,True,False,False,False
+scripts/rag/context_builder.py,UNKNOWN,Utility / Support,Data / API,Data / DB,None,False,True,False,False,False
+scripts/rag/evaluate_retrieval.py,UNKNOWN,Utility / Support,Data / API,Data / DB,None,False,True,False,False,False
+scripts/rag/generate_benchmark.py,UNKNOWN,Utility / Support,Data / API,Data / DB,None,False,True,False,False,False
+scripts/rag/query_parser.py,UNKNOWN,Utility / Support,Data / API,Data / DB,None,False,True,False,False,False
+scripts/rag/retriever.py,UNKNOWN,Utility / Support,Data / API,Data / DB,None,False,True,False,False,False
+scripts/rag/validate_retriever_step1.py,UNKNOWN,Utility / Support,Data / API,Data / DB,None,False,True,False,False,False
+scripts/recommender/aggregate_reviews.py,3_NLP,"Sentiment analysis, ABSA feature extraction & review aggregation",Data / API,Data / DB,None,False,False,True,False,False
+scripts/recommender/baseline.py,UNKNOWN,Utility / Support,Data / API,Data / DB,None,False,True,False,False,False
+scripts/recommender/collaborative.py,UNKNOWN,Utility / Support,Data / API,Data / DB,None,False,True,False,False,False
+scripts/recommender/content_based.py,UNKNOWN,Utility / Support,Data / API,Data / DB,None,False,True,False,False,False
+scripts/recommender/engineer_features.py,4_FEATURE_ENGINEERING,Generate hotel features for recommendation ranking,Data / API,Data / DB,None,False,False,True,False,False
+scripts/recommender/generate_interactions.py,6_INTERACTIONS,Generate synthetic user interaction logs for collaborative filtering,Data / API,Data / DB,None,False,True,False,False,False
+scripts/recommender/generate_users.py,1_SOURCE_ACQUISITION,Fetch raw data from external APIs / synthetic generators,Data / API,Data / DB,None,False,False,True,False,False
+scripts/recommender/hybrid.py,UNKNOWN,Utility / Support,Data / API,Data / DB,None,False,True,False,False,False
+scripts/recommender/merge_dataset.py,5_MERGE,Combine features & review summaries into final_hotel_dataset.csv,Data / API,Data / DB,None,False,False,True,False,False
+scripts/synthetic/generate_interactions_v2.py,6_INTERACTIONS,Generate synthetic user interaction logs for collaborative filtering,Data / API,Data / DB,None,False,True,False,False,False
+scripts/verification/api_regression_suite.py,UNKNOWN,Utility / Support,Data / API,Data / DB,None,False,True,False,False,False
+scripts/verification/audit_postgres_runtime.py,UNKNOWN,Utility / Support,Data / API,Data / DB,None,False,True,False,False,False
+scripts/verification/audit_stage27_integration.py,UNKNOWN,Utility / Support,Data / API,Data / DB,None,False,True,False,False,False
+scripts/verification/dual_backend_rag_verification.py,UNKNOWN,Utility / Support,Data / API,Data / DB,None,False,True,False,False,False
+scripts/verification/full_pipeline_verification.py,UNKNOWN,Utility / Support,Data / API,Data / DB,None,False,True,False,False,False
+scripts/verification/master_forensic_auditor.py,UNKNOWN,Utility / Support,Data / API,Data / DB,None,False,True,False,False,False
+scripts/verification/parity_verification.py,UNKNOWN,Utility / Support,Data / API,Data / DB,None,False,True,False,False,False
+scripts/verification/test_realtime_isolated.py,UNKNOWN,Utility / Support,Data / API,Data / DB,None,False,True,False,False,False
+scripts/workers/outbox_worker.py,UNKNOWN,Utility / Support,Data / API,Data / DB,None,False,True,False,False,False
+tests/test_api_endpoints.py,UNKNOWN,Utility / Support,Data / API,Data / DB,None,False,True,False,False,False
+tests/test_batch_debug.py,UNKNOWN,Utility / Support,Data / API,Data / DB,None,False,True,False,False,False
+tests/test_context_builder.py,UNKNOWN,Utility / Support,Data / API,Data / DB,None,False,True,False,False,False
+tests/test_grounding_validator.py,UNKNOWN,Utility / Support,Data / API,Data / DB,None,False,True,False,False,False
+tests/test_query_parser.py,UNKNOWN,Utility / Support,Data / API,Data / DB,None,False,True,False,False,False
+tests/test_retriever.py,UNKNOWN,Utility / Support,Data / API,Data / DB,None,False,True,False,False,False
+tests/test_stage23_repositories.py,UNKNOWN,Utility / Support,Data / API,Data / DB,None,False,True,False,False,False
+tests/test_stage24_database.py,UNKNOWN,Utility / Support,Data / API,Data / DB,None,False,True,False,False,False
+tests/test_stage24_ingestion.py,UNKNOWN,Utility / Support,Data / API,Data / DB,None,False,True,False,False,False
+tests/ingestion/test_pipeline_stage26.py,UNKNOWN,Utility / Support,Data / API,Data / DB,None,False,True,False,False,False
+tests/verification/test_stage24_5_complete_backend.py,UNKNOWN,Utility / Support,Data / API,Data / DB,None,False,True,False,False,False

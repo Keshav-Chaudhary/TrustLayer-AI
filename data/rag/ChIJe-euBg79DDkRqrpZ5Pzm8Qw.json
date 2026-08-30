@@ -1,0 +1,51 @@
+{
+  "hotel_id": "ChIJe-euBg79DDkRqrpZ5Pzm8Qw",
+  "hotel_name": "Hotel Ashirwad",
+  "area": "New Delhi",
+  "budget_category": "Mid-Range",
+  "rating": 3.5,
+  "trust_score": 0.6307685520942988,
+  "travel_purpose_tags": [
+    "Budget"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "rich",
+    "review_count": 5,
+    "positive_snippet_count": 3,
+    "negative_snippet_count": 2,
+    "positive_theme_count": 3,
+    "negative_theme_count": 1
+  },
+  "aspect_scores": {
+    "cleanliness": 0.0003646894765552,
+    "service": 0.5000667415297357,
+    "location": 0.0003646894765552,
+    "value_for_money": 0.9994538426399232,
+    "staff_behavior": 0.0003635492321336
+  },
+  "recommendation_features": {
+    "popularity_score": 0.5682940639973495,
+    "rating_score": 3.5,
+    "sentiment_score": 0.5999350272177253
+  },
+  "review_evidence": {
+    "positive_snippets": [
+      "A great value hotel for me and I felt like I am at my home after they treated me excellent hospitality provide to my very professional magnement",
+      "I had an excellent stay at this property recommended for business trip and family overall best hotel I had ever a\nStay",
+      "Best hotel with good service for Business class person\nCleaning is also superb"
+    ],
+    "negative_snippets": [
+      "I wish I could give this place 0 stars \u2014 it doesn\u2019t even deserve one. Staying at the railway platform would have been a far better experience than spending a single night here. The staff is unbelievably rude, unprofessional, and lacks basic courtesy. From the moment I checked in, I regretted my decision. They overcharge you for the entire stay even if you\u2019re just a few minutes late to check out, showing absolutely no flexibility or understanding.\n\nThe rooms are incredibly small, cramped, and poorly maintained. There\u2019s absolutely no service \u2014 not even the basics like clean towels or proper housekeeping. I felt like I was being treated like an inconvenience rather than a guest. What shocked me the most was the receptionist's attitude, who was by far the rudest person I have ever encountered in my life. Every staff member seemed to go out of their way to make my stay miserable.\n\nI wouldn\u2019t recommend this place to my worst enemy. Save yourself the trouble and discomfort \u2014 you'd honestly be better off sleeping at the railway platform or finding another place. This was, without a doubt, the worst hotel experience I\u2019ve ever had, and I strongly advise everyone to avoid it at all costs.",
+      "I had called this hotel for enquiry of booking the room. The person who picked up the call was very rude. His behavior on the call itself was not professional. He did not answer any of my questions. I would recommend people not to even call this place. The person who picked up my call did argue with me for asking him question about the hotel. He also hanged up the call. This is not the behavior that any customer would like. Absolutely disgusting."
+    ]
+  },
+  "review_summary": "Based on 5 reviews.",
+  "positive_themes": {
+    "great_value": 1,
+    "clean_rooms": 2,
+    "friendly_staff": 1
+  },
+  "negative_themes": {
+    "rude_staff": 2
+  }
+}

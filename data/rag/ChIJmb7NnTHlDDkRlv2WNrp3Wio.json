@@ -1,0 +1,48 @@
+{
+  "hotel_id": "ChIJmb7NnTHlDDkRlv2WNrp3Wio",
+  "hotel_name": "Hotel Future Inn",
+  "area": "Sector 11",
+  "budget_category": "Budget",
+  "rating": 4.6,
+  "trust_score": 0.8167263930559435,
+  "travel_purpose_tags": [
+    "Business"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "moderate",
+    "review_count": 5,
+    "positive_snippet_count": 3,
+    "negative_snippet_count": 1,
+    "positive_theme_count": 3,
+    "negative_theme_count": 0
+  },
+  "aspect_scores": {
+    "cleanliness": 0.4999137903942027,
+    "service": 0.7498905552274664,
+    "location": 0.5,
+    "value_for_money": 0.9997465312480928,
+    "staff_behavior": 0.999732106924057
+  },
+  "recommendation_features": {
+    "popularity_score": 0.4552416887252435,
+    "rating_score": 4.6,
+    "sentiment_score": 0.7998318229394499
+  },
+  "review_evidence": {
+    "positive_snippets": [
+      "Best hotel for staying for professional working person, clean room and loyal and professional staff",
+      "Overall it was a nice stay. Rooms are good, staffs are polite, service is good. If you are looking a good budget property then go for this. Thanks again for a comfortable stay.",
+      "The staff is very good. Specially The reception staff is very helpful and available whenever you need anything.  I am grateful to Hotel Future Inn for giving me good service for a month. Thanks to all."
+    ],
+    "negative_snippets": [
+      "The service at the reception was not good we were asked to wait for half an hour because the room I booked was not ready and then when we got the room the ac was  not working well it was dispensing out water in the room half of the room was covered in water and the room was not clean either please refrain from visiting this hotel again"
+    ]
+  },
+  "review_summary": "Based on 5 reviews.",
+  "positive_themes": {
+    "clean_rooms": 2,
+    "friendly_staff": 4,
+    "good_food": 1
+  },
+  "negative_themes": {}
+}

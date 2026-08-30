@@ -1,0 +1,48 @@
+{
+  "hotel_id": "ChIJSY21bsX9DDkRkp0mg84Qa64",
+  "hotel_name": "Wongdhen House",
+  "area": "New Aruna Nagar",
+  "budget_category": "Mid-Range",
+  "rating": 4.2,
+  "trust_score": 0.7412828346380256,
+  "travel_purpose_tags": [
+    "Leisure"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "moderate",
+    "review_count": 5,
+    "positive_snippet_count": 3,
+    "negative_snippet_count": 0,
+    "positive_theme_count": 5,
+    "negative_theme_count": 0
+  },
+  "aspect_scores": {
+    "cleanliness": 0.6242759555578232,
+    "service": 0.3738847722609837,
+    "location": 0.99980029463768,
+    "value_for_money": 0.5290963649749756,
+    "staff_behavior": 0.6877290159463882
+  },
+  "recommendation_features": {
+    "popularity_score": 0.6138727196887437,
+    "rating_score": 4.2,
+    "sentiment_score": 0.6242759555578232
+  },
+  "review_evidence": {
+    "positive_snippets": [
+      "Wongdhen House is a wonderful place to stay. The rooms are clean, comfortable, and well maintained, making it feel like a home away from home. The atmosphere is peaceful and welcoming, perfect for a relaxing stay.\n\nThe hosts are very kind, helpful, and attentive, always making sure guests feel comfortable and well taken care of. The location is also convenient, with easy access to nearby places while still being quiet and calm.\n\nOverall, Wongdhen House offers great hospitality and a pleasant experience. I would highly recommend it to anyone looking for a comfortable and friendly stay.",
+      "We had a wonderful experience staying at this hotel. Its location inside the MKT Market is truly unbeatable\u2014step outside and you\u2019re immediately surrounded by vibrant local streets, great energy, and a cultural feel that almost transports you to the heart of Gangtok. The service was impressive, the restaurants offered good food, and the rooms were clean, comfortable, and well-maintained. Overall, great value for money.\n\nOne thing to note for elderly guests or those with mobility issues is that vehicles can only drop you off at the market entrance, so a short walk to the property is required. However, this also means the area is secure and peaceful, thanks to the gated market setup.\n\nHighly recommended for anyone wanting to enjoy the local vibe and convenience of everything being just a few steps away!",
+      "My friends and I spent a few days at Wongdhen House, and our stay was very pleasant. The staff were extremely nice, calm, composed, and polite. The rooms were clean and well-maintained, with good facilities. Even though we were supposed to check out earlier than planned, they kindly allowed us to extend our stay after our flights were cancelled.\n\nWe truly appreciated their hospitality and hope to stay here again.\n\nWarmly,\nShahid"
+    ],
+    "negative_snippets": []
+  },
+  "review_summary": "Based on 5 reviews.",
+  "positive_themes": {
+    "clean_rooms": 5,
+    "friendly_staff": 3,
+    "good_location": 2,
+    "great_value": 1,
+    "good_food": 2
+  },
+  "negative_themes": {}
+}

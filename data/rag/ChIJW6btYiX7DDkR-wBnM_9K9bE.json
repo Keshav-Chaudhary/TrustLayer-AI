@@ -1,0 +1,52 @@
+{
+  "hotel_id": "ChIJW6btYiX7DDkR-wBnM_9K9bE",
+  "hotel_name": "Hotel Rousha Inn",
+  "area": "Sahibabad",
+  "budget_category": "Budget",
+  "rating": 3.9,
+  "trust_score": 0.8280120358339589,
+  "travel_purpose_tags": [
+    "Leisure",
+    "Business",
+    "Family"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "moderate",
+    "review_count": 5,
+    "positive_snippet_count": 3,
+    "negative_snippet_count": 0,
+    "positive_theme_count": 5,
+    "negative_theme_count": 1
+  },
+  "aspect_scores": {
+    "cleanliness": 0.999810755252838,
+    "service": 0.9998193979263306,
+    "location": 0.9997456868489584,
+    "value_for_money": 0.999792218208313,
+    "staff_behavior": 0.9997777044773102
+  },
+  "recommendation_features": {
+    "popularity_score": 0.6458836092360088,
+    "rating_score": 3.9,
+    "sentiment_score": 0.999777328968048
+  },
+  "review_evidence": {
+    "positive_snippets": [
+      "We had a wonderful stay at rousha inn ! The staff were incredibly friendly and helpful, especially pankaj the chef. Our room was spacious, spotless, and the bed was so comfortable, ensuring a great night's sleep. The location was perfect, within walking distance of 100 metre nearto kaushambhi metro station We particularly enjoyed the delicious breakfast buffet with plenty of choices. While the pillows were a bit firm for our liking, it was a minor point in an otherwise exceptional stay. We'll definitely be back!\".",
+      "Staff: Friendly, helpful, efficient front desk, attentive service.\nRoom: Cleanliness, spaciousness, comfortable beds, good decor, useful amenities (Wi-Fi, boiler).\nLocation: Convenient, close to attractions, quiet/peaceful.\nAmenities/Food: Delicious breakfast, good restaurant, spa, pool, gym.\nOverall Value: Great experience, exceeded expectations, good value for money",
+      "A perfect gateway to stay  near to Anand Vihar terminal\nRooms are enough spacious\nFood quality is up to marked\nStaff behaviours is cooperative\nVast parking space to park vehicle\nHad breakfast that was ala carte as there were less people so they made as per my choice . Food was delicious . Chef is competitive to listen"
+    ],
+    "negative_snippets": []
+  },
+  "review_summary": "Based on 5 reviews.",
+  "positive_themes": {
+    "clean_rooms": 2,
+    "friendly_staff": 4,
+    "good_location": 3,
+    "good_food": 5,
+    "great_value": 1
+  },
+  "negative_themes": {
+    "parking_issues": 1
+  }
+}

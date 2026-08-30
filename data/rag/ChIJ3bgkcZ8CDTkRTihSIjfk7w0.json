@@ -1,0 +1,52 @@
+{
+  "hotel_id": "ChIJ3bgkcZ8CDTkRTihSIjfk7w0",
+  "hotel_name": "Hotel Laffaire",
+  "area": "Karol Bagh",
+  "budget_category": "Mid-Range",
+  "rating": 4.5,
+  "trust_score": 0.7530603234500307,
+  "travel_purpose_tags": [
+    "Leisure",
+    "Business"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "rich",
+    "review_count": 5,
+    "positive_snippet_count": 3,
+    "negative_snippet_count": 2,
+    "positive_theme_count": 3,
+    "negative_theme_count": 1
+  },
+  "aspect_scores": {
+    "cleanliness": 0.0013133885804563,
+    "service": 0.9996146957079568,
+    "location": 0.9992629885673524,
+    "value_for_money": 0.5,
+    "staff_behavior": 0.9996146957079568
+  },
+  "recommendation_features": {
+    "popularity_score": 0.518000167422974,
+    "rating_score": 4.5,
+    "sentiment_score": 0.6001060740672983
+  },
+  "review_evidence": {
+    "positive_snippets": [
+      "The ambience and services are top notch\nAnd also Hotel staff special thanks to Chandan Gupta the at the reception and also with the guard who took the luggage\nAnd all services including food chef and food are awesome \ud83d\udc4d",
+      "Service was top. Staff very cooperative. Walking distance to Karol Bagh. Food in restaurant v nice.",
+      "Amazing Stay at Hotel L Affaire.\nHimangshu Ji from management team is very helpful."
+    ],
+    "negative_snippets": [
+      "I would strongly advise against booking this hotel. I suffer from asthma, and the room I was given was damp and smelled strongly of mould. The pillows were also mouldy, and even the slippers provided in the plastic containers were wet and covered in mould.\n\nI immediately requested new pillows, but the air quality in the room was still unbearable, so I had to switch rooms with my friend. Unfortunately, even the second room was not much better, and neither of us could sleep comfortably.\n\nThe food was also disappointing, served from a bain-marie and clearly needed reheating. Overall, this was one of the worst hotel experiences I\u2019ve had, and I do not believe anyone should have to endure such conditions.",
+      "It was horrible experience in the hotel.\nRooms were leaking\nBathroom stored by water, same water percolate down rooms.\nRoom was not cleaned when I stayed 2 days.\nDrikning water was not kept in second day in the room.\nThey charged 130 rupees for 2 litre water bottles.\nThey disturb in the midnight to take the bill. My family felt very bad for selection of hotel."
+    ]
+  },
+  "review_summary": "Based on 5 reviews.",
+  "positive_themes": {
+    "friendly_staff": 3,
+    "good_food": 3,
+    "clean_rooms": 1
+  },
+  "negative_themes": {
+    "dirty_rooms": 1
+  }
+}

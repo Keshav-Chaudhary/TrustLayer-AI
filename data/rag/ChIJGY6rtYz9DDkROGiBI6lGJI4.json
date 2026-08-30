@@ -1,0 +1,51 @@
+{
+  "hotel_id": "ChIJGY6rtYz9DDkROGiBI6lGJI4",
+  "hotel_name": "The Twenties Hotel Kamla Nagar",
+  "area": "Malka Ganj",
+  "budget_category": "Mid-Range",
+  "rating": 3.3,
+  "trust_score": 0.4534419113301169,
+  "travel_purpose_tags": [
+    "Budget"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "moderate",
+    "review_count": 5,
+    "positive_snippet_count": 1,
+    "negative_snippet_count": 3,
+    "positive_theme_count": 4,
+    "negative_theme_count": 1
+  },
+  "aspect_scores": {
+    "cleanliness": 0.5010133357718587,
+    "service": 0.3334246053855167,
+    "location": 0.5000762956042308,
+    "value_for_money": 0.0021448079496622,
+    "staff_behavior": 0.9998818635940552
+  },
+  "recommendation_features": {
+    "popularity_score": 0.4586771270509036,
+    "rating_score": 3.3,
+    "sentiment_score": 0.2005378703441238
+  },
+  "review_evidence": {
+    "positive_snippets": [
+      "I recently stayed at the Twenties Hotel in Delhi and had an amazing experience! From the moment I walked in, I was greeted by a warm and friendly staff who made me feel right at home. The hotel\u2019s ambiance is modern, chic, and incredibly comfortable. My room was spacious, clean, and beautifully furnished, providing all the amenities I needed for a relaxing stay.\n\nThe service was top-notch, with the staff always attentive and ready to assist with anything I needed. The food at the in-house restaurant was delicious and offered a wide variety of options. I was particularly impressed by their attention to detail and commitment to providing a great experience for guests.\n\nWhat really stood out for me was the location \u2014 it\u2019s situated in a prime area with easy access to major attractions and shopping areas, making it perfect for both business and leisure travelers.\n\nOverall, I had a wonderful stay and would highly recommend Twenties Hotel to anyone visiting Delhi. It's definitely my go-to place for future stays!\n\nThis review highlights the main positive aspects of the hotel and is warm, genuine, and thoughtful.\n\nChat"
+    ],
+    "negative_snippets": [
+      "This hotel is totally fraud, they cancelled my booking without any reasons, bad behaviour, wrong location, they rejected my refund which I was supposed to received. Please do not go this hotel.",
+      "Worst desk receptionist.\nRooms are not what they show in pictures.\nAnd there were bugs in the room.\nWorst experience ine could imagine",
+      "The worst place any person can stay especially with family\nIts utterly unhygienic\nThey literally have no safety\nNo proper reception area\nAbsolutely had horrible stay here"
+    ]
+  },
+  "review_summary": "Based on 5 reviews.",
+  "positive_themes": {
+    "clean_rooms": 1,
+    "friendly_staff": 1,
+    "good_location": 2,
+    "good_food": 1
+  },
+  "negative_themes": {
+    "dirty_rooms": 1
+  }
+}

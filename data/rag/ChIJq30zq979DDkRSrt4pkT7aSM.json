@@ -1,0 +1,53 @@
+{
+  "hotel_id": "ChIJq30zq979DDkRSrt4pkT7aSM",
+  "hotel_name": "Best Western Darbar",
+  "area": "Paharganj",
+  "budget_category": "Mid-Range",
+  "rating": 4.2,
+  "trust_score": 0.7965365327559322,
+  "travel_purpose_tags": [
+    "Leisure",
+    "Business"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "moderate",
+    "review_count": 5,
+    "positive_snippet_count": 3,
+    "negative_snippet_count": 1,
+    "positive_theme_count": 4,
+    "negative_theme_count": 2
+  },
+  "aspect_scores": {
+    "cleanliness": 0.6664855421113316,
+    "service": 0.9991907874743144,
+    "location": 0.9991907874743144,
+    "value_for_money": 0.5,
+    "staff_behavior": 0.9996799230575562
+  },
+  "recommendation_features": {
+    "popularity_score": 0.6107651216319101,
+    "rating_score": 4.2,
+    "sentiment_score": 0.7995335781888571
+  },
+  "review_evidence": {
+    "positive_snippets": [
+      "Comfortable Stay with Good Service\n\nWe had a pleasant stay at Best Western Darbar Delhi. The rooms were comfortable, clean, and well-maintained, providing a relaxing place to rest after a busy day in the city. The overall comfort of the accommodation met our expectations and made for a convenient and hassle-free stay.\n\nThe breakfast was decent, though there is room for improvement in terms of variety and options.\n\nThe location is convenient, with easy access to the main areas of Delhi. However, the road outside is quite busy, so some noise can be expected.\n\nOverall, it was a good stay with reliable service and comfortable rooms. We would consider returning for another visit to Delhi.",
+      "Mr. Kim has been fabulous. He is very kind and makes sure that everything is taken care off! The hotel is amazing - it's neat, clean, asthetic and most of all hassle free! I would recommend everyone here",
+      "I stayed at this hotel to be close to CP for my VISA appointment and I was not disappointed with it.\n\nHotel rooms and the service is really good. Staff in general was very cooperative and accomodating to additional requirements.\n\nRating 4 instead of 5 because of the Paharganj location which can get shady at night and traffic heavy during the day."
+    ],
+    "negative_snippets": [
+      "This is probably one of the worst places I have stayed in. The door lock wasn\u2019t working working properly, the room phone wasn\u2019t working at all, the bathroom was smelly, the towels were bad, the shower stopped working in between and on top of that the room was small. Plus the breakfast wasn\u2019t up to the mark and nothing seemed ok in this place. I would strongly suggest and recommend everyone to avoid this place at all costs. It will save you a lot headaches"
+    ]
+  },
+  "review_summary": "Based on 5 reviews.",
+  "positive_themes": {
+    "clean_rooms": 3,
+    "good_location": 3,
+    "good_food": 3,
+    "friendly_staff": 1
+  },
+  "negative_themes": {
+    "noise": 1,
+    "dirty_rooms": 1
+  }
+}

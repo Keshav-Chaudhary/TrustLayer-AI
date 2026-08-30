@@ -1,0 +1,44 @@
+{
+  "hotel_id": "ChIJPwDEgOH9DDkRVZXlK8nS0nw",
+  "hotel_name": "Terrace Garden Room",
+  "area": "Mukherjee Nagar",
+  "budget_category": "Mid-Range",
+  "rating": 4.4,
+  "trust_score": 0.8443596568930909,
+  "travel_purpose_tags": [
+    "Leisure"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "sparse",
+    "review_count": 5,
+    "positive_snippet_count": 3,
+    "negative_snippet_count": 0,
+    "positive_theme_count": 1,
+    "negative_theme_count": 0
+  },
+  "aspect_scores": {
+    "cleanliness": 0.9997761845588684,
+    "service": 0.5,
+    "location": 0.9997453093528748,
+    "value_for_money": 0.5,
+    "staff_behavior": 0.5
+  },
+  "recommendation_features": {
+    "popularity_score": 0.4102206732614377,
+    "rating_score": 4.4,
+    "sentiment_score": 0.999792218208313
+  },
+  "review_evidence": {
+    "positive_snippets": [
+      "Our stay was so comfortable and nice. The house is really nice and well maintained with all necessary things. The family is really sweet too. We felt really safe here.\nPlanning on coming here again. Would definitely recommend it to everyone.",
+      "Fantastic home stay with the entire terrace only for you with a spacious bedroom with sofa, very spacious washroom and a well-equipped small kitchen. Biggest pluses are the cute tiny garden on the terrace and access to the floor through elevator.",
+      "Beautiful room located on terrace which is booked with the terrace. You can book this room though airbnb or another way of booking is directly call the owner. I don't think so this kind of room is available anywhere in North Delhi. The room is awesome and spacious. Garden is superb. I don't think so that you won't book it after having the look at the photographs. You must book this room if you need a stay near north campus."
+    ],
+    "negative_snippets": []
+  },
+  "review_summary": "Based on 5 reviews.",
+  "positive_themes": {
+    "good_location": 1
+  },
+  "negative_themes": {}
+}

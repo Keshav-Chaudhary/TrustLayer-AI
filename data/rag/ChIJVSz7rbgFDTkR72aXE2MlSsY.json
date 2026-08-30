@@ -1,0 +1,53 @@
+{
+  "hotel_id": "ChIJVSz7rbgFDTkR72aXE2MlSsY",
+  "hotel_name": "Hotel 7 Star",
+  "area": "Paschim Vihar",
+  "budget_category": "Mid-Range",
+  "rating": 4.8,
+  "trust_score": 0.8502583988827536,
+  "travel_purpose_tags": [
+    "Business"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "rich",
+    "review_count": 5,
+    "positive_snippet_count": 3,
+    "negative_snippet_count": 2,
+    "positive_theme_count": 4,
+    "negative_theme_count": 2
+  },
+  "aspect_scores": {
+    "cleanliness": 0.4997057694272371,
+    "service": 0.7497817167677567,
+    "location": 0.5,
+    "value_for_money": 0.4997057694272371,
+    "staff_behavior": 0.9995007514953614
+  },
+  "recommendation_features": {
+    "popularity_score": 0.4879532525061165,
+    "rating_score": 4.8,
+    "sentiment_score": 0.7997927100688684
+  },
+  "review_evidence": {
+    "positive_snippets": [
+      "This hotel was really good at there food and  services and it provide good facilities in rooms it was really amazing experience to me",
+      "It was amazing experience. Like staff were very polite and and service is very good and fast. About the rooms so that was very comfortable and relaxed. Just say excellent.\nThanks also car bike parking available",
+      "1.Room are very neat and clean.\n2.Staff behaviour was very nice.\n3.Room Service is so good.\n4.Car parking is also available.\n5.value for money stay."
+    ],
+    "negative_snippets": [
+      "Nice service and very nice facilities. I appreciate you \u263a\ufe0f\ud83d\ude4f",
+      "The service was too bad even the gizer was not working and the telephone was dummy and in every drawer it was to dirty waste of money \ud83d\udc4e\ud83d\udc4e"
+    ]
+  },
+  "review_summary": "Based on 5 reviews.",
+  "positive_themes": {
+    "good_food": 1,
+    "friendly_staff": 2,
+    "clean_rooms": 1,
+    "great_value": 1
+  },
+  "negative_themes": {
+    "parking_issues": 2,
+    "dirty_rooms": 1
+  }
+}

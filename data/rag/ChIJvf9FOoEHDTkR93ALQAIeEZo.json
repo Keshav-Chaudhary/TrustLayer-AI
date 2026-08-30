@@ -1,0 +1,53 @@
+{
+  "hotel_id": "ChIJvf9FOoEHDTkR93ALQAIeEZo",
+  "hotel_name": "Hotel 7 Star",
+  "area": "New Delhi",
+  "budget_category": "Mid-Range",
+  "rating": 4.4,
+  "trust_score": 0.7606009529666132,
+  "travel_purpose_tags": [
+    "Leisure"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "rich",
+    "review_count": 5,
+    "positive_snippet_count": 3,
+    "negative_snippet_count": 2,
+    "positive_theme_count": 4,
+    "negative_theme_count": 2
+  },
+  "aspect_scores": {
+    "cleanliness": 0.9979471266269684,
+    "service": 0.5,
+    "location": 0.9990543723106384,
+    "value_for_money": 0.0002712823625188,
+    "staff_behavior": 0.0002712823625188
+  },
+  "recommendation_features": {
+    "popularity_score": 0.3196692287282864,
+    "rating_score": 4.4,
+    "sentiment_score": 0.7976285381650087
+  },
+  "review_evidence": {
+    "positive_snippets": [
+      "Best hotel unit in Delhi all of the hotel \ud83c\udfe8. Are so good \ud83d\udc4d and happiest stay\nVery nice all good \ud83d\udc4d neat and clean rooms",
+      "HOTEL 7 STAR NEW OPENING GOOD ROOMS STAY AND ANJOY . FULL SECURITY HAI SAFETY AND PARKING COME AND BOOK YOUR ROOMS 24 HOURS AWALABLE ROOMS \u2705\ud83d\udc4d\u2665\ufe0f",
+      "Best hotal nise romms best sarvis  good staaf clean and clar rooms best parking\nAal staf best , luxury room"
+    ],
+    "negative_snippets": [
+      "My experience at Hotel 7 Star, Sector 20 Rohini was absolutely horrible and disappointing. This place is involved in trap and fraud activities with their customers. We came all the way from Assam to Delhi for some important work, but the hotel staff completely ruined our stay.\nThey denied our check-in even after full advance payment and gave false excuses. Their behavior was unprofessional and rude, and they didn\u2019t take any responsibility for the trouble they caused. We faced serious personal and security issues because of their actions.\nThis property is not trustworthy at all \u2014 they are misleading people with false listings and fake promises. I strongly advise everyone to avoid this hotel. It\u2019s a total scam, and booking here is a waste of money and peace of mind.\nStay away from Hotel 7 Star, Sector 20 Rohini \u2014 one of the worst experiences ever!",
+      "Decent stay hotel rooms is normal could have been better, not so recommended for couples. Location is great"
+    ]
+  },
+  "review_summary": "Based on 5 reviews.",
+  "positive_themes": {
+    "clean_rooms": 2,
+    "friendly_staff": 1,
+    "great_value": 1,
+    "good_location": 1
+  },
+  "negative_themes": {
+    "parking_issues": 2,
+    "rude_staff": 1
+  }
+}

@@ -1,0 +1,49 @@
+{
+  "hotel_id": "ChIJBbwzvPMBDTkRPPGqzG0yUhc",
+  "hotel_name": "Hotel Clark",
+  "area": "Rohini",
+  "budget_category": "Mid-Range",
+  "rating": 3.8,
+  "trust_score": 0.6781997283990836,
+  "travel_purpose_tags": [
+    "Leisure",
+    "Business"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "moderate",
+    "review_count": 5,
+    "positive_snippet_count": 3,
+    "negative_snippet_count": 1,
+    "positive_theme_count": 3,
+    "negative_theme_count": 0
+  },
+  "aspect_scores": {
+    "cleanliness": 0.999750812848409,
+    "service": 0.9997261464595796,
+    "location": 0.9997279047966005,
+    "value_for_money": 0.0023588200565427,
+    "staff_behavior": 0.9997450858354568
+  },
+  "recommendation_features": {
+    "popularity_score": 0.3032955993753565,
+    "rating_score": 3.8,
+    "sentiment_score": 0.800267832679674
+  },
+  "review_evidence": {
+    "positive_snippets": [
+      "Good hotel Good staff Neet and clean room service also good bhevaour....",
+      "Good location \u2764\ufe0f nice rooms friendly staff",
+      "Good hotel in Rohini nice staff clean rooms."
+    ],
+    "negative_snippets": [
+      "We booked 2 rooms for 15 August but they asked for extra 1200 and when we denied to give them that inappropriate asked money he started asking physical copy of identities then we were provided him ids then he alleged us for carrying alcohol and side by side owner permitted a group of people carring two bottles of alcohol."
+    ]
+  },
+  "review_summary": "Based on 5 reviews.",
+  "positive_themes": {
+    "clean_rooms": 3,
+    "friendly_staff": 4,
+    "good_location": 1
+  },
+  "negative_themes": {}
+}

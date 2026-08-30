@@ -1,0 +1,48 @@
+{
+  "hotel_id": "ChIJMVA5uh0BDTkRYl-pVgvlkPc",
+  "hotel_name": "Super Hotel O Shalimar Bagh Max Hospital",
+  "area": "Haiderpur",
+  "budget_category": "Mid-Range",
+  "rating": 4.5,
+  "trust_score": 0.7148657149461025,
+  "travel_purpose_tags": [
+    "Budget"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "moderate",
+    "review_count": 5,
+    "positive_snippet_count": 3,
+    "negative_snippet_count": 2,
+    "positive_theme_count": 2,
+    "negative_theme_count": 0
+  },
+  "aspect_scores": {
+    "cleanliness": 0.0002867573057301,
+    "service": 0.5000114437716546,
+    "location": 0.5,
+    "value_for_money": 0.5,
+    "staff_behavior": 0.749897176036029
+  },
+  "recommendation_features": {
+    "popularity_score": 0.3386222175183568,
+    "rating_score": 4.5,
+    "sentiment_score": 0.5999750922899693
+  },
+  "review_evidence": {
+    "positive_snippets": [
+      "The overall management was upto mark .The service and the behaviour of the staff was good.",
+      "Good hotel good staff",
+      "Nice hotel and helpful staff with nice nature and behaviour"
+    ],
+    "negative_snippets": [
+      "Fraud! Fraud! Fraud!\nI booked this hotel online, but when I arrived at 11:00 pm, the property was completely closed and locked. There was no staff, no signage, and no way to access the hotel. All contact numbers provided were invalid, and there was no way to reach anyone for help.\nTo make things worse, I later received a call requesting prepayment, which was extremely suspicious. Thankfully, I refused. If I hadn\u2019t, this would have been an even bigger loss.\nDo not book this hotel. You may end up stranded late at night with no accommodation and no support. This listing should be investigated and removed.",
+      "I have booked the place from Oyo as this was company serviced, but it's was really a pathetic service.\nNo water, no room service, switch board falling out from his casing in bathroom.\nNo room cleaning even after request in the morning.\nNot really impressed and neither I'm gonna stay in company serviced oyo."
+    ]
+  },
+  "review_summary": "Based on 5 reviews.",
+  "positive_themes": {
+    "friendly_staff": 4,
+    "clean_rooms": 1
+  },
+  "negative_themes": {}
+}

@@ -1,0 +1,53 @@
+{
+  "hotel_id": "ChIJcSOPprgdDTkR02f7jAhRoFE",
+  "hotel_name": "Hotel Trans International(Near Igi Airport)",
+  "area": NaN,
+  "budget_category": "Mid-Range",
+  "rating": 4.1,
+  "trust_score": 0.6724499145228794,
+  "travel_purpose_tags": [
+    "Budget"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "moderate",
+    "review_count": 5,
+    "positive_snippet_count": 2,
+    "negative_snippet_count": 3,
+    "positive_theme_count": 5,
+    "negative_theme_count": 1
+  },
+  "aspect_scores": {
+    "cleanliness": 0.0062024006620049,
+    "service": 0.503588936990127,
+    "location": 0.5,
+    "value_for_money": 0.5030286614783108,
+    "staff_behavior": 0.9998584389686584
+  },
+  "recommendation_features": {
+    "popularity_score": 0.6850914705503919,
+    "rating_score": 4.1,
+    "sentiment_score": 0.4027151706453878
+  },
+  "review_evidence": {
+    "positive_snippets": [
+      "Good stay and friendly budget! Recommended!",
+      "Amazing service. Very polite and kind behavior of all staff. I highly recommend this hotel for family and friends stay. Special thank to anjali maam , ashish and vikram sir."
+    ],
+    "negative_snippets": [
+      "stayed with them yesterday my friend booked it i dont know how they have a rating of 4 something only two people in the whole hotel working unclean rooms images didnt match the booking.com images,plus the locks aren\u2019t working as well",
+      "I stayed at Trans International, and while there were some positive aspects, my experience was marred by several inconveniences. The room had some extra furniture around the bed that made moving around quite difficult, and the mattress was noticeably smaller than the bed frame, which impacted the overall comfort.\n\nThe AC remote was in poor condition, making it hard to adjust the temperature, and the TV channels seemed outdated, limiting our entertainment options. One of the biggest drawbacks was that we had to go to a different branch of the hotel chain for breakfast, which was quite inconvenient.\n\nOn the positive side, privacy was well-maintained, and the service was generally good. The hotel also allowed outside food, which was a nice touch. However, the issues with the room setup and amenities definitely affected my overall satisfaction.",
+      "Not worth the cost. Do not fall for fake reviews. Room was not cleaned before handing over. Strong smell of phenyle with no ventilation. Just wanted to check out as soon as possible the next day. While checking out they will make you give a 5 star rating in booking app and ask to take screenshot of it. No hot water available. Just go with it if no other option available only."
+    ]
+  },
+  "review_summary": "Based on 5 reviews.",
+  "positive_themes": {
+    "friendly_staff": 2,
+    "clean_rooms": 2,
+    "good_location": 1,
+    "good_food": 1,
+    "great_value": 1
+  },
+  "negative_themes": {
+    "dirty_rooms": 2
+  }
+}

@@ -1,0 +1,52 @@
+{
+  "hotel_id": "ChIJPxUsCXj9DDkROxvTLja26mA",
+  "hotel_name": "Mannat Inn Hotel Laxmi Nagar",
+  "area": "Laxmi Nagar",
+  "budget_category": "Budget",
+  "rating": 2.7,
+  "trust_score": 0.3799129154735967,
+  "travel_purpose_tags": [
+    "Budget"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "moderate",
+    "review_count": 5,
+    "positive_snippet_count": 1,
+    "negative_snippet_count": 3,
+    "positive_theme_count": 4,
+    "negative_theme_count": 2
+  },
+  "aspect_scores": {
+    "cleanliness": 0.0003225235268473,
+    "service": 0.0002366763073951,
+    "location": 0.0002366763073951,
+    "value_for_money": 0.0004386533692012,
+    "staff_behavior": 0.4999636005668435
+  },
+  "recommendation_features": {
+    "popularity_score": 0.488444492767926,
+    "rating_score": 2.7,
+    "sentiment_score": 0.2002254062797873
+  },
+  "review_evidence": {
+    "positive_snippets": [
+      "Best hotel best staff easy checkin"
+    ],
+    "negative_snippets": [
+      "First they will not provided bill which is my basic rights & 100% payment in advance with no hotel name ( Rajneesh pandey ) will appear when you pay & if you ask for bill they asked additional G.s.t 18% which information is not provided at the time of full payment booking which means your can't claim if you are s professional. Second point is room is very small ,old and not properly managed. Check out is 10 am with alot of money , i will never ever go this hotel in anywhere in India if they have any branch.",
+      "I recently went to hotel for enquiry with my colleague however receptionist behaved very rudely . This kind of behavior should not be acceptable.",
+      "Rooms are not clean and bathroom are dirty as well. Rooms look like very old and paint of wall is very old. The hotel owner takes my phone and give five star to hotel without my permissions. Overall experience was Very worst. Don't go this hotel and prices is too high."
+    ]
+  },
+  "review_summary": "Based on 5 reviews.",
+  "positive_themes": {
+    "friendly_staff": 1,
+    "clean_rooms": 2,
+    "good_location": 1,
+    "great_value": 1
+  },
+  "negative_themes": {
+    "rude_staff": 1,
+    "dirty_rooms": 1
+  }
+}

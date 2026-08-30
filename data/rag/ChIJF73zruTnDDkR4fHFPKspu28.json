@@ -1,0 +1,49 @@
+{
+  "hotel_id": "ChIJF73zruTnDDkR4fHFPKspu28",
+  "hotel_name": "Sukajini Home Stay & Pg",
+  "area": "Fatidabad",
+  "budget_category": "Budget",
+  "rating": 5.0,
+  "trust_score": 0.9103915593407342,
+  "travel_purpose_tags": [
+    "Leisure",
+    "Business",
+    "Family"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "moderate",
+    "review_count": 5,
+    "positive_snippet_count": 3,
+    "negative_snippet_count": 0,
+    "positive_theme_count": 4,
+    "negative_theme_count": 0
+  },
+  "aspect_scores": {
+    "cleanliness": 0.9997516721487044,
+    "service": 0.9995515942573548,
+    "location": 0.9997710585594176,
+    "value_for_money": 0.9998117089271544,
+    "staff_behavior": 0.9997776865959168
+  },
+  "recommendation_features": {
+    "popularity_score": 0.3456957314342286,
+    "rating_score": 5.0,
+    "sentiment_score": 0.9997776865959168
+  },
+  "review_evidence": {
+    "positive_snippets": [
+      "Excellent stay! The rooms are hygienic and well-maintained. The staff's behavior is also very nice and welcoming. Overall, a great experience!",
+      "Had a great stay at Sukajini with my family last weekend. The place was clean, comfortable, and felt just like home. The staff were really nice and helpful throughout our stay. It\u2019s a peaceful spot and everything we needed was easily available. We felt safe and well taken care of. Would definitely recommend it to anyone looking for a nice, affordable place to stay with family.",
+      "We had a wonderful stay at the Sukajini homestay. The staff was very polite, helpful, and made us feel like family. Rooms were clean, spacious, and well-maintained with all basic facilities. The amenities like Wi-Fi, hot water, everything was excellent. Overall, a very comfortable and pleasant experience!"
+    ],
+    "negative_snippets": []
+  },
+  "review_summary": "Based on 5 reviews.",
+  "positive_themes": {
+    "friendly_staff": 5,
+    "clean_rooms": 4,
+    "great_value": 1,
+    "good_location": 1
+  },
+  "negative_themes": {}
+}

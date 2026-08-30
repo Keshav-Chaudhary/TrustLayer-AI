@@ -1,0 +1,50 @@
+{
+  "hotel_id": "ChIJQYncXHQFDTkRJ6acaW9_9Cs",
+  "hotel_name": "Hotel Palazzo Inn",
+  "area": "New Delhi",
+  "budget_category": "Budget",
+  "rating": 4.4,
+  "trust_score": 0.7829401509669955,
+  "travel_purpose_tags": [
+    "Leisure",
+    "Business"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "moderate",
+    "review_count": 5,
+    "positive_snippet_count": 3,
+    "negative_snippet_count": 1,
+    "positive_theme_count": 4,
+    "negative_theme_count": 0
+  },
+  "aspect_scores": {
+    "cleanliness": 0.6636053151451051,
+    "service": 0.9941229224205016,
+    "location": 0.9835495948791504,
+    "value_for_money": 0.5,
+    "staff_behavior": 0.7522104694508016
+  },
+  "recommendation_features": {
+    "popularity_score": 0.7162695916677999,
+    "rating_score": 4.4,
+    "sentiment_score": 0.6032477525062859
+  },
+  "review_evidence": {
+    "positive_snippets": [
+      "I visited many times in this hotel. This is the best hotel and banquet services were awesome. I should recommend to everyone. Anyone can afford rooms and banquet prices for their function. The room services were vulnerable.\nAll the staff were awesome, rather it's Reception or backend .\nThe rooms were precious . In one stop you have so many options.\nI luv this place. Kindly visit once here.",
+      "\u2b50\ufe0f\u2b50\ufe0f\u2b50\ufe0f\u2b50\ufe0f Very Good Stay Experience\n\nI stayed for 4 nights in a deluxe room. The hotel is quite big, with around 50 rooms and sufficient staff available. It\u2019s family-friendly, and kids can stay comfortably. The location is convenient \u2014 right on the main road with a metro station nearby.\n\nThere\u2019s an in-house restaurant and complimentary 4 small bottles of mineral water provided daily. The room was spacious with neat and clean linen, fresh towels, and daily housekeeping. Hot water was available 24 hours.\n\nFacilities included a wardrobe, Godrej jewelry locker, and fridge inside the room. Toiletries like shampoo, shaving kit, and dental kit were provided every day.\n\nThe staff was polite and helpful, and room service was quick.\n\nOnly one observation: the food is a little costly, and half portions are not available. It would be great if they could add a simple veg thali option to the menu.\n\nOverall, a very good experience \u2014 I would definitely stay here again in the future.",
+      "I only visited the basement hall of this hotel, that is for parties, the hall was good and elegant although there were some problems too, like at a place water was leaking but they fixed it on complaint. Washroom was clean and infrastructure was good but i don't know how to say it, the design was horrible. Since, i am a boy so i don't know about girls washroom but men's washroom was horrible in desgin."
+    ],
+    "negative_snippets": [
+      "They said we are upgrading your room and gave a room which is too small. Blankets were kept in wardrobe, when asked for iron & iron board they don't have. In room there was no switch to turn off one light above bed. Which was really bad. Dinner spread was good, staff was a bit helpful during checkin"
+    ]
+  },
+  "review_summary": "Based on 5 reviews.",
+  "positive_themes": {
+    "friendly_staff": 4,
+    "clean_rooms": 3,
+    "good_location": 1,
+    "good_food": 1
+  },
+  "negative_themes": {}
+}

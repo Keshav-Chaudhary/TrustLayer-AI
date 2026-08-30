@@ -1,0 +1,52 @@
+{
+  "hotel_id": "ChIJe4zp0KMdDTkRm90YLrHBVg8",
+  "hotel_name": "Taj Palace, New Delhi",
+  "area": "Chanakyapuri",
+  "budget_category": "Luxury",
+  "rating": 4.7,
+  "trust_score": 0.9515832843945954,
+  "travel_purpose_tags": [
+    "Leisure",
+    "Business"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "moderate",
+    "review_count": 5,
+    "positive_snippet_count": 3,
+    "negative_snippet_count": 1,
+    "positive_theme_count": 4,
+    "negative_theme_count": 1
+  },
+  "aspect_scores": {
+    "cleanliness": 0.5890661850571632,
+    "service": 0.8355525881052017,
+    "location": 0.9998817443847656,
+    "value_for_money": 0.1782500296831131,
+    "staff_behavior": 0.8355525881052017
+  },
+  "recommendation_features": {
+    "popularity_score": 0.9731989390744878,
+    "rating_score": 4.7,
+    "sentiment_score": 0.8355525881052017
+  },
+  "review_evidence": {
+    "positive_snippets": [
+      "My stay at Taj Palace was truly a royal experience. From the moment I entered the grand lobby, I felt warmth, luxury, and exceptional hospitality. The staff was extremely polite, professional, and always ready to help with a genuine smile.\nThe rooms were spacious, beautifully designed, and very comfortable. Cleanliness was perfectly maintained, and every small detail was taken care of. The food was absolutely delicious with a wide variety of options in breakfast and dinner.\nThe ambience of the hotel is peaceful and elegant, making it perfect for family stays, business meetings, or special occasions. The service quality reflects the true standard of the Taj brand.\nOverall, it was a memorable and premium experience. Highly recommended for anyone looking for comfort, luxury, and top-class hospitality in Delhi.",
+      "I had an absolutely wonderful stay at this hotel. From the moment I arrived, the staff made me feel welcome with their warm, professional service. Check-in was smooth and efficient, and every team member went above and beyond to ensure my comfort.\nThe room was spacious, beautifully designed, and impeccably clean. The bed was incredibly comfortable, and the amenities provided were top quality. I especially appreciated the attention to detail\u2014from the fresh linens to the complimentary refreshments.\nThe hotel facilities were outstanding. The dining experience was superb, offering a wide variety of delicious dishes prepared to perfection. The spa and pool area were relaxing and well-maintained, creating the perfect environment to unwind.\nOverall, this hotel truly lives up to its 5-star rating. Exceptional service, luxurious accommodations, and a memorable experience from start to finish. I highly recommend it and will definitely be returning!\nIf you'd like, tell me the hotel name or specific highlights (location, food, staff member, occasion), and I can personalize the review for you.",
+      "Had a wonderful dining experience at Taj Palace, New Delhi. The ambiance is elegant and welcoming, perfectly reflecting the luxury and warmth that the Taj brand is known for. The restaurant setting is beautifully maintained, creating a relaxed yet premium atmosphere ideal for both family dining and business meetings.\n\nThe food was exceptional \u2014 every dish was thoughtfully prepared, rich in flavor, and presented beautifully. The menu offers an excellent variety, catering to different tastes while maintaining authentic quality and freshness.\n\nWhat truly stood out was the hospitality. The staff was courteous, attentive, and highly professional, ensuring that every guest felt comfortable and well taken care of throughout the meal.\n\nOverall, a memorable culinary experience with outstanding service, great ambiance, and delicious food. Highly recommended for anyone looking for a refined dining experience in New Delhi."
+    ],
+    "negative_snippets": [
+      "* you can find better *\n\nWe stayed here for three nights in February. The hotel has excellent security, which made us feel very safe. However, the rooms feel quite outdated, and our experience with the front desk staff was disappointing. The reception staff came across as rude, unfriendly, and somewhat judgmental, which really affected our stay.\n\nFor the price, the hotel feels overpriced and not very modern. We had a few maintenance issues. The TV problem was fixed promptly, but the bathroom light issue was frustrating. When maintenance came, we were told there was nothing that could be done, and we ultimately fixed it ourselves, which was irritating.\n\nOn the positive side, the breakfast was very good and available until 11 a.m., which was a nice perk. The breakfast staff were warm and welcoming. We were also granted a late checkout at 2 p.m., which was extremely helpful. Housekeeping checked in multiple times a day and quickly brought extra purified water whenever we asked, which we appreciated.\n\nOverall, while it\u2019s a very safe option with good security, I likely wouldn\u2019t stay here again due to the high price relative to what\u2019s offered."
+    ]
+  },
+  "review_summary": "Based on 5 reviews.",
+  "positive_themes": {
+    "clean_rooms": 2,
+    "friendly_staff": 5,
+    "good_food": 5,
+    "good_location": 2
+  },
+  "negative_themes": {
+    "rude_staff": 1
+  }
+}

@@ -1,0 +1,49 @@
+{
+  "hotel_id": "ChIJP-7LeaE9DTkRHg0KCwS-sEQ",
+  "hotel_name": "Hotel O Ar Suites",
+  "area": "Sector 83",
+  "budget_category": "Mid-Range",
+  "rating": 4.2,
+  "trust_score": 0.7338623868617649,
+  "travel_purpose_tags": [
+    "Business"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "moderate",
+    "review_count": 5,
+    "positive_snippet_count": 3,
+    "negative_snippet_count": 1,
+    "positive_theme_count": 4,
+    "negative_theme_count": 0
+  },
+  "aspect_scores": {
+    "cleanliness": 0.9988368153572084,
+    "service": 0.9979907274246216,
+    "location": 0.6663629714360771,
+    "value_for_money": 0.4996418809460011,
+    "staff_behavior": 0.7490338015340967
+  },
+  "recommendation_features": {
+    "popularity_score": 0.3166168302341184,
+    "rating_score": 4.2,
+    "sentiment_score": 0.7991880717105232
+  },
+  "review_evidence": {
+    "positive_snippets": [
+      "Location in nice n near to few malls . Front desk staff is nice n cooperative . Good value for money. Rooms are clean n hygienic. Washrooms are good too",
+      "There\u2019s a certain kind of place that doesn\u2019t try too hard to impress but ends up doing just that. You walk in expecting a typical stay, but there\u2019s something about the way the staff greets you\u2014not overly formal, not indifferent\u2014just the right balance of warmth and efficiency. It\u2019s the kind of place where things work the way they should, where you don\u2019t have to ask twice for something, and where comfort is not an afterthought but a quiet assurance.\n\nThe rooms have a certain simplicity to them, no unnecessary extravagance, but everything is where it needs to be. A bed that makes you feel at home, a space that doesn\u2019t feel too cramped, and a window that lets in just enough of the city to remind you that you\u2019re still connected to the world outside. It\u2019s not about grand views or luxury, but about the subtle details that make a space feel like it was prepared with care.\n\nThere\u2019s always a moment in a stay when you realize whether a place understands its guests or not. Maybe it\u2019s when you ask for something and it arrives before you\u2019ve had a chance to check your phone again, or when the people at the desk remember your face, not as a duty but as a natural part of their work. It\u2019s in these small things that a place sets itself apart.\n\nNot everything is perfect, of course. There are things one could nitpick\u2014maybe a meal that took a little longer than expected, or a corner that could use a bit more attention. But does it matter when the overall experience leaves you feeling like you made the right choice? Some places offer more than what\u2019s written in their descriptions. They offer a sense of ease, a feeling that you weren\u2019t just passing through, but that for a brief time, you belonged.\n\nIf you understand what I mean, then you know exactly the kind of place I\u2019m talking about.",
+      "Excellent stay, great location...on road property Adjacent to sapphire 83 mall..convenience for everything you need."
+    ],
+    "negative_snippets": [
+      "The worst hotel that I have seen till now, the person was drunk whole day and on checkin he told us to increase or give around 1000 rs extra for the same room that we already booked online and told you goy this room cheap and you need to pay extra for this room as my owner will scold me and after paying extra also ,gave the room without ac and staff was completely cheap and the white tshirt guy was drunk entire day and night and was talking in weird way . I don't know why they keep staff that is cheap and don't know how to talk to customers properly and charged us extra . Location is nice but staff misbehaviour and cheapness make it useless and completely unsafe if you are coming with your family or wife"
+    ]
+  },
+  "review_summary": "Based on 5 reviews.",
+  "positive_themes": {
+    "clean_rooms": 1,
+    "friendly_staff": 4,
+    "good_location": 4,
+    "great_value": 2
+  },
+  "negative_themes": {}
+}

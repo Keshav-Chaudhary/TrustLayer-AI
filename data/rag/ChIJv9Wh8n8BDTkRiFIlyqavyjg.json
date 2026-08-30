@@ -1,0 +1,52 @@
+{
+  "hotel_id": "ChIJv9Wh8n8BDTkRiFIlyqavyjg",
+  "hotel_name": "Hotel Knight Inn",
+  "area": "Rohini",
+  "budget_category": "Budget",
+  "rating": 4.6,
+  "trust_score": 0.757524964470842,
+  "travel_purpose_tags": [
+    "Budget"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "rich",
+    "review_count": 5,
+    "positive_snippet_count": 3,
+    "negative_snippet_count": 2,
+    "positive_theme_count": 3,
+    "negative_theme_count": 2
+  },
+  "aspect_scores": {
+    "cleanliness": 0.4996977376868017,
+    "service": 0.5016557025955989,
+    "location": 0.5,
+    "value_for_money": 0.5,
+    "staff_behavior": 0.7503877156996168
+  },
+  "recommendation_features": {
+    "popularity_score": 0.4758739902810327,
+    "rating_score": 4.6,
+    "sentiment_score": 0.6005173912039027
+  },
+  "review_evidence": {
+    "positive_snippets": [
+      "Best oyo hotel i ever visit only one problem that staff is too slow but overall i had a good experience and room condition was also good the air conditioner were working properly this hotel is best for couples",
+      "Best hotel \ud83d\udc4d\nWell furnished ventilated clean rooms\nComfortable bed... very polite staff.. reasonable rent.\nMatchless Overall experience .\ud83d\ude0d\ud83d\ude0d\ud83d\ude0d",
+      "I had a wonderful experience at Hotel La Vidila. Every staff member I encountered, was delightful and eager to help! Thank you! Will recommend to my colleagues!"
+    ],
+    "negative_snippets": [
+      "Too Dirty and bad condition\nT V not working in any room and bathroom water leakage from toilet\nNot oyo rooms\nBad smell of all rooms",
+      "No parking is the main issue, plus staff is too slow, work as they feel convenient. Front road also feel to much crowded with small scale industry transport vehicles, e rikshw. Buses, trucks, etc."
+    ]
+  },
+  "review_summary": "Based on 5 reviews.",
+  "positive_themes": {
+    "friendly_staff": 4,
+    "clean_rooms": 1,
+    "good_location": 1
+  },
+  "negative_themes": {
+    "dirty_rooms": 1,
+    "parking_issues": 1
+  }
+}

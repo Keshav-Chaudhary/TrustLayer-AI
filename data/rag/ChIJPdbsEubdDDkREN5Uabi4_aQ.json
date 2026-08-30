@@ -1,0 +1,53 @@
+{
+  "hotel_id": "ChIJPdbsEubdDDkREN5Uabi4_aQ",
+  "hotel_name": "Park Plaza Faridabad",
+  "area": "Sector 21C",
+  "budget_category": "Mid-Range",
+  "rating": 4.3,
+  "trust_score": 0.8562053359931822,
+  "travel_purpose_tags": [
+    "Leisure",
+    "Business"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "moderate",
+    "review_count": 5,
+    "positive_snippet_count": 3,
+    "negative_snippet_count": 1,
+    "positive_theme_count": 4,
+    "negative_theme_count": 2
+  },
+  "aspect_scores": {
+    "cleanliness": 0.999857097864151,
+    "service": 0.9998540282249452,
+    "location": 0.9998435974121094,
+    "value_for_money": 0.5,
+    "staff_behavior": 0.7999300172086805
+  },
+  "recommendation_features": {
+    "popularity_score": 0.8282072013097816,
+    "rating_score": 4.3,
+    "sentiment_score": 0.7999300172086805
+  },
+  "review_evidence": {
+    "positive_snippets": [
+      "We had a great stay at Park Plaza, Faridabad. From arrival to departure, everything was smooth and well managed. Cleanliness and hygiene were excellent, and the staff was courteous and always responsive-our calls were answered promptly, even early in the morning. The cab driver arranged for us was humble and punctual, and the food was good as well. Overall, a comfortable and pleasant experience. Highly recommended",
+      "\"I recently had a fantastic stay at this hotel and I couldn't be happier! The staff were super friendly and helpful, and the room was spotless and comfy. The breakfast spread was amazing, with plenty of options to choose from. The location was also great, with plenty of restaurants and attractions nearby. Would definitely recommend this hotel to anyone visiting the area!\" \ud83d\ude0a",
+      "I stayed at the hotel for a full month, and it was an excellent experience in every way.\nThe service was outstanding, the hotel was comfortable and clean, and the staff were polite and helpful.\nThey provided exceptional services that made my stay very comfortable and enjoyable.\n\nI want to give a special thank you to Shivam Kumar Ji for his excellent service and polite demeanor. The room was immaculate thanks to his efforts.\n\nI highly recommend this hotel and gladly give it 5 well-deserved stars!"
+    ],
+    "negative_snippets": [
+      "Poor experience with rude, disinterested restaurant staff who barely bothered to serve properly. The food was frankly inedible\u2014completely tasteless and disappointing. Strongly advise skipping this hotel if decent food and basic courtesy matter to you."
+    ]
+  },
+  "review_summary": "Based on 5 reviews.",
+  "positive_themes": {
+    "clean_rooms": 4,
+    "friendly_staff": 5,
+    "good_food": 4,
+    "good_location": 2
+  },
+  "negative_themes": {
+    "rude_staff": 1,
+    "bad_food": 1
+  }
+}

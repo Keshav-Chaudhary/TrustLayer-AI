@@ -1,0 +1,48 @@
+{
+  "hotel_id": "ChIJY6PJh2kcDTkRybb5KBGcqIY",
+  "hotel_name": "Ibis New Delhi Aerocity",
+  "area": "New Delhi",
+  "budget_category": "Mid-Range",
+  "rating": 4.5,
+  "trust_score": 0.9780739710729422,
+  "travel_purpose_tags": [
+    "Leisure",
+    "Business"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "moderate",
+    "review_count": 5,
+    "positive_snippet_count": 3,
+    "negative_snippet_count": 0,
+    "positive_theme_count": 4,
+    "negative_theme_count": 0
+  },
+  "aspect_scores": {
+    "cleanliness": 0.9992419332265854,
+    "service": 0.9992530792951584,
+    "location": 0.9990509152412416,
+    "value_for_money": 0.5,
+    "staff_behavior": 0.9993683457374573
+  },
+  "recommendation_features": {
+    "popularity_score": 0.9770229796437616,
+    "rating_score": 4.5,
+    "sentiment_score": 0.9993683457374573
+  },
+  "review_evidence": {
+    "positive_snippets": [
+      "I was delighted with the cleanliness of my room during my recent stay. Mr. Pradeep Kumar did an excellent job ensuring everything was spotless and tidy.  Not even a small area was overlooked\u2014the cleaning was meticulous. Returning to such a clean and peaceful environment every evening was refreshing. The staff maintained high hygiene standards throughout my visit, which made me feel comfortable and relaxed. The cleanliness here truly stands out and makes the overall stay exceptional.e",
+      "I recently stayed at the ibis New Delhi Aerocity to catch an early morning flight, and the location proved to be absolutely perfect for a stress-free departure.\n\nThe Highlights:\nAccor Gold Recognition: I was greeted warmly during check-in and immediately offered my welcome drinks. The staff went above and beyond by providing a recently renovated room on the 7th floor, which was a fantastic gesture.\n\nThe Room: While the rooms are compact (as expected with the ibis brand), it was very cozy, clean, and well-designed. I also appreciated the welcome fruit platter waiting for me\u2014a very thoughtful touch!\n\nDining: For a 3-star hotel, the dinner buffet was impressively huge with plenty of variety. I also tried the In-Room Dining; the food arrived in about 30 minutes, which was perfectly acceptable.\n\nArea for Improvement:\nThe only major letdown was the packed breakfast. Since I had an early flight, I requested a breakfast box, but it was quite disappointing by Accor standards. It contained only two bananas and a very small sandwich. Given the quality of the rest of the stay, this felt very underwhelming and definitely needs improvement in terms of quantity and variety.\n\nVerdict:\nOverall, a great choice for transit and business travelers. The service from the front office team is excellent. If they can fix the breakfast box experience, it would be a 5-star stay!",
+      "I had a wonderful experience at this hotel. Its location is perfect \u2014 just a few minutes from the airport, which made my travel so convenient and stress-free.\nThe staff truly stood out during my stay. Everyone was incredibly helpful, polite, and always ready to assist with a smile. Their hospitality made me feel comfortable and welcomed from check-in to check-out.\nThe breakfast was another highlight! There was a great variety of fresh and delicious options to choose from, and everything was well presented and tasty. It was the perfect way to start the day.\nHighly recommend this hotel for anyone looking for comfort, convenience, and excellent service near the airport"
+    ],
+    "negative_snippets": []
+  },
+  "review_summary": "Based on 5 reviews.",
+  "positive_themes": {
+    "clean_rooms": 4,
+    "friendly_staff": 5,
+    "good_location": 3,
+    "good_food": 4
+  },
+  "negative_themes": {}
+}

@@ -1,0 +1,50 @@
+{
+  "hotel_id": "ChIJd-3rnjD9DDkRh4jC5r1Deec",
+  "hotel_name": "Hotel The Class",
+  "area": "Mahipalpur",
+  "budget_category": "Mid-Range",
+  "rating": 3.4,
+  "trust_score": 0.6155871551585954,
+  "travel_purpose_tags": [
+    "Leisure"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "rich",
+    "review_count": 5,
+    "positive_snippet_count": 3,
+    "negative_snippet_count": 2,
+    "positive_theme_count": 4,
+    "negative_theme_count": 0
+  },
+  "aspect_scores": {
+    "cleanliness": 0.5,
+    "service": 0.6669197634328157,
+    "location": 0.9997425675392152,
+    "value_for_money": 0.3337412270290467,
+    "staff_behavior": 0.5002226823853562
+  },
+  "recommendation_features": {
+    "popularity_score": 0.559130295969598,
+    "rating_score": 3.4,
+    "sentiment_score": 0.6001266594161281
+  },
+  "review_evidence": {
+    "positive_snippets": [
+      "The hotel staff was very polite and the service was very good...Rooms are comfortable and affordable...",
+      "Excellent hotel good room service excellent location \ud83d\udc4d",
+      "Good manager and staff they are very humble and kind while ordering food I asked them are you using different pans for veg and non veg they honestly replied no sir we use same, that\u2019s very honest answer by the manager I am impressed because they didn\u2019t tell a lie"
+    ],
+    "negative_snippets": [
+      "Avoid staying at this hotel. It's like paying to be robbed. In January 2025, my friends and I booked two rooms for two days. While we were out during the day, all our money and gold jewelry were stolen from our locked rooms. The staff's response was terrible\u2014they refused to take responsibility, did not offer any support, and even accused us of lying. The hotel's security cameras were poorly positioned, with their views obstructed by unnecessary doors in the corridors, making it impossible to identify who entered our rooms. Although the Delhi police assisted us, they couldn\u2019t gather any evidence due to the camera setup. We suffered a significant loss.",
+      "\u201cI had a very unpleasant experience at this hotel. Upon checking in, the reception asked me to pay extra money because I am a foreigner, which I found discriminatory and unfair. When I refused to pay, they tried to prevent me from leaving the premises. Thankfully, I was able to leave the hotel, but I strongly advise other travelers to be cautious. This kind of behavior is not acceptable, and I would not recommend staying here.\u201d"
+    ]
+  },
+  "review_summary": "Based on 5 reviews.",
+  "positive_themes": {
+    "friendly_staff": 3,
+    "great_value": 1,
+    "good_location": 1,
+    "good_food": 1
+  },
+  "negative_themes": {}
+}

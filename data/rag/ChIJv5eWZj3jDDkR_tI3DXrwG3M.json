@@ -1,0 +1,50 @@
+{
+  "hotel_id": "ChIJv5eWZj3jDDkR_tI3DXrwG3M",
+  "hotel_name": "Super Hotel O Malviya Nagar Inn",
+  "area": "Delhi",
+  "budget_category": "Budget",
+  "rating": 4.2,
+  "trust_score": 0.6999555855853717,
+  "travel_purpose_tags": [
+    "Business"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "rich",
+    "review_count": 5,
+    "positive_snippet_count": 3,
+    "negative_snippet_count": 2,
+    "positive_theme_count": 4,
+    "negative_theme_count": 0
+  },
+  "aspect_scores": {
+    "cleanliness": 0.996665894985199,
+    "service": 0.996665894985199,
+    "location": 0.4985956472519319,
+    "value_for_money": 0.4999276571179507,
+    "staff_behavior": 0.9982152581214904
+  },
+  "recommendation_features": {
+    "popularity_score": 0.45663111472159,
+    "rating_score": 4.2,
+    "sentiment_score": 0.5995685357018374
+  },
+  "review_evidence": {
+    "positive_snippets": [
+      "Satisfactory experience in terms of affordable price for double bedded rooms.\nOverall the place was quiet, clean and spacious for short term stay.\nStaffs were helpful and considerate too.\nLocation could have been better as it's quite inside the residential area of Malviya Nagar, but autorickshaw and Metro service within walking distance.\nConsult Google maps for accurate location.",
+      "Very good hotel affordable price staff also good \ud83d\ude0a\ud83d\udc4d\ud83d\udcaf",
+      "Very nice Hotel \ud83c\udfe8 and so looking room\nHelp full sttap"
+    ],
+    "negative_snippets": [
+      "Faculty is very aggressive. They are asking for extra money inspite of booking. They threw out baggage outside and start fighting.",
+      "\u26a0\ufe0f Beware \u2013 Fake Hotel Listing!\nI booked this hotel online through OYO and paid \u20b91000 in advance. The listing promised a refund on cancellation. But when I reached the location, there was no hotel at all \u2013 it simply didn\u2019t exist!\n\nI immediately filed a complaint, but till now, I haven\u2019t received any refund. This feels like a complete scam.\nDo not trust this listing. Don\u2019t waste your money like I did."
+    ]
+  },
+  "review_summary": "Based on 5 reviews.",
+  "positive_themes": {
+    "clean_rooms": 1,
+    "friendly_staff": 2,
+    "good_location": 2,
+    "great_value": 2
+  },
+  "negative_themes": {}
+}

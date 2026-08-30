@@ -1,0 +1,48 @@
+{
+  "hotel_id": "ChIJAd3619A9DTkR4UZYACYhK9E",
+  "hotel_name": "Hotel Sai Village 281",
+  "area": "Imt Manesar",
+  "budget_category": "Mid-Range",
+  "rating": 4.8,
+  "trust_score": 0.8674795808171317,
+  "travel_purpose_tags": [
+    "Leisure",
+    "Business"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "moderate",
+    "review_count": 5,
+    "positive_snippet_count": 3,
+    "negative_snippet_count": 0,
+    "positive_theme_count": 4,
+    "negative_theme_count": 0
+  },
+  "aspect_scores": {
+    "cleanliness": 0.9998259345690408,
+    "service": 0.9998684525489806,
+    "location": 0.9998611211776732,
+    "value_for_money": 0.5,
+    "staff_behavior": 0.999830941359202
+  },
+  "recommendation_features": {
+    "popularity_score": 0.2690641681418895,
+    "rating_score": 4.8,
+    "sentiment_score": 0.9996964335441588
+  },
+  "review_evidence": {
+    "positive_snippets": [
+      "I had an amazing experience during my stay. The rooms were exceptionally clean, well-maintained, and comfortable. The staff was polite, professional, and always ready to help. The ambience of the property was relaxing, and all the amenities worked perfectly. The food was great, and the service was quick. Overall, a perfect blend of comfort and hospitality.",
+      "Amazing place to stay. The staff at this hotel were incredibly welcoming and helpful from the moment we arrived. Our room was immaculate, very comfortable, and quiet\u2014perfect for relaxing after a long day. The breakfast each morning was delicious with a variety of choices, and the hotel\u2019s location was ideal for accessing all the main attractions nearby. Overall, every part of our stay exceeded expectations, from the seamless check-in to the attentive staff who genuinely cared about making our visit special. Highly recommended for anyone seeking comfort and outstanding service.",
+      "Finest property,  rooms are very spacious neat and clean,staff is very helpfull we book 3 rooms for 3 nights Evertything was perfect .recommend everyone to stay at SAI VILLAGE"
+    ],
+    "negative_snippets": []
+  },
+  "review_summary": "Based on 5 reviews.",
+  "positive_themes": {
+    "clean_rooms": 3,
+    "friendly_staff": 3,
+    "good_food": 2,
+    "good_location": 1
+  },
+  "negative_themes": {}
+}

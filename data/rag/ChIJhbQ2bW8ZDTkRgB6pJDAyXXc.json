@@ -1,0 +1,52 @@
+{
+  "hotel_id": "ChIJhbQ2bW8ZDTkRgB6pJDAyXXc",
+  "hotel_name": "Limewood Stay | Unitech Cyber Park",
+  "area": "Sector 45",
+  "budget_category": "Budget",
+  "rating": 4.8,
+  "trust_score": 0.8009805061907784,
+  "travel_purpose_tags": [
+    "Leisure"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "rich",
+    "review_count": 5,
+    "positive_snippet_count": 3,
+    "negative_snippet_count": 2,
+    "positive_theme_count": 4,
+    "negative_theme_count": 1
+  },
+  "aspect_scores": {
+    "cleanliness": 0.666705763307012,
+    "service": 0.5001199185353471,
+    "location": 0.9998655319213868,
+    "value_for_money": 0.5,
+    "staff_behavior": 0.9997684359550476
+  },
+  "recommendation_features": {
+    "popularity_score": 0.5556258741189108,
+    "rating_score": 4.8,
+    "sentiment_score": 0.6002221622446087
+  },
+  "review_evidence": {
+    "positive_snippets": [
+      "Perfect Staycation Spot in Gurgaon!\n\nI stayed in a 1BHK at Limewood Stay, Gurugram, and absolutely loved the experience. The room was spacious, clean, and very comfortable \u2014 perfect for a relaxing getaway or a work-from-home staycation.\n\nThe location is great \u2014 peaceful yet close to everything you need. The food was delicious, and the service was excellent throughout my stay.\n\nHighly recommend Limewood Stay if you\u2019re looking for a cozy, comfortable, and well-managed place in Gurgaon! \ud83c\udf3f\ud83c\udfe1",
+      "Amazing experience\nPolite staff\nGot upgraded room during check in\nThanks to ganesh\nWonderful privacy",
+      "We stayed for 3 days. It was a great experience. The staff is friendly and helpful, the food is delicious and amazing and the rooms are clean & comfortable. Will definitely consider staying here again in the future."
+    ],
+    "negative_snippets": [
+      "I am extremely disappointed with the poor service standards and lack of basic amenities during my stay. When I requested a dental kit, the receptionist outright denied it, stating it was \u201cnot available\u201d.\nThe rooms were dirty. The people at reception ask you to give 4 or 5ratings at the time of check out. They are least bothered of the issues.",
+      "I have other options to book at the same rate, but seeing its ratings I booked this. Soundproofing and privacy is quite well, but the lightings are very bad. Booked delux room instead of ordinary and guess what there is no toiletries, no dental kit, no carpets, initially got only towel I asked for 2 and they gave but I should not have to ask this. No soap dispensers working properly,\nDinner was ok but breakfast - wahiyat, paid more for the included breakfast pack.\nChairs were broken. Table and chair height not matching. No shaving kit no slippers"
+    ]
+  },
+  "review_summary": "Based on 5 reviews.",
+  "positive_themes": {
+    "clean_rooms": 2,
+    "good_location": 1,
+    "good_food": 3,
+    "friendly_staff": 2
+  },
+  "negative_themes": {
+    "dirty_rooms": 1
+  }
+}

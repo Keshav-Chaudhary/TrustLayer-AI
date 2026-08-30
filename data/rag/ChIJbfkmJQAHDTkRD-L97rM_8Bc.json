@@ -1,0 +1,47 @@
+{
+  "hotel_id": "ChIJbfkmJQAHDTkRD-L97rM_8Bc",
+  "hotel_name": "Hotel Town Stay",
+  "area": "Budh Vihar",
+  "budget_category": "Budget",
+  "rating": 4.6,
+  "trust_score": 0.7917154466474337,
+  "travel_purpose_tags": [
+    "Business"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "moderate",
+    "review_count": 5,
+    "positive_snippet_count": 3,
+    "negative_snippet_count": 1,
+    "positive_theme_count": 2,
+    "negative_theme_count": 0
+  },
+  "aspect_scores": {
+    "cleanliness": 0.4731078520417213,
+    "service": 0.9980502128601074,
+    "location": 0.5,
+    "value_for_money": 0.9980502128601074,
+    "staff_behavior": 0.9998631477355956
+  },
+  "recommendation_features": {
+    "popularity_score": 0.3543615015642497,
+    "rating_score": 4.6,
+    "sentiment_score": 0.7886915594339371
+  },
+  "review_evidence": {
+    "positive_snippets": [
+      "All working neat and cleans room mila tha mujhe or water bhi luxury hotel\nThe best",
+      "All good all working\nTv ok tha\nWifi ok tha\nAnd room neat and clean tha\nNext time visit karunga jarur jabhi delhi aaonga tb",
+      "Very nice hotel all working and staff good\nManager very well"
+    ],
+    "negative_snippets": [
+      "Hotel best room neat and clean room mila tha next visit karunga ise hotel me"
+    ]
+  },
+  "review_summary": "Based on 5 reviews.",
+  "positive_themes": {
+    "clean_rooms": 3,
+    "friendly_staff": 1
+  },
+  "negative_themes": {}
+}

@@ -1,0 +1,50 @@
+{
+  "hotel_id": "ChIJFY4uPHjfDDkR79j1cq2_-W8",
+  "hotel_name": "Oyo Hotel Akashdeep",
+  "area": "Sarurpur",
+  "budget_category": "Budget",
+  "rating": 4.0,
+  "trust_score": 0.5888975935908635,
+  "travel_purpose_tags": [
+    "Budget"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "moderate",
+    "review_count": 5,
+    "positive_snippet_count": 1,
+    "negative_snippet_count": 3,
+    "positive_theme_count": 2,
+    "negative_theme_count": 2
+  },
+  "aspect_scores": {
+    "cleanliness": 0.0005211058305576,
+    "service": 0.000300114363199,
+    "location": 0.5,
+    "value_for_money": 0.5,
+    "staff_behavior": 0.0005277592426863
+  },
+  "recommendation_features": {
+    "popularity_score": 0.3900141789323282,
+    "rating_score": 4.0,
+    "sentiment_score": 0.3792156039911788
+  },
+  "review_evidence": {
+    "positive_snippets": [
+      "It is good i want to visit once again"
+    ],
+    "negative_snippets": [
+      "Nothing is right, everything is useless, from the head to the staff, everything is clean till the end, till then it was fine, but now there is no cleanliness at all.",
+      "Disgusting hotel. Original photos and photos on app are totally different. Pathetic services, dirty rooms, smelly bathrooms and even water was dripping off the bathroom door. Pictures are absolute fraud. Worst stay ever!",
+      "Every thing is good this hotel. Only problem they are not accept online booking. If any online booking  customers come, they not gave  respect."
+    ]
+  },
+  "review_summary": "Based on 5 reviews.",
+  "positive_themes": {
+    "clean_rooms": 1,
+    "friendly_staff": 2
+  },
+  "negative_themes": {
+    "dirty_rooms": 1,
+    "rude_staff": 1
+  }
+}

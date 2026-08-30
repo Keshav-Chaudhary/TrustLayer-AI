@@ -1,0 +1,49 @@
+{
+  "hotel_id": "ChIJFQ0O2UAcDTkRbl1w-7nT3-M",
+  "hotel_name": "Hotel O Ny Plaza",
+  "area": "Delhi",
+  "budget_category": "Mid-Range",
+  "rating": 3.4,
+  "trust_score": 0.4250431866843214,
+  "travel_purpose_tags": [
+    "Budget"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "moderate",
+    "review_count": 5,
+    "positive_snippet_count": 0,
+    "negative_snippet_count": 3,
+    "positive_theme_count": 3,
+    "negative_theme_count": 2
+  },
+  "aspect_scores": {
+    "cleanliness": 0.0009587872191332,
+    "service": 0.0004031456483062,
+    "location": 0.0012870352948084,
+    "value_for_money": 0.0003163949586451,
+    "staff_behavior": 0.0007243417785502
+  },
+  "recommendation_features": {
+    "popularity_score": 0.5613953666841924,
+    "rating_score": 3.4,
+    "sentiment_score": 0.00138008329086
+  },
+  "review_evidence": {
+    "positive_snippets": [],
+    "negative_snippets": [
+      "Very bad experience i have made it.. oyo app showing different rate ..but in hotel showing higher rate ..this is not good for customer.. please maintain a same rate in app or physically visit..hope In future it will not repeated again .. kindly look into this matter ..",
+      "Staff was not cooperating with customers, even for a water bottle I have to say 10-15 times. Also they change more and also the bed sheet was also dirty like someone previous used and didn't clean it properly.",
+      "Scam!!!\nThere is no such hotel. I went to the location and found nothing then they gave me another location and again there was no such hotel. This is a complete scam. Don't ever book this . Don't ever pay advance payment to OYO. They all are running this scam in a collaboration."
+    ]
+  },
+  "review_summary": "Based on 5 reviews.",
+  "positive_themes": {
+    "clean_rooms": 1,
+    "friendly_staff": 1,
+    "good_location": 1
+  },
+  "negative_themes": {
+    "dirty_rooms": 1,
+    "rude_staff": 1
+  }
+}

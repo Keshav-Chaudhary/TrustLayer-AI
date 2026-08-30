@@ -1,0 +1,49 @@
+{
+  "hotel_id": "ChIJj9ohA_sZDTkRzpldRlEu7O8",
+  "hotel_name": "Zen Suites - Gurgaon",
+  "area": "Sector 14",
+  "budget_category": "Mid-Range",
+  "rating": 4.8,
+  "trust_score": 0.9297874980598456,
+  "travel_purpose_tags": [
+    "Leisure",
+    "Business",
+    "Family"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "moderate",
+    "review_count": 5,
+    "positive_snippet_count": 3,
+    "negative_snippet_count": 0,
+    "positive_theme_count": 4,
+    "negative_theme_count": 0
+  },
+  "aspect_scores": {
+    "cleanliness": 0.9998018741607666,
+    "service": 0.9998490810394288,
+    "location": 0.9998549620310464,
+    "value_for_money": 0.9998314380645752,
+    "staff_behavior": 0.9998490810394288
+  },
+  "recommendation_features": {
+    "popularity_score": 0.5618418414661358,
+    "rating_score": 4.8,
+    "sentiment_score": 0.9998077869415284
+  },
+  "review_evidence": {
+    "positive_snippets": [
+      "I recently stayed at this hotel, and it was truly one of the best experiences I\u2019ve had so far.\nThe location was very easy to find and situated in a convenient and well-known area, which made traveling around very comfortable. The room was exactly as shown in the pictures\u2014neat, tidy, and beautifully maintained. I would happily rate it 10/10 for hygiene and cleanliness.\nComing to the food, it was absolutely delicious! The quantity of the \u00e0 la carte dishes was very generous, with a great variety of options. I especially loved the Prawn Curry, Bhindi Do Pyaza, and Dal Makhani\u2014they were incredibly tasty.\nThe service was outstanding. Sidharth at the reception was amazing and extremely helpful. He patiently answered all my questions, helped me choose a great room, and made the booking process smooth and hassle-free. Jyoti was also very approachable, soft-spoken, and welcoming.\nA special thanks to Anurag, Yogesh, and Narayan for their excellent service. They were very attentive, quick to assist, and always ready to help with a smile.\nOverall, this has been the best stay I\u2019ve experienced so far. Thank you, Sidharth, Jyoti, Anurag, Yogesh, and Narayan. I truly appreciate all your hard work\ud83d\ude0a",
+      "I really liked my stay at Zen Suites. Every aspect of our visit was excellent. Our room was more of an apartment than a hotel room, with a full service kitchen and separate living room and bedroom. The food service was received quickly after we ordered and delicious, and I was able to get in a good workout at the gym. The hotel had all of the amenities of a very expensive hotel at a fraction of the price. Every interaction with the hotel staff was a pleasure. Every member was courteous, polite, helpful, and delivered excellent customer service. They went above and beyond to make sure all our needs were met. I give them the highest recommendation.",
+      "Really comfortable service apartments. The locality is really nice and the proximity to the airport and Gurgaon is quite well connected by highways. The rooms are really clean and the kitchen makes good food. There is no trouble with cab booking or ordering groceries. The staff is really welcoming and helpful, and overall quite satisfied with my stay at Zen Suites Gurgaon."
+    ],
+    "negative_snippets": []
+  },
+  "review_summary": "Based on 5 reviews.",
+  "positive_themes": {
+    "clean_rooms": 4,
+    "friendly_staff": 5,
+    "good_location": 2,
+    "good_food": 4
+  },
+  "negative_themes": {}
+}

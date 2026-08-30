@@ -1,0 +1,46 @@
+{
+  "hotel_id": "ChIJS-KftYABDTkRmu7Uh_Lzeqg",
+  "hotel_name": "Oyo 46841 Aashiana Guest House",
+  "area": "Burari",
+  "budget_category": "Budget",
+  "rating": 3.1,
+  "trust_score": 0.49604737449107,
+  "travel_purpose_tags": [
+    "Budget"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "sparse",
+    "review_count": 5,
+    "positive_snippet_count": 1,
+    "negative_snippet_count": 3,
+    "positive_theme_count": 1,
+    "negative_theme_count": 0
+  },
+  "aspect_scores": {
+    "cleanliness": 0.5,
+    "service": 0.0002105089806718,
+    "location": 0.5,
+    "value_for_money": 0.9883217215538024,
+    "staff_behavior": 0.5
+  },
+  "recommendation_features": {
+    "popularity_score": 0.3433971007311961,
+    "rating_score": 3.1,
+    "sentiment_score": 0.494266115267237
+  },
+  "review_evidence": {
+    "positive_snippets": [
+      "Good"
+    ],
+    "negative_snippets": [
+      "Worst ever service,no cleanliness,poor cab service,infact very poor,very congested area",
+      "Bad odour",
+      "Very bad"
+    ]
+  },
+  "review_summary": "Based on 5 reviews.",
+  "positive_themes": {
+    "clean_rooms": 1
+  },
+  "negative_themes": {}
+}

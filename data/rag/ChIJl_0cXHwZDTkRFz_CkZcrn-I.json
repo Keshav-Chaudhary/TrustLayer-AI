@@ -1,0 +1,53 @@
+{
+  "hotel_id": "ChIJl_0cXHwZDTkRFz_CkZcrn-I",
+  "hotel_name": "Maison 42 By Onetree",
+  "area": "Sector 42",
+  "budget_category": "Mid-Range",
+  "rating": 4.3,
+  "trust_score": 0.5954364597694148,
+  "travel_purpose_tags": [
+    "Budget"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "moderate",
+    "review_count": 5,
+    "positive_snippet_count": 1,
+    "negative_snippet_count": 3,
+    "positive_theme_count": 4,
+    "negative_theme_count": 3
+  },
+  "aspect_scores": {
+    "cleanliness": 0.000462910538772,
+    "service": 0.2501628595709916,
+    "location": 0.5,
+    "value_for_money": 0.0005669358652084,
+    "staff_behavior": 0.0006837222899775
+  },
+  "recommendation_features": {
+    "popularity_score": 0.5016676827397029,
+    "rating_score": 4.3,
+    "sentiment_score": 0.2002752029977272
+  },
+  "review_evidence": {
+    "positive_snippets": [
+      "Good stay for a family of six. Spacious open from both side. The pollution was an issue which was a general Gurgaon issue and not of the property. Thanks to Mehadi, Ankit, Subhash and Tejpal for providing a responsive service."
+    ],
+    "negative_snippets": [
+      "We had a disappointing stay overall. The property felt below average for the price. We booked mainly for the jacuzzi, but it was not maintained and never worked despite trying multiple times \u2014 even with staff assisting us.\nThe room also wasn\u2019t in great condition: the bed was noisy and uncomfortable, and there was no running water in the washroom in the morning, which was very inconvenient.\nThe only positive was that the staff were quick to respond and genuinely tried to help, but unfortunately the facilities themselves were just not up to the mark.\nWould not recommend for the price charged.",
+      "Most worst property that I have ever booked in my life. Pointless overpriced property. There room having foul smells and Dirty bedsheet and towels having blood stains on them. Mattresses so hard and smelling that no want to sit on them. Please avoid this type of property. Very unprofessional staff on the reception also",
+      "I had stayed at this property from 24th sep to 26th\nI had a very disappointing experience at this hotel. The room was not clean upon arrival \u2013 the floors were dirty, the bathroom had grime buildup, and the linens looked questionable.\n\nTo make matters worse, the jacuzzi, which was one of the main reasons I booked this hotel, was not working at all. When we called reception they said someone will come but no one came and when went to the reception no one was around.\n\nOn top of that, the room and surrounding areas had a serious issue with flies and insects, making it very uncomfortable to relax or sleep. It\u2019s clear that proper cleanliness and maintenance standards are not being upheld.\n\nUnfortunately, I cannot recommend this place based on my experience. Definitely not worth the money, and I hope management takes steps to improve.\n\nAlso the photos which are posted on the website and actual room when you see it its a huge difference"
+    ]
+  },
+  "review_summary": "Based on 5 reviews.",
+  "positive_themes": {
+    "friendly_staff": 3,
+    "good_location": 1,
+    "clean_rooms": 2,
+    "great_value": 1
+  },
+  "negative_themes": {
+    "noise": 1,
+    "dirty_rooms": 3,
+    "rude_staff": 2
+  }
+}

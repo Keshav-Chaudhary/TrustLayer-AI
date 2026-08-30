@@ -1,0 +1,52 @@
+{
+  "hotel_id": "ChIJE9ZNnEoYDTkRKUGTJncZXrI",
+  "hotel_name": "Dahabi City Mark Hotel",
+  "area": "Sector 12A",
+  "budget_category": "Mid-Range",
+  "rating": 4.1,
+  "trust_score": 0.7233783848090509,
+  "travel_purpose_tags": [
+    "Leisure"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "rich",
+    "review_count": 5,
+    "positive_snippet_count": 3,
+    "negative_snippet_count": 2,
+    "positive_theme_count": 4,
+    "negative_theme_count": 1
+  },
+  "aspect_scores": {
+    "cleanliness": 0.500115834409371,
+    "service": 0.5002454237546772,
+    "location": 0.999881148338318,
+    "value_for_money": 0.5,
+    "staff_behavior": 0.6668770581794282
+  },
+  "recommendation_features": {
+    "popularity_score": 0.6283498365600062,
+    "rating_score": 4.1,
+    "sentiment_score": 0.6001719249412417
+  },
+  "review_evidence": {
+    "positive_snippets": [
+      "The hotel service is excellent, and the staff is very courteous. The hotel manager, in particular, was extremely kind and helpful.\n\nWe were late to reach the hotel, and the breakfast buffet usually closes at 10:30 a.m. Due to some delays, we arrived past that time. However, the manager assured us, \u201cWe don\u2019t allow any guest to leave on an empty stomach.\u201d True to his word, he arranged a fresh and hot breakfast for us, even after the buffet had officially closed.\n\nThis thoughtful gesture and the prompt service truly impressed us. It reflects the hotel\u2019s genuine commitment to guest satisfaction. Highly recommended!",
+      "Good meal and great stay. Highly recommend",
+      "The staff was incredibly friendly and accommodating, always going the extra mile  ensure a comfortable stay. The room was clean, spacious, and tastefully decorated, making me feel right at home. The hotel's location was also convenient, with easy access to nearby attractions and amenities. The breakfast options were varied and delicious, providing a great start to each day. Overall, hotel provided excellent service, comfortable accommodations, and a delightful experience. I would highly recommend it to anyone visiting the area."
+    ],
+    "negative_snippets": [
+      "Worst experience of stay in a hotel throughout my life.\nStinking rooms , dirty taps , no hot water provision for bathing.\nDid not provide food for Navratri fast even on repeated request.The hotel was  recommended by Mr Nikhil Sood SM front desk from Country Inn  by Radisson",
+      "Overall the room was good but the room service was not upto the mark, have to call reception 3-4 for a single request. We have an issue with the Room AC and I\u2019ve communicated the same to the Reception multiple times, they got checked this in the night and changed our room. While shifting the room we forgot some eatables in the fridge and we reminded this in the morning and found that all these was already thrown to the dustbin despite being unopened.This is a pure negligence from the hotel staff and can\u2019t be expected."
+    ]
+  },
+  "review_summary": "Based on 5 reviews.",
+  "positive_themes": {
+    "friendly_staff": 3,
+    "good_food": 3,
+    "clean_rooms": 1,
+    "good_location": 1
+  },
+  "negative_themes": {
+    "dirty_rooms": 1
+  }
+}

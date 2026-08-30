@@ -1,0 +1,52 @@
+{
+  "hotel_id": "ChIJO4bEjrL7DDkR_Sj7Ag-P-Pk",
+  "hotel_name": "Hotel O Santosh Residency",
+  "area": "Shahdara",
+  "budget_category": "Mid-Range",
+  "rating": 3.6,
+  "trust_score": 0.4822138819944604,
+  "travel_purpose_tags": [
+    "Budget"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "moderate",
+    "review_count": 5,
+    "positive_snippet_count": 1,
+    "negative_snippet_count": 3,
+    "positive_theme_count": 3,
+    "negative_theme_count": 3
+  },
+  "aspect_scores": {
+    "cleanliness": 0.0003761009429581,
+    "service": 0.005920701213957,
+    "location": 0.0069642375747207,
+    "value_for_money": 0.5,
+    "staff_behavior": 0.0021048647176939
+  },
+  "recommendation_features": {
+    "popularity_score": 0.4019141636564786,
+    "rating_score": 3.6,
+    "sentiment_score": 0.2035620334383565
+  },
+  "review_evidence": {
+    "positive_snippets": [
+      "Full paisa vasool hotel luxury and good"
+    ],
+    "negative_snippets": [
+      "Worst hotel not to be said hotel\nThey does not have parking\nShabby rooms\nPlz avoid fab hotels \ud83d\ude21\nMy advance payment gone hell",
+      "Surprisingly it has many good reviews, I wonder how that is possible. We had worst ever experience staying at this residency. Very poor cleanliness. Loud music at night. Unhelpful staff.\nIt seems to be a popular destination for a certain group of costumers such as the young people, whose needs are catered by the residency management without being mindful about moral, legal duties and business ethics.",
+      "They have mentioned near V3S mall but in actual it's around 5km from mall. Room was ok but washroom was just a small box. No bathing space. Told hotel staff to change the room but they denied and said all rooms are booked but in actual the whole floor was empty. They didn't even bother to provide soap, towel, water bottle and even the intercom was non-functional. Lift was also not working. Had to go 4 floors down by stairs to get room stuff from reception. Staff was very rude. Initially they denied check in and said there is no booking. Then said booking is only for 1 person. After 15-20 mins they got convinced and allowed to check in. Very bad experience with. Worst hotel booking experience."
+    ]
+  },
+  "review_summary": "Based on 5 reviews.",
+  "positive_themes": {
+    "clean_rooms": 2,
+    "friendly_staff": 2,
+    "good_location": 2
+  },
+  "negative_themes": {
+    "parking_issues": 1,
+    "rude_staff": 2,
+    "noise": 2
+  }
+}

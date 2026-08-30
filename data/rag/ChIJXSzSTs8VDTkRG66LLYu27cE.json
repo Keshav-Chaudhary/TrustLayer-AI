@@ -1,0 +1,50 @@
+{
+  "hotel_id": "ChIJXSzSTs8VDTkRG66LLYu27cE",
+  "hotel_name": "Oyo Shiva The Midas Farm",
+  "area": "Sultanpur",
+  "budget_category": "Budget",
+  "rating": 4.5,
+  "trust_score": 0.8392230657766738,
+  "travel_purpose_tags": [
+    "Leisure",
+    "Family"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "moderate",
+    "review_count": 5,
+    "positive_snippet_count": 3,
+    "negative_snippet_count": 1,
+    "positive_theme_count": 4,
+    "negative_theme_count": 0
+  },
+  "aspect_scores": {
+    "cleanliness": 0.9990942478179932,
+    "service": 0.5,
+    "location": 0.9918946425120037,
+    "value_for_money": 0.9997889399528505,
+    "staff_behavior": 0.9997230966885884
+  },
+  "recommendation_features": {
+    "popularity_score": 0.3309666882836649,
+    "rating_score": 4.5,
+    "sentiment_score": 0.9948615312576294
+  },
+  "review_evidence": {
+    "positive_snippets": [
+      "Rooms are in well condition near and clear but this is not a oyo building this is proper resort type like every facility is there like Banquet hall Garden play area Swimming pool and and etc . Love this place \ud83d\udc4c",
+      "Good place to stay if you visiting nearby Sultanpur, services are well good with friendly staff around here. A good location with nice view full enjoy",
+      "Good place to stay if you visiting nearby Sultanpur, services are well good with friendly staff around here. A good location with nice view. And its mainly budget friendly if your there is any concern. I had a good time."
+    ],
+    "negative_snippets": [
+      "Rooms were spacious n clean. Food was good. Only issue was washrooms in some room."
+    ]
+  },
+  "review_summary": "Based on 5 reviews.",
+  "positive_themes": {
+    "good_location": 3,
+    "friendly_staff": 3,
+    "clean_rooms": 1,
+    "good_food": 1
+  },
+  "negative_themes": {}
+}

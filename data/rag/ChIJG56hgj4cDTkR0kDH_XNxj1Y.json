@@ -1,0 +1,52 @@
+{
+  "hotel_id": "ChIJG56hgj4cDTkR0kDH_XNxj1Y",
+  "hotel_name": "The River Front Hotel",
+  "area": "Mahipalpur",
+  "budget_category": "Mid-Range",
+  "rating": 4.5,
+  "trust_score": 0.6788346409445536,
+  "travel_purpose_tags": [
+    "Budget"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "moderate",
+    "review_count": 5,
+    "positive_snippet_count": 2,
+    "negative_snippet_count": 3,
+    "positive_theme_count": 3,
+    "negative_theme_count": 2
+  },
+  "aspect_scores": {
+    "cleanliness": 0.0011491234181448,
+    "service": 0.3327053711594392,
+    "location": 0.498416340094991,
+    "value_for_money": 0.0012957939179614,
+    "staff_behavior": 0.9976816773414612
+  },
+  "recommendation_features": {
+    "popularity_score": 0.4694915039778556,
+    "rating_score": 4.5,
+    "sentiment_score": 0.3997939512133598
+  },
+  "review_evidence": {
+    "positive_snippets": [
+      "This is the best experience, staff was very humble and polite even those all the facilities and amenities are awesome...... everything is new .....",
+      "Had a great stat here. Staff was friendly and helpful, also they have a restaurant service available. One tip: contact hotel reception in advance for exact hotel location."
+    ],
+    "negative_snippets": [
+      "recently I've booked this hotel online when I reach there that location was not that they have different name in real and different in internet. after wasting lot of time I've reached there they started doing process and all one lady came and told the guy to check if his boss allows then boy started acting like he didn't rcv the booking he's not accepting the online booking and they started asking to book ofline in double price. when  i deny to rebook the lady started shouting and said me if you don't book then why r you standing here you may go. really poor service they have. never ever book this hotel whatever happens. better you stay in lodge but never this type of hotel.\nBetter you stay nearby hotel of this they are providing a good rooms at reasonable price These guys are sitting to scam peoples.   hotel price is listed in clear Trip. after booking they will make stories. not to give a room.     no one book this hotel it's waste of time\n\nnearby more hotels are there  to stay at good prices",
+      "Worst room ever, dirty and ugly, switches and ac broken, never ever come here, publich bathroom is better than theirs.",
+      "Really bad experience about this hotel. I was traveling via delhi and I booked this hotel in rush. When I reach there staffs were unprofessional they asked additional money. They don't have cleaned room they don't have customer service. I was with my mom . They didn't even give a chair to sit. She asked additional money for that unhygienic dirty sheet and smelly room when I deny she started fighting to me. Really bad people. Never book this hotel. Never ever book this hotel."
+    ]
+  },
+  "review_summary": "Based on 5 reviews.",
+  "positive_themes": {
+    "friendly_staff": 3,
+    "good_location": 2,
+    "clean_rooms": 1
+  },
+  "negative_themes": {
+    "dirty_rooms": 2,
+    "rude_staff": 1
+  }
+}

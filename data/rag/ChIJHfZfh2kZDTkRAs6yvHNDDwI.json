@@ -1,0 +1,51 @@
+{
+  "hotel_id": "ChIJHfZfh2kZDTkRAs6yvHNDDwI",
+  "hotel_name": "Hotel Elite Stay",
+  "area": "Sector 11",
+  "budget_category": "Budget",
+  "rating": 4.9,
+  "trust_score": 0.8270189721244553,
+  "travel_purpose_tags": [
+    "Budget"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "rich",
+    "review_count": 5,
+    "positive_snippet_count": 3,
+    "negative_snippet_count": 2,
+    "positive_theme_count": 2,
+    "negative_theme_count": 2
+  },
+  "aspect_scores": {
+    "cleanliness": 0.0002523679722798,
+    "service": 0.9998396635055542,
+    "location": 0.5,
+    "value_for_money": 0.0003024366160389,
+    "staff_behavior": 0.5999118931766134
+  },
+  "recommendation_features": {
+    "popularity_score": 0.6160128096547535,
+    "rating_score": 4.9,
+    "sentiment_score": 0.5999118931766134
+  },
+  "review_evidence": {
+    "positive_snippets": [
+      "Nice hotel coperative staff\n\nHotel services is really very good amazing fatality are available there\n\nPrefered for that",
+      "I Would like To Say That I Went to this Hotel and it is good For Visiting , Wonderful Services, Smart Staff and truly When I came To there I Will Surely Stay In This hotel Again  \u2728..Thanks For The Good Service \ud83e\udd1d",
+      "Nice hotel with all service Good staff"
+    ],
+    "negative_snippets": [
+      "Don\u2019t go for this hotel.\nI booked a Classic room and paid in advance. After reaching the hotel for check-in, they asked for extra money and behaved very rudely.\nI complained to OYO and initially they agreed, but after the call ended, the hotel denied returning the extra charge. We had to complain again, after which they shifted us to the worst room available.\nThe staff entered the room without knocking, which is completely unacceptable and unsafe.\nCleanliness is very poor, and the room had a strong cigarette smell. Overall hygiene and maintenance are bad.\nAlso, some positive reviews seem fake\u2014they take guests\u2019 phones without informing them and post good reviews themselves.\nVery disappointing experience. Not recommended at all.",
+      "third class hotel. try at your own risk... despite having online booking Hotel manager try to overcharge citing he is not getting any benefit from online booking. comes to room. dirty, Geyser not working. no toiletries provided. worst hotel i ever experience"
+    ]
+  },
+  "review_summary": "Based on 5 reviews.",
+  "positive_themes": {
+    "friendly_staff": 4,
+    "clean_rooms": 1
+  },
+  "negative_themes": {
+    "dirty_rooms": 2,
+    "rude_staff": 1
+  }
+}

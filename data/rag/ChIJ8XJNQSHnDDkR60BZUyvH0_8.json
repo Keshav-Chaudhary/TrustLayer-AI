@@ -1,0 +1,54 @@
+{
+  "hotel_id": "ChIJ8XJNQSHnDDkR60BZUyvH0_8",
+  "hotel_name": "Vibe By The Lalit Traveller",
+  "area": "Sector 35",
+  "budget_category": "Mid-Range",
+  "rating": 3.9,
+  "trust_score": 0.6012699690110452,
+  "travel_purpose_tags": [
+    "Budget"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "moderate",
+    "review_count": 5,
+    "positive_snippet_count": 1,
+    "negative_snippet_count": 3,
+    "positive_theme_count": 5,
+    "negative_theme_count": 3
+  },
+  "aspect_scores": {
+    "cleanliness": 0.4999149254872463,
+    "service": 0.0003631763926628,
+    "location": 0.4999149254872463,
+    "value_for_money": 0.0002065787994069,
+    "staff_behavior": 0.3334140372414064
+  },
+  "recommendation_features": {
+    "popularity_score": 0.7791695896563892,
+    "rating_score": 3.9,
+    "sentiment_score": 0.2002250124205602
+  },
+  "review_evidence": {
+    "positive_snippets": [
+      "Good hotel to stay in Faridabad. Location is appropriate to connect with Delhi and the Faridabad by pass road..\nStaff is courteous.\nRooms were designed in a weird way. Spacious but still felt like the congested ones. But well maintained and clean rooms."
+    ],
+    "negative_snippets": [
+      "One of the worst stays I\u2019ve ever had! The front desk staff is completely unresponsive they act like they\u2019re doing you a favour by even talking. The service is beyond lazy, no sense of hospitality at all. I had to wait forever just to get basic information or help with my room.\n\nThe food was equally disappointing tasteless, cold, and totally not worth the price. To make things even worse, they have timings for shower water! Can you imagine? You literally have to wait for hot water like it\u2019s some privilege.\n\nFor a property under The Lalit name, this was an absolute disaster. Would never recommend this place to anyone. Save your money and your peace of mind go anywhere else! They are so unprofessional that they are providing the hot water in buckets i mean why are you charging this much then..",
+      "I had the most horrible hotel experience at The Lalit Traveller Faridabad. I stayed in room  number 332. There was no good ventilation in the room and moreover there was no hot water available at the hotel. I don\u2019t know who gave them 4 stars. This hotel deserves no star at all. Pathetic experience from the reception too. I asked them to change my room and they replied we are full to the capacity. Someone should perform proper due diligence on this property and their star ratings.",
+      "I had one of the worst experiences with this hotel. My booking was confirmed well in advance (5\u20136 hours before arrival), yet upon reaching after flying 13 hours from overseas, the hotel flat out denied us entry. The reason? They claimed the rate at which we booked was lower than their current rate, so they refused to honor the confirmed reservation.\n\nThe staff member Jaskaran was extremely rude and unhelpful, including the night manager he called who showed no professionalism or willingness to resolve the issue. Instead of respecting the booking, they simply turned us away.\n\nThis is unacceptable behavior for any hotel. If they cannot honor confirmed bookings, they should not list them in the first place. Very disappointed and would never recommend this place to anyone.\n\nWe are willing to share the booking confirmation if we are told that they cannot find reservation with such case."
+    ]
+  },
+  "review_summary": "Based on 5 reviews.",
+  "positive_themes": {
+    "clean_rooms": 2,
+    "friendly_staff": 3,
+    "good_location": 1,
+    "great_value": 1,
+    "good_food": 1
+  },
+  "negative_themes": {
+    "rude_staff": 2,
+    "bad_food": 1,
+    "dirty_rooms": 1
+  }
+}

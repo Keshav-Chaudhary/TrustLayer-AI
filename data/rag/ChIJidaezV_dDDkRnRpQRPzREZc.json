@@ -1,0 +1,50 @@
+{
+  "hotel_id": "ChIJidaezV_dDDkRnRpQRPzREZc",
+  "hotel_name": "Maira Retreat",
+  "area": "Sector 21D",
+  "budget_category": "Mid-Range",
+  "rating": 4.4,
+  "trust_score": 0.6867763479063653,
+  "travel_purpose_tags": [
+    "Leisure"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "rich",
+    "review_count": 5,
+    "positive_snippet_count": 3,
+    "negative_snippet_count": 2,
+    "positive_theme_count": 4,
+    "negative_theme_count": 0
+  },
+  "aspect_scores": {
+    "cleanliness": 0.9997766613960266,
+    "service": 0.0003135159786324,
+    "location": 0.9997891783714294,
+    "value_for_money": 0.0003135159786324,
+    "staff_behavior": 0.5000166317913681
+  },
+  "recommendation_features": {
+    "popularity_score": 0.2690641681418895,
+    "rating_score": 4.4,
+    "sentiment_score": 0.5999711411073804
+  },
+  "review_evidence": {
+    "positive_snippets": [
+      "Wonderful Stay \u2013 Highly Recommended!\u201d\n\nThe room was clean, spacious, and well-furnished with all modern amenities. The bed was super comfortable, and the bathroom was spotless.\n\nThe staff was extremely polite and helpful throughout the stay.",
+      "Good hotel with all basic amenities, good location, Superb clean rooms..must stay once during your visit to Faridabad.",
+      "I honestly like the property and in such a heart of City Faridabad,the hotel owner to Staff well mannered"
+    ],
+    "negative_snippets": [
+      "I've stayed at numerous hotels, but this one was the worst. The toilet had no water from night till morning, and the reception staff's service was subpar. Apart from that they had asked me for more money . Owner behaviour was very cheap and low standard. Overall, it was a terrible experience.",
+      "Pathetic experience, no water in toilets and no co operation from staff or there owner"
+    ]
+  },
+  "review_summary": "Based on 5 reviews.",
+  "positive_themes": {
+    "clean_rooms": 2,
+    "friendly_staff": 4,
+    "good_location": 1,
+    "great_value": 1
+  },
+  "negative_themes": {}
+}

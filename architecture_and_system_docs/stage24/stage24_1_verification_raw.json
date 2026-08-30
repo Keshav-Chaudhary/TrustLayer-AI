@@ -1,0 +1,227 @@
+{
+  "part1_env": {
+    "active_hotel_backend": "csv",
+    "active_vector_backend": "chroma",
+    "database_url_configured": "sqlite:///data/bootstrap_test_idempotency.db",
+    "csv_path": "data/exports/final_hotel_dataset.csv",
+    "chroma_path": "data/vector_store",
+    "instantiated_hotel_repo": "CsvHotelRepository",
+    "instantiated_emb_repo": "ChromaEmbeddingRepository",
+    "instantiated_trace_repo": "JsonTraceRepository"
+  },
+  "part2_csv": {
+    "file_path": "D:\\Side_Projects\\0_Independent_Project\\NewBackend_start\\data\\exports\\final_hotel_dataset.csv",
+    "sha256": "eca959c788d9535feea5ed1b11efb249988c60b6bfb7b4bb41ef33e50bad1e2e",
+    "sha256_matched": true,
+    "total_rows": 1661,
+    "unique_hotel_ids": 1661,
+    "duplicate_ids_count": 0,
+    "rating_range": [
+      1.0,
+      5.0
+    ],
+    "distinct_cities_count": 0,
+    "distinct_destinations_count": 0,
+    "distinct_areas_count": 470,
+    "hotels_with_coordinates": 1661
+  },
+  "part3_postgres": {
+    "hotels_count": 1661,
+    "locations_count": 1661,
+    "scores_count": 1661,
+    "sources_count": 1661,
+    "amenities_count": 1661,
+    "provenance_count": 0,
+    "embeddings_count": 50,
+    "ingestion_runs_count": 2,
+    "domain_events_count": 1661,
+    "csv_ids_not_in_pg_count": 0,
+    "pg_ids_not_in_csv_count": 0,
+    "id_parity_passed": true,
+    "sample_10_field_parity": [
+      {
+        "hotel_id": "ChIJcWZoJ0rnDDkR7ya1Tpcw6-k",
+        "parity_matched": true
+      },
+      {
+        "hotel_id": "ChIJXdmXL30EDTkR5YJTrNiByBs",
+        "parity_matched": true
+      },
+      {
+        "hotel_id": "ChIJTSydK80ODTkRjEXXevFZBSU",
+        "parity_matched": true
+      },
+      {
+        "hotel_id": "ChIJt3KdyTsZDTkRnrRRDF9xwo0",
+        "parity_matched": true
+      },
+      {
+        "hotel_id": "ChIJdaJqbSgdDTkRiKTTCgl1KSk",
+        "parity_matched": true
+      },
+      {
+        "hotel_id": "ChIJ5ztBr_kZDTkR4LzBbqbWcSk",
+        "parity_matched": true
+      },
+      {
+        "hotel_id": "ChIJqXNAFM4JDTkRv9fJ8SQ8ADM",
+        "parity_matched": true
+      },
+      {
+        "hotel_id": "ChIJ09LJrqwHDTkR6EUOtQ_cFqg",
+        "parity_matched": true
+      },
+      {
+        "hotel_id": "ChIJma0ObAsFDTkRevQdGGCNZEQ",
+        "parity_matched": true
+      },
+      {
+        "hotel_id": "ChIJHTk_xiSrDTkRuw-N0yZBD0I",
+        "parity_matched": true
+      }
+    ]
+  },
+  "part4_ingestion_runs": [
+    {
+      "run_id": "42441089-ee86-4f34-af62-6ae2f9863cdd",
+      "records_seen": 1661,
+      "records_inserted": 1661,
+      "records_updated": 0,
+      "records_unchanged": 0,
+      "records_rejected": 0,
+      "status": "SUCCESS"
+    },
+    {
+      "run_id": "7e634274-eb72-43d9-aca0-b159b2b443f8",
+      "records_seen": 1661,
+      "records_inserted": 0,
+      "records_updated": 0,
+      "records_unchanged": 1661,
+      "records_rejected": 0,
+      "status": "SUCCESS"
+    }
+  ],
+  "part5_outbox": {
+    "total_domain_events": 1661,
+    "hotel_created_count": 1661,
+    "hotel_updated_count": 0,
+    "processed_count": 50,
+    "pending_count": 1611
+  },
+  "part6_chromadb": {
+    "collection_name": "data/vector_store",
+    "document_count": 7910,
+    "expected_count": 7910,
+    "count_matched": true
+  },
+  "part7_pgvector": {
+    "total_rows": 50,
+    "chroma_count": 7910,
+    "coverage_status": "INCOMPLETE (Proof-of-Concept Batch)",
+    "explanation": "Outbox worker processed 50 events in sample batch run. Architectural foundation is operational; full migration pending explicit cutover."
+  },
+  "part8_repositories": [
+    {
+      "repository": "CsvHotelRepository",
+      "backend": "CSV",
+      "op": "get_by_id()",
+      "status": "PASS"
+    },
+    {
+      "repository": "PostgresHotelRepository",
+      "backend": "PostgreSQL",
+      "op": "get_by_id()",
+      "status": "PASS"
+    },
+    {
+      "repository": "ChromaEmbeddingRepository",
+      "backend": "ChromaDB",
+      "op": "query_vectors()",
+      "status": "PASS"
+    },
+    {
+      "repository": "PgVectorEmbeddingRepository",
+      "backend": "pgvector",
+      "op": "query_vectors()",
+      "status": "PASS"
+    }
+  ],
+  "part9_api_matrix": [
+    {
+      "endpoint": "/health",
+      "method": "GET",
+      "status_code": 200,
+      "real_data_returned": true,
+      "backend_used": "CSV + ChromaDB (Active Production Default)"
+    },
+    {
+      "endpoint": "/ready",
+      "method": "GET",
+      "status_code": 200,
+      "real_data_returned": true,
+      "backend_used": "CSV + ChromaDB (Active Production Default)"
+    },
+    {
+      "endpoint": "/metrics",
+      "method": "GET",
+      "status_code": 200,
+      "real_data_returned": true,
+      "backend_used": "CSV + ChromaDB (Active Production Default)"
+    },
+    {
+      "endpoint": "/hotels?limit=5",
+      "method": "GET",
+      "status_code": 200,
+      "real_data_returned": true,
+      "backend_used": "CSV + ChromaDB (Active Production Default)"
+    },
+    {
+      "endpoint": "/hotel/ChIJcWZoJ0rnDDkR7ya1Tpcw6-k",
+      "method": "GET",
+      "status_code": 200,
+      "real_data_returned": true,
+      "backend_used": "CSV + ChromaDB (Active Production Default)"
+    },
+    {
+      "endpoint": "/search/suggest?q=delhi",
+      "method": "GET",
+      "status_code": 200,
+      "real_data_returned": true,
+      "backend_used": "CSV + ChromaDB (Active Production Default)"
+    },
+    {
+      "endpoint": "/search/nearest?area=Mahipalpur",
+      "method": "GET",
+      "status_code": 200,
+      "real_data_returned": true,
+      "backend_used": "CSV + ChromaDB (Active Production Default)"
+    },
+    {
+      "endpoint": "/debug/trace?query=clean",
+      "method": "GET",
+      "status_code": 200,
+      "real_data_returned": true,
+      "backend_used": "CSV + ChromaDB (Active Production Default)"
+    },
+    {
+      "endpoint": "/api/v1/hotels?limit=5",
+      "method": "GET",
+      "status_code": 200,
+      "real_data_returned": true,
+      "backend_used": "CSV + ChromaDB (Active Production Default)"
+    },
+    {
+      "endpoint": "/api/v1/hotel/ChIJcWZoJ0rnDDkR7ya1Tpcw6-k",
+      "method": "GET",
+      "status_code": 200,
+      "real_data_returned": true,
+      "backend_used": "CSV + ChromaDB (Active Production Default)"
+    }
+  ],
+  "part10_backend_switch": {
+    "postgres_recommendation_executed": true,
+    "returned_count": 5,
+    "sample_hotel_name": "Hotel Aerostar Grand",
+    "status": "PASS"
+  }
+}

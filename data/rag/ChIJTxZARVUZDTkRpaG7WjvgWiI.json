@@ -1,0 +1,50 @@
+{
+  "hotel_id": "ChIJTxZARVUZDTkRpaG7WjvgWiI",
+  "hotel_name": "Safe&Sure Residency",
+  "area": "Ashok Vihar Phase III Extension",
+  "budget_category": "Mid-Range",
+  "rating": 5.0,
+  "trust_score": 0.9391477638273126,
+  "travel_purpose_tags": [
+    "Leisure",
+    "Business",
+    "Family"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "moderate",
+    "review_count": 5,
+    "positive_snippet_count": 3,
+    "negative_snippet_count": 0,
+    "positive_theme_count": 5,
+    "negative_theme_count": 0
+  },
+  "aspect_scores": {
+    "cleanliness": 0.999806433916092,
+    "service": 0.9986047148704528,
+    "location": 0.9998810291290284,
+    "value_for_money": 0.9991888999938964,
+    "staff_behavior": 0.999425083398819
+  },
+  "recommendation_features": {
+    "popularity_score": 0.4813193912566148,
+    "rating_score": 5.0,
+    "sentiment_score": 0.9994946837425231
+  },
+  "review_evidence": {
+    "positive_snippets": [
+      "Best hotel ever I visit ...fully clean and cooperative staff",
+      "Shoutout to this Picturesque  Property\ud83c\udf38\nWe stayed in the best hotel in town!\nSafe and Secure residency a must visit place!\nThe staff at this hotel were incredibly welcoming and helpful throughout my stay. The rooms were immaculate and very comfortable. We also enjoyed the delicious food and loved the convenient location close to major attractions of the city.\n10/10 And Thank-you for the top notch hospitality.",
+      "I recently stayed at Safe and Sure Residency in Palm Vihar, Gurgaon, and my experience was largely positive. The property offers a blend of comfort and convenience, making it a solid choice for both business and leisure travelers.\nThe room was clean and well-maintained. The bed was comfortable, and the bathroom was equipped with standard toiletries.\n\nOverall Safe and Sure Residency in Palm Vihar is a solid choice for budget-conscious travelers looking for a comfortable, secure stay in Gurgaon. It offers good value for money with clean, well-maintained rooms and decent facilities. It\u2019s not luxurious, but for a no-frills, pleasant stay, it delivers.\n\ud83d\ude00\ud83d\ude00\ud83d\udd25"
+    ],
+    "negative_snippets": []
+  },
+  "review_summary": "Based on 5 reviews.",
+  "positive_themes": {
+    "clean_rooms": 2,
+    "friendly_staff": 4,
+    "good_location": 1,
+    "good_food": 1,
+    "great_value": 1
+  },
+  "negative_themes": {}
+}

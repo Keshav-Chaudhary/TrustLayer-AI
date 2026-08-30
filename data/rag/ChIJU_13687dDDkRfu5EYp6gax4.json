@@ -1,0 +1,53 @@
+{
+  "hotel_id": "ChIJU_13687dDDkRfu5EYp6gax4",
+  "hotel_name": "The Central View Hotel And Banquets",
+  "area": "Sector 12",
+  "budget_category": "Mid-Range",
+  "rating": 4.3,
+  "trust_score": 0.7887699075277723,
+  "travel_purpose_tags": [
+    "Leisure",
+    "Business"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "moderate",
+    "review_count": 5,
+    "positive_snippet_count": 3,
+    "negative_snippet_count": 1,
+    "positive_theme_count": 4,
+    "negative_theme_count": 2
+  },
+  "aspect_scores": {
+    "cleanliness": 0.9993021190166472,
+    "service": 0.9988635778427124,
+    "location": 0.999354124069214,
+    "value_for_money": 0.4998056300391909,
+    "staff_behavior": 0.7497906092758058
+  },
+  "recommendation_features": {
+    "popularity_score": 0.5113480657867013,
+    "rating_score": 4.3,
+    "sentiment_score": 0.7998014214797877
+  },
+  "review_evidence": {
+    "positive_snippets": [
+      "It's a newly built Hotel cum Banquet at a very strategic location in Faridabad. Good connection with Metro station & convenient for locals.\nExcellent peaceful place with ample parking space. Food quality is excellent.",
+      "The hotel was decent overall, especially for the price point. The room was clean and the bed was comfortable, but some areas could use a little updating. Staff were friendly and check-in was smooth, though service was a bit slow at times. The location was convenient, close to restaurants and public transport. Breakfast was basic but acceptable. Not a luxury experience, but a solid choice for budget-conscious travelers who still want comfort and cleanliness.",
+      "The place was very nice and clean , staff were very friendly and corporative, great for functions, must visit."
+    ],
+    "negative_snippets": [
+      "There is a person named Vikash he was doing night duty. I stayed in room no 307, Vikas's behaviour was very rude he is not a professional hotelier.\nAlso he didn't allotted me the room on committed price.\n\nOverall experience was not good"
+    ]
+  },
+  "review_summary": "Based on 5 reviews.",
+  "positive_themes": {
+    "good_location": 2,
+    "good_food": 2,
+    "clean_rooms": 2,
+    "friendly_staff": 3
+  },
+  "negative_themes": {
+    "parking_issues": 1,
+    "rude_staff": 1
+  }
+}

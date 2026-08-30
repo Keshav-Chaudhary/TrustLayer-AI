@@ -1,0 +1,48 @@
+{
+  "hotel_id": "ChIJAw2759jjDDkReqlGzFG1rN8",
+  "hotel_name": "Hotel Royal Castle Grand",
+  "area": "Chittaranjan Park",
+  "budget_category": "Mid-Range",
+  "rating": 4.0,
+  "trust_score": 0.5109069762312604,
+  "travel_purpose_tags": [
+    "Budget"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "moderate",
+    "review_count": 5,
+    "positive_snippet_count": 0,
+    "negative_snippet_count": 3,
+    "positive_theme_count": 3,
+    "negative_theme_count": 1
+  },
+  "aspect_scores": {
+    "cleanliness": 0.0012440293648978,
+    "service": 0.0011403713288018,
+    "location": 0.5,
+    "value_for_money": 0.0008109977097773,
+    "staff_behavior": 0.000893786845457
+  },
+  "recommendation_features": {
+    "popularity_score": 0.5903869006197126,
+    "rating_score": 4.0,
+    "sentiment_score": 0.0011818345432402
+  },
+  "review_evidence": {
+    "positive_snippets": [],
+    "negative_snippets": [
+      "The hotel ambience is fine but too many mirrors everywhere. The service is also not that good neither the food quantity according to the price. The service is bad even the attitude of the ppl working there isn't good. I would say never choose this place to stay.",
+      "Pathetic hotel experience! Please don\u2019t book this place at all \u2014 you will only waste your hard-earned money. Even a single penny feels like a loss. The service is terrible, the staff is careless, and the entire stay was completely ruined.",
+      "room is not clean  badsheet gandi thi bolney ky baad bee change nahi ki pillow  not clean and  tha washroom not clean staff did not talk properly even water bottle is not  provide in room and as  pr cost of room 3500 worst room plz don't go"
+    ]
+  },
+  "review_summary": "Based on 5 reviews.",
+  "positive_themes": {
+    "good_food": 2,
+    "friendly_staff": 3,
+    "clean_rooms": 2
+  },
+  "negative_themes": {
+    "dirty_rooms": 2
+  }
+}

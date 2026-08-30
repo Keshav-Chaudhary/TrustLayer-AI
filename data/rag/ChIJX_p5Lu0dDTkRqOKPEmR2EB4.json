@@ -1,0 +1,53 @@
+{
+  "hotel_id": "ChIJX_p5Lu0dDTkRqOKPEmR2EB4",
+  "hotel_name": "Hotel Jmk (Managed By Jmd Group)",
+  "area": "Mahipalpur",
+  "budget_category": "Mid-Range",
+  "rating": 4.8,
+  "trust_score": 0.8765815436785805,
+  "travel_purpose_tags": [
+    "Budget"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "moderate",
+    "review_count": 5,
+    "positive_snippet_count": 3,
+    "negative_snippet_count": 1,
+    "positive_theme_count": 5,
+    "negative_theme_count": 2
+  },
+  "aspect_scores": {
+    "cleanliness": 0.6667306247788171,
+    "service": 0.999873161315918,
+    "location": 0.5001639460679144,
+    "value_for_money": 0.9998639822006226,
+    "staff_behavior": 0.6667367441890141
+  },
+  "recommendation_features": {
+    "popularity_score": 0.6114211484032461,
+    "rating_score": 4.8,
+    "sentiment_score": 0.7999874248169363
+  },
+  "review_evidence": {
+    "positive_snippets": [
+      "I had a very pleasant stay at your hotel. The overall experience was excellent, with well-maintained rooms, courteous and professional staff, and prompt service throughout my visit. The hospitality extended by the team made the stay comfortable and truly enjoyable. I particularly appreciate the attention to detail and the warm, welcoming environment.\n\nThank you for a wonderful experience. I would be happy to recommend your hotel and look forward to staying with you again.",
+      "Clean and professional. Close to the airport.  Staff is very friendly. Have on site restaurant and delicious food available 24 hours.will visit again.",
+      "I was very happy with the service specially Diwash and toufeel Mohit they make our stay wonderful, this was my second time and really worth it and I suggest if anyone travelling to delhi and need clean and neat rooms then this is the best choice"
+    ],
+    "negative_snippets": [
+      "Worst hotel experience of my life and I'm an avid traveler. Any positive reviews are definitely fabricated cause you can feel that something's not quite right the moment you enter the hotel. Especially as a solo female traveler. Old rooms, flies buzzing around, urine smelling and dirty bathroom akin to a public toilet with a moldy bucket to wash, no hot water and a bed that felt old, including the bedsheets. Barely slept and checked into a new hotel despite the manager promising me a new room. After one bad night, I was definitely not willing to sacrifice another to this hotel, during my trip. Also, obscure location that can be easily missed as you have to almost drive into the parking garage first to get to the entrance. Do not recommend to anyone!"
+    ]
+  },
+  "review_summary": "Based on 5 reviews.",
+  "positive_themes": {
+    "friendly_staff": 3,
+    "clean_rooms": 2,
+    "good_location": 2,
+    "good_food": 2,
+    "great_value": 1
+  },
+  "negative_themes": {
+    "dirty_rooms": 1,
+    "parking_issues": 1
+  }
+}

@@ -1,0 +1,51 @@
+{
+  "hotel_id": "ChIJfUhqA8YjDTkRIhFkg-BOGCU",
+  "hotel_name": "Red Fox By Lemon Tree Hotels, Sector 60, Gurugram",
+  "area": "Sector 60",
+  "budget_category": "Mid-Range",
+  "rating": 4.0,
+  "trust_score": 0.7228031599662872,
+  "travel_purpose_tags": [
+    "Leisure"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "rich",
+    "review_count": 5,
+    "positive_snippet_count": 3,
+    "negative_snippet_count": 2,
+    "positive_theme_count": 3,
+    "negative_theme_count": 1
+  },
+  "aspect_scores": {
+    "cleanliness": 0.6672084333452707,
+    "service": 0.0011545683519215,
+    "location": 0.9998737573623656,
+    "value_for_money": 0.0019161707023158,
+    "staff_behavior": 0.9997971057891846
+  },
+  "recommendation_features": {
+    "popularity_score": 0.6878931309427058,
+    "rating_score": 4.0,
+    "sentiment_score": 0.6003400908142794
+  },
+  "review_evidence": {
+    "positive_snippets": [
+      "Rooms are clean and of decent size. They have a suite which is quite luxurious . The staff is very Polite and mannered.   They give you the feel of lemon tree at a subsidized rate . Good experience",
+      "Very good food , i tried all vegetarian. Breakfast Buffet had many  veg options. Kulcha,\nPaneer tikha and white pasta is must try. All services were excellent.  Security incharche Ms noor is very welcoming at the gate and is helpful especially with collection of parcel to getting ghe cab. Her simple gestures made the stay very pleasant",
+      "I stayed with the Redfox hotel for a night and the Hotel staff were really nice friendly and efficient. The room was really clean and also with comfortable beds and had a nice view. The breakfast had a wide variety of fresh food a live counter and also had many tasty options. It was a pleasant stay overall !!"
+    ],
+    "negative_snippets": [
+      "Stayed in redfox Sector 60 during a family function. Kindly think before reservation in this hotel.\nFew points need to check once you book any room.\n1. Room size is very small (you will feel you are in box) compared to the avg cost of room. I paid 3400 approx which is higher I think.\n2. They add SERVICE CHARGES extra of rupees 307/- per room. ( I don't know what paid services they provide apart from 2 bottles water and tea begs, coffee, sugar pouch. Even bathroom slippers and shaving kits you need to ask three four time and wait for unlimited time)\n3. Asked payment before check in hotel room. I did too. First experience in my lifetime.\n4. Only reservation desk they have online  more push towards buying their reward points loyalty program. Less on customers services experience or basic requirements.\n5. Seeking clarification from hotel on service charges I paid apart from room charges,  already included basic facilities.\nCalled hotel.. they hanged up... called online desk they didn't give a proper response.\nI would suggest ignore fake reviews and bookings too.\nThank God I didn't order food in my room...",
+      "It's very rare now a days where there is no focus on customer service in hotel industry.The entry gate has no glowing sign in night to guide which gate to enter, that was surprising then once you enter no one at vallet parking to attend and help u to park, though Manu was quite elaborated but food was below par, dry rice, chole had no taste,soup was not hot, the cottage cheese was paneer dipped in tomato ketchup absolutely cold, dahi bhallas had no tamarind/red chutney beside it, it was simply not up to the standards for which Lemon Tree hotels are know for... Pls improve"
+    ]
+  },
+  "review_summary": "Based on 5 reviews.",
+  "positive_themes": {
+    "clean_rooms": 2,
+    "friendly_staff": 3,
+    "good_food": 4
+  },
+  "negative_themes": {
+    "parking_issues": 1
+  }
+}

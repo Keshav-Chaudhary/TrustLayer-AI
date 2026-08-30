@@ -1,0 +1,48 @@
+{
+  "hotel_id": "ChIJgVaLtj38DDkR9GuM4URH1aM",
+  "hotel_name": "Oyo Hotel Royal City",
+  "area": "Wazirabad",
+  "budget_category": "Budget",
+  "rating": 3.8,
+  "trust_score": 0.7573554480969595,
+  "travel_purpose_tags": [
+    "Business",
+    "Family"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "moderate",
+    "review_count": 5,
+    "positive_snippet_count": 3,
+    "negative_snippet_count": 0,
+    "positive_theme_count": 4,
+    "negative_theme_count": 0
+  },
+  "aspect_scores": {
+    "cleanliness": 0.9996574640274049,
+    "service": 0.9994325041770936,
+    "location": 0.5,
+    "value_for_money": 0.9997848272323608,
+    "staff_behavior": 0.9996574640274049
+  },
+  "recommendation_features": {
+    "popularity_score": 0.376366888848488,
+    "rating_score": 3.8,
+    "sentiment_score": 0.9996574640274049
+  },
+  "review_evidence": {
+    "positive_snippets": [
+      "I had a great time living in Royal City Hotel. All the staff members of the hotel were prompt, polite, and happy to help the guests to the best of their ability. My room at the Royal City was also quite clean and inclusive of all the basic amenities like a working Air Conditioner, clean bedding, etc. The attached washroom was also clean and well kept, with a geyser for hot water.",
+      "The check-in process at Hotel Royal City was hassle-free and smooth thanks to the professionalism and promptness of the hotel\u2019s reception staff. My room at the hotel was also clean, well lit, and properly maintained with all the basic amenities like an LED, clean bedding, and an AC in good condition. The washroom was also clean with all the basic toiletries in place. I would like to visit Hotel Royal City again sometime.",
+      "Thank you, Royal City for treating your customers like Royalties. All the staff members of the hotel were polite and well mannered. They helped me enhance my experience with Royal City. My room at Royal City was also very neat and inclusive of all the basic amenities like an Air Conditioner, bedding, etc. The washroom was also clean and well maintained. Overall my experience at Royal City was great and memorable."
+    ],
+    "negative_snippets": []
+  },
+  "review_summary": "Based on 5 reviews.",
+  "positive_themes": {
+    "clean_rooms": 5,
+    "friendly_staff": 5,
+    "great_value": 1,
+    "good_location": 1
+  },
+  "negative_themes": {}
+}

@@ -1,0 +1,53 @@
+{
+  "hotel_id": "ChIJTWxjE0z9DDkRWK-rr0q_d7w",
+  "hotel_name": "Hotel The Magic Tree - Paharganj New Delhi",
+  "area": "Paharganj",
+  "budget_category": "Mid-Range",
+  "rating": 4.3,
+  "trust_score": 0.6746724499955087,
+  "travel_purpose_tags": [
+    "Budget"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "rich",
+    "review_count": 5,
+    "positive_snippet_count": 3,
+    "negative_snippet_count": 2,
+    "positive_theme_count": 5,
+    "negative_theme_count": 1
+  },
+  "aspect_scores": {
+    "cleanliness": 0.0004341237363405,
+    "service": 0.0186188677762401,
+    "location": 0.0186188677762401,
+    "value_for_money": 0.5001697494153632,
+    "staff_behavior": 0.0004525092372205
+  },
+  "recommendation_features": {
+    "popularity_score": 0.5633878525516949,
+    "rating_score": 4.3,
+    "sentiment_score": 0.4074838455067947
+  },
+  "review_evidence": {
+    "positive_snippets": [
+      "Absolutely loved my stay! The property is beautifully maintained, super comfortable, and gives such a warm, homely vibe. Every detail is taken care of, and the hospitality is just top-notch. I genuinely recommend this place to everyone looking for a perfect, hassle-free stay. Definitely a 5-star experience!",
+      "Rooms are smaller than images, sevice is not that prompt. Gave me extra mattress having a hole in it. Rooms are cleaner. Taps were leaking Location is not great but manageable.",
+      "A very lovely hotel to stay with the family very warm vibe and affordable. You can come and visit with your family and friends and have a good time."
+    ],
+    "negative_snippets": [
+      "Hotel rooms were pretty dreary. Our room's bathroom ceiling was covered in mold, and the paint showing signs of damp in the room. The aircon broke down and wasn't addressed when asked so had to come back and change room after our day.\n\nBed sheets also has food debris on them so needed them changed.",
+      "Disappointing experience wouldn\u2019t recommend\nI had a very unpleasant stay at Magic Tree Hotel, Delhi. The staff were quite rude and unhelpful, making me feel unwelcome throughout my visit. Even worse, after eating food from their restaurant, I experienced severe stomach upset and loose motion. Overall, the service and hygiene standards were far below expectations. Definitely not worth the price \u2014 I wouldn\u2019t recommend this hotel to anyone looking for a comfortable or safe stay."
+    ]
+  },
+  "review_summary": "Based on 5 reviews.",
+  "positive_themes": {
+    "clean_rooms": 1,
+    "good_location": 1,
+    "great_value": 2,
+    "good_food": 2,
+    "friendly_staff": 1
+  },
+  "negative_themes": {
+    "rude_staff": 1
+  }
+}

@@ -1,0 +1,51 @@
+{
+  "hotel_id": "ChIJv7HZjfwHDTkRsAY2J5m3BfQ",
+  "hotel_name": "Hotel O Royal King Dx Near Rithala Metro Station",
+  "area": "Rohini",
+  "budget_category": "Mid-Range",
+  "rating": 3.6,
+  "trust_score": 0.5706935324712363,
+  "travel_purpose_tags": [
+    "Budget"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "rich",
+    "review_count": 5,
+    "positive_snippet_count": 3,
+    "negative_snippet_count": 2,
+    "positive_theme_count": 3,
+    "negative_theme_count": 1
+  },
+  "aspect_scores": {
+    "cleanliness": 0.0002446000580675,
+    "service": 0.5,
+    "location": 0.3132579922676086,
+    "value_for_money": 0.156751296162838,
+    "staff_behavior": 0.9989934265613556
+  },
+  "recommendation_features": {
+    "popularity_score": 0.4268137678954004,
+    "rating_score": 3.6,
+    "sentiment_score": 0.4642908307374455
+  },
+  "review_evidence": {
+    "positive_snippets": [
+      "Oyo was good but there mostly couples was coming\nI am going there for exam purpose but in Delhi every hotel book for 1-2 hour's couple\nI think isliye Delhi ko dil walo ki bolte h\nSo guys if ur exam in rohini near sector 22,23,24 then u stay here bcz it nearest every center approx 2 km from every center\nAnd it's near 2-3 best dhaba for food\nSo goes here feel free but they can't available u in Oyo price\nThey increase price and in this situation u pay extra",
+      "The staff was really helpful and polite, the interior is very good as compared to the other hotels. It was hygienic and well maintained. Really enjoyed the stay in city.",
+      "Rooms are fine, there staff is helpful. As they are not having a lot of services Ready made, but if you need something they will arrange it for you in no time."
+    ],
+    "negative_snippets": [
+      "It was the worst hotel ever the bedsheets were dirty and they were torn and the faucets in the bathroom were broken the washbasin was working only half of the time. The bathroom floor was dirty . The locks on the bathroom door were broken. The tv was not working. The rooms had mosquitos and it was the worst hotel room i ever got and also we faced problems during check in. I will not recommend this hotel to anyone It is a total waste of money and please don't book it on oyo they won't accept your booking. It was a total nightmare. We only stayed because it was already late evening.",
+      "Oyo is running a scam with this property. They allow the booking at reasonable rate but while checking in hotel ask to pay you double or they wont allow you to check in."
+    ]
+  },
+  "review_summary": "Based on 5 reviews.",
+  "positive_themes": {
+    "good_location": 1,
+    "good_food": 1,
+    "friendly_staff": 2
+  },
+  "negative_themes": {
+    "dirty_rooms": 1
+  }
+}

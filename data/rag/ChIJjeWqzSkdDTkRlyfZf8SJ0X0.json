@@ -1,0 +1,48 @@
+{
+  "hotel_id": "ChIJjeWqzSkdDTkRlyfZf8SJ0X0",
+  "hotel_name": "Hotel O Red Rose Residency",
+  "area": "Delhi",
+  "budget_category": "Mid-Range",
+  "rating": 2.8,
+  "trust_score": 0.2994352941527592,
+  "travel_purpose_tags": [
+    "Budget"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "moderate",
+    "review_count": 5,
+    "positive_snippet_count": 0,
+    "negative_snippet_count": 3,
+    "positive_theme_count": 3,
+    "negative_theme_count": 1
+  },
+  "aspect_scores": {
+    "cleanliness": 0.0005563734885072,
+    "service": 0.0004383619816507,
+    "location": 0.5,
+    "value_for_money": 0.0017304208886343,
+    "staff_behavior": 0.0005563734885072
+  },
+  "recommendation_features": {
+    "popularity_score": 0.3456957314342286,
+    "rating_score": 2.8,
+    "sentiment_score": 0.0014774188457522
+  },
+  "review_evidence": {
+    "positive_snippets": [],
+    "negative_snippets": [
+      "They asked me to cancel oyo booking and pay more money. Worst experience",
+      "The experience was my worst experience. First of all Oyo has started faking their hotels by showing photos of the hotel which does not exist along with advance payment so that the customer doesn't have any other option left. This is strictly not for family, the hotel was shady enough to be stayed by a family. Even for bachelors it a very very shady place. At least enquire about hotel or at least visit the hotel before collaborating and cheating customers. Oyo used to have good service but not anymore.",
+      "This is the most shady hotel ever.\nThe staff has the worst behavior.\nPrice and room doesn't suit, even service is horrible.\nAnd hygiene? Forget about that.\nGlad that we walked out alive from there"
+    ]
+  },
+  "review_summary": "Based on 5 reviews.",
+  "positive_themes": {
+    "friendly_staff": 2,
+    "clean_rooms": 1,
+    "great_value": 1
+  },
+  "negative_themes": {
+    "dirty_rooms": 1
+  }
+}

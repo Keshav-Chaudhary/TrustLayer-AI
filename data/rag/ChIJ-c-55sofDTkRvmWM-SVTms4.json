@@ -1,0 +1,48 @@
+{
+  "hotel_id": "ChIJ-c-55sofDTkRvmWM-SVTms4",
+  "hotel_name": "Stayvista Villa",
+  "area": "Mehrauli",
+  "budget_category": "Budget",
+  "rating": 4.9,
+  "trust_score": 0.9183434241470424,
+  "travel_purpose_tags": [
+    "Leisure",
+    "Family"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "moderate",
+    "review_count": 5,
+    "positive_snippet_count": 3,
+    "negative_snippet_count": 1,
+    "positive_theme_count": 2,
+    "negative_theme_count": 0
+  },
+  "aspect_scores": {
+    "cleanliness": 0.9997806151707967,
+    "service": 0.5,
+    "location": 0.9997872710227966,
+    "value_for_money": 0.9993971586227416,
+    "staff_behavior": 0.9998071392377218
+  },
+  "recommendation_features": {
+    "popularity_score": 0.4456667138885363,
+    "rating_score": 4.9,
+    "sentiment_score": 0.9997211694717408
+  },
+  "review_evidence": {
+    "positive_snippets": [
+      "A truly memorable experience. This property is great for small intimate celebrations. The property is aesthetically pleasing and the staff is helpful too.\nEach area was neat and clean, well maintained lush greens. Over all a great stay.\nSpecial mention to the manager Sukhpreet who was available for any kind of assistance throughout the stay.",
+      "Great stay at this property. Staff was really helpful as well. The manager Sukhpreet Singh and the ground staff at the property were always keen to help.\nRooms were big, bathrooms were clean and there was a lot of space for games, dance and activities. Enjoyed our time a lot at Indraj manor. Would stay again, thanks Stayvista!",
+      "Had a pleasant staycation a indraj manor!\nA good place to come, chill and vibe with friends or family.\nClean, well maintained & luxurious place.\nSpecial thanks to Mr. Sukhpreet for making our stay pleasant.\nWould even be better if kitchen could be accessible to guests/chef and a TV in rooms"
+    ],
+    "negative_snippets": [
+      "The property is very beautiful with almost all the facilities available. Although, the caretakers are little money minded. They somehow tried to extort some money from us in the name of tips and tried to blame us for misplacing the remote of one of the AC. Apart from that, everything is okay."
+    ]
+  },
+  "review_summary": "Based on 5 reviews.",
+  "positive_themes": {
+    "clean_rooms": 3,
+    "friendly_staff": 2
+  },
+  "negative_themes": {}
+}

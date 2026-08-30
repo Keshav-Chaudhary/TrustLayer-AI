@@ -1,0 +1,48 @@
+{
+  "hotel_id": "ChIJg95hFcUaDTkRPEIHxlLFqD0",
+  "hotel_name": "Golden Palm Suites",
+  "area": "Dwarka Sub City",
+  "budget_category": "Mid-Range",
+  "rating": 3.6,
+  "trust_score": 0.4391438232850518,
+  "travel_purpose_tags": [
+    "Budget"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "moderate",
+    "review_count": 5,
+    "positive_snippet_count": 0,
+    "negative_snippet_count": 3,
+    "positive_theme_count": 3,
+    "negative_theme_count": 1
+  },
+  "aspect_scores": {
+    "cleanliness": 0.0018010524411995,
+    "service": 0.0003422819572733,
+    "location": 0.5,
+    "value_for_money": 0.001553785977497,
+    "staff_behavior": 0.0014192023178717
+  },
+  "recommendation_features": {
+    "popularity_score": 0.5029342303533152,
+    "rating_score": 3.6,
+    "sentiment_score": 0.001217544247629
+  },
+  "review_evidence": {
+    "positive_snippets": [],
+    "negative_snippets": [
+      "I\u2019m having to give 1 star because there is no option of zero.\n\nToilet flush not working, room not cleaned until 7 hours after check in. No surface to keep luggage or clothes since everything already had a layer to dust taking up the space. 5 managers in 1 day, no grievances ever resolved.\n\nIf anyone\u2019s thinking why I chose to stay through this, we had already paid for 3 days and 5 rooms and couldn\u2019t find the alternative.\n\nThe hotel is rated as 3 Star on google - this is a farce and scam. This is something you don\u2019t even call even 1 star.\n\nPlease help yourself and stay away from this property, there are many alternatives which can\u2019t be worse for sure.",
+      "The service was bad as I didn't get breakfast on time. I had taken the package with breakfast. Had called around 9am and asked for breakfast and it wasn't delivered even at 10am. When i called the reception they said only if you call we will give it, I said I had asked for it 1 hour back and i have been waiting. They said it's because the night manager left and asked for my room number. Really upset with the service. You can get better hotels and services for the money you pay",
+      "Very bad service the day staff is very rude and unresponsive. The day manager is not friendly behavior very late response and local abusive language used."
+    ]
+  },
+  "review_summary": "Based on 5 reviews.",
+  "positive_themes": {
+    "clean_rooms": 2,
+    "good_food": 1,
+    "friendly_staff": 2
+  },
+  "negative_themes": {
+    "rude_staff": 1
+  }
+}

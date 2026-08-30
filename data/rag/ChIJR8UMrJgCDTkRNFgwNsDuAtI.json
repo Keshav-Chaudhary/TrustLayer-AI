@@ -1,0 +1,51 @@
+{
+  "hotel_id": "ChIJR8UMrJgCDTkRNFgwNsDuAtI",
+  "hotel_name": "Hotel Silver Arc",
+  "area": "Karol Bagh",
+  "budget_category": "Mid-Range",
+  "rating": 4.0,
+  "trust_score": 0.6953686628163077,
+  "travel_purpose_tags": [
+    "Leisure"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "rich",
+    "review_count": 5,
+    "positive_snippet_count": 3,
+    "negative_snippet_count": 2,
+    "positive_theme_count": 5,
+    "negative_theme_count": 0
+  },
+  "aspect_scores": {
+    "cleanliness": 0.6664430049422663,
+    "service": 0.4999195556883932,
+    "location": 0.9994986057281494,
+    "value_for_money": 0.5998869756469503,
+    "staff_behavior": 0.9995856086413064
+  },
+  "recommendation_features": {
+    "popularity_score": 0.5595877406915236,
+    "rating_score": 4.0,
+    "sentiment_score": 0.5998869756469503
+  },
+  "review_evidence": {
+    "positive_snippets": [
+      "I had a really pleasant stay at Hotel Silver Arc. It\u2019s a great choice if you\u2019re looking for a budget-friendly place without compromising on cleanliness and comfort. The rooms were neat, well-maintained, and just perfect for a relaxing stay. The beds were comfy, and the bathrooms were clean too\u2014something that really matters when you're travelling.\n\nThe location of the hotel was another big plus! It\u2019s close to major spots and easily accessible by public transport, which saved me both time and money. The surrounding area felt safe, and there were good food options nearby as well.\n\nOne thing I want to highlight is that Hotel Silver Arc is an assured and genuine hotel. These days, it\u2019s easy to get misled by fake reviews and flashy photos online. I\u2019ve had such bad experiences before. But this hotel delivered exactly what it promised. No hidden charges, no fake hype\u2014just honest service and a peaceful stay.\n\nIf you\u2019re searching online, don\u2019t fall into the trap of overly hyped hotels. Go for trusted and genuine options like Hotel Silver Arc. I\u2019d definitely recommend it to anyone looking for a reliable and clean stay on a budget!",
+      "The hotel itself was remarkably budget-friendly.\nThe owner Mr. Joshi, is A humble person with a strong voice helpful, and dedicated to his job.\nThe room services are 24/7\nCozy and comfortable stay.\nWill Visit soon sir!!!",
+      "We stayed there for two days, my wife and me. The room was clean and all in good condition.\nStaff was very helpful and kind. We got tea in the room which was served quickly, alle worked fine. We have been several times in Karol Bagh in the past in other hotels. Next time we will definitly consider this Hotel again. Thank you very much :-)\n\nRemark: Also the price was really fair ;-)"
+    ],
+    "negative_snippets": [
+      "My family stay in this hotel overnight.Very poor experience in this hotel ,very disrespectful behaviour hotel reception and very poor service food and room service,no washroom clean,no slipper,not given mineral water breakfast very bad .\"Room price should not be more than 1500.\"\nOr more formally:\n\"The price of the room should not exceed 1500.\"\n\"It is not suitable for a family at all.\"",
+      "Don\u2019t know how everyone commented the rooms are good. By the time I stayed, room was Ok and window joints are fully damaged. Even though you close the windows, your rooms will be frozen.\n\nThe fridge was really in worst condition. Hot water will not be available all the time. No room heater. Not worth to spend 2k or above for this rooms."
+    ]
+  },
+  "review_summary": "Based on 5 reviews.",
+  "positive_themes": {
+    "clean_rooms": 3,
+    "friendly_staff": 3,
+    "good_location": 1,
+    "good_food": 2,
+    "great_value": 1
+  },
+  "negative_themes": {}
+}

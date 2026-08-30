@@ -1,0 +1,47 @@
+{
+  "hotel_id": "ChIJpTcilaQ9DTkR5_-YMDv8bCY",
+  "hotel_name": "Fabhotel Sapphire 83 - Hotel In Manesar, Gurgaon",
+  "area": "Sector 83",
+  "budget_category": "Mid-Range",
+  "rating": 3.2,
+  "trust_score": 0.379542792268409,
+  "travel_purpose_tags": [
+    "Budget"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "moderate",
+    "review_count": 5,
+    "positive_snippet_count": 0,
+    "negative_snippet_count": 3,
+    "positive_theme_count": 2,
+    "negative_theme_count": 1
+  },
+  "aspect_scores": {
+    "cleanliness": 0.0003791767157963,
+    "service": 0.5,
+    "location": 0.5,
+    "value_for_money": 0.5,
+    "staff_behavior": 0.5
+  },
+  "recommendation_features": {
+    "popularity_score": 0.4736033944565699,
+    "rating_score": 3.2,
+    "sentiment_score": 0.0006260330264921
+  },
+  "review_evidence": {
+    "positive_snippets": [],
+    "negative_snippets": [
+      "I have very worst experience for stay in hotel. I have booked through Fab hotel. In cockroach in rooms bed. Almira is broken.  Dangerous smells in washroom. Coffee mog & hotel kettle & tea not available.  Breakfast quality is very low.. I suggest please not booking through Fab hotel.",
+      "*Warning: Avoid These Rooms and Hotel !*\n\nI'm extremely disappointed with the rooms I stayed in. The conditions were unhygienic and unacceptable. Here are some of the issues I encountered:\n\n- *Cockroach Infestation*: The room was infested with cockroaches, which is a serious concern for health and safety.\n- *Dirty Flooring*: The floors were dirty and not properly cleaned.\n- *Unchanged Bed Sheets*: The bed sheets hadn't been changed after the previous guest, which is a basic hygiene standard that should be followed.\n- *Shower Issues*: The shower water didn't drain properly, making it difficult to use.\n\nDue to these issues, I would not recommend staying in these rooms to anyone. The lack of cleanliness and maintenance is disappointing and raises serious concerns about the hotel's standards.\n\n*Recommendation:* Avoid staying in these rooms and consider other options. Hopefully, the hotel will address these issues to provide a better experience for future guests.",
+      "Cockroaches in the room. Stained bedsheets. Seapage at many places. We changed two rooms. Lights were not working in one room. Smell of smoking filled the other room. Locks broken for different doors. Overall property not maintained properly."
+    ]
+  },
+  "review_summary": "Based on 5 reviews.",
+  "positive_themes": {
+    "good_food": 1,
+    "clean_rooms": 2
+  },
+  "negative_themes": {
+    "dirty_rooms": 5
+  }
+}

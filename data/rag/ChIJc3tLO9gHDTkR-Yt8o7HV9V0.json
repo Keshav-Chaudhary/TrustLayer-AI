@@ -1,0 +1,55 @@
+{
+  "hotel_id": "ChIJc3tLO9gHDTkR-Yt8o7HV9V0",
+  "hotel_name": "Hotel Ssensse",
+  "area": "New Delhi",
+  "budget_category": "Mid-Range",
+  "rating": 4.0,
+  "trust_score": 0.5966881066371587,
+  "travel_purpose_tags": [
+    "Budget"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "moderate",
+    "review_count": 5,
+    "positive_snippet_count": 2,
+    "negative_snippet_count": 3,
+    "positive_theme_count": 5,
+    "negative_theme_count": 3
+  },
+  "aspect_scores": {
+    "cleanliness": 0.3212575367942918,
+    "service": 0.8209327757358551,
+    "location": 0.547479692439083,
+    "value_for_money": 0.321293448418146,
+    "staff_behavior": 0.5002128531632479
+  },
+  "recommendation_features": {
+    "popularity_score": 0.502513959600704,
+    "rating_score": 4.0,
+    "sentiment_score": 0.3286341508995974
+  },
+  "review_evidence": {
+    "positive_snippets": [
+      "Over all Excellent\n\nI recently had the pleasure of staying at Hotel SSENSSE located in Rohini, North West Delhi, and I must say it was an outstanding experience from start to finish. From the moment I arrived until my departure, I was thoroughly impressed with every aspect of this establishment.\n\nService:\nOne of the standout features of this hotel is its exceptional service. The staff at Hotel SSENSSE go above and beyond to ensure the comfort and satisfaction of their guests. The check-in process was smooth and efficient, and the front desk staff were warm and welcoming us with the welcome drinks. Throughout my stay, I was consistently impressed by the professionalism and attentiveness of the entire hotel team.\n\nOverall, my stay at Hotel SSENSSE in Rohini was nothing short of exceptional. The combination of a prime location, outstanding service, and comfortable accommodations made it a memorable experience. Whether you're traveling for business or leisure, I highly recommend Hotel SSENSSE for a top-notch stay in Delhi's North West district. I look forward to returning to this gem of a hotel on my next visit to Delhi.",
+      "The hotel is near Delhi school of professional studies and research. People are attending exams in that centre can opt for staying in this hotel. Price was around 1700 for single room. Rooms were decent. I stayed here for 2 days. Toilet flush was not working properly. Lights were in loose connection. They'll provide us food but dining area is not clean. Management should look into that and provide better food services. Bedsheets had stain dirts. They don't provide any amenities like soap, paste, brush. But there are bedsheet and pillows. Overall a good stay and I would rate it 7/10."
+    ],
+    "negative_snippets": [
+      "Pathetic hotel.\n\nRooms will give you claustrophobia.\nLocks do not work properly.\n\nFood is not available on time since it is requested from a nearby dhaba.\n\nIf there is a Powercut, trust me the most harrassing experience was this. If there is a powercut, the hotel WILL NOT give you backup. The hotel does not care about any guests requests or the delays caused because of their business.\n\nWe were unable to get ready on time for our event. Simple quote \"Generators can not be used in Delhi\" is given to the guest.\n\nHorrible. Retarded. Harrowing. Frustrating. Angry.\n\nIdk how this place is even rated 4.1 stars. Before booking the hotel, please check about electricity backups.",
+      "1. A place is neither good nor bad, it's the services & attentiveness of the staff, which makes good or bad reviews about anything.\n2. Staff behavior was very rude & not attentive at all.\n3. Location is not good, if you are about to leave after 8PM. Otherwise for day time, it's fine.\n4. According to their charges for a stay, there is nothing worth in services by hotel or Rooms quality. They are over charging for stay.",
+      "Man please take my word never come to this hotel.. I have made blunder by coming here\nAs air conditioning was too poor\nBathrooms were dirty and malicious\nAnd even due to power cut not even fan was working here as they said they don't have generator. Moreover food here was stale. I had came here as my exam center was nearby.. And i would not recommend anybody to come here\n\ud83d\ude4f\ud83d\ude4f"
+    ]
+  },
+  "review_summary": "Based on 5 reviews.",
+  "positive_themes": {
+    "friendly_staff": 2,
+    "good_location": 5,
+    "clean_rooms": 1,
+    "good_food": 3,
+    "great_value": 1
+  },
+  "negative_themes": {
+    "rude_staff": 1,
+    "dirty_rooms": 1,
+    "bad_food": 1
+  }
+}

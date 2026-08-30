@@ -1,0 +1,46 @@
+{
+  "hotel_id": "ChIJGc7ytc77DDkRRxZ5OCed5kk",
+  "hotel_name": "Townhouse By Oyo Krishna Nagar Metro Station",
+  "area": "Shahdara",
+  "budget_category": "Budget",
+  "rating": 4.7,
+  "trust_score": 0.8649499414682994,
+  "travel_purpose_tags": [
+    "Family"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "moderate",
+    "review_count": 5,
+    "positive_snippet_count": 3,
+    "negative_snippet_count": 0,
+    "positive_theme_count": 3,
+    "negative_theme_count": 0
+  },
+  "aspect_scores": {
+    "cleanliness": 0.9997491538524628,
+    "service": 0.5,
+    "location": 0.5,
+    "value_for_money": 0.9998194575309752,
+    "staff_behavior": 0.9996594190597534
+  },
+  "recommendation_features": {
+    "popularity_score": 0.3196692287282864,
+    "rating_score": 4.7,
+    "sentiment_score": 0.9996975511312484
+  },
+  "review_evidence": {
+    "positive_snippets": [
+      "The hotel was good and the staff was very humble and polite. Room was cleaned.",
+      "Perfect budget-friendly hotel for family stay, couples, or business trips. Good facilities at an affordable price.\u201d",
+      "really comfortable stay at Townhouse Krishna Nagar. Rooms were neat and clean, washroom hygiene was maintained properly, and the overall ambience was nice."
+    ],
+    "negative_snippets": []
+  },
+  "review_summary": "Based on 5 reviews.",
+  "positive_themes": {
+    "clean_rooms": 3,
+    "friendly_staff": 3,
+    "great_value": 1
+  },
+  "negative_themes": {}
+}

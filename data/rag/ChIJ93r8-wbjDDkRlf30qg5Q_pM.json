@@ -1,0 +1,51 @@
+{
+  "hotel_id": "ChIJ93r8-wbjDDkRlf30qg5Q_pM",
+  "hotel_name": "Krishna Inn",
+  "area": "Bhogal",
+  "budget_category": "Budget",
+  "rating": 3.9,
+  "trust_score": 0.5592415369726537,
+  "travel_purpose_tags": [
+    "Budget"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "moderate",
+    "review_count": 5,
+    "positive_snippet_count": 1,
+    "negative_snippet_count": 3,
+    "positive_theme_count": 3,
+    "negative_theme_count": 2
+  },
+  "aspect_scores": {
+    "cleanliness": 0.33368289207768,
+    "service": 0.333667699524085,
+    "location": 0.0002779247006401,
+    "value_for_money": 0.0005954686203039,
+    "staff_behavior": 0.5004001798806711
+  },
+  "recommendation_features": {
+    "popularity_score": 0.5814489144479454,
+    "rating_score": 3.9,
+    "sentiment_score": 0.2003058679489185
+  },
+  "review_evidence": {
+    "positive_snippets": [
+      "Excellent guest house with beautiful, clean, and well-maintained rooms.\nOutstanding service, polite and helpful staff.\nHygiene is top-class, and the atmosphere is peaceful and comfortable.\nGreat facilities and wonderful hospitality.\nHighly recommended for a pleasant and memorable stay!"
+    ],
+    "negative_snippets": [
+      "Rooms were neat and OK. Not very spacy for the money.\nBut the staff is very very very rude .\nWe had confirmed with them the day before that we would reach 2-3 hrs earlier than checkin and they told it was okay and there is waiting area.\nWhen we reached there they started asking for money.\nThey asked me to cancel the booking which was paid already INR 8228.\nThey asked to pay 10k and cancel the booking and giving reasons like tariff per person if they allow us into the rooms 2 hr before checkin.\nWe had 2 babies and they made us feed them in the lobby and didn't  even allow any washroom.\nThey made us wait there while the babies were crying out loud.\nThey also had problems with other customers in the name of money.\nStay was good but the people and staff of the hotel has no humanity and only intend to loot money from tourists in the name of fake government rules.\nThey complex doesn't have any lift as well, very difficult to carry luggages.",
+      "Reviews are misleading,\nBasis stuff like water, water heating kettle, dustbins in room are missing, bath towels are not clean...",
+      "Worst service and hospitality.. receptionist talk to you rudely and won't understand."
+    ]
+  },
+  "review_summary": "Based on 5 reviews.",
+  "positive_themes": {
+    "clean_rooms": 3,
+    "friendly_staff": 2,
+    "good_location": 1
+  },
+  "negative_themes": {
+    "rude_staff": 2,
+    "noise": 1
+  }
+}

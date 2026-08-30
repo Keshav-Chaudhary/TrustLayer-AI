@@ -1,0 +1,48 @@
+{
+  "hotel_id": "ChIJR4Lniwz7DDkR5BZxf723LKk",
+  "hotel_name": "Townhouse F Hotels",
+  "area": "Sahibabad",
+  "budget_category": "Mid-Range",
+  "rating": 3.6,
+  "trust_score": 0.4677916500918447,
+  "travel_purpose_tags": [
+    "Budget"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "moderate",
+    "review_count": 5,
+    "positive_snippet_count": 1,
+    "negative_snippet_count": 3,
+    "positive_theme_count": 1,
+    "negative_theme_count": 1
+  },
+  "aspect_scores": {
+    "cleanliness": 0.0007848090317565,
+    "service": 0.0002622543252073,
+    "location": 0.5,
+    "value_for_money": 0.0005311584682203,
+    "staff_behavior": 0.3337845965482605
+  },
+  "recommendation_features": {
+    "popularity_score": 0.2637433020525564,
+    "rating_score": 3.6,
+    "sentiment_score": 0.2504712370282504
+  },
+  "review_evidence": {
+    "positive_snippets": [
+      "Best hotel And staff is also Good behaviour overall best experience"
+    ],
+    "negative_snippets": [
+      "Unhygienic room... Dust on tv , table , washroom to dirty,,..\n\nThe kitchen is unhygienic I ordered soup and I found a dirty fly in soup when I complained about this.. that ladi  The one who was calling herself a manager said, Sir, what should I do aagya to kya kare like really.",
+      "Poor service and staff behaviour are also not good at all, and there is always shortage of electricity\nHygiene condition is really very poor as it smells like smoking and bedsheets are not washed well.",
+      "Unhygienic room... Dust on tv , table , washroom to dirty,,..\n\nThe kitchen is unhygienic I ordered soup and I found a dirty fly in soup when I complained about this.. that ladi  The one who was calling herself a manager said, Sir, what should I do aagya to kya kare like really."
+    ]
+  },
+  "review_summary": "Based on 5 reviews.",
+  "positive_themes": {
+    "friendly_staff": 2
+  },
+  "negative_themes": {
+    "dirty_rooms": 3
+  }
+}

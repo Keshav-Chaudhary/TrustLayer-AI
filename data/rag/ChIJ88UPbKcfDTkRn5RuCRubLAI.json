@@ -1,0 +1,47 @@
+{
+  "hotel_id": "ChIJ88UPbKcfDTkRn5RuCRubLAI",
+  "hotel_name": "Collection O The Grand Villa",
+  "area": "Sultanpur",
+  "budget_category": "Mid-Range",
+  "rating": 4.5,
+  "trust_score": 0.7766000080509925,
+  "travel_purpose_tags": [
+    "Budget"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "moderate",
+    "review_count": 5,
+    "positive_snippet_count": 3,
+    "negative_snippet_count": 1,
+    "positive_theme_count": 2,
+    "negative_theme_count": 0
+  },
+  "aspect_scores": {
+    "cleanliness": 0.4999019597380538,
+    "service": 0.6664541426240854,
+    "location": 0.5,
+    "value_for_money": 0.499749461254396,
+    "staff_behavior": 0.7951286353432806
+  },
+  "recommendation_features": {
+    "popularity_score": 0.336139675368766,
+    "rating_score": 4.5,
+    "sentiment_score": 0.7951286353432806
+  },
+  "review_evidence": {
+    "positive_snippets": [
+      "liked the room and  service and very budget friendly didn't expect this type of hotel comes under this budget love to visit again",
+      "Lovely stay staff was very helpfull upgraded the room on request with no extra charges",
+      "Verry good service and happy \ud83d\ude0a staff and verry nice food and good manager"
+    ],
+    "negative_snippets": [
+      "Poor and degraded service by staff. Asked for extra money during checkin and not allowed to checkout at 1230 pm. Worst hotel to stay.\nDrinking water bottles provided in room has been seen lying in dirt and same given to room when asked for. Poor hygiene."
+    ]
+  },
+  "review_summary": "Based on 5 reviews.",
+  "positive_themes": {
+    "friendly_staff": 5,
+    "good_food": 1
+  },
+  "negative_themes": {}
+}

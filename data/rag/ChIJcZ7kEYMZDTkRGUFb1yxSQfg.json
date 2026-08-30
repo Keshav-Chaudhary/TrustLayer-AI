@@ -1,0 +1,52 @@
+{
+  "hotel_id": "ChIJcZ7kEYMZDTkRGUFb1yxSQfg",
+  "hotel_name": "Windchime 331 - Guest House Near Medanta Gurugram | Hotel Near Medanta Gurugram",
+  "area": "Sector 38",
+  "budget_category": "Mid-Range",
+  "rating": 4.7,
+  "trust_score": 0.8526686732289793,
+  "travel_purpose_tags": [
+    "Leisure",
+    "Business"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "moderate",
+    "review_count": 5,
+    "positive_snippet_count": 3,
+    "negative_snippet_count": 1,
+    "positive_theme_count": 4,
+    "negative_theme_count": 1
+  },
+  "aspect_scores": {
+    "cleanliness": 0.99978240331014,
+    "service": 0.7499485961234313,
+    "location": 0.999763548374176,
+    "value_for_money": 0.5,
+    "staff_behavior": 0.7999036710767541
+  },
+  "recommendation_features": {
+    "popularity_score": 0.5616188717461532,
+    "rating_score": 4.7,
+    "sentiment_score": 0.7999036710767541
+  },
+  "review_evidence": {
+    "positive_snippets": [
+      "I stayed here for 15 days and honestly, it felt like the perfect balance of comfort and calm. The room was clean, cosy and well maintained throughout my stay. Staff was genuinely helpful and well trained! Just one phone call and the job was accomplished! The consistent hospitality made me feel taken care of. The location was convenient, the vibe was peaceful, and overall the experience was smooth and hassle-free. Would definitely consider staying again.",
+      "I stayed there in the month of December 2025 during and after my father's triple bypass surgery. The rooms are really clean and well maintained. The lift, washing machine and other aminenties really made our stay post sugery seamless. Food was really delicious and the service was really quick. The food was always hot, and since food had to be adjusted according to my father's diet, the kitchen made all adjustments. The staff was really warm and prompt. Highly recommended.",
+      "I stayed in this hotel for more than a month. The location is excellent, on main road in front of a huge park and close to Medanta hospital and major areas of Gurgaon. I stayed in the front facing room with balcony which is the best room. The service is excellent and staff is very warm. I initially planned to stay for a couple of nights but extended my stay because of all positive points. Breakfast taste is good and good quantity. Would highly recommend Windchime!"
+    ],
+    "negative_snippets": [
+      "I visited Hotel Windchim in Gurgaon on New Year, and it was one of the worst experiences I\u2019ve ever had. The hotel management was extremely rude, especially Mr. Mohan. They tried to overcharge us, and when we questioned them, he started shouting at us instead of resolving the issue. Even the hotel owner supported his behavior instead of helping us.\nPlease be very careful if you visit this place. Take everything in writing, otherwise they will try to cheat you."
+    ]
+  },
+  "review_summary": "Based on 5 reviews.",
+  "positive_themes": {
+    "clean_rooms": 3,
+    "friendly_staff": 4,
+    "good_location": 2,
+    "good_food": 2
+  },
+  "negative_themes": {
+    "rude_staff": 1
+  }
+}

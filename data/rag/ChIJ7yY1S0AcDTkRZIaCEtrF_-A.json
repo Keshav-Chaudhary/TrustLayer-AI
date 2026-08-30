@@ -1,0 +1,55 @@
+{
+  "hotel_id": "ChIJ7yY1S0AcDTkRZIaCEtrF_-A",
+  "hotel_name": "Taurus Sarovar Portico Hotel, New Delhi",
+  "area": "Mahipalpur",
+  "budget_category": "Mid-Range",
+  "rating": 3.8,
+  "trust_score": 0.5990263944519038,
+  "travel_purpose_tags": [
+    "Budget"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "moderate",
+    "review_count": 5,
+    "positive_snippet_count": 2,
+    "negative_snippet_count": 3,
+    "positive_theme_count": 5,
+    "negative_theme_count": 3
+  },
+  "aspect_scores": {
+    "cleanliness": 0.500005340007192,
+    "service": 0.278324183949735,
+    "location": 0.3693953589778782,
+    "value_for_money": 0.0009452241138205,
+    "staff_behavior": 0.278324183949735
+  },
+  "recommendation_features": {
+    "popularity_score": 0.7974057937673524,
+    "rating_score": 3.8,
+    "sentiment_score": 0.2227020024001831
+  },
+  "review_evidence": {
+    "positive_snippets": [
+      "Room was clean, quiet and well equipped. Some improvements can be done though, such as brightening and ventilating it a bit.\nThe staff was cordial, prompt and respectful. It was very easy to check in. The buffet food was of good quality and freshly made. Perfectly located near Delhi airport for quick transits or catching flights.",
+      "Much better than expected having seen reviews on Trip Adviser. We got a great room! Very well equipped and comfortable. Breakfast was very good. Excellent service for me but my wife wwas a little ignored but i think this is just old attitudes. Night staff not so friendly and i was disappointed that no beer available in the Bar. Area is a little rough with many massage parlours and girlie bars nearby. Great Hotel for short stays and Airport transfers..l"
+    ],
+    "negative_snippets": [
+      "Honestly, this property feels outdated and poorly maintained. The rooms are quite small and give a cramped feeling. Maintenance is clearly lacking \u2014 things don\u2019t feel fresh or properly cared for. There was a TV in the room, but it wasn\u2019t even working, which is basic hospitality and should not be overlooked.\nService was disappointing and slow. The staff didn\u2019t seem attentive, and overall responsiveness was poor. For the price they charge, the experience does not match expectations.\nThe only positive aspect was the food \u2014 it was genuinely good and probably the only highlight of the stay.\nOverall, not recommended unless major improvements are made in maintenance and service standards.",
+      "I had a very disappointing stay at this hotel and would not recommend it to anyone.\n\nThe location is extremely crowded and noisy, which made it hard to relax. The furniture is old and worn out, with torn sofas and broken door handles that clearly haven\u2019t been maintained for years. The carpets were dirty, giving the room an overall unhygienic feeling.\n\nThe bathroom was in poor condition as well. The sink taps were rusted, several bathroom accessories were damaged, and some tiles were broken. These issues made the room feel neglected and far below acceptable standards.\n\nTo make things worse, the breakfast was tasteless and offered very little quality or variety.\n\nThe rooms has no windows so you will be living ina box.\n\nTV not working.\n\nOverall, this hotel is not worth the price or the inconvenience. I strongly advise other tourists to read reviews carefully and think twice before booking this place to avoid the same unpleasant experience.",
+      "Had a horrible experience with the staff. I was denied a room even after getting a confirmation mail from the hotel. I reached the hotel at 1 AM and the staff there tells me that communication was given at 6 PM about my room being cancelled. I did not receive any such communication. When I tried to tell them it is 1 AM they were saying that's your problem. Really a nightmare experience. Only when I insisted they provided a written letter that the room isn't available. Will definitely not recommend to anyone. Finally around 2 AM they gave the letter and I had to leave the premises. I am not sure how they are ok with sending a customer at 2.00 AM with luggage. I am sure they will be giving good service but if the staff have not been given this basic training to consider a customer's plight at such a time. Would definitely not recommend and also surprised that Sarovar Portico brand staff are behaving like this."
+    ]
+  },
+  "review_summary": "Based on 5 reviews.",
+  "positive_themes": {
+    "clean_rooms": 1,
+    "friendly_staff": 4,
+    "good_location": 3,
+    "good_food": 4,
+    "great_value": 1
+  },
+  "negative_themes": {
+    "dirty_rooms": 1,
+    "noise": 1,
+    "bad_food": 1
+  }
+}

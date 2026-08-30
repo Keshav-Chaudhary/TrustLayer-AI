@@ -1,0 +1,48 @@
+{
+  "hotel_id": "ChIJAzdTzS7jDDkRIt7HRR47yfc",
+  "hotel_name": "Park Inn By Radisson New Delhi Lajpat Nagar",
+  "area": "Lajpat Nagar",
+  "budget_category": "Budget",
+  "rating": 4.2,
+  "trust_score": 0.8923649923206121,
+  "travel_purpose_tags": [
+    "Leisure",
+    "Business"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "moderate",
+    "review_count": 5,
+    "positive_snippet_count": 3,
+    "negative_snippet_count": 0,
+    "positive_theme_count": 4,
+    "negative_theme_count": 0
+  },
+  "aspect_scores": {
+    "cleanliness": 0.9994957248369852,
+    "service": 0.9996294975280762,
+    "location": 0.9996660947799684,
+    "value_for_money": 0.5,
+    "staff_behavior": 0.9998456438382468
+  },
+  "recommendation_features": {
+    "popularity_score": 0.761164944108821,
+    "rating_score": 4.2,
+    "sentiment_score": 0.9996294975280762
+  },
+  "review_evidence": {
+    "positive_snippets": [
+      "During my frequent business travel to Delhi, I generally used to stay in this Hotel due to its locational advantage. However, after my experience of stay this time I will make sure that I always stay here for my next trips. Shikha and Sunil was so helpful and exceptional in service that I must recognise them.\nI had a fast for a day during my stay and I had requested the chef whether he can prepare breakfast for me accordingly. Though it was out of their menu, he took special care in preparing that and Sunil personally served me with full respect and care - it felt very satisfying.\nDuring the breakfast the next day, Shikha guided me to choose special Paratha and got it served with due care.\nOverall, excellent experience to make me decide to always stay here in future.",
+      "We stayed at this hotel with family and had a comfortable and peaceful experience. The rooms were clean, the environment was calm, and the staff was very supportive. It felt safe and relaxing. Breakfast was amazing and thanks to \u2018\u2019Ms: Shikha kumari\u2019\u2019she was so kind and helping. Thank you for the great service",
+      "Had a very pleasant stay at this hotel. The location is extremely convenient, the rooms were clean, and all the amenities were well maintained. ATUL GAUR at the reception was very accommodating and pleasant, which made the experience even better. The check-in and check-out process was smooth and hassle-free. Breakfast was excellent, with an immense variety of options to choose from. Overall, a great stay and I would definitely recommend this hotel."
+    ],
+    "negative_snippets": []
+  },
+  "review_summary": "Based on 5 reviews.",
+  "positive_themes": {
+    "friendly_staff": 3,
+    "good_location": 2,
+    "good_food": 4,
+    "clean_rooms": 3
+  },
+  "negative_themes": {}
+}

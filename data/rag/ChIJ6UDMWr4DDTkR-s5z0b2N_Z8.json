@@ -1,0 +1,48 @@
+{
+  "hotel_id": "ChIJ6UDMWr4DDTkR-s5z0b2N_Z8",
+  "hotel_name": "Fabstays-Hotel Akash Continental",
+  "area": "Hari Nagar",
+  "budget_category": "Budget",
+  "rating": 3.7,
+  "trust_score": 0.4546788544572496,
+  "travel_purpose_tags": [
+    "Budget"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "moderate",
+    "review_count": 5,
+    "positive_snippet_count": 0,
+    "negative_snippet_count": 3,
+    "positive_theme_count": 2,
+    "negative_theme_count": 2
+  },
+  "aspect_scores": {
+    "cleanliness": 0.001679196449307,
+    "service": 0.0036976332776248,
+    "location": 0.5,
+    "value_for_money": 0.5,
+    "staff_behavior": 0.0023638338898308
+  },
+  "recommendation_features": {
+    "popularity_score": 0.513618661611164,
+    "rating_score": 3.7,
+    "sentiment_score": 0.0011205593880731
+  },
+  "review_evidence": {
+    "positive_snippets": [],
+    "negative_snippets": [
+      "Hotel staff is friendly, handling check-in efficiently and offering help with luggage. The rooms are clean but show minor wear, like faded curtains. The vibe is vibrant, but elevators are slow during peak times. Amenities like the pool are functional but need better maintenance. Support team is approachable but delays issue resolution. It\u2019s a thik thak hotel for a short stay, needing tweaks in upkeep. I\u2019ll consider other options before returning, as it\u2019s decent but lacks refinement.",
+      "These guys are a scam. They list their property online for booking and whilst the booking is confirmed and paid in full the shady guy at the concierge says the hotel is fully booked and we cannot access any online bookings. When asked for on the spot booking with them somehow they were ready to allot a room. It's a bunch of idiots scamming people.",
+      "The rooms are incredibly congested, leaving little space to move around comfortably. The smell in both the room and the bathroom was unbearable\u2014stale and musty, as if they hadn\u2019t been properly aired out or cleaned in ages. The bathrooms were in poor condition, with a dirty commode that was dark yellow and looked like it hadn't been scrubbed in a long time. Honestly, I don\u2019t think they even bother changing the bedsheets or pillow covers between guests, as they seemed stained and worn. The curtains, too, were clearly overdue for a wash. Also, there\u2019s no lift, and the stairs to reach the hotel are narrow and difficult to navigate, especially with luggage.\n\nDon\u2019t fall for the pics uploaded by the owner\u2014they make it look much nicer than it actually is."
+    ]
+  },
+  "review_summary": "Based on 5 reviews.",
+  "positive_themes": {
+    "clean_rooms": 3,
+    "friendly_staff": 2
+  },
+  "negative_themes": {
+    "dirty_rooms": 1,
+    "bad_food": 1
+  }
+}

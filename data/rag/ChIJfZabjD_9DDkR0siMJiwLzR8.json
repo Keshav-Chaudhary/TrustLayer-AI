@@ -1,0 +1,51 @@
+{
+  "hotel_id": "ChIJfZabjD_9DDkR0siMJiwLzR8",
+  "hotel_name": "Hotel Ajanta - Free Airport Pick Up Service",
+  "area": "Paharganj",
+  "budget_category": "Mid-Range",
+  "rating": 4.6,
+  "trust_score": 0.9430640055297668,
+  "travel_purpose_tags": [
+    "Leisure",
+    "Business",
+    "Family"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "moderate",
+    "review_count": 5,
+    "positive_snippet_count": 3,
+    "negative_snippet_count": 0,
+    "positive_theme_count": 4,
+    "negative_theme_count": 1
+  },
+  "aspect_scores": {
+    "cleanliness": 0.99838724732399,
+    "service": 0.9688994884490968,
+    "location": 0.9985806047916412,
+    "value_for_money": 0.99838724732399,
+    "staff_behavior": 0.9765130132436752
+  },
+  "recommendation_features": {
+    "popularity_score": 0.7779319925652973,
+    "rating_score": 4.6,
+    "sentiment_score": 0.980694591999054
+  },
+  "review_evidence": {
+    "positive_snippets": [
+      "We stayed in early March 2026. It's a great place to stay so close to the New Delhi railway station (NDLS). It's also vwry easyto get autos to and from the hotel. A taxi can also drop you & your luggage right at the doorstep. It's one of the best hotels in this price range I've stayed across many cities in India. The room was very comfortable although just a tiny bit squeezy - not enough place to keep 2 luggage bags open, but was still manageable. Toilets were very clean with unlimited hot & cold water. The AC was nice and cool but had a bit of a damp smell as they had not been used for a long time during winter but the hotel said that they're slowly servicing all the ACs, which is great. Breakfast was good. Cleaner and more options than most hotels in this price range. We got a middle room, so there was no window but I think that is what made it so quiet.",
+      "This hotel was a 10 out of 10 for me. I travel extensively and I have never seen such helpful and friendly staff. Everyone from cleaning staff to reception alto restaurant were absolutely wonderful. Aman the hotel manager went above and beyond to give me helpful tips and arrange for transportation.\n\nOn the last day he booked a city tour for me\nThe driver was Hardish and he spent the entire day driving me around Delhi from one historical monument to another. As a foreign woman travelling alone in what can be a chaotic city, I felt very comfortable with Hardish. He was really great and I highly recommend him for any in out or out of town tours. I wish I had found him the first day I got here.\n\nAll in all, this hotel and everyone associated with it was great.",
+      "Good hotel. Great tour team - Mr Amaan who arranged our 2 day Delhi tour, with our excellent, helpful and English-speaking driver Mr Riyaz who we got to know and he provided lots of information about sites and culture. The breakfast was nice and restaurant team good, particularly Sarendra and Shyam. Generally the reception team tried to address room issues. The only thing is there were a few times the hot water was not working."
+    ],
+    "negative_snippets": []
+  },
+  "review_summary": "Based on 5 reviews.",
+  "positive_themes": {
+    "clean_rooms": 3,
+    "good_location": 2,
+    "good_food": 3,
+    "friendly_staff": 4
+  },
+  "negative_themes": {
+    "dirty_rooms": 1
+  }
+}

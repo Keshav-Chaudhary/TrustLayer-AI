@@ -1,0 +1,52 @@
+{
+  "hotel_id": "ChIJLTUFPQABDTkR2v6CmEIy83o",
+  "hotel_name": "Hotel 24 Star Inn",
+  "area": "Adarsh Nagar",
+  "budget_category": "Budget",
+  "rating": 4.9,
+  "trust_score": 0.938030825986334,
+  "travel_purpose_tags": [
+    "Leisure",
+    "Business",
+    "Family"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "moderate",
+    "review_count": 5,
+    "positive_snippet_count": 3,
+    "negative_snippet_count": 0,
+    "positive_theme_count": 5,
+    "negative_theme_count": 1
+  },
+  "aspect_scores": {
+    "cleanliness": 0.9994059085845948,
+    "service": 0.9991270105044048,
+    "location": 0.9987535178661346,
+    "value_for_money": 0.9987535178661346,
+    "staff_behavior": 0.9998213052749634
+  },
+  "recommendation_features": {
+    "popularity_score": 0.5387011984829421,
+    "rating_score": 4.9,
+    "sentiment_score": 0.9994059085845948
+  },
+  "review_evidence": {
+    "positive_snippets": [
+      "I always try to review any hotel in relation to other properties in the vicinity.\nFor my point of view it is the best among whom I visited in the locality.\nThe other hotels have congestion, unclean.\nThis hotel has very neat and clean rooms. Service is the best. Toilets are clean , worth to mention in relation to other properties in the vicinity is worth stay in terms of cleanliness and hospitality.\nRoom charges are reasonable and in the room we stayed had three beds with enough space.\nThe hotel can be made more comfortable and luxurious with few add on immenties like availability of iron , mini fridge.",
+      "The room was excellent and exceeded my expectations. It was very clean, spacious, and well maintained. The bed was comfortable and perfect for a relaxing stay. The d\u00e9cor and lighting created a calm and elegant atmosphere. The bathroom was modern, hygienic, and well equipped. All amenities were neatly arranged and useful. Housekeeping was prompt and professional. The overall ambiance made my stay truly enjoyable. I would definitely rate this room 5 stars and highly recommend it.",
+      "I recently stayed at Hotel 24 Star Inn and had a wonderful experience. The rooms were clean, comfortable, and well-maintained, with all the basic amenities you\u2019d expect. The staff was extremely polite and helpful \u2014 they made sure every little request was taken care of promptly.\n\nThe location is convenient, close to shops and restaurants, yet peaceful enough for a good night\u2019s sleep. The food service was also impressive \u2014 fresh, tasty, and served on time.\n\nOverall, great value for money and perfect for both short and long stays. I\u2019d definitely recommend Hotel 24 Star Inn to anyone looking for a pleasant, hassle-free experience."
+    ],
+    "negative_snippets": []
+  },
+  "review_summary": "Based on 5 reviews.",
+  "positive_themes": {
+    "clean_rooms": 5,
+    "great_value": 2,
+    "friendly_staff": 3,
+    "good_location": 2,
+    "good_food": 1
+  },
+  "negative_themes": {
+    "dirty_rooms": 1
+  }
+}

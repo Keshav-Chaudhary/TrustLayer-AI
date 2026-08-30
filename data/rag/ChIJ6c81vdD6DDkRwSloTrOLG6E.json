@@ -1,0 +1,55 @@
+{
+  "hotel_id": "ChIJ6c81vdD6DDkRwSloTrOLG6E",
+  "hotel_name": "The Vaishali Inn",
+  "area": "Vaishali",
+  "budget_category": "Budget",
+  "rating": 4.0,
+  "trust_score": 0.7123841453786506,
+  "travel_purpose_tags": [
+    "Leisure"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "rich",
+    "review_count": 5,
+    "positive_snippet_count": 3,
+    "negative_snippet_count": 2,
+    "positive_theme_count": 5,
+    "negative_theme_count": 3
+  },
+  "aspect_scores": {
+    "cleanliness": 0.5000453999673482,
+    "service": 0.4912310352956409,
+    "location": 0.9998420476913452,
+    "value_for_money": 0.0002379347715759,
+    "staff_behavior": 0.5000448711689387
+  },
+  "recommendation_features": {
+    "popularity_score": 0.6447023658833219,
+    "rating_score": 4.0,
+    "sentiment_score": 0.5964768201491097
+  },
+  "review_evidence": {
+    "positive_snippets": [
+      "Unforgettable Stay at The Vaishali, Delhi!\n\nHad an amazing stay at The Vaishali Inn in Delhi! Every single aspect exceeded expectations \u2013 the staff were super friendly & helpful, making check-in and our stay a breeze \ud83d\ude0a. The restaurant served up some mouth-watering dishes, definitely a highlight! Clean, comfy rooms and prime location = perfect combo.\n\nHighly recommend The Vaishali for anyone heading to Delhi \u2013 you won't be disappointed.",
+      "Went there to attend a small function. It is located on the main road so it's easy to find but they don't have any designated parking area so that's a hassle. The food and service during the event was really good.",
+      "I initially booked my stay for two nights but ended up extending it for four more, which speaks to my overall positive experience. The hotel\u2019s location is excellent\u2014very close to the metro station, making it convenient for commuting. Additionally, there are several markets nearby, and the locality itself is quite good.\n\nAs for the hotel, it is decent and provides a comfortable stay. The room I was given was spacious with a well-sized bed.\nOne of the highlights is their in-house restaurant, which serves purely vegetarian food. I tried the sandwich and pasta and both tasted quite good.\n\nThe hotel staff were courteous and helpful adding to the pleasant experience."
+    ],
+    "negative_snippets": [
+      "Worst Experience. NOT RECOMMENDED\n\nStaffs are rude .Waiters/room service boys are always waiting/demanding tips.\n\nRooms are not clean. Bathroom is dirty. Cockroaches are on bed. Dirty bedsheets.\n\nFood is below standard.\n\nNot recommended at all.",
+      "I stayed for 2 days at Vaishali Inn and found the experience below expectations considering the price. The room felt outdated and was quite small, with a very small TV (around 28 inches) barely visible from the bed. Basic amenities like hand wash were missing\u2014only a bar soap was provided. While the staff was polite and helpful, the overall facilities were lacking. Breakfast was average. Not worth the price for the quality offered."
+    ]
+  },
+  "review_summary": "Based on 5 reviews.",
+  "positive_themes": {
+    "clean_rooms": 2,
+    "friendly_staff": 4,
+    "good_location": 2,
+    "good_food": 4,
+    "great_value": 1
+  },
+  "negative_themes": {
+    "parking_issues": 1,
+    "dirty_rooms": 1,
+    "rude_staff": 1
+  }
+}

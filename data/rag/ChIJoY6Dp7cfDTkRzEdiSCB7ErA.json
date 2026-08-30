@@ -1,0 +1,49 @@
+{
+  "hotel_id": "ChIJoY6Dp7cfDTkRzEdiSCB7ErA",
+  "hotel_name": "The Woodbury",
+  "area": "Sector 26",
+  "budget_category": "Mid-Range",
+  "rating": 4.5,
+  "trust_score": 0.819659981887319,
+  "travel_purpose_tags": [
+    "Family"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "moderate",
+    "review_count": 5,
+    "positive_snippet_count": 3,
+    "negative_snippet_count": 1,
+    "positive_theme_count": 4,
+    "negative_theme_count": 0
+  },
+  "aspect_scores": {
+    "cleanliness": 0.9994739592075348,
+    "service": 0.7500676094787195,
+    "location": 0.001465689856559,
+    "value_for_money": 0.9994739592075348,
+    "staff_behavior": 0.6669635215463737
+  },
+  "recommendation_features": {
+    "popularity_score": 0.5312738306702829,
+    "rating_score": 4.5,
+    "sentiment_score": 0.8000053667463363
+  },
+  "review_evidence": {
+    "positive_snippets": [
+      "I love this hotel so much. This is not a paid review, I booked the hotel with my own money. I have tried several hotels around this price point around Delhi and they were mostly disappointing. But this one is the hotel I'll recommend and go back to again. Room is so clean and fancy and spacious I feel so comfortable, its like a haven in the midst of this polluted city. Food is amazing. The service staff are kind and helpful. As a female traveler I feel safe staying here. After staying in scammy hotels where the pictures didnt match the reality, finding this hotel was such a relief. Thank you to the staff at Woodbury",
+      "Great stay. The hotel is very well maintained, gives utmost comfort, service is amazing. There's no reason why you wouldn't choose this as your frequent stay if you are in the vicinity. Peaceful surroundings, silent zone, good food, lovely breakfast.",
+      "The stay was quiet and calm, room were neat and clean with decent space, bathrooms were also clean and decently spacious. Only if the price which I got it for is a bit more acc to me rest the stay was overall very good. No disturbance with great service."
+    ],
+    "negative_snippets": [
+      "The hotel is not quite as good as it appears online\n\nThe location is fine, the room was spacious and comfortable, the water for the shower was only hot in the morning, later in the day it would only come out luke warm.\nThe WiFi worked perfectly and the Ac also\n\nThe room itself just looked directly onto another building's wall and a service stairway which wasn't very nice as staff were walking past outside the window, very different to images shown when booking\n\nUnfortunately the floor in the hallway is extremely squeaky so you can hear squeaky footsteps outside your room whenever someone passes.\n\nThe breakfast is very basic, not a huge amount of choice and lacking any fruit juice, the omelette was quite dry, coffees and teas etc were just from a flask and not fresh.\n\nThe staff were very friendly and check-in etc was fine but in the three nights we stayed our room wasn't cleaned or our bins emptied and it is wasn't offered either.\n\nWe probably would not return to this hotel if given a choice."
+    ]
+  },
+  "review_summary": "Based on 5 reviews.",
+  "positive_themes": {
+    "clean_rooms": 3,
+    "friendly_staff": 3,
+    "good_food": 4,
+    "good_location": 1
+  },
+  "negative_themes": {}
+}

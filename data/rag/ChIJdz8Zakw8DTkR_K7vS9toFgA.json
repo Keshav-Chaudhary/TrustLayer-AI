@@ -1,0 +1,47 @@
+{
+  "hotel_id": "ChIJdz8Zakw8DTkR_K7vS9toFgA",
+  "hotel_name": "Istay Serenity Villa Manesar",
+  "area": "Imt Manesar",
+  "budget_category": "Budget",
+  "rating": 4.3,
+  "trust_score": 0.8664332589491734,
+  "travel_purpose_tags": [
+    "Business"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "moderate",
+    "review_count": 5,
+    "positive_snippet_count": 3,
+    "negative_snippet_count": 0,
+    "positive_theme_count": 4,
+    "negative_theme_count": 0
+  },
+  "aspect_scores": {
+    "cleanliness": 0.999861478805542,
+    "service": 0.999861478805542,
+    "location": 0.5,
+    "value_for_money": 0.5,
+    "staff_behavior": 0.9998319745063782
+  },
+  "recommendation_features": {
+    "popularity_score": 0.5764458698130733,
+    "rating_score": 4.3,
+    "sentiment_score": 0.9998290657997132
+  },
+  "review_evidence": {
+    "positive_snippets": [
+      "I have been staying at this hotel for the last four years. It is one of the best hotels, and the staff and services are excellent. I usually stay here for my iCAT work, and it is the best hotel I have experienced. Every time, I have had the same great experience over the past year.",
+      "Absolutely Fantastic Stay!\n\nI had an amazing experience at this hotel! The hospitality and service were truly top-notch. From the moment I arrived, the staff went out of their way to make me feel welcome and comfortable. Everyone was incredibly polite, professional, and attentive to every detail.\n\nThe check-in process was smooth, and my room was spotless, well-maintained, and cozy. Housekeeping was consistent and thorough, and any requests I had were handled quickly and with a smile. I also appreciated the Hospitality \u2014 like a warm greeting every time I passed the front desk and their genuine interest in making my stay enjoyable.\n\nIf you're looking for a place that truly values its guests and delivers outstanding service, I highly recommend staying here. I\u2019ll definitely be coming back!",
+      "Best hotel in nce full hotel is decorated and hotel food is very tasty and staff behaviour is good and fast services"
+    ],
+    "negative_snippets": []
+  },
+  "review_summary": "Based on 5 reviews.",
+  "positive_themes": {
+    "friendly_staff": 4,
+    "clean_rooms": 1,
+    "great_value": 1,
+    "good_food": 3
+  },
+  "negative_themes": {}
+}

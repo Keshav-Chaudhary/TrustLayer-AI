@@ -1,0 +1,46 @@
+{
+  "hotel_id": "ChIJyRKgd5E9DTkRQ-_q9wDDy3I",
+  "hotel_name": "Ar Suites, Klj Square, Gurugram",
+  "area": "Sector 83",
+  "budget_category": "Mid-Range",
+  "rating": 4.8,
+  "trust_score": 0.9353812361993208,
+  "travel_purpose_tags": [
+    "Business"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "moderate",
+    "review_count": 5,
+    "positive_snippet_count": 3,
+    "negative_snippet_count": 0,
+    "positive_theme_count": 3,
+    "negative_theme_count": 0
+  },
+  "aspect_scores": {
+    "cleanliness": 0.9998512268066406,
+    "service": 0.9998614937067032,
+    "location": 0.5,
+    "value_for_money": 0.5,
+    "staff_behavior": 0.9998532384634018
+  },
+  "recommendation_features": {
+    "popularity_score": 0.5880636830925053,
+    "rating_score": 4.8,
+    "sentiment_score": 0.9998594403266908
+  },
+  "review_evidence": {
+    "positive_snippets": [
+      "We had a experience at AR Suites, KLJ Square. The service and hospitality here were truly excellent.\nA special thanks to Dammy and Swapnil for their warm welcome and great support during our stay. They made our visit very comfortable and memorable.\nWe really appreciate the experience and look forward to coming back again in the future. Thank you! \ud83d\ude0a",
+      "We stayed at AR SUITES KLJ by AHUJA RESIDENCY for a wedding event, and our experience was truly wonderful. The stay was very comfortable, and everything was well arranged.\nWe would especially like to thank Mr. Sajid and Mr. Dammy for their outstanding support. They were extremely helpful, cooperative, and professional throughout our stay. Their positive attitude and excellent service made our experience even more special.\nWe are truly grateful for the hospitality and the great service provided by the entire team. We highly appreciate the effort and dedication shown to make our stay pleasant and memorable.",
+      "I had a truly wonderful stay here. From the moment I arrived, the atmosphere felt incredibly warm and 'homey.' The rooms were spotless, and the food was consistently delicious.\n\u200bWhat really sets this hotel apart, however, is the staff. The housekeeping team is remarkably cooperative and diligent.\nI want to extend a special thank you to Ching Ma\u2019am and Fazil Sir for their exceptional assistance; their kindness and cooperation made my stay seamless.\nI highly recommend this place to anyone looking for comfort and genuine hospitality!"
+    ],
+    "negative_snippets": []
+  },
+  "review_summary": "Based on 5 reviews.",
+  "positive_themes": {
+    "friendly_staff": 4,
+    "clean_rooms": 1,
+    "good_food": 2
+  },
+  "negative_themes": {}
+}

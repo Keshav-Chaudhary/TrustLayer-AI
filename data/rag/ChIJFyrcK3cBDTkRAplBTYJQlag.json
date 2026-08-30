@@ -1,0 +1,44 @@
+{
+  "hotel_id": "ChIJFyrcK3cBDTkRAplBTYJQlag",
+  "hotel_name": "Oyo Townhouse 963 Hotel The Victorian Palace Near Samaypur Badli Metro Station",
+  "area": "Nangli Puna",
+  "budget_category": "Budget",
+  "rating": 4.3,
+  "trust_score": 0.7263042619644631,
+  "travel_purpose_tags": [
+    "Budget"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "sparse",
+    "review_count": 5,
+    "positive_snippet_count": 3,
+    "negative_snippet_count": 1,
+    "positive_theme_count": 0,
+    "negative_theme_count": 0
+  },
+  "aspect_scores": {
+    "cleanliness": 0.5,
+    "service": 0.9986304044723512,
+    "location": 0.5,
+    "value_for_money": 0.5,
+    "staff_behavior": 0.5
+  },
+  "recommendation_features": {
+    "popularity_score": 0.2918825720663544,
+    "rating_score": 4.3,
+    "sentiment_score": 0.750320901744999
+  },
+  "review_evidence": {
+    "positive_snippets": [
+      "Best service center of PNEUMATIC TOOLS",
+      "Overall experience was quite decent...",
+      "So cute man"
+    ],
+    "negative_snippets": [
+      "Hotal victorian palace at GT carnal road denied booking from OYO"
+    ]
+  },
+  "review_summary": "Based on 5 reviews.",
+  "positive_themes": {},
+  "negative_themes": {}
+}

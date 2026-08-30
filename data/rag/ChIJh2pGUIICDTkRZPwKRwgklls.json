@@ -1,0 +1,50 @@
+{
+  "hotel_id": "ChIJh2pGUIICDTkRZPwKRwgklls",
+  "hotel_name": "Hotel Raj International Deluxe",
+  "area": "New Delhi",
+  "budget_category": "Mid-Range",
+  "rating": 4.4,
+  "trust_score": 0.8238461373646055,
+  "travel_purpose_tags": [
+    "Business"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "moderate",
+    "review_count": 5,
+    "positive_snippet_count": 3,
+    "negative_snippet_count": 1,
+    "positive_theme_count": 3,
+    "negative_theme_count": 1
+  },
+  "aspect_scores": {
+    "cleanliness": 0.7499285132507794,
+    "service": 0.9995556175708772,
+    "location": 0.5001238466938958,
+    "value_for_money": 0.5,
+    "staff_behavior": 0.7498518765787594
+  },
+  "recommendation_features": {
+    "popularity_score": 0.6137452866591407,
+    "rating_score": 4.4,
+    "sentiment_score": 0.7998120499309153
+  },
+  "review_evidence": {
+    "positive_snippets": [
+      "Direct and easiest approach from Delhi Sarai Rohilla railway station\nI visited with my family for few hours but the staff was very courteous and polite\nRoom and bathroom are clean and maintained.\nPositive vibes at reception\nRecommended for family stay\nDefinitely coming here when ever coming back to Delhi",
+      "Arjun sir helped super in selecting the room and the room was ultimately super and clean and the staff was ultimately good and helpful...",
+      "Delhi Delight Se zyada badiya cleanliness badiya services badiya staff behaviour overall good you must stay"
+    ],
+    "negative_snippets": [
+      "Very bad experience. This hotel is near the railway station but they did not allow washroom use, which is against government rules for hotels/restaurants. Staff behaviour was rude and uncooperative. No basic courtesy or humanity. I will not recommend this place to anyone."
+    ]
+  },
+  "review_summary": "Based on 5 reviews.",
+  "positive_themes": {
+    "clean_rooms": 4,
+    "friendly_staff": 4,
+    "good_location": 1
+  },
+  "negative_themes": {
+    "rude_staff": 1
+  }
+}

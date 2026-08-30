@@ -1,0 +1,52 @@
+{
+  "hotel_id": "ChIJ2UWUkp4HDTkRBo8KrLlPKjU",
+  "hotel_name": "Super Townhouse By Oyo Rohini Sector 23",
+  "area": "Budh Vihar",
+  "budget_category": "Budget",
+  "rating": 3.6,
+  "trust_score": 0.58122828155279,
+  "travel_purpose_tags": [
+    "Budget"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "moderate",
+    "review_count": 5,
+    "positive_snippet_count": 2,
+    "negative_snippet_count": 3,
+    "positive_theme_count": 3,
+    "negative_theme_count": 2
+  },
+  "aspect_scores": {
+    "cleanliness": 0.0004014177975477,
+    "service": 0.4979474207830208,
+    "location": 0.0005477008526213,
+    "value_for_money": 0.5,
+    "staff_behavior": 0.4958776204439346
+  },
+  "recommendation_features": {
+    "popularity_score": 0.5751036659325894,
+    "rating_score": 3.6,
+    "sentiment_score": 0.3984507682238472
+  },
+  "review_evidence": {
+    "positive_snippets": [
+      "The best hotel, rooms are exceptionally well, staff was so polite specially the receptionist, she deserves a pay hike for her service.",
+      "Best hotel very good staf and service very spacious and well maintained rooms"
+    ],
+    "negative_snippets": [
+      "Worst staff, worst service, worst location. Washroom leakage , no bucket, mug, Very rude behaviour by staff.\nI strongly recommend that never stay in such a worst atmosphere, much better to stay on the road rather than to stay in this property.",
+      "Rooms are not good and not clean\nWoshroom very durty room are not clean\nLinen is very durty and defferent cuts\nGeyser not working tv not working\nWater glass not available Bathing water is\nSalty water",
+      "Worst experience:\n1.The rooms were full of insects roaming everywhere, after complaining they changed the room.\n2. The lock of the second room's main door was not working, the bathroom fittings were all broken, no room service at all, room lighting was also not working properly.\n3. The rooms were not clean and the bedsheets had stains on it\n4. Bathroom had a foul smell...and the bathroom door lock was also broken\n\nSeems the hotel was not renovated for years....why are they even renting out the rooms when they are least bothered about customer satisfaction....\n\nI would have given them negative ratings if possible. ....worst experience ever. I will never recommend this hotel \ud83d\udc4e\ud83d\ude21"
+    ]
+  },
+  "review_summary": "Based on 5 reviews.",
+  "positive_themes": {
+    "friendly_staff": 2,
+    "good_location": 1,
+    "clean_rooms": 2
+  },
+  "negative_themes": {
+    "rude_staff": 1,
+    "dirty_rooms": 1
+  }
+}

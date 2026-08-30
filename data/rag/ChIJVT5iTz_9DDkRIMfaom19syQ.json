@@ -1,0 +1,53 @@
+{
+  "hotel_id": "ChIJVT5iTz_9DDkRIMfaom19syQ",
+  "hotel_name": "Hotel Sterling Inn",
+  "area": "Paharganj",
+  "budget_category": "Budget",
+  "rating": 3.8,
+  "trust_score": 0.6837312987555604,
+  "travel_purpose_tags": [
+    "Leisure"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "rich",
+    "review_count": 5,
+    "positive_snippet_count": 3,
+    "negative_snippet_count": 2,
+    "positive_theme_count": 4,
+    "negative_theme_count": 2
+  },
+  "aspect_scores": {
+    "cleanliness": 0.4999351379374274,
+    "service": 0.0004274004895705,
+    "location": 0.9990242719650269,
+    "value_for_money": 0.5000837415282149,
+    "staff_behavior": 0.6666689173628887
+  },
+  "recommendation_features": {
+    "popularity_score": 0.6298635254168001,
+    "rating_score": 3.8,
+    "sentiment_score": 0.5998939058859832
+  },
+  "review_evidence": {
+    "positive_snippets": [
+      "Very good hotel and at very good location just 5 min walk from new Delhi railway station. No sound pollution. Rooms are clean and hot water available. Tripple bed was available for me and my parents for complimentary.\nMust stay .",
+      "Clean and comfortable room really nice staff and\nGood behaviour manager  and  very good food \ud83e\udd58",
+      "It was a great experience and very well maintained hotel and they are very cooperative and and it was budget friendly."
+    ],
+    "negative_snippets": [
+      "Pathetic experience at Sterling Inn. First, its a very shady path to reach the hotel and then the amenities are not provided properly. The room was very dirty and all the toileteries were not of good quality. The bathroom door was not getting closed and was not aligned. Also the staff was very rude and fraudulent in terms of overcharging for food than the menu card and including a service charge and not providing a bill for it. Never recommend this hotel.",
+      "I don't know how to express my frustration after spending a day and night here. We have not stayed anywhere in Paharganj before however this is worst hotel I have ever booked.\nRooms are old and well maintained, toilets are not spacious and clean.\nWater outlets are not in good shape.\nEverytime you have to request at reception to switch on Air conditioner in room because they did not provide any switch for AC in the room and they switched off it even without asking the guest. Its so disgusting, I have not found any hotel which having AC switch for every room at front desk.\n\nThey provide RO water free of charge however charges 30/- per liter a mineral water bottle. They provide breakfast lunch n dinner on request. They also charge special charges on final bill of any ordered food.\n\nPlease don't go on the pictures it has posted on Google like I thought it would be a great choice at this price but I had a real bad experience here.\nI requested them to switch on AC multiple times day and night as they were switching off by their own without my consent. They don't even have gyser in bathrooms."
+    ]
+  },
+  "review_summary": "Based on 5 reviews.",
+  "positive_themes": {
+    "clean_rooms": 3,
+    "good_location": 1,
+    "friendly_staff": 3,
+    "good_food": 3
+  },
+  "negative_themes": {
+    "dirty_rooms": 1,
+    "rude_staff": 1
+  }
+}

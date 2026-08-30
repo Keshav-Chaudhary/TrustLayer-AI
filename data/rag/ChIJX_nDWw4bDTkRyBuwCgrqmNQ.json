@@ -1,0 +1,49 @@
+{
+  "hotel_id": "ChIJX_nDWw4bDTkRyBuwCgrqmNQ",
+  "hotel_name": "Hotel Grand Tashree",
+  "area": "Delhi",
+  "budget_category": "Mid-Range",
+  "rating": 4.8,
+  "trust_score": 0.6389153414684021,
+  "travel_purpose_tags": [
+    "Budget"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "moderate",
+    "review_count": 5,
+    "positive_snippet_count": 0,
+    "negative_snippet_count": 3,
+    "positive_theme_count": 3,
+    "negative_theme_count": 2
+  },
+  "aspect_scores": {
+    "cleanliness": 0.0010801570824696,
+    "service": 0.0012343433045316,
+    "location": 0.5,
+    "value_for_money": 0.5,
+    "staff_behavior": 0.0016589050210313
+  },
+  "recommendation_features": {
+    "popularity_score": 0.6925471892623294,
+    "rating_score": 4.8,
+    "sentiment_score": 0.0009680485294665
+  },
+  "review_evidence": {
+    "positive_snippets": [],
+    "negative_snippets": [
+      "If you wants to go with review ratings all the best. One of the worst stay i ever stayed in my entire life.\nNo clean bedsheets .\nNo Lift.\nNo Drinking Water.\nNo basic amenities.\nWorst heigiene .\nI don't think they changes the bedsheet or cleans the room.\n\nIn single day they changed my 3 rooms.\nI asked them to clean the spider webs. The said service guy is not available.\n\nIssues goes on.\n\nRooms potential was good. Service and maintenance is zero. Hope the staffs changes and improvements may happen in the future.",
+      "Pathetic room. No water in morning. Bathroom condition below average.\nIt\u2019s winter in delhi and No hot water even if you switch on the given switch in bathroom.\n\nFood supply is a scam!! The guy who takes order or supply food to room is so arrogant that if you ask a plate he ask you to adjust with bowl. The look he gives if you request him anything, even tom cruise will shy!\nBoth quality of food the serving time is frustrating. We managed with stale and costly dinner.\n\nOnly good point the madam at reception is very helpful and proactive.",
+      "We checked in to the hotel at night as we missed the flight and then had the most horrific experience.\nThey had no drinking water, had to blinkit at night, no food to offer, had to order from zomato, no water in the basin or toilet, and got a bucket of water only. When asked for plates got to know no plates are available , got small paper plates instead. Dirty bedsheet, pillow cover, uncleaned washroom were add-ons.\n\nOverall the most pathetic experience one can ever have after missing a flight.\nNever ever stay in this hotel."
+    ]
+  },
+  "review_summary": "Based on 5 reviews.",
+  "positive_themes": {
+    "clean_rooms": 3,
+    "friendly_staff": 3,
+    "good_food": 2
+  },
+  "negative_themes": {
+    "bad_food": 1,
+    "dirty_rooms": 1
+  }
+}

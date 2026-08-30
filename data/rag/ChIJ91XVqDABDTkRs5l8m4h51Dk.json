@@ -1,0 +1,53 @@
+{
+  "hotel_id": "ChIJ91XVqDABDTkRs5l8m4h51Dk",
+  "hotel_name": "Fabhotel Moro Rohini Sector 11",
+  "area": "New Delhi",
+  "budget_category": "Mid-Range",
+  "rating": 3.5,
+  "trust_score": 0.4548895120624379,
+  "travel_purpose_tags": [
+    "Budget"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "moderate",
+    "review_count": 5,
+    "positive_snippet_count": 1,
+    "negative_snippet_count": 3,
+    "positive_theme_count": 4,
+    "negative_theme_count": 3
+  },
+  "aspect_scores": {
+    "cleanliness": 0.2001664335635723,
+    "service": 0.0002411719033261,
+    "location": 0.0002409539520158,
+    "value_for_money": 0.5,
+    "staff_behavior": 0.5000358163379132
+  },
+  "recommendation_features": {
+    "popularity_score": 0.3410402707054878,
+    "rating_score": 3.5,
+    "sentiment_score": 0.2001664335635723
+  },
+  "review_evidence": {
+    "positive_snippets": [
+      "One of the best Hotel in rohini. We stayed there for family get together and their staff of this hotel made our stay so memorable with delicious food, clean room, best staff with smile and caring gesture. Swimming pool is also indoor which gave a good enjoyment to us and kids during this heatwave.\nA Big Thanks to entire team of hotel moro."
+    ],
+    "negative_snippets": [
+      "Extremely disappointing experience at Hotel Moro. I went there to enquire about a bulk booking for 2 days, and the reception staff were unbelievably rude, arrogant, and completely uninterested in helping. They acted like we were disturbing them and showed zero professionalism or basic courtesy. On top of that, it\u2019s not even a proper hotel \u2013 it\u2019s been set up in an apartment. The entrance is extremely dirty, and the overall hygiene of the place is terrible. Absolutely disgusting. Definitely not a place I would recommend \u2013 avoid unless you want to be treated like an unwanted nuisance in a filthy, poorly managed setup.",
+      "First of all, once you reach the location, you\u2019ll probably struggle to even find the hotel unless you call the receptionist. Second, there is no free parking, which most hotels usually provide. Third, the rooms have a bad odor and the corridors are extremely dirty. Fourth, all the gates are shut around 11 pm, making it almost impossible to step outside. Lastly, the entrance itself is very unclean, which leaves a poor first impression.",
+      "Location not easily accessible & difficult to found. No board of Fabhotels there. It looked like a Guest House not a hotel. Rooms were not clean & lot of mosquitoes were there. bedsheets were not clean. Environment was not sophisticated. Booked through Fabhotels late at 10pm in night & had to cancel the booking seeing the condition of rooms. Could not blindly trust Fabhotels at late hours."
+    ]
+  },
+  "review_summary": "Based on 5 reviews.",
+  "positive_themes": {
+    "clean_rooms": 3,
+    "friendly_staff": 2,
+    "good_food": 1,
+    "good_location": 2
+  },
+  "negative_themes": {
+    "dirty_rooms": 3,
+    "rude_staff": 1,
+    "parking_issues": 1
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "hotel_id": "ChIJO6S1YKjdDDkRgT-6xy2HcGU",
+  "hotel_name": "Hotel Grand Highway",
+  "area": "Sector 11",
+  "budget_category": "Mid-Range",
+  "rating": 3.7,
+  "trust_score": 0.5718179114605513,
+  "travel_purpose_tags": [
+    "Leisure"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "moderate",
+    "review_count": 5,
+    "positive_snippet_count": 2,
+    "negative_snippet_count": 3,
+    "positive_theme_count": 5,
+    "negative_theme_count": 2
+  },
+  "aspect_scores": {
+    "cleanliness": 0.500033477335819,
+    "service": 0.5001358661829727,
+    "location": 0.9998773336410522,
+    "value_for_money": 0.0003261394934573,
+    "staff_behavior": 0.5000364869192708
+  },
+  "recommendation_features": {
+    "popularity_score": 0.4658164288236393,
+    "rating_score": 3.7,
+    "sentiment_score": 0.4001466171524953
+  },
+  "review_evidence": {
+    "positive_snippets": [
+      "Amazing stay! The hotel was very clean and the staff was polite.\nThe Manger Mr.Nikesh was very helpful and Food was delicious and the service was excellent.\nExcellent location, walking distance to main attractions. Staff was very helpful. Room was big, clean, and cozy.",
+      "I stayed at Hotel Grand Highway for two days and it's a wonderful hotel. The service is excellent, the food quality is excellent, and the rooms and linens are in excellent condition. I would recommend Hotel Grand Highway to anyone."
+    ],
+    "negative_snippets": [
+      "Worst experience ever. I would strongly advise against booking this banquet.\nThey are extremely money-minded and unprofessional. If you book for 150 plates, they will inflate it to 200 without proper justification. They closely monitor guests through cameras and even count if someone shares a single plate.\nThis kind of behavior is unacceptable and feels very cheap. Completely disappointed with their service and approach.",
+      "Very disappointing experience. I would not recommend this banquet to anyone.\nThe billing practices felt unfair and misleading. Despite booking 150 plates, the final count was pushed up significantly. It seemed like guests were being constantly monitored, even to the extent of tracking shared plates through cameras.\nInstead of focusing on hospitality, the management appeared more concerned about extracting extra money. Truly unprofessional and not worth the stress.",
+      "Worst place to stay, dirty room and washroom, no ac, not kind of any services, salty and sometimes no water in tap, broken tap.\nTotal waste of money"
+    ]
+  },
+  "review_summary": "Based on 5 reviews.",
+  "positive_themes": {
+    "clean_rooms": 1,
+    "friendly_staff": 1,
+    "good_location": 1,
+    "good_food": 2,
+    "great_value": 2
+  },
+  "negative_themes": {
+    "rude_staff": 2,
+    "dirty_rooms": 1
+  }
+}

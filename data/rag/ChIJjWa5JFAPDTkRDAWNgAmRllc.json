@@ -1,0 +1,51 @@
+{
+  "hotel_id": "ChIJjWa5JFAPDTkRDAWNgAmRllc",
+  "hotel_name": "City Park Resort",
+  "area": "Mundka",
+  "budget_category": "Luxury",
+  "rating": 4.3,
+  "trust_score": 0.7795216152886254,
+  "travel_purpose_tags": [
+    "Budget"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "moderate",
+    "review_count": 5,
+    "positive_snippet_count": 3,
+    "negative_snippet_count": 1,
+    "positive_theme_count": 3,
+    "negative_theme_count": 2
+  },
+  "aspect_scores": {
+    "cleanliness": 0.0004745549813378,
+    "service": 0.5017974368602154,
+    "location": 0.0075810691341757,
+    "value_for_money": 0.5,
+    "staff_behavior": 0.5017974368602154
+  },
+  "recommendation_features": {
+    "popularity_score": 0.7658101912516572,
+    "rating_score": 4.3,
+    "sentiment_score": 0.6011723750329111
+  },
+  "review_evidence": {
+    "positive_snippets": [
+      "Went there for a wedding. Great place to stay but found it a bit too far from the airport. Maybe the winter fog also caused the delay. Spacious rooms and helpful staff. Though they don\u2019t have a taxi service and hotel is at a place where it\u2019s difficult to get uber or rapido to accept rides.",
+      "A Truly Outstanding Wedding Experience:\n\nI attended my friend Nitin Goyal\u2019s wedding yesterday at Resort City Park, New Delhi, and I must say it was an exceptional experience from start to finish.\n\n\ud83c\udf7d\ufe0f Food:\nThe food was absolutely outstanding. Every dish\u2014from starters to desserts\u2014was flavourful, fresh, and beautifully presented. Guests kept praising the variety and quality.\n\n\u2728 Ambience:\nThe ambience of the venue was stunning. Elegant d\u00e9cor, well-designed layout, and warm lighting made the entire wedding feel grand yet comfortable. Perfect for a memorable celebration.\n\n\ud83e\udd35\u200d\u2642\ufe0f Staff Services:\nThe staff deserves special appreciation. They were polite, attentive, and extremely well-coordinated. Every request was handled promptly with a smile.\n\n\ud83c\udf78 Bar Services:\nThe bar service was excellent with a wide selection of drinks and skilled bartenders. Drinks were served quickly, and the quality was top-notch.\n\n\ud83c\udd7f\ufe0f Parking Experience:\nParking was smooth and hassle-free. The valet and attendants managed the flow perfectly, even with a large gathering.\n\n\ud83e\udd41 Baraat Experience:\nThe baraat arrangements were fantastic\u2014great music, well-managed crowd flow, and lively energy that made the celebration even more vibrant.\n\nOverall, Resort City Park delivered an unforgettable wedding experience.\n\nPlus Thanks to Nitin Goyal and family for hosting this event and coordinating with the event managers to make it a memorable wedding experience \u2728\ufe0f",
+      "The hotel is good and situated at NH. Rooms are at par with 5 star hotels, Frontdesk is courteous. There is scope of improvement in Room service staff.\nOverall hotel seems to be good for stay."
+    ],
+    "negative_snippets": [
+      "I had a very disappointing experience during my stay at this hotel. The staff were extremely unprofessional and their behaviour was rude and unhelpful. Instead of being courteous and assisting guests, they seemed irritated whenever we asked for anything. Basic requests like clean towels and room service were ignored or delayed for hours.\n\nWhat made it worse was the attitude \u2014 rather than apologizing or trying to solve problems, the staff spoke in a dismissive tone. This is not the level of service you expect from a hotel claiming to offer hospitality.\n\nOverall, I would not recommend this place to anyone looking for a comfortable or respectful stay. Management really needs to train the staff on proper customer service and behaviour."
+    ]
+  },
+  "review_summary": "Based on 5 reviews.",
+  "positive_themes": {
+    "friendly_staff": 4,
+    "good_food": 1,
+    "clean_rooms": 1
+  },
+  "negative_themes": {
+    "parking_issues": 1,
+    "rude_staff": 1
+  }
+}

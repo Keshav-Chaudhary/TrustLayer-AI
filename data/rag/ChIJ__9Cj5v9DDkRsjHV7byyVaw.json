@@ -1,0 +1,47 @@
+{
+  "hotel_id": "ChIJ__9Cj5v9DDkRsjHV7byyVaw",
+  "hotel_name": "Hotel Green Snapper",
+  "area": "Malka Ganj",
+  "budget_category": "Mid-Range",
+  "rating": 2.9,
+  "trust_score": 0.3298301085838955,
+  "travel_purpose_tags": [
+    "Budget"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "moderate",
+    "review_count": 5,
+    "positive_snippet_count": 0,
+    "negative_snippet_count": 3,
+    "positive_theme_count": 1,
+    "negative_theme_count": 2
+  },
+  "aspect_scores": {
+    "cleanliness": 0.0012336853105807,
+    "service": 0.000343009858625,
+    "location": 0.5,
+    "value_for_money": 0.0021243607625365,
+    "staff_behavior": 0.0013451222621369
+  },
+  "recommendation_features": {
+    "popularity_score": 0.4209324557207723,
+    "rating_score": 2.9,
+    "sentiment_score": 0.0049217267835046
+  },
+  "review_evidence": {
+    "positive_snippets": [],
+    "negative_snippets": [
+      "Well where do i even start from tbh i wish i could rate them in negitive so the room was non ac , dirty as hell , bedsheets were stained so the room was on forth floor at first they took us just to show our room after that he said now you guys can go and after that he asked neeche aakr paise de kr jaao when i said qr send kr do ya kisi ko bhej do they said mai aaunga kya ab ? Room was rather expensive staff and the manager was rude honestly staying on a footpath feels safer and better than that peice of trash",
+      "With the highest hopes, we entered the shop to get our hands on the undiluted piece of Tiramisu. It was soft and fresh but it was too sweet, had much less espresso punch, and even less biscotti. It was mostly mascarpone cheese. It left us high and dry.\n\nThe prices do not match the quality or quantity. The fruit custard cake was again too sweet for our taste but still better than tiramisu.",
+      "Worst hotel\u2026called the number and asked for a room. They said room was available and I sent my parents and when they got there they were told there are no rooms and it was at night. And the number was not picking up calls too. The way they are scamming people is just worst. No humanity at all. I hope karma hits you all back hard!!!"
+    ]
+  },
+  "review_summary": "Based on 5 reviews.",
+  "positive_themes": {
+    "friendly_staff": 2
+  },
+  "negative_themes": {
+    "dirty_rooms": 2,
+    "rude_staff": 2
+  }
+}

@@ -1,0 +1,55 @@
+{
+  "hotel_id": "ChIJkZedEMjiDDkRUK5PW7ktwd4",
+  "hotel_name": "Airport Hotel Delhi",
+  "area": "Mehram Nagar",
+  "budget_category": "Mid-Range",
+  "rating": 3.9,
+  "trust_score": 0.8188401714316565,
+  "travel_purpose_tags": [
+    "Leisure",
+    "Business",
+    "Family"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "moderate",
+    "review_count": 5,
+    "positive_snippet_count": 3,
+    "negative_snippet_count": 1,
+    "positive_theme_count": 5,
+    "negative_theme_count": 2
+  },
+  "aspect_scores": {
+    "cleanliness": 0.9927340745925904,
+    "service": 0.914008057117462,
+    "location": 0.8925622403621674,
+    "value_for_money": 0.8591716289520264,
+    "staff_behavior": 0.8925622403621674
+  },
+  "recommendation_features": {
+    "popularity_score": 0.7314154032253312,
+    "rating_score": 3.9,
+    "sentiment_score": 0.914008057117462
+  },
+  "review_evidence": {
+    "positive_snippets": [
+      "Amazing hospitality! The host allowed us to check in early since we had a long wait before our next flight, gave us a free meal, and even arranged free transport to the terminal. Truly appreciated! Very satisfied guests from the Philippines \ud83c\uddf5\ud83c\udded",
+      "Exceptionally budget friendly hotel .... very friendly and helpful staff...fantastic hot water supply... so many conveniences... unimaginable conveniences in a place like Delhi... with a complementary Airport pick up drop off service which was like icing on the cake... would recommend it to anyone.",
+      "Absolutely reasonable choice for a quick stop between flights.\nSo hard to know what reviews are real and those that are fake, that\u2019s why I really wanted to review this honestly!\nIncludes breakfast - which looked ok but didn\u2019t have the appetite so early to eat\n5 minutes drive to T1- this was important coming from T3 and leaving early from T1\nComplimentary airport pick up and drop off\n24 hour desk\nClean and respectable entrance and very professional staff.\nRoom was ok, bed hard but ok for a quick rest.\nBathroom looked new and functioned very well, for me that was very good.\nOur room was ok, not as nice as the pictures but it was clean and everything worked.\nSurprisingly quiet too, was expecting it to be noisy outside but only got louder in the morning, which was expected.\nGood enough choice if you want to be close to T1 and felt very safe, even as a solo female traveller."
+    ],
+    "negative_snippets": [
+      "Location: Just 5min Walkable distance from T1, cross all rodas in front of entry gate take left 30steps cross road,you will be in front of metro station. Walk another 50-60 septs you will be in hotel.\n\nRoom : Rooms are bit smelly... After complent they immediately changed room for me, quite cooperetive.\n\nService: very cooperative and supportive staff. Hotel food in room service is very expensive."
+    ]
+  },
+  "review_summary": "Based on 5 reviews.",
+  "positive_themes": {
+    "friendly_staff": 4,
+    "clean_rooms": 2,
+    "good_location": 3,
+    "good_food": 2,
+    "great_value": 1
+  },
+  "negative_themes": {
+    "noise": 1,
+    "dirty_rooms": 1
+  }
+}

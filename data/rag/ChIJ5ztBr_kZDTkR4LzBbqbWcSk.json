@@ -1,0 +1,49 @@
+{
+  "hotel_id": "ChIJ5ztBr_kZDTkR4LzBbqbWcSk",
+  "hotel_name": "The Archer Hotel & Banquets",
+  "area": "Gurugram",
+  "budget_category": "Mid-Range",
+  "rating": 4.0,
+  "trust_score": 0.5075932613509093,
+  "travel_purpose_tags": [
+    "Budget"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "moderate",
+    "review_count": 5,
+    "positive_snippet_count": 0,
+    "negative_snippet_count": 3,
+    "positive_theme_count": 3,
+    "negative_theme_count": 2
+  },
+  "aspect_scores": {
+    "cleanliness": 0.0002741494681686,
+    "service": 0.000255987564742,
+    "location": 0.5,
+    "value_for_money": 0.5,
+    "staff_behavior": 0.0036142770695732
+  },
+  "recommendation_features": {
+    "popularity_score": 0.5711585919664239,
+    "rating_score": 4.0,
+    "sentiment_score": 0.0036142770695732
+  },
+  "review_evidence": {
+    "positive_snippets": [],
+    "negative_snippets": [
+      "My experience with this hotel was not good at all. I booked a room for one night, and the lights stayed on above my head all night. There was no option to turn off the lights. If you book a room in this hotel, the lights will be on above your head all night. This applies to all the rooms. You can't turn them off, so I would advise you not to book this hotel because the lights will be on above your head all night.....Dear hotel team please don't misguide to the customers I called to shift manager at same time he came in the room check all switch was off ..but still complete room light was on he go back didn't come back and not offered onther room it's my humble request you please accept reality and improve where is wrong",
+      "Worst service and dirty rooms. Better to stay somewhere else than this place. Highly overpriced their rooms do not deserve even \u20b91000/night. Uncooked and unhygienic food with worst service staff including the manager who doesn\u2019t know about anything.",
+      "My experience with this hotel was not good at all. I booked a room for one night, and quality of the room was so bad and If you book a room in this hotel, then don\u2019t add breakfast or dinner option as their food quality is so poor and in breakfast they don\u2019t have much options and taste is so bad you can\u2019t eat it. Even the staff is rude and not polite so if you want to stay for emergency then just book the room only option and if you are getting options someplace else go somewhere else."
+    ]
+  },
+  "review_summary": "Based on 5 reviews.",
+  "positive_themes": {
+    "friendly_staff": 4,
+    "good_food": 3,
+    "great_value": 1
+  },
+  "negative_themes": {
+    "dirty_rooms": 1,
+    "rude_staff": 2
+  }
+}

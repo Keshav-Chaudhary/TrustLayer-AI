@@ -1,0 +1,52 @@
+{
+  "hotel_id": "ChIJ70yHFd4BDTkRDCBZqoNKwjY",
+  "hotel_name": "Hotel Church House Rohini I Hotel In New Delhi",
+  "area": "New Delhi",
+  "budget_category": "Mid-Range",
+  "rating": 4.2,
+  "trust_score": 0.7907023511224668,
+  "travel_purpose_tags": [
+    "Leisure",
+    "Business"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "moderate",
+    "review_count": 5,
+    "positive_snippet_count": 3,
+    "negative_snippet_count": 1,
+    "positive_theme_count": 4,
+    "negative_theme_count": 1
+  },
+  "aspect_scores": {
+    "cleanliness": 0.7498805963768973,
+    "service": 0.9996199309825896,
+    "location": 0.9998718500137328,
+    "value_for_money": 0.0003869508800562,
+    "staff_behavior": 0.9996987730264664
+  },
+  "recommendation_features": {
+    "popularity_score": 0.5828810936747755,
+    "rating_score": 4.2,
+    "sentiment_score": 0.7998364085971843
+  },
+  "review_evidence": {
+    "positive_snippets": [
+      "Our recent stay at Hotel church house was absolutely wonderful. From the moment we arrived, the staff greeted us with genuine warmth and professionalism, making check-in a breeze. The room was spacious, spotless, and featured a remarkably comfortable bed that ensured a great night\u2019s sleep. We were particularly impressed by the hotel\u2019s central location, which was within walking distance of several major landmarks and local cafes. The daily breakfast offered a fantastic variety of fresh, delicious options to start the day. Every detail was handled with care, providing a perfect blend of comfort and hospitality. We will definitely return!",
+      "Need comfortable and nice stay... Come hotel church house without any hesitation...the room was so neat and clean all amenities in the room... housekeeping staff was so fast and probelm solving.. checkin was so smoothly and fast ... overall hotel  was well managed and staff was so cool and nice ..I will visit here again for sure!!",
+      "Excellent service and helpful behaviour of staff. Sanitised bathroom and rooms are neat and tidy. Must visit if in the area."
+    ],
+    "negative_snippets": [
+      "Terrible, pathetic. Words dont even cover it. This is a 1 star posing as a 3 star and charging as a 3 star. Rooms are bad and smelly and so is the washroom. When asked for a towel, got towel after 30 mins ans that too wet and when asked about it, they said hum to geela hi dete hai. Regarding breakfast, they gave us no options and a single slice of sandwich that too at their own convenient time when we were asleep. I wish I could get my time and money back. Dont get fooled by reviews, they are all fake."
+    ]
+  },
+  "review_summary": "Based on 5 reviews.",
+  "positive_themes": {
+    "clean_rooms": 4,
+    "friendly_staff": 4,
+    "good_location": 2,
+    "good_food": 2
+  },
+  "negative_themes": {
+    "dirty_rooms": 1
+  }
+}

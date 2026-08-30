@@ -1,0 +1,46 @@
+{
+  "hotel_id": "ChIJ7W5mGAIWDTkRI2I_wKlwLRk",
+  "hotel_name": "Red Roof",
+  "area": "Sector 92",
+  "budget_category": "Mid-Range",
+  "rating": 4.4,
+  "trust_score": 0.8403673765519526,
+  "travel_purpose_tags": [
+    "Leisure"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "sparse",
+    "review_count": 5,
+    "positive_snippet_count": 3,
+    "negative_snippet_count": 1,
+    "positive_theme_count": 0,
+    "negative_theme_count": 1
+  },
+  "aspect_scores": {
+    "cleanliness": 0.5,
+    "service": 0.5,
+    "location": 0.99977046251297,
+    "value_for_money": 0.5,
+    "staff_behavior": 0.5
+  },
+  "recommendation_features": {
+    "popularity_score": 0.3914140521329489,
+    "rating_score": 4.4,
+    "sentiment_score": 0.9998166561126708
+  },
+  "review_evidence": {
+    "positive_snippets": [
+      "Wonderful place,We had a get together of Doctors on 11 October 2025. It was awesome experience and whole team enjoyed.Good catering services and rooms.Highly recommended and thanks to entire Red Roof team for hosting us..",
+      "Nice place for Corporate get together.lush of greenery and best place for nature loving people.",
+      "A perfect weekend getaway. These are four independent cottages in a lovely farm house with a lovely pool, huge lawns and lush greenery all around. It's 30-40 min from Delhi airport."
+    ],
+    "negative_snippets": [
+      "It's all green inside, lovely landscaping, selected ornamental plants.\nA swimming pool to keep cool!\nCottages to rest!\n\nQuacking ducks, migratory birds, peacocks, koyel, & all keeps the environment so vibrant with their sound of existence. The Alsatians to keep you safe from intruders."
+    ]
+  },
+  "review_summary": "Based on 5 reviews.",
+  "positive_themes": {},
+  "negative_themes": {
+    "rude_staff": 1
+  }
+}

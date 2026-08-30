@@ -1,0 +1,47 @@
+{
+  "hotel_id": "ChIJawhvr7PnDDkRzK8CptG0rAo",
+  "hotel_name": "Hotel O Maira Stays",
+  "area": "Greenfields",
+  "budget_category": "Budget",
+  "rating": 3.7,
+  "trust_score": 0.4541765647820434,
+  "travel_purpose_tags": [
+    "Budget"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "moderate",
+    "review_count": 5,
+    "positive_snippet_count": 0,
+    "negative_snippet_count": 3,
+    "positive_theme_count": 2,
+    "negative_theme_count": 1
+  },
+  "aspect_scores": {
+    "cleanliness": 0.0003235625699744,
+    "service": 0.0002071285707643,
+    "location": 0.5,
+    "value_for_money": 0.0003895433619618,
+    "staff_behavior": 0.0002679335011634
+  },
+  "recommendation_features": {
+    "popularity_score": 0.5124902864187779,
+    "rating_score": 3.7,
+    "sentiment_score": 0.0002984445833134
+  },
+  "review_evidence": {
+    "positive_snippets": [],
+    "negative_snippets": [
+      "Booked a Room using Oyo App and the experience wasn't good. The room wasn't clean. The room had an AC fixed which was soooo old and dirty that it was not even cooling properly. We called the staff members to ask for Ice and there wasn't any Ice. Asked for cold water, they sent the cold water after half n hour. The staff was slow. And the washrooms had no sanitary kits provided. The room was small as compared to what was shown in the app.",
+      "Very bad staff also owner his name Ravi, Misbehave with customers. Even if customer book room from OYO application they no give room at OYO price he ask more money. My experience is very bad.",
+      "Totally worst service given by staff. No manners and no one co operative staff.. bakwaas service"
+    ]
+  },
+  "review_summary": "Based on 5 reviews.",
+  "positive_themes": {
+    "clean_rooms": 3,
+    "friendly_staff": 3
+  },
+  "negative_themes": {
+    "dirty_rooms": 2
+  }
+}

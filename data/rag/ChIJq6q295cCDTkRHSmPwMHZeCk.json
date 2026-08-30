@@ -1,0 +1,53 @@
+{
+  "hotel_id": "ChIJq6q295cCDTkRHSmPwMHZeCk",
+  "hotel_name": "Hotel Classic",
+  "area": "New Delhi",
+  "budget_category": "Mid-Range",
+  "rating": 3.7,
+  "trust_score": 0.6297087271883708,
+  "travel_purpose_tags": [
+    "Budget"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "rich",
+    "review_count": 5,
+    "positive_snippet_count": 3,
+    "negative_snippet_count": 2,
+    "positive_theme_count": 3,
+    "negative_theme_count": 3
+  },
+  "aspect_scores": {
+    "cleanliness": 0.043874258204596,
+    "service": 0.6666926729376428,
+    "location": 0.5410413108766079,
+    "value_for_money": 0.0871726796030998,
+    "staff_behavior": 0.665086566179525
+  },
+  "recommendation_features": {
+    "popularity_score": 0.4135655773021257,
+    "rating_score": 3.7,
+    "sentiment_score": 0.6164321281132288
+  },
+  "review_evidence": {
+    "positive_snippets": [
+      "When I visit this hotel the staff had provided good service and respect greet I am totally satisfied with his greet style and service",
+      "Prime location...all staff behaviour was good....room spacious.......kneet and all ameties are there",
+      "Hotel classic is good hotel \ud83c\udfe8 in karolbagh.. service.fast.all ..and good discipline hotel..i liked this hotel \ud83d\udecf\ufe0f\ud83c\udfe8"
+    ],
+    "negative_snippets": [
+      "I had a very disappointing and unpleasant stay at Hotel Classic, Karol Bagh, Delhi, booked through Cleartrip. The room provided was completely different from what was shown at the time of booking \u2013 misleading pictures and false promises.\n\nThe condition of the hotel was terrible:\n\u2022\tThe window AC was fixed in such a way that it blew cold air directly onto the bed, making loud noise all night.\n\u2022\tBathroom was dirty, not maintained, and did not even have a basic health faucet.\n\u2022\tI shockingly found a nosepin inside the bed, which clearly showed the bedsheet hadn\u2019t been changed for ages \u2013 very unhygienic.\n\nOn top of that, facilities like pool and morning breakfast mentioned on Cleartrip\u2019s website were not even known to the hotel staff. When I asked for a room change, the management first promised but later denied availability and behaved very rudely.\n\nThis hotel is completely unprofessional, unhygienic, and misleading. It caused severe discomfort and stress to me and my family. I strongly advise others not to book this hotel and request platforms like Cleartrip to blacklist it to protect future customers.",
+      "Found towel was used not changed before check in, requested to change with new one. Room wall white wash was coming off, WC was dirty, water taps required need attention as they were broken. More important hotel was not accepting cards just to save taxes. Asked me to withdraw cash from ATM for payment.\nIf you bringing family, I won't advise on my experience.\nI was traveling to overseas and I needed a halt in Delhi for one night. After seeing the facility I didn't bother to stay and complain and sleep in hotel. I stayed at my friend's place over night. Next day just had shower and catch up with my college friend and left for airport to catch my flight to Nz.\nIf you looking for few hours stay, go for it otherwise go to other hotel. There are plenty of nice hotel in same price range."
+    ]
+  },
+  "review_summary": "Based on 5 reviews.",
+  "positive_themes": {
+    "friendly_staff": 3,
+    "good_location": 1,
+    "good_food": 1
+  },
+  "negative_themes": {
+    "dirty_rooms": 2,
+    "rude_staff": 1,
+    "noise": 1
+  }
+}

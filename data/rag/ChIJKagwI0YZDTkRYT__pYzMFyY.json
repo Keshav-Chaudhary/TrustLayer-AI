@@ -1,0 +1,51 @@
+{
+  "hotel_id": "ChIJKagwI0YZDTkRYT__pYzMFyY",
+  "hotel_name": "Hotel 91 Golf Course Road",
+  "area": "Sector 43",
+  "budget_category": "Mid-Range",
+  "rating": 4.4,
+  "trust_score": 0.8642146313746787,
+  "travel_purpose_tags": [
+    "Leisure",
+    "Business",
+    "Family"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "moderate",
+    "review_count": 5,
+    "positive_snippet_count": 3,
+    "negative_snippet_count": 0,
+    "positive_theme_count": 4,
+    "negative_theme_count": 1
+  },
+  "aspect_scores": {
+    "cleanliness": 0.9998498956362406,
+    "service": 0.9998469054698944,
+    "location": 0.9992176294326782,
+    "value_for_money": 0.9998359978199006,
+    "staff_behavior": 0.9995419184366862
+  },
+  "recommendation_features": {
+    "popularity_score": 0.5037691221701405,
+    "rating_score": 4.4,
+    "sentiment_score": 0.999659550189972
+  },
+  "review_evidence": {
+    "positive_snippets": [
+      "Rooms are clean and well-maintained, making it a safe and comfortable place to stay at a good price. The food is also quite good, and there\u2019s no need to worry about parking\u2014ample space is available. Plus, you can order food from outside, which is another great advantage.",
+      "I am a business traveler.  I was stayed first time this hotel . Near the metrostation 42-43 sector.  East travel all places.  Abhishek Sharma was nice staff who helped lot during the stay.",
+      "Dear Team Hotel 91,\n\nI wanted to take a moment to appreciate the excellent experience I had during my stay at your hotel. From the moment I arrived, everything was well-organized, and the hospitality was truly commendable. The rooms were clean, comfortable, and well-maintained, making my stay both pleasant and relaxing.\n\nA special mention to your receptionist, Hema, whose warm welcome and helpful nature made a great impression. She was always polite, attentive, and quick to assist with any queries, ensuring a smooth and hassle-free experience. Her professionalism and friendly attitude truly added to the positive atmosphere of the hotel.\n\nThank you for the wonderful service. I look forward to staying at Hotel 91 again in the future!"
+    ],
+    "negative_snippets": []
+  },
+  "review_summary": "Based on 5 reviews.",
+  "positive_themes": {
+    "clean_rooms": 3,
+    "good_food": 2,
+    "friendly_staff": 3,
+    "good_location": 1
+  },
+  "negative_themes": {
+    "parking_issues": 1
+  }
+}

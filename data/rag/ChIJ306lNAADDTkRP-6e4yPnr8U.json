@@ -1,0 +1,50 @@
+{
+  "hotel_id": "ChIJ306lNAADDTkRP-6e4yPnr8U",
+  "hotel_name": "Ashoka Int Hotel Karol Bagh",
+  "area": "New Delhi",
+  "budget_category": "Mid-Range",
+  "rating": 3.7,
+  "trust_score": 0.4956125927680965,
+  "travel_purpose_tags": [
+    "Budget"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "moderate",
+    "review_count": 5,
+    "positive_snippet_count": 1,
+    "negative_snippet_count": 3,
+    "positive_theme_count": 3,
+    "negative_theme_count": 1
+  },
+  "aspect_scores": {
+    "cleanliness": 0.0165611381768636,
+    "service": 0.5000088252782007,
+    "location": 0.5,
+    "value_for_money": 0.0001955704210558,
+    "staff_behavior": 0.5018017198890448
+  },
+  "recommendation_features": {
+    "popularity_score": 0.3927931857069744,
+    "rating_score": 3.7,
+    "sentiment_score": 0.2099726223532343
+  },
+  "review_evidence": {
+    "positive_snippets": [
+      "It was our awesome time staying in this room such a big room available with all amenities cleanliness and well maintained \ud83d\ude0a service was also great with such a supportive friendly staff.You can definitely check this out"
+    ],
+    "negative_snippets": [
+      "The rooms were not neat and clean, and the building was quite old. There was no generator backup in case of a power cut. However, the staff was very polite and helpful, especially the manager. The rooms were poorly maintained, and for the double bed, they provided two separate single mattresses, which was uncomfortable.",
+      "It's the worst property I have ever stayed at in my whole life.\nAll ratings and pics are fake\nWe booked on booking.com and our flight was early in the morning. We contacted on the number given by booking.com and everything was settled for an early check-in in morning.\nWhen we reached the property all tired of the journey, they refused availability of room.\nWhen i told him about the conversation, they denied that the number didn't belong to them.\nThey put me in a very odd situation at 7 am, with 3 suitcases and me and my wife had no energy to roam around for any other property\nAfter some argument they said there's a room but we needed to wait as it's not ready.\nWe waited at the reception.\nThey gave us a room for INR 2000 which wasn't worth free, not suitable for human living.\nHaving no other option we accepted due to our condition.\nThis was the worst experience of my whole life.\nDirty and uncomfortable bed, messy furniture, toilet was so bad that I can't explain just watching the pics.\nBooking.com should be ashamed of adding such property in their list.",
+      "Worst hotel dont be fooled by pictures its very unhygienic and all things are not working"
+    ]
+  },
+  "review_summary": "Based on 5 reviews.",
+  "positive_themes": {
+    "clean_rooms": 2,
+    "friendly_staff": 2,
+    "great_value": 1
+  },
+  "negative_themes": {
+    "dirty_rooms": 2
+  }
+}

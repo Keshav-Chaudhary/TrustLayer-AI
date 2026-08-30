@@ -1,0 +1,51 @@
+{
+  "hotel_id": "ChIJCbfAqZ4CDTkRb3axkMEgrnw",
+  "hotel_name": "Hotel Emperor Palms Karol Bagh",
+  "area": "Karol Bagh",
+  "budget_category": "Mid-Range",
+  "rating": 3.4,
+  "trust_score": 0.5012828095199486,
+  "travel_purpose_tags": [
+    "Budget"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "moderate",
+    "review_count": 5,
+    "positive_snippet_count": 1,
+    "negative_snippet_count": 3,
+    "positive_theme_count": 4,
+    "negative_theme_count": 1
+  },
+  "aspect_scores": {
+    "cleanliness": 0.0005984410381642,
+    "service": 0.0058210788120049,
+    "location": 0.0002453199122101,
+    "value_for_money": 0.0002624048793222,
+    "staff_behavior": 0.0089449944207444
+  },
+  "recommendation_features": {
+    "popularity_score": 0.659780915039924,
+    "rating_score": 3.4,
+    "sentiment_score": 0.1747533966961782
+  },
+  "review_evidence": {
+    "positive_snippets": [
+      "The rooms were good but no ventilation in my room, food service including breakfast was good. Its in the busy area so great if you want to go for local shopping and outing. Staff was very polite and they helped with my reimbursement from MMT in call. Recommended but a bit over priced i think."
+    ],
+    "negative_snippets": [
+      "This is one of the worst hotel I have visited. I don\u2019t understand how people are giving it 5 rating.\n1- Rooms are very congested with no ventilation from outside.\n2- Fungus in bathroom which smells horrible and it makes breathing very difficult.\n3- Bathroom is extremely unhygienic.\n4- Stains on sofa and bed\n5- Very dim lighting\n6- Customer service is too bad. We called their reception to at least spray some air freshener in the room however even after calling them 3 times, there was no response.\n7- This hotel is absolutely not worth Rs 3500. It is best if you are paying 1500 Rs for the room. Absolutely disgusting.",
+      "Hotel is 3 star but giving 2 star rating for the room and the Hotel staff callous response. The room central AC isn't working creating a suffocated closed space which becomes worse with the vapors from the bathroom with no exhaust. This made things quite difficult for kids especially. The receptionist put a sheepish smile on check out while asking for rating despite ignoring the issue repeatedly. Nothing good about this place except for ease of commuting. Avoid as long as you can.",
+      "Have states here due to the proximity to a project site we had and was an official travel.\n\nAltogether the experience was not great. Especially reaching the hotel was a tough task always but since this was like about 400m from the project site it was manageable."
+    ]
+  },
+  "review_summary": "Based on 5 reviews.",
+  "positive_themes": {
+    "friendly_staff": 2,
+    "good_food": 1,
+    "great_value": 1,
+    "good_location": 1
+  },
+  "negative_themes": {
+    "dirty_rooms": 1
+  }
+}

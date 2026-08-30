@@ -1,0 +1,49 @@
+{
+  "hotel_id": "ChIJ968tGgojDTkRObaW2xZSuXs",
+  "hotel_name": "Townhouse Sector 62 Gurgaon",
+  "area": "Sector 62",
+  "budget_category": "Mid-Range",
+  "rating": 4.2,
+  "trust_score": 0.6945688721530863,
+  "travel_purpose_tags": [
+    "Leisure"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "rich",
+    "review_count": 5,
+    "positive_snippet_count": 3,
+    "negative_snippet_count": 2,
+    "positive_theme_count": 3,
+    "negative_theme_count": 0
+  },
+  "aspect_scores": {
+    "cleanliness": 0.5000250136727117,
+    "service": 0.0007391582475975,
+    "location": 0.999835968017578,
+    "value_for_money": 0.5,
+    "staff_behavior": 0.666813314310275
+  },
+  "recommendation_features": {
+    "popularity_score": 0.4305378570371057,
+    "rating_score": 4.2,
+    "sentiment_score": 0.6000800530571724
+  },
+  "review_evidence": {
+    "positive_snippets": [
+      "Mind-blowing experience . Highly recommend booking in it.",
+      "\"I loved my stay at townhouse The location was perfect, and the rooms were super comfy and clean. The staff were really friendly and helpful too.\n\nThe hotel's  was a great spot to grab a bite or drink. Overall, I had a fantastic stay and would definitely recommend  to anyone looking for a great place to stay in Gurugram.\n\n*Would I stay again?* Yep, for sure!\"",
+      "Good rooms \u2026 and friendly staff"
+    ],
+    "negative_snippets": [
+      "From the moment I arrived, I was struck by the lackluster ambiance and the dearth of warmth in the welcome extended by the front desk staff. The check-in process was an exercise in tedium, replete with interminable delays and a palpable sense of apathy.\n\nUpon entering my room, I was appalled by the shabby d\u00e9cor, the paucity of amenities, and the blatant disregard for even the most basic standards of cleanliness. The bed, ostensibly the centrepiece of any hotel room, was a travesty \u2013 a lumpy, creaky monstrosity that afforded me a fitful night's sleep at best.\n\nIn conclusion, my stay at Townhouse was an unmitigated disaster, a catastrophic failure of hospitality that left me feeling disillusioned, disgruntled, and downright furious. Unless drastic measures are taken to address the myriad shortcomings that plague this establishment, I would not hesitate to advise fellow travelers to avoid this hotel at all costs.",
+      "Worst staying experience ever. No clean rooms. No washed bedsheets. No bedsheet for extra mattress."
+    ]
+  },
+  "review_summary": "Based on 5 reviews.",
+  "positive_themes": {
+    "clean_rooms": 3,
+    "friendly_staff": 3,
+    "good_location": 1
+  },
+  "negative_themes": {}
+}

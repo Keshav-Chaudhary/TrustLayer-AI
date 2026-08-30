@@ -1,0 +1,47 @@
+{
+  "hotel_id": "ChIJ23KVO4gZDTkR8kPIdIcogHg",
+  "hotel_name": "Hotel Golf View Suites",
+  "area": "Sector 43",
+  "budget_category": "Mid-Range",
+  "rating": 4.4,
+  "trust_score": 0.9005382044742025,
+  "travel_purpose_tags": [
+    "Leisure",
+    "Business"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "moderate",
+    "review_count": 5,
+    "positive_snippet_count": 3,
+    "negative_snippet_count": 0,
+    "positive_theme_count": 3,
+    "negative_theme_count": 0
+  },
+  "aspect_scores": {
+    "cleanliness": 0.9998816847801208,
+    "service": 0.9996044635772704,
+    "location": 0.9984997510910034,
+    "value_for_money": 0.5,
+    "staff_behavior": 0.9998806416988372
+  },
+  "recommendation_features": {
+    "popularity_score": 0.6746293806745862,
+    "rating_score": 4.4,
+    "sentiment_score": 0.9996044635772704
+  },
+  "review_evidence": {
+    "positive_snippets": [
+      "This is my second time staying at Golf View Suites (first time in Nov '25) and both times have been very pleasant stays,  mainly in part because of the service provided by Shreenath, one of the managers of the hotel who always went above and beyond with any request I had.  I was in Gurugram for work and Golf View Suites had the perfect setup to just get back and relax. I highly recommend it for business travel.\n\nOn a side note, some of the food on the room service menu was really good.  5 stars for the Chicken Biriyani.  The only complaint is that more than half the menu is not available like the burgers,  spring rolls, and momos. The same items were missing both times I stayed there.\n\nA special shout out to Parvin and Razu who we're very attentive at breakfast on my last day at the hotel and my first time trying the breakfast buffet.",
+      "Rating: \u2b50\u2b50\u2b50\u2b50\u2b50 (5/5)\n\u201cWe are staying here and had a very pleasant experience. The food quality is excellent\u2014fresh, tasty, and well prepared. The service is also very good; staff is polite, cooperative, and attentive. Special thanks to Prabin and Mohit for being very helpful and ensuring our stay is comfortable. Overall, a great place with good food and excellent service. Highly recommended.\u201d",
+      "Really enjoyed my stay at this hotel. The room was neat and well-maintained, the service was excellent, and the staff made us feel very welcome. Food was tasty and hygiene was well taken care of. Would love to stay here again. Thanku parveen feel us special \u2764\ufe0f\u200d\ud83e\ude79"
+    ],
+    "negative_snippets": []
+  },
+  "review_summary": "Based on 5 reviews.",
+  "positive_themes": {
+    "good_food": 5,
+    "friendly_staff": 4,
+    "clean_rooms": 2
+  },
+  "negative_themes": {}
+}

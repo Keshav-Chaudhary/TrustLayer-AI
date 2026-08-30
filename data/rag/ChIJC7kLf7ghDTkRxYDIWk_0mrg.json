@@ -1,0 +1,49 @@
+{
+  "hotel_id": "ChIJC7kLf7ghDTkRxYDIWk_0mrg",
+  "hotel_name": "Farm Aravalia Mangar",
+  "area": "Mangar",
+  "budget_category": "Mid-Range",
+  "rating": 4.7,
+  "trust_score": 0.9233708933169236,
+  "travel_purpose_tags": [
+    "Leisure"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "moderate",
+    "review_count": 5,
+    "positive_snippet_count": 3,
+    "negative_snippet_count": 0,
+    "positive_theme_count": 4,
+    "negative_theme_count": 1
+  },
+  "aspect_scores": {
+    "cleanliness": 0.9998660087585448,
+    "service": 0.5,
+    "location": 0.999869704246521,
+    "value_for_money": 0.5,
+    "staff_behavior": 0.9998731017112732
+  },
+  "recommendation_features": {
+    "popularity_score": 0.5940820634117353,
+    "rating_score": 4.7,
+    "sentiment_score": 0.99986891746521
+  },
+  "review_evidence": {
+    "positive_snippets": [
+      "I recently stayed at Farm Aravalia for 2 days and had a wonderful experience. The food was really good and the amenities were well maintained. The location is also very nice and peaceful, making it a perfect place to relax.\nThere were also many games and activities available for both kids and adults, which made the stay even more enjoyable.\nA special thanks to Chanchal Ji, Pradeep Ji, and Deepak Negi for taking such great care of us. The entire staff was extremely polite, helpful, and always ready to assist.\nOverall, it was a lovely and comfortable stay. Highly recommended \u2013 a must visit! \ud83d\ude0a",
+      "Great place to chill away from city pollution!\n\nFarms Aravalia is a perfect getaway if you want a break from the busy city life and pollution. The environment is peaceful, green, and refreshing \u2014 ideal for relaxing with family or friends.\n\nThere are plenty of fun activities to explore, which makes the visit enjoyable for both adults and kids. The open outdoor space, fresh air, and natural surroundings create a very calming vibe. It\u2019s a great place to unwind, click photos, and simply chill without the usual city noise.\n\nA great destination for a short outing near the city when you want relaxation, fun activities, and a refreshing outdoor experience.",
+      "Had a wonderful experience at Farm Aravalia, Mangar! The property is beautifully located in the middle of the Aravalli hills, offering a peaceful escape from the city rush while still being just a short drive from Delhi and Gurgaon. The rooms and luxury tents are clean, comfortable, and perfect for a relaxing staycation. The food was fresh and delicious, and the variety of activities like zipline, sky cycle, rope course, outdoor games, and the swimming pool kept the entire day exciting. The open green lawns and nature walk added a very refreshing touch. Overall, it\u2019s a great place for couples, families, and friends looking for a weekend getaway near Delhi NCR. Highly recommended!"
+    ],
+    "negative_snippets": []
+  },
+  "review_summary": "Based on 5 reviews.",
+  "positive_themes": {
+    "friendly_staff": 2,
+    "good_location": 3,
+    "good_food": 3,
+    "clean_rooms": 2
+  },
+  "negative_themes": {
+    "noise": 2
+  }
+}

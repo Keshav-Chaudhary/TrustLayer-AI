@@ -1,0 +1,47 @@
+{
+  "hotel_id": "ChIJ9QLLUI3dDDkRRkT-iEdX5Oo",
+  "hotel_name": "Hotel Walk Inn",
+  "area": "New Industrial Township",
+  "budget_category": "Budget",
+  "rating": 4.8,
+  "trust_score": 0.8974664111484209,
+  "travel_purpose_tags": [
+    "Leisure",
+    "Family"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "moderate",
+    "review_count": 5,
+    "positive_snippet_count": 3,
+    "negative_snippet_count": 0,
+    "positive_theme_count": 3,
+    "negative_theme_count": 0
+  },
+  "aspect_scores": {
+    "cleanliness": 0.9996376931667328,
+    "service": 0.5,
+    "location": 0.9997225403785706,
+    "value_for_money": 0.9998509883880616,
+    "staff_behavior": 0.9995821118354796
+  },
+  "recommendation_features": {
+    "popularity_score": 0.4102206732614377,
+    "rating_score": 4.8,
+    "sentiment_score": 0.9995821118354796
+  },
+  "review_evidence": {
+    "positive_snippets": [
+      "Clean, comfortable rooms and polite staff make this a nice place to stay. The location is convenient and the overall experience is smooth and peaceful. I also recommend a Google 360\u00b0 Virtual Tour to showcase the rooms and interiors on Google Maps for better visibility and more bookings.\n\u2014 Karan Singh, Google Local Guide & Google-trusted 360\u00b0 Virtual Tour Photographer",
+      "One of the best hotel in town so far! I visited here at least 10-15 times for business purpose and the people never disappoint me anytime! Staff behiaver is really very friendly and always look forward to help us! Would higly recommend this hotel! Great job guys! Keep it up!",
+      "Best hotel in the vicinity.. The owner Mr Sagar and staff Mr Vishnu and Mr Shiva are very helpful.. Cleaning in the hotel is done by two times a day.."
+    ],
+    "negative_snippets": []
+  },
+  "review_summary": "Based on 5 reviews.",
+  "positive_themes": {
+    "clean_rooms": 3,
+    "friendly_staff": 5,
+    "good_location": 1
+  },
+  "negative_themes": {}
+}

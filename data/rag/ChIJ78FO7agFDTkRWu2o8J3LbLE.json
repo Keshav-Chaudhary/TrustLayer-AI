@@ -1,0 +1,48 @@
+{
+  "hotel_id": "ChIJ78FO7agFDTkRWu2o8J3LbLE",
+  "hotel_name": "Hotel O Plus One Hotel Residency",
+  "area": "Nagar",
+  "budget_category": "Mid-Range",
+  "rating": 3.0,
+  "trust_score": 0.3586016120885265,
+  "travel_purpose_tags": [
+    "Budget"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "moderate",
+    "review_count": 5,
+    "positive_snippet_count": 0,
+    "negative_snippet_count": 3,
+    "positive_theme_count": 2,
+    "negative_theme_count": 2
+  },
+  "aspect_scores": {
+    "cleanliness": 0.0003331053594592,
+    "service": 0.0006381622515618,
+    "location": 0.5,
+    "value_for_money": 0.0006169108237372,
+    "staff_behavior": 0.0004632573545676
+  },
+  "recommendation_features": {
+    "popularity_score": 0.4999516928857564,
+    "rating_score": 3.0,
+    "sentiment_score": 0.0007562919170595
+  },
+  "review_evidence": {
+    "positive_snippets": [],
+    "negative_snippets": [
+      "Girls at reception is very rude and denies the OYO prices. I booked room for my employees via OYO for one day at Rs 1, 111 but reaching there girl asked for Rs 1600 all in advance and not at all ready to consider OYO booking. Was very rude arrogant and has no manners whatsoever to talk. And unnecessarily she was asking for laundry money in advance. employees wouldn\u2019t have used laundry service anyways.",
+      "The staff at this hotel are very arrogant. They accept your booking through OYO or other platforms, but when you arrive at the property, they claim your reservation does not include an air-conditioned room\u2014even though this is not mentioned anywhere during the booking process. I asked them to show me where there is an option for booking an AC room, but they couldn't provide any clarity.I booked a room for \u20b9419, but after reaching the property, they asked me to pay \u20b9800 for the same room. When I refused to pay the extra amount, they denied me check-in entirely. This experience was a complete waste of money and time.",
+      "This hotel is very dirty, the staff here abuses and the hotel rooms are all dirty. The staff here behaved very badly with me and my partner, abused us and our phone also got damaged.Before booking this hotel, please check here once. If the rating is in minus then I would give it that."
+    ]
+  },
+  "review_summary": "Based on 5 reviews.",
+  "positive_themes": {
+    "friendly_staff": 3,
+    "clean_rooms": 1
+  },
+  "negative_themes": {
+    "rude_staff": 2,
+    "dirty_rooms": 1
+  }
+}

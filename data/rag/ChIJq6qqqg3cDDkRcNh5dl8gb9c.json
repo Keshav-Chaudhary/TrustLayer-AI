@@ -1,0 +1,53 @@
+{
+  "hotel_id": "ChIJq6qqqg3cDDkRcNh5dl8gb9c",
+  "hotel_name": "Taj Surajkund Resort & Spa, Delhi Ncr",
+  "area": "Surajkund",
+  "budget_category": "Luxury",
+  "rating": 4.4,
+  "trust_score": 0.8812925494522166,
+  "travel_purpose_tags": [
+    "Budget"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "moderate",
+    "review_count": 5,
+    "positive_snippet_count": 3,
+    "negative_snippet_count": 1,
+    "positive_theme_count": 5,
+    "negative_theme_count": 2
+  },
+  "aspect_scores": {
+    "cleanliness": 0.9998724460601808,
+    "service": 0.6666482380339099,
+    "location": 0.5,
+    "value_for_money": 0.0002316508616786,
+    "staff_behavior": 0.7499519654593314
+  },
+  "recommendation_features": {
+    "popularity_score": 0.8836557316620314,
+    "rating_score": 4.4,
+    "sentiment_score": 0.7999304349010344
+  },
+  "review_evidence": {
+    "positive_snippets": [
+      "Our stay at Taj Surajkund Resort & Spa was nothing short of exceptional. From the moment we arrived, the warmth and professionalism of the staff made us feel genuinely welcomed. The hospitality here truly reflects the signature Taj standard thoughtful, attentive, and effortlessly gracious.\nThe property itself exudes a royal and serene ambiance, blending elegant architecture with lush surroundings. Every corner of the resort gives you a sense of calm luxury, making it a perfect escape from the city while still feeling grand and refined.\nOne of the highlights of the stay was undoubtedly the culinary experience. The food was outstanding, with an impressive spread that caters to every palate. From flavorful Indian delicacies to beautifully crafted continental dishes, the variety and quality were remarkable. Each meal felt like a celebration of taste, with fresh ingredients and impeccable presentation.\nWhat truly elevates the experience is the attention to detail whether it's the courteous staff, the elegant setting, or the thoughtfully curated dining options. It all comes together to create a stay that feels both indulgent and memorable.\n\nOverall, Taj Surajkund offers a perfect blend of royal charm, world-class hospitality, and exceptional cuisine. Highly recommended for anyone looking for a luxurious and memorable stay. \u2728",
+      "Exceptional Hospitality at Taj Surajkund Resort & Spa, Our experience at Taj Surajkund Resort & Spa, Faridabad.\n\nOur experience at Taj Surajkund Resort & Spa, Faridabad was truly exceptional. From the moment we arrived, the warmth and professionalism shown by the doorman set the perfect tone for our stay. Every team member\u2014from Front Office and Housekeeping to the Restaurant FOH, BOH culinary team, and the In-Room Dining kitchen\u2014worked seamlessly to deliver outstanding hospitality.\n\nA special mention to Ayush Sethi, followed by Neeraj, Devesh, Navraj, Rudra, Vikram, Pranami, Rashami, Silky, and Sneh, whose dedication, attentiveness, and genuine care made our experience truly memorable. Each of them went above and beyond to ensure comfort, satisfaction, and a personalised touch throughout our stay.\n\nWe were especially touched by the thoughtful gestures that made our family stay so special\u2014a beautiful complimentary cake for our daughter\u2019s birthday, a delightful pottery session, a safe and engaging kids\u2019 playing area, and a lovely complimentary high tea in the evening at the lawn.\n\nSpecial appreciation to the In-Room Dining kitchen team for kindly preparing fresh baby food on request, and to the Housekeeping team for maintaining impeccable cleanliness and comfort throughout our stay.\n\nThe dining experience was outstanding, especially the amazing breakfast buffet with a fulfilling and well-curated variety, offering something for everyone and setting the perfect start to each day. The consistency, passion, and teamwork across all departments truly reflect the timeless Taj ethos.\nDinner buffet needs little improvement and more options compared to breakfast menu.\n\nHeartfelt thanks to everyone in each department of the hotel for creating such a warm, memorable, and enriching experience. Taj Surajkund truly sets a benchmark for luxury hospitality, and we look forward to returning again soon.",
+      "We recently stayed for two days at Taj Surajkund, and the experience was truly exceptional. Having visited the property barely six months ago, the transformation was striking. Everything appeared refreshed and elevated  the dining locations, d\u00e9cor, mannerisms of the staff, and even the underlying themes had evolved beautifully.\nWhat impressed us most was the seamless coordination between management and the working team. It was evident that people were performing with commitment and pride, without the need for constant supervision. There was a distinct sense of calm, peace, and tranquility reflected in every corner  from the ambience to the smallest details in d\u00e9cor.\nOur visit coincided with the celebration of our grandson, making the stay even more special. We genuinely felt at home. The rooms were superb, and at every point  be it the restaurants, common areas, or services  we were treated with warmth, dignity, and due respect.\nA special word of appreciation for Mr. Ramneet  you truly seem to possess a magic wand. Watching you interact personally with guests, bend down to speak to young children, and engage warmly with everyone staying and dining spoke volumes. You lead from the front, and it shows clearly in the spirit and standards of the entire team.\nThank you for creating such a memorable and heartwarming experience. Please keep up the excellent work."
+    ],
+    "negative_snippets": [
+      "This feedback message is for Mr. Ramneet Singh( Hotel Manager):\n\n1. It took more than 30min for us to check in which was unusual for us, in a 5star hotel only 2 counters were operational and rest there wasn't anyone else. How come a guest is being asked to wait simply for a check in and later the staff suggests to take the kid to the kids room to wait for another some more time?\n2. Kids room: the staff lady there asked us to take of the child as she needs to go for breaking her ramadan fast, does that mean they don't have a backup staff ?\n3. Food: the worst dine in experience (Dinner & Breakfast) , in a 5star failing to understand what can be the issue is it the chef or some mismanagement inside ,tasteless food with poor service. Total waste of money of including food in our stay. Staff isn't trained how to deal with guest, when the starters & main course weren't worth having we ordered pizza & pasta but that turned out to be pathetic. Staff has no basis courtesy of even asking if the guest needs something except they will come to the table just to ask for the clearance of utensils. Very unprofessional staff!!\n4. Check out: while checking out staff at the reception mentions to pay for the cricket we played for 5min, again this was strange and shocking for playing the games should this be chargeable ?? Never heard!! Where is it posted for the chargeable games & whose responsibility should it have been to inform prior??\nFeeling really low in writing this feedback for a hotel like Taj!!"
+    ]
+  },
+  "review_summary": "Based on 5 reviews.",
+  "positive_themes": {
+    "friendly_staff": 3,
+    "good_food": 4,
+    "clean_rooms": 2,
+    "good_location": 1,
+    "great_value": 1
+  },
+  "negative_themes": {
+    "rude_staff": 1,
+    "bad_food": 1
+  }
+}

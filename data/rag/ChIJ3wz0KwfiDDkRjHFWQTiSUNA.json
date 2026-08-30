@@ -1,0 +1,54 @@
+{
+  "hotel_id": "ChIJ3wz0KwfiDDkRjHFWQTiSUNA",
+  "hotel_name": "Qutub Residency Hotel",
+  "area": "Adchini",
+  "budget_category": "Mid-Range",
+  "rating": 3.6,
+  "trust_score": 0.5895266460017118,
+  "travel_purpose_tags": [
+    "Leisure"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "moderate",
+    "review_count": 5,
+    "positive_snippet_count": 2,
+    "negative_snippet_count": 3,
+    "positive_theme_count": 5,
+    "negative_theme_count": 2
+  },
+  "aspect_scores": {
+    "cleanliness": 0.3373753654498917,
+    "service": 0.5,
+    "location": 0.9996145963668824,
+    "value_for_money": 0.5000454414694104,
+    "staff_behavior": 0.9997383952140808
+  },
+  "recommendation_features": {
+    "popularity_score": 0.6071404027837526,
+    "rating_score": 3.6,
+    "sentiment_score": 0.4031031418242491
+  },
+  "review_evidence": {
+    "positive_snippets": [
+      "Qutub Residency is honestly one of the better budget-friendly stays you can find in this part of Delhi. The location is convenient, especially if you want quick access to Qutub Minar and nearby areas. For short stays, it works perfectly because it\u2019s simple, clean, and has all the basic amenities you would expect.\n\nOne thing I\u2019d recommend is to book online instead of walking in. The online prices are usually lower and more consistent, whereas walk-in rates can sometimes be higher. If you check ahead, you can save a decent amount, making it even more value-for-money.\n\nRooms are decent in size, well-maintained, and come with the promised amenities \u2014 AC, Wi-Fi, clean washrooms, and proper bedding. It\u2019s nothing luxurious, but it delivers exactly what it claims, which is rare for budget properties. The staff are cooperative and try their best to make things comfortable, and that\u2019s always a plus.\n\nFor travelers who just need a place to rest in between exploring the city, this is a great pick. It\u2019s not overloaded with unnecessary hype or hidden costs, and that makes it reliable.\n\nOverall, I\u2019d say Qutub Residency is one of the best budget stays in the area. Affordable, practical, and exactly as advertised. If you\u2019re in Delhi for a short trip, business visit, or just passing through and need a clean and safe place, this is definitely a good choice.",
+      "I loved it, This place was the first i went to while beginning my career so i have an attachment to this hotel. The staffs are amiable and helpful."
+    ],
+    "negative_snippets": [
+      "I stayed here in mid December 2025. This is undoubtedly the worst hotel that I have ever stayed in my entire life! The main reason is that this hotel has an attached bar that play loud bass music every day from 10-11 pm till 3-4 am in the morning. So, if you are fine with not being able to sleep every night, then this hotel is ok for you. Just listen to the sound in the videos, I took these videos from my bed. Also, due to loud bass of the music, the doors vibrate and make sound. If you really want to sleep at night, then avoid this shitty place. Apart from this issue, the hot water system was not running, so I had to use cold water in winter. Also, the lights above the bed were dirty. Breakfast quality was pretty average I would say. I will never stay in this hotel again.",
+      "This has been the worst hotel in my entire life.The hotel doesn't provide any toiletries, no kettle, no hair dryer.if you do not want to sleep untill 4am you are welcome here...since it has attached bar the sound vibrates the walls and you can hear the noise very very clearly.Not recommend to even someone who wants to sleep for free.",
+      "Geyser,wifi issue\nNo hot water\nWashroom is not clean\nThey charge 3k per day but not worth"
+    ]
+  },
+  "review_summary": "Based on 5 reviews.",
+  "positive_themes": {
+    "clean_rooms": 2,
+    "friendly_staff": 2,
+    "good_location": 1,
+    "great_value": 2,
+    "good_food": 1
+  },
+  "negative_themes": {
+    "dirty_rooms": 1,
+    "noise": 2
+  }
+}

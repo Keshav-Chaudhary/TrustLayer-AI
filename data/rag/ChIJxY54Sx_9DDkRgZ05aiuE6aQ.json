@@ -1,0 +1,53 @@
+{
+  "hotel_id": "ChIJxY54Sx_9DDkRgZ05aiuE6aQ",
+  "hotel_name": "Hotel The Rasa",
+  "area": "Shahdara",
+  "budget_category": "Mid-Range",
+  "rating": 4.7,
+  "trust_score": 0.7797734190662505,
+  "travel_purpose_tags": [
+    "Leisure",
+    "Business"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "rich",
+    "review_count": 5,
+    "positive_snippet_count": 3,
+    "negative_snippet_count": 2,
+    "positive_theme_count": 4,
+    "negative_theme_count": 1
+  },
+  "aspect_scores": {
+    "cleanliness": 0.9949183662732444,
+    "service": 0.9949183662732444,
+    "location": 0.9997429847717284,
+    "value_for_money": 0.5,
+    "staff_behavior": 0.7472909465432167
+  },
+  "recommendation_features": {
+    "popularity_score": 0.5208106394044729,
+    "rating_score": 4.7,
+    "sentiment_score": 0.5986279907636345
+  },
+  "review_evidence": {
+    "positive_snippets": [
+      "\u2b50\u2b50\u2b50\u2b50\u2b50 Excellent Stay \u2013 Highly Recommended!\nI had a wonderful experience staying at this hotel. From the moment I arrived, the staff was extremely polite, professional, and always ready to help. The check-in process was smooth and hassle-free.\nThe room was clean, spacious, and well-maintained with all the necessary amenities. The bed was very comfortable, and the overall atmosphere was calm and relaxing. Housekeeping did a great job every day.\nThe food was delicious with a good variety of options, and the restaurant staff provided excellent service. The location of the hotel is also perfect\u2014easy to access and close to important places.\nOverall, this hotel exceeded my expectations in terms of comfort, service, and cleanliness. I would definitely recommend it to anyone looking for a pleasant and comfortable stay. I look forward to staying here again!",
+      "I had stayed since last 20dec.It is a fabulous hotel.\nSpecially staff so helpful the name of front desk manager (kunal) he is very helpful to found a my gandhi nagar market route.\nNeet and clean room\nHelpful and well educated staff\nFabulous environment \ud83d\udc4c\nThanks Hotel The Rasa\nGiving me better hospitality.\nI hope we meet again \ud83d\ude4f",
+      "Staff is polite,decent, prompt, even electrical works are tended to very swiftly\nRooms are clean, with a soft ambient music playing in the corridor all along till 10pm"
+    ],
+    "negative_snippets": [
+      "I had arranged for my father-in-law to stay at this hotel. When I went to meet him, they did not even allow me to see him for two minutes. If you arrange for a guest to stay somewhere, it is natural that you would go to meet them. The hotel staff should cooperate in such situations.\nOne of the hotel staff members doesn\u2019t even have the manners to speak properly. They should learn how to talk to customers and how to deal with them professionally.",
+      "hotel was nice but there no free parking available at rasa hotel. i was stayed there on 4-feb-2026 with assured free car parking.\nbut i got a challan by delhi traffic challan for improper parking without proper photo proof."
+    ]
+  },
+  "review_summary": "Based on 5 reviews.",
+  "positive_themes": {
+    "clean_rooms": 3,
+    "friendly_staff": 4,
+    "good_location": 1,
+    "good_food": 1
+  },
+  "negative_themes": {
+    "parking_issues": 1
+  }
+}

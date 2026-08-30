@@ -1,0 +1,49 @@
+{
+  "hotel_id": "ChIJa40AUI4dDTkR9i55mAwMWqE",
+  "hotel_name": "Hotel Smart Inn Delhi Airport",
+  "area": "Mahipalpur",
+  "budget_category": "Budget",
+  "rating": 4.1,
+  "trust_score": 0.6397680766006294,
+  "travel_purpose_tags": [
+    "Budget"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "moderate",
+    "review_count": 5,
+    "positive_snippet_count": 2,
+    "negative_snippet_count": 3,
+    "positive_theme_count": 3,
+    "negative_theme_count": 0
+  },
+  "aspect_scores": {
+    "cleanliness": 0.0007350511150434,
+    "service": 0.3353325749825065,
+    "location": 0.3343443593087916,
+    "value_for_money": 0.4994345638551749,
+    "staff_behavior": 0.6662421447302525
+  },
+  "recommendation_features": {
+    "popularity_score": 0.5325027569482707,
+    "rating_score": 4.1,
+    "sentiment_score": 0.4020037963287904
+  },
+  "review_evidence": {
+    "positive_snippets": [
+      "Overall, it was a good experience staying at this hotel, price wise, it is budget friendly, it is near IGI Airport and the plus point is that the pass provides cab facility as a complimentary service to drop you up to the airport and also provides cabs to go to other areas of Delhi NCR at a discounted rate.",
+      "I have stayed 6 days , and have good memory , staff are polite ,and behaved nicely"
+    ],
+    "negative_snippets": [
+      "\ud83d\ude44The hotel room is just okay, nothing special. However, I ordered chicken rice from the hotel itself, and it was absolutely terrible\ud83e\udd22\ud83e\udd22\ud83e\udd22. The rice and chicken tasted old and not at all fresh. I definitely wouldn\u2019t recommend ordering food from the room service.\ud83d\ude4f\ud83d\ude4f",
+      "Toilet was out of 1st day and no water on 2nd day\nGot late for meetings earlier and for airport next day\nCharged GST without gst receipt\nVery bad hotel\nNever staying there again\nBed sheet was torn",
+      "I recently stayed at \"Hotel Samrat\" and, unfortunately, had a very disappointing experience. From the moment I checked in, there were several issues that made my stay extremely uncomfortable.\n\nFirst and foremost, the air conditioning was not working, which made the room unbearably hot and stuffy. Despite raising the issue with the staff, it was not resolved during my stay.\n\nSecondly, the door lock was faulty, raising serious concerns about safety and privacy. I had to constantly double-check if the door was properly secured, which added unnecessary stress.\n\nThere were also frequent electricity issues, affecting not only the comfort but also my ability to get work done.\n\nAdditionally, I was surprised to find that basic amenities like a dental kit , electric kettle , Tea kit were not provided, which is expected even in budget accommodations.\n\nThe water flow in the bathroom was extremely slow, making it difficult to take a proper shower. This is a basic necessity that should be properly maintained.\n\nOverall, my experience was far below expectations. I hope the hotel management takes these issues seriously and works on improving the facilities and guest experience. I would not recommend this property until these problems are addressed.\nOverall Not Recommended"
+    ]
+  },
+  "review_summary": "Based on 5 reviews.",
+  "positive_themes": {
+    "friendly_staff": 3,
+    "good_location": 1,
+    "good_food": 1
+  },
+  "negative_themes": {}
+}

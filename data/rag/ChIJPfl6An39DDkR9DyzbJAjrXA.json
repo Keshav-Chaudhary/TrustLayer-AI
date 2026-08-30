@@ -1,0 +1,51 @@
+{
+  "hotel_id": "ChIJPfl6An39DDkR9DyzbJAjrXA",
+  "hotel_name": "Oyo Flagship 812491 Hotel Siddhartha Guest House",
+  "area": "Seelampur",
+  "budget_category": "Budget",
+  "rating": 4.2,
+  "trust_score": 0.6845752430136139,
+  "travel_purpose_tags": [
+    "Leisure"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "rich",
+    "review_count": 5,
+    "positive_snippet_count": 3,
+    "negative_snippet_count": 2,
+    "positive_theme_count": 3,
+    "negative_theme_count": 1
+  },
+  "aspect_scores": {
+    "cleanliness": 0.4978852034837472,
+    "service": 0.0005402090610004,
+    "location": 0.9997484087944032,
+    "value_for_money": 0.9962824881076812,
+    "staff_behavior": 0.9974377950032552
+  },
+  "recommendation_features": {
+    "popularity_score": 0.3856836393487762,
+    "rating_score": 4.2,
+    "sentiment_score": 0.5986590689455624
+  },
+  "review_evidence": {
+    "positive_snippets": [
+      "As a solo female traveler I found this place super safe moreover Staff are friendly and attentive - every request was carried out quickly and nothing seemed to be too much bother.\nRooms and whole atmosphere of the hotel is clean. Right place to stay under the budget",
+      "The owner of the hotel is highly professional and polite and he is never dependent on its staffs for any services that are required by the customers. Its a family hotel type OYO because he is maintaining the standard by applying decent price. Since morning I didnt see a single student coming in but 3-4 families are staying in rooms adjacent to my room.",
+      "Nice and decent place to stay near major markets like Gandhi Nagar, Krishna Nagar, Red Fort. Staff were very polite and respectful. As a female solo traveler the place felt very safe to spend the night. Would like to visit again whenever in Delhi."
+    ],
+    "negative_snippets": [
+      "Worst Hotel I have ever seen in my life.\nLooks like a \u091d\u094b\u092a\u0921\u093c \u092a\u091f\u094d\u091f\u0940\u0964\nFacilities -\nPani - \u0935\u094b \u0924\u094b \u0928\u0939\u0940\u0902 \u0906\u0924\u093e\u0964\nBlanket looks like it is begged from a beggar\nBedsheet has hue holes so that you can play hide and seek in that.\nSafety - they have removed the knobs of the doors so no lock can be applied\nHence it will be safer for the them to steal your luggage... Respect++++\n\u092c\u093e\u0915\u0940 \u0906\u092a \u0916\u0941\u0926 \u0926\u0947\u0916 \u0932\u0947\u0928\u093e\u0964\nEven a 100 rupees dharamshala is better than it.",
+      "Worst service, dirty water, dirty room, mosquito and cockroaches were there"
+    ]
+  },
+  "review_summary": "Based on 5 reviews.",
+  "positive_themes": {
+    "clean_rooms": 1,
+    "friendly_staff": 3,
+    "good_location": 1
+  },
+  "negative_themes": {
+    "dirty_rooms": 1
+  }
+}

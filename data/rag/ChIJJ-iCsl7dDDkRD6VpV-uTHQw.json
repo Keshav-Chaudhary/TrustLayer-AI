@@ -1,0 +1,52 @@
+{
+  "hotel_id": "ChIJJ-iCsl7dDDkRD6VpV-uTHQw",
+  "hotel_name": "Fabhotel Kavya Inn",
+  "area": "New Industrial Township",
+  "budget_category": "Budget",
+  "rating": 4.4,
+  "trust_score": 0.7254789598490243,
+  "travel_purpose_tags": [
+    "Leisure"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "moderate",
+    "review_count": 5,
+    "positive_snippet_count": 2,
+    "negative_snippet_count": 3,
+    "positive_theme_count": 3,
+    "negative_theme_count": 2
+  },
+  "aspect_scores": {
+    "cleanliness": 0.6667206335502366,
+    "service": 0.5001638007815927,
+    "location": 0.9998277425765992,
+    "value_for_money": 0.5,
+    "staff_behavior": 0.6667206335502366
+  },
+  "recommendation_features": {
+    "popularity_score": 0.4688889788090837,
+    "rating_score": 4.4,
+    "sentiment_score": 0.5880631563952192
+  },
+  "review_evidence": {
+    "positive_snippets": [
+      "\u201cMy stay was comfortable and the staff was helpful. The room was clean and had all the basic amenities required for a smooth stay. A few services could be faster, but overall it was a good experience. Thank you for the hospitality.\u201d",
+      "I recently stayed at[ FabHotel Aroma], and it was an amazing experience. The room was spacious, clean, and well-maintained, with all the necessary amenities. The bed was extremely comfortable, ensuring a great night's sleep.\n\nThe staff was very friendly and accommodating, always ready to assist with a smile. The housekeeping service was excellent, keeping the room spotless throughout my stay.\n\nThe hotel\u2019s location was perfect, with easy access to nearby attractions and transportation. The view from the room was breathtaking, adding to the overall experience.\n\nOverall, I highly recommend [Hotel Name] for anyone looking for a comfortable and relaxing stay. I will definitely be returning!\n\nRating: \u2b50\u2b50\u2b50\u2b50\u2b50 (5/5)"
+    ],
+    "negative_snippets": [
+      "The manager is extremely bad.\nThe staff\u2019s behavior is not proper.\nThe room service boy talks very rudely and even argues.\nIn the bathroom dustbin, there were condoms and many unwanted items left behind.\nThe washroom was very dirty.\nThe walls of the room were dirty and had gutka stains on them.\nThe reception person spoke very nicely at the time of check-in, but once the check-in was done, his behavior changed. When we complained about the poor service, he told us at 1 a.m. to vacate the room.\nThis is a very dirty and bad hotel.\nI request everyone not to choose this hotel for their stay.",
+      "The locality is ok ok. But still they could have maintained the rooms well.",
+      "The owner was really nice, But rooms were very small and not very neet and tidy.Some basic cleanliness is missing."
+    ]
+  },
+  "review_summary": "Based on 5 reviews.",
+  "positive_themes": {
+    "clean_rooms": 3,
+    "friendly_staff": 3,
+    "good_location": 1
+  },
+  "negative_themes": {
+    "dirty_rooms": 1,
+    "rude_staff": 1
+  }
+}

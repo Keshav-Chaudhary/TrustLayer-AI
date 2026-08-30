@@ -1,0 +1,53 @@
+{
+  "hotel_id": "ChIJD3l5JwYfDTkRrQ4zqTYjbfM",
+  "hotel_name": "Fabhotel The Aroma",
+  "area": "Sultanpur",
+  "budget_category": "Mid-Range",
+  "rating": 4.2,
+  "trust_score": 0.6938752424972398,
+  "travel_purpose_tags": [
+    "Leisure"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "rich",
+    "review_count": 5,
+    "positive_snippet_count": 3,
+    "negative_snippet_count": 2,
+    "positive_theme_count": 4,
+    "negative_theme_count": 2
+  },
+  "aspect_scores": {
+    "cleanliness": 0.2990204420542189,
+    "service": 0.4933890740940114,
+    "location": 0.8964824080467224,
+    "value_for_money": 0.5,
+    "staff_behavior": 0.7123928090368281
+  },
+  "recommendation_features": {
+    "popularity_score": 0.472446984385614,
+    "rating_score": 4.2,
+    "sentiment_score": 0.5699665383610408
+  },
+  "review_evidence": {
+    "positive_snippets": [
+      "One of the best stays so far, very supportive staff, the only thing which we missed was their chef was on leave hence we could not get in house food.. I think apart from this, everything was on point as expected.. clean rooms, easy location..",
+      "Great !\nA very good and very genuine experience I have stayed lot of hotels but this hotel staff was too good things was on time the best part was I have forgot my second mobile was there they called me to take away ......amazing\nHave try once to traveller's \u2764\ufe0f\ud83e\udec2",
+      "I booked this hotel first time I was quit nervous about the hotel thinking about ist safe or not but when I reached to the hotel reception they treat like  thre family member staff nature was very good and help full they made my stay very comfortable the the service was litil but delayed"
+    ],
+    "negative_snippets": [
+      "Very bad experience. Foul smell in the rooms. Booked 4 rooms. All were in bad conditions. Everything was pathetic. Food was delayed for 2 hours. Never book this hotel",
+      "The worst experience ever faced.....one of the most pathetic hotel....rude staff...asked me to wait for 1.5 hours still they could not provide key for the room...very rude staff especially the manager on night duty....no clean linens.....no kitchen service....\n.their whole staff gathers in case you argue...it's too dangerous for families ...upto an extend that I warned them for police intervention otherwise they were misbehaving with my wife also....seriously it's too dangerous for families...please don't visit this shitty place again\n..."
+    ]
+  },
+  "review_summary": "Based on 5 reviews.",
+  "positive_themes": {
+    "clean_rooms": 2,
+    "friendly_staff": 4,
+    "good_location": 1,
+    "good_food": 2
+  },
+  "negative_themes": {
+    "dirty_rooms": 1,
+    "rude_staff": 1
+  }
+}

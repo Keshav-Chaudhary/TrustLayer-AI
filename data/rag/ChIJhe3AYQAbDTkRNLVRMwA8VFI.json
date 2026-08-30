@@ -1,0 +1,42 @@
+{
+  "hotel_id": "ChIJhe3AYQAbDTkRNLVRMwA8VFI",
+  "hotel_name": "Hotel La Wisteria",
+  "area": "New Delhi",
+  "budget_category": "Mid-Range",
+  "rating": 3.0,
+  "trust_score": 0.2739121548699165,
+  "travel_purpose_tags": [
+    "Budget"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "sparse",
+    "review_count": 1,
+    "positive_snippet_count": 0,
+    "negative_snippet_count": 1,
+    "positive_theme_count": 0,
+    "negative_theme_count": 1
+  },
+  "aspect_scores": {
+    "cleanliness": 0.5,
+    "service": 0.5,
+    "location": 0.5,
+    "value_for_money": 0.5,
+    "staff_behavior": 0.0004290374636184
+  },
+  "recommendation_features": {
+    "popularity_score": 0.1022696131573402,
+    "rating_score": 3.0,
+    "sentiment_score": 0.0004290374636184
+  },
+  "review_evidence": {
+    "positive_snippets": [],
+    "negative_snippets": [
+      "The manager, Mr. Sanjay, is extremely rude to customers, and the facilities are of very poor quality. This is a sub-1-star hotel\u2014stay at your own risk."
+    ]
+  },
+  "review_summary": "Based on 1 reviews.",
+  "positive_themes": {},
+  "negative_themes": {
+    "rude_staff": 1
+  }
+}

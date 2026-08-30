@@ -1,0 +1,47 @@
+{
+  "hotel_id": "ChIJzedOOWzjDDkRHuh3Br0sIZA",
+  "hotel_name": "Hotel O By Oyo Kanak Palace",
+  "area": "Lajpat Nagar",
+  "budget_category": "Budget",
+  "rating": 4.3,
+  "trust_score": 0.5260088525380445,
+  "travel_purpose_tags": [
+    "Budget"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "moderate",
+    "review_count": 5,
+    "positive_snippet_count": 0,
+    "negative_snippet_count": 3,
+    "positive_theme_count": 2,
+    "negative_theme_count": 1
+  },
+  "aspect_scores": {
+    "cleanliness": 0.5,
+    "service": 0.0004695659445132,
+    "location": 0.0003831129870377,
+    "value_for_money": 0.0011414943243531,
+    "staff_behavior": 0.000392162502976
+  },
+  "recommendation_features": {
+    "popularity_score": 0.474176256655733,
+    "rating_score": 4.3,
+    "sentiment_score": 0.000990562752122
+  },
+  "review_evidence": {
+    "positive_snippets": [],
+    "negative_snippets": [
+      "The booking.com app and this hotel are running a scam together. When I booked a room for two nights, the price showed INR 1300, but when I reached the hotel they said that booking amount is different from actual amount and asked for 2600 which is double the booking price. Finally, when I said not to stay they charged 700 for cancellation and then finally I had to stay for one night for 1000 because I had no choice. If you visit Delhi, never book stay from any app like Booking.com, Agoda, or Oyo. Just visit the hotel and ask for actual price.",
+      "Beware of this hotel. A camera was found in the bulb holder. This is mostly booked by unmarried couples on hourly basis. Families stay away. Room condition is pathetic.",
+      "They denied the complimentary check in between 10-12 (as per OYO policy), offered us to cancel the oyo booking and book offline for early check in. Then when we entered the reception at noon,(12 p.m. check-in time) the manager denied check in and the app now showed us to pay 650 extra because the number of guests had been altered by the manager from 2 people to 3 (excluding the 720 paid the day before) even though it was prepaid and booked for 2. I talked to 5-6 customer care executives and my issue weren't resolved. Then a guy who was supposedly the area manager told us to wait 30 minutes. At 12:50 the manager said he will give check in but during the calls from OYO he laughed and said \"customer bhi waisa hi pandey ji bhi waisa hi\" now I don't know about pandey ji but I couldn't tolerate it after wasting hours on them. I had to leave the place without refund. OYO said they can't refund me because I was offered check in. But they didn't take into account that it was already 1 hour since I say at the reception. Worst place. Worst people. Don't go to ruin their dignity. Also the place looked like it was made in a minute. *No help from OYO service, none from the staff* *rude manager laughed at me for not paying merely 600 more*"
+    ]
+  },
+  "review_summary": "Based on 5 reviews.",
+  "positive_themes": {
+    "friendly_staff": 3,
+    "good_location": 1
+  },
+  "negative_themes": {
+    "rude_staff": 2
+  }
+}

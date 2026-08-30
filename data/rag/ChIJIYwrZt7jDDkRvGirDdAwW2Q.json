@@ -1,0 +1,46 @@
+{
+  "hotel_id": "ChIJIYwrZt7jDDkRvGirDdAwW2Q",
+  "hotel_name": "Hotel O Kalkaji Residency Bnb Near Lotus Temple",
+  "area": "Nehru Place",
+  "budget_category": "Mid-Range",
+  "rating": 2.4,
+  "trust_score": 0.3559858724260907,
+  "travel_purpose_tags": [
+    "Budget"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "sparse",
+    "review_count": 5,
+    "positive_snippet_count": 1,
+    "negative_snippet_count": 3,
+    "positive_theme_count": 1,
+    "negative_theme_count": 0
+  },
+  "aspect_scores": {
+    "cleanliness": 0.5,
+    "service": 0.2533617802619119,
+    "location": 0.5,
+    "value_for_money": 0.0048224162310361,
+    "staff_behavior": 0.0085105989128351
+  },
+  "recommendation_features": {
+    "popularity_score": 0.5593592993165449,
+    "rating_score": 2.4,
+    "sentiment_score": 0.2029525081452448
+  },
+  "review_evidence": {
+    "positive_snippets": [
+      "Golden Hotel is a 4 star property. The service here is very good. There is no problem here. My experience has been very good. There is AC service here and the rooms are very beautiful.\nI liked it \ud83d\ude18\ud83e\udd70"
+    ],
+    "negative_snippets": [
+      "Worst hotel ever visited I have booked hotel for two days they charged me 1300 approx and when I reached for checkin they said pay extra 3000 they said it's a booking amount. And when I called customer care they said within 10 min they will give check in when I arrive for check in they said they have not any information. After 3 time for customer care they said they want hard copy and why I gave hard copy they gave me a room whose have not any door key and refused to give me door key and said they have cameras and it's safe. They are fraud people only fraud people only there to bother people.",
+      "The hotel demands 1500/- extra money. Call oyo customer and it will be removed. The hotel adds 1500 as extra service charge. That can be removed. Call customer care first then check in.",
+      "This hotel asks for 1500 at reception for extra service. Which can be removed by calling customer care. I have filed complaint in Consumer helpline and will drag this hotel to court if needed. Use NCH platform For Complaint if facing issue."
+    ]
+  },
+  "review_summary": "Based on 5 reviews.",
+  "positive_themes": {
+    "friendly_staff": 1
+  },
+  "negative_themes": {}
+}

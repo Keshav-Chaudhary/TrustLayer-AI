@@ -1,0 +1,51 @@
+{
+  "hotel_id": "ChIJFaVru3bjDDkRrUBWLmUZSM8",
+  "hotel_name": "The Desire Hostel",
+  "area": "Malviya Nagar",
+  "budget_category": "Budget",
+  "rating": 4.1,
+  "trust_score": 0.5912694429298235,
+  "travel_purpose_tags": [
+    "Budget"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "moderate",
+    "review_count": 5,
+    "positive_snippet_count": 1,
+    "negative_snippet_count": 3,
+    "positive_theme_count": 3,
+    "negative_theme_count": 2
+  },
+  "aspect_scores": {
+    "cleanliness": 0.2502835655614034,
+    "service": 0.3335990183113608,
+    "location": 0.5,
+    "value_for_money": 0.9997081160545348,
+    "staff_behavior": 0.2525220248426194
+  },
+  "recommendation_features": {
+    "popularity_score": 0.6043613960091064,
+    "rating_score": 4.1,
+    "sentiment_score": 0.2020850613364018
+  },
+  "review_evidence": {
+    "positive_snippets": [
+      "The Desire Hostel has become like my Delhi home. I\u2019ve stayed here on three different occasions throughout the past year and the staff is always friendly, Especially Mr. Rohit (Manager) is a great host, He really take care of everyone, he knows very well how to attend their guests. He was very supportive in anyway. The space is cleaned often.The guests are mostly young, friendly & traveling for work or school and a few tourists like myself. There\u2019s a lovely gated neighborhood and park nearby to stroll through, and the nearby bus will take you anywhere you need to go. The room and bathroom were in good condition, service requests were quick. hostel for low budget travellers and it was a great experience. Everything was efficient and smooth. The place is well maintained. Staff is cordial and we had no issues throughout.\nAlways happy to stay- thank you Desire staff! I will definitely be staying here again. Great experience staying here."
+    ],
+    "negative_snippets": [
+      "THE IMAGES ONLINE ARE FAKE AND NOTHING LIKE THE REAL HOSTEL.\n\nPaid for the whole day even though I was meant to only use the room to sleep as my flight only landed at 3am in the morning. As I went in the hostel, it was dusty and leakage marks on the walls. The room was used before me to probably have a quickie by someone else. The bed was used and was in a mess. There were lipstick marks, multiple hair strands, dried fluid marks on the bed. As well as cigarette buds, spilled water, and dirty shoe marks in the room.\n\u200bThis place is disgusting.\n\u200bI am sure this property is used by couple on short term basis in the nighttime as the room next to mine was occupied when I reached, but the occupants had left by around 6AM when I decided to leave and check in into a different hotel.\n\u200bThis hostel is nothing and I repeat NOTHING like what is shown in the listing.\n\nPeople without any basic hygiene or self respect should consider this hostel to stay",
+      "I had a very disappointing experience at this hostel. The photos online are completely misleading \u2014 the rooms look nothing like the pictures. The place was unhygienic, everything was very dirty, and there was no proper shower available. The reception area was dark and made me feel unsafe. The staff were okay, neither particularly friendly nor rude, but overall, there was nothing positive about my stay. I wouldn\u2019t recommend this hostel to anyone looking for a clean or comfortable place to stay.",
+      "I stayed at Desire Hostel for 4 days (originally booked for 6) and had a very unpleasant experience. The property looks nothing like the photos shown online. The floors were dusty, the building is old, and overall maintenance is extremely poor. The atmosphere was dull and unwelcoming compared to other hostels I\u2019ve stayed in.\n\nThe staff behavior was just okay, nothing warm or friendly. The kitchen was in terrible condition, unhygienic and not at all usable. The vibe of the place was completely off, which made the stay even more uncomfortable.\n\nThis was my first hostel experience, and unfortunately, it was horrible. I even chose to check out a day early and spent a night in a hotel instead because it was that bad. Right after this, I stayed in another hostel where the people were welcoming, the environment was pleasant, and the place was well-maintained\u2014so the contrast was huge."
+    ]
+  },
+  "review_summary": "Based on 5 reviews.",
+  "positive_themes": {
+    "clean_rooms": 2,
+    "friendly_staff": 4,
+    "good_location": 1
+  },
+  "negative_themes": {
+    "dirty_rooms": 3,
+    "rude_staff": 2
+  }
+}

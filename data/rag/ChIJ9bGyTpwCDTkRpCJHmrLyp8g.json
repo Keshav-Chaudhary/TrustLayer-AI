@@ -1,0 +1,50 @@
+{
+  "hotel_id": "ChIJ9bGyTpwCDTkRpCJHmrLyp8g",
+  "hotel_name": "Hotel Regent Grand",
+  "area": "Karol Bagh",
+  "budget_category": "Mid-Range",
+  "rating": 4.1,
+  "trust_score": 0.7692377673964068,
+  "travel_purpose_tags": [
+    "Leisure"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "rich",
+    "review_count": 5,
+    "positive_snippet_count": 3,
+    "negative_snippet_count": 2,
+    "positive_theme_count": 4,
+    "negative_theme_count": 0
+  },
+  "aspect_scores": {
+    "cleanliness": 0.5003601205535232,
+    "service": 0.5004974794574082,
+    "location": 0.999859094619751,
+    "value_for_money": 0.5,
+    "staff_behavior": 0.6668684411173066
+  },
+  "recommendation_features": {
+    "popularity_score": 0.7185309938905972,
+    "rating_score": 4.1,
+    "sentiment_score": 0.6837917225435376
+  },
+  "review_evidence": {
+    "positive_snippets": [
+      "We had our meeting at this hotel last week, and the overall experience was truly impressive.\nThe atmosphere was pleasant, comfortable, and professional, which made our meeting smooth and enjoyable.\n\nStaff & Service:\nThe staff was polite, attentive, and very supportive. They took care of every small detail and provided quick assistance whenever needed.\n\nFood:\nThe food was outstanding \u2014 fresh, delicious, and well-served. Everyone appreciated the quality and taste.\n\nOverall, it was a wonderful experience. This hotel will definitely be our preferred choice for future meetings and events.",
+      "I had a pleasant stay at the hotel. The location is excellent, being very close to the metro station. The food quality was good as well. My only suggestion is to include a few additional items in the breakfast menu. Thank you for the hospitality.",
+      "The restaurant, food and the guys are super helpful and good. Also the rooms are clean. Just if can replace the bed because it\u2019s about too soft. Overall was good. Thank you."
+    ],
+    "negative_snippets": [
+      "This is not a 4* hotel ! I would say it\u2019s a 3* hotel. The building was old, rooms were dusty. There was renovation on the lower floors, which was slightly inconvenient. Another thing I didn\u2019t like was only men seemed to work there. However, we had dinner at the restaurant and it was nice. Breakfast was good. It\u2019s a small hotel so not a very varied breakfast but they do make omelettes on request.",
+      "We had booked this hotel for our parents\u2019 through our travel agency during their trip to Delhi. The rooms were neat and clean, but we were very disappointed with how the hotel handled the surprises we arranged for them.\n\nWe had arranged and paid extra for a surprise candlelight dinner, expecting a nice setup with proper decorations and fancy candles. Instead, they just placed one normal candle in a glass(which we drink water) in a regular table in the room. It was very disappointing, especially when we had clearly mentioned it was a special surprise. It was honestly embarrassing and felt like they had no idea what a candlelight dinner means.\n\nWe also ordered a surprise cake through Swiggy and delivered to the hotel reception, telling the hotel staff to serve it with the dinner as a surprise. Instead of keeping it a surprise, the staff called our parents\u2019 room and asked if they had ordered a cake \u2014 completely spoiled and ruining the surprise.\n\nOur parents still enjoyed their stay because the room was comfortable, but the hotel staff really need to learn how to handle special requests and surprises. If you\u2019re planning something special for your loved ones, we don\u2019t recommend this hotel."
+    ]
+  },
+  "review_summary": "Based on 5 reviews.",
+  "positive_themes": {
+    "friendly_staff": 3,
+    "good_food": 4,
+    "good_location": 2,
+    "clean_rooms": 2
+  },
+  "negative_themes": {}
+}

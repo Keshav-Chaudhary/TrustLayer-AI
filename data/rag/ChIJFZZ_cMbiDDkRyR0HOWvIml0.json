@@ -1,0 +1,48 @@
+{
+  "hotel_id": "ChIJFZZ_cMbiDDkRyR0HOWvIml0",
+  "hotel_name": "Hotel C Park Inn",
+  "area": "New Delhi",
+  "budget_category": "Budget",
+  "rating": 4.3,
+  "trust_score": 0.8831425745076649,
+  "travel_purpose_tags": [
+    "Leisure",
+    "Business"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "moderate",
+    "review_count": 5,
+    "positive_snippet_count": 3,
+    "negative_snippet_count": 0,
+    "positive_theme_count": 4,
+    "negative_theme_count": 0
+  },
+  "aspect_scores": {
+    "cleanliness": 0.9997825384140014,
+    "service": 0.9997912645339966,
+    "location": 0.9997376203536988,
+    "value_for_money": 0.5,
+    "staff_behavior": 0.9997825384140014
+  },
+  "recommendation_features": {
+    "popularity_score": 0.6550755888630876,
+    "rating_score": 4.3,
+    "sentiment_score": 0.9997825384140014
+  },
+  "review_evidence": {
+    "positive_snippets": [
+      "We stay at Hotel C Park Inn  with 42 people group for independence  for 20 days was very pleasant. The staff provided excellent hospitality and were always polite and helpful. The rooms were clean, comfortable, and well maintained. The hospitality by Nirmal singh was excellent, with very polite and helpful staff who made us feel comfortable throughout my stay. Their services, including room service and housekeeping, were quick, professional, and reliable. Overall, it was a smooth and satisfying experience.",
+      "The service was a little late at times, but the staff was polite, supportive, and tried their best to provide good service. I had a pleasant stay at C Park Inn Hotel. The rooms were clean, comfortable, and well-maintained, which made the stay relaxing. Overall, my experience at C Park Inn Hotel was good. I would recommend this hotel for its comfortable rooms and decent service.",
+      "A very comfortable and clean hotel at the centre of Karol Bagh. Easily accessible too. The staff, especially Mr. Udham Singh, is very helpful and coordinative. My payment was stuck during checkout so at that time I already paid the amount twice.\nNext day when it was confirmed that his bank received my payment so he transferred back honestly. This honest behaviour is so rare these days so I honestly loved it. Definitely a good stay with good food and good stuff. Thank you!"
+    ],
+    "negative_snippets": []
+  },
+  "review_summary": "Based on 5 reviews.",
+  "positive_themes": {
+    "clean_rooms": 5,
+    "friendly_staff": 5,
+    "good_food": 1,
+    "good_location": 2
+  },
+  "negative_themes": {}
+}

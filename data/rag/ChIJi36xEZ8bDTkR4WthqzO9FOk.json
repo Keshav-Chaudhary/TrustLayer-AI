@@ -1,0 +1,38 @@
+{
+  "hotel_id": "ChIJi36xEZ8bDTkR4WthqzO9FOk",
+  "hotel_name": "The Royal Galaxy- Dwarka Sec.12",
+  "area": "Sector 12 Dwarka",
+  "budget_category": "Mid-Range",
+  "rating": 3.8,
+  "trust_score": 0.6295299815115658,
+  "travel_purpose_tags": [
+    "Budget"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "none",
+    "review_count": 0,
+    "positive_snippet_count": 0,
+    "negative_snippet_count": 0,
+    "positive_theme_count": 0,
+    "negative_theme_count": 0
+  },
+  "aspect_scores": {
+    "cleanliness": NaN,
+    "service": NaN,
+    "location": NaN,
+    "value_for_money": NaN,
+    "staff_behavior": NaN
+  },
+  "recommendation_features": {
+    "popularity_score": 0.5248733851099727,
+    "rating_score": 3.8,
+    "sentiment_score": 0.5
+  },
+  "review_evidence": {
+    "positive_snippets": [],
+    "negative_snippets": []
+  },
+  "review_summary": "Based on 0 reviews.",
+  "positive_themes": {},
+  "negative_themes": {}
+}

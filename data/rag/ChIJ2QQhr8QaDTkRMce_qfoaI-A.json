@@ -1,0 +1,50 @@
+{
+  "hotel_id": "ChIJ2QQhr8QaDTkRMce_qfoaI-A",
+  "hotel_name": "Green Lotus La Wisteria Inn",
+  "area": "Dwarka",
+  "budget_category": "Budget",
+  "rating": 3.6,
+  "trust_score": 0.5995082591901864,
+  "travel_purpose_tags": [
+    "Leisure"
+  ],
+  "evidence_metadata": {
+    "evidence_level": "moderate",
+    "review_count": 5,
+    "positive_snippet_count": 2,
+    "negative_snippet_count": 3,
+    "positive_theme_count": 2,
+    "negative_theme_count": 1
+  },
+  "aspect_scores": {
+    "cleanliness": 0.9998313188552856,
+    "service": 0.9998313188552856,
+    "location": 0.9998313188552856,
+    "value_for_money": 0.5,
+    "staff_behavior": 0.0004290374636184
+  },
+  "recommendation_features": {
+    "popularity_score": 0.6582914462466433,
+    "rating_score": 3.6,
+    "sentiment_score": 0.4002885795722249
+  },
+  "review_evidence": {
+    "positive_snippets": [
+      "Amazing experience! Great location, well-maintained property, and top-notch service. Special thanks to the housekeeping team for keeping everything spotless. Will surely visit again",
+      "Guests, especially solo travelers, feel safe and well-cared for, creating a \u201chome away from home\u201d atmosphere."
+    ],
+    "negative_snippets": [
+      "The manager, Mr. Sanjay, is extremely rude to customers, and the facilities are of very poor quality. This is a sub-1-star hotel\u2014stay at your own risk.",
+      "The most Pathetic hotel I have ever been too!",
+      "1)Cleanliness of the room was disappointing. Tables, mirrors, glass and bed was so dusty. It seemed like room had not been used for long .\nThey even don't pick up the used utensils.\n2)There were lot of mosquitoes in our room. When we complained, they blamed the locality and not their negligence.\n3) Wifi was not working.\n4)Only good thing about the hotel was their flexibility regarding hotel policies. They are flexible towards Check-in and Check Out timings."
+    ]
+  },
+  "review_summary": "Based on 5 reviews.",
+  "positive_themes": {
+    "clean_rooms": 2,
+    "good_location": 1
+  },
+  "negative_themes": {
+    "rude_staff": 1
+  }
+}
