@@ -133,3 +133,14 @@ Thumbs.db
 *.swp
 *.swo
 *~
+
+# --- Standalone Report Website (Deployed Separately) ---
+Report_Website/
+
+# --- Redundant Root Artifacts & Conversion Scripts ---
+TRUSTLAYER_AI_DEVELOPMENT_JOURNEY.md
+TRUSTLAYER_AI_DEVELOPMENT_JOURNEY.pdf
+convert_md_to_pdf.py
+GITHUB_DETAILS_AND_UPLOAD_GUIDE.md
+*.pdf
+

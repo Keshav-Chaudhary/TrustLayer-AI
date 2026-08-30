@@ -3,21 +3,26 @@
 # 🏨 TrustLayer-AI
 ### Grounded, Explainable & Anti-Hallucinatory AI Hotel Recommendation Engine
 
+[![Interactive Report](https://img.shields.io/badge/Interactive_Report-Live_Website-0D9488?style=for-the-badge&logo=googlechrome&logoColor=white)](https://keshav-chaudhary.github.io/TrustLayer-AI/)
 [![Python 3.10+](https://img.shields.io/badge/Python-3.10%2B-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
 [![FastAPI](https://img.shields.io/badge/FastAPI-0.115-009688?style=for-the-badge&logo=fastapi&logoColor=white)](https://fastapi.tiangolo.com/)
 [![Next.js 16](https://img.shields.io/badge/Next.js-16.2-000000?style=for-the-badge&logo=next.js&logoColor=white)](https://nextjs.org/)
-[![ChromaDB](https://img.shields.io/badge/ChromaDB-Vector_Store-orange?style=for-the-badge)](https://www.trychroma.com/)
-[![Ollama](https://img.shields.io/badge/Ollama-Local_LLM-purple?style=for-the-badge)](https://ollama.com/)
-[![Tests](https://img.shields.io/badge/Pytest-Passing-brightgreen?style=for-the-badge&logo=pytest&logoColor=white)](https://docs.pytest.org/)
+[![PostgreSQL 17](https://img.shields.io/badge/PostgreSQL-17.6_+_pgvector-336791?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.postgresql.org/)
+[![Tests](https://img.shields.io/badge/Pytest-109%2F109_Passing-brightgreen?style=for-the-badge&logo=pytest&logoColor=white)](https://docs.pytest.org/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=for-the-badge)](LICENSE)
 
 <p align="center">
   <b>Eliminating hallucinations in travel AI through strict evidence grounding, 5D aspect-based sentiment analysis, and explainable trust scores.</b>
 </p>
 
-[Quickstart](#-1-click-quickstart) • [System Architecture](#-system-architecture) • [Key Features](#-key-features) • [CLI Runner](#-cli-runner-options) • [Documentation Hub](#-in-depth-documentation) • [License](#-license)
+[🌐 Live Report Website](https://keshav-chaudhary.github.io/TrustLayer-AI/) • [Quickstart](#-1-click-quickstart) • [System Architecture](#-system-architecture) • [Key Features](#-key-features) • [CLI Runner](#-cli-runner-options) • [Documentation Hub](#-in-depth-documentation) • [License](#-license)
 
 </div>
+
+> [!TIP]
+> 🌐 **Interactive Master Research & Engineering Report Website**:
+> Explore the complete, publication-grade interactive report with all 18 engineering stages, KaTeX mathematical proofs, diagnostic failure postmortems, and the complete 7-pillar system architecture blueprint:
+> 👉 **[Explore TrustLayer-AI Live Report Website](https://keshav-chaudhary.github.io/TrustLayer-AI/)** *(or view [`Report_Website/index.html`](Report_Website/index.html) locally)*
 
 ---
 
@@ -190,11 +195,13 @@ Access the application at `http://localhost:3000` and API at `http://localhost:8
 
 ## 📚 In-Depth Documentation
 
-For complete technical specifications, see the documents in the [`docs/`](docs/) directory:
+For complete technical specifications, research proofs, and development history:
+- 🌐 [**Interactive Master Research & Engineering Report Website**](https://keshav-chaudhary.github.io/TrustLayer-AI/) *(or view [`Report_Website/index.html`](Report_Website/index.html))*
+- 🏛️ [**Complete System Architecture & Blueprint (Chapter 11)**](https://keshav-chaudhary.github.io/TrustLayer-AI/#ch-complete-arch)
 - 📖 [**System Architecture & End-to-End Data Flow**](docs/SYSTEM_ARCHITECTURE_AND_FLOW.md)
 - 🚀 [**Getting Started & Fork Guide**](docs/GETTING_STARTED.md)
 - 🔌 [**API Reference Manual**](docs/API_REFERENCE.md)
-- 📄 [**TrustLayer AI Development Journey (PDF)**](TRUSTLAYER_AI_DEVELOPMENT_JOURNEY.pdf)
+- 📄 [**Master Project Record Markdown**](MASTER_TRUSTLAYER_AI_COMPLETE_PROJECT_RECORD.md)
 
 ---
 
