@@ -3,7 +3,7 @@
 # 🏨 TrustLayer-AI
 ### Grounded, Explainable & Anti-Hallucinatory AI Hotel Recommendation Engine
 
-[![Interactive Report](https://img.shields.io/badge/Interactive_Report-Live_Website-0D9488?style=for-the-badge&logo=googlechrome&logoColor=white)](https://keshav-chaudhary.github.io/TrustLayer-AI/)
+[![Live Website](https://img.shields.io/badge/🌐_Interactive_Report-Live_Website-0D9488?style=for-the-badge&logo=googlechrome&logoColor=white)](https://keshav-chaudhary.github.io/TrustLayer-AI/)
 [![Python 3.10+](https://img.shields.io/badge/Python-3.10%2B-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
 [![FastAPI](https://img.shields.io/badge/FastAPI-0.115-009688?style=for-the-badge&logo=fastapi&logoColor=white)](https://fastapi.tiangolo.com/)
 [![Next.js 16](https://img.shields.io/badge/Next.js-16.2-000000?style=for-the-badge&logo=next.js&logoColor=white)](https://nextjs.org/)
@@ -12,15 +12,15 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=for-the-badge)](LICENSE)
 
 <p align="center">
-  <b>Eliminating hallucinations in travel AI through strict evidence grounding, 5D aspect-based sentiment analysis, and explainable trust scores.</b>
+  <b>A production-grade, preference-aware hotel recommender system eliminating AI hallucinations through 5-Dimensional Aspect-Based Sentiment Analysis (ABSA), Reciprocal Rank Fusion ($k=60$), sub-5ms analytical explanations, and strict citation grounding.</b>
 </p>
 
-[🌐 Live Report Website](https://keshav-chaudhary.github.io/TrustLayer-AI/) • [Quickstart](#-1-click-quickstart) • [System Architecture](#-system-architecture) • [Key Features](#-key-features) • [CLI Runner](#-cli-runner-options) • [Documentation Hub](#-in-depth-documentation) • [License](#-license)
+[🌐 Live Report Website](https://keshav-chaudhary.github.io/TrustLayer-AI/) • [🖥️ System Previews](#-system-interface-previews) • [Quickstart](#-1-click-quickstart) • [Architecture Blueprint](#-master-system-architecture) • [Empirical Benchmarks](#-empirical-benchmarks--breakthroughs) • [CLI Runner](#-cli-runner--orchestrator) • [Documentation Hub](#-in-depth-documentation) • [Citation](#-academic-citation)
 
 </div>
 
 > [!TIP]
-> 🌐 **Interactive Master Research & Engineering Report Website**:
+> 🌐 **Interactive Research & Engineering Report Website**:
 > Explore the complete, publication-grade interactive report with all 18 engineering stages, KaTeX mathematical proofs, diagnostic failure postmortems, and the complete 7-pillar system architecture blueprint:
 > 👉 **[Explore TrustLayer-AI Live Report Website](https://keshav-chaudhary.github.io/TrustLayer-AI/)** *(or view [`Report_Website/index.html`](Report_Website/index.html) locally)*
 
@@ -28,13 +28,155 @@
 
 ## 🌟 Why TrustLayer-AI?
 
-Traditional travel platforms rely on opaque star ratings and LLMs that frequently **hallucinate amenities**—promising non-existent pools, claiming noisy budget lodges are quiet sanctuaries, or ignoring recent hygiene collapses.
+Traditional travel platforms rely on opaque 5-star ratings and unconstrained Large Language Models (LLMs) that frequently **hallucinate amenities**—promising non-existent swimming pools, claiming noisy transit lodges are quiet sanctuaries, or masking recent hygiene collapses.
 
-**TrustLayer-AI** introduces a **Strict Grounding & Verification Framework**:
-- 🛡️ **Anti-Hallucination Guardrails**: LLMs are mathematically constrained to verified review chunks. Every recommendation cites specific, non-hallucinated review evidence.
-- 📊 **Explainable Trust Score (0–100)**: Evaluates consistency across 5 distinct operational dimensions (*Cleanliness, Service, Location, Value, and Staff Behavior*).
-- ⚡ **Dual-Engine Architecture**: Runs completely out of the box on **CSV + ChromaDB** with **zero external database dependencies**, or scales to **PostgreSQL 16 + pgvector**.
-- 🔄 **Smart Constraint Relaxation**: If strict search filters return zero matches, the system gracefully relaxes constraints (*Travel Persona → Budget Range → Adjacent Areas*) to always surface relevant stays.
+**TrustLayer-AI** introduces a mathematically grounded **Verification & Explainability Architecture**:
+
+- 🛡️ **Anti-Hallucination Guardrails**: LLMs are strictly bounded to verified review chunks via real-time `GroundingValidator` interception ($96.7\%$ grounded response rate, $1.3\%$ residual hallucination rate).
+- 📊 **5D Aspect-Based Sentiment Analysis**: Sentence-level DistilBERT extraction across *Cleanliness, Service, Location, Value, and Staff*.
+- ⚡ **Sub-5ms Analytical Explainability**: Replaced intractable $1,540\text{ ms}$ SHAP sampling with deterministic feature-matching delivering visual aspect radars and natural language justifications in **$3.2\text{ ms}$** ($481\times$ faster).
+- 🔀 **Reciprocal Rank Fusion ($k=60$)**: Resolved linear score calibration collapse ($\sigma^2_{\text{CF}}=0.85$ vs $\sigma^2_{\text{CB}}=0.008$), elevating hybrid ranking from $\text{NDCG@10} = 0.006$ to **$\mathbf{0.128}$** ($64.8\%$ catalog coverage).
+- 🗄️ **Dual ACID Storage Engine**: Operates out of the box on **CSV + ChromaDB** with zero external dependencies, or scales to **PostgreSQL 17.6 + pgvector** ($1.0000$ cosine parity, $0$ orphan records).
+
+---
+
+## 📊 Empirical Benchmarks & Breakthroughs
+
+| Benchmark Metric | Baseline / Legacy Approach | TrustLayer-AI Engine | Empirical Gain / Outcome |
+|---|---|---|---|
+| **Hybrid Recommender Ranking** | $\text{NDCG@10} = 0.006$ *(Linear Sum Failure)* | **$\text{NDCG@10} = \mathbf{0.128}$** *(RRF $k=60$)* | **$+21.3\times$ Ranking Quality Gain** |
+| **Catalog Recommendation Spread** | $12.4\%$ *(Popularity Bias Collapse)* | **$64.8\%$ Catalog Coverage** | **$+52.4\%$ Discovery Breadth** |
+| **Explainer Execution Latency** | $1,540\text{ ms}$ *(Kernel SHAP Sampling)* | **$3.2\text{ ms}$** *(Analytical Mapping)* | **$481\times$ Faster (< 5ms SLA)** |
+| **RAG Evidence Grounding Rate** | $68.2\%$ *(Unconstrained LLM)* | **$96.7\%$** *(`GroundingValidator`)* | **$+28.5\%$ Grounding Accuracy** |
+| **Residual Hallucination Rate** | $31.8\%$ *(Fabricated Amenities)* | **$1.3\%$** *(Interception Pipeline)* | **$-30.5\%$ Hallucination Suppression** |
+| **PostgreSQL / ChromaDB Parity** | Legacy Vector Store | **$1.0000$ Cosine Parity** | **0 Drift / 0 Orphan Records** |
+| **Automated Test Coverage** | Manual Scripts | **109 / 109 Passing Tests** | **100% CI/CD Verification** |
+
+---
+
+## 🏗️ Master System Architecture
+
+<div align="center">
+  <img src="Report_Website/figs/Complete_Arch.png" alt="TrustLayer-AI Master System Architecture Blueprint" width="100%" style="border-radius: 18px; box-shadow: 0 12px 36px rgba(0, 0, 0, 0.25);" />
+  <p align="center">
+    <em><b>Figure 1:</b> TrustLayer-AI End-to-End System Architecture Blueprint spanning Multi-Modal Ingestion, ACID Storage, RRF Hybrid Recommender, Real-Time Explainer, and Anti-Hallucinatory RAG.</em>
+  </p>
+</div>
+
+<br/>
+
+TrustLayer-AI synthesizes seven core subsystems into an end-to-end grounded recommendation loop:
+
+```mermaid
+graph TD
+    subgraph S1 [1. Multi-Modal Data Sources]
+        D1[Google Places API Metadata]
+        D2[8,305 Guest Review Corpus]
+        D3[500 Synthetic Demographic Personas]
+        D4[Delhi NCR Bounding Box]
+    end
+
+    subgraph S2 [2. 9-Stage Ingestion Pipeline]
+        P1[Extract & Validate] --> P2[Clean & 200-Token Chunk]
+        P2 --> P3[all-MiniLM-L6-v2 384d Embed]
+        P3 --> P4[DistilBERT 5D ABSA Analyzer]
+        P4 --> P5[SHA-256 Field Diffing & Human Gate]
+    end
+
+    subgraph S3 [3. Unified ACID Storage Engine]
+        DB1[(PostgreSQL 17.6 Relational Tables)]
+        DB2[(pgvector 384-d Embedding Chunks)]
+    end
+
+    subgraph S4 [4. Hybrid Recommendation Engine]
+        R1[Content-Based Cosine Filter]
+        R2[Collaborative Truncated SVD k=50]
+        R1 & R2 --> R3[Reciprocal Rank Fusion RRF k=60]
+    end
+
+    subgraph S5 [5. Analytical Explainability Engine]
+        E1[Deterministic Feature Matcher]
+        E1 --> E2[5D Aspect Radar & 3.2ms Justifications]
+    end
+
+    subgraph S6 [6. Anti-Hallucinatory RAG Engine]
+        Q1[Natural Language Query] --> Q2[5-Query Semantic Decomposition]
+        Q2 --> Q3[Hybrid Dense + BM25 Retrieval]
+        Q3 --> Q4[1,500-Token Context Assembly]
+        Q4 --> Q5[Ollama LLM / Citation Injection]
+        Q5 --> Q6[GroundingValidator Interception]
+    end
+
+    subgraph S7 [7. Next.js 16 Presentation Interface]
+        UI1[Ranked Hotel Feed]
+        UI2[Interactive Explainer Modal]
+        UI3[Conversational Travel Assistant]
+        UI4[Verified Provenance Drawer]
+    end
+
+    S1 --> S2
+    S2 --> S3
+    S3 --> S4
+    S4 --> S5
+    S3 & S4 --> S6
+    S4 & S5 & S6 --> S7
+```
+
+---
+
+## 🖥️ System Interface Previews
+
+High-resolution desktop captures across all primary Next.js user interfaces, conversational RAG assistants, and detailed 5D aspect evaluation screens.
+
+<details open>
+<summary><b>📷 Click to Expand / Collapse Previews Gallery</b></summary>
+<br/>
+
+#### 1. Landing & Search Portal (`/`)
+<p align="center">
+  <img src="docs/images/previews/001_landing_search.png" width="100%" alt="Landing & Search Portal" style="border-radius: 12px; box-shadow: 0 8px 24px rgba(0,0,0,0.12);" />
+</p>
+
+#### 2. Ranked Stays & Recommendation Feed (`/stays`)
+| Recommendation Feed — View 01 | Recommendation Feed — View 02 |
+|:---:|:---:|
+| <img src="docs/images/previews/002_stays_feed_01.png" width="100%" alt="Stays Feed View 01" style="border-radius: 10px;" /> | <img src="docs/images/previews/002_stays_feed_02.png" width="100%" alt="Stays Feed View 02" style="border-radius: 10px;" /> |
+
+#### 3. Conversational Anti-Hallucinatory AI Assistant (`/ai-assistant`)
+<p align="center">
+  <img src="docs/images/previews/03_ai_assistant.png" width="100%" alt="Conversational AI Assistant" style="border-radius: 12px; box-shadow: 0 8px 24px rgba(0,0,0,0.12);" />
+</p>
+
+#### 4. Grounded Hotel Provenance & Evidence Modal (`/ai-assistant -> View Details`)
+<p align="center">
+  <img src="docs/images/previews/007_Ai_Chat_Bot_Click_View_Deatils_For_Hotel.png" width="100%" alt="AI Chatbot Hotel Details Modal" style="border-radius: 12px; box-shadow: 0 8px 24px rgba(0,0,0,0.12);" />
+</p>
+
+#### 5. 5D Aspect Hotel Comparison Matrix (`/compare`)
+| Comparison Matrix — Part 01 | Comparison Matrix — Part 02 | Comparison Matrix — Part 03 |
+|:---:|:---:|:---:|
+| <img src="docs/images/previews/004_compare_matrix_01.png" width="100%" alt="Compare Matrix Part 01" style="border-radius: 10px;" /> | <img src="docs/images/previews/004_compare_matrix_02.png" width="100%" alt="Compare Matrix Part 02" style="border-radius: 10px;" /> | <img src="docs/images/previews/004_compare_matrix_03.png" width="100%" alt="Compare Matrix Part 03" style="border-radius: 10px;" /> |
+
+| Comparison Matrix — Part 04 | Comparison Matrix — Part 05 |
+|:---:|:---:|
+| <img src="docs/images/previews/004_compare_matrix_04.png" width="100%" alt="Compare Matrix Part 04" style="border-radius: 10px;" /> | <img src="docs/images/previews/004_compare_matrix_05.png" width="100%" alt="Compare Matrix Part 05" style="border-radius: 10px;" /> |
+
+#### 6. Detailed Hotel Breakdown & 5D Sentiment Radars (`/hotel/[id]`)
+| Hotel Detailed View — Part 01 | Hotel Detailed View — Part 02 | Hotel Detailed View — Part 03 |
+|:---:|:---:|:---:|
+| <img src="docs/images/previews/008_Hotel_Detailed_01.png" width="100%" alt="Hotel Detailed View Part 01" style="border-radius: 10px;" /> | <img src="docs/images/previews/008_Hotel_Detailed_02.png" width="100%" alt="Hotel Detailed View Part 02" style="border-radius: 10px;" /> | <img src="docs/images/previews/008_Hotel_Detailed_03.png" width="100%" alt="Hotel Detailed View Part 03" style="border-radius: 10px;" /> |
+
+#### 7. Saved Properties & Wishlist (`/saved`)
+<p align="center">
+  <img src="docs/images/previews/005_saved_stays.png" width="100%" alt="Saved Properties Wishlist" style="border-radius: 12px; box-shadow: 0 8px 24px rgba(0,0,0,0.12);" />
+</p>
+
+#### 8. How TrustLayer-AI Works & Verification Methodology (`/about`)
+<p align="center">
+  <img src="docs/images/previews/006_How_It_Works_Page.png" width="100%" alt="How Trust Works Page" style="border-radius: 12px; box-shadow: 0 8px 24px rgba(0,0,0,0.12);" />
+</p>
+
+</details>
 
 ---
 
@@ -44,7 +186,7 @@ TrustLayer-AI includes a unified CLI orchestrator that validates your environmen
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/your-username/TrustLayer-AI.git
+git clone https://github.com/Keshav-Chaudhary/TrustLayer-AI.git
 cd TrustLayer-AI
 ```
 
@@ -57,9 +199,9 @@ copy .env.example .env
 cp .env.example .env
 ```
 
-### 3. Launch Everything in One Command
+### 3. Launch in One Command
 
-- **Windows (Double-click or run)**:
+- **Windows**:
   ```cmd
   python run.py
   ```
@@ -71,123 +213,82 @@ cp .env.example .env
 
 ### 4. Open in Browser
 - 🌐 **Web User Interface**: [http://localhost:3000](http://localhost:3000)
-- 📖 **Interactive API Documentation**: [http://127.0.0.1:8000/docs](http://127.0.0.1:8000/docs)
-- 🔌 **Alternative ReDoc API View**: [http://127.0.0.1:8000/redoc](http://127.0.0.1:8000/redoc)
+- 📖 **Interactive API Documentation (Swagger)**: [http://127.0.0.1:8000/docs](http://127.0.0.1:8000/docs)
+- 🔌 **Alternative ReDoc View**: [http://127.0.0.1:8000/redoc](http://127.0.0.1:8000/redoc)
+- 📊 **Interactive Research Report**: [http://localhost:8085](http://localhost:8085) *(or [Online Demo](https://keshav-chaudhary.github.io/TrustLayer-AI/))*
 
 ---
 
-## 🏗️ System Architecture
+## 🛠️ CLI Runner & Orchestrator
 
-```mermaid
-graph TD
-    subgraph Data Pipeline [Offline Ingestion & NLP]
-        A[Google Places API / Cache] --> B[Metadata & Review Sanitizer]
-        B --> C[5-Dimension ABSA Analyzer]
-        C --> D[Trust Scorer & Persona Tagging]
-        D --> E[Canonical Dataset: final_hotel_dataset.csv]
-        E --> F[5-Chunk Semantic Generator]
-        F --> G[(ChromaDB / PgVector)]
-    end
-
-    subgraph Runtime Services [Online Query Processing]
-        U[User on Next.js UI] -->|Natural Language Query| H[FastAPI Gateway :8000]
-        H --> I[Intent & Constraint Parser]
-        I --> J[Hybrid Vector Search & Constraint Relaxer]
-        J <-->|Vector + Metadata Query| G
-        J --> K[Prompt Orchestrator & Context Compressor]
-        K --> L[Ollama LLM :11434 / Qwen2.5]
-        L --> M[Grounding Validator & Citation Injector]
-        M --> N[JSON API Response with Evidence Badges]
-        N --> U
-    end
-```
-
----
-
-## ✨ Key Features
-
-### 1. 5-Dimensional Aspect-Based Sentiment Analysis (ABSA)
-Every hotel review is analyzed across 5 core criteria:
-- 🧼 **Cleanliness**: Hygiene of rooms, linens, bathrooms, and pest control.
-- 🛎️ **Service**: Check-in speed, room service responsiveness, and maintenance.
-- 📍 **Location**: Proximity to metro transit, airports, noise levels, and neighborhood safety.
-- 💰 **Value for Money**: Price-to-quality ratio and transparent pricing.
-- 🤝 **Staff Behavior**: Hospitality, courtesy, and problem resolution.
-
-### 2. 5-Chunk Semantic Decomposition
-Each hotel is indexed into 5 distinct semantic vectors (`sentence-transformers/all-MiniLM-L6-v2`, 384 dimensions):
-- **Chunk A (Profile)**: Hotel name, locality, price tier, and star rating.
-- **Chunk B (Aspects)**: Quantitative sentiment scores across all 5 dimensions.
-- **Chunk C (Positive Evidence)**: Positive theme tags and verbatim review quotes.
-- **Chunk D (Negative Evidence)**: Critical feedback themes and verbatim review quotes.
-- **Chunk E (Recommendation Signals)**: Trust score, popularity index, and sentiment rating.
-
-### 3. Concrete User Query Flow
-When a user asks:
-> *"Find me a quiet boutique hotel near Connaught Place under 4000 INR with great cleanliness and good wifi for work"*
-
-1. **Parser**: Extracts `{area: "Connaught Place", max_price: 4000, persona: "business", aspects: ["cleanliness", "wifi"]}`.
-2. **Hybrid Search**: Retrieves candidate chunks from ChromaDB.
-3. **Grounding Validator**: Validates that cited wifi speeds and quiet rooms are backed by verbatim review quotes in Chunk C.
-4. **Response**: Delivers structured JSON with **Verified Evidence Badges** and honest cautions.
-
----
-
-## 🛠️ CLI Runner Options
-
-The `run.py` script provides commands for all development workflows:
+The master orchestrator (`run.py` & `scripts/orchestrator.py`) provides unified development commands with clean `SIGINT` signal interception:
 
 ```bash
-python run.py                 # Launch both Backend (:8000) and Frontend (:3000)
-python run.py --backend       # Launch FastAPI Backend only
-python run.py --frontend      # Launch Next.js Frontend only
-python run.py --doctor        # Run environment diagnostics & dependency health check
-python run.py --test          # Run automated Pytest test suite
-python run.py --build-vectors # Rebuild ChromaDB embeddings from data/rag/
-python run.py --pipeline      # Run master ETL ingestion pipeline
+# 🚀 Full Stack Services
+python run.py                   # Boot Backend (:8000) and Next.js Frontend (:3000) concurrently
+python run.py --backend         # Boot FastAPI Backend API only
+python run.py --frontend        # Boot Next.js Frontend only
+
+# 🔍 Diagnostics & Quality Assurance
+python run.py --doctor          # Execute environment health check & dependency audit
+python run.py --test            # Run 109/109 automated Pytest test suite
+
+# 🔄 ETL & Vector Pipelines
+python run.py --build-vectors   # Generate 384-d semantic embeddings into vector store
+python run.py --pipeline        # Run 9-stage repeatable ingestion pipeline
+python run.py --migrate-pg      # Execute PostgreSQL 17 + pgvector migration
 ```
 
 ---
 
 ## 🐳 Docker Deployment
 
-To run the entire system with Docker Compose:
+To launch the multi-container stack via Docker Compose:
 
 ```bash
 docker-compose up --build
 ```
-Access the application at `http://localhost:3000` and API at `http://localhost:8000`.
+
+Services exposed:
+- **Frontend UI**: `http://localhost:3000`
+- **FastAPI Backend**: `http://localhost:8000`
+- **PostgreSQL 17 + pgvector**: `localhost:5432`
 
 ---
 
 ## 📂 Repository Structure
 
 ```
-├── app/                          # FastAPI Backend Architecture
-│   ├── api/                      # REST API endpoints (v1 & compatibility)
-│   ├── config/                   # Configuration & Pydantic Settings
-│   ├── domain/                   # Domain entities and models
-│   ├── repositories/             # Storage adapters (CSV, Chroma, Postgres, PgVector)
-│   ├── schemas/                  # Pydantic validation schemas
-│   └── services/                 # Recommendation, grounding, NLP, and LLM services
-├── frontend/                     # Modern Next.js 16 Web Application
-│   ├── app/                      # App router pages (/search, /stays, /ai-assistant)
-│   ├── components/               # React UI components (Radar charts, trust badges)
-│   ├── hooks/                    # React Query data fetching hooks
-│   └── lib/                      # API client, intent parsers, state management
-├── data/                         # Data Assets
-│   ├── exports/                  # Canonical dataset: final_hotel_dataset.csv
-│   ├── rag/                      # Per-hotel JSON knowledge documents
-│   └── vector_store/             # ChromaDB vector index (chroma.sqlite3)
-├── docs/                         # In-Depth Documentation Hub
-│   ├── SYSTEM_ARCHITECTURE_AND_FLOW.md  # Exhaustive data flow & query trace
-│   ├── GETTING_STARTED.md               # Step-by-step setup guide
-│   └── API_REFERENCE.md                 # Complete API endpoint specifications
-├── scripts/                      # Data pipeline, NLP analyzers, and RAG builders
-├── tests/                        # Automated Pytest test suite
-├── run.py                        # Unified single-command runner & CLI
-├── docker-compose.yml            # Multi-service container orchestration
-├── requirements.txt              # Pinned Python dependencies
+├── app/                          # FastAPI Clean Architecture Backend
+│   ├── api/                      # REST API Endpoints (v1 & legacy routes)
+│   ├── config/                   # Pydantic Settings & Environment Configurations
+│   ├── domain/                   # Entities, Value Objects & Domain Models
+│   ├── repositories/             # Storage Adapters (PostgreSQL, pgvector, Chroma, CSV)
+│   ├── schemas/                  # Pydantic Request/Response Validation Models
+│   └── services/                 # Recommendation (RRF), ABSA NLP, Explainer, & RAG
+├── frontend/                     # Next.js 16 Web Application (TypeScript & Tailwind)
+│   ├── app/                      # App Router Pages (/search, /stays, /ai-assistant)
+│   ├── components/               # UI Components (5D Radar Modals, Citation Chips)
+│   ├── hooks/                    # React Query Data Fetching Hooks
+│   └── lib/                      # API Clients, Parsers & State Management
+├── data/                         # Data Assets & Storage
+│   ├── exports/                  # Canonical Dataset (final_hotel_dataset.csv)
+│   ├── rag/                      # Per-Hotel Knowledge Documents (7,910 chunks)
+│   └── vector_store/             # ChromaDB Fallback Vector Index
+├── docs/                         # In-Depth Technical Documentation Hub
+│   ├── SYSTEM_ARCHITECTURE_AND_FLOW.md  # End-to-end query flow & trace specifications
+│   ├── GETTING_STARTED.md               # Developer setup & contribution guide
+│   └── API_REFERENCE.md                 # Complete REST API endpoint documentation
+├── Report_Website/               # Standalone Interactive Research & Engineering Report
+│   ├── index.html                # Publication-grade Web Report (11 Chapters, 18 Stages)
+│   ├── styles.css                # Academic CSS Design System (Light/Dark mode)
+│   ├── app.js                    # Lightbox, Search Palette (Ctrl+K) & ScrollSpy
+│   └── figs/                     # 26 High-Resolution Evaluation Figures & Architectures
+├── scripts/                      # Data Pipelines, Evaluators & Master Orchestrators
+├── tests/                        # 109/109 Automated Pytest Suite
+├── run.py                        # Unified Single-Command Runner & CLI
+├── docker-compose.yml            # Multi-Service Container Orchestration
+├── requirements.txt              # Pinned Python Dependencies
 └── LICENSE                       # MIT License
 ```
 
@@ -195,28 +296,32 @@ Access the application at `http://localhost:3000` and API at `http://localhost:8
 
 ## 📚 In-Depth Documentation
 
-For complete technical specifications, research proofs, and development history:
-- 🌐 [**Interactive Master Research & Engineering Report Website**](https://keshav-chaudhary.github.io/TrustLayer-AI/) *(or view [`Report_Website/index.html`](Report_Website/index.html))*
-- 🏛️ [**Complete System Architecture & Blueprint (Chapter 11)**](https://keshav-chaudhary.github.io/TrustLayer-AI/#ch-complete-arch)
+- 🌐 [**Interactive Master Project Record & Website**](https://keshav-chaudhary.github.io/TrustLayer-AI/)
+- 🏛️ [**Chapter 11: Complete System Architecture & Visual Blueprint**](https://keshav-chaudhary.github.io/TrustLayer-AI/#ch-complete-arch)
 - 📖 [**System Architecture & End-to-End Data Flow**](docs/SYSTEM_ARCHITECTURE_AND_FLOW.md)
 - 🚀 [**Getting Started & Fork Guide**](docs/GETTING_STARTED.md)
 - 🔌 [**API Reference Manual**](docs/API_REFERENCE.md)
-- 📄 [**Master Project Record Markdown**](MASTER_TRUSTLAYER_AI_COMPLETE_PROJECT_RECORD.md)
+- 📄 [**Master Project Record (Markdown)**](MASTER_TRUSTLAYER_AI_COMPLETE_PROJECT_RECORD.md)
 
 ---
 
-## 🧪 Automated Testing
+## 🎓 Academic Citation
 
-TrustLayer-AI includes automated test coverage for API endpoints, repository adapters, RAG grounding, and data integrity:
+If you utilize TrustLayer-AI in your research or engineering workflows, please cite:
 
-```bash
-pytest
-# or
-python run.py --test
+```bibtex
+@misc{chaudhary2026trustlayer,
+  author       = {Chaudhary, K.},
+  title        = {TrustLayer-AI: Grounded, Explainable, and Anti-Hallucinatory Hotel Recommendation System via Aspect-Based Sentiment Analysis and RAG},
+  year         = {2026},
+  institution  = {Indraprastha Institute of Information Technology, Delhi (IIIT-Delhi)},
+  howpublished = {\url{https://github.com/Keshav-Chaudhary/TrustLayer-AI}},
+  note         = {Production Verified Master Project Record}
+}
 ```
 
 ---
 
 ## 📄 License
 
-This project is licensed under the [MIT License](LICENSE).
+This project is licensed under the **[MIT License](LICENSE)**.

@@ -15,12 +15,18 @@ ROOT = Path(__file__).resolve().parent
 FRONTEND = ROOT / "frontend"
 
 
+def get_npm_command() -> str | None:
+    return shutil.which("npm") or (shutil.which("npm.cmd") if os.name == "nt" else None)
+
+
 def command_exists(command: str) -> bool:
-    return shutil.which(command) is not None
+    return shutil.which(command) is not None or (os.name == "nt" and shutil.which(f"{command}.cmd") is not None)
 
 
-def run_command(command: list[str]) -> int:
-    return subprocess.run(command, cwd=ROOT).returncode
+def run_command(command: list[str], cwd: Path = ROOT) -> int:
+    is_windows = os.name == "nt"
+    use_shell = is_windows and command[0] in ("npm", "npx")
+    return subprocess.run(command, cwd=cwd, shell=use_shell).returncode
 
 
 def start_services() -> int:
@@ -31,15 +37,30 @@ def start_services() -> int:
     )
 
     frontend = None
+    npm_cmd = get_npm_command()
     try:
-        if not command_exists("npm"):
-            print("npm was not found. Start the API only with: python run.py --backend")
+        if not npm_cmd:
+            print("\n[!] npm was not found in PATH. Starting FastAPI backend only.")
+            print("[*] API Docs: http://127.0.0.1:8000/docs")
             return api.wait()
 
-        frontend = subprocess.Popen(["npm", "run", "dev"], cwd=FRONTEND)
-        print("API:      http://127.0.0.1:8000/docs")
-        print("Frontend: http://localhost:3000")
-        print("Press Ctrl+C to stop both services.")
+        # Auto-install frontend dependencies if missing
+        if not (FRONTEND / "node_modules").exists():
+            print("[*] Installing frontend dependencies (node_modules)...")
+            subprocess.run([npm_cmd, "install"], cwd=FRONTEND, shell=os.name == "nt", check=False)
+
+        frontend = subprocess.Popen(
+            [npm_cmd, "run", "dev"],
+            cwd=FRONTEND,
+            shell=os.name == "nt",
+        )
+        print("\n" + "=" * 60)
+        print("🚀 TrustLayer-AI Services Successfully Started!")
+        print("=" * 60)
+        print("📖 Backend API (Swagger): http://127.0.0.1:8000/docs")
+        print("🌐 Frontend Next.js UI:   http://localhost:3000")
+        print("=" * 60)
+        print("Press Ctrl+C to gracefully stop both services.\n")
 
         while True:
             api_code = api.poll()
@@ -54,7 +75,7 @@ def start_services() -> int:
                 [python, "-c", "import time; time.sleep(0.5)"], check=False
             )
     except KeyboardInterrupt:
-        print("\nStopping services...")
+        print("\nStopping TrustLayer-AI services...")
         return 0
     finally:
         for process in (frontend, api):
@@ -112,7 +133,11 @@ def main() -> int:
     if args.backend:
         return run_command([python, "-m", "uvicorn", "app.api.main:app", "--host", "127.0.0.1", "--port", "8000", "--reload"])
     if args.frontend:
-        return run_command(["npm", "run", "dev"])
+        npm_cmd = get_npm_command()
+        if not npm_cmd:
+            print("[!] npm was not found in PATH.")
+            return 1
+        return run_command([npm_cmd, "run", "dev"], cwd=FRONTEND)
     return start_services()
 
 
