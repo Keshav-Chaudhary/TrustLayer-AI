@@ -134,9 +134,6 @@ Thumbs.db
 *.swo
 *~
 
-# --- Standalone Report Website (Deployed Separately) ---
-Report_Website/
-
 # --- Redundant Root Artifacts & Conversion Scripts ---
 TRUSTLAYER_AI_DEVELOPMENT_JOURNEY.md
 TRUSTLAYER_AI_DEVELOPMENT_JOURNEY.pdf
