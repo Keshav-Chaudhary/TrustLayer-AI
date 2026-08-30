@@ -15,7 +15,7 @@
   <b>A production-grade, preference-aware hotel recommender system eliminating AI hallucinations through 5-Dimensional Aspect-Based Sentiment Analysis (ABSA), Reciprocal Rank Fusion ($k=60$), sub-5ms analytical explanations, and strict citation grounding.</b>
 </p>
 
-[🌐 Live Report Website](https://keshav-chaudhary.github.io/TrustLayer-AI/) • [🖥️ System Previews](#-system-interface-previews) • [Quickstart](#-1-click-quickstart) • [Architecture Blueprint](#-master-system-architecture) • [Empirical Benchmarks](#-empirical-benchmarks--breakthroughs) • [CLI Runner](#-cli-runner--orchestrator) • [Documentation Hub](#-in-depth-documentation) • [Citation](#-academic-citation)
+[🌐 Live Report Website](https://keshav-chaudhary.github.io/TrustLayer-AI/) • [🖥️ System Previews](#-system-interface-previews) • [Quickstart](#-1-click-quickstart) • [Architecture Blueprint](#-master-system-architecture) • [Empirical Benchmarks](#-empirical-benchmarks--breakthroughs) • [CLI Runner](#-cli-runner--orchestrator) • [Documentation Hub](#-in-depth-documentation) • [License](#-license)
 
 </div>
 
@@ -302,23 +302,6 @@ Services exposed:
 - 🚀 [**Getting Started & Fork Guide**](docs/GETTING_STARTED.md)
 - 🔌 [**API Reference Manual**](docs/API_REFERENCE.md)
 - 📄 [**Master Project Record (Markdown)**](MASTER_TRUSTLAYER_AI_COMPLETE_PROJECT_RECORD.md)
-
----
-
-## 🎓 Academic Citation
-
-If you utilize TrustLayer-AI in your research or engineering workflows, please cite:
-
-```bibtex
-@misc{chaudhary2026trustlayer,
-  author       = {Chaudhary, K.},
-  title        = {TrustLayer-AI: Grounded, Explainable, and Anti-Hallucinatory Hotel Recommendation System via Aspect-Based Sentiment Analysis and RAG},
-  year         = {2026},
-  institution  = {Indraprastha Institute of Information Technology, Delhi (IIIT-Delhi)},
-  howpublished = {\url{https://github.com/Keshav-Chaudhary/TrustLayer-AI}},
-  note         = {Production Verified Master Project Record}
-}
-```
 
 ---
 
