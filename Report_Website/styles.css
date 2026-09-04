@@ -244,22 +244,37 @@ body {
 }
 
 /* KaTeX Formula Display */
-.katex-display {
-  margin: 1.25rem 0 !important;
+.katex-formula {
+  margin: 1.25rem 0;
   padding: 1.15rem 1.5rem;
   background: var(--bg-surface-hover);
   border: 1px solid var(--border-subtle);
   border-radius: 0.85rem;
   overflow-x: auto;
   overflow-y: hidden;
-  font-size: 1.12em;
-  color: var(--text-primary);
+  text-align: center;
   box-shadow: inset 0 1px 2px rgba(0, 0, 0, 0.02);
   transition: border-color 0.2s ease;
 }
 
-.katex-display:hover {
+.katex-formula:hover {
   border-color: var(--accent-primary-border);
+}
+
+.katex-display {
+  margin: 0 !important;
+  padding: 0 !important;
+  background: transparent !important;
+  border: none !important;
+  box-shadow: none !important;
+  overflow-x: auto;
+  overflow-y: hidden;
+  font-size: 1.12em;
+  color: var(--text-primary);
+}
+
+.katex-display:hover {
+  border-color: transparent;
 }
 
 .katex {
@@ -892,6 +907,82 @@ table.academic-table tr:hover {
   pointer-events: auto;
 }
 
+/* Recommender Simulator Modal & Card Styles */
+#recommender-simulator-modal {
+  z-index: 9998;
+}
+
+.custom-scrollbar::-webkit-scrollbar {
+  width: 6px;
+  height: 6px;
+}
+
+.custom-scrollbar::-webkit-scrollbar-track {
+  background: transparent;
+}
+
+.custom-scrollbar::-webkit-scrollbar-thumb {
+  background: rgba(148, 163, 184, 0.4);
+  border-radius: 9999px;
+}
+
+.dark .custom-scrollbar::-webkit-scrollbar-thumb {
+  background: rgba(100, 116, 139, 0.4);
+}
+
+.custom-scrollbar::-webkit-scrollbar-thumb:hover {
+  background: rgba(148, 163, 184, 0.7);
+}
+
+.dark .custom-scrollbar::-webkit-scrollbar-thumb:hover {
+  background: rgba(100, 116, 139, 0.7);
+}
+
+.sim-query-item {
+  transition: all 0.18s cubic-bezier(0.16, 1, 0.3, 1);
+}
+
+.sim-query-item:hover {
+  transform: translateY(-1px);
+}
+
+.sim-hotel-card {
+  transition: all 0.2s cubic-bezier(0.16, 1, 0.3, 1);
+}
+
+.sim-hotel-card:hover {
+  transform: translateY(-2px);
+}
+
+.aspect-bar-fill {
+  transition: width 0.6s cubic-bezier(0.16, 1, 0.3, 1);
+}
+
+/* Simulator Toast */
+#sim-toast {
+  position: fixed;
+  bottom: 2rem;
+  left: 50%;
+  transform: translateX(-50%) translateY(20px);
+  background: rgba(15, 23, 42, 0.92);
+  backdrop-filter: blur(12px);
+  color: #ffffff;
+  padding: 0.65rem 1.25rem;
+  border-radius: 9999px;
+  font-size: 0.8rem;
+  font-weight: 600;
+  box-shadow: 0 10px 25px -5px rgba(0, 0, 0, 0.3);
+  z-index: 10000;
+  opacity: 0;
+  pointer-events: none;
+  transition: all 0.25s cubic-bezier(0.16, 1, 0.3, 1);
+}
+
+#sim-toast.visible {
+  opacity: 1;
+  transform: translateX(-50%) translateY(0);
+}
+
 /* Print Stylesheet (Publication PDF optimization) */
 @media print {
   body {
@@ -908,7 +999,9 @@ table.academic-table tr:hover {
   .quick-action-bar,
   .copy-btn,
   .figure-badge-overlay,
-  #back-to-top {
+  #back-to-top,
+  #recommender-simulator-modal,
+  #sim-toast {
     display: none !important;
   }
 
@@ -943,3 +1036,4 @@ table.academic-table tr:hover {
     border-left: 2px solid #666666 !important;
   }
 }
+

@@ -1,11 +1,12 @@
 /**
  * TrustLayer-AI: Master Report Website Ultra-Premium Interactive Controller
+ * High-Performance, Zero-Jank Architecture (60/120fps optimized)
  * Author: K.C (IIIT-Delhi)
  */
 
 document.addEventListener('DOMContentLoaded', () => {
   initTheme();
-  initReadingProgress();
+  initUnifiedScroll();
   initReadingTime();
   initScrollSpy();
   initLightbox();
@@ -13,21 +14,19 @@ document.addEventListener('DOMContentLoaded', () => {
   initCopyButtons();
   initStageFilter();
   initSearch();
-  initBackToTop();
   initMobileDrawer();
-  initPinchZoomPrevention();
   renderMathFormulas();
 });
 
 /* --------------------------------------------------------------------------
-   1. Theme Management (Dark / Light Mode)
+   1. Theme Management (Dark / Light Mode - Default: Light Mode)
    -------------------------------------------------------------------------- */
 function initTheme() {
   const themeToggleBtn = document.getElementById('theme-toggle');
-  const prefersDark = window.matchMedia('(prefers-color-scheme: dark)').matches;
   const savedTheme = localStorage.getItem('trustlayer-theme');
+  const isDark = savedTheme === 'dark'; // Default to light mode unless explicitly saved as 'dark'
 
-  if (savedTheme === 'dark' || (!savedTheme && prefersDark)) {
+  if (isDark) {
     document.documentElement.classList.add('dark');
     updateThemeIcon(true);
   } else {
@@ -37,9 +36,9 @@ function initTheme() {
 
   if (themeToggleBtn) {
     themeToggleBtn.addEventListener('click', () => {
-      const isDark = document.documentElement.classList.toggle('dark');
-      localStorage.setItem('trustlayer-theme', isDark ? 'dark' : 'light');
-      updateThemeIcon(isDark);
+      const isDarkNow = document.documentElement.classList.toggle('dark');
+      localStorage.setItem('trustlayer-theme', isDarkNow ? 'dark' : 'light');
+      updateThemeIcon(isDarkNow);
     });
   }
 }
@@ -59,60 +58,110 @@ function updateThemeIcon(isDark) {
 }
 
 /* --------------------------------------------------------------------------
-   2. Reading Progress Bar & Reading Time Estimation
+   2. Unified High-Performance Scroll Handler (Progress Bar & Back-to-Top)
    -------------------------------------------------------------------------- */
-function initReadingProgress() {
+function initUnifiedScroll() {
   const progressBar = document.getElementById('reading-progress');
-  if (!progressBar) return;
+  const backToTopBtn = document.getElementById('back-to-top');
+  
+  let ticking = false;
 
-  window.addEventListener('scroll', () => {
-    const totalHeight = document.documentElement.scrollHeight - window.innerHeight;
-    if (totalHeight > 0) {
-      const progress = (window.scrollY / totalHeight) * 100;
-      progressBar.style.width = `${Math.min(100, Math.max(0, progress))}%`;
+  function onScroll() {
+    if (!ticking) {
+      window.requestAnimationFrame(() => {
+        const scrollY = window.scrollY || window.pageYOffset;
+        
+        // 1. Reading Progress
+        if (progressBar) {
+          const totalHeight = document.documentElement.scrollHeight - window.innerHeight;
+          if (totalHeight > 0) {
+            const progress = (scrollY / totalHeight) * 100;
+            progressBar.style.width = `${Math.min(100, Math.max(0, progress))}%`;
+          }
+        }
+
+        // 2. Back to Top Visibility
+        if (backToTopBtn) {
+          if (scrollY > 450) {
+            backToTopBtn.classList.remove('opacity-0', 'pointer-events-none');
+            backToTopBtn.classList.add('opacity-100', 'pointer-events-auto');
+          } else {
+            backToTopBtn.classList.add('opacity-0', 'pointer-events-none');
+            backToTopBtn.classList.remove('opacity-100', 'pointer-events-auto');
+          }
+        }
+
+        ticking = false;
+      });
+      ticking = true;
     }
-  }, { passive: true });
+  }
+
+  window.addEventListener('scroll', onScroll, { passive: true });
+
+  if (backToTopBtn) {
+    backToTopBtn.addEventListener('click', () => {
+      window.scrollTo({ top: 0, behavior: 'smooth' });
+    });
+  }
 }
 
+/* --------------------------------------------------------------------------
+   3. Non-Blocking Reading Time Calculation (Zero Reflow via textContent)
+   -------------------------------------------------------------------------- */
 function initReadingTime() {
   const mainContent = document.getElementById('main-content');
   const timeBadge = document.getElementById('reading-time-badge');
   if (!mainContent || !timeBadge) return;
 
-  const text = mainContent.innerText || '';
-  const wordCount = text.split(/\s+/).length;
-  const readTimeMinutes = Math.ceil(wordCount / 220); // standard reading speed
+  // Use textContent instead of innerText to prevent expensive synchronous layout reflow
+  const text = mainContent.textContent || '';
+  const wordCount = text.trim().split(/\s+/).length;
+  const readTimeMinutes = Math.max(1, Math.ceil(wordCount / 220)); // ~220 WPM
   timeBadge.innerText = `~${readTimeMinutes} min read (${wordCount.toLocaleString()} words)`;
 }
 
 /* --------------------------------------------------------------------------
-   3. ScrollSpy & Active Navigation
+   4. Efficient ScrollSpy & Active Navigation
    -------------------------------------------------------------------------- */
 function initScrollSpy() {
   const sections = document.querySelectorAll('section[id], div[id^="stage-"], div[id^="sec-"]');
-  const navLinks = document.querySelectorAll('#sidebar-nav a[href^="#"], #right-telemetry a[href^="#"]');
+  const navLinks = Array.from(document.querySelectorAll('#sidebar-nav a[href^="#"]'));
 
   if (sections.length === 0 || navLinks.length === 0) return;
 
+  const linkMap = new Map();
+  navLinks.forEach((link) => {
+    const href = link.getAttribute('href');
+    if (href) linkMap.set(href.substring(1), link);
+  });
+
   const observerOptions = {
     root: null,
-    rootMargin: '-15% 0px -70% 0px',
+    rootMargin: '-10% 0px -65% 0px',
     threshold: 0
   };
+
+  let currentActiveId = null;
 
   const observer = new IntersectionObserver((entries) => {
     entries.forEach((entry) => {
       if (entry.isIntersecting) {
         const id = entry.target.getAttribute('id');
-        navLinks.forEach((link) => {
-          if (link.getAttribute('href') === `#${id}`) {
-            link.classList.add('text-blue-600', 'dark:text-blue-400', 'font-semibold', 'bg-blue-50/90', 'dark:bg-blue-900/40', 'rounded-lg');
-            link.classList.remove('text-slate-600', 'dark:text-slate-400');
-          } else {
+        if (id && id !== currentActiveId) {
+          currentActiveId = id;
+          
+          navLinks.forEach((link) => {
             link.classList.remove('text-blue-600', 'dark:text-blue-400', 'font-semibold', 'bg-blue-50/90', 'dark:bg-blue-900/40', 'rounded-lg');
             link.classList.add('text-slate-600', 'dark:text-slate-400');
+          });
+
+          const activeLink = linkMap.get(id);
+          if (activeLink) {
+            activeLink.classList.add('text-blue-600', 'dark:text-blue-400', 'font-semibold', 'bg-blue-50/90', 'dark:bg-blue-900/40', 'rounded-lg');
+            activeLink.classList.remove('text-slate-600', 'dark:text-slate-400');
           }
-        });
+        }
       }
     });
   }, observerOptions);
@@ -121,7 +170,7 @@ function initScrollSpy() {
 }
 
 /* --------------------------------------------------------------------------
-   4. Interactive Image Lightbox with Zoom & Keyboard Controls
+   5. Interactive Image Lightbox with Zoom & Keyboard Controls
    -------------------------------------------------------------------------- */
 function initLightbox() {
   const modal = document.getElementById('lightbox-modal');
@@ -166,7 +215,7 @@ function initLightbox() {
 }
 
 /* --------------------------------------------------------------------------
-   5. Command Palette (Ctrl+K / ⌘K)
+   6. Command Palette (Ctrl+K / ⌘K) with Keyboard Navigation
    -------------------------------------------------------------------------- */
 function initCommandPalette() {
   const palette = document.getElementById('command-palette');
@@ -203,26 +252,33 @@ function initCommandPalette() {
     { title: 'Formula: Reciprocal Rank Fusion (RRF)', href: '#sec-rrf', category: 'Formula' },
     { title: 'Formula: Composite Gaussian Trust Score', href: '#sec-trust-score', category: 'Formula' },
     { title: 'Schema: PostgreSQL 17.6 Relational & pgvector DDL', href: '#sec-pg-schema', category: 'Schema' },
+    { title: 'Section 7.8: Live Production Query & Response Explorer (91 Benchmarks)', href: '#sec-query-explorer', category: 'Benchmark' },
     { title: 'Table: Master 109/109 Automated Tests Breakdown', href: '#sec-test-suite', category: 'Benchmark' },
     { title: 'Table: 10 Empirical Experiments & Interventions', href: '#sec-ten-experiments', category: 'Benchmark' }
   ];
 
+  let selectedIndex = -1;
+
   const renderResults = (query = '') => {
     resultsContainer.innerHTML = '';
+    const cleanQuery = query.toLowerCase().trim();
     const filtered = quickLinks.filter(item => 
-      item.title.toLowerCase().includes(query.toLowerCase()) || 
-      item.category.toLowerCase().includes(query.toLowerCase())
+      item.title.toLowerCase().includes(cleanQuery) || 
+      item.category.toLowerCase().includes(cleanQuery)
     );
+
+    selectedIndex = -1;
 
     if (filtered.length === 0) {
       resultsContainer.innerHTML = '<div class="p-4 text-center text-xs text-slate-400">No matching sections found.</div>';
       return;
     }
 
-    filtered.forEach(item => {
+    filtered.forEach((item, idx) => {
       const a = document.createElement('a');
       a.href = item.href;
-      a.className = 'flex items-center justify-between p-3 rounded-lg hover:bg-blue-50 dark:hover:bg-blue-900/30 text-slate-700 dark:text-slate-200 transition-colors text-xs';
+      a.className = 'palette-item flex items-center justify-between p-3 rounded-lg hover:bg-blue-50 dark:hover:bg-blue-900/30 text-slate-700 dark:text-slate-200 transition-colors text-xs';
+      a.setAttribute('data-index', idx);
       a.innerHTML = `
         <div class="flex items-center gap-2">
           <span class="w-1.5 h-1.5 rounded-full bg-blue-600"></span>
@@ -260,7 +316,7 @@ function initCommandPalette() {
   });
 
   document.addEventListener('keydown', (e) => {
-    if ((e.ctrlKey || e.metaKey) && e.key === 'k') {
+    if ((e.ctrlKey || e.metaKey) && e.key.toLowerCase() === 'k') {
       e.preventDefault();
       if (palette.classList.contains('active')) {
         closePalette();
@@ -275,7 +331,7 @@ function initCommandPalette() {
 }
 
 /* --------------------------------------------------------------------------
-   6. Copy Code, Terminal & LaTeX Blocks
+   7. Copy Code, Terminal & LaTeX Blocks (Event Delegation & Feedback)
    -------------------------------------------------------------------------- */
 function initCopyButtons() {
   const codeBlocks = document.querySelectorAll('pre, .terminal-block');
@@ -286,6 +342,7 @@ function initCopyButtons() {
     block.style.position = 'relative';
     const btn = document.createElement('button');
     btn.className = 'copy-btn';
+    btn.setAttribute('aria-label', 'Copy code to clipboard');
     btn.innerHTML = `
       <svg class="w-3.5 h-3.5" fill="none" stroke="currentColor" viewBox="0 0 24 24">
         <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M8 16H6a2 2 0 01-2-2V6a2 2 0 012-2h8a2 2 0 012 2v2m-6 12h8a2 2 0 002-2v-8a2 2 0 00-2-2h-8a2 2 0 00-2 2v8a2 2 0 002 2z"></path>
@@ -295,7 +352,7 @@ function initCopyButtons() {
 
     btn.addEventListener('click', (e) => {
       e.stopPropagation();
-      const textToCopy = block.innerText.replace(/Copy/g, '').trim();
+      const textToCopy = block.textContent.replace(/Copy/g, '').replace(/Copied!/g, '').trim();
       navigator.clipboard.writeText(textToCopy).then(() => {
         btn.innerHTML = `
           <svg class="w-3.5 h-3.5 text-emerald-400" fill="none" stroke="currentColor" viewBox="0 0 24 24">
@@ -319,7 +376,7 @@ function initCopyButtons() {
 }
 
 /* --------------------------------------------------------------------------
-   7. Stage Timeline Filtering
+   8. Stage Timeline Filtering
    -------------------------------------------------------------------------- */
 function initStageFilter() {
   const filterBtns = document.querySelectorAll('.stage-filter-btn');
@@ -352,70 +409,74 @@ function initStageFilter() {
 }
 
 /* --------------------------------------------------------------------------
-   8. In-Page Fast Filter / Search
+   9. In-Page High-Speed Filter / Search (Debounced + Zero Reflow)
    -------------------------------------------------------------------------- */
 function initSearch() {
   const searchInput = document.getElementById('report-search');
   if (!searchInput) return;
 
+  let debounceTimer;
+
   searchInput.addEventListener('input', (e) => {
-    const query = e.target.value.toLowerCase().trim();
-    const searchableElements = document.querySelectorAll('#main-content section, #main-content .stage-card');
+    clearTimeout(debounceTimer);
+    debounceTimer = setTimeout(() => {
+      const query = e.target.value.toLowerCase().trim();
+      const searchableElements = document.querySelectorAll('#main-content section, #main-content .stage-card');
 
-    if (query.length === 0) {
-      searchableElements.forEach((el) => (el.style.opacity = '1'));
-      return;
-    }
-
-    searchableElements.forEach((el) => {
-      const text = el.innerText.toLowerCase();
-      if (text.includes(query)) {
-        el.style.opacity = '1';
-      } else {
-        el.style.opacity = '0.35';
+      if (query.length === 0) {
+        searchableElements.forEach((el) => (el.style.opacity = '1'));
+        return;
       }
-    });
+
+      searchableElements.forEach((el) => {
+        const text = (el.textContent || '').toLowerCase();
+        if (text.includes(query)) {
+          el.style.opacity = '1';
+        } else {
+          el.style.opacity = '0.35';
+        }
+      });
+    }, 120);
   });
 }
 
 /* --------------------------------------------------------------------------
-   9. Back to Top Button
-   -------------------------------------------------------------------------- */
-function initBackToTop() {
-  const backToTopBtn = document.getElementById('back-to-top');
-  if (!backToTopBtn) return;
-
-  window.addEventListener('scroll', () => {
-    if (window.scrollY > 450) {
-      backToTopBtn.classList.remove('opacity-0', 'pointer-events-none');
-      backToTopBtn.classList.add('opacity-100', 'pointer-events-auto');
-    } else {
-      backToTopBtn.classList.add('opacity-0', 'pointer-events-none');
-      backToTopBtn.classList.remove('opacity-100', 'pointer-events-auto');
-    }
-  }, { passive: true });
-
-  backToTopBtn.addEventListener('click', () => {
-    window.scrollTo({ top: 0, behavior: 'smooth' });
-  });
-}
-
-/* --------------------------------------------------------------------------
-   10. KaTeX Automatic Formula Rendering
+   10. KaTeX Mathematical Typesetting
    -------------------------------------------------------------------------- */
 function renderMathFormulas() {
-  if (typeof renderMathInElement === 'function') {
-    renderMathInElement(document.body, {
-      delimiters: [
-        { left: '$$', right: '$$', display: true },
-        { left: '\\[', right: '\\]', display: true },
-        { left: '$', right: '$', display: false },
-        { left: '\\(', right: '\\)', display: false }
-      ],
-      throwOnError: false
-    });
+  const tryRender = () => {
+    if (typeof renderMathInElement === 'function') {
+      try {
+        renderMathInElement(document.body, {
+          delimiters: [
+            { left: '$$', right: '$$', display: true },
+            { left: '\\[', right: '\\]', display: true },
+            { left: '$', right: '$', display: false },
+            { left: '\\(', right: '\\)', display: false }
+          ],
+          throwOnError: false,
+          ignoredTags: ['script', 'noscript', 'style', 'textarea', 'pre', 'code', 'option', 'svg']
+        });
+        return true;
+      } catch (err) {
+        console.warn('KaTeX render warning:', err);
+      }
+    }
+    return false;
+  };
+
+  if (!tryRender()) {
+    let attempts = 0;
+    const interval = setInterval(() => {
+      attempts++;
+      if (tryRender() || attempts > 30) {
+        clearInterval(interval);
+      }
+    }, 100);
   }
 }
+window.renderMathFormulas = renderMathFormulas;
+window.addEventListener('load', renderMathFormulas);
 
 /* --------------------------------------------------------------------------
    11. Mobile Table of Contents Drawer
@@ -461,22 +522,3 @@ function initMobileDrawer() {
     }
   });
 }
-
-/* --------------------------------------------------------------------------
-   12. Pinch-Zoom & Mobile Multi-Touch Lock
-   -------------------------------------------------------------------------- */
-function initPinchZoomPrevention() {
-  // Prevent gesture zoom on iOS Safari
-  document.addEventListener('gesturestart', (e) => e.preventDefault());
-  document.addEventListener('gesturechange', (e) => e.preventDefault());
-  document.addEventListener('gestureend', (e) => e.preventDefault());
-
-  // Prevent multi-touch pinch zooming
-  document.addEventListener('touchmove', (e) => {
-    if (e.touches.length > 1) {
-      e.preventDefault();
-    }
-  }, { passive: false });
-}
-
-
