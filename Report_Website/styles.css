@@ -197,13 +197,106 @@ body {
   box-shadow: 0 0 10px rgba(59, 130, 246, 0.5);
 }
 
+/* Instant Zero-Lag Theme Switching */
+.theme-switching,
+.theme-switching *,
+.theme-switching *::before,
+.theme-switching *::after {
+  -webkit-transition: none !important;
+  -moz-transition: none !important;
+  -o-transition: none !important;
+  -ms-transition: none !important;
+  transition: none !important;
+}
+
 /* Glassmorphism Header */
 .glass-header {
   background: var(--bg-glass);
   backdrop-filter: blur(16px);
   -webkit-backdrop-filter: blur(16px);
   border-bottom: 1px solid var(--border-subtle);
-  transition: all 0.2s ease;
+  transition: border-color 0.15s ease;
+}
+
+/* Universal Badge, Tag Button & Chapter Marker Single-Line Guarantee */
+.badge,
+.badge-tech,
+.badge-verified,
+.badge-go,
+.badge-nogo,
+.chapter-badge,
+.stage-badge,
+.tag-badge,
+.category-pill-btn,
+.figure-badge-overlay {
+  display: inline-flex !important;
+  align-items: center !important;
+  justify-content: center !important;
+  white-space: nowrap !important;
+  flex-shrink: 0 !important;
+  word-break: keep-all !important;
+  overflow-wrap: normal !important;
+  hyphens: none !important;
+  -webkit-hyphens: none !important;
+  text-wrap: nowrap !important;
+  line-break: strict !important;
+}
+
+.badge {
+  padding: 0.2rem 0.55rem;
+  border-radius: 0.5rem;
+  font-size: 0.72rem;
+  font-weight: 700;
+  line-height: 1.2;
+}
+
+.badge-tech {
+  background: var(--bg-tertiary);
+  color: var(--text-secondary);
+  border: 1px solid var(--border-subtle);
+}
+
+.badge-verified {
+  background: var(--accent-primary-light);
+  color: var(--accent-primary);
+  border: 1px solid var(--accent-primary-border);
+}
+
+.badge-go {
+  background: var(--success-bg);
+  color: var(--success-text);
+  border: 1px solid var(--success-border);
+}
+
+.badge-nogo {
+  background: var(--danger-bg);
+  color: var(--danger-text);
+  border: 1px solid var(--danger-border);
+}
+
+.chapter-badge {
+  display: inline-flex !important;
+  align-items: center !important;
+  justify-content: center !important;
+  white-space: nowrap !important;
+  flex-shrink: 0 !important;
+  word-break: keep-all !important;
+  text-wrap: nowrap !important;
+  padding: 0.25rem 0.65rem;
+  border-radius: 0.375rem;
+  font-family: var(--font-mono);
+  font-size: 0.75rem;
+  font-weight: 800;
+  letter-spacing: 0.05em;
+  background-color: #dbeafe;
+  color: #1e40af;
+  border: 1px solid #bfdbfe;
+}
+
+.dark .chapter-badge {
+  background-color: rgba(30, 58, 138, 0.45);
+  color: #93c5fd;
+  border-color: rgba(59, 130, 246, 0.4);
 }
 
 /* Premium Card System */
@@ -212,7 +305,7 @@ body {
   border: 1px solid var(--border-subtle);
   border-radius: 1rem;
   box-shadow: var(--shadow-sm);
-  transition: all 0.25s cubic-bezier(0.16, 1, 0.3, 1);
+  transition: transform 0.2s cubic-bezier(0.16, 1, 0.3, 1), box-shadow 0.2s ease, border-color 0.2s ease;
   position: relative;
 }
 
@@ -236,7 +329,7 @@ body {
   background: radial-gradient(circle, rgba(59, 130, 246, 0.05) 0%, transparent 60%);
   pointer-events: none;
   opacity: 0;
-  transition: opacity 0.3s ease;
+  transition: opacity 0.2s ease;
 }
 
 .card-glow:hover::after {

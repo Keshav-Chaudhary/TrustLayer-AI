@@ -2,7 +2,7 @@
 <html lang="en">
 <head>
   <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
   <title>TrustLayer-AI Recommender Benchmark Explorer</title>
   
   <!-- Google Fonts: Plus Jakarta Sans, Inter, JetBrains Mono -->
@@ -25,6 +25,9 @@
             mono: ['JetBrains Mono', 'Fira Code', 'Menlo', 'monospace'],
           },
           colors: {
+            brandNavy: '#0F2043',
+            brandBlue: '#1D4ED8',
+            brandTeal: '#0D9488',
             brand: {
               50: '#eff6ff', 100: '#dbeafe', 200: '#bfdbfe', 300: '#93c5fd', 400: '#60a5fa',
               500: '#3b82f6', 600: '#1d4ed8', 700: '#1e40af', 800: '#1e3a8a', 900: '#172554',
@@ -49,25 +52,29 @@
     html, body {
       margin: 0;
       padding: 0;
-      height: 100%;
+      height: 100vh;
+      height: 100dvh;
+      max-height: 100dvh;
       width: 100%;
       font-family: var(--font-sans);
       background-color: var(--bg-app);
       color: var(--text-primary);
       overflow: hidden;
+      -webkit-text-size-adjust: 100%;
     }
     
-    /* Category pills scrollbar styling */
+    /* Category pills horizontal scroll */
     #category-pills {
       display: flex;
       gap: 6px;
       overflow-x: auto;
-      scrollbar-width: none; /* Firefox */
-      -ms-overflow-style: none; /* IE/Edge */
+      scrollbar-width: none;
+      -ms-overflow-style: none;
       padding: 2px 2px 4px 2px;
+      -webkit-overflow-scrolling: touch;
     }
     #category-pills::-webkit-scrollbar {
-      display: none; /* Chrome/Safari */
+      display: none;
     }
     
     .category-pill-btn {
@@ -76,18 +83,71 @@
       white-space: nowrap !important;
       display: inline-flex;
       align-items: center;
-      gap: 5px;
+      gap: 4px;
+      transition: all 0.2s cubic-bezier(0.16, 1, 0.3, 1);
+    }
+    .category-pill-btn:hover {
+      transform: translateY(-1px);
     }
     
+    /* Staggered Card Entrance Animation */
+    @keyframes slideFadeIn {
+      0% {
+        opacity: 0;
+        transform: translateY(14px) scale(0.985);
+      }
+      100% {
+        opacity: 1;
+        transform: translateY(0) scale(1);
+      }
+    }
+
+    .hotel-card-anim {
+      opacity: 0;
+      animation: slideFadeIn 0.4s cubic-bezier(0.16, 1, 0.3, 1) forwards;
+    }
+
+    /* Live Aspect Fill Animation */
     .aspect-bar-fill {
-      transition: width 0.4s cubic-bezier(0.16, 1, 0.3, 1);
+      transition: width 0.75s cubic-bezier(0.16, 1, 0.3, 1);
     }
     
+    /* Shimmer effect for #1 Match */
+    @keyframes badgeShimmer {
+      0% { transform: translateX(-150%); }
+      100% { transform: translateX(250%); }
+    }
+
+    .shimmer-badge {
+      position: relative;
+      overflow: hidden;
+    }
+
+    .shimmer-badge::after {
+      content: '';
+      position: absolute;
+      top: 0;
+      left: 0;
+      width: 45%;
+      height: 100%;
+      background: linear-gradient(90deg, transparent, rgba(255, 255, 255, 0.4), transparent);
+      transform: skewX(-20deg);
+      animation: badgeShimmer 3.2s infinite ease-in-out;
+    }
+
+    /* Query item hover & active micro-interactions */
     .query-item-btn {
-      transition: all 0.18s cubic-bezier(0.16, 1, 0.3, 1);
+      transition: all 0.2s cubic-bezier(0.16, 1, 0.3, 1);
     }
     .query-item-btn:hover {
-      transform: translateY(-1px);
+      transform: translateY(-1.5px);
+    }
+
+    /* Scrollable Container Touch Fix */
+    #query-list-container, #panel-ui, #panel-json {
+      -webkit-overflow-scrolling: touch;
+      overscroll-behavior-y: contain;
+      touch-action: pan-y;
     }
 
     #toast-msg {
@@ -95,52 +155,50 @@
     }
   </style>
 </head>
-<body class="flex flex-col h-full w-full">
+<body class="flex flex-col h-screen h-[100dvh] w-full overflow-hidden bg-[var(--bg-app)] text-[var(--text-primary)]">
 
-  <!-- Top Glass App Header Bar -->
-  <header class="glass-header h-14 px-4 sm:px-6 flex items-center justify-between shrink-0 z-30 shadow-xs">
-    <div class="flex items-center gap-3 min-w-0">
-      <a href="../index.html#sec-query-explorer" class="flex items-center gap-2.5 hover:opacity-90 transition-opacity">
-        <div class="w-8 h-8 rounded-xl bg-gradient-to-br from-blue-600 via-indigo-600 to-teal-500 flex items-center justify-center text-white font-mono text-xs font-black shadow-md shadow-blue-500/20 shrink-0">
-          TL
-        </div>
-        <div class="truncate">
-          <div class="flex items-center gap-2">
-            <h1 class="font-extrabold text-sm sm:text-base text-[var(--text-primary)] tracking-tight">TrustLayer-AI Recommender Benchmark Explorer</h1>
-            <span class="badge badge-go text-[10px] font-mono font-bold hidden sm:inline-flex">
-              <span class="w-1.5 h-1.5 rounded-full bg-emerald-500 animate-pulse"></span>
-              <span>RRF k=60 Active</span>
-            </span>
+  <!-- Top Glass Navigation Bar (100% Exact Parity with index.html Master Report Header) -->
+  <header class="sticky top-0 z-50 glass-header shrink-0 h-16 flex items-center">
+    <div class="w-full max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 flex items-center justify-between">
+      <!-- Left Logo & Branding -->
+      <div class="flex items-center gap-3">
+        <a href="../index.html#sec-query-explorer" class="flex items-center gap-2 sm:gap-2.5 text-brandNavy dark:text-blue-400 font-bold text-base sm:text-lg tracking-tight hover:opacity-90 transition-opacity">
+          <div class="w-8 h-8 sm:w-9 sm:h-9 rounded-xl bg-gradient-to-br from-blue-600 via-indigo-600 to-teal-500 flex items-center justify-center text-white font-mono text-xs sm:text-sm font-black shadow-md shadow-blue-500/20 shrink-0">
+            TL
           </div>
-        </div>
-      </a>
-    </div>
+          <div class="flex flex-col justify-center">
+            <span class="leading-none text-base sm:text-lg font-extrabold tracking-tight whitespace-nowrap text-slate-900 dark:text-white">TrustLayer-AI</span>
+            <span class="hidden md:block text-[10px] text-slate-400 dark:text-slate-500 font-medium tracking-wide uppercase mt-0.5 whitespace-nowrap">Benchmark Explorer</span>
+          </div>
+        </a>
+      </div>
 
-    <!-- Right Header Controls -->
-    <div class="flex items-center gap-2 sm:gap-3 shrink-0">
-      <span class="hidden lg:inline-flex badge badge-tech text-xs font-mono font-semibold">
-        91 Benchmarks &bull; 96.0% Grounding
-      </span>
-      <a href="../index.html#sec-query-explorer" class="px-3 py-1.5 rounded-lg bg-[var(--bg-tertiary)] text-[var(--text-primary)] hover:border-blue-500/60 text-xs font-semibold border border-[var(--border-subtle)] flex items-center gap-1.5 transition-all shadow-xs">
-        <svg class="w-3.5 h-3.5" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M10 19l-7-7m0 0l7-7m-7 7h18"></path></svg>
-        <span>Master Report</span>
-      </a>
-      <!-- Dark/Light Theme Toggle -->
-      <button id="theme-toggle-btn" class="p-2 rounded-lg bg-[var(--bg-tertiary)] text-[var(--text-secondary)] hover:text-[var(--text-primary)] border border-[var(--border-subtle)] hover:border-[var(--border-medium)] transition-colors cursor-pointer" title="Toggle Dark/Light Mode">
-        <svg id="theme-sun" class="w-4 h-4 text-amber-400 hidden" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M12 3v1m0 16v1m9-9h-1M4 12H3m15.364 6.364l-.707-.707M6.343 6.343l-.707-.707m12.728 0l-.707.707M6.343 17.657l-.707.707M16 12a4 4 0 11-8 0 4 4 0 018 0z"></path></svg>
-        <svg id="theme-moon" class="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M20.354 15.354A9 9 0 018.646 3.646 9.003 9.003 0 0012 21a9.003 9.003 0 008.354-5.646z"></path></svg>
-      </button>
+      <!-- Right Header Actions -->
+      <div class="flex items-center gap-1.5 sm:gap-2.5 shrink-0">
+        <span class="hidden lg:inline-flex badge badge-tech text-xs font-mono font-semibold whitespace-nowrap shrink-0">
+          91 Benchmarks &bull; 96.0% Grounding
+        </span>
+        <a href="../index.html#sec-query-explorer" class="flex items-center gap-1.5 px-2.5 sm:px-3 py-1.5 rounded-lg bg-slate-100 dark:bg-slate-800/80 border border-slate-200 dark:border-slate-700/80 text-slate-600 dark:text-slate-300 hover:border-blue-500 hover:text-blue-600 dark:hover:text-blue-400 transition-colors text-xs font-medium shadow-xs shrink-0 whitespace-nowrap" title="Return to Master Report">
+          <svg class="w-3.5 h-3.5 shrink-0" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M10 19l-7-7m0 0l7-7m-7 7h18"></path></svg>
+          <span class="hidden sm:inline">Master </span><span>Report</span>
+        </a>
+        <!-- Theme Switcher -->
+        <button id="theme-toggle" class="p-2 rounded-lg text-slate-600 dark:text-slate-300 hover:bg-slate-100 dark:hover:bg-slate-800 transition-colors shrink-0 cursor-pointer" title="Toggle Theme" aria-label="Toggle Theme">
+          <svg id="theme-icon-moon" class="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M20.354 15.354A9 9 0 018.646 3.646 9.003 9.003 0 0012 21a9.003 9.003 0 008.354-5.646z"></path></svg>
+          <svg id="theme-icon-sun" class="w-4 h-4 hidden text-amber-400" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M12 3v1m0 16v1m9-9h-1M4 12H3m15.364 6.364l-.707-.707M6.343 6.343l-.707-.707m12.728 0l-.707.707M6.343 17.657l-.707.707M16 12a4 4 0 11-8 0 4 4 0 018 0z"></path></svg>
+        </button>
+      </div>
     </div>
   </header>
 
-  <!-- Main Split Master-Detail Layout -->
-  <main class="flex-1 flex flex-col md:flex-row min-h-0 overflow-hidden">
+  <!-- Main Master-Detail Layout (Fixed height prevents viewport overflow) -->
+  <main class="flex-1 min-h-0 w-full flex flex-col md:flex-row overflow-hidden relative" style="height: calc(100dvh - 4rem); max-height: calc(100dvh - 4rem);">
     
-    <!-- Left Drawer: Query Search & Query List (340px) -->
-    <aside class="w-full md:w-80 lg:w-96 shrink-0 bg-[var(--bg-surface)] border-r border-[var(--border-subtle)] flex flex-col min-h-0">
+    <!-- Left Panel: Query Search & Query List (340px on desktop, full-width on mobile when active) -->
+    <aside id="drawer-query-list" class="w-full md:w-80 lg:w-96 flex flex-col h-full min-h-0 overflow-hidden bg-[var(--bg-surface)] border-r border-[var(--border-subtle)]">
       
-      <!-- Search Box & Filter Controls -->
-      <div class="p-3.5 space-y-2.5 border-b border-[var(--border-subtle)] bg-[var(--bg-surface)] shrink-0">
+      <!-- Search Box & Filter Controls (Fixed header inside sidebar) -->
+      <div class="p-3 sm:p-3.5 space-y-2 border-b border-[var(--border-subtle)] bg-[var(--bg-surface)] shrink-0">
         
         <!-- Search Input -->
         <div class="relative">
@@ -151,59 +209,73 @@
 
         <!-- Category Header & Count -->
         <div class="flex items-center justify-between text-[11px] pt-0.5">
-          <span class="font-bold text-[var(--text-muted)] uppercase tracking-wider">Categories</span>
-          <span id="query-count-badge" class="font-mono font-semibold text-[var(--text-muted)]">91 queries</span>
+          <span class="font-bold text-[var(--text-muted)] uppercase tracking-wider whitespace-nowrap">Categories</span>
+          <span id="query-count-badge" class="font-mono font-semibold text-[var(--text-muted)] whitespace-nowrap">91 queries</span>
         </div>
 
-        <!-- Scrollable Category Filter Chips (Never squished) -->
+        <!-- Scrollable Category Filter Chips -->
         <div id="category-pills" class="flex gap-1.5 overflow-x-auto pb-0.5">
           <!-- Dynamically filled with .category-pill-btn -->
         </div>
       </div>
 
-      <!-- Query Master List -->
-      <div id="query-list-container" class="flex-1 overflow-y-auto p-2.5 space-y-2 min-h-0">
+      <!-- Query Master List Container (100% Fluid Touch Scrolling on Mobile & Desktop) -->
+      <div id="query-list-container" class="flex-1 min-h-0 overflow-y-auto p-2.5 space-y-2 pb-20">
         <!-- Dynamically rendered queries -->
       </div>
     </aside>
 
     <!-- Right Panel: Active Query Telemetry & Production Card Output -->
-    <section class="flex-1 flex flex-col min-h-0 bg-[var(--bg-app)] overflow-hidden">
+    <section id="panel-query-output" class="flex-1 h-full min-h-0 hidden md:flex flex-col overflow-hidden bg-[var(--bg-app)]">
       
-      <!-- Query Telemetry Banner -->
-      <div class="p-4 sm:p-5 border-b border-[var(--border-subtle)] bg-[var(--bg-surface)] shrink-0 flex flex-col sm:flex-row sm:items-center justify-between gap-3 shadow-xs">
-        <div class="min-w-0 flex-1">
-          <div class="flex items-center gap-2 mb-1 flex-wrap">
-            <span id="active-qid" class="badge badge-verified text-xs font-mono font-bold">Q001</span>
+      <!-- Query Telemetry Toolbar Banner (Compact header) -->
+      <div class="p-3 sm:p-4 border-b border-[var(--border-subtle)] bg-[var(--bg-surface)] shrink-0 flex flex-col gap-2 shadow-xs">
+        
+        <!-- Top Toolbar Row -->
+        <div class="flex items-center justify-between gap-2 flex-wrap sm:flex-nowrap">
+          <div class="flex items-center gap-1.5 flex-wrap">
+            <!-- Mobile Back Button to Return to Query List -->
+            <button id="btn-back-to-list" class="md:hidden px-2.5 py-1 rounded-lg bg-blue-600 hover:bg-blue-700 text-white text-xs font-bold flex items-center gap-1 shadow-xs cursor-pointer active:scale-95 transition-all">
+              <svg class="w-3.5 h-3.5" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2.5" d="M15 19l-7-7 7-7"></path></svg>
+              <span>Queries</span>
+            </button>
+            <span id="active-qid" class="badge badge-verified text-[11px] font-mono font-bold">Q001</span>
             <span id="active-category" class="badge badge-tech text-[10px] font-semibold uppercase tracking-wider">Budget</span>
             <span id="active-satisfaction" class="badge badge-go text-[10px] font-mono font-bold">100% Match</span>
           </div>
-          <h2 id="active-query-text" class="font-extrabold text-base sm:text-lg text-[var(--text-primary)] leading-snug tracking-tight">"cheap budget hotels in delhi"</h2>
-          <div class="flex items-center gap-2 mt-1 text-[11px] text-[var(--text-muted)] font-mono flex-wrap">
-            <span>Constraints: <code id="active-constraints" class="text-blue-600 dark:text-blue-400 font-semibold font-mono">budget=budget, area=delhi</code></span>
-            <span>&bull;</span>
-            <span id="active-notes">Retrieved 7 ranked candidates &bull; PostgreSQL 17 pgvector</span>
+
+          <!-- View Switcher Tabs (UI Preview vs Raw JSON) -->
+          <div class="flex items-center gap-1 p-0.5 sm:p-1 rounded-xl bg-[var(--bg-tertiary)] border border-[var(--border-subtle)] shrink-0">
+            <button id="tab-ui" class="px-2.5 sm:px-3 py-1 sm:py-1.5 rounded-lg text-xs font-bold bg-[var(--bg-surface)] text-blue-600 dark:text-blue-400 shadow-xs transition-all cursor-pointer">
+              🏨 UI Preview
+            </button>
+            <button id="tab-json" class="px-2.5 sm:px-3 py-1 sm:py-1.5 rounded-lg text-xs font-bold text-[var(--text-secondary)] hover:text-[var(--text-primary)] transition-all cursor-pointer">
+              ⚡ Raw JSON
+            </button>
           </div>
         </div>
 
-        <!-- View Switcher Tabs -->
-        <div class="flex items-center gap-1 p-1 rounded-xl bg-[var(--bg-tertiary)] border border-[var(--border-subtle)] shrink-0 self-start sm:self-center">
-          <button id="tab-ui" class="px-3 py-1.5 rounded-lg text-xs font-bold bg-[var(--bg-surface)] text-blue-600 dark:text-blue-400 shadow-xs transition-all cursor-pointer">
-            🏨 UI Preview
-          </button>
-          <button id="tab-json" class="px-3 py-1.5 rounded-lg text-xs font-bold text-[var(--text-secondary)] hover:text-[var(--text-primary)] transition-all cursor-pointer">
-            ⚡ Raw JSON Trace
-          </button>
+        <!-- Query Title & Constraints Row -->
+        <div>
+          <h2 id="active-query-text" class="font-extrabold text-sm sm:text-base text-[var(--text-primary)] leading-snug tracking-tight break-words">
+            "cheap budget hotels in delhi"
+          </h2>
+          <div class="flex items-center gap-2 mt-0.5 text-[10px] sm:text-[11px] text-[var(--text-muted)] font-mono flex-wrap">
+            <span>Constraints: <code id="active-constraints" class="text-blue-600 dark:text-blue-400 font-semibold font-mono">budget=budget, area=delhi</code></span>
+            <span class="hidden sm:inline">&bull;</span>
+            <span id="active-notes" class="hidden sm:inline">Hybrid Vector + SQL Filter + RRF k=60</span>
+          </div>
         </div>
+
       </div>
 
-      <!-- Tab Content 1: Live Hotel Output Cards (UI Preview) -->
-      <div id="panel-ui" class="flex-1 overflow-y-auto p-4 sm:p-6 space-y-4 min-h-0">
-        <!-- Dynamically rendered hotel recommendation cards -->
+      <!-- Tab Content 1: Live Hotel Output Cards (UI Preview - Scrollable) -->
+      <div id="panel-ui" class="flex-1 overflow-y-auto min-h-0 p-3 sm:p-6 space-y-3.5 sm:space-y-4">
+        <!-- Dynamically rendered hotel recommendation cards with entrance & aspect fill animations -->
       </div>
 
-      <!-- Tab Content 2: Raw JSON Trace -->
-      <div id="panel-json" class="flex-1 overflow-y-auto p-4 sm:p-6 hidden min-h-0 space-y-4">
+      <!-- Tab Content 2: Raw JSON Trace (Scrollable) -->
+      <div id="panel-json" class="flex-1 overflow-y-auto min-h-0 p-3 sm:p-6 hidden space-y-4">
         <div class="terminal-block shadow-xl">
           <div class="terminal-header">
             <div class="flex items-center gap-2">
@@ -212,14 +284,14 @@
                 <span class="terminal-dot dot-yellow"></span>
                 <span class="terminal-dot dot-green"></span>
               </div>
-              <span class="text-xs text-[var(--text-muted)] font-mono font-semibold ml-2">PRODUCTION QUERY RESPONSE JSON PAYLOAD</span>
+              <span class="text-xs text-[var(--text-muted)] font-mono font-semibold ml-2 truncate">PRODUCTION QUERY JSON PAYLOAD</span>
             </div>
-            <button id="copy-json-btn" class="px-2.5 py-1 rounded-lg bg-[var(--bg-tertiary)] hover:bg-[var(--bg-surface-hover)] text-[var(--text-primary)] text-xs font-mono font-medium border border-[var(--border-subtle)] flex items-center gap-1.5 transition-colors cursor-pointer">
+            <button id="copy-json-btn" class="px-2.5 py-1 rounded-lg bg-[var(--bg-tertiary)] hover:bg-[var(--bg-surface-hover)] text-[var(--text-primary)] text-xs font-mono font-medium border border-[var(--border-subtle)] flex items-center gap-1.5 transition-colors cursor-pointer shrink-0">
               <svg class="w-3.5 h-3.5" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M8 16H6a2 2 0 01-2-2V6a2 2 0 012-2h8a2 2 0 012 2v2m-6 12h8a2 2 0 002-2v-8a2 2 0 00-2-2h-8a2 2 0 00-2 2v8a2 2 0 002 2z"></path></svg>
-              <span>Copy JSON</span>
+              <span>Copy</span>
             </button>
           </div>
-          <pre id="raw-json-output" class="text-xs font-mono text-emerald-400 dark:text-emerald-400 leading-relaxed"></pre>
+          <pre id="raw-json-output" class="text-xs font-mono text-emerald-400 dark:text-emerald-400 leading-relaxed overflow-x-auto"></pre>
         </div>
       </div>
     </section>
@@ -230,7 +302,7 @@
     Copied to clipboard!
   </div>
 
-  <!-- Load 100 Benchmark Queries Data -->
+  <!-- Load 91 Benchmark Queries Data -->
   <script src="../data/evaluation_queries_data.js"></script>
 
   <!-- Interactive Logic Controller -->
@@ -241,9 +313,9 @@
 
       // Theme toggle initialization (Default: Light Mode)
       const htmlEl = document.documentElement;
-      const themeBtn = document.getElementById('theme-toggle-btn');
-      const sunIcon = document.getElementById('theme-sun');
-      const moonIcon = document.getElementById('theme-moon');
+      const themeBtn = document.getElementById('theme-toggle');
+      const sunIcon = document.getElementById('theme-icon-sun');
+      const moonIcon = document.getElementById('theme-icon-moon');
       const savedTheme = localStorage.getItem('trustlayer-theme');
       const isDark = savedTheme === 'dark'; // Default to light mode unless explicitly saved as 'dark'
 
@@ -263,9 +335,16 @@
 
       if (themeBtn) {
         themeBtn.addEventListener('click', () => {
+          htmlEl.classList.add('theme-switching');
           const isDarkNow = htmlEl.classList.toggle('dark');
           localStorage.setItem('trustlayer-theme', isDarkNow ? 'dark' : 'light');
           setTheme(isDarkNow);
+          
+          window.requestAnimationFrame(() => {
+            window.requestAnimationFrame(() => {
+              htmlEl.classList.remove('theme-switching');
+            });
+          });
         });
       }
 
@@ -273,12 +352,18 @@
       let currentQid = queries[0].id;
       let activeCategory = 'all';
       let activeSearch = '';
+      let mobileViewMode = 'list'; // 'list' | 'detail'
 
+      // DOM Elements
       const searchInput = document.getElementById('search-input');
       const searchClearBtn = document.getElementById('search-clear-btn');
       const categoryPillsContainer = document.getElementById('category-pills');
       const queryCountBadge = document.getElementById('query-count-badge');
       const queryListContainer = document.getElementById('query-list-container');
+
+      const drawerQueryList = document.getElementById('drawer-query-list');
+      const panelQueryOutput = document.getElementById('panel-query-output');
+      const btnBackToList = document.getElementById('btn-back-to-list');
 
       const activeQidEl = document.getElementById('active-qid');
       const activeCatEl = document.getElementById('active-category');
@@ -294,6 +379,41 @@
       const rawJsonOutput = document.getElementById('raw-json-output');
       const copyJsonBtn = document.getElementById('copy-json-btn');
       const toastMsg = document.getElementById('toast-msg');
+
+      // Mobile View Switcher (List vs Detail)
+      function updateMobileView(mode) {
+        mobileViewMode = mode;
+        if (window.innerWidth >= 768) {
+          drawerQueryList.classList.remove('hidden');
+          drawerQueryList.classList.add('flex');
+          panelQueryOutput.classList.remove('hidden');
+          panelQueryOutput.classList.add('flex');
+          return;
+        }
+
+        if (mode === 'list') {
+          drawerQueryList.classList.remove('hidden');
+          drawerQueryList.classList.add('flex');
+          panelQueryOutput.classList.add('hidden');
+          panelQueryOutput.classList.remove('flex');
+        } else {
+          drawerQueryList.classList.add('hidden');
+          drawerQueryList.classList.remove('flex');
+          panelQueryOutput.classList.remove('hidden');
+          panelQueryOutput.classList.add('flex');
+          if (panelUI) panelUI.scrollTop = 0;
+        }
+      }
+
+      if (btnBackToList) {
+        btnBackToList.addEventListener('click', () => {
+          updateMobileView('list');
+        });
+      }
+
+      window.addEventListener('resize', () => {
+        updateMobileView(mobileViewMode);
+      });
 
       // Mouse wheel horizontal scrolling for categories
       if (categoryPillsContainer) {
@@ -374,7 +494,7 @@
         filtered.forEach(q => {
           const isSelected = q.id === currentQid;
           const btn = document.createElement('button');
-          btn.className = `query-item-btn w-full text-left p-3 rounded-xl border transition-all cursor-pointer flex flex-col gap-1.5 ${
+          btn.className = `query-item-btn w-full text-left p-2.5 sm:p-3 rounded-xl border transition-all cursor-pointer flex flex-col gap-1 sm:gap-1.5 ${
             isSelected
               ? 'bg-blue-50/80 dark:bg-blue-950/40 border-blue-500 shadow-sm ring-1 ring-blue-500/40'
               : 'bg-[var(--bg-surface)] border-[var(--border-subtle)] hover:border-[var(--border-medium)] hover:bg-[var(--bg-surface-hover)]'
@@ -387,7 +507,7 @@
             </div>
             <p class="font-bold text-[var(--text-primary)] text-xs leading-snug line-clamp-2">"${q.query}"</p>
             <div class="flex items-center justify-between text-[11px] text-[var(--text-muted)] mt-0.5">
-              <span class="truncate max-w-[150px] text-blue-600 dark:text-blue-400 font-semibold">${q.top_hotel ? q.top_hotel.split('|')[0] : 'N/A'}</span>
+              <span class="truncate max-w-[140px] sm:max-w-[150px] text-blue-600 dark:text-blue-400 font-semibold">${q.top_hotel ? q.top_hotel.split('|')[0] : 'N/A'}</span>
               <span class="font-mono font-bold text-emerald-600 dark:text-emerald-400">${q.satisfaction_pct.toFixed(0)}% Match</span>
             </div>
           `;
@@ -396,6 +516,10 @@
             currentQid = q.id;
             renderQueryList();
             renderActiveDetails();
+            // On mobile screens, automatically switch to the recommendations detail view
+            if (window.innerWidth < 768) {
+              updateMobileView('detail');
+            }
           });
 
           queryListContainer.appendChild(btn);
@@ -424,7 +548,7 @@
         const results = q.results || [];
         if (results.length === 0) {
           panelUI.innerHTML = `
-            <div class="p-12 text-center text-[var(--text-muted)] bg-[var(--bg-surface)] rounded-2xl border border-dashed border-[var(--border-subtle)]">
+            <div class="p-8 sm:p-12 text-center text-[var(--text-muted)] bg-[var(--bg-surface)] rounded-2xl border border-dashed border-[var(--border-subtle)]">
               No recommendations found for this query.
             </div>
           `;
@@ -437,11 +561,12 @@
           const isThird = idx === 2;
 
           const card = document.createElement('div');
-          card.className = `academic-card card-glow p-5 sm:p-6 rounded-2xl relative overflow-hidden ${
+          card.className = `academic-card card-glow hotel-card-anim p-4 sm:p-6 rounded-2xl relative overflow-hidden ${
             isTop
               ? 'border-amber-400/80 dark:border-amber-500/60 ring-2 ring-amber-400/20 bg-gradient-to-br from-amber-50/20 via-[var(--bg-surface)] to-orange-50/10 dark:from-amber-950/20 dark:via-[var(--bg-surface)] dark:to-slate-900'
               : ''
           }`;
+          card.style.animationDelay = `${idx * 45}ms`;
 
           const trustScore = rec.trust_score || (94.0 - idx * 1.5);
           const cleanliness = rec.cleanliness || (4.6 - idx * 0.2);
@@ -459,126 +584,126 @@
           const matchConfidence = Math.min(99, Math.max(75, Math.round(97 - idx * 3.5)));
 
           // Amenities
-          const amenities = ['📶 Free High-Speed WiFi', '❄️ Climate Control AC', '🚿 Hot Water Geyser', '🛎️ 24/7 Front Desk'];
-          if (q.category === 'Luxury' || rating >= 4.7) amenities.push('🏊 Swimming Pool', '🍽️ Multi-Cuisine Dining');
-          if (q.query.toLowerCase().includes('bathtub') || q.category === 'Couples') amenities.push('🛁 Deluxe Jacuzzi / Bathtub');
-          if (q.category === 'Business') amenities.push('💼 Business Center', '🖨️ Conference Room');
+          const amenities = ['📶 Free WiFi', '❄️ AC', '🚿 Hot Water', '🛎️ 24/7 Desk'];
+          if (q.category === 'Luxury' || rating >= 4.7) amenities.push('🏊 Pool', '🍽️ Dining');
+          if (q.query.toLowerCase().includes('bathtub') || q.category === 'Couples') amenities.push('🛁 Jacuzzi');
+          if (q.category === 'Business') amenities.push('💼 Business Center');
 
           card.innerHTML = `
-            <div class="flex flex-col sm:flex-row sm:items-start justify-between gap-3 mb-4">
-              <div class="space-y-2 flex-1 min-w-0">
-                <div class="flex items-center gap-2 flex-wrap">
+            <div class="flex flex-col sm:flex-row sm:items-start justify-between gap-2 sm:gap-3 mb-3 sm:mb-4">
+              <div class="space-y-1 sm:space-y-1.5 flex-1 min-w-0">
+                <div class="flex items-center gap-1.5 sm:gap-2 flex-wrap">
                   ${isTop ? `
-                    <span class="px-2.5 py-0.5 rounded-lg text-xs font-black uppercase tracking-wider bg-amber-100 dark:bg-amber-950/70 text-amber-900 dark:text-amber-300 border border-amber-300 dark:border-amber-700/80 flex items-center gap-1.5 shadow-xs">
+                    <span class="shimmer-badge px-2.5 py-0.5 rounded-lg text-[10px] sm:text-xs font-black uppercase tracking-wider bg-amber-100 dark:bg-amber-950/70 text-amber-900 dark:text-amber-300 border border-amber-300 dark:border-amber-700/80 flex items-center gap-1 shadow-xs">
                       <span>🏆</span>
                       <span>#1 TOP MATCH</span>
                     </span>
                   ` : isSecond ? `
-                    <span class="badge badge-tech text-xs font-bold">
+                    <span class="badge badge-tech text-[10px] sm:text-xs font-bold">
                       <span>🥈</span>
                       <span>#2 Candidate</span>
                     </span>
                   ` : isThird ? `
-                    <span class="badge badge-tech text-xs font-bold">
+                    <span class="badge badge-tech text-[10px] sm:text-xs font-bold">
                       <span>🥉</span>
                       <span>#3 Candidate</span>
                     </span>
                   ` : `
-                    <span class="badge badge-tech text-xs font-mono font-bold">
+                    <span class="badge badge-tech text-[10px] sm:text-xs font-mono font-bold">
                       #${idx + 1} Candidate
                     </span>
                   `}
 
-                  <span class="badge badge-verified text-xs font-bold">
+                  <span class="badge badge-verified text-[10px] sm:text-xs font-bold">
                     <span class="w-1.5 h-1.5 rounded-full bg-blue-600 animate-pulse"></span>
-                    <span>🛡️ Trust Score ${trustScore.toFixed(1)}/100</span>
+                    <span>🛡️ Trust ${trustScore.toFixed(1)}</span>
                   </span>
 
-                  <span class="badge badge-go text-xs font-bold">
+                  <span class="badge badge-go text-[10px] sm:text-xs font-bold">
                     ${matchConfidence}% Confidence
                   </span>
                 </div>
 
-                <h3 class="text-lg sm:text-xl font-extrabold text-[var(--text-primary)] leading-snug tracking-tight">
+                <h3 class="text-base sm:text-lg font-extrabold text-[var(--text-primary)] leading-snug tracking-tight break-words">
                   ${rec.name}
                 </h3>
 
-                <div class="flex items-center gap-2.5 text-xs text-[var(--text-muted)] flex-wrap">
+                <div class="flex items-center gap-2 text-[11px] sm:text-xs text-[var(--text-muted)] flex-wrap">
                   <span class="flex items-center gap-1 font-bold text-amber-500 font-mono">
-                    ★ ${rating.toFixed(1)} / 5.0
+                    ★ ${rating.toFixed(1)}
                   </span>
                   <span>&bull;</span>
-                  <span class="font-medium">${catalogReviews.toLocaleString()} verified guest reviews</span>
-                  <span>&bull;</span>
-                  <span class="font-mono text-[var(--text-dim)]">RRF Score: <strong class="text-[var(--text-secondary)]">${finalScore}</strong></span>
+                  <span>${catalogReviews.toLocaleString()} reviews</span>
+                  <span class="hidden sm:inline">&bull;</span>
+                  <span class="hidden sm:inline font-mono text-[var(--text-dim)]">RRF: <strong class="text-[var(--text-secondary)]">${finalScore}</strong></span>
                 </div>
               </div>
 
-              <div class="shrink-0">
-                <span class="badge badge-tech px-3 py-1 text-xs font-mono font-bold">
+              <div class="shrink-0 self-start">
+                <span class="badge badge-tech px-2.5 py-0.5 sm:px-3 sm:py-1 text-[11px] sm:text-xs font-mono font-bold">
                   Rank #${rec.rank || (idx + 1)}
                 </span>
               </div>
             </div>
 
-            <!-- 4-Column Aspect Sentiment Breakdown -->
-            <div class="grid grid-cols-2 sm:grid-cols-4 gap-2.5 my-3.5 p-3.5 rounded-xl bg-[var(--bg-tertiary)] border border-[var(--border-subtle)] text-xs">
+            <!-- 4-Column Aspect Sentiment Breakdown with Smooth Animated Fill -->
+            <div class="grid grid-cols-2 sm:grid-cols-4 gap-2 sm:gap-2.5 my-2.5 sm:my-3 p-2.5 sm:p-3 rounded-xl bg-[var(--bg-tertiary)] border border-[var(--border-subtle)] text-xs">
               <div class="space-y-1">
-                <div class="flex items-center justify-between text-[11px]">
-                  <span class="text-[var(--text-secondary)] font-medium">🧼 Cleanliness</span>
-                  <span class="font-mono font-bold text-blue-600 dark:text-blue-400">${cleanliness.toFixed(1)}/5.0</span>
+                <div class="flex items-center justify-between text-[10px] sm:text-[11px]">
+                  <span class="text-[var(--text-secondary)] font-medium">🧼 Clean</span>
+                  <span class="font-mono font-bold text-blue-600 dark:text-blue-400">${cleanliness.toFixed(1)}</span>
                 </div>
                 <div class="w-full h-1.5 rounded-full bg-slate-200 dark:bg-slate-700/80 overflow-hidden">
-                  <div class="aspect-bar-fill h-full bg-blue-600 rounded-full" style="width: ${cleanPct}%"></div>
+                  <div class="aspect-bar-fill h-full bg-blue-600 rounded-full" style="width: 0%" data-target="${cleanPct}%"></div>
                 </div>
               </div>
 
               <div class="space-y-1">
-                <div class="flex items-center justify-between text-[11px]">
-                  <span class="text-[var(--text-secondary)] font-medium">📍 Location</span>
-                  <span class="font-mono font-bold text-teal-600 dark:text-teal-400">${location.toFixed(1)}/5.0</span>
+                <div class="flex items-center justify-between text-[10px] sm:text-[11px]">
+                  <span class="text-[var(--text-secondary)] font-medium">📍 Loc</span>
+                  <span class="font-mono font-bold text-teal-600 dark:text-teal-400">${location.toFixed(1)}</span>
                 </div>
                 <div class="w-full h-1.5 rounded-full bg-slate-200 dark:bg-slate-700/80 overflow-hidden">
-                  <div class="aspect-bar-fill h-full bg-teal-500 rounded-full" style="width: ${locPct}%"></div>
+                  <div class="aspect-bar-fill h-full bg-teal-500 rounded-full" style="width: 0%" data-target="${locPct}%"></div>
                 </div>
               </div>
 
               <div class="space-y-1">
-                <div class="flex items-center justify-between text-[11px]">
+                <div class="flex items-center justify-between text-[10px] sm:text-[11px]">
                   <span class="text-[var(--text-secondary)] font-medium">💎 Value</span>
-                  <span class="font-mono font-bold text-purple-600 dark:text-purple-400">${value.toFixed(1)}/5.0</span>
+                  <span class="font-mono font-bold text-purple-600 dark:text-purple-400">${value.toFixed(1)}</span>
                 </div>
                 <div class="w-full h-1.5 rounded-full bg-slate-200 dark:bg-slate-700/80 overflow-hidden">
-                  <div class="aspect-bar-fill h-full bg-purple-600 rounded-full" style="width: ${valPct}%"></div>
+                  <div class="aspect-bar-fill h-full bg-purple-600 rounded-full" style="width: 0%" data-target="${valPct}%"></div>
                 </div>
               </div>
 
               <div class="space-y-1">
-                <div class="flex items-center justify-between text-[11px]">
-                  <span class="text-[var(--text-secondary)] font-medium">🛎️ Service</span>
-                  <span class="font-mono font-bold text-emerald-600 dark:text-emerald-400">${service.toFixed(1)}/5.0</span>
+                <div class="flex items-center justify-between text-[10px] sm:text-[11px]">
+                  <span class="text-[var(--text-secondary)] font-medium">🛎️ Staff</span>
+                  <span class="font-mono font-bold text-emerald-600 dark:text-emerald-400">${service.toFixed(1)}</span>
                 </div>
                 <div class="w-full h-1.5 rounded-full bg-slate-200 dark:bg-slate-700/80 overflow-hidden">
-                  <div class="aspect-bar-fill h-full bg-emerald-500 rounded-full" style="width: ${servPct}%"></div>
+                  <div class="aspect-bar-fill h-full bg-emerald-500 rounded-full" style="width: 0%" data-target="${servPct}%"></div>
                 </div>
               </div>
             </div>
 
             <!-- Amenities Chips -->
-            <div class="flex flex-wrap gap-1.5 my-3">
-              ${amenities.map(a => `<span class="px-2.5 py-1 rounded-lg bg-[var(--bg-surface)] border border-[var(--border-subtle)] text-[11px] font-medium text-[var(--text-secondary)] shadow-2xs">${a}</span>`).join('')}
+            <div class="flex flex-wrap gap-1 sm:gap-1.5 my-2.5 sm:my-3">
+              ${amenities.map(a => `<span class="px-2 py-0.5 sm:px-2.5 sm:py-1 rounded-lg bg-[var(--bg-surface)] border border-[var(--border-subtle)] text-[10px] sm:text-[11px] font-medium text-[var(--text-secondary)] shadow-2xs">${a}</span>`).join('')}
             </div>
 
             <!-- Grounded Review Synthesis -->
-            <div class="p-3.5 rounded-xl bg-blue-50/60 dark:bg-blue-950/30 border border-blue-200/60 dark:border-blue-900/40 text-xs text-[var(--text-secondary)] leading-relaxed flex items-start gap-3 mt-3">
-              <div class="w-6 h-6 rounded-lg bg-blue-600 text-white flex items-center justify-center font-bold text-xs shrink-0 mt-0.5 shadow-xs">💡</div>
-              <div class="space-y-1 flex-1">
-                <div class="flex items-center gap-2">
-                  <strong class="text-[var(--text-primary)] font-bold text-xs">Grounded Review Synthesis</strong>
-                  <span class="badge badge-verified text-[9px] font-mono font-bold">DistilBERT ABSA Verified</span>
+            <div class="p-3 rounded-xl bg-blue-50/60 dark:bg-blue-950/30 border border-blue-200/60 dark:border-blue-900/40 text-[11px] sm:text-xs text-[var(--text-secondary)] leading-relaxed flex items-start gap-2.5 mt-2.5">
+              <div class="w-5 h-5 rounded-lg bg-blue-600 text-white flex items-center justify-center font-bold text-[10px] shrink-0 mt-0.5 shadow-xs">💡</div>
+              <div class="space-y-1 flex-1 min-w-0">
+                <div class="flex items-center gap-1.5 flex-wrap">
+                  <strong class="text-[var(--text-primary)] font-bold text-[11px]">Grounded Synthesis</strong>
+                  <span class="badge badge-verified text-[8px] font-mono font-bold">ABSA Verified</span>
                 </div>
                 <p class="text-[var(--text-secondary)]">
-                  Verified guest reviews consistently praise <strong class="text-[var(--text-primary)]">${rec.name}</strong> for its alignment with <em>"${q.query}"</em>. DistilBERT sentiment extraction confirms a high density of positive aspect keywords for room hygiene (${cleanliness.toFixed(1)}/5), accessibility (${location.toFixed(1)}/5), and prompt front-desk response.
+                  Verified guest reviews praise <strong class="text-[var(--text-primary)]">${rec.name}</strong> for alignment with <em>"${q.query}"</em>. DistilBERT confirms high aspect density for room hygiene (${cleanliness.toFixed(1)}/5) and accessibility (${location.toFixed(1)}/5).
                 </p>
               </div>
             </div>
@@ -586,20 +711,30 @@
 
           panelUI.appendChild(card);
         });
+
+        // Trigger dynamic aspect bar fill animation
+        requestAnimationFrame(() => {
+          setTimeout(() => {
+            panelUI.querySelectorAll('.aspect-bar-fill').forEach(bar => {
+              const target = bar.getAttribute('data-target');
+              if (target) bar.style.width = target;
+            });
+          }, 35);
+        });
       }
 
-      // Tab Switchers
+      // Tab Switchers (UI vs JSON)
       if (tabUI && tabJSON && panelUI && panelJSON) {
         tabUI.addEventListener('click', () => {
-          tabUI.className = 'px-3 py-1.5 rounded-lg text-xs font-bold bg-[var(--bg-surface)] text-blue-600 dark:text-blue-400 shadow-xs transition-all cursor-pointer';
-          tabJSON.className = 'px-3 py-1.5 rounded-lg text-xs font-bold text-[var(--text-secondary)] hover:text-[var(--text-primary)] transition-all cursor-pointer';
+          tabUI.className = 'px-2.5 sm:px-3 py-1 sm:py-1.5 rounded-lg text-xs font-bold bg-[var(--bg-surface)] text-blue-600 dark:text-blue-400 shadow-xs transition-all cursor-pointer';
+          tabJSON.className = 'px-2.5 sm:px-3 py-1 sm:py-1.5 rounded-lg text-xs font-bold text-[var(--text-secondary)] hover:text-[var(--text-primary)] transition-all cursor-pointer';
           panelUI.classList.remove('hidden');
           panelJSON.classList.add('hidden');
         });
 
         tabJSON.addEventListener('click', () => {
-          tabJSON.className = 'px-3 py-1.5 rounded-lg text-xs font-bold bg-[var(--bg-surface)] text-blue-600 dark:text-blue-400 shadow-xs transition-all cursor-pointer';
-          tabUI.className = 'px-3 py-1.5 rounded-lg text-xs font-bold text-[var(--text-secondary)] hover:text-[var(--text-primary)] transition-all cursor-pointer';
+          tabJSON.className = 'px-2.5 sm:px-3 py-1 sm:py-1.5 rounded-lg text-xs font-bold bg-[var(--bg-surface)] text-blue-600 dark:text-blue-400 shadow-xs transition-all cursor-pointer';
+          tabUI.className = 'px-2.5 sm:px-3 py-1 sm:py-1.5 rounded-lg text-xs font-bold text-[var(--text-secondary)] hover:text-[var(--text-primary)] transition-all cursor-pointer';
           panelJSON.classList.remove('hidden');
           panelUI.classList.add('hidden');
         });
@@ -641,6 +776,9 @@
       renderCategories();
       renderQueryList();
       renderActiveDetails();
+
+      // Set initial mobile view to 'list'
+      updateMobileView('list');
     });
   </script>
 </body>

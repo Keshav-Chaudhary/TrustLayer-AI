@@ -36,9 +36,17 @@ function initTheme() {
 
   if (themeToggleBtn) {
     themeToggleBtn.addEventListener('click', () => {
+      document.documentElement.classList.add('theme-switching');
       const isDarkNow = document.documentElement.classList.toggle('dark');
       localStorage.setItem('trustlayer-theme', isDarkNow ? 'dark' : 'light');
       updateThemeIcon(isDarkNow);
+      
+      // Remove theme-switching in next animation frame to re-enable hover micro-interactions
+      window.requestAnimationFrame(() => {
+        window.requestAnimationFrame(() => {
+          document.documentElement.classList.remove('theme-switching');
+        });
+      });
     });
   }
 }
