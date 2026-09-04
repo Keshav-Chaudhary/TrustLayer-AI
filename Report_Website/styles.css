@@ -586,7 +586,8 @@ pre {
   box-shadow: 0 4px 10px rgba(0,0,0,0.3);
 }
 
-.figure-container:hover .figure-badge-overlay {
+.figure-container:hover .figure-badge-overlay,
+.figure-hero:hover .figure-badge-overlay {
   opacity: 1;
   transform: translateY(0);
 }

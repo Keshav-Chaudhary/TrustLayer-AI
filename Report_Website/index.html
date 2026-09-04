@@ -381,42 +381,30 @@
 +----------------------------------------------------------------------------------+</pre>
         </div>
 
-        <!-- Live Interactive Hotel Map Widget & Analytical Figures -->
-        <div class="my-6 space-y-4">
-          <!-- Main Hero Interactive Map Viewer -->
-          <div class="academic-card card-glow p-4 sm:p-5 rounded-2xl border border-slate-200/80 dark:border-slate-800/80 bg-white/80 dark:bg-slate-900/80 backdrop-blur-md shadow-lg">
-            <div class="flex items-center justify-between flex-wrap gap-2 pb-3 mb-3 border-b border-slate-100 dark:border-slate-800">
-              <div class="flex items-center gap-2.5">
-                <span class="flex h-3 w-3 relative">
-                  <span class="animate-ping absolute inline-flex h-full w-full rounded-full bg-emerald-400 opacity-75"></span>
-                  <span class="relative inline-flex rounded-full h-3 w-3 bg-emerald-500"></span>
-                </span>
-                <div>
-                  <h4 class="font-bold text-sm sm:text-base text-slate-900 dark:text-slate-100">Figure 1.1: Live Interactive Geographic Distribution of Delhi NCR Hotels</h4>
-                  <p class="text-[11px] sm:text-xs text-slate-500 dark:text-slate-400">1,661 harvested properties • OpenStreetMap tile raster • Pan, zoom, and hover for hotel details, rating, &amp; review density</p>
-                </div>
+        <!-- Live Interactive Hotel Map Preview Card & Analytical Figures -->
+        <div class="my-6 space-y-6">
+          <!-- Main Hero Interactive Map Standalone Launcher Card -->
+          <div class="academic-card card-glow p-5 sm:p-6 rounded-2xl">
+            <div class="flex items-center justify-between flex-wrap gap-3 pb-3 mb-4 border-b border-slate-100 dark:border-slate-800">
+              <div class="flex items-center gap-2 flex-wrap">
+                <span class="badge badge-go font-mono">1,661 PROPERTIES</span>
+                <span class="badge badge-tech font-mono">OpenStreetMap Raster</span>
+                <span class="badge badge-verified font-mono">Interactive Explorer</span>
               </div>
-
-              <!-- Map Toolbar Controls -->
-              <div class="flex items-center gap-2">
-                <span class="px-2.5 py-1 rounded-md bg-emerald-50 dark:bg-emerald-950/40 border border-emerald-200/80 dark:border-emerald-800/80 text-emerald-700 dark:text-emerald-300 text-xs font-mono font-semibold flex items-center gap-1.5">
-                  <span class="w-2 h-2 rounded-full bg-emerald-500"></span>
-                  <span>Live Interactive Mode</span>
-                </span>
-
-                <a href="figs/01_hotel_map_interactive.html" target="_blank" class="p-1.5 sm:px-3 sm:py-1 rounded-lg bg-slate-100 dark:bg-slate-800 hover:bg-blue-50 dark:hover:bg-blue-900/40 text-slate-600 dark:text-slate-300 hover:text-blue-600 border border-slate-200 dark:border-slate-700 text-xs font-medium transition-colors flex items-center gap-1" title="Open Map in New Tab / Fullscreen">
-                  <svg class="w-3.5 h-3.5" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M10 6H6a2 2 0 00-2 2v10a2 2 0 002 2h10a2 2 0 002-2v-4M14 4h6m0 0v6m0-6L10 14"></path></svg>
-                  <span>Fullscreen</span>
-                </a>
-              </div>
+              <a href="figs/01_hotel_map_interactive.html" target="_blank" class="px-3 py-1.5 rounded-lg bg-blue-50 dark:bg-blue-950/60 text-blue-600 dark:text-blue-400 hover:bg-blue-600 hover:text-white dark:hover:bg-blue-600 dark:hover:text-white border border-blue-200 dark:border-blue-800 text-xs font-semibold transition-all flex items-center gap-1.5 shadow-xs" title="Open Map in Standalone Fullscreen Explorer">
+                <span>Go to Fullscreen Map</span>
+                <svg class="w-3.5 h-3.5" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M10 6H6a2 2 0 00-2 2v10a2 2 0 002 2h10a2 2 0 002-2v-4M14 4h6m0 0v6m0-6L10 14"></path></svg>
+              </a>
             </div>
 
-            <!-- Viewport Container -->
-            <div class="relative w-full h-[540px] sm:h-[600px] rounded-xl overflow-hidden border border-slate-200 dark:border-slate-800 bg-slate-50 dark:bg-slate-950">
-              <iframe id="interactive-map-frame" src="figs/01_hotel_map_interactive.html" class="w-full h-full border-0" loading="eager" title="Interactive Geographic Distribution of Delhi NCR Hotels"></iframe>
-            </div>
-            <div class="figure-caption mt-2.5">
-              <strong>Figure 1.1:</strong> Live Interactive Spatial Distribution of 1,661 harvested Delhi NCR hotel properties rendered on top of OpenStreetMap basemap tiles with rating heatmap spectrum and review-scaled circle sizes.
+            <div class="figure-container my-2">
+              <div class="figure-badge-overlay">Click to open fullscreen interactive map</div>
+              <a href="figs/01_hotel_map_interactive.html" target="_blank" class="block">
+                <img src="figs/01_hotel_map.png" alt="Figure 1.1: Live Interactive Geographic Distribution of Delhi NCR Hotels" loading="lazy" decoding="async">
+              </a>
+              <div class="figure-caption">
+                <strong>Figure 1.1:</strong> Live Interactive Spatial Distribution of 1,661 harvested Delhi NCR hotel properties rendered on top of OpenStreetMap basemap tiles with star-rating heatmap spectrum and review-scaled circle sizes. Click the figure or the button above to launch the standalone interactive explorer.
+              </div>
             </div>
           </div>
 
@@ -424,8 +412,8 @@
           <div class="grid grid-cols-1 md:grid-cols-2 gap-4">
             <div class="figure-container">
               <div class="figure-badge-overlay">Click to enlarge</div>
-              <img src="figs/01_hotel_map.png" alt="Figure 1.2: Static coordinate scatter plot of hotels colored by star rating" loading="lazy" decoding="async">
-              <div class="figure-caption"><strong>Figure 1.2:</strong> Static coordinate scatter plot of hotels colored by star rating ($r=0.05$ with popularity).</div>
+              <img src="figs/01_top_areas.png" alt="Figure 1.2: Spatial concentration of hotels across Delhi NCR micro-markets" loading="lazy" decoding="async">
+              <div class="figure-caption"><strong>Figure 1.2:</strong> Spatial concentration of hotels across Delhi NCR micro-markets.</div>
             </div>
             <div class="figure-container">
               <div class="figure-badge-overlay">Click to enlarge</div>

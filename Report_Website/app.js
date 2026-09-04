@@ -190,7 +190,8 @@ function initLightbox() {
   if (!modal || !modalImg || !modalCaption) return;
 
   figureContainers.forEach((container) => {
-    container.addEventListener('click', () => {
+    container.addEventListener('click', (e) => {
+      if (e.target.closest('a')) return;
       const img = container.querySelector('img');
       const caption = container.querySelector('.figure-caption');
       if (img) {
