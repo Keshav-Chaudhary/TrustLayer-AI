@@ -1,9 +1,9 @@
 <div align="center">
 
-# 🏨 TrustLayer-AI
+# TrustLayer-AI
 ### Grounded, Explainable & Anti-Hallucinatory AI Hotel Recommendation Engine
 
-[![Live Website](https://img.shields.io/badge/🌐_Interactive_Report-Live_Website-0D9488?style=for-the-badge&logo=googlechrome&logoColor=white)](https://keshav-chaudhary.github.io/TrustLayer-AI/)
+[![Live Website](https://img.shields.io/badge/Interactive_Report-Live_Website-0D9488?style=for-the-badge&logo=googlechrome&logoColor=white)](https://keshav-chaudhary.github.io/TrustLayer-AI/)
 [![Python 3.10+](https://img.shields.io/badge/Python-3.10%2B-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
 [![FastAPI](https://img.shields.io/badge/FastAPI-0.115-009688?style=for-the-badge&logo=fastapi&logoColor=white)](https://fastapi.tiangolo.com/)
 [![Next.js 16](https://img.shields.io/badge/Next.js-16.2-000000?style=for-the-badge&logo=next.js&logoColor=white)](https://nextjs.org/)
@@ -15,32 +15,32 @@
   <b>A production-grade, preference-aware hotel recommender system eliminating AI hallucinations through 5-Dimensional Aspect-Based Sentiment Analysis (ABSA), Reciprocal Rank Fusion ($k=60$), sub-5ms analytical explanations, and strict citation grounding.</b>
 </p>
 
-[🌐 Live Report Website](https://keshav-chaudhary.github.io/TrustLayer-AI/) • [🖥️ System Previews](#-system-interface-previews) • [Quickstart](#-1-click-quickstart) • [Architecture Blueprint](#-master-system-architecture) • [Empirical Benchmarks](#-empirical-benchmarks--breakthroughs) • [CLI Runner](#-cli-runner--orchestrator) • [Documentation Hub](#-in-depth-documentation) • [License](#-license)
+[Live Report Website](https://keshav-chaudhary.github.io/TrustLayer-AI/) • [System Previews](#system-interface-previews) • [Quickstart](#1-click-quickstart) • [Architecture Blueprint](#master-system-architecture) • [Empirical Benchmarks](#empirical-benchmarks--breakthroughs) • [CLI Runner](#cli-runner--orchestrator) • [Documentation Hub](#in-depth-documentation) • [License](#license)
 
 </div>
 
 > [!TIP]
-> 🌐 **Interactive Research & Engineering Report Website**:
+> **Interactive Research & Engineering Report Website**:
 > Explore the complete, publication-grade interactive report with all 18 engineering stages, KaTeX mathematical proofs, diagnostic failure postmortems, and the complete 7-pillar system architecture blueprint:
-> 👉 **[Explore TrustLayer-AI Live Report Website](https://keshav-chaudhary.github.io/TrustLayer-AI/)** *(or view [`Report_Website/index.html`](Report_Website/index.html) locally)*
+> **[Explore TrustLayer-AI Live Report Website](https://keshav-chaudhary.github.io/TrustLayer-AI/)** *(or view [`Report_Website/index.html`](Report_Website/index.html) locally)*
 
 ---
 
-## 🌟 Why TrustLayer-AI?
+## Why TrustLayer-AI?
 
 Traditional travel platforms rely on opaque 5-star ratings and unconstrained Large Language Models (LLMs) that frequently **hallucinate amenities**—promising non-existent swimming pools, claiming noisy transit lodges are quiet sanctuaries, or masking recent hygiene collapses.
 
 **TrustLayer-AI** introduces a mathematically grounded **Verification & Explainability Architecture**:
 
-- 🛡️ **Anti-Hallucination Guardrails**: LLMs are strictly bounded to verified review chunks via real-time `GroundingValidator` interception ($96.7\%$ grounded response rate, $1.3\%$ residual hallucination rate).
-- 📊 **5D Aspect-Based Sentiment Analysis**: Sentence-level DistilBERT extraction across *Cleanliness, Service, Location, Value, and Staff*.
-- ⚡ **Sub-5ms Analytical Explainability**: Replaced intractable $1,540\text{ ms}$ SHAP sampling with deterministic feature-matching delivering visual aspect radars and natural language justifications in **$3.2\text{ ms}$** ($481\times$ faster).
-- 🔀 **Reciprocal Rank Fusion ($k=60$)**: Resolved linear score calibration collapse ($\sigma^2_{\text{CF}}=0.85$ vs $\sigma^2_{\text{CB}}=0.008$), elevating hybrid ranking from $\text{NDCG@10} = 0.006$ to **$\mathbf{0.128}$** ($64.8\%$ catalog coverage).
-- 🗄️ **Dual ACID Storage Engine**: Operates out of the box on **CSV + ChromaDB** with zero external dependencies, or scales to **PostgreSQL 17.6 + pgvector** ($1.0000$ cosine parity, $0$ orphan records).
+- **Anti-Hallucination Guardrails**: LLMs are strictly bounded to verified review chunks via real-time `GroundingValidator` interception ($96.7\%$ grounded response rate, $1.3\%$ residual hallucination rate).
+- **5D Aspect-Based Sentiment Analysis**: Sentence-level DistilBERT extraction across *Cleanliness, Service, Location, Value, and Staff*.
+- **Sub-5ms Analytical Explainability**: Replaced intractable $1,540\text{ ms}$ SHAP sampling with deterministic feature-matching delivering visual aspect radars and natural language justifications in **$3.2\text{ ms}$** ($481\times$ faster).
+- **Reciprocal Rank Fusion ($k=60$)**: Resolved linear score calibration collapse ($\sigma^2_{\text{CF}}=0.85$ vs $\sigma^2_{\text{CB}}=0.008$), elevating hybrid ranking from $\text{NDCG@10} = 0.006$ to **$\mathbf{0.128}$** ($64.8\%$ catalog coverage).
+- **Dual ACID Storage Engine**: Operates out of the box on **CSV + ChromaDB** with zero external dependencies, or scales to **PostgreSQL 17.6 + pgvector** ($1.0000$ cosine parity, $0$ orphan records).
 
 ---
 
-## 📊 Empirical Benchmarks & Breakthroughs
+## Empirical Benchmarks & Breakthroughs
 
 | Benchmark Metric | Baseline / Legacy Approach | TrustLayer-AI Engine | Empirical Gain / Outcome |
 |---|---|---|---|
@@ -54,7 +54,7 @@ Traditional travel platforms rely on opaque 5-star ratings and unconstrained Lar
 
 ---
 
-## 🏗️ Master System Architecture
+## Master System Architecture
 
 <div align="center">
   <img src="Report_Website/figs/Complete_Arch.png" alt="TrustLayer-AI Master System Architecture Blueprint" width="100%" style="border-radius: 18px; box-shadow: 0 12px 36px rgba(0, 0, 0, 0.25);" />
@@ -124,12 +124,12 @@ graph TD
 
 ---
 
-## 🖥️ System Interface Previews
+## System Interface Previews
 
 High-resolution desktop captures across all primary Next.js user interfaces, conversational RAG assistants, and detailed 5D aspect evaluation screens.
 
 <details open>
-<summary><b>📷 Click to Expand / Collapse Previews Gallery</b></summary>
+<summary><b>Click to Expand / Collapse Previews Gallery</b></summary>
 <br/>
 
 #### 1. Landing & Search Portal (`/`)
@@ -180,7 +180,7 @@ High-resolution desktop captures across all primary Next.js user interfaces, con
 
 ---
 
-## 🚀 1-Click Quickstart
+## 1-Click Quickstart
 
 TrustLayer-AI includes a unified CLI orchestrator that validates your environment, installs missing dependencies, and boots both the Backend and Frontend concurrently.
 
@@ -212,28 +212,28 @@ cp .env.example .env
   ```
 
 ### 4. Open in Browser
-- 🌐 **Web User Interface**: [http://localhost:3000](http://localhost:3000)
-- 📖 **Interactive API Documentation (Swagger)**: [http://127.0.0.1:8000/docs](http://127.0.0.1:8000/docs)
-- 🔌 **Alternative ReDoc View**: [http://127.0.0.1:8000/redoc](http://127.0.0.1:8000/redoc)
-- 📊 **Interactive Research Report**: [http://localhost:8085](http://localhost:8085) *(or [Online Demo](https://keshav-chaudhary.github.io/TrustLayer-AI/))*
+- **Web User Interface**: [http://localhost:3000](http://localhost:3000)
+- **Interactive API Documentation (Swagger)**: [http://127.0.0.1:8000/docs](http://127.0.0.1:8000/docs)
+- **Alternative ReDoc View**: [http://127.0.0.1:8000/redoc](http://127.0.0.1:8000/redoc)
+- **Interactive Research Report**: [http://localhost:8085](http://localhost:8085) *(or [Online Demo](https://keshav-chaudhary.github.io/TrustLayer-AI/))*
 
 ---
 
-## 🛠️ CLI Runner & Orchestrator
+## CLI Runner & Orchestrator
 
 The master orchestrator (`run.py` & `scripts/orchestrator.py`) provides unified development commands with clean `SIGINT` signal interception:
 
 ```bash
-# 🚀 Full Stack Services
+# Full Stack Services
 python run.py                   # Boot Backend (:8000) and Next.js Frontend (:3000) concurrently
 python run.py --backend         # Boot FastAPI Backend API only
 python run.py --frontend        # Boot Next.js Frontend only
 
-# 🔍 Diagnostics & Quality Assurance
+# Diagnostics & Quality Assurance
 python run.py --doctor          # Execute environment health check & dependency audit
 python run.py --test            # Run 109/109 automated Pytest test suite
 
-# 🔄 ETL & Vector Pipelines
+# ETL & Vector Pipelines
 python run.py --build-vectors   # Generate 384-d semantic embeddings into vector store
 python run.py --pipeline        # Run 9-stage repeatable ingestion pipeline
 python run.py --migrate-pg      # Execute PostgreSQL 17 + pgvector migration
@@ -241,7 +241,7 @@ python run.py --migrate-pg      # Execute PostgreSQL 17 + pgvector migration
 
 ---
 
-## 🐳 Docker Deployment
+## Docker Deployment
 
 To launch the multi-container stack via Docker Compose:
 
@@ -256,7 +256,7 @@ Services exposed:
 
 ---
 
-## 📂 Repository Structure
+## Repository Structure
 
 ```
 ├── app/                          # FastAPI Clean Architecture Backend
@@ -294,17 +294,17 @@ Services exposed:
 
 ---
 
-## 📚 In-Depth Documentation
+## In-Depth Documentation
 
-- 🌐 [**Interactive Master Project Record & Website**](https://keshav-chaudhary.github.io/TrustLayer-AI/)
-- 🏛️ [**Chapter 11: Complete System Architecture & Visual Blueprint**](https://keshav-chaudhary.github.io/TrustLayer-AI/#ch-complete-arch)
-- 📖 [**System Architecture & End-to-End Data Flow**](docs/SYSTEM_ARCHITECTURE_AND_FLOW.md)
-- 🚀 [**Getting Started & Fork Guide**](docs/GETTING_STARTED.md)
-- 🔌 [**API Reference Manual**](docs/API_REFERENCE.md)
-- 📄 [**Master Project Record (Markdown)**](MASTER_TRUSTLAYER_AI_COMPLETE_PROJECT_RECORD.md)
+- [**Interactive Master Project Record & Website**](https://keshav-chaudhary.github.io/TrustLayer-AI/)
+- [**Chapter 11: Complete System Architecture & Visual Blueprint**](https://keshav-chaudhary.github.io/TrustLayer-AI/#ch-complete-arch)
+- [**System Architecture & End-to-End Data Flow**](docs/SYSTEM_ARCHITECTURE_AND_FLOW.md)
+- [**Getting Started & Fork Guide**](docs/GETTING_STARTED.md)
+- [**API Reference Manual**](docs/API_REFERENCE.md)
+- [**Master Project Record (Markdown)**](MASTER_TRUSTLAYER_AI_COMPLETE_PROJECT_RECORD.md)
 
 ---
 
-## 📄 License
+## License
 
 This project is licensed under the **[MIT License](LICENSE)**.
